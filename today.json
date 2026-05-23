@@ -1,0 +1,25 @@
+{
+  "session_date": "2026-05-26",
+  "line_in_sand": 7458,
+  "bull_levels": [
+    7488,
+    7496,
+    7515,
+    7530,
+    7555,
+    7578
+  ],
+  "bear_levels": [
+    7465,
+    7458,
+    7438,
+    7408,
+    7377,
+    7355,
+    7336
+  ],
+  "regime_hint": "C4",
+  "event_times": [],
+  "summary": "ES broke out of its week-long 7365\u20137458 range on Friday; bulls want to hold 7458\u20137465 on any backtest and push toward 7515/7530/7555+, while a close back below 7458 opens a return into the prior range with key Failed Breakdown levels at 7438 and 7408.",
+  "fetched_at": "2026-05-23T18:04:15.589641+00:00"
+}
