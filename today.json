@@ -281,6 +281,6 @@
   "regime_hint": "C4",
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish overall, holding a runner from last week's 7415 Failed Breakdown. He expects ES to pull back and test the former resistance zone (7458-7465) then continue higher toward 7515, 7530, 7555+. He will wait for sharp dips into key supports and only enter on Failed Breakdowns. Key pivot is 7458: above it bulls stay in control and the rally continues; below it ES risks falling back into last week's range.",
-  "fetched_at": "2026-05-24T21:52:42.570925+00:00"
+  "notes": "Monday is a holiday (NYSE closed, futures open half day). ES broke out of its week-long range on Friday, closing near highs around 7507+. Trader is holding a 10% long runner from the 7415 entry. He leans bullish and expects ES to pull back to the 7458-7465 breakout zone, then continue higher toward 7515, 7530, 7555. The daily pivot is 7458: above it, bulls are in control targeting new highs; below it, ES likely falls back into the prior week's range.",
+  "fetched_at": "2026-05-24T21:52:57.092501+00:00"
 }
