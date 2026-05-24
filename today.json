@@ -1,285 +1,286 @@
 {
   "session_date": "2026-05-26",
-  "daily_pivot": 7458.0,
-  "regime_hint": "C4",
-  "significant_lows": [
-    7479.0,
-    7465.0,
-    7438.0,
-    7410.0,
-    7377.0,
-    7355.0
-  ],
+  "daily_pivot": 7458,
   "bull_levels": [
     {
-      "price": 7489.0,
+      "price": 7489,
       "major": false
     },
     {
-      "price": 7496.0,
+      "price": 7496,
       "major": false
     },
     {
-      "price": 7515.0,
+      "price": 7515,
       "major": true
     },
     {
-      "price": 7520.0,
+      "price": 7520,
       "major": false
     },
     {
-      "price": 7530.0,
+      "price": 7530,
       "major": true
     },
     {
-      "price": 7540.0,
+      "price": 7540,
       "major": false
     },
     {
-      "price": 7555.0,
+      "price": 7555,
       "major": true
     },
     {
-      "price": 7569.0,
+      "price": 7569,
       "major": false
     },
     {
-      "price": 7578.0,
+      "price": 7578,
       "major": true
     },
     {
-      "price": 7591.0,
+      "price": 7591,
       "major": false
     },
     {
-      "price": 7596.0,
+      "price": 7596,
       "major": false
     },
     {
-      "price": 7608.0,
+      "price": 7608,
       "major": true
     },
     {
-      "price": 7614.0,
+      "price": 7614,
       "major": false
     },
     {
-      "price": 7622.0,
+      "price": 7622,
       "major": true
     },
     {
-      "price": 7629.0,
+      "price": 7629,
       "major": false
     },
     {
-      "price": 7634.0,
+      "price": 7634,
       "major": true
     },
     {
-      "price": 7641.0,
+      "price": 7641,
       "major": false
     },
     {
-      "price": 7648.0,
+      "price": 7648,
       "major": true
     },
     {
-      "price": 7652.0,
+      "price": 7652,
       "major": false
     },
     {
-      "price": 7664.0,
+      "price": 7664,
       "major": true
     },
     {
-      "price": 7670.0,
+      "price": 7670,
       "major": false
     },
     {
-      "price": 7677.0,
+      "price": 7677,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7496.0,
+      "price": 7496,
       "major": false
     },
     {
-      "price": 7488.0,
+      "price": 7488,
       "major": true
     },
     {
-      "price": 7479.0,
+      "price": 7479,
       "major": true
     },
     {
-      "price": 7472.0,
+      "price": 7472,
       "major": false
     },
     {
-      "price": 7465.0,
+      "price": 7465,
       "major": true
     },
     {
-      "price": 7458.0,
+      "price": 7458,
       "major": true
     },
     {
-      "price": 7451.0,
+      "price": 7451,
       "major": false
     },
     {
-      "price": 7438.0,
+      "price": 7438,
       "major": true
     },
     {
-      "price": 7432.0,
+      "price": 7432,
       "major": false
     },
     {
-      "price": 7427.0,
+      "price": 7427,
       "major": false
     },
     {
-      "price": 7410.0,
+      "price": 7410,
       "major": true
     },
     {
-      "price": 7399.0,
+      "price": 7399,
       "major": false
     },
     {
-      "price": 7390.0,
+      "price": 7390,
       "major": true
     },
     {
-      "price": 7383.0,
+      "price": 7383,
       "major": false
     },
     {
-      "price": 7377.0,
+      "price": 7377,
       "major": true
     },
     {
-      "price": 7370.0,
+      "price": 7370,
       "major": false
     },
     {
-      "price": 7365.0,
+      "price": 7365,
       "major": true
     },
     {
-      "price": 7356.0,
+      "price": 7356,
       "major": false
     },
     {
-      "price": 7350.0,
+      "price": 7350,
       "major": false
     },
     {
-      "price": 7345.0,
+      "price": 7345,
       "major": true
     },
     {
-      "price": 7336.0,
+      "price": 7336,
       "major": false
     },
     {
-      "price": 7326.0,
+      "price": 7326,
       "major": false
     },
     {
-      "price": 7319.0,
+      "price": 7319,
       "major": false
     },
     {
-      "price": 7312.0,
+      "price": 7312,
       "major": true
     },
     {
-      "price": 7305.0,
+      "price": 7305,
       "major": false
     },
     {
-      "price": 7301.0,
+      "price": 7301,
       "major": false
     },
     {
-      "price": 7295.0,
+      "price": 7295,
       "major": true
     },
     {
-      "price": 7289.0,
+      "price": 7289,
       "major": false
     },
     {
-      "price": 7279.0,
+      "price": 7279,
       "major": false
     },
     {
-      "price": 7269.0,
+      "price": 7269,
       "major": true
     },
     {
-      "price": 7263.0,
+      "price": 7263,
       "major": false
     },
     {
-      "price": 7247.0,
+      "price": 7247,
       "major": true
     },
     {
-      "price": 7235.0,
+      "price": 7235,
       "major": true
     },
     {
-      "price": 7225.0,
+      "price": 7225,
       "major": false
     },
     {
-      "price": 7212.0,
+      "price": 7212,
       "major": true
     },
     {
-      "price": 7200.0,
+      "price": 7200,
       "major": false
     },
     {
-      "price": 7187.0,
+      "price": 7187,
       "major": false
     },
     {
-      "price": 7182.0,
+      "price": 7182,
       "major": false
     },
     {
-      "price": 7172.0,
+      "price": 7172,
       "major": false
     },
     {
-      "price": 7162.5,
+      "price": 7163,
       "major": true
     },
     {
-      "price": 7153.0,
+      "price": 7153,
       "major": false
     },
     {
-      "price": 7146.0,
+      "price": 7146,
       "major": false
     },
     {
-      "price": 7135.0,
+      "price": 7135,
       "major": true
     },
     {
-      "price": 7122.0,
+      "price": 7122,
       "major": true
     }
   ],
+  "significant_lows": [
+    7479,
+    7465,
+    7438,
+    7410,
+    7377,
+    7355
+  ],
+  "regime_hint": "C4",
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is holding a 10% long runner from the prior 7415 Failed Breakdown entry. He leans bullish and expects ES to backtest the broken range resistance (7458-7465 zone) then push toward 7515, 7530, 7555+. The daily pivot is 7458: above it bulls remain in control and the rally toward all-time highs continues; below it ES likely falls back into last week's range. Monday is a holiday with limited futures hours.",
-  "fetched_at": "2026-05-24T23:08:29.083696+00:00"
+  "notes": "ES broke out of its week-long 7365-7458 range and closed near highs around 7507; bulls now defend 7458-65 on any backtest and target 7515/7530/7555 toward ATHs, with FBD entries on flushes of 7479, 7438, or 7410 shelves.",
+  "fetched_at": "2026-05-24T23:10:33.591814+00:00",
+  "source_url": "https://tradecompanion.substack.com/p/are-all-time-highs-coming-next-week"
 }
