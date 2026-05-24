@@ -281,6 +281,6 @@
   "regime_hint": "C4",
   "event_times": [],
   "event_day": false,
-  "notes": "Monday is a holiday (NYSE closed, futures open half day). ES broke out of its week-long range on Friday, closing near highs around 7507+. Trader is holding a 10% long runner from the 7415 entry. He leans bullish and expects ES to pull back to the 7458-7465 breakout zone, then continue higher toward 7515, 7530, 7555. The daily pivot is 7458: above it, bulls are in control targeting new highs; below it, ES likely falls back into the prior week's range.",
-  "fetched_at": "2026-05-24T21:52:57.092501+00:00"
+  "notes": "Trader is bullish but not chasing: he already broke out of the week-long 7365-7458 range and is holding a runner from last week's 7415 long. For Tuesday he wants ES to pull back and hold 7458-7465 (the old resistance, now support), then continue higher toward 7515, 7530, 7555. The pivot is 7458: above it bulls are in control targeting ATHs; below it ES likely slides back into the prior range and he steps aside waiting for a failed-breakdown entry lower.",
+  "fetched_at": "2026-05-24T22:32:59.973529+00:00"
 }
