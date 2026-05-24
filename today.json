@@ -1,5 +1,5 @@
 {
-  "session_date": "2026-05-27",
+  "session_date": "2026-05-26",
   "updated": "2026-05-24",
   "line_in_sand": 7458,
   "bull_levels": [
@@ -37,6 +37,6 @@
   ],
   "regime_hint": "C4",
   "event_times": [],
-  "summary": "After breaking out of a week-long range, the trader holds a long runner and leans bullish. He expects ES to backtest the former resistance zone around 7458-7465 then push higher toward 7515, 7530, and 7555. Line in the sand: 7458. Above it bulls are in control and the breakout holds; below it ES likely falls back into the prior range with no clear upside catalyst.",
-  "fetched_at": "2026-05-24T21:44:29.332484+00:00"
+  "summary": "Trader leans bullish after ES broke out of its week-long range (7365\u20137458). He expects a backtest of the 7458\u20137465 zone before continuing higher toward 7515, 7530, and 7555. He is holding a runner from a prior long and will wait for a Failed Breakdown setup before adding. Line in the sand: 7458. Above it bulls are in control and the breakout holds; below it ES likely falls back into the old range.",
+  "fetched_at": "2026-05-24T21:45:17.371728+00:00"
 }
