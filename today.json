@@ -37,6 +37,6 @@
   ],
   "regime_hint": "C4",
   "event_times": [],
-  "summary": "Trader leans bullish after ES broke out of its week-long range. He expects a possible backtest of the 7458-7465 zone before continuing higher toward 7515, 7530, and 7555. He is holding a runner from a prior long and will wait for Failed Breakdown setups on any dips rather than chasing. Line in the sand: 7458. Above it bulls remain in control and the breakout holds; below it ES likely drops back into the prior week's range.",
-  "fetched_at": "2026-05-24T12:34:51.869038+00:00"
+  "summary": "Trader leans bullish after ES broke out of its week-long range. He expects a backtest of the 7458-7465 zone before resuming higher toward 7515, 7530, and 7555. He will not chase; he waits for a sharp selloff into a support zone, then enters only on a Failed Breakdown trigger. Line in the sand: 7458. Above it bulls remain in control and ATHs are possible; below it ES likely falls back into the prior week's range.",
+  "fetched_at": "2026-05-24T12:35:58.986755+00:00"
 }
