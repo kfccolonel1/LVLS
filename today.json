@@ -1,7 +1,15 @@
 {
   "session_date": "2026-05-26",
-  "updated": "2026-05-24",
   "daily_pivot": 7458.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7479.0,
+    7465.0,
+    7438.0,
+    7410.0,
+    7377.0,
+    7355.0
+  ],
   "bull_levels": [
     {
       "price": 7489.0,
@@ -270,17 +278,8 @@
       "major": true
     }
   ],
-  "significant_lows": [
-    7479.0,
-    7469.0,
-    7438.0,
-    7410.0,
-    7377.0,
-    7355.0
-  ],
-  "regime_hint": "C4",
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish but not chasing: he already broke out of the week-long 7365-7458 range and is holding a runner from last week's 7415 long. For Tuesday he wants ES to pull back and hold 7458-7465 (the old resistance, now support), then continue higher toward 7515, 7530, 7555. The pivot is 7458: above it bulls are in control targeting ATHs; below it ES likely slides back into the prior range and he steps aside waiting for a failed-breakdown entry lower.",
-  "fetched_at": "2026-05-24T22:32:59.973529+00:00"
+  "notes": "Trader is holding a 10% long runner from the prior 7415 Failed Breakdown entry. He leans bullish and expects ES to backtest the broken range resistance (7458-7465 zone) then push toward 7515, 7530, 7555+. The daily pivot is 7458: above it bulls remain in control and the rally toward all-time highs continues; below it ES likely falls back into last week's range. Monday is a holiday with limited futures hours.",
+  "fetched_at": "2026-05-24T23:08:29.083696+00:00"
 }
