@@ -4,7 +4,7 @@
   "regime_hint": "C4",
   "significant_lows": [
     7479.0,
-    7469.0,
+    7465.0,
     7438.0,
     7410.0,
     7377.0,
@@ -132,6 +132,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish but patient after Friday's breakout above the week-long 7365-7458 range. He holds a 10% long runner and is waiting for a pullback to buy dips, not chasing up here. Key pivot is 7458: above it bulls stay in control and targets are 7515, 7530, 7555+; a drop back below 7458 signals a return into the prior range. Monday is a holiday (NYSE closed, futures half-day).",
-  "fetched_at": "2026-05-24T23:52:40.826115+00:00"
+  "notes": "Trader holds a runner from the 7415 long and is waiting for a pullback to find the next entry. He leans bullish overall, expecting ES to backtest the broken range (7458-7465) then push higher toward 7515, 7530, and 7555. The key pivot is 7458: above it bulls stay in control and targets extend to ATH territory; below it ES likely falls back into the prior week's range. No new longs are chased at current highs.",
+  "fetched_at": "2026-05-25T05:00:19.344876+00:00"
 }
