@@ -132,6 +132,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader holds a runner from the 7415 long and is waiting for a pullback to find the next entry. He leans bullish overall, expecting ES to backtest the broken range (7458-7465) then push higher toward 7515, 7530, and 7555. The key pivot is 7458: above it bulls stay in control and targets extend to ATH territory; below it ES likely falls back into the prior week's range. No new longs are chased at current highs.",
-  "fetched_at": "2026-05-25T05:00:19.344876+00:00"
+  "notes": "Trader is bullish but not chasing \u2014 he expects a backtest of the broken resistance zone (7458-7465) before ES continues higher toward 7515, 7530, 7555+. He will wait for sharp selloffs into key supports and only enter on Failed Breakdowns (flush and recovery of a significant low). Daily pivot is 7458: above it bulls are in control targeting new highs; below it ES likely falls back into last week's range. Monday is a holiday; plan applies to Tuesday.",
+  "fetched_at": "2026-05-26T05:00:19.449091+00:00"
 }
