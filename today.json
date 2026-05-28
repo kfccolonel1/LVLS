@@ -5,6 +5,7 @@
   "significant_lows": [
     7516,
     7485,
+    7458,
     7438,
     7415,
     7410
@@ -123,6 +124,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES is stuck in a range between 7516 (bottom) and 7565 (top), with 7530 as the key pivot inside that range. The trader leans bullish: he expects one more dip to test support, then a breakout toward 7579, 7598, and 7617. He will only buy when price sharply drops into a support level and then recovers it (a Failed Breakdown). Above 7530 bulls are in control; below 7516 the range has broken and a deeper pullback is possible.",
-  "fetched_at": "2026-05-28T05:00:19.972482+00:00"
+  "notes": "Trader sees ES stuck in a range between 7516 and 7565, with 7530 as the key middle pivot. He leans bullish: expects one more dip (possibly a trap below 7516), then a breakout higher toward 7579, 7598, and 7617. Above 7530 bulls are in control; below 7516 the range breaks down and selling pressure increases. He will wait for a flush-and-recover setup before buying, not chase.",
+  "fetched_at": "2026-05-28T10:38:28.405245+00:00"
 }
