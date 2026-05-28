@@ -107,7 +107,21 @@
         7485
       ],
       "notes": "Intraday plan: support at 7516, resistances 7530/7549/7565; if 7516 fails, watch 7502 and 7485 for traps"
+    },
+    {
+      "tweet_id": "2059984251475358108",
+      "tweet_created_at": "2026-05-28T13:04:52.000Z",
+      "tweet_text": "Excellent follow through to start today in #ES_F. The range would be 7516-7565 as posted. Ranges Failed Breakdown then rally (Charting 101). I was looking for the trap of 7516, we got it last eve. Today's target slate was 7530 (hit), 7549, 7565. Then, we trend hard.\n\nSell&lt;7516 https://t.co/PNEUml89bu",
+      "added_bull_levels": [
+        7530,
+        7549,
+        7565
+      ],
+      "added_bear_levels": [
+        7516
+      ],
+      "notes": "Posted intraday range 7516-7565 with targets at 7530, 7549, 7565; sell signal below 7516."
     }
   ],
-  "fetched_at": "2026-05-28T12:02:36.568970+00:00"
+  "fetched_at": "2026-05-28T13:12:44.055131+00:00"
 }
