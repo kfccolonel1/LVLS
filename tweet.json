@@ -91,7 +91,23 @@
       ],
       "added_bear_levels": [],
       "notes": "Trader naming 7485 as a downside target if range expands from current 7502 level."
+    },
+    {
+      "tweet_id": "2059966640821854413",
+      "tweet_created_at": "2026-05-28T11:54:54.000Z",
+      "tweet_text": "Yesterday #ES_F was rangebound. The range was 7516-7565 as we setup trend. Per 4pm newsletter I was looking for traps below the range. Around midnight, we trapped, recovered, rallied +20\n\nPlan today: 7516=support. 7530, 7549, 7565 above. 7516 fails, dip 7502, 7485 (watch traps) https://t.co/x7HvmCzRJW",
+      "added_bull_levels": [
+        7516,
+        7530,
+        7549,
+        7565
+      ],
+      "added_bear_levels": [
+        7502,
+        7485
+      ],
+      "notes": "Intraday plan: support at 7516, resistances 7530/7549/7565; if 7516 fails, watch 7502 and 7485 for traps"
     }
   ],
-  "fetched_at": "2026-05-28T01:17:39.371685+00:00"
+  "fetched_at": "2026-05-28T12:02:36.568970+00:00"
 }
