@@ -121,7 +121,19 @@
         7516
       ],
       "notes": "Posted intraday range 7516-7565 with targets at 7530, 7549, 7565; sell signal below 7516."
+    },
+    {
+      "tweet_id": "2060002171110752526",
+      "tweet_created_at": "2026-05-28T14:16:05.000Z",
+      "tweet_text": "There's 7565 final target hit. Easy day in #ES_F. It was all given in advance: The 7516-7565 was the range. Ranges trap. We trapped 7516 overnight, got long this morning per newsletter. Targets given free here 8am were 7530, 7549, 7565. Ride runner\n\n7570, 7579 (major), 7598 bonus https://t.co/iuSpr04FiY",
+      "added_bull_levels": [
+        7570,
+        7579,
+        7598
+      ],
+      "added_bear_levels": [],
+      "notes": "New upside targets named: 7570, 7579 (major resistance), 7598 bonus level after 7565 target hit."
     }
   ],
-  "fetched_at": "2026-05-28T13:12:44.055131+00:00"
+  "fetched_at": "2026-05-28T14:22:52.762674+00:00"
 }
