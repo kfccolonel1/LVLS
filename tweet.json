@@ -1,11 +1,12 @@
 {
   "window_hours": 24,
-  "fetched_at_utc": "2026-05-28T20:12:54.797532+00:00",
-  "fetched_at_est": "2026-05-28T16:12:54.797537-04:00",
+  "fetched_at_utc": "2026-05-28T20:15:05.865024+00:00",
+  "fetched_at_est": "2026-05-28T16:15:05.865025-04:00",
   "updates": [
     {
       "tweet_id": "2059966640821854413",
-      "tweet_created_at": "2026-05-28T11:54:54.000Z",
+      "timestamp_utc": "2026-05-28T11:54:54.000Z",
+      "timestamp_est": "2026-05-28T07:54:54-04:00",
       "tweet_text": "Yesterday #ES_F was rangebound. The range was 7516-7565 as we setup trend. Per 4pm newsletter I was looking for traps below the range. Around midnight, we trapped, recovered, rallied +20\n\nPlan today: 7516=support. 7530, 7549, 7565 above. 7516 fails, dip 7502, 7485 (watch traps) https://t.co/x7HvmCzRJW",
       "added_bull_levels": [
         7516,
@@ -21,7 +22,8 @@
     },
     {
       "tweet_id": "2059984251475358108",
-      "tweet_created_at": "2026-05-28T13:04:52.000Z",
+      "timestamp_utc": "2026-05-28T13:04:52.000Z",
+      "timestamp_est": "2026-05-28T09:04:52-04:00",
       "tweet_text": "Excellent follow through to start today in #ES_F. The range would be 7516-7565 as posted. Ranges Failed Breakdown then rally (Charting 101). I was looking for the trap of 7516, we got it last eve. Today's target slate was 7530 (hit), 7549, 7565. Then, we trend hard.\n\nSell&lt;7516 https://t.co/PNEUml89bu",
       "added_bull_levels": [
         7530,
@@ -35,7 +37,8 @@
     },
     {
       "tweet_id": "2060002171110752526",
-      "tweet_created_at": "2026-05-28T14:16:05.000Z",
+      "timestamp_utc": "2026-05-28T14:16:05.000Z",
+      "timestamp_est": "2026-05-28T10:16:05-04:00",
       "tweet_text": "There's 7565 final target hit. Easy day in #ES_F. It was all given in advance: The 7516-7565 was the range. Ranges trap. We trapped 7516 overnight, got long this morning per newsletter. Targets given free here 8am were 7530, 7549, 7565. Ride runner\n\n7570, 7579 (major), 7598 bonus https://t.co/iuSpr04FiY",
       "added_bull_levels": [
         7570,
@@ -47,7 +50,8 @@
     },
     {
       "tweet_id": "2060014121731436890",
-      "tweet_created_at": "2026-05-28T15:03:34.000Z",
+      "timestamp_utc": "2026-05-28T15:03:34.000Z",
+      "timestamp_est": "2026-05-28T11:03:34-04:00",
       "tweet_text": "Today played out as perfect as a day can. The long was given explictly in yesterdays newsletter: The failed breakdown of 7516 (entry was still active at 8am today). Target's given free at 8am were 7530, 7549, 7565. 7516-7565=flag\n\nNow, ride runner. 7570, 7579 (major), 7598 bonus https://t.co/tQbWsw3qip",
       "added_bull_levels": [
         7570,
@@ -59,7 +63,8 @@
     },
     {
       "tweet_id": "2060065422364336619",
-      "tweet_created_at": "2026-05-28T18:27:25.000Z",
+      "timestamp_utc": "2026-05-28T18:27:25.000Z",
+      "timestamp_est": "2026-05-28T14:27:25-04:00",
       "tweet_text": "There's 7579 hit in #ES_F. This was all laid out explicitly in last nights newsletter. We built a nice range 7516-7565. Ranges trap bears (Failed Breakdown), then breakout. 7516 trap was our trigger. Today's targets were 7565 (hit), then 7579 bonus\n\n7598 next, lots above that https://t.co/tQbWsw3qip",
       "added_bull_levels": [
         7598
