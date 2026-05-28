@@ -1,97 +1,8 @@
 {
-  "session_date": "2026-05-28",
+  "window_hours": 24,
+  "fetched_at_utc": "2026-05-28T20:12:54.797532+00:00",
+  "fetched_at_est": "2026-05-28T16:12:54.797537-04:00",
   "updates": [
-    {
-      "tweet_id": "2059274391561617801",
-      "tweet_created_at": "2026-05-26T14:04:09.000Z",
-      "tweet_text": "Still no volatility in #ES_F - don't overtrade. Runners still working from the 7415 Failed Breakdown Thursday. I posted at 913am to watch traps of 7530. We trapped it just after by 5 points, popped +15. Lock in partial gains here since there is no vol\n\n7555, 7569, 7578 above https://t.co/ncJjgurFyI",
-      "added_bull_levels": [
-        7555,
-        7569,
-        7578
-      ],
-      "added_bear_levels": [],
-      "notes": "New upside targets identified: 7555, 7569, 7578. References prior 7415 level and 7530 trap but those aren't new."
-    },
-    {
-      "tweet_id": "2059286510663307598",
-      "tweet_created_at": "2026-05-26T14:52:18.000Z",
-      "tweet_text": "While volatility may be very low today, we are still getting trades in #ES_F. I posted at 9:13Am to watch for traps of 7530. At 930AM we flushed it by 5 points, recovered. 7555 was 1st target up, hit. *Protect gains here*\n\n7569, 7578 if ES wants more. 7530, 7515=supports still https://t.co/ee9UurA83j",
-      "added_bull_levels": [
-        7555,
-        7569,
-        7578
-      ],
-      "added_bear_levels": [
-        7530,
-        7515
-      ],
-      "notes": "Trader identifies upside targets (7555 hit, 7569/7578 if higher) and support levels (7530, 7515) after morning trap at 7530."
-    },
-    {
-      "tweet_id": "2059604903350141391",
-      "tweet_created_at": "2026-05-27T11:57:29.000Z",
-      "tweet_text": "The long keeps paying in #ES_F. Our original trigger was the 7415 reclaim Thur. As posted at 3:18PM, 7530 reclaim was the next trigger up. We triggered after. Targets given were 7548, 7566. Both hit\n\nPlan: Wait for next bear trap.7530, 7515 (watch traps=supports). 66, 73, 78 next https://t.co/7nfgjhM5gN",
-      "added_bull_levels": [
-        7548,
-        7566,
-        7573,
-        7578
-      ],
-      "added_bear_levels": [
-        7530,
-        7515
-      ],
-      "notes": "Targets hit at 7548 and 7566. Planning next levels: 7566, 7573, 7578 upside; 7530, 7515 as support traps."
-    },
-    {
-      "tweet_id": "2059607012946645301",
-      "tweet_created_at": "2026-05-27T12:05:52.000Z",
-      "tweet_text": "Also note: That 7566 target was given in newsletter which is the exact high now. We want to begin constructing that new range now with 7566 resistance, which will in turn setup the next 200-400 point trend leg when price is ready. No change from newsletter https://t.co/xoJmsgPU5K",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7566
-      ],
-      "notes": "7566 established as resistance level; preparing to construct new range for next trend leg."
-    },
-    {
-      "tweet_id": "2059637423785615638",
-      "tweet_created_at": "2026-05-27T14:06:42.000Z",
-      "tweet_text": "The long keeps paying in #ES_F &amp; we are now building a new flag mostly 7566-7515, with 7530 a key pivot in the middle. 7530 reclaim was long trigger given 3:18PM yesterday, we ran to 7566. We just trapped 7530 again.\n\n7549, 7560, 7566 upsides (then breakout). 7530, 7515=supports https://t.co/0K7HftsuxX",
-      "added_bull_levels": [
-        7549,
-        7560,
-        7566
-      ],
-      "added_bear_levels": [
-        7530,
-        7515
-      ],
-      "notes": "Flag formation 7566-7515 with 7530 pivot; upsides 7549/7560/7566, supports 7530/7515."
-    },
-    {
-      "tweet_id": "2059661557156434112",
-      "tweet_created_at": "2026-05-27T15:42:36.000Z",
-      "tweet_text": "Low volatility still in #ES_F, no issue as long as you take profits lvl to lvl. 7530 reclaims remain long trigger, given 318PM yesterday. We ran to 7566, dipped. We got it again 9:50AM, ran to ~7549 \n\nNow, 7530 must reclaim with force to trigger. 7515 (watch traps), 7485 below https://t.co/iaysJvTeJn",
-      "added_bull_levels": [
-        7530
-      ],
-      "added_bear_levels": [
-        7515,
-        7485
-      ],
-      "notes": "7530 reclaim as long trigger; 7515 watch for traps; 7485 support below"
-    },
-    {
-      "tweet_id": "2059667142065185269",
-      "tweet_created_at": "2026-05-27T16:04:48.000Z",
-      "tweet_text": "Note: 7502 is en route to 7485 if we get lucky enough to expand the range",
-      "added_bull_levels": [
-        7485
-      ],
-      "added_bear_levels": [],
-      "notes": "Trader naming 7485 as a downside target if range expands from current 7502 level."
-    },
     {
       "tweet_id": "2059966640821854413",
       "tweet_created_at": "2026-05-28T11:54:54.000Z",
@@ -156,6 +67,5 @@
       "added_bear_levels": [],
       "notes": "7598 identified as next bullish target above today's 7579 hit; 7516-7565 range was pre-planned from newsletter"
     }
-  ],
-  "fetched_at": "2026-05-28T18:28:24.176661+00:00"
+  ]
 }
