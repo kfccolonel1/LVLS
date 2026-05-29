@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T17:47:47.022691+00:00",
-  "fetched_at_est": "2026-05-29T13:47:47.022701-04:00",
+  "fetched_at_utc": "2026-05-29T18:00:51.731044+00:00",
+  "fetched_at_est": "2026-05-29T14:00:51.731048-04:00",
   "last_new_level_added_at_est": "2026-05-29T10:22:20-04:00",
   "todays_new_levels": [
     {
@@ -206,6 +206,15 @@
       "timestamp_utc": "2026-05-29T17:02:58.000Z",
       "timestamp_est": "2026-05-29T13:02:58-04:00",
       "tweet_text": "Not every day is meant to be traded, and that's today. We enter only on volatility, and we got that entry yesterday on the 7516 failed breakdown. 7516-7565=the range. After ranges break, #ES_F trends &amp; we just ride runner\n\nToday's targets were 7600 (hit), 7614, 7620. 7565=support https://t.co/B4AYrjY1Qo",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060420517513879824",
+      "timestamp_utc": "2026-05-29T17:58:26.000Z",
+      "timestamp_est": "2026-05-29T13:58:26-04:00",
+      "tweet_text": "@noonelikeme81 @Claudirxl Thats how long bull markets last historically and technically we are nowhere near being close to anything resembling a topping cycle and won't be for a few years still. We just broke out of a multi-month flag mid April.",
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": ""
