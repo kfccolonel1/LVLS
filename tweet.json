@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T13:10:05.320824+00:00",
-  "fetched_at_est": "2026-05-29T09:10:05.320833-04:00",
+  "fetched_at_utc": "2026-05-29T13:20:09.469448+00:00",
+  "fetched_at_est": "2026-05-29T09:20:09.469451-04:00",
   "todays_new_levels": [
     {
       "price": 7614.0,
@@ -10,6 +10,20 @@
       "added_at_est": "2026-05-29T07:57:12-04:00",
       "expires_at_est": "2026-05-29T15:57:12-04:00",
       "from_tweet_id": "2060329608134697389"
+    },
+    {
+      "price": 7579.0,
+      "side": "bull",
+      "added_at_est": "2026-05-29T09:17:52-04:00",
+      "expires_at_est": "2026-05-29T17:17:52-04:00",
+      "from_tweet_id": "2060349910600343625"
+    },
+    {
+      "price": 7598.0,
+      "side": "bull",
+      "added_at_est": "2026-05-29T09:17:52-04:00",
+      "expires_at_est": "2026-05-29T17:17:52-04:00",
+      "from_tweet_id": "2060349910600343625"
     }
   ],
   "updates": [
@@ -62,6 +76,23 @@
       ],
       "added_bear_levels": [],
       "notes": "New upside targets named: 7600, 7614, 7620. Also tracking 7565 as support for potential bear traps."
+    },
+    {
+      "tweet_id": "2060349910600343625",
+      "timestamp_utc": "2026-05-29T13:17:52.000Z",
+      "timestamp_est": "2026-05-29T09:17:52-04:00",
+      "tweet_text": "We got our 80 point long ystd in #ES_F. 7516-7565 was the range. I was looking for it to trap down then we long on the recovery. Target was 7565 (hit), then breakout to 7579, 7598\n\n0 to do now. Ride runner until next bear trap. 7600, 7614, 7620 next. 7565 (watch traps)=support https://t.co/QpO1Z1V11v",
+      "added_bull_levels": [
+        7579,
+        7598,
+        7600,
+        7614,
+        7620
+      ],
+      "added_bear_levels": [
+        7565
+      ],
+      "notes": "Trader names new upside targets (7579, 7598, 7600, 7614, 7620) and identifies 7565 as support to watch for traps."
     }
   ]
 }
