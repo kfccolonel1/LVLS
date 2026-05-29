@@ -1,8 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T15:10:29.399041+00:00",
-  "fetched_at_est": "2026-05-29T11:10:29.399049-04:00",
+  "fetched_at_utc": "2026-05-29T17:47:47.022691+00:00",
+  "fetched_at_est": "2026-05-29T13:47:47.022701-04:00",
+  "last_new_level_added_at_est": "2026-05-29T10:22:20-04:00",
   "todays_new_levels": [
     {
       "price": 7614.0,
@@ -24,6 +25,27 @@
       "added_at_est": "2026-05-29T09:17:52-04:00",
       "expires_at_est": "2026-05-29T17:17:52-04:00",
       "from_tweet_id": "2060349910600343625"
+    },
+    {
+      "price": 7300.0,
+      "side": "bear",
+      "added_at_est": "2026-05-29T10:11:37-04:00",
+      "expires_at_est": "2026-05-29T18:11:37-04:00",
+      "from_tweet_id": "2060363437738192915"
+    },
+    {
+      "price": 7474.0,
+      "side": "bull",
+      "added_at_est": "2026-05-29T10:22:20-04:00",
+      "expires_at_est": "2026-05-29T18:22:20-04:00",
+      "from_tweet_id": "2060366130888208545"
+    },
+    {
+      "price": 7465.0,
+      "side": "bear",
+      "added_at_est": "2026-05-29T10:22:20-04:00",
+      "expires_at_est": "2026-05-29T18:22:20-04:00",
+      "from_tweet_id": "2060366130888208545"
     }
   ],
   "updates": [
@@ -52,6 +74,24 @@
       "notes": "New upside targets named: 7600, 7614, 7620. Also tracking 7565 as support for potential bear traps."
     },
     {
+      "tweet_id": "2060329960854704210",
+      "timestamp_utc": "2026-05-29T11:58:36.000Z",
+      "timestamp_est": "2026-05-29T07:58:36-04:00",
+      "tweet_text": "Note: As usual, there is nothing to do up here. Wait for planned entries from newsletter. My system gets long only on \"elevator down\" sells and bear traps that produce failed breakdowns. Then we ride runner, get paid on that long, and do nothing until the next bear trap",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060342233480429690",
+      "timestamp_utc": "2026-05-29T12:47:22.000Z",
+      "timestamp_est": "2026-05-29T08:47:22-04:00",
+      "tweet_text": "@CanesKL Going to need some red!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
       "tweet_id": "2060349910600343625",
       "timestamp_utc": "2026-05-29T13:17:52.000Z",
       "timestamp_est": "2026-05-29T09:17:52-04:00",
@@ -69,6 +109,35 @@
       "notes": "Trader names new upside targets (7579, 7598, 7600, 7614, 7620) and identifies 7565 as support to watch for traps."
     },
     {
+      "tweet_id": "2060361862118572381",
+      "timestamp_utc": "2026-05-29T14:05:22.000Z",
+      "timestamp_est": "2026-05-29T10:05:22-04:00",
+      "tweet_text": "@Trena_Nena @Erik52125136498 Yes exactly. Even when I did short in the past, I would absolutely never short strength or top pick at highs. I havn't done that since I was a brand new trader nearly 20 years ago and its one of the first things you learn never to do",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060363437738192915",
+      "timestamp_utc": "2026-05-29T14:11:37.000Z",
+      "timestamp_est": "2026-05-29T10:11:37-04:00",
+      "tweet_text": "@Claudirxl 7300 isn't very far (only 4% dip), we'll definitely see that at some point. It will lead to more top calls though and then we can simply continue up",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7300
+      ],
+      "notes": "Named 7300 as a support level to watch; expects a 4% dip to reach it before continuing higher."
+    },
+    {
+      "tweet_id": "2060363550246265069",
+      "timestamp_utc": "2026-05-29T14:12:04.000Z",
+      "timestamp_est": "2026-05-29T10:12:04-04:00",
+      "tweet_text": "@Claudirxl But yes definitely don't short",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
       "tweet_id": "2060364725628588143",
       "timestamp_utc": "2026-05-29T14:16:44.000Z",
       "timestamp_est": "2026-05-29T10:16:44-04:00",
@@ -82,6 +151,64 @@
         7565
       ],
       "notes": "New bullish targets (7600, 7614, 7620) and bearish support (7565) identified from range breakout setup."
+    },
+    {
+      "tweet_id": "2060365227988840891",
+      "timestamp_utc": "2026-05-29T14:18:44.000Z",
+      "timestamp_est": "2026-05-29T10:18:44-04:00",
+      "tweet_text": "Again this is not hindsight analysis - entries were provided in advance both here and in newsletter as well as targets. I posted at 9am yesterday that \". Today's target slate was 7530 (hit), 7549, 7565. Then, we trend hard.\" https://t.co/C4oMNV7oyG",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060365717598335345",
+      "timestamp_utc": "2026-05-29T14:20:41.000Z",
+      "timestamp_est": "2026-05-29T10:20:41-04:00",
+      "tweet_text": "@noonelikeme81 @Claudirxl That type of thinking actually fuels more upside. A 4% dip is a very routine, normal, common, extremely bullish thing in an uptrend. But when it happens, everyone will be calling a top again and it will just fuel upside again. This cycle will repeat for another 3-4 years",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060366130888208545",
+      "timestamp_utc": "2026-05-29T14:22:20.000Z",
+      "timestamp_est": "2026-05-29T10:22:20-04:00",
+      "tweet_text": "@Pete66668332642 There's a nice support shelf there now. Dip to 65 then recover of 74 will be an entry in tonights newsletter",
+      "added_bull_levels": [
+        7474
+      ],
+      "added_bear_levels": [
+        7465
+      ],
+      "notes": "Support shelf at 7465, dip to 7465 then recovery to 7474 setup for entry"
+    },
+    {
+      "tweet_id": "2060371855400165820",
+      "timestamp_utc": "2026-05-29T14:45:04.000Z",
+      "timestamp_est": "2026-05-29T10:45:04-04:00",
+      "tweet_text": "@ashwagamma Just no volatility to work with! Still quite a ways from any good failed breakdowns",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060378950988075216",
+      "timestamp_utc": "2026-05-29T15:13:16.000Z",
+      "timestamp_est": "2026-05-29T11:13:16-04:00",
+      "tweet_text": "No volatility to work with today in #ES_F so simply hold runner from yesterday's 7516 failed breakdown and do nothing. 7516-7565 was the multiday range, and it broke. Now, we just trend.\n\nToday's targets were 7600 (hit), 7614 (3 points off), 7620. 7565=support and range backtest https://t.co/eoEcrVFzoz",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060406558576570746",
+      "timestamp_utc": "2026-05-29T17:02:58.000Z",
+      "timestamp_est": "2026-05-29T13:02:58-04:00",
+      "tweet_text": "Not every day is meant to be traded, and that's today. We enter only on volatility, and we got that entry yesterday on the 7516 failed breakdown. 7516-7565=the range. After ranges break, #ES_F trends &amp; we just ride runner\n\nToday's targets were 7600 (hit), 7614, 7620. 7565=support https://t.co/B4AYrjY1Qo",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
     }
   ]
 }
