@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T19:11:11.792475+00:00",
-  "fetched_at_est": "2026-05-29T15:11:11.792483-04:00",
+  "fetched_at_utc": "2026-05-29T19:31:16.165768+00:00",
+  "fetched_at_est": "2026-05-29T15:31:16.165774-04:00",
   "last_new_level_added_at_est": "2026-05-29T10:22:20-04:00",
   "todays_new_levels": [
     {
@@ -260,6 +260,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7565 identified as support for early next week; 7516 referenced as previous trigger level."
+    },
+    {
+      "tweet_id": "2060442493288632678",
+      "timestamp_utc": "2026-05-29T19:25:46.000Z",
+      "timestamp_est": "2026-05-29T15:25:46-04:00",
+      "tweet_text": "@noonelikeme81 @Claudirxl There will be lots of those, 5% corrections are very routine and 10% corrections are also fairly common. People won't see them as corrections though. When it happens everyone will say a bubble burst and the top is in",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
     }
   ]
 }
