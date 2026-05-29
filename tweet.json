@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T18:00:51.731044+00:00",
-  "fetched_at_est": "2026-05-29T14:00:51.731048-04:00",
+  "fetched_at_utc": "2026-05-29T18:10:56.450056+00:00",
+  "fetched_at_est": "2026-05-29T14:10:56.450062-04:00",
   "last_new_level_added_at_est": "2026-05-29T10:22:20-04:00",
   "todays_new_levels": [
     {
@@ -215,6 +215,15 @@
       "timestamp_utc": "2026-05-29T17:58:26.000Z",
       "timestamp_est": "2026-05-29T13:58:26-04:00",
       "tweet_text": "@noonelikeme81 @Claudirxl Thats how long bull markets last historically and technically we are nowhere near being close to anything resembling a topping cycle and won't be for a few years still. We just broke out of a multi-month flag mid April.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060421683018633683",
+      "timestamp_utc": "2026-05-29T18:03:04.000Z",
+      "timestamp_est": "2026-05-29T14:03:04-04:00",
+      "tweet_text": "@tradivate @noonelikeme81 @Claudirxl Its down at 6865 now. Well outside my scope as a day trader",
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": ""
