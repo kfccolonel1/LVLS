@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T18:21:02.487804+00:00",
-  "fetched_at_est": "2026-05-29T14:21:02.487817-04:00",
+  "fetched_at_utc": "2026-05-29T18:31:04.983962+00:00",
+  "fetched_at_est": "2026-05-29T14:31:04.983970-04:00",
   "last_new_level_added_at_est": "2026-05-29T10:22:20-04:00",
   "todays_new_levels": [
     {
@@ -49,17 +49,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2060065422364336619",
-      "timestamp_utc": "2026-05-28T18:27:25.000Z",
-      "timestamp_est": "2026-05-28T14:27:25-04:00",
-      "tweet_text": "There's 7579 hit in #ES_F. This was all laid out explicitly in last nights newsletter. We built a nice range 7516-7565. Ranges trap bears (Failed Breakdown), then breakout. 7516 trap was our trigger. Today's targets were 7565 (hit), then 7579 bonus\n\n7598 next, lots above that https://t.co/tQbWsw3qip",
-      "added_bull_levels": [
-        7598
-      ],
-      "added_bear_levels": [],
-      "notes": "7598 identified as next bullish target above today's 7579 hit; 7516-7565 range was pre-planned from newsletter"
-    },
     {
       "tweet_id": "2060329608134697389",
       "timestamp_utc": "2026-05-29T11:57:12.000Z",
