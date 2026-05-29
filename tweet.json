@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T13:20:09.469448+00:00",
-  "fetched_at_est": "2026-05-29T09:20:09.469451-04:00",
+  "fetched_at_utc": "2026-05-29T14:20:22.880129+00:00",
+  "fetched_at_est": "2026-05-29T10:20:22.880147-04:00",
   "todays_new_levels": [
     {
       "price": 7614.0,
@@ -27,19 +27,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2060002171110752526",
-      "timestamp_utc": "2026-05-28T14:16:05.000Z",
-      "timestamp_est": "2026-05-28T10:16:05-04:00",
-      "tweet_text": "There's 7565 final target hit. Easy day in #ES_F. It was all given in advance: The 7516-7565 was the range. Ranges trap. We trapped 7516 overnight, got long this morning per newsletter. Targets given free here 8am were 7530, 7549, 7565. Ride runner\n\n7570, 7579 (major), 7598 bonus https://t.co/iuSpr04FiY",
-      "added_bull_levels": [
-        7570,
-        7579,
-        7598
-      ],
-      "added_bear_levels": [],
-      "notes": "New upside targets named: 7570, 7579 (major resistance), 7598 bonus level after 7565 target hit."
-    },
     {
       "tweet_id": "2060014121731436890",
       "timestamp_utc": "2026-05-28T15:03:34.000Z",
@@ -93,6 +80,21 @@
         7565
       ],
       "notes": "Trader names new upside targets (7579, 7598, 7600, 7614, 7620) and identifies 7565 as support to watch for traps."
+    },
+    {
+      "tweet_id": "2060364725628588143",
+      "timestamp_utc": "2026-05-29T14:16:44.000Z",
+      "timestamp_est": "2026-05-29T10:16:44-04:00",
+      "tweet_text": "Charting 101 the past couple days. #ES_F was rangebound 7516-7565. What happens with ranges? As readers know, they trap down, recover (long trigger) breakout, then we trend. Today's targets were 7600 (hit), 7614, 7620\n\n7565 remains 1st support of interest. Ride runner https://t.co/sUqR7FSJMm",
+      "added_bull_levels": [
+        7600,
+        7614,
+        7620
+      ],
+      "added_bear_levels": [
+        7565
+      ],
+      "notes": "New bullish targets (7600, 7614, 7620) and bearish support (7565) identified from range breakout setup."
     }
   ]
 }
