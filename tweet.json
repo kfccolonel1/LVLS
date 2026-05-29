@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T14:20:22.880129+00:00",
-  "fetched_at_est": "2026-05-29T10:20:22.880147-04:00",
+  "fetched_at_utc": "2026-05-29T15:10:29.399041+00:00",
+  "fetched_at_est": "2026-05-29T11:10:29.399049-04:00",
   "todays_new_levels": [
     {
       "price": 7614.0,
@@ -27,19 +27,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2060014121731436890",
-      "timestamp_utc": "2026-05-28T15:03:34.000Z",
-      "timestamp_est": "2026-05-28T11:03:34-04:00",
-      "tweet_text": "Today played out as perfect as a day can. The long was given explictly in yesterdays newsletter: The failed breakdown of 7516 (entry was still active at 8am today). Target's given free at 8am were 7530, 7549, 7565. 7516-7565=flag\n\nNow, ride runner. 7570, 7579 (major), 7598 bonus https://t.co/tQbWsw3qip",
-      "added_bull_levels": [
-        7570,
-        7579,
-        7598
-      ],
-      "added_bear_levels": [],
-      "notes": "New upside targets named: 7570, 7579 (major), 7598 bonus. Previous levels (7516, 7530, 7549, 7565) from yesterday's newsletter, not new today."
-    },
     {
       "tweet_id": "2060065422364336619",
       "timestamp_utc": "2026-05-28T18:27:25.000Z",
