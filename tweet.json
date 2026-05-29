@@ -1,27 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-28T22:18:43.703730+00:00",
-  "fetched_at_est": "2026-05-28T18:18:43.703740-04:00",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-05-29T11:59:57.093614+00:00",
+  "fetched_at_est": "2026-05-29T07:59:57.093630-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2059966640821854413",
-      "timestamp_utc": "2026-05-28T11:54:54.000Z",
-      "timestamp_est": "2026-05-28T07:54:54-04:00",
-      "tweet_text": "Yesterday #ES_F was rangebound. The range was 7516-7565 as we setup trend. Per 4pm newsletter I was looking for traps below the range. Around midnight, we trapped, recovered, rallied +20\n\nPlan today: 7516=support. 7530, 7549, 7565 above. 7516 fails, dip 7502, 7485 (watch traps) https://t.co/x7HvmCzRJW",
-      "added_bull_levels": [
-        7516,
-        7530,
-        7549,
-        7565
-      ],
-      "added_bear_levels": [
-        7502,
-        7485
-      ],
-      "notes": "Intraday plan: support at 7516, resistances 7530/7549/7565; if 7516 fails, watch 7502 and 7485 for traps"
-    },
+      "price": 7614.0,
+      "side": "bull",
+      "added_at_est": "2026-05-29T07:57:12-04:00",
+      "expires_at_est": "2026-05-29T15:57:12-04:00",
+      "from_tweet_id": "2060329608134697389"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2059984251475358108",
       "timestamp_utc": "2026-05-28T13:04:52.000Z",
@@ -73,6 +64,19 @@
       ],
       "added_bear_levels": [],
       "notes": "7598 identified as next bullish target above today's 7579 hit; 7516-7565 range was pre-planned from newsletter"
+    },
+    {
+      "tweet_id": "2060329608134697389",
+      "timestamp_utc": "2026-05-29T11:57:12.000Z",
+      "timestamp_est": "2026-05-29T07:57:12-04:00",
+      "tweet_text": "Long continues to pay in #ES_F. All week, the range was 7516-65. We got long on Failed Breakdown of range support per posts here/newsletter. Targets given were 7565 (hit), 7579 (hit), 7598\n\nPlan: Ride runner until next bear trap. 7600, 7614, 7620 next. 7565 (watch traps)=support https://t.co/B37dXdIB0k",
+      "added_bull_levels": [
+        7600,
+        7614,
+        7620
+      ],
+      "added_bear_levels": [],
+      "notes": "New upside targets named: 7600, 7614, 7620. Also tracking 7565 as support for potential bear traps."
     }
   ]
 }
