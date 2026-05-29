@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T18:10:56.450056+00:00",
-  "fetched_at_est": "2026-05-29T14:10:56.450062-04:00",
+  "fetched_at_utc": "2026-05-29T18:21:02.487804+00:00",
+  "fetched_at_est": "2026-05-29T14:21:02.487817-04:00",
   "last_new_level_added_at_est": "2026-05-29T10:22:20-04:00",
   "todays_new_levels": [
     {
@@ -224,6 +224,39 @@
       "timestamp_utc": "2026-05-29T18:03:04.000Z",
       "timestamp_est": "2026-05-29T14:03:04-04:00",
       "tweet_text": "@tradivate @noonelikeme81 @Claudirxl Its down at 6865 now. Well outside my scope as a day trader",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060423655440458096",
+      "timestamp_utc": "2026-05-29T18:10:54.000Z",
+      "timestamp_est": "2026-05-29T14:10:54-04:00",
+      "tweet_text": "As posted not-everyday is meant to be traded &amp; that is today. Yesterday we got our entry on the 7516 failed breakdown given here + in newsletter. We then broke out the 7516-65 range. After breakout, #ES_F trends for 1-3 days.\n\n7600 (hit), 7614, 7620 next up. 7565=supports https://t.co/CJJnxnscSX",
+      "added_bull_levels": [
+        7600,
+        7614,
+        7620
+      ],
+      "added_bear_levels": [
+        7565
+      ],
+      "notes": "Resistance levels 7600, 7614, 7620 identified after breakout; support at 7565."
+    },
+    {
+      "tweet_id": "2060425466138309078",
+      "timestamp_utc": "2026-05-29T18:18:06.000Z",
+      "timestamp_est": "2026-05-29T14:18:06-04:00",
+      "tweet_text": "@ChallengeThink Wasn't that long ago, was basically like this from March 2020 to August 2021",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060426001058783546",
+      "timestamp_utc": "2026-05-29T18:20:14.000Z",
+      "timestamp_est": "2026-05-29T14:20:14-04:00",
+      "tweet_text": "@jake_lamotta_23 @ChallengeThink Yes - Twitter was also extremely bearish during that 2 year window, everyone thought a major crash was imminent because of lockdowns etc even as market continued to rally month after month. I was very bullish beginning mid April 2020",
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": ""
