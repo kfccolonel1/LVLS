@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T11:59:57.093614+00:00",
-  "fetched_at_est": "2026-05-29T07:59:57.093630-04:00",
+  "fetched_at_utc": "2026-05-29T13:10:05.320824+00:00",
+  "fetched_at_est": "2026-05-29T09:10:05.320833-04:00",
   "todays_new_levels": [
     {
       "price": 7614.0,
@@ -13,21 +13,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2059984251475358108",
-      "timestamp_utc": "2026-05-28T13:04:52.000Z",
-      "timestamp_est": "2026-05-28T09:04:52-04:00",
-      "tweet_text": "Excellent follow through to start today in #ES_F. The range would be 7516-7565 as posted. Ranges Failed Breakdown then rally (Charting 101). I was looking for the trap of 7516, we got it last eve. Today's target slate was 7530 (hit), 7549, 7565. Then, we trend hard.\n\nSell&lt;7516 https://t.co/PNEUml89bu",
-      "added_bull_levels": [
-        7530,
-        7549,
-        7565
-      ],
-      "added_bear_levels": [
-        7516
-      ],
-      "notes": "Posted intraday range 7516-7565 with targets at 7530, 7549, 7565; sell signal below 7516."
-    },
     {
       "tweet_id": "2060002171110752526",
       "timestamp_utc": "2026-05-28T14:16:05.000Z",
