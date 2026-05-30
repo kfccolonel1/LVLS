@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-29T22:31:38.673184+00:00",
-  "fetched_at_est": "2026-05-29T18:31:38.673189-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-05-30T01:42:00.735462+00:00",
+  "fetched_at_est": "2026-05-29T21:42:00.735470-04:00",
+  "last_new_level_added_at_est": "2026-05-29T21:41:40-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7516.0,
+      "side": "bull",
+      "added_at_est": "2026-05-29T21:41:40-04:00",
+      "expires_at_est": "2026-05-30T05:41:40-04:00",
+      "from_tweet_id": "2060537092862574653"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2060329608134697389",
@@ -226,6 +234,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": ""
+    },
+    {
+      "tweet_id": "2060536786586144909",
+      "timestamp_utc": "2026-05-30T01:40:27.000Z",
+      "timestamp_est": "2026-05-29T21:40:27-04:00",
+      "tweet_text": "@eldnitj @noonelikeme81 @Claudirxl Not reliably. You can tell when a selloff will come by when a big support shelf fails or a previous major breakout fails, but in terms of how far it will go thats very difficult. Often needs to be some headline backdrop to really extend it lower",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": ""
+    },
+    {
+      "tweet_id": "2060537092862574653",
+      "timestamp_utc": "2026-05-30T01:41:40.000Z",
+      "timestamp_est": "2026-05-29T21:41:40-04:00",
+      "tweet_text": "@eldnitj @noonelikeme81 @Claudirxl If we lose 7516 this week for example it wouldnt be shocking to correct 1-2% but whether it goes farther is anyones guess",
+      "added_bull_levels": [
+        7516
+      ],
+      "added_bear_levels": [],
+      "notes": "Identifies 7516 as key support level; breaking below would suggest 1-2% correction risk."
     }
   ]
 }
