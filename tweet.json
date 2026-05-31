@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-31T14:44:12.938718+00:00",
-  "fetched_at_est": "2026-05-31T10:44:12.938723-04:00",
+  "fetched_at_utc": "2026-05-31T15:24:17.304198+00:00",
+  "fetched_at_est": "2026-05-31T11:24:17.304205-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2060743950483206235",
-      "timestamp_utc": "2026-05-30T15:23:39.000Z",
-      "timestamp_est": "2026-05-30T11:23:39-04:00",
-      "tweet_text": "@Sine___Metu Your definitely thinking of the wrong person I've literally never called for the \"biggest collapse\". I'm accused of  being a perma-bull if anything",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a social reply defending against accusations; no price levels mentioned or named at all."
-    },
-    {
-      "tweet_id": "2060744104561058292",
-      "timestamp_utc": "2026-05-30T15:24:15.000Z",
-      "timestamp_est": "2026-05-30T11:24:15-04:00",
-      "tweet_text": "@Stevenphoto_MSP I try but they keep popping up!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels mentioned; purely conversational, no actionable prices."
-    },
     {
       "tweet_id": "2060746190719799415",
       "timestamp_utc": "2026-05-30T15:32:33.000Z",
