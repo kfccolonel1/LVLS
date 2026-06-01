@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-01T15:47:07.719757+00:00",
-  "fetched_at_est": "2026-06-01T11:47:07.719761-04:00",
-  "last_new_level_added_at_est": "2026-06-01T11:44:14-04:00",
+  "fetched_at_utc": "2026-06-01T16:57:17.798036+00:00",
+  "fetched_at_est": "2026-06-01T12:57:17.798041-04:00",
+  "last_new_level_added_at_est": "2026-06-01T12:55:21-04:00",
   "todays_new_levels": [
     {
       "price": 7631.0,
@@ -32,6 +32,20 @@
       "added_at_est": "2026-06-01T11:44:14-04:00",
       "expires_at_est": "2026-06-01T19:44:14-04:00",
       "from_tweet_id": "2061473907631157568"
+    },
+    {
+      "price": 7616.0,
+      "side": "bull",
+      "added_at_est": "2026-06-01T12:55:21-04:00",
+      "expires_at_est": "2026-06-01T20:55:21-04:00",
+      "from_tweet_id": "2061491805086965901"
+    },
+    {
+      "price": 7622.0,
+      "side": "bull",
+      "added_at_est": "2026-06-01T12:55:21-04:00",
+      "expires_at_est": "2026-06-01T20:55:21-04:00",
+      "from_tweet_id": "2061491805086965901"
     }
   ],
   "updates": [
@@ -170,6 +184,18 @@
       ],
       "added_bear_levels": [],
       "notes": "7604 named as 'next up' resistance and 7620 explicitly flagged as next target 'if this can clear' \u2014 both new actionable levels not in morning plan."
+    },
+    {
+      "tweet_id": "2061491805086965901",
+      "timestamp_utc": "2026-06-01T16:55:21.000Z",
+      "timestamp_est": "2026-06-01T12:55:21-04:00",
+      "tweet_text": "There's the tap of 7604 and we've been here for hours in #ES_F. The regime now is that we get brief bursts of volatility which need to be capitalized on as we chop for days after. 7604-7565=the range with 7585 magnet. We swept 7585, rallied to 7604 target\n\n7616, 7620-24 next https://t.co/rbW6jR5ulj",
+      "added_bull_levels": [
+        7616.0,
+        7622.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7616 and 7620-24 (mid ~7622) named explicitly as 'next' resistance targets \u2014 new levels not in morning plan. 7604/7585/7565 are reaffirmations."
     }
   ]
 }
