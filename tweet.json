@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-01T19:17:58.730800+00:00",
-  "fetched_at_est": "2026-06-01T15:17:58.730804-04:00",
+  "fetched_at_utc": "2026-06-01T19:28:00.775584+00:00",
+  "fetched_at_est": "2026-06-01T15:28:00.775593-04:00",
   "last_new_level_added_at_est": "2026-06-01T15:15:29-04:00",
   "todays_new_levels": [
     {
@@ -56,15 +56,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061165864833982637",
-      "timestamp_utc": "2026-05-31T19:20:11.000Z",
-      "timestamp_est": "2026-05-31T15:20:11-04:00",
-      "tweet_text": "The biggest game changer for me was realizing the most powerful edge is sitting on hands. Its the unplanned, impulse trades that don't correlate to any setup that generate losses. I plan exactly where I am going to enter &amp; have 1 setup that I look for there. Otherwise, no trading",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Motivational/philosophical tweet about trading discipline. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2061237106161119247",
       "timestamp_utc": "2026-06-01T00:03:16.000Z",
