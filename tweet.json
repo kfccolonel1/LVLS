@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-01T17:57:36.111871+00:00",
-  "fetched_at_est": "2026-06-01T13:57:36.111876-04:00",
+  "fetched_at_utc": "2026-06-01T18:17:41.525417+00:00",
+  "fetched_at_est": "2026-06-01T14:17:41.525421-04:00",
   "last_new_level_added_at_est": "2026-06-01T12:55:21-04:00",
   "todays_new_levels": [
     {
@@ -226,6 +226,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7631 and 7642 are newly named upside targets not in morning plan. 7655 is already in morning plan. 7604/7616/7620-24 are hindsight observations."
+    },
+    {
+      "tweet_id": "2061512077785567696",
+      "timestamp_utc": "2026-06-01T18:15:55.000Z",
+      "timestamp_est": "2026-06-01T14:15:55-04:00",
+      "tweet_text": "@chrisAn00930062 @ES_Money_Print Its extremely clear. I wrote the newsletter Friday at 4pm. At this point 7585 was just a normal unactionable support. On Sunday at 6pm we held it and set a very clear *significant low*. This is the primary criteria for a Failed Breakdown. We swept that low this AM and recovered.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7585 is in morning plan; tweet is hindsight explanation of FBD criteria already triggered, not a new actionable level."
     }
   ]
 }
