@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-01T18:27:46.064556+00:00",
-  "fetched_at_est": "2026-06-01T14:27:46.064560-04:00",
+  "fetched_at_utc": "2026-06-01T18:37:50.670025+00:00",
+  "fetched_at_est": "2026-06-01T14:37:50.670030-04:00",
   "last_new_level_added_at_est": "2026-06-01T12:55:21-04:00",
   "todays_new_levels": [
     {
@@ -244,6 +244,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7585 and 7620 are both in morning plan; tweet is a hindsight explanation of past price action criteria, not a new actionable level."
+    },
+    {
+      "tweet_id": "2061515874238972228",
+      "timestamp_utc": "2026-06-01T18:31:00.000Z",
+      "timestamp_est": "2026-06-01T14:31:00-04:00",
+      "tweet_text": "@KnightTrader999 @chrisAn00930062 @ES_Money_Print 7604 was the simply the first available entry up when I was posting. The high quality entries and zones are always in the newsletter, I don'tgenerally include newsletter entries here on Twitter (newsletter readers pay for those). I'll include lower quality reclaims here though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining tweet vs newsletter content. 7604 is mentioned as a past entry reference, not named as a new actionable level."
     }
   ]
 }
