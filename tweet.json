@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-01T18:17:41.525417+00:00",
-  "fetched_at_est": "2026-06-01T14:17:41.525421-04:00",
+  "fetched_at_utc": "2026-06-01T18:27:46.064556+00:00",
+  "fetched_at_est": "2026-06-01T14:27:46.064560-04:00",
   "last_new_level_added_at_est": "2026-06-01T12:55:21-04:00",
   "todays_new_levels": [
     {
@@ -235,6 +235,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7585 is in morning plan; tweet is hindsight explanation of FBD criteria already triggered, not a new actionable level."
+    },
+    {
+      "tweet_id": "2061512980156629434",
+      "timestamp_utc": "2026-06-01T18:19:30.000Z",
+      "timestamp_est": "2026-06-01T14:19:30-04:00",
+      "tweet_text": "@chrisAn00930062 @ES_Money_Print At 7585 at 6pm Sunday we set a low and rallied to 7620. That would meet criteria 1 (being the Sunday daily low) and 2. That makes it an A+ Failed Breakdown https://t.co/IDURhbdXo5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7585 and 7620 are both in morning plan; tweet is a hindsight explanation of past price action criteria, not a new actionable level."
     }
   ]
 }
