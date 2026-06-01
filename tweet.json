@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-01T18:37:50.670025+00:00",
-  "fetched_at_est": "2026-06-01T14:37:50.670030-04:00",
-  "last_new_level_added_at_est": "2026-06-01T12:55:21-04:00",
+  "fetched_at_utc": "2026-06-01T19:17:58.730800+00:00",
+  "fetched_at_est": "2026-06-01T15:17:58.730804-04:00",
+  "last_new_level_added_at_est": "2026-06-01T15:15:29-04:00",
   "todays_new_levels": [
     {
       "price": 7631.0,
@@ -46,6 +46,13 @@
       "added_at_est": "2026-06-01T12:55:21-04:00",
       "expires_at_est": "2026-06-01T20:55:21-04:00",
       "from_tweet_id": "2061491805086965901"
+    },
+    {
+      "price": 7605.0,
+      "side": "bull",
+      "added_at_est": "2026-06-01T15:15:29-04:00",
+      "expires_at_est": "2026-06-01T23:15:29-04:00",
+      "from_tweet_id": "2061527068601434587"
     }
   ],
   "updates": [
@@ -253,6 +260,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining tweet vs newsletter content. 7604 is mentioned as a past entry reference, not named as a new actionable level."
+    },
+    {
+      "tweet_id": "2061527068601434587",
+      "timestamp_utc": "2026-06-01T19:15:29.000Z",
+      "timestamp_est": "2026-06-01T15:15:29-04:00",
+      "tweet_text": "Closing update #ES_F: We got our 20 minutes of volatility burst this morning and as always, it setup a Failed Breakdown of 7585 (Sunday opening low) then probably days of grind again. 7605 now support. Newsletter out soon with next entries from here",
+      "added_bull_levels": [
+        7605.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7605 explicitly named as 'now support' \u2014 actionable new level not in morning plan."
     }
   ]
 }
