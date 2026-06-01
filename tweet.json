@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-05-31T20:54:49.982336+00:00",
-  "fetched_at_est": "2026-05-31T16:54:49.982342-04:00",
+  "fetched_at_utc": "2026-06-01T00:05:09.738734+00:00",
+  "fetched_at_est": "2026-05-31T20:05:09.738738-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -14,6 +14,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Motivational/philosophical tweet about trading discipline. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2061237106161119247",
+      "timestamp_utc": "2026-06-01T00:03:16.000Z",
+      "timestamp_est": "2026-05-31T20:03:16-04:00",
+      "tweet_text": "@DurnanTW2 Was hoping for deeper though!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user expressing a preference; no price named, no actionable level, pure conversational commentary."
     }
   ]
 }
