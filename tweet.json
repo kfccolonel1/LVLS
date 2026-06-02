@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T12:39:45.227185+00:00",
-  "fetched_at_est": "2026-06-02T08:39:45.227191-04:00",
+  "fetched_at_utc": "2026-06-02T13:19:52.565897+00:00",
+  "fetched_at_est": "2026-06-02T09:19:52.565901-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061435753788322174",
-      "timestamp_utc": "2026-06-01T13:12:37.000Z",
-      "timestamp_est": "2026-06-01T09:12:37-04:00",
-      "tweet_text": "@repetak I only take entries that I believe are nearly 100% win rate. That means I need to wait sometimes 2-3 days for a trade. Not everyone the same as me though so I give entries out for people who want to engage more frequently than me",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; purely a conversational reply about trading philosophy and frequency of entries."
-    },
-    {
-      "tweet_id": "2061436256861536667",
-      "timestamp_utc": "2026-06-01T13:14:37.000Z",
-      "timestamp_est": "2026-06-01T09:14:37-04:00",
-      "tweet_text": "Finally getting a little vol burst in #ES_F. No entries since the Thursday 7516 Failed Breakdown that got us long. 7620 was target and after +105 points, we hit it and dipped.\n\nJust arrived at 7585 1st support. 7604 must reclaim to pop. 7574 (watch traps), 7565 below. Sell below https://t.co/wEgCtJNeO2",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7585, 7604, 7574, 7565 all reaffirmations or observations of price action; 7604 not in plan but framed as reclaim observation, not a newly named actionable level."
-    },
-    {
-      "tweet_id": "2061436548554408175",
-      "timestamp_utc": "2026-06-01T13:15:47.000Z",
-      "timestamp_est": "2026-06-01T09:15:47-04:00",
-      "tweet_text": "@Brian_Keith_Pho @repetak Exactly! People criticize me because they think my win rate is unreasonable high, but very very few people do what I do. I trade 1 setup, in 1 market, and I'll wait 3 days if I have to for a 10 point scalp at a planned, A+ zone.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; tweet is a conversational defense of trading methodology with no actionable levels named."
-    },
     {
       "tweet_id": "2061438206868959245",
       "timestamp_utc": "2026-06-01T13:22:22.000Z",
@@ -198,6 +171,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary on summer trading pattern. No price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2061798222587117814",
+      "timestamp_utc": "2026-06-02T13:12:57.000Z",
+      "timestamp_est": "2026-06-02T09:12:57-04:00",
+      "tweet_text": "No volatility still in #ES_F. We typically get 1 burst per day and need to act fast. Per 4pm ystd newsletter, 7574-77 to 7620 is the range. We held 7574-77 exact and rallied. Now, nothing to do. 7605, 7620, 7636 if we trend more.\n\n7585, 7574-77 (watch traps here) remain supports https://t.co/wrvCytAWaK",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7574-77, 7605, 7620, 7636/7637, 7585) are either morning-plan levels or directional list reaffirmations; no new actionable levels named."
     }
   ]
 }
