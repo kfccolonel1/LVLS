@@ -1,18 +1,10 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T00:58:34.428378+00:00",
-  "fetched_at_est": "2026-06-01T20:58:34.428384-04:00",
-  "last_new_level_added_at_est": "2026-06-01T15:15:29-04:00",
-  "todays_new_levels": [
-    {
-      "price": 7605.0,
-      "side": "bull",
-      "added_at_est": "2026-06-01T15:15:29-04:00",
-      "expires_at_est": "2026-06-01T23:15:29-04:00",
-      "from_tweet_id": "2061527068601434587"
-    }
-  ],
+  "fetched_at_utc": "2026-06-02T03:18:49.694397+00:00",
+  "fetched_at_est": "2026-06-01T23:18:49.694405-04:00",
+  "last_new_level_added_at_est": "",
+  "todays_new_levels": [],
   "updates": [
     {
       "tweet_id": "2061417216583643634",
