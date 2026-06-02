@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T13:19:52.565897+00:00",
-  "fetched_at_est": "2026-06-02T09:19:52.565901-04:00",
+  "fetched_at_utc": "2026-06-02T13:29:54.861251+00:00",
+  "fetched_at_est": "2026-06-02T09:29:54.861255-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061438206868959245",
-      "timestamp_utc": "2026-06-01T13:22:22.000Z",
-      "timestamp_est": "2026-06-01T09:22:22-04:00",
-      "tweet_text": "@tradethetraps Hopefully! These last few days have been terrible conditions, virtually nothing to trade and when we do get setups its maybe 1 then nothing for 2 days. Need red days to make things interesting for day traders",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market conditions; no prices mentioned, no actionable levels named."
-    },
-    {
-      "tweet_id": "2061438947478180324",
-      "timestamp_utc": "2026-06-01T13:25:19.000Z",
-      "timestamp_est": "2026-06-01T09:25:19-04:00",
-      "tweet_text": "@Poonz83 @tradethetraps Yes thats a big factor too. Summer trading is basically grind 90% of the time, then we get a volatility burst once every 3 days and if you don't take advantage, out of luck basically",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about summer trading patterns; no price levels named or actionable signals given."
-    },
     {
       "tweet_id": "2061446980509827381",
       "timestamp_utc": "2026-06-01T13:57:14.000Z",
