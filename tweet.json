@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T17:50:56.604015+00:00",
-  "fetched_at_est": "2026-06-02T13:50:56.604022-04:00",
+  "fetched_at_utc": "2026-06-02T18:01:03.502193+00:00",
+  "fetched_at_est": "2026-06-02T14:01:03.502198-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -133,6 +133,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7636 and 7648 are morning-plan levels (7637, 7648); all other prices are hindsight/observation references. No genuinely new actionable levels named."
+    },
+    {
+      "tweet_id": "2061870363273764973",
+      "timestamp_utc": "2026-06-02T17:59:36.000Z",
+      "timestamp_est": "2026-06-02T13:59:36-04:00",
+      "tweet_text": "As warned - do not trade today until we get a clear burst of volatility. 7620 to 7574-77=the range. Newsletter readers were given this at 4pm ystd. #ES_F sold to 7574-77 last eve, held exact, then rallied up the range. Todays targets were 7605, 7620.\n\n7636, 7648 are next now https://t.co/3Rc4nHx9Wj",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7636 and 7648 appear as next targets, but 7648 is already in morning plan and 7636 is presented as a directional list extension, not explicitly named with actionable naming language."
     }
   ]
 }
