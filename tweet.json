@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T12:29:43.125493+00:00",
-  "fetched_at_est": "2026-06-02T08:29:43.125497-04:00",
+  "fetched_at_utc": "2026-06-02T12:39:45.227185+00:00",
+  "fetched_at_est": "2026-06-02T08:39:45.227191-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061426085695312127",
-      "timestamp_utc": "2026-06-01T12:34:12.000Z",
-      "timestamp_est": "2026-06-01T08:34:12-04:00",
-      "tweet_text": "@MoBKNY Yes 100% ES. Nasdaq is considerably harder and much more random. My win rate wouldn't be nearly as high in NQ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading instrument preference (ES vs NQ). No prices, no actionable levels named."
-    },
     {
       "tweet_id": "2061435753788322174",
       "timestamp_utc": "2026-06-01T13:12:37.000Z",
