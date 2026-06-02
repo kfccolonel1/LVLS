@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T14:50:24.730003+00:00",
-  "fetched_at_est": "2026-06-02T10:50:24.730015-04:00",
+  "fetched_at_utc": "2026-06-02T15:00:27.197353+00:00",
+  "fetched_at_est": "2026-06-02T11:00:27.197359-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061462047078969812",
-      "timestamp_utc": "2026-06-01T14:57:06.000Z",
-      "timestamp_est": "2026-06-01T10:57:06-04:00",
-      "tweet_text": "Volatility gone now after the morning burst in #ES_F. Don't force trades in 0 volatility. After running to 7620 target from Thursday's 7516 failed breakdown, its now pure chop. 7565-7604=the range with 85 magnet (stuck here)\n\n65 next zone of interest. Selloff happens below https://t.co/S8sucEvEEV",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7620/7565 are morning-plan levels; 7604 and 7585(magnet) appear observational/range-description, no explicit actionable naming language for a new level."
-    },
     {
       "tweet_id": "2061463628075700578",
       "timestamp_utc": "2026-06-01T15:03:23.000Z",
