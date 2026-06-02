@@ -1,25 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T03:18:49.694397+00:00",
-  "fetched_at_est": "2026-06-01T23:18:49.694405-04:00",
+  "fetched_at_utc": "2026-06-02T11:59:32.426252+00:00",
+  "fetched_at_est": "2026-06-02T07:59:32.426258-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061417216583643634",
-      "timestamp_utc": "2026-06-01T11:58:58.000Z",
-      "timestamp_est": "2026-06-01T07:58:58-04:00",
-      "tweet_text": "Untradable grind up continues in #ES_F. Last entry was the 7516 Failed Breakdown Thursday. 7516-7565 was the range. When ranges break, we trend for 1-3 days. 7620 was next target, hit exact.\n\nPlan: Ride runner. 7604 (watch traps), 7585=supports.  7620-24, 7631, 7642 next targets https://t.co/eb3gtSbV8R",
-      "added_bull_levels": [
-        7631.0,
-        7642.0
-      ],
-      "added_bear_levels": [
-        7604.0
-      ],
-      "notes": "7631 and 7642 named as 'next targets' (new, not in morning plan); 7604 named as watch-for-traps bear level (new). 7585/7620-24 are morning plan reaffirmations."
-    },
     {
       "tweet_id": "2061426085695312127",
       "timestamp_utc": "2026-06-01T12:34:12.000Z",
