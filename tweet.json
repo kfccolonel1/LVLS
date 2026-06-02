@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T13:50:00.828497+00:00",
-  "fetched_at_est": "2026-06-02T09:50:00.828502-04:00",
+  "fetched_at_utc": "2026-06-02T14:00:03.449073+00:00",
+  "fetched_at_est": "2026-06-02T10:00:03.449077-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061446980509827381",
-      "timestamp_utc": "2026-06-01T13:57:14.000Z",
-      "timestamp_est": "2026-06-01T09:57:14-04:00",
-      "tweet_text": "Volatility very scarce in this market and #ES_F sees a little burst every few days then returns to chop. Nice sweep of 7585 and recovery, but everything 7565-7604=noise now with 7585 in the middle.\n\n7604 next up (7620 above). Watch for tests of 7565. Real sell only starts&lt;7565 https://t.co/1DgJw4TMLn",
-      "added_bull_levels": [
-        7604.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7604 named as 'next up' resistance target \u2014 actionable directional level not in morning plan. 7565 is a morning plan level (reaffirmation). 7620 also in morning plan."
-    },
     {
       "tweet_id": "2061462047078969812",
       "timestamp_utc": "2026-06-01T14:57:06.000Z",
