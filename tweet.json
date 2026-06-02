@@ -1,23 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T16:40:47.506985+00:00",
-  "fetched_at_est": "2026-06-02T12:40:47.506990-04:00",
+  "fetched_at_utc": "2026-06-02T17:00:50.419372+00:00",
+  "fetched_at_est": "2026-06-02T13:00:50.419376-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061491805086965901",
-      "timestamp_utc": "2026-06-01T16:55:21.000Z",
-      "timestamp_est": "2026-06-01T12:55:21-04:00",
-      "tweet_text": "There's the tap of 7604 and we've been here for hours in #ES_F. The regime now is that we get brief bursts of volatility which need to be capitalized on as we chop for days after. 7604-7565=the range with 7585 magnet. We swept 7585, rallied to 7604 target\n\n7616, 7620-24 next https://t.co/rbW6jR5ulj",
-      "added_bull_levels": [
-        7616.0,
-        7622.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7616 and 7620-24 (mid ~7622) named explicitly as 'next' resistance targets \u2014 new levels not in morning plan. 7604/7585/7565 are reaffirmations."
-    },
     {
       "tweet_id": "2061495744847073468",
       "timestamp_utc": "2026-06-01T17:11:00.000Z",
