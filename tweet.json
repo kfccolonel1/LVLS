@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T13:29:54.861251+00:00",
-  "fetched_at_est": "2026-06-02T09:29:54.861255-04:00",
+  "fetched_at_utc": "2026-06-02T13:50:00.828497+00:00",
+  "fetched_at_est": "2026-06-02T09:50:00.828502-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -162,6 +162,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7574-77, 7605, 7620, 7636/7637, 7585) are either morning-plan levels or directional list reaffirmations; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2061806955237081225",
+      "timestamp_utc": "2026-06-02T13:47:39.000Z",
+      "timestamp_est": "2026-06-02T09:47:39-04:00",
+      "tweet_text": "@ChrisHux It was just a retest of the shelf, that was an actionable long too though for whoever wanted it. I didn't take that one though and I'm just riding my runner from yesterday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet; no new price levels named. Mentions 'shelf' without a price, discusses runner management \u2014 pure trade management/observation."
     }
   ]
 }
