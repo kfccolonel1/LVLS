@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T15:50:38.282550+00:00",
-  "fetched_at_est": "2026-06-02T11:50:38.282556-04:00",
+  "fetched_at_utc": "2026-06-02T16:40:47.506985+00:00",
+  "fetched_at_est": "2026-06-02T12:40:47.506990-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -166,6 +166,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7636 and 7648 are morning-plan levels (7637, 7648); all other prices are observations or reaffirmations of existing plan levels. No new actionable levels."
+    },
+    {
+      "tweet_id": "2061848970867953848",
+      "timestamp_utc": "2026-06-02T16:34:36.000Z",
+      "timestamp_est": "2026-06-02T12:34:36-04:00",
+      "tweet_text": "We are sitting at range resistance and as warned - 0 to do now but hold your runner. No trading until we get a volatility burst. 7620 to 7574-77 was range given in yesterday's 4pm newsletter. We held 7574-77 exact last eve. Today's targets? 7605 (hit), 7620 (hit)\n\n7636, 7648 next https://t.co/xYruN3bnEx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7636 and 7648 are morning-plan levels (7637, 7648); all other prices are hindsight/observation references. No genuinely new actionable levels named."
     }
   ]
 }
