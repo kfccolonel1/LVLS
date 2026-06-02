@@ -1,23 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T15:10:32.647450+00:00",
-  "fetched_at_est": "2026-06-02T11:10:32.647454-04:00",
+  "fetched_at_utc": "2026-06-02T15:50:38.282550+00:00",
+  "fetched_at_est": "2026-06-02T11:50:38.282556-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2061473907631157568",
-      "timestamp_utc": "2026-06-01T15:44:14.000Z",
-      "timestamp_est": "2026-06-01T11:44:14-04:00",
-      "tweet_text": "Very low volatility remains in #ES_F as we fill out the new range. As posted, the range is 7565 to 7604, with 7585 being a magnet in the middle. 2hrs ago we swept 7585, recovered, then pinned there. 7604 was next up, here now.\n\n7620 if this can clear. 7585, 7565 remain supports https://t.co/S8sucEvEEV",
-      "added_bull_levels": [
-        7604.0,
-        7620.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7604 named as 'next up' resistance and 7620 explicitly flagged as next target 'if this can clear' \u2014 both new actionable levels not in morning plan."
-    },
     {
       "tweet_id": "2061491805086965901",
       "timestamp_utc": "2026-06-01T16:55:21.000Z",
