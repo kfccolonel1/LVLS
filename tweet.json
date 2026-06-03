@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T12:03:15.323372+00:00",
-  "fetched_at_est": "2026-06-03T08:03:15.323376-04:00",
+  "fetched_at_utc": "2026-06-03T12:23:24.843604+00:00",
+  "fetched_at_est": "2026-06-03T08:23:24.843609-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061785223663071577",
-      "timestamp_utc": "2026-06-02T12:21:18.000Z",
-      "timestamp_est": "2026-06-02T08:21:18-04:00",
-      "tweet_text": "@sarcastic_hedgi Very typical summer trading so far. Build range, rally, build range, rally. Probably continues for a month or two now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary on summer trading pattern. No price levels named or actionable triggers identified."
-    },
     {
       "tweet_id": "2061798222587117814",
       "timestamp_utc": "2026-06-02T13:12:57.000Z",
@@ -123,6 +114,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7652 named as a breakout target ('7652 when we break') and not in morning plan. 7632, 7643, 7604, 7587 are all existing morning-plan levels."
+    },
+    {
+      "tweet_id": "2062146846487662600",
+      "timestamp_utc": "2026-06-03T12:18:15.000Z",
+      "timestamp_est": "2026-06-03T08:18:15-04:00",
+      "tweet_text": "@OnTheHooch The 7604 level held nicely! Hopefully can get another spike down at some point, this peak slow summer trading now otherwise",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7604 is already in the morning plan; tweet is conversational observation of price action holding that level, not naming a new actionable level."
     }
   ]
 }
