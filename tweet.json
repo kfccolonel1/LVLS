@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T16:54:46.551994+00:00",
-  "fetched_at_est": "2026-06-03T12:54:46.551999-04:00",
+  "fetched_at_utc": "2026-06-03T17:34:54.680435+00:00",
+  "fetched_at_est": "2026-06-03T13:34:54.680439-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -177,6 +177,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about bull cycle structure and flag breakout. No actionable price levels named anywhere in the tweet."
+    },
+    {
+      "tweet_id": "2062225218609766769",
+      "timestamp_utc": "2026-06-03T17:29:41.000Z",
+      "timestamp_est": "2026-06-03T13:29:41-04:00",
+      "tweet_text": "Back to chop in #ES_F and this market is all about two levels: 7574-77 range support &amp; 7620 range resistance. At 9:45AM we held 7574 exact and rallied 23 points. Now, were back again after trapping it. 7577 reclaim with force takes back to 7587, 7604+\n\n7565, 7558 remain supports https://t.co/RmAbbGLGLB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7574-77, 7620, 7587, 7604, 7565, 7558) are either morning-plan levels or observations of price action; no new actionable levels introduced."
     }
   ]
 }
