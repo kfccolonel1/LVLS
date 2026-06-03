@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T12:23:24.843604+00:00",
-  "fetched_at_est": "2026-06-03T08:23:24.843609-04:00",
+  "fetched_at_utc": "2026-06-03T13:13:30.396374+00:00",
+  "fetched_at_est": "2026-06-03T09:13:30.396381-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061798222587117814",
-      "timestamp_utc": "2026-06-02T13:12:57.000Z",
-      "timestamp_est": "2026-06-02T09:12:57-04:00",
-      "tweet_text": "No volatility still in #ES_F. We typically get 1 burst per day and need to act fast. Per 4pm ystd newsletter, 7574-77 to 7620 is the range. We held 7574-77 exact and rallied. Now, nothing to do. 7605, 7620, 7636 if we trend more.\n\n7585, 7574-77 (watch traps here) remain supports https://t.co/wrvCytAWaK",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7574-77, 7605, 7620, 7636/7637, 7585) are either morning-plan levels or directional list reaffirmations; no new actionable levels named."
-    },
     {
       "tweet_id": "2061806955237081225",
       "timestamp_utc": "2026-06-02T13:47:39.000Z",
