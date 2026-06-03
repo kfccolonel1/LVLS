@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T19:15:05.832894+00:00",
-  "fetched_at_est": "2026-06-03T15:15:05.832901-04:00",
+  "fetched_at_utc": "2026-06-03T19:25:11.183108+00:00",
+  "fetched_at_est": "2026-06-03T15:25:11.183112-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -168,6 +168,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7574-77, 7620, 7587, 7604, 7565, 7558) are either morning-plan levels or observations of price action; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2062253741391118496",
+      "timestamp_utc": "2026-06-03T19:23:01.000Z",
+      "timestamp_est": "2026-06-03T15:23:01-04:00",
+      "tweet_text": "Closing update #ES_F: Nice level to level move. I posted 2hrs ago that 7577 must reclaim to take ES back to 7587 (hit), 7604. We remain rangebound 7577-74 to 7620 and 7577-74 is a massive range. Newsletter out soon talking next entries from here.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7577, 7587, 7604, 7620) are morning-plan levels; tweet is a hindsight recap with no new actionable levels introduced."
     }
   ]
 }
