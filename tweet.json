@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T15:14:21.305319+00:00",
-  "fetched_at_est": "2026-06-03T11:14:21.305334-04:00",
+  "fetched_at_utc": "2026-06-03T16:24:32.529984+00:00",
+  "fetched_at_est": "2026-06-03T12:24:32.529988-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -150,6 +150,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7574-77, 7604, 7620) are observations of price action or reaffirmations of morning-plan levels; 7574 dip reference is a hindsight/observation note, not a new actionable level."
+    },
+    {
+      "tweet_id": "2062207064181497877",
+      "timestamp_utc": "2026-06-03T16:17:32.000Z",
+      "timestamp_est": "2026-06-03T12:17:32-04:00",
+      "tweet_text": "As posted, we got our morning spike in volatility, now chop in #ES_F. Levels respecting perfectly. The range is 7574-77 to 7620. At 9:45AM, we held 7574 *exact* and rallied 23 points. Now back again, weaker this time.\n\n7593, 7604, 7620 still above. 7565, 7558 if we can break down https://t.co/GAbcU6l4LS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7574-77, 7620, 7593, 7604, 7565, 7558) are either morning-plan levels or range observations/reaffirmations; no new actionable levels introduced."
     }
   ]
 }
