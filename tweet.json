@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T17:34:54.680435+00:00",
-  "fetched_at_est": "2026-06-03T13:34:54.680439-04:00",
+  "fetched_at_utc": "2026-06-03T18:04:58.614389+00:00",
+  "fetched_at_est": "2026-06-03T14:04:58.614398-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061870363273764973",
-      "timestamp_utc": "2026-06-02T17:59:36.000Z",
-      "timestamp_est": "2026-06-02T13:59:36-04:00",
-      "tweet_text": "As warned - do not trade today until we get a clear burst of volatility. 7620 to 7574-77=the range. Newsletter readers were given this at 4pm ystd. #ES_F sold to 7574-77 last eve, held exact, then rallied up the range. Todays targets were 7605, 7620.\n\n7636, 7648 are next now https://t.co/3Rc4nHx9Wj",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7636 and 7648 appear as next targets, but 7648 is already in morning plan and 7636 is presented as a directional list extension, not explicitly named with actionable naming language."
-    },
     {
       "tweet_id": "2061889203416219891",
       "timestamp_utc": "2026-06-02T19:14:28.000Z",
