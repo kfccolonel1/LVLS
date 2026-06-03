@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T18:04:58.614389+00:00",
-  "fetched_at_est": "2026-06-03T14:04:58.614398-04:00",
+  "fetched_at_utc": "2026-06-03T19:15:05.832894+00:00",
+  "fetched_at_est": "2026-06-03T15:15:05.832901-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061889203416219891",
-      "timestamp_utc": "2026-06-02T19:14:28.000Z",
-      "timestamp_est": "2026-06-02T15:14:28-04:00",
-      "tweet_text": "Closing update #ES_F: Another slow day. 7574-77 to 7620 is the range and we spent all day at range resistance. 7637, 7648  next once we break out. Another large trend likely is setting up. Newsletter out soon with entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7574-77, 7620, 7637, 7648) are already in the morning plan. No new actionable levels named."
-    },
     {
       "tweet_id": "2062141919614915000",
       "timestamp_utc": "2026-06-03T11:58:41.000Z",
