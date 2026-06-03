@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T14:03:55.980907+00:00",
-  "fetched_at_est": "2026-06-03T10:03:55.980911-04:00",
+  "fetched_at_utc": "2026-06-03T14:24:04.536440+00:00",
+  "fetched_at_est": "2026-06-03T10:24:04.536454-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061814194186404001",
-      "timestamp_utc": "2026-06-02T14:16:25.000Z",
-      "timestamp_est": "2026-06-02T10:16:25-04:00",
-      "tweet_text": "The current regime in #ES_F is simple: We get our 1 vol burst a day, which leads to a long, then we grind up/chop. 7574-77 to 7620 is the range given in newsletter. We held support exact last eve, up we went. Today's targets were 7605 (hit), 7620 next. Then breakout 7636+ https://t.co/QaiOeUWbUO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7574-77, 7605, 7620, 7636/7637) are reaffirmations of morning-plan levels or hindsight references to newsletter/earlier targets already published."
-    },
     {
       "tweet_id": "2061820958449562091",
       "timestamp_utc": "2026-06-02T14:43:17.000Z",
@@ -159,6 +150,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary/reply; no price named, no actionable level, no naming language. Just opinion on volatility outlook."
+    },
+    {
+      "tweet_id": "2062177426705178862",
+      "timestamp_utc": "2026-06-03T14:19:46.000Z",
+      "timestamp_est": "2026-06-03T10:19:46-04:00",
+      "tweet_text": "Total technical precision today in #ES_F. 7574-77 to 7620 is the range as posted. We sold to 7574 *exact* and rallied nicely. Newsletter readers were given the specific long trigger for this level. Now, just ride runner, nothing to do.\n\n7604, 7620 above, then breakout. Sell&lt;74 https://t.co/ijsRmL9201",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All referenced levels (7574-77, 7620, 7604) are morning-plan levels; tweet is trade management/reaffirmation with no newly named actionable levels."
+    },
+    {
+      "tweet_id": "2062177561736589696",
+      "timestamp_utc": "2026-06-03T14:20:18.000Z",
+      "timestamp_est": "2026-06-03T10:20:18-04:00",
+      "tweet_text": "@MihaiBerende @AStendorr Great to hear!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a casual social reply with no price levels, no actionable language, and no trading content whatsoever."
     }
   ]
 }
