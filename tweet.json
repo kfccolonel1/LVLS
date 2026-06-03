@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T14:54:11.141129+00:00",
-  "fetched_at_est": "2026-06-03T10:54:11.141137-04:00",
+  "fetched_at_utc": "2026-06-03T15:14:21.305319+00:00",
+  "fetched_at_est": "2026-06-03T11:14:21.305334-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061827086885466306",
-      "timestamp_utc": "2026-06-02T15:07:39.000Z",
-      "timestamp_est": "2026-06-02T11:07:39-04:00",
-      "tweet_text": "The grind up continues in #ES_F and nothing to do now. Current regime is we get 1 burst of volatility per day to be longed. Then, we just grind up for 24hrs. 7574-77 was range support as posted. Held exact. Today's targets given 8am were 7605 (hit) 7620 (hit).\n\n7636, 7648 next https://t.co/21N4VdgvAT",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7636 and 7648 are morning-plan levels (7637, 7648); all other prices are observations or reaffirmations of existing plan levels. No new actionable levels."
-    },
     {
       "tweet_id": "2061848970867953848",
       "timestamp_utc": "2026-06-02T16:34:36.000Z",
@@ -141,6 +132,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a casual social reply with no price levels, no actionable language, and no trading content whatsoever."
+    },
+    {
+      "tweet_id": "2062188715913474093",
+      "timestamp_utc": "2026-06-03T15:04:38.000Z",
+      "timestamp_est": "2026-06-03T11:04:38-04:00",
+      "tweet_text": "@StephenJ223624 I got in on the newsletter entry (77 shelf FBD). I don't include the best entries here on Twitter since newsletter readers pay for me. In a Mode 2 range I typically only engage range support",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining trade logic and newsletter policy; '77 shelf' is a vague reference to existing morning levels (~7779), no new actionable price named."
+    },
+    {
+      "tweet_id": "2062189063130562774",
+      "timestamp_utc": "2026-06-03T15:06:00.000Z",
+      "timestamp_est": "2026-06-03T11:06:00-04:00",
+      "tweet_text": "We got our injection of volatility and now chop in #ES_F. Levels respecting perfectly. 7574-77 was support of a range with 7620 resistance. We sold to 7574 *exact* - longs triggered - and up we went. 7604, 7620 if ES wants more, then multi-day break.\n\nNext dip is under 7574 https://t.co/hagTYBMj2p",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7574-77, 7604, 7620) are observations of price action or reaffirmations of morning-plan levels; 7574 dip reference is a hindsight/observation note, not a new actionable level."
     }
   ]
 }
