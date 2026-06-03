@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T13:23:35.950948+00:00",
-  "fetched_at_est": "2026-06-03T09:23:35.950952-04:00",
+  "fetched_at_utc": "2026-06-03T13:53:51.046936+00:00",
+  "fetched_at_est": "2026-06-03T09:53:51.046945-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2061806955237081225",
-      "timestamp_utc": "2026-06-02T13:47:39.000Z",
-      "timestamp_est": "2026-06-02T09:47:39-04:00",
-      "tweet_text": "@ChrisHux It was just a retest of the shelf, that was an actionable long too though for whoever wanted it. I didn't take that one though and I'm just riding my runner from yesterday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet; no new price levels named. Mentions 'shelf' without a price, discusses runner management \u2014 pure trade management/observation."
-    },
     {
       "tweet_id": "2061814194186404001",
       "timestamp_utc": "2026-06-02T14:16:25.000Z",
@@ -123,6 +114,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7574-77, 7587, 7604, 7620, 7632, 7643) are already in the morning plan; tweet is a reaffirmation/observation, no new levels introduced."
+    },
+    {
+      "tweet_id": "2062169197803692191",
+      "timestamp_utc": "2026-06-03T13:47:04.000Z",
+      "timestamp_est": "2026-06-03T09:47:04-04:00",
+      "tweet_text": "@JohnSantil65902 @Alberkas Its very typical summer trading. Usually one bout of volatility per day then lots of grind",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on summer trading patterns, no price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2062169507171344825",
+      "timestamp_utc": "2026-06-03T13:48:18.000Z",
+      "timestamp_est": "2026-06-03T09:48:18-04:00",
+      "tweet_text": "@thekhomish For sure - typically the trend will be in proportion to the range size roughly. Likely see 3-4 days of trend at least from this range when we break out",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply comment about trend duration/proportion after range breakout; no price named, purely conversational/educational commentary."
+    },
+    {
+      "tweet_id": "2062169940992336252",
+      "timestamp_utc": "2026-06-03T13:50:01.000Z",
+      "timestamp_est": "2026-06-03T09:50:01-04:00",
+      "tweet_text": "We are getting today's small injection of volatility finally in #ES_F and the range continues to respect perfectly. 7620 resistance, 7574-77 support. We held 74-77 Monday, ran to 7620, now back to 7574-77\n\nWatch reclaims of 7587 now to see 7604+. 7565, 7558 are below this shelf https://t.co/Jo8naXP2pv",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7620, 7577, 7587, 7604, 7565, 7558) are morning-plan levels; tweet is range observation and reaffirmation, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2062170783263105291",
+      "timestamp_utc": "2026-06-03T13:53:22.000Z",
+      "timestamp_est": "2026-06-03T09:53:22-04:00",
+      "tweet_text": "@AStendorr No change from newsletter, I don't include the high quality ones here for free",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels named; purely a comment about newsletter content. No actionable levels introduced."
     }
   ]
 }
