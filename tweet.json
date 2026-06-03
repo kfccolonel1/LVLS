@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T16:44:41.764316+00:00",
-  "fetched_at_est": "2026-06-03T12:44:41.764320-04:00",
+  "fetched_at_utc": "2026-06-03T16:54:46.551994+00:00",
+  "fetched_at_est": "2026-06-03T12:54:46.551999-04:00",
   "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
   "todays_new_levels": [
     {
@@ -168,6 +168,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary/opinion about bull market direction. No prices named, no actionable levels, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2062214751493484548",
+      "timestamp_utc": "2026-06-03T16:48:05.000Z",
+      "timestamp_est": "2026-06-03T12:48:05-04:00",
+      "tweet_text": "@NYJets2017 @tradivate I just track the technicals and broad cycles. Right now we are quite obviously early in this particular cycle and we just broke out of a multi-month flag in April. There will be 3-4 repetitions of that still like all bull markets.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about bull cycle structure and flag breakout. No actionable price levels named anywhere in the tweet."
     }
   ]
 }
