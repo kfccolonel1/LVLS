@@ -1,20 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-02T19:21:16.819724+00:00",
-  "fetched_at_est": "2026-06-02T15:21:16.819729-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-06-03T12:03:15.323372+00:00",
+  "fetched_at_est": "2026-06-03T08:03:15.323376-04:00",
+  "last_new_level_added_at_est": "2026-06-03T07:58:41-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2061779808925667736",
-      "timestamp_utc": "2026-06-02T11:59:47.000Z",
-      "timestamp_est": "2026-06-02T07:59:47-04:00",
-      "tweet_text": "Volatility remains low in #ES_F. Per last nights 4pm newsletter, ES is rangebound 7574-77 to 7620. Levels respecting perfectly: 10pm last night we held 7574-77 *exact* and rallied +30\n\nPlan: Just ride runner. 7605, 7620, 7636 if ES wants more. 7585, 7574-77 (watch traps)=supports https://t.co/6rd5BC9BTM",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7605, 7620, 7636/7637, 7574-77) are morning-plan levels or reaffirmations; 'ride runner' is trade management, no new actionable levels named."
-    },
+      "price": 7652.0,
+      "side": "bull",
+      "added_at_est": "2026-06-03T07:58:41-04:00",
+      "expires_at_est": "2026-06-03T15:58:41-04:00",
+      "from_tweet_id": "2062141919614915000"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2061785223663071577",
       "timestamp_utc": "2026-06-02T12:21:18.000Z",
@@ -113,6 +112,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7574-77, 7620, 7637, 7648) are already in the morning plan. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2062141919614915000",
+      "timestamp_utc": "2026-06-03T11:58:41.000Z",
+      "timestamp_est": "2026-06-03T07:58:41-04:00",
+      "tweet_text": "We remain in ultra low vol in #ES_F. As posted, the range is 7620 to  7574-77. Monday eve - per newsletter - we held 7575 &amp; ran. Yesterday's target was 7620, we've flagged below all night\n\nPlan: Ride your runner. 7632, 7643, 7652 when we break. 7604 (watch traps), 7587=supports https://t.co/H2xGKqCrqs",
+      "added_bull_levels": [
+        7652.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7652 named as a breakout target ('7652 when we break') and not in morning plan. 7632, 7643, 7604, 7587 are all existing morning-plan levels."
     }
   ]
 }
