@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T17:38:13.035541+00:00",
-  "fetched_at_est": "2026-06-04T13:38:13.035552-04:00",
+  "fetched_at_utc": "2026-06-04T18:08:19.923485+00:00",
+  "fetched_at_est": "2026-06-04T14:08:19.923489-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -158,6 +158,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about uptrend behavior; no price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2062596844543156416",
+      "timestamp_utc": "2026-06-04T18:06:23.000Z",
+      "timestamp_est": "2026-06-04T14:06:23-04:00",
+      "tweet_text": "There's 7604 tagged. Another massive bear trap in #ES_F. The squeeze trigger was same as always: A Failed Breakdown. Failed Breakdown of 7527 was the long trigger, we got it at 7:40AM. Targets given 8am were 7588, 7565, 7575, 7587, 7604.\n\n7620 next, then multi-day trend starts https://t.co/K1NlzVmdkO",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7527, 7588, 7565, 7575, 7587, 7604, 7620) are morning-plan levels or hindsight references to targets already given; no new actionable levels introduced."
     }
   ]
 }
