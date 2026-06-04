@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T12:06:47.777876+00:00",
-  "fetched_at_est": "2026-06-04T08:06:47.777880-04:00",
+  "fetched_at_utc": "2026-06-04T12:26:53.435965+00:00",
+  "fetched_at_est": "2026-06-04T08:26:53.435970-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062146846487662600",
-      "timestamp_utc": "2026-06-03T12:18:15.000Z",
-      "timestamp_est": "2026-06-03T08:18:15-04:00",
-      "tweet_text": "@OnTheHooch The 7604 level held nicely! Hopefully can get another spike down at some point, this peak slow summer trading now otherwise",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7604 is already in the morning plan; tweet is conversational observation of price action holding that level, not naming a new actionable level."
-    },
     {
       "tweet_id": "2062161282275422700",
       "timestamp_utc": "2026-06-03T13:15:37.000Z",
@@ -194,6 +185,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices cited (7527, 7558, 7563/7565\u22487563, 7574/7575\u22487574.5, 7620) are already in the morning plan; tweet is a reaffirmation/recap, not new levels."
+    },
+    {
+      "tweet_id": "2062509451672740257",
+      "timestamp_utc": "2026-06-04T12:19:07.000Z",
+      "timestamp_est": "2026-06-04T08:19:07-04:00",
+      "tweet_text": "@DavidBohn11 I don't do that unless I'm in a trade. I have stops set on my existing trades but I don't really care what price does in the middle of the night If I'm not actively trading. I only look to take 5 or so points out a day and I can usually find that during my usual trading hours",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet explaining trading habits/schedule. No prices mentioned, no actionable levels of any kind."
     }
   ]
 }
