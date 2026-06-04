@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T16:48:03.594567+00:00",
-  "fetched_at_est": "2026-06-04T12:48:03.594583-04:00",
+  "fetched_at_utc": "2026-06-04T16:58:08.784756+00:00",
+  "fetched_at_est": "2026-06-04T12:58:08.784761-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062214751493484548",
-      "timestamp_utc": "2026-06-03T16:48:05.000Z",
-      "timestamp_est": "2026-06-03T12:48:05-04:00",
-      "tweet_text": "@NYJets2017 @tradivate I just track the technicals and broad cycles. Right now we are quite obviously early in this particular cycle and we just broke out of a multi-month flag in April. There will be 3-4 repetitions of that still like all bull markets.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about bull cycle structure and flag breakout. No actionable price levels named anywhere in the tweet."
-    },
     {
       "tweet_id": "2062225218609766769",
       "timestamp_utc": "2026-06-03T17:29:41.000Z",
@@ -167,6 +158,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary on multi-year market outlook. No specific price levels named or actionable entries/targets/supports/resistances mentioned."
+    },
+    {
+      "tweet_id": "2062578607394832743",
+      "timestamp_utc": "2026-06-04T16:53:55.000Z",
+      "timestamp_est": "2026-06-04T12:53:55-04:00",
+      "tweet_text": "@Super_Straigh_T Always do in an uptrend! Just a matter of how long it takes. Its been quicker than usual lately though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about uptrend behavior; no price levels named or actionable instructions given."
     }
   ]
 }
