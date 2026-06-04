@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T19:48:37.440532+00:00",
-  "fetched_at_est": "2026-06-04T15:48:37.440536-04:00",
+  "fetched_at_utc": "2026-06-04T21:48:47.849706+00:00",
+  "fetched_at_est": "2026-06-04T17:48:47.849711-04:00",
   "last_new_level_added_at_est": "2026-06-04T15:23:39-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062289317062402351",
-      "timestamp_utc": "2026-06-03T21:44:23.000Z",
-      "timestamp_est": "2026-06-03T17:44:23-04:00",
-      "tweet_text": "@ashwagamma @OnTheHooch Small so far but if it doesnt get bought up by tomorrow morning we may get some good volatility out of it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no price levels named; purely directional/volatility commentary with no actionable price."
-    },
     {
       "tweet_id": "2062328227201155422",
       "timestamp_utc": "2026-06-04T00:19:00.000Z",
