@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T15:07:34.438529+00:00",
-  "fetched_at_est": "2026-06-04T11:07:34.438534-04:00",
+  "fetched_at_utc": "2026-06-04T15:27:40.550895+00:00",
+  "fetched_at_est": "2026-06-04T11:27:40.550900-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -149,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7575, 7620, 7527, 7558, 7565, 7587) are morning-plan levels or observations of hits/price action; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2062554440981250067",
+      "timestamp_utc": "2026-06-04T15:17:53.000Z",
+      "timestamp_est": "2026-06-04T11:17:53-04:00",
+      "tweet_text": "@lukeylukerton Accumulation was done at 27 overnight and with the failed breakdown. Can very clearly see massive institutional buying there (and its why it was a long trigger)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining why 7527 was a long trigger \u2014 observation/hindsight of existing morning-plan level, no new actionable level named."
     }
   ]
 }
