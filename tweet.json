@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T16:37:53.702153+00:00",
-  "fetched_at_est": "2026-06-04T12:37:53.702161-04:00",
+  "fetched_at_utc": "2026-06-04T16:48:03.594567+00:00",
+  "fetched_at_est": "2026-06-04T12:48:03.594583-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062213778750521531",
-      "timestamp_utc": "2026-06-03T16:44:13.000Z",
-      "timestamp_est": "2026-06-03T12:44:13-04:00",
-      "tweet_text": "@NYJets2017 @tradivate We are in a bull market, we will continue up for several years still. It won't be in a straight line obviously, there will be dips and corrections as in all bull markets and as there have been in this bull market",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/opinion about bull market direction. No prices named, no actionable levels, no naming language whatsoever."
-    },
     {
       "tweet_id": "2062214751493484548",
       "timestamp_utc": "2026-06-03T16:48:05.000Z",
@@ -149,6 +140,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7527, 7558, 7565, 7575, 7587, 7604, 7620) are morning-plan levels or reaffirmations; tweet is hindsight recap with no new actionable levels."
+    },
+    {
+      "tweet_id": "2062575777388924991",
+      "timestamp_utc": "2026-06-04T16:42:40.000Z",
+      "timestamp_est": "2026-06-04T12:42:40-04:00",
+      "tweet_text": "@fin202twit Stops always go below the lowest low. So in this case a few points under 7525",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management reply \u2014 specifying stop placement below 7525. No new actionable level named; 7527 is already in morning plan."
+    },
+    {
+      "tweet_id": "2062576215756595685",
+      "timestamp_utc": "2026-06-04T16:44:25.000Z",
+      "timestamp_est": "2026-06-04T12:44:25-04:00",
+      "tweet_text": "Long still paying &amp; work is done until the next \"elevator down\" sell to trap bears again. 7527 was support given and #ES_F formed a shelf there. Flush and recovery was long trigger. Triggered 7:40AM. Targets were 7558, 7565, 7575, 7587 (all hit).\n\n7604, 7620 next, then breakout https://t.co/uRr6L4PWSX",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7527, 7558, 7565, 7575, 7587, 7604, 7620) are morning-plan levels or hindsight trade recaps \u2014 no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2062576572826022112",
+      "timestamp_utc": "2026-06-04T16:45:50.000Z",
+      "timestamp_est": "2026-06-04T12:45:50-04:00",
+      "tweet_text": "@Shepdog69138782 Market will continue going up for several years as I've said repetitively since May last year, but dips will vary in size. They wont always be a 1 day dip. We will have several larger/longer corrections to trap bears more extensively",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary on multi-year market outlook. No specific price levels named or actionable entries/targets/supports/resistances mentioned."
     }
   ]
 }
