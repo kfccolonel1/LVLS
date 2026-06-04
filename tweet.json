@@ -1,20 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T18:08:19.923485+00:00",
-  "fetched_at_est": "2026-06-04T14:08:19.923489-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-06-04T19:28:30.731881+00:00",
+  "fetched_at_est": "2026-06-04T15:28:30.731885-04:00",
+  "last_new_level_added_at_est": "2026-06-04T15:23:39-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2062253741391118496",
-      "timestamp_utc": "2026-06-03T19:23:01.000Z",
-      "timestamp_est": "2026-06-03T15:23:01-04:00",
-      "tweet_text": "Closing update #ES_F: Nice level to level move. I posted 2hrs ago that 7577 must reclaim to take ES back to 7587 (hit), 7604. We remain rangebound 7577-74 to 7620 and 7577-74 is a massive range. Newsletter out soon talking next entries from here.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7577, 7587, 7604, 7620) are morning-plan levels; tweet is a hindsight recap with no new actionable levels introduced."
-    },
+      "price": 7652.0,
+      "side": "bull",
+      "added_at_est": "2026-06-04T15:23:39-04:00",
+      "expires_at_est": "2026-06-04T23:23:39-04:00",
+      "from_tweet_id": "2062616289093316738"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2062289317062402351",
       "timestamp_utc": "2026-06-03T21:44:23.000Z",
@@ -167,6 +166,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7527, 7588, 7565, 7575, 7587, 7604, 7620) are morning-plan levels or hindsight references to targets already given; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2062616289093316738",
+      "timestamp_utc": "2026-06-04T19:23:39.000Z",
+      "timestamp_est": "2026-06-04T15:23:39-04:00",
+      "tweet_text": "Closing update #ES_F: Another big bear trap day as we swept the shelf at 7527, recovered, then rallied. Now just ride runner for 7620, 7630, then 7652+. 7587 is nearest support now. Newsletter out soon with next entries",
+      "added_bull_levels": [
+        7652.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7652 named as a new upside target ('7652+') not in morning plan; 7620/7630/7587 are morning-plan levels (reaffirmations)."
     }
   ]
 }
