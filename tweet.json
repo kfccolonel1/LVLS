@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T13:47:11.148919+00:00",
-  "fetched_at_est": "2026-06-04T09:47:11.148925-04:00",
+  "fetched_at_utc": "2026-06-04T13:57:16.610583+00:00",
+  "fetched_at_est": "2026-06-04T09:57:16.610588-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062169507171344825",
-      "timestamp_utc": "2026-06-03T13:48:18.000Z",
-      "timestamp_est": "2026-06-03T09:48:18-04:00",
-      "tweet_text": "@thekhomish For sure - typically the trend will be in proportion to the range size roughly. Likely see 3-4 days of trend at least from this range when we break out",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply comment about trend duration/proportion after range breakout; no price named, purely conversational/educational commentary."
-    },
-    {
-      "tweet_id": "2062169940992336252",
-      "timestamp_utc": "2026-06-03T13:50:01.000Z",
-      "timestamp_est": "2026-06-03T09:50:01-04:00",
-      "tweet_text": "We are getting today's small injection of volatility finally in #ES_F and the range continues to respect perfectly. 7620 resistance, 7574-77 support. We held 74-77 Monday, ran to 7620, now back to 7574-77\n\nWatch reclaims of 7587 now to see 7604+. 7565, 7558 are below this shelf https://t.co/Jo8naXP2pv",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7620, 7577, 7587, 7604, 7565, 7558) are morning-plan levels; tweet is range observation and reaffirmation, no new actionable levels named."
-    },
-    {
-      "tweet_id": "2062170783263105291",
-      "timestamp_utc": "2026-06-03T13:53:22.000Z",
-      "timestamp_est": "2026-06-03T09:53:22-04:00",
-      "tweet_text": "@AStendorr No change from newsletter, I don't include the high quality ones here for free",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels named; purely a comment about newsletter content. No actionable levels introduced."
-    },
     {
       "tweet_id": "2062172100614308286",
       "timestamp_utc": "2026-06-03T13:58:36.000Z",
@@ -194,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7527, 7558, 7565/7574, 7575/7574.5, 7576) are in the morning plan or are hindsight/reaffirmation references. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2062533493993648412",
+      "timestamp_utc": "2026-06-04T13:54:39.000Z",
+      "timestamp_est": "2026-06-04T09:54:39-04:00",
+      "tweet_text": "Good follow through and there's 7558 1st target hit in #ES_F. The setup was the Failed Breakdown of 7527 which was a massive support shelf. We got it at 7:40Am. Targets today were 7558 (hit), 7565, 7575 (must must recover to bottom it out).\n\n7527=support still, sell below https://t.co/JyyUJroV76",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7558, 7527, 7565, 7575) are morning-plan levels; tweet is reaffirmation + trade observation, no new actionable levels introduced."
     }
   ]
 }
