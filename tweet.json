@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T19:28:30.731881+00:00",
-  "fetched_at_est": "2026-06-04T15:28:30.731885-04:00",
+  "fetched_at_utc": "2026-06-04T19:48:37.440532+00:00",
+  "fetched_at_est": "2026-06-04T15:48:37.440536-04:00",
   "last_new_level_added_at_est": "2026-06-04T15:23:39-04:00",
   "todays_new_levels": [
     {
@@ -177,6 +177,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7652 named as a new upside target ('7652+') not in morning plan; 7620/7630/7587 are morning-plan levels (reaffirmations)."
+    },
+    {
+      "tweet_id": "2062621605268758792",
+      "timestamp_utc": "2026-06-04T19:44:47.000Z",
+      "timestamp_est": "2026-06-04T15:44:47-04:00",
+      "tweet_text": "@AnthonyPetril15 Stops on runners go below the prior days low OR beneath a major and clear higher low. Put it under by a few points",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management advice about stop placement rules; no specific actionable price level named."
     }
   ]
 }
