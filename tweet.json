@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T14:07:18.784196+00:00",
-  "fetched_at_est": "2026-06-04T10:07:18.784203-04:00",
+  "fetched_at_utc": "2026-06-04T14:27:25.972668+00:00",
+  "fetched_at_est": "2026-06-04T10:27:25.972672-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062177426705178862",
-      "timestamp_utc": "2026-06-03T14:19:46.000Z",
-      "timestamp_est": "2026-06-03T10:19:46-04:00",
-      "tweet_text": "Total technical precision today in #ES_F. 7574-77 to 7620 is the range as posted. We sold to 7574 *exact* and rallied nicely. Newsletter readers were given the specific long trigger for this level. Now, just ride runner, nothing to do.\n\n7604, 7620 above, then breakout. Sell&lt;74 https://t.co/ijsRmL9201",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All referenced levels (7574-77, 7620, 7604) are morning-plan levels; tweet is trade management/reaffirmation with no newly named actionable levels."
-    },
-    {
-      "tweet_id": "2062177561736589696",
-      "timestamp_utc": "2026-06-03T14:20:18.000Z",
-      "timestamp_est": "2026-06-03T10:20:18-04:00",
-      "tweet_text": "@MihaiBerende @AStendorr Great to hear!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a casual social reply with no price levels, no actionable language, and no trading content whatsoever."
-    },
     {
       "tweet_id": "2062188715913474093",
       "timestamp_utc": "2026-06-03T15:04:38.000Z",
@@ -167,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7558, 7527, 7565, 7575) are morning-plan levels; tweet is reaffirmation + trade observation, no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2062541024266752207",
+      "timestamp_utc": "2026-06-04T14:24:35.000Z",
+      "timestamp_est": "2026-06-04T10:24:35-04:00",
+      "tweet_text": "@experimntal I may be interested in other entries on the way down but just none actually triggered! we never got the 65 failed breakdown last evening for example.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a prior setup that never triggered ('65 failed breakdown'). No new actionable level named; '65' is a casual shorthand reference, not a new level introduction."
     }
   ]
 }
