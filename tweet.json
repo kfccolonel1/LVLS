@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-03T21:45:27.408218+00:00",
-  "fetched_at_est": "2026-06-03T17:45:27.408223-04:00",
+  "fetched_at_utc": "2026-06-04T00:25:45.694598+00:00",
+  "fetched_at_est": "2026-06-03T20:25:45.694614-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -178,6 +178,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with no price levels named; purely directional/volatility commentary with no actionable price."
+    },
+    {
+      "tweet_id": "2062328227201155422",
+      "timestamp_utc": "2026-06-04T00:19:00.000Z",
+      "timestamp_est": "2026-06-03T20:19:00-04:00",
+      "tweet_text": "@AlbanoRick That's not my edge! I did that for many years and it cost me win rate. Its not as simple as \"shorting when its going down\". If you add a new trade type like that, those trades have an associated win rate, its typically far lower, and drags down my total win rate and R/R",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply about trading methodology/edge philosophy. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2062329255980073330",
+      "timestamp_utc": "2026-06-04T00:23:05.000Z",
+      "timestamp_est": "2026-06-03T20:23:05-04:00",
+      "tweet_text": "@AlbanoRick No problem. I could re-add breakdown shorts to my setups for example, but with Failed Breakdowns I am at a 95%+ win rate. Breakdown Shorts I'd be something like 40-60%. In addition, I'd have to miss the Failed Breakdown/squeeze after the short. So I am 1) Lowering my avg win rate",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading strategy philosophy (FBD vs breakdown shorts, win rates). No price levels named or actionable triggers mentioned."
     }
   ]
 }
