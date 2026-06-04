@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T13:17:02.851630+00:00",
-  "fetched_at_est": "2026-06-04T09:17:02.851637-04:00",
+  "fetched_at_utc": "2026-06-04T13:27:08.180114+00:00",
+  "fetched_at_est": "2026-06-04T09:27:08.180119-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -194,6 +194,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply about position sizing/volatility management. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2062523994331402736",
+      "timestamp_utc": "2026-06-04T13:16:54.000Z",
+      "timestamp_est": "2026-06-04T09:16:54-04:00",
+      "tweet_text": "Last evening we finally broke down the multi-day range which was 7574 to 7620. First stop down was 7527 per yesterday's 4pm newsletter. We held it exact all night, then trapped below at 7:40AM to trigger long.\n\nNo change from 8am post. 7558, 7565, 7575 next. Bulls must recover 75 https://t.co/Fp8HJOeBHt",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7527, 7558, 7565/7574, 7575/7574.5, 7576) are in the morning plan or are hindsight/reaffirmation references. No new actionable levels named."
     }
   ]
 }
