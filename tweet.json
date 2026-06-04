@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T14:27:25.972668+00:00",
-  "fetched_at_est": "2026-06-04T10:27:25.972672-04:00",
+  "fetched_at_utc": "2026-06-04T15:07:34.438529+00:00",
+  "fetched_at_est": "2026-06-04T11:07:34.438534-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062188715913474093",
-      "timestamp_utc": "2026-06-03T15:04:38.000Z",
-      "timestamp_est": "2026-06-03T11:04:38-04:00",
-      "tweet_text": "@StephenJ223624 I got in on the newsletter entry (77 shelf FBD). I don't include the best entries here on Twitter since newsletter readers pay for me. In a Mode 2 range I typically only engage range support",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining trade logic and newsletter policy; '77 shelf' is a vague reference to existing morning levels (~7779), no new actionable price named."
-    },
-    {
-      "tweet_id": "2062189063130562774",
-      "timestamp_utc": "2026-06-03T15:06:00.000Z",
-      "timestamp_est": "2026-06-03T11:06:00-04:00",
-      "tweet_text": "We got our injection of volatility and now chop in #ES_F. Levels respecting perfectly. 7574-77 was support of a range with 7620 resistance. We sold to 7574 *exact* - longs triggered - and up we went. 7604, 7620 if ES wants more, then multi-day break.\n\nNext dip is under 7574 https://t.co/hagTYBMj2p",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7574-77, 7604, 7620) are observations of price action or reaffirmations of morning-plan levels; 7574 dip reference is a hindsight/observation note, not a new actionable level."
-    },
     {
       "tweet_id": "2062207064181497877",
       "timestamp_utc": "2026-06-03T16:17:32.000Z",
@@ -158,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing a prior setup that never triggered ('65 failed breakdown'). No new actionable level named; '65' is a casual shorthand reference, not a new level introduction."
+    },
+    {
+      "tweet_id": "2062549678323892318",
+      "timestamp_utc": "2026-06-04T14:58:58.000Z",
+      "timestamp_est": "2026-06-04T10:58:58-04:00",
+      "tweet_text": "Most the good action done for now in #ES_F. 7575 to 7620 was the multi-day range. It broke down this morning. 7527 then became supports, and traps of that shelf trigger long. We triggered at 740AM. \n\nTodays targets were 7558 (hit), 7565 (hit), 7575. Recovery bottoms us to 7587+ https://t.co/GobdkVF7BO",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7575, 7620, 7527, 7558, 7565, 7587) are morning-plan levels or observations of hits/price action; no new actionable levels named."
     }
   ]
 }
