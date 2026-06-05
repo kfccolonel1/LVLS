@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T15:21:51.962991+00:00",
-  "fetched_at_est": "2026-06-05T11:21:51.963000-04:00",
+  "fetched_at_utc": "2026-06-05T15:31:54.119099+00:00",
+  "fetched_at_est": "2026-06-05T11:31:54.119106-04:00",
   "last_new_level_added_at_est": "2026-06-05T10:03:04-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062556859442069725",
-      "timestamp_utc": "2026-06-04T15:27:30.000Z",
-      "timestamp_est": "2026-06-04T11:27:30-04:00",
-      "tweet_text": "Today was a simple day &amp; good illustration of how my edge works. 1) Price goes \"elevator down\" 2) The Failed Breakdown zone is planned - 7527 in this case. It sweeps, bears trapped, we long. 3) Targets given: 7558, 7565, 7575, 7587. All hit in #ES_F.\n\nWork done. 7604, 7620 next https://t.co/wTcapd7gGP",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7527, 7558, 7565, 7575, 7587, 7604, 7620) are morning-plan levels or reaffirmations; tweet is hindsight recap with no new actionable levels."
-    },
     {
       "tweet_id": "2062575777388924991",
       "timestamp_utc": "2026-06-04T16:42:40.000Z",
