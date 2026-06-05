@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T12:20:30.203989+00:00",
-  "fetched_at_est": "2026-06-05T08:20:30.203994-04:00",
+  "fetched_at_utc": "2026-06-05T12:50:33.696525+00:00",
+  "fetched_at_est": "2026-06-05T08:50:33.696532-04:00",
   "last_new_level_added_at_est": "2026-06-05T07:50:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062516015620145483",
-      "timestamp_utc": "2026-06-04T12:45:12.000Z",
-      "timestamp_est": "2026-06-04T08:45:12-04:00",
-      "tweet_text": "@PotsieWeber1949 @DavidBohn11 Its mostly the same every trade, I cut it in half though when volatility is extremely elevated  but we haven't had conditions to warrant that since March",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about position sizing/volatility management. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2062523994331402736",
       "timestamp_utc": "2026-06-04T13:16:54.000Z",
