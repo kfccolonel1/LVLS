@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T14:00:51.304130+00:00",
-  "fetched_at_est": "2026-06-05T10:00:51.304138-04:00",
-  "last_new_level_added_at_est": "2026-06-05T09:15:17-04:00",
+  "fetched_at_utc": "2026-06-05T14:11:00.459964+00:00",
+  "fetched_at_est": "2026-06-05T10:11:00.459977-04:00",
+  "last_new_level_added_at_est": "2026-06-05T10:03:04-04:00",
   "todays_new_levels": [
     {
       "price": 7549.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-06-05T09:15:17-04:00",
       "expires_at_est": "2026-06-05T17:15:17-04:00",
       "from_tweet_id": "2062885975043228127"
+    },
+    {
+      "price": 7538.0,
+      "side": "bull",
+      "added_at_est": "2026-06-05T10:03:04-04:00",
+      "expires_at_est": "2026-06-05T18:03:04-04:00",
+      "from_tweet_id": "2062897999378849804"
     }
   ],
   "updates": [
@@ -225,6 +232,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Trade management tweet only \u2014 describing stop placement process under prior day low (7525 is in morning plan). No new actionable level named."
+    },
+    {
+      "tweet_id": "2062897999378849804",
+      "timestamp_utc": "2026-06-05T14:03:04.000Z",
+      "timestamp_est": "2026-06-05T10:03:04-04:00",
+      "tweet_text": "Finally getting some volatility expansion in #ES_F (elevator down) which means we can start stalking trades again. 7527-7620 has been the range. Yesterday we trapped 27, got long, rallied to 7604+. Now sub 27 again\n\n7527 must reclaim to rally to 7538, 7549. 7502, 7488, 7473 below https://t.co/180gyHhXWs",
+      "added_bull_levels": [
+        7538.0,
+        7549.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7538 and 7549 named as rally targets if 7527 reclaims \u2014 not in morning plan. 7527/7502/7473 are morning plan reaffirmations."
+    },
+    {
+      "tweet_id": "2062898890869784707",
+      "timestamp_utc": "2026-06-05T14:06:37.000Z",
+      "timestamp_est": "2026-06-05T10:06:37-04:00",
+      "tweet_text": "@NerdRageDan Not much volatility but at least its an \"elevator down\" sell which means I can open up the platform finally!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on market volatility and trade management; no price levels named or actionable triggers given."
     }
   ]
 }
