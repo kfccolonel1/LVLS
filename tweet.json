@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T13:30:47.716524+00:00",
-  "fetched_at_est": "2026-06-05T09:30:47.716542-04:00",
+  "fetched_at_utc": "2026-06-05T14:00:51.304130+00:00",
+  "fetched_at_est": "2026-06-05T10:00:51.304138-04:00",
   "last_new_level_added_at_est": "2026-06-05T09:15:17-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062533493993648412",
-      "timestamp_utc": "2026-06-04T13:54:39.000Z",
-      "timestamp_est": "2026-06-04T09:54:39-04:00",
-      "tweet_text": "Good follow through and there's 7558 1st target hit in #ES_F. The setup was the Failed Breakdown of 7527 which was a massive support shelf. We got it at 7:40Am. Targets today were 7558 (hit), 7565, 7575 (must must recover to bottom it out).\n\n7527=support still, sell below https://t.co/JyyUJroV76",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7558, 7527, 7565, 7575) are morning-plan levels; tweet is reaffirmation + trade observation, no new actionable levels introduced."
-    },
     {
       "tweet_id": "2062541024266752207",
       "timestamp_utc": "2026-06-04T14:24:35.000Z",
