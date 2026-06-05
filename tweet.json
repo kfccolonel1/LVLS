@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T14:11:00.459964+00:00",
-  "fetched_at_est": "2026-06-05T10:11:00.459977-04:00",
+  "fetched_at_utc": "2026-06-05T14:21:05.679835+00:00",
+  "fetched_at_est": "2026-06-05T10:21:05.679839-04:00",
   "last_new_level_added_at_est": "2026-06-05T10:03:04-04:00",
   "todays_new_levels": [
     {
@@ -253,6 +253,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on market volatility and trade management; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2062901469477573067",
+      "timestamp_utc": "2026-06-05T14:16:51.000Z",
+      "timestamp_est": "2026-06-05T10:16:51-04:00",
+      "tweet_text": "@Pete66668332642 @NerdRageDan It depends on the volatility regime but in a strong bull market like we are in now, something like 20-70 points in half an hour or less would be a small elevator down. Social media is also useful here, you will typically see panic/exagerated remarks etc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational/conversational reply about volatility regimes and social media signals. No actionable price named whatsoever."
     }
   ]
 }
