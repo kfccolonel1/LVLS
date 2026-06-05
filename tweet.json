@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-04T21:48:47.849706+00:00",
-  "fetched_at_est": "2026-06-04T17:48:47.849711-04:00",
+  "fetched_at_utc": "2026-06-05T00:19:01.589250+00:00",
+  "fetched_at_est": "2026-06-04T20:19:01.589257-04:00",
   "last_new_level_added_at_est": "2026-06-04T15:23:39-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062328227201155422",
-      "timestamp_utc": "2026-06-04T00:19:00.000Z",
-      "timestamp_est": "2026-06-03T20:19:00-04:00",
-      "tweet_text": "@AlbanoRick That's not my edge! I did that for many years and it cost me win rate. Its not as simple as \"shorting when its going down\". If you add a new trade type like that, those trades have an associated win rate, its typically far lower, and drags down my total win rate and R/R",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply about trading methodology/edge philosophy. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2062329255980073330",
       "timestamp_utc": "2026-06-04T00:23:05.000Z",
