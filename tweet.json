@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T12:10:28.100723+00:00",
-  "fetched_at_est": "2026-06-05T08:10:28.100728-04:00",
+  "fetched_at_utc": "2026-06-05T12:20:30.203989+00:00",
+  "fetched_at_est": "2026-06-05T08:20:30.203994-04:00",
   "last_new_level_added_at_est": "2026-06-05T07:50:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062509451672740257",
-      "timestamp_utc": "2026-06-04T12:19:07.000Z",
-      "timestamp_est": "2026-06-04T08:19:07-04:00",
-      "tweet_text": "@DavidBohn11 I don't do that unless I'm in a trade. I have stops set on my existing trades but I don't really care what price does in the middle of the night If I'm not actively trading. I only look to take 5 or so points out a day and I can usually find that during my usual trading hours",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet explaining trading habits/schedule. No prices mentioned, no actionable levels of any kind."
-    },
     {
       "tweet_id": "2062516015620145483",
       "timestamp_utc": "2026-06-04T12:45:12.000Z",
