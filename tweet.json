@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T18:33:11.485251+00:00",
-  "fetched_at_est": "2026-06-05T14:33:11.485263-04:00",
+  "fetched_at_utc": "2026-06-05T18:43:20.970730+00:00",
+  "fetched_at_est": "2026-06-05T14:43:20.970743-04:00",
   "last_new_level_added_at_est": "2026-06-05T12:37:47-04:00",
   "todays_new_levels": [
     {
@@ -448,6 +448,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about trading philosophy/advice; no price levels mentioned or implied."
+    },
+    {
+      "tweet_id": "2062966589352186091",
+      "timestamp_utc": "2026-06-05T18:35:37.000Z",
+      "timestamp_est": "2026-06-05T14:35:37-04:00",
+      "tweet_text": "@ashwagamma For sure! Structure looking very bullish now, though wouldn't shock me if we close at the lows today",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with directional opinion only; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2062967085429350625",
+      "timestamp_utc": "2026-06-05T18:37:35.000Z",
+      "timestamp_est": "2026-06-05T14:37:35-04:00",
+      "tweet_text": "@OnTheHooch Need the red to fuel the green!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user with no price named; purely conversational commentary, no actionable level."
+    },
+    {
+      "tweet_id": "2062967585662988485",
+      "timestamp_utc": "2026-06-05T18:39:35.000Z",
+      "timestamp_est": "2026-06-05T14:39:35-04:00",
+      "tweet_text": "@bit_cosby I wasn't \"wrong\" about anything. The bear case was very clearly given in the newsletter (first time its triggered in weeks), and no long entries triggered today via my process. https://t.co/UcBkGtZGtj",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet defending methodology; no prices mentioned, no actionable levels named."
     }
   ]
 }
