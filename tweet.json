@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T15:11:38.462587+00:00",
-  "fetched_at_est": "2026-06-05T11:11:38.462602-04:00",
+  "fetched_at_utc": "2026-06-05T15:21:51.962991+00:00",
+  "fetched_at_est": "2026-06-05T11:21:51.963000-04:00",
   "last_new_level_added_at_est": "2026-06-05T10:03:04-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062554440981250067",
-      "timestamp_utc": "2026-06-04T15:17:53.000Z",
-      "timestamp_est": "2026-06-04T11:17:53-04:00",
-      "tweet_text": "@lukeylukerton Accumulation was done at 27 overnight and with the failed breakdown. Can very clearly see massive institutional buying there (and its why it was a long trigger)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining why 7527 was a long trigger \u2014 observation/hindsight of existing morning-plan level, no new actionable level named."
-    },
     {
       "tweet_id": "2062556859442069725",
       "timestamp_utc": "2026-06-04T15:27:30.000Z",
@@ -319,6 +310,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining entry methodology near 7527 (morning plan level). No new actionable price named; '27' is a reaffirmation of existing 7527."
+    },
+    {
+      "tweet_id": "2062916965799256229",
+      "timestamp_utc": "2026-06-05T15:18:26.000Z",
+      "timestamp_est": "2026-06-05T11:18:26-04:00",
+      "tweet_text": "@aread_22 Can happen anytime in this case! Or not at all. Its better for bulls to see more downside at as always",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no price named; purely directional commentary about bulls preferring more downside \u2014 no actionable level introduced."
+    },
+    {
+      "tweet_id": "2062917558454399411",
+      "timestamp_utc": "2026-06-05T15:20:47.000Z",
+      "timestamp_est": "2026-06-05T11:20:47-04:00",
+      "tweet_text": "Volatility drying now as we enter the mid day chop in #ES_F. Levels continue to respect and its all about 7527. It was support yesterday, trapped, rallied to 7604+ target. Failed today &amp; now resistance for the last hr.\n\nMust recover to rally to 7538, 7549+. 7502, 7488, 7473 below https://t.co/fMPJcIbHJq",
+      "added_bull_levels": [
+        7538.0,
+        7549.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7538 and 7549 are named as 'must recover' rally targets \u2014 actionable bull targets not in morning plan. 7502/7473 are morning plan reaffirmations; 7488 is new but listed without naming language."
     }
   ]
 }
