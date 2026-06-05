@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T14:31:13.447489+00:00",
-  "fetched_at_est": "2026-06-05T10:31:13.447504-04:00",
+  "fetched_at_utc": "2026-06-05T14:51:25.785502+00:00",
+  "fetched_at_est": "2026-06-05T10:51:25.785516-04:00",
   "last_new_level_added_at_est": "2026-06-05T10:03:04-04:00",
   "todays_new_levels": [
     {
@@ -271,6 +271,36 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet referencing 7527 (morning plan level) with no actionable naming language; purely observational about reclaim status."
+    },
+    {
+      "tweet_id": "2062908163385397608",
+      "timestamp_utc": "2026-06-05T14:43:27.000Z",
+      "timestamp_est": "2026-06-05T10:43:27-04:00",
+      "tweet_text": "Decent volatility &amp; levels respecting well - this market remains all about 7527. It was the trap here yesterday that got us long to 7604+. Today, we flushed it, and have spent the last 30mins backtesting.\n\n7527 must reclaim to rally today to 7538, 7549+. 7502, 7488, 7473 below https://t.co/XS1DdBSRfe",
+      "added_bull_levels": [
+        7538.0,
+        7549.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7538 and 7549 named as explicit rally targets if 7527 reclaims \u2014 not in morning plan. 7502/7473 are morning plan levels; 7488 checked against plan and not listed, but used only as directional reference without naming language."
+    },
+    {
+      "tweet_id": "2062909269217779951",
+      "timestamp_utc": "2026-06-05T14:47:51.000Z",
+      "timestamp_est": "2026-06-05T10:47:51-04:00",
+      "tweet_text": "@experimntal @franek_to I don't use candle closes at all in my system since they are arbitrary. A 5min candle can close above 7533 for example without price actually having spent any time above the level. You want to see price actually holding above the level for a few minutes and ideally pushing",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining methodology; 7533 is a casual illustrative example, not explicitly named as actionable with naming language."
+    },
+    {
+      "tweet_id": "2062909533920350373",
+      "timestamp_utc": "2026-06-05T14:48:54.000Z",
+      "timestamp_est": "2026-06-05T10:48:54-04:00",
+      "tweet_text": "@Ole_Gregor Exactly! Price will likely be above 7532 by the time that few minutes actually elapses (probably higher 7530s) but thats fine, just means its strong",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7532/7530s as price observation, no actionable naming language; 7527/7528 already in morning plan."
     }
   ]
 }
