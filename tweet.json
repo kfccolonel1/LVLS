@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T15:31:54.119099+00:00",
-  "fetched_at_est": "2026-06-05T11:31:54.119106-04:00",
+  "fetched_at_utc": "2026-06-05T15:42:02.468894+00:00",
+  "fetched_at_est": "2026-06-05T11:42:02.468908-04:00",
   "last_new_level_added_at_est": "2026-06-05T10:03:04-04:00",
   "todays_new_levels": [
     {
@@ -322,6 +322,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7538 and 7549 are named as 'must recover' rally targets \u2014 actionable bull targets not in morning plan. 7502/7473 are morning plan reaffirmations; 7488 is new but listed without naming language."
+    },
+    {
+      "tweet_id": "2062921872883286211",
+      "timestamp_utc": "2026-06-05T15:37:56.000Z",
+      "timestamp_est": "2026-06-05T11:37:56-04:00",
+      "tweet_text": "@NickYale1 I didn't include that entry in the newsletter for an important reason, because we wouldve lost the 27 shelf.  After a strucutural breakdown the first several failed breakdowns are often risky.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user explaining trade rationale; no actionable price level named, only a casual reference to '27 shelf' (7527, already in morning plan)."
+    },
+    {
+      "tweet_id": "2062922585923350773",
+      "timestamp_utc": "2026-06-05T15:40:46.000Z",
+      "timestamp_est": "2026-06-05T11:40:46-04:00",
+      "tweet_text": "Today all about 7527 level in #ES_F and its the bull/bear line. It was support yesterday from which we trapped &amp; ran to 7604 target. It failed today, triggering down, and acted as res all morning. Must recover to rally.\n\nDownsides were 7502 (hit), 7487 (hit), 7474 (watch traps) https://t.co/yT049fxxoP",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7527, 7502, 7487, 7474) are either in the morning plan or observations of price action/hindsight; no new actionable levels introduced."
     }
   ]
 }
