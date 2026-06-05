@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T16:52:36.299689+00:00",
-  "fetched_at_est": "2026-06-05T12:52:36.299694-04:00",
+  "fetched_at_utc": "2026-06-05T17:02:38.344210+00:00",
+  "fetched_at_est": "2026-06-05T13:02:38.344219-04:00",
   "last_new_level_added_at_est": "2026-06-05T12:37:47-04:00",
   "todays_new_levels": [
     {
@@ -42,15 +42,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062578607394832743",
-      "timestamp_utc": "2026-06-04T16:53:55.000Z",
-      "timestamp_est": "2026-06-04T12:53:55-04:00",
-      "tweet_text": "@Super_Straigh_T Always do in an uptrend! Just a matter of how long it takes. Its been quicker than usual lately though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about uptrend behavior; no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2062596844543156416",
       "timestamp_utc": "2026-06-04T18:06:23.000Z",
