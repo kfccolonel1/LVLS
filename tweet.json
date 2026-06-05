@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T17:32:46.542190+00:00",
-  "fetched_at_est": "2026-06-05T13:32:46.542203-04:00",
+  "fetched_at_utc": "2026-06-05T17:42:51.151520+00:00",
+  "fetched_at_est": "2026-06-05T13:42:51.151524-04:00",
   "last_new_level_added_at_est": "2026-06-05T12:37:47-04:00",
   "todays_new_levels": [
     {
@@ -403,6 +403,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational/contextual commentary about historical volatility patterns. No price levels named, no actionable language used."
+    },
+    {
+      "tweet_id": "2062951156372984272",
+      "timestamp_utc": "2026-06-05T17:34:18.000Z",
+      "timestamp_est": "2026-06-05T13:34:18-04:00",
+      "tweet_text": "Today's dip was caused by the failure of a multi-day support shelf at 7527. It was support yesterday, failed this morning, backtested as resistance, and flushed. 7527 must recover to bottom out.\n\n7474 recovery can start a pop up that direction. 7458, 7439 remain below now https://t.co/EaptykLeXf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7527, 7474, 7458, 7439 all in morning plan. Tweet is observation/reaffirmation of existing levels, no new actionable prices introduced."
     }
   ]
 }
