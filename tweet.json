@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T00:19:01.589250+00:00",
-  "fetched_at_est": "2026-06-04T20:19:01.589257-04:00",
+  "fetched_at_utc": "2026-06-05T00:29:05.108097+00:00",
+  "fetched_at_est": "2026-06-04T20:29:05.108103-04:00",
   "last_new_level_added_at_est": "2026-06-04T15:23:39-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062329255980073330",
-      "timestamp_utc": "2026-06-04T00:23:05.000Z",
-      "timestamp_est": "2026-06-03T20:23:05-04:00",
-      "tweet_text": "@AlbanoRick No problem. I could re-add breakdown shorts to my setups for example, but with Failed Breakdowns I am at a 95%+ win rate. Breakdown Shorts I'd be something like 40-60%. In addition, I'd have to miss the Failed Breakdown/squeeze after the short. So I am 1) Lowering my avg win rate",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trading strategy philosophy (FBD vs breakdown shorts, win rates). No price levels named or actionable triggers mentioned."
-    },
     {
       "tweet_id": "2062504158574326205",
       "timestamp_utc": "2026-06-04T11:58:05.000Z",
