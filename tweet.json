@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T14:51:25.785502+00:00",
-  "fetched_at_est": "2026-06-05T10:51:25.785516-04:00",
+  "fetched_at_utc": "2026-06-05T15:01:30.738947+00:00",
+  "fetched_at_est": "2026-06-05T11:01:30.738952-04:00",
   "last_new_level_added_at_est": "2026-06-05T10:03:04-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062549678323892318",
-      "timestamp_utc": "2026-06-04T14:58:58.000Z",
-      "timestamp_est": "2026-06-04T10:58:58-04:00",
-      "tweet_text": "Most the good action done for now in #ES_F. 7575 to 7620 was the multi-day range. It broke down this morning. 7527 then became supports, and traps of that shelf trigger long. We triggered at 740AM. \n\nTodays targets were 7558 (hit), 7565 (hit), 7575. Recovery bottoms us to 7587+ https://t.co/GobdkVF7BO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7575, 7620, 7527, 7558, 7565, 7587) are morning-plan levels or observations of hits/price action; no new actionable levels named."
-    },
     {
       "tweet_id": "2062554440981250067",
       "timestamp_utc": "2026-06-04T15:17:53.000Z",
@@ -301,6 +292,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing 7532/7530s as price observation, no actionable naming language; 7527/7528 already in morning plan."
+    },
+    {
+      "tweet_id": "2062910776206090345",
+      "timestamp_utc": "2026-06-05T14:53:50.000Z",
+      "timestamp_est": "2026-06-05T10:53:50-04:00",
+      "tweet_text": "@RobyArnoldi Usually its fairly straight forward, today we have lots of acceptance but the entry still doesn't change. I always err on the side of waiting longer though as newsletter readers know. I have a huge section on how \"If you rush, you lose\" with Failed Breakdowns",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is methodology/educational commentary about patience with Failed Breakdowns, not an actionable level."
     }
   ]
 }
