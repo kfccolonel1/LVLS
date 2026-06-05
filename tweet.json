@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T18:12:54.874011+00:00",
-  "fetched_at_est": "2026-06-05T14:12:54.874018-04:00",
+  "fetched_at_utc": "2026-06-05T18:33:11.485251+00:00",
+  "fetched_at_est": "2026-06-05T14:33:11.485263-04:00",
   "last_new_level_added_at_est": "2026-06-05T12:37:47-04:00",
   "todays_new_levels": [
     {
@@ -403,6 +403,51 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7527, 7474, 7458, 7439 all in morning plan. Tweet is observation/reaffirmation of existing levels, no new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2062964070521659426",
+      "timestamp_utc": "2026-06-05T18:25:37.000Z",
+      "timestamp_est": "2026-06-05T14:25:37-04:00",
+      "tweet_text": "We continue to work down levels nicely as #ES_F gets the first dip day in weeks. Cause of the sell was the breakdown of the 7527 multi-day shelf triggering down, no long triggers since. Downside targets were 7502, 7474, 7458, 7439 (here). 74 must reclaim to pop\n\n7410-15 below https://t.co/YtRVYTVeP6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7527, 7502, 7474, 7458, 7439, 7410-15) are reaffirmations of morning plan levels; '74 must reclaim' is observation/trade mgmt, not a new named level."
+    },
+    {
+      "tweet_id": "2062964187932877292",
+      "timestamp_utc": "2026-06-05T18:26:05.000Z",
+      "timestamp_est": "2026-06-05T14:26:05-04:00",
+      "tweet_text": "@kjfxmonk I don't short - I only trade Failed Breakdown longs. Newsletter readers got the short trigger on the 7527 failure though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7527 is a morning-plan level; tweet is a conversational reply explaining trade style, not naming any new actionable level."
+    },
+    {
+      "tweet_id": "2062964833088082399",
+      "timestamp_utc": "2026-06-05T18:28:38.000Z",
+      "timestamp_est": "2026-06-05T14:28:38-04:00",
+      "tweet_text": "@JohnnyComeL8Lee I don't! I only trade the long side. I cut out shorts in Feb 2025 after about 15 years",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet about personal trading style; no price levels mentioned or implied whatsoever."
+    },
+    {
+      "tweet_id": "2062965258713436581",
+      "timestamp_utc": "2026-06-05T18:30:20.000Z",
+      "timestamp_est": "2026-06-05T14:30:20-04:00",
+      "tweet_text": "Note: 7439 is a possible reclaim level but make sure to take profits level to level",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7439 is already in the morning plan; this is a reaffirmation with trade management advice (take profits level to level), not a new major level."
+    },
+    {
+      "tweet_id": "2062965613912293396",
+      "timestamp_utc": "2026-06-05T18:31:45.000Z",
+      "timestamp_est": "2026-06-05T14:31:45-04:00",
+      "tweet_text": "@daveydaytraderr @JohnnyComeL8Lee That's why I did it! I had contemplated it for several years after studying my performance though. I generally wouldn't recommend any retail traders short and definitely not in an uptrend. Skill level required to grind out an edge is far too high",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading philosophy/advice; no price levels mentioned or implied."
     }
   ]
 }
