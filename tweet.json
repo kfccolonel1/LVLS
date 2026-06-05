@@ -1,20 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T03:29:33.279393+00:00",
-  "fetched_at_est": "2026-06-04T23:29:33.279400-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-06-05T12:00:23.266985+00:00",
+  "fetched_at_est": "2026-06-05T08:00:23.266998-04:00",
+  "last_new_level_added_at_est": "2026-06-05T07:50:17-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2062504158574326205",
-      "timestamp_utc": "2026-06-04T11:58:05.000Z",
-      "timestamp_est": "2026-06-04T07:58:05-04:00",
-      "tweet_text": "We finally got a little vol overnight. All week the  #ES_F range was 7574 (which paid us 5x) to 7620. Overnight, it finally lost. Per newsletter, traps of 7527 were buyable &amp; we just got it\n\nPlan: 7558, 7565, 7575 next (bulls must recover). 7527 (watch traps)=support. Sell below https://t.co/kmOQvxMS4a",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices cited (7527, 7558, 7563/7565\u22487563, 7574/7575\u22487574.5, 7620) are already in the morning plan; tweet is a reaffirmation/recap, not new levels."
-    },
+      "price": 7549.0,
+      "side": "bull",
+      "added_at_est": "2026-06-05T07:50:17-04:00",
+      "expires_at_est": "2026-06-05T15:50:17-04:00",
+      "from_tweet_id": "2062864583442809263"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2062509451672740257",
       "timestamp_utc": "2026-06-04T12:19:07.000Z",
@@ -187,6 +186,35 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet commenting on market psychology/covid bull run; no actionable price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2062864583442809263",
+      "timestamp_utc": "2026-06-05T11:50:17.000Z",
+      "timestamp_est": "2026-06-05T07:50:17-04:00",
+      "tweet_text": "Yesterday was simple in #ES_F as we work a new range. 7527 Failed Breakdown was long trigger given. We triggered 7:40AM. Targets were 7587 main (hit). Bonus were 7604 (hit), 7620. 7527-7620=the new range\n\nPlan: 7549 (held), 7527 (watch traps)=supports. 7577, 7587, 7604 targets. https://t.co/K1NlzVmdkO",
+      "added_bull_levels": [
+        7549.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7549 named explicitly as support ('held') in plan context \u2014 not in morning plan. 7527/7577/7587/7604 are all existing morning-plan levels."
+    },
+    {
+      "tweet_id": "2062866576680874202",
+      "timestamp_utc": "2026-06-05T11:58:12.000Z",
+      "timestamp_est": "2026-06-05T07:58:12-04:00",
+      "tweet_text": "@FJN1961 The 7549 setup from the newsletter triggered and played out last evening already. I didn't take that though as It wasn't a high quality Failed Breakdown. I made clear in the newsletter where that setup was. If we don't get that I will just ride runner from 27 yesterday all day",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7549 is a newsletter reference (hindsight/already-triggered), 27 is trade management (runner from prior entry). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2062867040780550422",
+      "timestamp_utc": "2026-06-05T12:00:03.000Z",
+      "timestamp_est": "2026-06-05T08:00:03-04:00",
+      "tweet_text": "@anchovy_paste Not really because then I would need to predict, and I don't predict as my hardest rule. I'd need a way to know in advance where on that curve an FBD would go (is it average, above, below). That's completely impossible, so it has to be systematized.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply about methodology/philosophy with no price levels named or actionable signals given."
     }
   ]
 }
