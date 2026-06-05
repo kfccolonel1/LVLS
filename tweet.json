@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T17:02:38.344210+00:00",
-  "fetched_at_est": "2026-06-05T13:02:38.344219-04:00",
+  "fetched_at_utc": "2026-06-05T17:32:46.542190+00:00",
+  "fetched_at_est": "2026-06-05T13:32:46.542203-04:00",
   "last_new_level_added_at_est": "2026-06-05T12:37:47-04:00",
   "todays_new_levels": [
     {
@@ -385,6 +385,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary/reply; no prices mentioned, no actionable levels named. No extraction warranted."
+    },
+    {
+      "tweet_id": "2062948930250293441",
+      "timestamp_utc": "2026-06-05T17:25:27.000Z",
+      "timestamp_est": "2026-06-05T13:25:27-04:00",
+      "tweet_text": "@Trade1233288310 @NerdRageDan Just had a 2.7% pullback under less than a month ago. For a move of this magnitude though that is very shallow still, we have not even had a 5-10% dip yet. Most uptrends you will see at least one 5% dip a month then a 10% dip every few months",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about pullback percentages; no actionable price named, no naming language, no level explicitly identified."
+    },
+    {
+      "tweet_id": "2062949831874576673",
+      "timestamp_utc": "2026-06-05T17:29:02.000Z",
+      "timestamp_est": "2026-06-05T13:29:02-04:00",
+      "tweet_text": "@Trade1233288310 @NerdRageDan In the current parabolic context its unusual but its the context thats not normal not the 2% dip. In normal ES conditions like from last September to March we would get 2% dips often once every two weeks, sometimes more",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational/contextual commentary about historical volatility patterns. No price levels named, no actionable language used."
     }
   ]
 }
