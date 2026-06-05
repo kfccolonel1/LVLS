@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T12:50:33.696525+00:00",
-  "fetched_at_est": "2026-06-05T08:50:33.696532-04:00",
-  "last_new_level_added_at_est": "2026-06-05T07:50:17-04:00",
+  "fetched_at_utc": "2026-06-05T13:20:40.323700+00:00",
+  "fetched_at_est": "2026-06-05T09:20:40.323705-04:00",
+  "last_new_level_added_at_est": "2026-06-05T09:15:17-04:00",
   "todays_new_levels": [
     {
       "price": 7549.0,
@@ -11,18 +11,16 @@
       "added_at_est": "2026-06-05T07:50:17-04:00",
       "expires_at_est": "2026-06-05T15:50:17-04:00",
       "from_tweet_id": "2062864583442809263"
+    },
+    {
+      "price": 7577.0,
+      "side": "bull",
+      "added_at_est": "2026-06-05T09:15:17-04:00",
+      "expires_at_est": "2026-06-05T17:15:17-04:00",
+      "from_tweet_id": "2062885975043228127"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2062523994331402736",
-      "timestamp_utc": "2026-06-04T13:16:54.000Z",
-      "timestamp_est": "2026-06-04T09:16:54-04:00",
-      "tweet_text": "Last evening we finally broke down the multi-day range which was 7574 to 7620. First stop down was 7527 per yesterday's 4pm newsletter. We held it exact all night, then trapped below at 7:40AM to trigger long.\n\nNo change from 8am post. 7558, 7565, 7575 next. Bulls must recover 75 https://t.co/Fp8HJOeBHt",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7527, 7558, 7565/7574, 7575/7574.5, 7576) are in the morning plan or are hindsight/reaffirmation references. No new actionable levels named."
-    },
     {
       "tweet_id": "2062533493993648412",
       "timestamp_utc": "2026-06-04T13:54:39.000Z",
@@ -206,6 +204,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet offering trading philosophy advice; no prices named, no actionable levels referenced whatsoever."
+    },
+    {
+      "tweet_id": "2062885975043228127",
+      "timestamp_utc": "2026-06-05T13:15:17.000Z",
+      "timestamp_est": "2026-06-05T09:15:17-04:00",
+      "tweet_text": "Low volatility again to start in #ES_F as we remain midrange. 7527 to 7620=the range. Yesterday, the trap of 7527 got us long for the last entry, and we ran to 7587, 7604+ targets.\n\n7549 now support (watch traps), 7527 below which remains key (sell below). 7558, 7577+ upsides https://t.co/EIt29yw0OE",
+      "added_bull_levels": [
+        7549.0,
+        7577.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7549 named as 'now support (watch traps)' and 7577 named as upside target with '+'; neither is in the morning plan."
     }
   ]
 }
