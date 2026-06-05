@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T18:53:28.064329+00:00",
-  "fetched_at_est": "2026-06-05T14:53:28.064341-04:00",
+  "fetched_at_utc": "2026-06-05T19:03:35.262260+00:00",
+  "fetched_at_est": "2026-06-05T15:03:35.262274-04:00",
   "last_new_level_added_at_est": "2026-06-05T12:37:47-04:00",
   "todays_new_levels": [
     {
@@ -493,6 +493,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with rhetorical question about price history; no actionable price level named or implied."
+    },
+    {
+      "tweet_id": "2062972485872582806",
+      "timestamp_utc": "2026-06-05T18:59:03.000Z",
+      "timestamp_est": "2026-06-05T14:59:03-04:00",
+      "tweet_text": "@justjay_s @Josephdix2 Its a very good shelf to watch for a failed breakdown of. Right now just testing it, timing is awkward now though with the close/weekend incoming",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply conversation referencing 'a shelf' without naming a specific price; no explicit actionable level stated."
+    },
+    {
+      "tweet_id": "2062973438872924500",
+      "timestamp_utc": "2026-06-05T19:02:50.000Z",
+      "timestamp_est": "2026-06-05T15:02:50-04:00",
+      "tweet_text": "@dj_cremebrulee @ashwagamma Yes, but down moves and up moves in ES don't operate the same. When ES breaks ranges higher it tends to grind for days and days. When ES breaks ranges down it goes elevator down, covers lots of ground fast, then squeezes",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary on ES directional behavior; no price levels named, no actionable entries, targets, or triggers of any kind."
     }
   ]
 }
