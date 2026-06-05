@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T13:20:40.323700+00:00",
-  "fetched_at_est": "2026-06-05T09:20:40.323705-04:00",
+  "fetched_at_utc": "2026-06-05T13:30:47.716524+00:00",
+  "fetched_at_est": "2026-06-05T09:30:47.716542-04:00",
   "last_new_level_added_at_est": "2026-06-05T09:15:17-04:00",
   "todays_new_levels": [
     {
@@ -216,6 +216,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7549 named as 'now support (watch traps)' and 7577 named as upside target with '+'; neither is in the morning plan."
+    },
+    {
+      "tweet_id": "2062887415899894120",
+      "timestamp_utc": "2026-06-05T13:21:01.000Z",
+      "timestamp_est": "2026-06-05T09:21:01-04:00",
+      "tweet_text": "@tradivate Morphing as all ranges do! Structure actually looking a little more bearish now, fingers crossed",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels named at all; purely conversational commentary about market structure and personal sentiment."
+    },
+    {
+      "tweet_id": "2062887620242272318",
+      "timestamp_utc": "2026-06-05T13:21:49.000Z",
+      "timestamp_est": "2026-06-05T09:21:49-04:00",
+      "tweet_text": "@Trade4fun4you @FJN1961 My stops always go under the prior days low which is 7525 now. At the end of today I'll drag it under today's low. My opinions don't factor into my trade management at all its fully automated via my process",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management tweet only \u2014 describing stop placement process under prior day low (7525 is in morning plan). No new actionable level named."
     }
   ]
 }
