@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-05T16:02:16.518831+00:00",
-  "fetched_at_est": "2026-06-05T12:02:16.518836-04:00",
-  "last_new_level_added_at_est": "2026-06-05T11:48:26-04:00",
+  "fetched_at_utc": "2026-06-05T16:42:31.629215+00:00",
+  "fetched_at_est": "2026-06-05T12:42:31.629229-04:00",
+  "last_new_level_added_at_est": "2026-06-05T12:37:47-04:00",
   "todays_new_levels": [
     {
       "price": 7549.0,
@@ -32,6 +32,13 @@
       "added_at_est": "2026-06-05T11:48:26-04:00",
       "expires_at_est": "2026-06-05T19:48:26-04:00",
       "from_tweet_id": "2062924515806519563"
+    },
+    {
+      "price": 7474.0,
+      "side": "bull",
+      "added_at_est": "2026-06-05T12:37:47-04:00",
+      "expires_at_est": "2026-06-05T20:37:47-04:00",
+      "from_tweet_id": "2062936934641512917"
     }
   ],
   "updates": [
@@ -376,6 +383,35 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual reply mentioning 7527 (morning plan level) as a conversational recovery target; no naming language, no new actionable level introduced."
+    },
+    {
+      "tweet_id": "2062936934641512917",
+      "timestamp_utc": "2026-06-05T16:37:47.000Z",
+      "timestamp_est": "2026-06-05T12:37:47-04:00",
+      "tweet_text": "Dip continues in #ES_F and today was all about 7527. Support yesterday, failed today to trigger downside. It then became resistance this morning. Sell targets were 7502 (hit), 7487 (hit), 7474 (hit).\n\n7474 must reclaim to pop. 7458, 7439 below now. 7527 must recover to bottom https://t.co/LysiUcQJQ1",
+      "added_bull_levels": [
+        7474.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7474 named as actionable reclaim trigger ('must reclaim to pop') \u2014 not in morning plan. 7487 is new sell target hit but not in plan; however 'hit' = observation. 7474 reclaim is forward-looking trigger."
+    },
+    {
+      "tweet_id": "2062937588520849481",
+      "timestamp_utc": "2026-06-05T16:40:23.000Z",
+      "timestamp_est": "2026-06-05T12:40:23-04:00",
+      "tweet_text": "@NerdRageDan Its a dip, not a very big one but cant expect much a parabolic market like this. At least its half a red day though!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market conditions; no price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2062937808168173673",
+      "timestamp_utc": "2026-06-05T16:41:15.000Z",
+      "timestamp_est": "2026-06-05T12:41:15-04:00",
+      "tweet_text": "@MattLaTurnKnow I dont do anything until we get a planned failed breakdown entry triggering. If its a Mode 1 red day, sometimes this will occur later in the afternoon",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trade methodology/timing with no price levels named or actionable triggers identified."
     }
   ]
 }
