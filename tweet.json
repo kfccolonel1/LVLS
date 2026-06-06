@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-06T00:44:36.743682+00:00",
-  "fetched_at_est": "2026-06-05T20:44:36.743691-04:00",
+  "fetched_at_utc": "2026-06-06T00:54:39.547481+00:00",
+  "fetched_at_est": "2026-06-05T20:54:39.547487-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062699021852872754",
-      "timestamp_utc": "2026-06-05T00:52:24.000Z",
-      "timestamp_est": "2026-06-04T20:52:24-04:00",
-      "tweet_text": "@Shepdog69138782 Eventually, but we are still fairly early in this bull market technically speaking. Topping process itself takes about a year and maybe a couple years before that even starts",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure macro commentary on bull market timeline; no price level named, no actionable trigger or watch point mentioned."
-    },
-    {
-      "tweet_id": "2062699522661257272",
-      "timestamp_utc": "2026-06-05T00:54:23.000Z",
-      "timestamp_est": "2026-06-04T20:54:23-04:00",
-      "tweet_text": "@EGeorgiu22322 Valid as soon as newsletter comes out",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price mentioned; purely conversational, no actionable level named."
-    },
     {
       "tweet_id": "2062701743754924306",
       "timestamp_utc": "2026-06-05T01:03:13.000Z",
