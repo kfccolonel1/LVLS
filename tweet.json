@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-06T00:54:39.547481+00:00",
-  "fetched_at_est": "2026-06-05T20:54:39.547487-04:00",
+  "fetched_at_utc": "2026-06-06T01:04:41.881073+00:00",
+  "fetched_at_est": "2026-06-05T21:04:41.881078-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2062701743754924306",
-      "timestamp_utc": "2026-06-05T01:03:13.000Z",
-      "timestamp_est": "2026-06-04T21:03:13-04:00",
-      "tweet_text": "@NYJets2017 @Shepdog69138782 Markets generally don't care about economics unless there is a major recession/financial crisis, only care about flows, liquidity, and the fact institutions cannot underperform. It all appears on the chart.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/philosophy tweet; no prices mentioned, no actionable levels named."
-    },
-    {
-      "tweet_id": "2062702002925113616",
-      "timestamp_utc": "2026-06-05T01:04:15.000Z",
-      "timestamp_est": "2026-06-04T21:04:15-04:00",
-      "tweet_text": "@NYJets2017 @Shepdog69138782 Many people missed the entire covid bull market because they were focused on something that doesn't matter (the economy)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet commenting on market psychology/covid bull run; no actionable price levels named whatsoever."
-    },
     {
       "tweet_id": "2062864583442809263",
       "timestamp_utc": "2026-06-05T11:50:17.000Z",
