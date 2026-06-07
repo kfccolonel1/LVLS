@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T11:42:34.247843+00:00",
-  "fetched_at_est": "2026-06-07T07:42:34.247851-04:00",
+  "fetched_at_utc": "2026-06-07T12:52:40.583886+00:00",
+  "fetched_at_est": "2026-06-07T08:52:40.583892-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063241529192276027",
-      "timestamp_utc": "2026-06-06T12:48:08.000Z",
-      "timestamp_est": "2026-06-06T08:48:08-04:00",
-      "tweet_text": "@RBC_Trading @experimntal @WestNyc1 Definitely a transition day. Whenever price does one thing for weeks on end then suddenly does something different it is hard to trade as you have to switch gears early",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on market character/transition; no price levels named, no actionable triggers or entries mentioned."
-    },
     {
       "tweet_id": "2063268546402992344",
       "timestamp_utc": "2026-06-06T14:35:29.000Z",
