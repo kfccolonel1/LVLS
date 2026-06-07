@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T15:20:26.492731+00:00",
-  "fetched_at_est": "2026-06-07T11:20:26.492738-04:00",
+  "fetched_at_utc": "2026-06-07T15:40:28.994294+00:00",
+  "fetched_at_est": "2026-06-07T11:40:28.994302-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063284058751189214",
-      "timestamp_utc": "2026-06-06T15:37:08.000Z",
-      "timestamp_est": "2026-06-06T11:37:08-04:00",
-      "tweet_text": "@ES_Money_Print Its been a while mostly just because of the bullish context. We've had alot of shallow, fast Failed Breakdowns so for those the non acceptance protocol is just easiest. I use it in that context or if its just really choppy. its the vast majority of my entries though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining trading methodology/protocols. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2063343131232178517",
       "timestamp_utc": "2026-06-06T19:31:52.000Z",
