@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T20:51:17.084875+00:00",
-  "fetched_at_est": "2026-06-07T16:51:17.084883-04:00",
+  "fetched_at_utc": "2026-06-07T21:01:18.808389+00:00",
+  "fetched_at_est": "2026-06-07T17:01:18.808398-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063363976423952879",
-      "timestamp_utc": "2026-06-06T20:54:42.000Z",
-      "timestamp_est": "2026-06-06T16:54:42-04:00",
-      "tweet_text": "@AnotherX2802 To be fair the bear case hasnt triggered in probably a month until Friday!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply to a user; no price levels named, no actionable language whatsoever."
-    },
     {
       "tweet_id": "2063634911118889016",
       "timestamp_utc": "2026-06-07T14:51:17.000Z",
