@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T21:01:18.808389+00:00",
-  "fetched_at_est": "2026-06-07T17:01:18.808398-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-06-07T22:11:31.359329+00:00",
+  "fetched_at_est": "2026-06-07T18:11:31.359341-04:00",
+  "last_new_level_added_at_est": "2026-06-07T18:03:55-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7380.0,
+      "side": "bull",
+      "added_at_est": "2026-06-07T18:03:55-04:00",
+      "expires_at_est": "2026-06-08T02:03:55-04:00",
+      "from_tweet_id": "2063743785440338223"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2063634911118889016",
@@ -86,6 +94,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet; no price levels mentioned, no actionable naming language \u2014 pure conversational observation about algo behavior."
+    },
+    {
+      "tweet_id": "2063743785440338223",
+      "timestamp_utc": "2026-06-07T22:03:55.000Z",
+      "timestamp_est": "2026-06-07T18:03:55-04:00",
+      "tweet_text": "Muted opening for #ES_F despite Friday's volatility. It was the failure of 7527 shelf that triggered Friday's sell. Now, bulls must recover many key levels to regain control\n\n7380 reclaim is 1st low quality to scalp us to 7394, 7410. 7410 must recover to trigger backtest of 7527. https://t.co/b4CcWa2i8q",
+      "added_bull_levels": [
+        7380.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7380 named explicitly as '1st' reclaim trigger for bullside scalp \u2014 not in morning plan. 7394, 7410, 7527 are reaffirmations."
+    },
+    {
+      "tweet_id": "2063744200584139071",
+      "timestamp_utc": "2026-06-07T22:05:34.000Z",
+      "timestamp_est": "2026-06-07T18:05:34-04:00",
+      "tweet_text": "Note: Downside levels and entries are in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet references newsletter for levels but names no specific actionable price; purely directional/administrative statement with no new level introduced."
     }
   ]
 }
