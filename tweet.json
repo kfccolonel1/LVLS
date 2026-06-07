@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T19:40:51.953966+00:00",
-  "fetched_at_est": "2026-06-07T15:40:51.953972-04:00",
+  "fetched_at_utc": "2026-06-07T20:30:59.233813+00:00",
+  "fetched_at_est": "2026-06-07T16:30:59.233818-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -32,6 +32,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure methodology commentary with no price levels named whatsoever \u2014 no actionable prices, no new levels introduced."
+    },
+    {
+      "tweet_id": "2063720326832271423",
+      "timestamp_utc": "2026-06-07T20:30:42.000Z",
+      "timestamp_est": "2026-06-07T16:30:42-04:00",
+      "tweet_text": "@KyBp6 @turtle_trad3r Yes non-acceptance protocol is very simple. You can use it on any trade. For the 7527 long it never triggered at any point. Price has to hold above 7532 for a few minutes. Usually on a good entry the entry would be something like 7537 or 7538 since during that few mins pricec",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet explains non-acceptance protocol mechanics referencing existing morning plan level 7527; 7532/7537/7538 are illustrative examples in a reply, not actionable named levels."
     }
   ]
 }
