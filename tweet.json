@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T14:53:00.920670+00:00",
-  "fetched_at_est": "2026-06-07T10:53:00.920675-04:00",
+  "fetched_at_utc": "2026-06-07T15:20:26.492731+00:00",
+  "fetched_at_est": "2026-06-07T11:20:26.492738-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063278285220388939",
-      "timestamp_utc": "2026-06-06T15:14:11.000Z",
-      "timestamp_est": "2026-06-06T11:14:11-04:00",
-      "tweet_text": "@Foddmann Its just a magnet to be backtested. 2.2% isn't much in this volatility though ES can do that quite easily after a big sell",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing 2.2% distance only; no explicit price named, no actionable level language used."
-    },
     {
       "tweet_id": "2063284058751189214",
       "timestamp_utc": "2026-06-06T15:37:08.000Z",
