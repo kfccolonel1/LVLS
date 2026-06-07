@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T19:20:49.417662+00:00",
-  "fetched_at_est": "2026-06-07T15:20:49.417668-04:00",
+  "fetched_at_utc": "2026-06-07T19:40:51.953966+00:00",
+  "fetched_at_est": "2026-06-07T15:40:51.953972-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063343131232178517",
-      "timestamp_utc": "2026-06-06T19:31:52.000Z",
-      "timestamp_est": "2026-06-06T15:31:52-04:00",
-      "tweet_text": "@OnTheHooch Nothing to do with it. People always apply a narrative to every move. We had that strong NFP report Friday which would cause some algorithmic selling, it took us below a very key support (7527) then you get a feedback loop of selling begetting more selling. Air being let out",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7527 is already in today's morning plan; reference is observational/explanatory, not actionable naming language for a new level."
-    },
     {
       "tweet_id": "2063363976423952879",
       "timestamp_utc": "2026-06-06T20:54:42.000Z",
