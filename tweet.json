@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T04:01:57.179799+00:00",
-  "fetched_at_est": "2026-06-07T00:01:57.179813-04:00",
+  "fetched_at_utc": "2026-06-07T11:42:34.247843+00:00",
+  "fetched_at_est": "2026-06-07T07:42:34.247851-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063224914329395646",
-      "timestamp_utc": "2026-06-06T11:42:07.000Z",
-      "timestamp_est": "2026-06-06T07:42:07-04:00",
-      "tweet_text": "@experimntal @WestNyc1 Part of learning...have to learn to trade through different cycles. Market has different modes each with its own slight behaviors. Low vol uptrend, transition phases (these are the hardest), consolidation, downtrend (these are the easiest)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure educational commentary on market cycles/modes. No prices named, no actionable levels, no watch/trigger/support/resistance language whatsoever."
-    },
     {
       "tweet_id": "2063241529192276027",
       "timestamp_utc": "2026-06-06T12:48:08.000Z",
