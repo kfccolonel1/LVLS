@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T11:52:50.072314+00:00",
-  "fetched_at_est": "2026-06-08T07:52:50.072326-04:00",
+  "fetched_at_utc": "2026-06-08T13:03:00.106557+00:00",
+  "fetched_at_est": "2026-06-08T09:03:00.106564-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -142,6 +142,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "General trade management advice about stop placement; no price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2063967582814699725",
+      "timestamp_utc": "2026-06-08T12:53:13.000Z",
+      "timestamp_est": "2026-06-08T08:53:13-04:00",
+      "tweet_text": "Last evening we got our much awaited Sunday opening long in #ES_F. After waiting all day Friday, we long only when we get a Failed Breakdown. 7380 reclaim was trigger given live at 6pm + in newsletter. Targts were 7394, 7410, 7440, 7458 (hit)\n\n7472, 7508, 7527 full backtest above https://t.co/7ReevIo5sk",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7380, 7394, 7410, 7440, 7458, 7472, 7508, 7527) are morning-plan levels or hindsight trade recaps \u2014 no new actionable levels introduced."
     }
   ]
 }
