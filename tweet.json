@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T15:13:30.773621+00:00",
-  "fetched_at_est": "2026-06-08T11:13:30.773626-04:00",
+  "fetched_at_utc": "2026-06-08T15:23:36.118306+00:00",
+  "fetched_at_est": "2026-06-08T11:23:36.118311-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -178,6 +178,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7527 is already in the morning plan; this is a casual reaffirmation/observation, not a new actionable level."
+    },
+    {
+      "tweet_id": "2064002976486719838",
+      "timestamp_utc": "2026-06-08T15:13:51.000Z",
+      "timestamp_est": "2026-06-08T11:13:51-04:00",
+      "tweet_text": "There's 7472 target tagged a second time in #ES_F. After a big red day like Friday, ES behavior is standard: Failed Breakdown, then backtest. 7380 was our trigger, given live 6pm and in newsletter. Targets given were 7394, 7410, 7458, 7472. 7507, 7527 backtest next. Then decision https://t.co/wtmdy9SgOf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7380, 7394, 7410, 7458, 7472, 7507, 7527) are morning-plan levels or hindsight references to already-published targets; no new actionable levels introduced."
     }
   ]
 }
