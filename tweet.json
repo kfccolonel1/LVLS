@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T20:34:39.322143+00:00",
-  "fetched_at_est": "2026-06-08T16:34:39.322150-04:00",
+  "fetched_at_utc": "2026-06-08T20:44:41.181208+00:00",
+  "fetched_at_est": "2026-06-08T16:44:41.181215-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063721832583135658",
-      "timestamp_utc": "2026-06-07T20:36:41.000Z",
-      "timestamp_est": "2026-06-07T16:36:41-04:00",
-      "tweet_text": "@schwartzaman @Mdummy4 I make sure to repeat the criteria in every single newsletter so it is clear for people. It does make the newsletter repetitive but unfortunately if I don't include it in every newsletter, people often won't goto the methodology section to find it, or they wont follow it properly",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply about newsletter formatting methodology; no price levels mentioned or implied."
-    },
     {
       "tweet_id": "2063724289212239889",
       "timestamp_utc": "2026-06-07T20:46:27.000Z",
