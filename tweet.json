@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T19:14:21.346688+00:00",
-  "fetched_at_est": "2026-06-08T15:14:21.346692-04:00",
+  "fetched_at_utc": "2026-06-08T19:24:23.528029+00:00",
+  "fetched_at_est": "2026-06-08T15:24:23.528038-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063702138342068556",
-      "timestamp_utc": "2026-06-07T19:18:26.000Z",
-      "timestamp_est": "2026-06-07T15:18:26-04:00",
-      "tweet_text": "Key to remember you dont need any opinion on where price is going to profit as a day trader - and if you do, it has to be background. Have zones planned where you want to engage, have a setup at those zones, let price pick one. When it does, react with a trade. No crystal ball.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure methodology commentary with no price levels named whatsoever \u2014 no actionable prices, no new levels introduced."
-    },
     {
       "tweet_id": "2063720326832271423",
       "timestamp_utc": "2026-06-07T20:30:42.000Z",
