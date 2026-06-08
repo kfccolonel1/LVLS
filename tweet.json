@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T22:04:49.495101+00:00",
-  "fetched_at_est": "2026-06-08T18:04:49.495110-04:00",
+  "fetched_at_utc": "2026-06-08T22:14:51.576582+00:00",
+  "fetched_at_est": "2026-06-08T18:14:51.576590-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063744200584139071",
-      "timestamp_utc": "2026-06-07T22:05:34.000Z",
-      "timestamp_est": "2026-06-07T18:05:34-04:00",
-      "tweet_text": "Note: Downside levels and entries are in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet references newsletter for levels but names no specific actionable price; purely directional/administrative statement with no new level introduced."
-    },
     {
       "tweet_id": "2063781679659892797",
       "timestamp_utc": "2026-06-08T00:34:30.000Z",
