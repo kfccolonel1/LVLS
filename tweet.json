@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T19:04:14.997807+00:00",
-  "fetched_at_est": "2026-06-08T15:04:14.997811-04:00",
+  "fetched_at_utc": "2026-06-08T19:14:21.346688+00:00",
+  "fetched_at_est": "2026-06-08T15:14:21.346692-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -232,6 +232,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet discussing trading philosophy/methodology. No price levels named or referenced at all."
+    },
+    {
+      "tweet_id": "2064063138761252908",
+      "timestamp_utc": "2026-06-08T19:12:55.000Z",
+      "timestamp_est": "2026-06-08T15:12:55-04:00",
+      "tweet_text": "Closing update #ES_F: All the action was last night followed by a full day with no new trades or triggers. 7380 Failed Breakdown got us long. Targets were 7394, 7410, 7458, 7472. Just 7507, 7527 left. 7425 reclaim to trigger up. Newsletter sent early with next entries from here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7380 FBD and all targets (7394,7410,7458,7472,7527) are morning-plan levels or hindsight references; 7425 reclaim trigger not in morning plan but lacks explicit 'new/added/key/watching' naming language."
     }
   ]
 }
