@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T17:23:58.857990+00:00",
-  "fetched_at_est": "2026-06-08T13:23:58.857994-04:00",
+  "fetched_at_utc": "2026-06-08T18:34:08.749530+00:00",
+  "fetched_at_est": "2026-06-08T14:34:08.749535-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -214,6 +214,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary on bounce character; no price levels named, no actionable triggers or entries identified."
+    },
+    {
+      "tweet_id": "2064051786340540883",
+      "timestamp_utc": "2026-06-08T18:27:48.000Z",
+      "timestamp_est": "2026-06-08T14:27:48-04:00",
+      "tweet_text": "Chop in #ES_F as we digest the morning run. Just hold runner, but 7432 support defending for now. The Failed Breakdown of Friday's 3:15PM 7380 low triggered long. Targets were 7394, 7410, 7458, 7472 (the high). Just 7507, then the full backtest of 7527 left. Bottoms in above https://t.co/m6nIw8JSnK",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7432 mentioned as 'support defending' but no naming language like 'key','major','added','watching'; rest are morning-plan levels or hindsight trade recap."
     }
   ]
 }
