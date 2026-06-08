@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T11:42:43.072563+00:00",
-  "fetched_at_est": "2026-06-08T07:42:43.072568-04:00",
+  "fetched_at_utc": "2026-06-08T11:52:50.072314+00:00",
+  "fetched_at_est": "2026-06-08T07:52:50.072326-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -124,6 +124,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7380, 7394, 7410, 7440, 7458, 7472, 7508, 7527) are either morning-plan levels or hindsight references/observations. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2063950887492493375",
+      "timestamp_utc": "2026-06-08T11:46:52.000Z",
+      "timestamp_est": "2026-06-08T07:46:52-04:00",
+      "tweet_text": "@WolfpackTG 6:15PM. I tweeted it live here right before + it was given in newsletter at 4pm Friday so tis about as clear as it gets",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely a conversational/timing reference to prior newsletter and live tweet."
+    },
+    {
+      "tweet_id": "2063951581993689191",
+      "timestamp_utc": "2026-06-08T11:49:38.000Z",
+      "timestamp_est": "2026-06-08T07:49:38-04:00",
+      "tweet_text": "@ES_Money_Print Stop always needs to go below the low, good reason for that rule!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "General trade management advice about stop placement; no price level named or actionable trigger identified."
     }
   ]
 }
