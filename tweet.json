@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-08T20:54:43.005065+00:00",
-  "fetched_at_est": "2026-06-08T16:54:43.005074-04:00",
+  "fetched_at_utc": "2026-06-08T22:04:49.495101+00:00",
+  "fetched_at_est": "2026-06-08T18:04:49.495110-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063743785440338223",
-      "timestamp_utc": "2026-06-07T22:03:55.000Z",
-      "timestamp_est": "2026-06-07T18:03:55-04:00",
-      "tweet_text": "Muted opening for #ES_F despite Friday's volatility. It was the failure of 7527 shelf that triggered Friday's sell. Now, bulls must recover many key levels to regain control\n\n7380 reclaim is 1st low quality to scalp us to 7394, 7410. 7410 must recover to trigger backtest of 7527. https://t.co/b4CcWa2i8q",
-      "added_bull_levels": [
-        7380.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7380 named explicitly as '1st' reclaim trigger for bullside scalp \u2014 not in morning plan. 7394, 7410, 7527 are reaffirmations."
-    },
     {
       "tweet_id": "2063744200584139071",
       "timestamp_utc": "2026-06-07T22:05:34.000Z",
