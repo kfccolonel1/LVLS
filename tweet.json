@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-07T22:11:31.359329+00:00",
-  "fetched_at_est": "2026-06-07T18:11:31.359341-04:00",
+  "fetched_at_utc": "2026-06-08T00:41:48.110705+00:00",
+  "fetched_at_est": "2026-06-07T20:41:48.110711-04:00",
   "last_new_level_added_at_est": "2026-06-07T18:03:55-04:00",
   "todays_new_levels": [
     {
@@ -114,6 +114,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet references newsletter for levels but names no specific actionable price; purely directional/administrative statement with no new level introduced."
+    },
+    {
+      "tweet_id": "2063781679659892797",
+      "timestamp_utc": "2026-06-08T00:34:30.000Z",
+      "timestamp_est": "2026-06-07T20:34:30-04:00",
+      "tweet_text": "@OnTheHooch Risky here for sure - good level to level move though from 80!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a move 'from 80' with no explicit actionable price named using qualifying language."
     }
   ]
 }
