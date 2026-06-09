@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T14:27:02.568169+00:00",
-  "fetched_at_est": "2026-06-09T10:27:02.568182-04:00",
+  "fetched_at_utc": "2026-06-09T14:37:13.360134+00:00",
+  "fetched_at_est": "2026-06-09T10:37:13.360148-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7527 is already in the morning plan; this is a reaffirmation/commentary, not a new level."
+    },
+    {
+      "tweet_id": "2064353648314851828",
+      "timestamp_utc": "2026-06-09T14:27:18.000Z",
+      "timestamp_est": "2026-06-09T10:27:18-04:00",
+      "tweet_text": "@Sierra_Econ0001 Markets don't move in straight lines, they follow a maximally trappy path to trap retail trailers who try and predict as I say in the newsletter everyday. No need to over analyze noise or \"expect\" anything. Just react to the triggers, manage level to level",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on trading philosophy; no prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064354284498547147",
+      "timestamp_utc": "2026-06-09T14:29:49.000Z",
+      "timestamp_est": "2026-06-09T10:29:49-04:00",
+      "tweet_text": "@Sierra_Econ0001 https://t.co/mMtDV0tuvn",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply with only a URL and username \u2014 no price levels, no actionable language, nothing to extract."
+    },
+    {
+      "tweet_id": "2064355866829074800",
+      "timestamp_utc": "2026-06-09T14:36:07.000Z",
+      "timestamp_est": "2026-06-09T10:36:07-04:00",
+      "tweet_text": "@DragonMaxGoku @HeadofJTMarlin Not even sure what the bet is - the last entry from newsletter was the 7425 reclaim that paid out for 65 points (and again just now for a second scalp).",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7425 (morning plan level) as a past trade result. No new actionable level named."
     }
   ]
 }
