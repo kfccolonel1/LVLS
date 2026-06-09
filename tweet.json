@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T13:56:44.592468+00:00",
-  "fetched_at_est": "2026-06-09T09:56:44.592473-04:00",
+  "fetched_at_utc": "2026-06-09T14:06:50.572828+00:00",
+  "fetched_at_est": "2026-06-09T10:06:50.572834-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -203,6 +203,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7527, 7390, 7425, 7458, 7478, 7508, 7451) are either morning-plan levels or observations of hits/holds. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2064348067415957761",
+      "timestamp_utc": "2026-06-09T14:05:07.000Z",
+      "timestamp_est": "2026-06-09T10:05:07-04:00",
+      "tweet_text": "@sarcastic_hedgi Its a big region! That whole 50's area is. 7527 is even more important though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7527 and the 7550s area are both morning-plan levels; this is a reaffirmation/relative-importance comment, not a new actionable level."
     }
   ]
 }
