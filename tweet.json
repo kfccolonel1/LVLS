@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T13:16:36.596736+00:00",
-  "fetched_at_est": "2026-06-09T09:16:36.596740-04:00",
+  "fetched_at_utc": "2026-06-09T13:56:44.592468+00:00",
+  "fetched_at_est": "2026-06-09T09:56:44.592473-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063981242333241391",
-      "timestamp_utc": "2026-06-08T13:47:29.000Z",
-      "timestamp_est": "2026-06-08T09:47:29-04:00",
-      "tweet_text": "With longs triggered, little to do but ride runner until the next \"elevator down\" sell. Sunday evening we got our trigger long on the 7380 Failed Breakdown. Given live + in newsletter.\n\nTargets given were 7394 (hit), 7410 (hit), 7458 (hit), 7472 (hit exact). 7508, 7527 left https://t.co/zPZV07eNXX",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7380, 7394, 7410, 7458, 7472, 7508, 7527) are morning-plan reaffirmations or hit-target observations, no new actionable levels introduced."
-    },
     {
       "tweet_id": "2063987461450072412",
       "timestamp_utc": "2026-06-08T14:12:12.000Z",
@@ -203,6 +194,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7458, 7478, 7508, 7527, 7425, 7390) are either morning-plan levels or observations of hits/holds. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064344551502786921",
+      "timestamp_utc": "2026-06-09T13:51:09.000Z",
+      "timestamp_est": "2026-06-09T09:51:09-04:00",
+      "tweet_text": "Strong follow through in #ES_F as we push towards the 7527 magnet I've called for all week. 7390 was support last night. Held. 7425 reclaim was our long trigger. Today's targets given at 8am were 7458 (hit), 7478 (hit), 7508, 7527 next. Decision zone then.\n\n7451, 7425=supports https://t.co/iJi2fJDtEH",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7527, 7390, 7425, 7458, 7478, 7508, 7451) are either morning-plan levels or observations of hits/holds. No new actionable levels named."
     }
   ]
 }
