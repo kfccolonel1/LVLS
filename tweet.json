@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T19:19:21.304749+00:00",
-  "fetched_at_est": "2026-06-09T15:19:21.304754-04:00",
+  "fetched_at_utc": "2026-06-09T19:29:23.206294+00:00",
+  "fetched_at_est": "2026-06-09T15:29:23.206301-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064066274183770196",
-      "timestamp_utc": "2026-06-08T19:25:22.000Z",
-      "timestamp_est": "2026-06-08T15:25:22-04:00",
-      "tweet_text": "@CanesKL I thought it might be originally but with the slow grind into 27 its looking less likely now that it is. All just guesswork now though, trade it level to level and react",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply, no actionable price named; '27' is a casual shorthand reference to morning-plan level 7327, not a new level."
-    },
-    {
-      "tweet_id": "2064066709254721687",
-      "timestamp_utc": "2026-06-08T19:27:06.000Z",
-      "timestamp_est": "2026-06-08T15:27:06-04:00",
-      "tweet_text": "@NYJets2017 @CanesKL The bounce we have been engaged in all day, its a non-linear grind into 7527 which increases the risk we clear 7527 now rather than backtest and reject",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7527 is already in the morning plan; tweet is commentary/observation about price action risk, not naming a new actionable level."
-    },
     {
       "tweet_id": "2064067489080766566",
       "timestamp_utc": "2026-06-08T19:30:12.000Z",
