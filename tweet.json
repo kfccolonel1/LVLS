@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T16:58:39.838146+00:00",
-  "fetched_at_est": "2026-06-09T12:58:39.838153-04:00",
+  "fetched_at_utc": "2026-06-09T17:08:44.804696+00:00",
+  "fetched_at_est": "2026-06-09T13:08:44.804700-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -401,6 +401,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; tweet is purely a statement of trading philosophy/methodology with no actionable prices."
+    },
+    {
+      "tweet_id": "2064393568802808040",
+      "timestamp_utc": "2026-06-09T17:05:56.000Z",
+      "timestamp_est": "2026-06-09T13:05:56-04:00",
+      "tweet_text": "Levels are pinpoint precise today in #ES_F. 7247 was next support down and it just held exact for a 50+ point pop. Day traders dream market today. No change though: bears control until 7390 reclaims.\n\n7326 reclaim takes us to 7358 (huge trigger) then 7390. Trade lvl to lvl today https://t.co/XiyxCOYyJy",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7247, 7326, 7358, 7390) are in the morning plan. Tweet is reaffirmation + observation of price action, no new levels introduced."
     }
   ]
 }
