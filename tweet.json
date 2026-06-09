@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T15:17:39.317305+00:00",
-  "fetched_at_est": "2026-06-09T11:17:39.317311-04:00",
+  "fetched_at_utc": "2026-06-09T15:27:44.676948+00:00",
+  "fetched_at_est": "2026-06-09T11:27:44.676953-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -284,6 +284,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No explicit price named; purely observational commentary about time of day and a bear flag structure with no actionable level cited."
+    },
+    {
+      "tweet_id": "2064367236735779051",
+      "timestamp_utc": "2026-06-09T15:21:17.000Z",
+      "timestamp_est": "2026-06-09T11:21:17-04:00",
+      "tweet_text": "@EyeMordor @ashwagamma The issue is 95% of the time someone says there is a bear flag its not a bear flag. There actually is a bear flag here in this case. I don't use them to predict but it'll be a weight that bulls need to overcome",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure technical commentary about a bear flag pattern; no price levels named, no actionable entry/exit/watch/target specified."
     }
   ]
 }
