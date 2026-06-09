@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T14:16:55.604277+00:00",
-  "fetched_at_est": "2026-06-09T10:16:55.604281-04:00",
+  "fetched_at_utc": "2026-06-09T14:27:02.568169+00:00",
+  "fetched_at_est": "2026-06-09T10:27:02.568182-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -212,6 +212,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7527, 7390, 7425, 7458, 7478, 7508, 7451) are morning-plan levels or observations of price action hitting targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064351323688939894",
+      "timestamp_utc": "2026-06-09T14:18:04.000Z",
+      "timestamp_est": "2026-06-09T10:18:04-04:00",
+      "tweet_text": "@TavernJimmy Nothing yet! A little bit of volatility pickup now so hopefully can get sub 90 where all the good ones are",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply mentioning 'sub 90' vaguely; no explicit actionable price named with naming language."
+    },
+    {
+      "tweet_id": "2064352075215958401",
+      "timestamp_utc": "2026-06-09T14:21:03.000Z",
+      "timestamp_est": "2026-06-09T10:21:03-04:00",
+      "tweet_text": "@DragonMaxGoku Its not as important at 7527 but it did respect well this morning. 7527 only level that matters to the upside. Magnet",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7527 is already in the morning plan; this is a reaffirmation/commentary, not a new level."
     }
   ]
 }
