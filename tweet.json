@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T19:09:16.414477+00:00",
-  "fetched_at_est": "2026-06-09T15:09:16.414482-04:00",
+  "fetched_at_utc": "2026-06-09T19:19:21.304749+00:00",
+  "fetched_at_est": "2026-06-09T15:19:21.304754-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064063138761252908",
-      "timestamp_utc": "2026-06-08T19:12:55.000Z",
-      "timestamp_est": "2026-06-08T15:12:55-04:00",
-      "tweet_text": "Closing update #ES_F: All the action was last night followed by a full day with no new trades or triggers. 7380 Failed Breakdown got us long. Targets were 7394, 7410, 7458, 7472. Just 7507, 7527 left. 7425 reclaim to trigger up. Newsletter sent early with next entries from here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7380 FBD and all targets (7394,7410,7458,7472,7527) are morning-plan levels or hindsight references; 7425 reclaim trigger not in morning plan but lacks explicit 'new/added/key/watching' naming language."
-    },
     {
       "tweet_id": "2064066274183770196",
       "timestamp_utc": "2026-06-08T19:25:22.000Z",
@@ -437,6 +428,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned levels (7390, 7247, 7326, 7358, 7425) are in the morning plan or are observations of price action hitting existing targets. No new levels introduced."
+    },
+    {
+      "tweet_id": "2064426445145862429",
+      "timestamp_utc": "2026-06-09T19:16:34.000Z",
+      "timestamp_est": "2026-06-09T15:16:34-04:00",
+      "tweet_text": "Closing update #ES_F: We don't get days this perfect often. 7247 support held exact, 7326 reclaim trigerred us long, then we got to 7358 and 7390 targets. 7390 remains the major shelf that must recover. Newsletter out soon talking where the next major entry is from here.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7247, 7326, 7358, 7390) are morning-plan levels. No new actionable levels named; closing recap with newsletter teaser only."
     }
   ]
 }
