@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T11:56:11.953203+00:00",
-  "fetched_at_est": "2026-06-09T07:56:11.953212-04:00",
+  "fetched_at_utc": "2026-06-09T12:46:19.782643+00:00",
+  "fetched_at_est": "2026-06-09T08:46:19.782652-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -167,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure process/philosophy commentary with no prices named. No actionable levels of any kind mentioned."
+    },
+    {
+      "tweet_id": "2064327969661706712",
+      "timestamp_utc": "2026-06-09T12:45:15.000Z",
+      "timestamp_est": "2026-06-09T08:45:15-04:00",
+      "tweet_text": "@tamelessX The technically valid stop has to go under 7390 unfortunately which means you'd have to use a smaller size (which is what I did), or you can drag it up to an arbitrary point or under some lower TF higher low, but it will drop the win rate on the trade",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply discussing stop placement under 7390 (morning plan level) \u2014 trade management commentary, no new actionable level introduced."
     }
   ]
 }
