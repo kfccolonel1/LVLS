@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T17:08:44.804696+00:00",
-  "fetched_at_est": "2026-06-09T13:08:44.804700-04:00",
+  "fetched_at_utc": "2026-06-09T17:18:49.320168+00:00",
+  "fetched_at_est": "2026-06-09T13:18:49.320173-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064033320044790171",
-      "timestamp_utc": "2026-06-08T17:14:26.000Z",
-      "timestamp_est": "2026-06-08T13:14:26-04:00",
-      "tweet_text": "@OnTheHooch Its a fairly organized bounce into the backtest, might not hold if price keeps it up. Usually bears want to see a fast bounce into the zone not a controlled push higher",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary on bounce character; no price levels named, no actionable triggers or entries identified."
-    },
     {
       "tweet_id": "2064051786340540883",
       "timestamp_utc": "2026-06-08T18:27:48.000Z",
@@ -410,6 +401,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7247, 7326, 7358, 7390) are in the morning plan. Tweet is reaffirmation + observation of price action, no new levels introduced."
+    },
+    {
+      "tweet_id": "2064395791926538431",
+      "timestamp_utc": "2026-06-09T17:14:46.000Z",
+      "timestamp_est": "2026-06-09T13:14:46-04:00",
+      "tweet_text": "@sckdds Surprising precision today, typically suppoets less accurate on red days",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels named; purely a conversational observation about support accuracy on red days."
     }
   ]
 }
