@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T14:47:16.353037+00:00",
-  "fetched_at_est": "2026-06-09T10:47:16.353044-04:00",
+  "fetched_at_utc": "2026-06-09T14:57:29.416293+00:00",
+  "fetched_at_est": "2026-06-09T10:57:29.416308-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -248,6 +248,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing 7425 (morning plan level) as a past trade result. No new actionable level named."
+    },
+    {
+      "tweet_id": "2064358878154719700",
+      "timestamp_utc": "2026-06-09T14:48:05.000Z",
+      "timestamp_est": "2026-06-09T10:48:05-04:00",
+      "tweet_text": "We are coming back to ground zero again in #ES_F. 7390 was support from last nights newsletter, held exact. 7425 reclaim was then long trigger, and we went nearly +70. Now back to 7390 again which remains a shelf. Watch sweeps here.\n\n7358 below (watch traps), then 7326 under https://t.co/dpM2QvDwW3",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7390, 7425, 7358, 7326) are in the morning plan. Tweet is reaffirmation + trade observation, no new levels introduced."
+    },
+    {
+      "tweet_id": "2064359280245875125",
+      "timestamp_utc": "2026-06-09T14:49:41.000Z",
+      "timestamp_est": "2026-06-09T10:49:41-04:00",
+      "tweet_text": "@loloiuytre Just normal in ES. Always goes \"elevator down\" then we get the squeeze. Most boring asset class in the world and never does anything surprising (which is why I like trading it!)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary about ES behavior; no price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2064359674141454428",
+      "timestamp_utc": "2026-06-09T14:51:14.000Z",
+      "timestamp_est": "2026-06-09T10:51:14-04:00",
+      "tweet_text": "@EStrader33 @loloiuytre Has been since I started trading it in 2006! We do get black swan type events every 4-5 years though (Covid, the Tariff Crash etc). Even though though once you trade through one or two they are fairly repetitive in how they operate",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market history and black swan events; no prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2064360685941743926",
+      "timestamp_utc": "2026-06-09T14:55:16.000Z",
+      "timestamp_est": "2026-06-09T10:55:16-04:00",
+      "tweet_text": "@YawningKitty24 Why would someone hold a leveraged position from 7440 to 7325? That would make no sense",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user mentioning prices 7440 and 7325 in context of a hypothetical \u2014 no actionable naming language, no new level introduced."
     }
   ]
 }
