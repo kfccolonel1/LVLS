@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-09T12:46:19.782643+00:00",
-  "fetched_at_est": "2026-06-09T08:46:19.782652-04:00",
+  "fetched_at_utc": "2026-06-09T12:56:30.112179+00:00",
+  "fetched_at_est": "2026-06-09T08:56:30.112192-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2063967582814699725",
-      "timestamp_utc": "2026-06-08T12:53:13.000Z",
-      "timestamp_est": "2026-06-08T08:53:13-04:00",
-      "tweet_text": "Last evening we got our much awaited Sunday opening long in #ES_F. After waiting all day Friday, we long only when we get a Failed Breakdown. 7380 reclaim was trigger given live at 6pm + in newsletter. Targts were 7394, 7410, 7440, 7458 (hit)\n\n7472, 7508, 7527 full backtest above https://t.co/7ReevIo5sk",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7380, 7394, 7410, 7440, 7458, 7472, 7508, 7527) are morning-plan levels or hindsight trade recaps \u2014 no new actionable levels introduced."
-    },
     {
       "tweet_id": "2063981242333241391",
       "timestamp_utc": "2026-06-08T13:47:29.000Z",
@@ -176,6 +167,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply discussing stop placement under 7390 (morning plan level) \u2014 trade management commentary, no new actionable level introduced."
+    },
+    {
+      "tweet_id": "2064328342854115746",
+      "timestamp_utc": "2026-06-09T12:46:44.000Z",
+      "timestamp_est": "2026-06-09T08:46:44-04:00",
+      "tweet_text": "@tamelessX There was a small higher low at 7415 at 10:30PM so you can put it under that",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user about stop placement under 7415; trade management/conversational, not a named actionable level with naming language."
+    },
+    {
+      "tweet_id": "2064328643887693903",
+      "timestamp_utc": "2026-06-09T12:47:56.000Z",
+      "timestamp_est": "2026-06-09T08:47:56-04:00",
+      "tweet_text": "@tamelessX For Failed Breakdowns though the stop always goes under the lowest low if you want the highest win rate. It will mean lower R/R. YOu can drag it up higher, but as you do, the win rate goes down and the R/R goes up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining FBD stop placement mechanics \u2014 no price levels named, purely educational/trade management commentary."
+    },
+    {
+      "tweet_id": "2064328842420846606",
+      "timestamp_utc": "2026-06-09T12:48:44.000Z",
+      "timestamp_est": "2026-06-09T08:48:44-04:00",
+      "tweet_text": "@tamelessX There is no way to get both high win rate and high R/R so need to pick one, I always pick win rate",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet about trading philosophy (win rate vs R/R); no price levels mentioned at all."
     }
   ]
 }
