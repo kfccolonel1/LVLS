@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T14:52:29.758265+00:00",
-  "fetched_at_est": "2026-06-10T10:52:29.758270-04:00",
+  "fetched_at_utc": "2026-06-10T15:02:43.732711+00:00",
+  "fetched_at_est": "2026-06-10T11:02:43.732724-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064360685941743926",
-      "timestamp_utc": "2026-06-09T14:55:16.000Z",
-      "timestamp_est": "2026-06-09T10:55:16-04:00",
-      "tweet_text": "@YawningKitty24 Why would someone hold a leveraged position from 7440 to 7325? That would make no sense",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user mentioning prices 7440 and 7325 in context of a hypothetical \u2014 no actionable naming language, no new level introduced."
-    },
     {
       "tweet_id": "2064363389401313560",
       "timestamp_utc": "2026-06-09T15:06:00.000Z",
@@ -356,6 +347,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7326\u22487327, 7345, 7358\u22487359, 7390) are morning-plan levels or reaffirmations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064722875605483694",
+      "timestamp_utc": "2026-06-10T14:54:28.000Z",
+      "timestamp_est": "2026-06-10T10:54:28-04:00",
+      "tweet_text": "@Bluepit_80 Yes no changes to the levels, but there's nothing I'd trade for the rest of the day unless we take out the lows",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new levels named; trader confirms no changes and gives a conditional directional comment ('take out the lows') without specifying any actionable price."
+    },
+    {
+      "tweet_id": "2064724703537688656",
+      "timestamp_utc": "2026-06-10T15:01:44.000Z",
+      "timestamp_est": "2026-06-10T11:01:44-04:00",
+      "tweet_text": "@T_Ngo_T Not much to trade now! CPI days usually back the tradeable action right around the report. Will just hold the runner and wait for 7390 to recover",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7390 is already in the morning plan; 'wait for 7390 to recover' is a reaffirmation plus trade management (hold runner), not a new actionable level."
     }
   ]
 }
