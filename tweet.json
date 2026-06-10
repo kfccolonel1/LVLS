@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T12:51:19.153220+00:00",
-  "fetched_at_est": "2026-06-10T08:51:19.153228-04:00",
+  "fetched_at_utc": "2026-06-10T13:21:22.620246+00:00",
+  "fetched_at_est": "2026-06-10T09:21:22.620255-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064334827097088136",
-      "timestamp_utc": "2026-06-09T13:12:30.000Z",
-      "timestamp_est": "2026-06-09T09:12:30-04:00",
-      "tweet_text": "There's 7458 1st target hit in #ES_F. The magnet for ES remains 7527 to backtest where we broke down Friday. Last evening 7390 was support. Held. 7425 reclaim was long trigger given in newsletter, we got it. \n\n7458 (hit), 7478, 7508, 7527 remain targets. 7425, 7390 are supports https://t.co/QgrC1viccl",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7458, 7478, 7508, 7527, 7425, 7390) are either morning-plan levels or observations of hits/holds. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2064344551502786921",
       "timestamp_utc": "2026-06-09T13:51:09.000Z",
