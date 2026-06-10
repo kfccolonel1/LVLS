@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T13:51:26.354419+00:00",
-  "fetched_at_est": "2026-06-10T09:51:26.354426-04:00",
+  "fetched_at_utc": "2026-06-10T14:01:44.360723+00:00",
+  "fetched_at_est": "2026-06-10T10:01:44.360740-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -392,6 +392,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about trading around data; no price levels named or actionable information provided."
+    },
+    {
+      "tweet_id": "2064707757337440388",
+      "timestamp_utc": "2026-06-10T13:54:24.000Z",
+      "timestamp_est": "2026-06-10T09:54:24-04:00",
+      "tweet_text": "Another day of pinpoint precision in #ES_F and we won't get cleaner action. The long trigger was given live: The 7326 reclaim prior to CPI. The targets were given live: 7345 (hit), 7358 (hit), 7390 (hit literally exact). That's all for today\n\nRide your runner. 7410, 7425 above 90 https://t.co/71eRmxzMLG",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7326, 7345, 7358, 7390, 7410, 7425) are morning-plan levels or hindsight trade recaps; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064708121226784967",
+      "timestamp_utc": "2026-06-10T13:55:51.000Z",
+      "timestamp_est": "2026-06-10T09:55:51-04:00",
+      "tweet_text": "@KyBp6 It is, but its an advanced entry as I discussed in the newsletter. I won't take it myself but its there for those who want it. It is very well accepted now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user, no price named, no actionable level referenced \u2014 pure conversational commentary about an entry already discussed elsewhere."
     }
   ]
 }
