@@ -1,47 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T12:41:17.082650+00:00",
-  "fetched_at_est": "2026-06-10T08:41:17.082663-04:00",
+  "fetched_at_utc": "2026-06-10T12:51:19.153220+00:00",
+  "fetched_at_est": "2026-06-10T08:51:19.153228-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064327969661706712",
-      "timestamp_utc": "2026-06-09T12:45:15.000Z",
-      "timestamp_est": "2026-06-09T08:45:15-04:00",
-      "tweet_text": "@tamelessX The technically valid stop has to go under 7390 unfortunately which means you'd have to use a smaller size (which is what I did), or you can drag it up to an arbitrary point or under some lower TF higher low, but it will drop the win rate on the trade",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply discussing stop placement under 7390 (morning plan level) \u2014 trade management commentary, no new actionable level introduced."
-    },
-    {
-      "tweet_id": "2064328342854115746",
-      "timestamp_utc": "2026-06-09T12:46:44.000Z",
-      "timestamp_est": "2026-06-09T08:46:44-04:00",
-      "tweet_text": "@tamelessX There was a small higher low at 7415 at 10:30PM so you can put it under that",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user about stop placement under 7415; trade management/conversational, not a named actionable level with naming language."
-    },
-    {
-      "tweet_id": "2064328643887693903",
-      "timestamp_utc": "2026-06-09T12:47:56.000Z",
-      "timestamp_est": "2026-06-09T08:47:56-04:00",
-      "tweet_text": "@tamelessX For Failed Breakdowns though the stop always goes under the lowest low if you want the highest win rate. It will mean lower R/R. YOu can drag it up higher, but as you do, the win rate goes down and the R/R goes up",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining FBD stop placement mechanics \u2014 no price levels named, purely educational/trade management commentary."
-    },
-    {
-      "tweet_id": "2064328842420846606",
-      "timestamp_utc": "2026-06-09T12:48:44.000Z",
-      "timestamp_est": "2026-06-09T08:48:44-04:00",
-      "tweet_text": "@tamelessX There is no way to get both high win rate and high R/R so need to pick one, I always pick win rate",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet about trading philosophy (win rate vs R/R); no price levels mentioned at all."
-    },
     {
       "tweet_id": "2064334827097088136",
       "timestamp_utc": "2026-06-09T13:12:30.000Z",
