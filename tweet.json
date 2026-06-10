@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T16:23:28.449680+00:00",
-  "fetched_at_est": "2026-06-10T12:23:28.449685-04:00",
+  "fetched_at_utc": "2026-06-10T16:33:38.458758+00:00",
+  "fetched_at_est": "2026-06-10T12:33:38.458770-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -14,42 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064382918340886803",
-      "timestamp_utc": "2026-06-09T16:23:36.000Z",
-      "timestamp_est": "2026-06-09T12:23:36-04:00",
-      "tweet_text": "Very nice volatility today in #ES_F and this should create ample setups. 7275 was next down and just held exact. 7390 shelf triggered today's sell, and bears control until it recovers. Above it, we rip.\n\nIn the interim, 7326 must recover to see 7358, 7390. If 7275 fails, sell 47 https://t.co/c8ees9hMyl",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7275, 7390, 7326, 7358, 7247) are reaffirmations of morning-plan levels; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2064383522995937703",
-      "timestamp_utc": "2026-06-09T16:26:00.000Z",
-      "timestamp_est": "2026-06-09T12:26:00-04:00",
-      "tweet_text": "@kpsardar That's exactly whats supposed to happen. The bear case today from newsletter triggered below 7390. After a bear case triggers, every support fails until we get a failed breakdown. This is all review from newsletter and its tracked perfectly today https://t.co/S8phc2L3d3",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure hindsight commentary referencing newsletter levels (7390 is a morning-plan level). No new actionable prices named."
-    },
-    {
-      "tweet_id": "2064383716734951833",
-      "timestamp_utc": "2026-06-09T16:26:47.000Z",
-      "timestamp_est": "2026-06-09T12:26:47-04:00",
-      "tweet_text": "@D5star_general Yes no chance I'd buy that but worked for whoever did!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reply tweet with no price levels, no actionable language, purely conversational."
-    },
-    {
-      "tweet_id": "2064384040690413687",
-      "timestamp_utc": "2026-06-09T16:28:04.000Z",
-      "timestamp_est": "2026-06-09T12:28:04-04:00",
-      "tweet_text": "@MizuTraderr Per my newsletter everyday, I never catch knives. I only trade Failed Breakdowns. I don't fight trend",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; tweet is purely a statement of trading philosophy/methodology with no actionable prices."
-    },
     {
       "tweet_id": "2064393568802808040",
       "timestamp_utc": "2026-06-09T17:05:56.000Z",
@@ -312,6 +276,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user about a trade outcome; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2064747175842611217",
+      "timestamp_utc": "2026-06-10T16:31:02.000Z",
+      "timestamp_est": "2026-06-10T12:31:02-04:00",
+      "tweet_text": "@PermaFader Its been a long time, not sure if I've taken any non Failed Breakdown trades this year at all.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user about trading style; no price levels named or actionable information of any kind."
+    },
+    {
+      "tweet_id": "2064747559910781424",
+      "timestamp_utc": "2026-06-10T16:32:34.000Z",
+      "timestamp_est": "2026-06-10T12:32:34-04:00",
+      "tweet_text": "CPI days the good entries are typically right after data, then chop. As posted,0 to do now. 7327 reclaim was our long trigger given 8am in #ES_F. Targets given were 7346, 7358, 7390. We hit 90, sold. We bottom only when 90 recovers\n\n7327 remains weak support. Watch traps of 08 https://t.co/8ctNnVfae5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7327, 7346, 7358, 7390, 7508) are morning-plan levels or hindsight references to executed trades; no new actionable levels introduced."
     }
   ]
 }
