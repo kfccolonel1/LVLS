@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T18:34:20.398760+00:00",
-  "fetched_at_est": "2026-06-10T14:34:20.398768-04:00",
+  "fetched_at_utc": "2026-06-10T19:04:23.495625+00:00",
+  "fetched_at_est": "2026-06-10T15:04:23.495633-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064422472988910055",
-      "timestamp_utc": "2026-06-09T19:00:47.000Z",
-      "timestamp_est": "2026-06-09T15:00:47-04:00",
-      "tweet_text": "There's 7390 tagged. Today has been hugely lucrative in #ES_F. Support was 7247. It held exact. Then, the 7326 reclaim was the long trigger I gave. Targets were 7358 (hit), then 7390 (just hit). That as good as it gets for today.\n\nRide lotto runner for 7425. Same supports https://t.co/9MLToA4wpb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7390, 7247, 7326, 7358, 7425) are in the morning plan or are observations of price action hitting existing targets. No new levels introduced."
-    },
     {
       "tweet_id": "2064426445145862429",
       "timestamp_utc": "2026-06-09T19:16:34.000Z",
