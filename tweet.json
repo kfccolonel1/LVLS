@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T15:23:12.265280+00:00",
-  "fetched_at_est": "2026-06-10T11:23:12.265293-04:00",
+  "fetched_at_utc": "2026-06-10T15:33:17.533181+00:00",
+  "fetched_at_est": "2026-06-10T11:33:17.533185-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064369276576780738",
-      "timestamp_utc": "2026-06-09T15:29:24.000Z",
-      "timestamp_est": "2026-06-09T11:29:24-04:00",
-      "tweet_text": "7390 was ground zero in #ES_F. It was support last evening, held exact. 7425 Failed Breakdown triggered up, and we went ~+70 before cracking 7390 on the third shot. With that shelf failed, we then work down\n\n7358, 7326 were below. 7358 must recover to see 7390+ again. 07 below 26 https://t.co/mH80JcMY9Q",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7390, 7425, 7358, 7326, 7307) are in the morning plan. Tweet is post-hoc price action narration and reaffirmation only."
-    },
-    {
-      "tweet_id": "2064369493988528215",
-      "timestamp_utc": "2026-06-09T15:30:16.000Z",
-      "timestamp_est": "2026-06-09T11:30:16-04:00",
-      "tweet_text": "@Wes1Sykes @loloiuytre Yes for sure! I traded natural gas for several years and even the most volatile days in ES are average or below average in NG",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply comparing ES vs NG volatility; no price levels named or actionable context whatsoever."
-    },
     {
       "tweet_id": "2064370407457599534",
       "timestamp_utc": "2026-06-09T15:33:53.000Z",
@@ -393,6 +375,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7247 is already in morning plan; 7308 is mentioned conversationally in a reply without actionable naming language \u2014 no new major levels."
+    },
+    {
+      "tweet_id": "2064732173848969433",
+      "timestamp_utc": "2026-06-10T15:31:25.000Z",
+      "timestamp_est": "2026-06-10T11:31:25-04:00",
+      "tweet_text": "@ashwagamma Worked well! I only took it on the first crack",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user about a trade outcome; no price named, no actionable level introduced."
     }
   ]
 }
