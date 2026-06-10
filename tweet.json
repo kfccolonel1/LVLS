@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T16:33:38.458758+00:00",
-  "fetched_at_est": "2026-06-10T12:33:38.458770-04:00",
+  "fetched_at_utc": "2026-06-10T16:43:51.337299+00:00",
+  "fetched_at_est": "2026-06-10T12:43:51.337313-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -294,6 +294,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7327, 7346, 7358, 7390, 7508) are morning-plan levels or hindsight references to executed trades; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064747900643520840",
+      "timestamp_utc": "2026-06-10T16:33:55.000Z",
+      "timestamp_est": "2026-06-10T12:33:55-04:00",
+      "tweet_text": "Note: We did already get the trap of 7308 as posted 1hr ago, at around 11:50AM. There was a long trigger there, but now again there is nothing to do around 7327. Just hold existing runner",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7308 is a hindsight reference; 7327 is a morning-plan level reaffirmation. 'Hold runner' is trade management. No new actionable levels."
+    },
+    {
+      "tweet_id": "2064748159759216767",
+      "timestamp_utc": "2026-06-10T16:34:57.000Z",
+      "timestamp_est": "2026-06-10T12:34:57-04:00",
+      "tweet_text": "@EStrader33 @PermaFader I take those on occasion if its a very clear S/R shelf but I've been reducing those as well. For me if I just take Failed Breakdowns, its very very hard for me to having a losing trade, something would have to go extremely wrong or a big headline hit right after I get in",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading methodology (Failed Breakdowns). No price levels named or actionable levels referenced."
+    },
+    {
+      "tweet_id": "2064748255418741160",
+      "timestamp_utc": "2026-06-10T16:35:19.000Z",
+      "timestamp_est": "2026-06-10T12:35:19-04:00",
+      "tweet_text": "@EStrader33 @PermaFader Reclaims, backtest longs, and shorts though win rates are far lower. For shorts the win rate is not even 50%",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure strategy commentary about win rates on reclaims/backtests/shorts. No prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064749705318277202",
+      "timestamp_utc": "2026-06-10T16:41:05.000Z",
+      "timestamp_est": "2026-06-10T12:41:05-04:00",
+      "tweet_text": "@PermaFader @EStrader33 Its getting there! I've become such a niche specialist at this one setup, in this one market (I've been trading it in some form or another for 20 years) that there is an opportunity cost to trading anything else. My pattern recognition is good for the other setups as well but for",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is a conversational reply about trading specialization and pattern recognition."
     }
   ]
 }
