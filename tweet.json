@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T17:24:05.436802+00:00",
-  "fetched_at_est": "2026-06-10T13:24:05.436807-04:00",
+  "fetched_at_utc": "2026-06-10T17:44:13.973381+00:00",
+  "fetched_at_est": "2026-06-10T13:44:13.973393-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -339,6 +339,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7390 and 7527 are both morning-plan levels; tweet is observational commentary on pullback depth, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2064764529469169953",
+      "timestamp_utc": "2026-06-10T17:39:59.000Z",
+      "timestamp_est": "2026-06-10T13:39:59-04:00",
+      "tweet_text": "@OnTheHooch 27 is still a big magnet. Once we recover 7390 it would be the next target up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7327 and 7390 are both morning-plan levels; tweet is a reaffirmation/observation of existing levels, not a new actionable call."
+    },
+    {
+      "tweet_id": "2064765160854536614",
+      "timestamp_utc": "2026-06-10T17:42:30.000Z",
+      "timestamp_est": "2026-06-10T13:42:30-04:00",
+      "tweet_text": "Chop all day after this mornings rip to the 7390 backtest/final target given in #ES_F. Bears control below, bulls above. Very simple\n\n7308 remains a level we keep trapping. We trapped it once, rallied to 7340s. Same trigger applies with 7327, 7345, 7358 above. 7284, 7247 below https://t.co/2biNzfEyXl",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7390, 7327, 7345, 7358/7359, 7284, 7247) are morning-plan levels or observations of price action; 7308 is a trap observation, not a newly named actionable level."
     }
   ]
 }
