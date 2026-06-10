@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T12:00:50.066185+00:00",
-  "fetched_at_est": "2026-06-10T08:00:50.066197-04:00",
+  "fetched_at_utc": "2026-06-10T12:11:00.488236+00:00",
+  "fetched_at_est": "2026-06-10T08:11:00.488246-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -392,6 +392,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7390, 7247, 7358, 7311, 7327, 7345, 7284) are already in the morning plan. Reaffirmations only, no new levels."
+    },
+    {
+      "tweet_id": "2064679817052594556",
+      "timestamp_utc": "2026-06-10T12:03:22.000Z",
+      "timestamp_est": "2026-06-10T08:03:22-04:00",
+      "tweet_text": "@YawningKitty24 For day traders (especially those using my system) this is the prime condition. Unfortunately it doesn't last long in a bull market but can take advantage while it does",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about market conditions for day traders; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2064681038383575450",
+      "timestamp_utc": "2026-06-10T12:08:14.000Z",
+      "timestamp_est": "2026-06-10T08:08:14-04:00",
+      "tweet_text": "@repetak 7327 is a major level from the newsletter and reflects the overnight structure",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7327 is already in today's morning plan; this is a reaffirmation/explanation to a user, not a new level."
     }
   ]
 }
