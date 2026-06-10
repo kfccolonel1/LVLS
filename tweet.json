@@ -1,20 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T15:12:49.290834+00:00",
-  "fetched_at_est": "2026-06-10T11:12:49.290840-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-06-10T15:23:12.265280+00:00",
+  "fetched_at_est": "2026-06-10T11:23:12.265293-04:00",
+  "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2064367236735779051",
-      "timestamp_utc": "2026-06-09T15:21:17.000Z",
-      "timestamp_est": "2026-06-09T11:21:17-04:00",
-      "tweet_text": "@EyeMordor @ashwagamma The issue is 95% of the time someone says there is a bear flag its not a bear flag. There actually is a bear flag here in this case. I don't use them to predict but it'll be a weight that bulls need to overcome",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure technical commentary about a bear flag pattern; no price levels named, no actionable entry/exit/watch/target specified."
-    },
+      "price": 7308.0,
+      "side": "bear",
+      "added_at_est": "2026-06-10T11:14:39-04:00",
+      "expires_at_est": "2026-06-10T19:14:39-04:00",
+      "from_tweet_id": "2064727951736713504"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2064369276576780738",
       "timestamp_utc": "2026-06-09T15:29:24.000Z",
@@ -356,6 +355,44 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply referencing 7390 (morning plan level) and 'the lows' \u2014 conversational observation of price action, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2064727951736713504",
+      "timestamp_utc": "2026-06-10T15:14:39.000Z",
+      "timestamp_est": "2026-06-10T11:14:39-04:00",
+      "tweet_text": "Today has been straightforward in #ES_F. 7326 reclaim was our pre-CPI long trigger given at 8am. Targets were 7345, 7358, 7390. Hit 90, sold. 7390 remains the bull/bear line. Bears control below it. We bottom when it recovers\n\n27 remains support (weak). Watch traps of 7308 https://t.co/l5Ogh6N3zs",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7308.0
+      ],
+      "notes": "7308 is named as a new actionable watch level ('Watch traps of 7308') not in the morning plan. All other prices (7326, 7345, 7358, 7390, 7327) are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2064728149867278552",
+      "timestamp_utc": "2026-06-10T15:15:26.000Z",
+      "timestamp_est": "2026-06-10T11:15:26-04:00",
+      "tweet_text": "Note: There is not much to trade here as warned. We got a 75 point long already today and  now we are in mid day chop. While I still post levels, I only engage high quality Failed Breakdowns per the newsletter. No change to those",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new prices named; purely commentary about mid-day chop and trading approach, with explicit 'no change to those' confirming no new levels."
+    },
+    {
+      "tweet_id": "2064728549664198938",
+      "timestamp_utc": "2026-06-10T15:17:01.000Z",
+      "timestamp_est": "2026-06-10T11:17:01-04:00",
+      "tweet_text": "@bigwood340 Makes trading much easier, hoping we don't return to that grind up again. Good for swing traders/long term investors but as day traders we want volatile, downward moving markets (or at least ranging markets)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary about market conditions and trader preferences; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2064729028238414080",
+      "timestamp_utc": "2026-06-10T15:18:55.000Z",
+      "timestamp_est": "2026-06-10T11:18:55-04:00",
+      "tweet_text": "@Trevormiles16 It is technically. 7308 and 7247 are better though. 7247 is the best",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7247 is already in morning plan; 7308 is mentioned conversationally in a reply without actionable naming language \u2014 no new major levels."
     }
   ]
 }
