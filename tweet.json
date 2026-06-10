@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T14:21:59.615650+00:00",
-  "fetched_at_est": "2026-06-10T10:21:59.615655-04:00",
+  "fetched_at_utc": "2026-06-10T14:32:09.330371+00:00",
+  "fetched_at_est": "2026-06-10T10:32:09.330376-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064353648314851828",
-      "timestamp_utc": "2026-06-09T14:27:18.000Z",
-      "timestamp_est": "2026-06-09T10:27:18-04:00",
-      "tweet_text": "@Sierra_Econ0001 Markets don't move in straight lines, they follow a maximally trappy path to trap retail trailers who try and predict as I say in the newsletter everyday. No need to over analyze noise or \"expect\" anything. Just react to the triggers, manage level to level",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on trading philosophy; no prices named, no actionable levels introduced."
-    },
-    {
-      "tweet_id": "2064354284498547147",
-      "timestamp_utc": "2026-06-09T14:29:49.000Z",
-      "timestamp_est": "2026-06-09T10:29:49-04:00",
-      "tweet_text": "@Sierra_Econ0001 https://t.co/mMtDV0tuvn",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply with only a URL and username \u2014 no price levels, no actionable language, nothing to extract."
-    },
     {
       "tweet_id": "2064355866829074800",
       "timestamp_utc": "2026-06-09T14:36:07.000Z",
@@ -383,6 +365,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7390 is already in the morning plan. Tweet is process commentary/reaffirmation of existing level, no new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2064717144269406584",
+      "timestamp_utc": "2026-06-10T14:31:42.000Z",
+      "timestamp_est": "2026-06-10T10:31:42-04:00",
+      "tweet_text": "@GlobalFX365 Thats the point of them!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned at all \u2014 purely conversational."
     }
   ]
 }
