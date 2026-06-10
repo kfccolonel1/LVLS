@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T15:43:19.713805+00:00",
-  "fetched_at_est": "2026-06-10T11:43:19.713812-04:00",
+  "fetched_at_utc": "2026-06-10T15:53:21.845151+00:00",
+  "fetched_at_est": "2026-06-10T11:53:21.845160-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064374628282175604",
-      "timestamp_utc": "2026-06-09T15:50:40.000Z",
-      "timestamp_est": "2026-06-09T11:50:40-04:00",
-      "tweet_text": "7326 was next support down and it just held literally to the tick and bounced in #ES_F. For today though, since the failure of the 90 shelf triggered lower, bears control until it recovers. 7358 remains next up. Above there, we see 7390 again\n\n7326 remains support, sell below https://t.co/JCxBPETjtd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7326, 7358, 7390) are already in today's morning plan. Tweet is reaffirmation + observation of price action, no new actionable levels."
-    },
     {
       "tweet_id": "2064376119248208081",
       "timestamp_utc": "2026-06-09T15:56:35.000Z",
