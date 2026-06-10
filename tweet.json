@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T15:53:21.845151+00:00",
-  "fetched_at_est": "2026-06-10T11:53:21.845160-04:00",
+  "fetched_at_utc": "2026-06-10T16:03:24.339880+00:00",
+  "fetched_at_est": "2026-06-10T12:03:24.339888-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064376119248208081",
-      "timestamp_utc": "2026-06-09T15:56:35.000Z",
-      "timestamp_est": "2026-06-09T11:56:35-04:00",
-      "tweet_text": "@lamarroemer @poker848768148 Yes, I'm not sure the question. It was just a routine Failed Breakdown. Shelf at 90 was fairly clear",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing '90' (7390, already in morning plan) as observation of a Failed Breakdown shelf \u2014 no new actionable level named."
-    },
     {
       "tweet_id": "2064378964290805912",
       "timestamp_utc": "2026-06-09T16:07:54.000Z",
