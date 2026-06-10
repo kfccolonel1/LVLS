@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T01:59:57.839954+00:00",
-  "fetched_at_est": "2026-06-09T21:59:57.839961-04:00",
+  "fetched_at_utc": "2026-06-10T11:50:43.415930+00:00",
+  "fetched_at_est": "2026-06-10T07:50:43.415937-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064313478328799663",
-      "timestamp_utc": "2026-06-09T11:47:40.000Z",
-      "timestamp_est": "2026-06-09T07:47:40-04:00",
-      "tweet_text": "Highly precise evening technicals in #ES_F. Per 4pm newsletter, 7390 was support. Held exact 6pm. 7425 Failed Breakdown was then a long trigger. We triggered around midnight, +25.\n\nPlan today: Ride runner. 7458, 7478, 7508, 7527 above. 7425 (weak), 7390=supports. Sell&lt;90 https://t.co/euAlkZ71EO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7390, 7425, 7458, 7478, 7508, 7527) are either morning plan levels or hindsight/trade management references. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2064313666204262694",
-      "timestamp_utc": "2026-06-09T11:48:25.000Z",
-      "timestamp_est": "2026-06-09T07:48:25-04:00",
-      "tweet_text": "Note: As usual everyday trading should be essentially the same if you are doing it right. For us it is always: Elevator down sell, failed breakdown, manage level to level, leave runner. Now the cycle restarts and nothing to do but ride runner and wait for another elevator down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure process/philosophy commentary with no prices named. No actionable levels of any kind mentioned."
-    },
     {
       "tweet_id": "2064327969661706712",
       "timestamp_utc": "2026-06-09T12:45:15.000Z",
