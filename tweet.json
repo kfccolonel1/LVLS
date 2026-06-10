@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T16:43:51.337299+00:00",
-  "fetched_at_est": "2026-06-10T12:43:51.337313-04:00",
+  "fetched_at_utc": "2026-06-10T17:13:59.745308+00:00",
+  "fetched_at_est": "2026-06-10T13:13:59.745317-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064393568802808040",
-      "timestamp_utc": "2026-06-09T17:05:56.000Z",
-      "timestamp_est": "2026-06-09T13:05:56-04:00",
-      "tweet_text": "Levels are pinpoint precise today in #ES_F. 7247 was next support down and it just held exact for a 50+ point pop. Day traders dream market today. No change though: bears control until 7390 reclaims.\n\n7326 reclaim takes us to 7358 (huge trigger) then 7390. Trade lvl to lvl today https://t.co/XiyxCOYyJy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7247, 7326, 7358, 7390) are in the morning plan. Tweet is reaffirmation + observation of price action, no new levels introduced."
-    },
     {
       "tweet_id": "2064395791926538431",
       "timestamp_utc": "2026-06-09T17:14:46.000Z",
@@ -330,6 +321,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices mentioned at all; tweet is a conversational reply about trading specialization and pattern recognition."
+    },
+    {
+      "tweet_id": "2064755743283183749",
+      "timestamp_utc": "2026-06-10T17:05:05.000Z",
+      "timestamp_est": "2026-06-10T13:05:05-04:00",
+      "tweet_text": "Pure chop after this mornings CPI squeeze. 7327 reclaim was the 8am long trigger given in #ES_F. My final target was 7390 (bull/bear line). We hit 90, sold\n\nNext setup was the trap of the 7308 low, given 11:14AM. At 11:52AM, we swept it to 05, recovered. 7358, 7390 remain upsides https://t.co/8ctNnVfae5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7327, 7390, 7308, 7358) are morning-plan levels or hindsight trade recaps. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2064757330164519085",
+      "timestamp_utc": "2026-06-10T17:11:23.000Z",
+      "timestamp_est": "2026-06-10T13:11:23-04:00",
+      "tweet_text": "@Shimsham24 The low is there, but that low is part of a shelf. There is a mini IHS shelf there with the left and right shoulder being at 7308, so I use 7308",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7308 is a reply explaining a technical shelf observation to a user, not an explicit actionable level with naming language directed at followers."
     }
   ]
 }
