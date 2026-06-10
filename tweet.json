@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-10T17:54:15.887386+00:00",
-  "fetched_at_est": "2026-06-10T13:54:15.887394-04:00",
+  "fetched_at_utc": "2026-06-10T18:34:20.398760+00:00",
+  "fetched_at_est": "2026-06-10T14:34:20.398768-04:00",
   "last_new_level_added_at_est": "2026-06-10T11:14:39-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064414394528764305",
-      "timestamp_utc": "2026-06-09T18:28:41.000Z",
-      "timestamp_est": "2026-06-09T14:28:41-04:00",
-      "tweet_text": "@tradivate Exactly! Most new traders don;t understand the biggest longs occur on red days/downtrends, not green days. In an actual downtrend its not uncommon to see a 100 point squeeze almsot every day",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure educational commentary about trading psychology/downtrend squeezes. No price levels named or actionable triggers mentioned."
-    },
-    {
-      "tweet_id": "2064414454024978635",
-      "timestamp_utc": "2026-06-09T18:28:55.000Z",
-      "timestamp_est": "2026-06-09T14:28:55-04:00",
-      "tweet_text": "@tradivate (volatile downtrend)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet contains no price levels, no actionable language, only a platform tag and market condition descriptor."
-    },
-    {
-      "tweet_id": "2064415146349371903",
-      "timestamp_utc": "2026-06-09T18:31:40.000Z",
-      "timestamp_est": "2026-06-09T14:31:40-04:00",
-      "tweet_text": "@noonelikeme81 @tradivate Its just a few red days, nothing even close to a downtrend",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market sentiment; no price levels named or actionable triggers mentioned."
-    },
     {
       "tweet_id": "2064422472988910055",
       "timestamp_utc": "2026-06-09T19:00:47.000Z",
