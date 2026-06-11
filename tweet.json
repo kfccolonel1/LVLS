@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T16:38:22.941401+00:00",
-  "fetched_at_est": "2026-06-11T12:38:22.941406-04:00",
+  "fetched_at_utc": "2026-06-11T16:48:24.885086+00:00",
+  "fetched_at_est": "2026-06-11T12:48:24.885094-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064749705318277202",
-      "timestamp_utc": "2026-06-10T16:41:05.000Z",
-      "timestamp_est": "2026-06-10T12:41:05-04:00",
-      "tweet_text": "@PermaFader @EStrader33 Its getting there! I've become such a niche specialist at this one setup, in this one market (I've been trading it in some form or another for 20 years) that there is an opportunity cost to trading anything else. My pattern recognition is good for the other setups as well but for",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; tweet is a conversational reply about trading specialization and pattern recognition."
-    },
     {
       "tweet_id": "2064755743283183749",
       "timestamp_utc": "2026-06-10T17:05:05.000Z",
