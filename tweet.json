@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T15:58:18.751251+00:00",
-  "fetched_at_est": "2026-06-11T11:58:18.751255-04:00",
+  "fetched_at_utc": "2026-06-11T16:38:22.941401+00:00",
+  "fetched_at_est": "2026-06-11T12:38:22.941406-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -28,51 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064747175842611217",
-      "timestamp_utc": "2026-06-10T16:31:02.000Z",
-      "timestamp_est": "2026-06-10T12:31:02-04:00",
-      "tweet_text": "@PermaFader Its been a long time, not sure if I've taken any non Failed Breakdown trades this year at all.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user about trading style; no price levels named or actionable information of any kind."
-    },
-    {
-      "tweet_id": "2064747559910781424",
-      "timestamp_utc": "2026-06-10T16:32:34.000Z",
-      "timestamp_est": "2026-06-10T12:32:34-04:00",
-      "tweet_text": "CPI days the good entries are typically right after data, then chop. As posted,0 to do now. 7327 reclaim was our long trigger given 8am in #ES_F. Targets given were 7346, 7358, 7390. We hit 90, sold. We bottom only when 90 recovers\n\n7327 remains weak support. Watch traps of 08 https://t.co/8ctNnVfae5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7327, 7346, 7358, 7390, 7508) are morning-plan levels or hindsight references to executed trades; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2064747900643520840",
-      "timestamp_utc": "2026-06-10T16:33:55.000Z",
-      "timestamp_est": "2026-06-10T12:33:55-04:00",
-      "tweet_text": "Note: We did already get the trap of 7308 as posted 1hr ago, at around 11:50AM. There was a long trigger there, but now again there is nothing to do around 7327. Just hold existing runner",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7308 is a hindsight reference; 7327 is a morning-plan level reaffirmation. 'Hold runner' is trade management. No new actionable levels."
-    },
-    {
-      "tweet_id": "2064748159759216767",
-      "timestamp_utc": "2026-06-10T16:34:57.000Z",
-      "timestamp_est": "2026-06-10T12:34:57-04:00",
-      "tweet_text": "@EStrader33 @PermaFader I take those on occasion if its a very clear S/R shelf but I've been reducing those as well. For me if I just take Failed Breakdowns, its very very hard for me to having a losing trade, something would have to go extremely wrong or a big headline hit right after I get in",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading methodology (Failed Breakdowns). No price levels named or actionable levels referenced."
-    },
-    {
-      "tweet_id": "2064748255418741160",
-      "timestamp_utc": "2026-06-10T16:35:19.000Z",
-      "timestamp_est": "2026-06-10T12:35:19-04:00",
-      "tweet_text": "@EStrader33 @PermaFader Reclaims, backtest longs, and shorts though win rates are far lower. For shorts the win rate is not even 50%",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure strategy commentary about win rates on reclaims/backtests/shorts. No prices named, no actionable levels introduced."
-    },
     {
       "tweet_id": "2064749705318277202",
       "timestamp_utc": "2026-06-10T16:41:05.000Z",
