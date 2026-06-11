@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T19:19:10.756182+00:00",
-  "fetched_at_est": "2026-06-11T15:19:10.756187-04:00",
+  "fetched_at_utc": "2026-06-11T19:29:12.824741+00:00",
+  "fetched_at_est": "2026-06-11T15:29:12.824747-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064790750852751680",
-      "timestamp_utc": "2026-06-10T19:24:11.000Z",
-      "timestamp_est": "2026-06-10T15:24:11-04:00",
-      "tweet_text": "@ES_Money_Print @bmf39 If there's a nearby major trigger, I don't want it to trigger then I release the newsletter at 4pm and there is nothing to write about, so if we get let late day volatility I try to release it a little early",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely conversational explanation of newsletter timing process."
-    },
     {
       "tweet_id": "2064794606693233112",
       "timestamp_utc": "2026-06-10T19:39:30.000Z",
