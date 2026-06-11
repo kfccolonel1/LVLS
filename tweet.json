@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T21:09:35.361309+00:00",
-  "fetched_at_est": "2026-06-11T17:09:35.361316-04:00",
+  "fetched_at_utc": "2026-06-11T21:29:42.938021+00:00",
+  "fetched_at_est": "2026-06-11T17:29:42.938033-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064822001177395389",
-      "timestamp_utc": "2026-06-10T21:28:22.000Z",
-      "timestamp_est": "2026-06-10T17:28:22-04:00",
-      "tweet_text": "@TheHealingTrade I talk about it everyday (elevator down sell, failed breakdown, short squeeze) and not only that, we've seen that dynamic everyday this week! On Monday, we rallied 135 points. On Tuesday we rallied 150 points. Today, we rallied 100 points. It is a daily part of ES",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary/explanation of trading dynamics with historical rally observations. No actionable price levels named whatsoever."
-    },
     {
       "tweet_id": "2064823009563541635",
       "timestamp_utc": "2026-06-10T21:32:22.000Z",
@@ -377,6 +368,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No actionable price levels named; purely explanatory commentary about institutional accumulation and a headline event, with no new entry/exit/watch prices cited."
+    },
+    {
+      "tweet_id": "2065183946833265092",
+      "timestamp_utc": "2026-06-11T21:26:36.000Z",
+      "timestamp_est": "2026-06-11T17:26:36-04:00",
+      "tweet_text": "@Gonzolo14 It wasn't a normal failed breakdown. Big failed breakdown of the prior days low, deep elevator down sell into it, shallow flush of the low. About as A+ as it gets",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade commentary describing price action quality of a failed breakdown. No new actionable price level named or implied."
+    },
+    {
+      "tweet_id": "2065184302522835161",
+      "timestamp_utc": "2026-06-11T21:28:01.000Z",
+      "timestamp_est": "2026-06-11T17:28:01-04:00",
+      "tweet_text": "@loloiuytre Appreciate it!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a casual reply with no price levels or actionable language whatsoever."
     }
   ]
 }
