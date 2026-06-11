@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T17:18:36.322958+00:00",
-  "fetched_at_est": "2026-06-11T13:18:36.322968-04:00",
+  "fetched_at_utc": "2026-06-11T17:28:47.190413+00:00",
+  "fetched_at_est": "2026-06-11T13:28:47.190425-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064760335450443961",
-      "timestamp_utc": "2026-06-10T17:23:20.000Z",
-      "timestamp_est": "2026-06-10T13:23:20-04:00",
-      "tweet_text": "@OnTheHooch Relative to the size of the rally though this is still very shallow. It will continue though until we recover a breakdown shelf (like 7390 or 7527).",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7390 and 7527 are both morning-plan levels; tweet is observational commentary on pullback depth, no new actionable levels named."
-    },
     {
       "tweet_id": "2064764529469169953",
       "timestamp_utc": "2026-06-10T17:39:59.000Z",
@@ -348,6 +339,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No actionable price levels named; purely commentary about trading conditions and platform behavior. No new levels introduced."
+    },
+    {
+      "tweet_id": "2065122075480576042",
+      "timestamp_utc": "2026-06-11T17:20:45.000Z",
+      "timestamp_est": "2026-06-11T13:20:45-04:00",
+      "tweet_text": "@aread_22 There was profit takes at 7320 also I just don't include them all on Twitter anymore. Just in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual conversational reply mentioning 7320 as a past profit-take level; no actionable naming language, and it's a hindsight/newsletter reference not a new public level."
+    },
+    {
+      "tweet_id": "2065122922608345587",
+      "timestamp_utc": "2026-06-11T17:24:07.000Z",
+      "timestamp_est": "2026-06-11T13:24:07-04:00",
+      "tweet_text": "@PJTrades500 @OnTheHooch 7215-20 is support, a decent one. Since bears control though we can only expect sellable bounces at supports until we recover a major pivot like 7390",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7215-20 and 7390 are both morning-plan levels (7215, 7390); conversational reply explaining bear bias context, not a new actionable signal."
+    },
+    {
+      "tweet_id": "2065123627524043203",
+      "timestamp_utc": "2026-06-11T17:26:55.000Z",
+      "timestamp_est": "2026-06-11T13:26:55-04:00",
+      "tweet_text": "@bizzybee2121 Good long! Only issue is when we get a great evening setup like that, RTH traders often get nothing",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned at all; purely conversational comment about RTH traders missing evening setups."
     }
   ]
 }
