@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T13:06:52.085110+00:00",
-  "fetched_at_est": "2026-06-11T09:06:52.085114-04:00",
+  "fetched_at_utc": "2026-06-11T13:47:08.742700+00:00",
+  "fetched_at_est": "2026-06-11T09:47:08.742714-04:00",
   "last_new_level_added_at_est": "2026-06-11T09:04:41-04:00",
   "todays_new_levels": [
     {
@@ -368,6 +368,33 @@
       ],
       "added_bear_levels": [],
       "notes": "7344 named explicitly as a target \u2014 not in morning plan. 7308 and 7358/7390 are morning-plan levels (reaffirmations). 7344 is new and actionable."
+    },
+    {
+      "tweet_id": "2065067535523872988",
+      "timestamp_utc": "2026-06-11T13:44:02.000Z",
+      "timestamp_est": "2026-06-11T09:44:02-04:00",
+      "tweet_text": "As posted little to do in #ES_F. We got the quality, A+ Failed Breakdown at 730pm last evening where we lost 7247 Tuesday low, recovered, went +90. Now, sit back, and wait for price to setup the next one. Hold runner\n\n7280, 7258=supports. 7308 must reclaim for a low quality long https://t.co/z7ehw6PEDC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7247, 7280, 7258, 7308) are morning-plan levels or observations of price action; 7258 is closest to 7247/7280 plan levels and no new naming language used."
+    },
+    {
+      "tweet_id": "2065067977704173727",
+      "timestamp_utc": "2026-06-11T13:45:47.000Z",
+      "timestamp_est": "2026-06-11T09:45:47-04:00",
+      "tweet_text": "@ephesus32 7308 is no longer a fresh level. We triggered the long from newsletter there last night already so its now a trappy zone",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7308 is a morning-plan level being discussed as already-triggered/trappy \u2014 reaffirmation + trade management commentary, no new actionable level named."
+    },
+    {
+      "tweet_id": "2065068170604351750",
+      "timestamp_utc": "2026-06-11T13:46:33.000Z",
+      "timestamp_est": "2026-06-11T09:46:33-04:00",
+      "tweet_text": "Note: No change to upside targets. Still 7344, 7358, 7390. There are minors en route in newsletter. I won't be posting those here as often anymore",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned levels (7344, 7358, 7390) are either morning-plan levels or reaffirmations; no new actionable levels named for the first time."
     }
   ]
 }
