@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T14:57:48.051751+00:00",
-  "fetched_at_est": "2026-06-11T10:57:48.051757-04:00",
+  "fetched_at_utc": "2026-06-11T15:07:59.054684+00:00",
+  "fetched_at_est": "2026-06-11T11:07:59.054697-04:00",
   "last_new_level_added_at_est": "2026-06-11T09:04:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064724703537688656",
-      "timestamp_utc": "2026-06-10T15:01:44.000Z",
-      "timestamp_est": "2026-06-10T11:01:44-04:00",
-      "tweet_text": "@T_Ngo_T Not much to trade now! CPI days usually back the tradeable action right around the report. Will just hold the runner and wait for 7390 to recover",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7390 is already in the morning plan; 'wait for 7390 to recover' is a reaffirmation plus trade management (hold runner), not a new actionable level."
-    },
     {
       "tweet_id": "2064726326628528359",
       "timestamp_utc": "2026-06-10T15:08:11.000Z",
@@ -395,6 +386,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply advising to trade planned levels and avoid chop. No price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2065086433358922046",
+      "timestamp_utc": "2026-06-11T14:59:07.000Z",
+      "timestamp_est": "2026-06-11T10:59:07-04:00",
+      "tweet_text": "Today mostly untradable chop in #ES_F. Do nothing. We got A+ setup at 730pm on the 7247 reclaim &amp; went +90. We got low quality long on the 7308 reclaim that went +30. Now, noise\n\n7308 reclaim remains low quality long. 7258 next below from here. Then watch traps of evening low https://t.co/WVI3A7JLBO",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7308 and 7247 are morning plan levels; 7258 is mentioned as 'next below' but lacks explicit actionable naming language to qualify as a new major level."
+    },
+    {
+      "tweet_id": "2065086732383474132",
+      "timestamp_utc": "2026-06-11T15:00:19.000Z",
+      "timestamp_est": "2026-06-11T11:00:19-04:00",
+      "tweet_text": "@chrisAn00930062 I essentially only trade high quality, planned failed breakdowns of fresh lows. Otherwise I don't engage. I still post here because I know people still want to trade and aren't hyper strict about win rate like me, but I'll warn people that it isn't quality action in every post",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading philosophy/methodology with no price levels named or actionable triggers referenced."
+    },
+    {
+      "tweet_id": "2065087336275120335",
+      "timestamp_utc": "2026-06-11T15:02:43.000Z",
+      "timestamp_est": "2026-06-11T11:02:43-04:00",
+      "tweet_text": "@T_Ngo_T 7247 last night was a major institutional accumulation event (the failed breakdown of yesterday's low). Institutions already long, havn't seen any signs of new accumulation yet today",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7247 is already in morning plan; tweet is hindsight/observational commentary on institutional behavior, no new actionable level named."
     }
   ]
 }
