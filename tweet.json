@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T12:16:33.642304+00:00",
-  "fetched_at_est": "2026-06-11T08:16:33.642313-04:00",
+  "fetched_at_utc": "2026-06-11T12:26:35.856665+00:00",
+  "fetched_at_est": "2026-06-11T08:26:35.856673-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064683174861439377",
-      "timestamp_utc": "2026-06-10T12:16:43.000Z",
-      "timestamp_est": "2026-06-10T08:16:43-04:00",
-      "tweet_text": "@repetak At this point there is nothing there. I discussed the structure in the newsletter last ngiht and it already triggered and played through last night so now its just a routine level",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply dismissing a level as already triggered/played out; no new actionable price named."
-    },
     {
       "tweet_id": "2064687565001675155",
       "timestamp_utc": "2026-06-10T12:34:10.000Z",
