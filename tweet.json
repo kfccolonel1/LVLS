@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T14:37:44.111823+00:00",
-  "fetched_at_est": "2026-06-11T10:37:44.111828-04:00",
+  "fetched_at_utc": "2026-06-11T14:47:46.168554+00:00",
+  "fetched_at_est": "2026-06-11T10:47:46.168562-04:00",
   "last_new_level_added_at_est": "2026-06-11T09:04:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064720887304057194",
-      "timestamp_utc": "2026-06-10T14:46:34.000Z",
-      "timestamp_est": "2026-06-10T10:46:34-04:00",
-      "tweet_text": "Today's work done as posted 50mins ago and 0 to do but hold a runner now. Today played out perfectly. 7326 reclaim was the long trigger in #ES_F given 8am. We triggered. Targets were 7345, 7358, 7390. 7390 backtests yesterday's breakdown and is the bull/bear line.\n\nHold runner https://t.co/0PyWflbdrE",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7326\u22487327, 7345, 7358\u22487359, 7390) are morning-plan levels or reaffirmations; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2064722875605483694",
       "timestamp_utc": "2026-06-10T14:54:28.000Z",
