@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T16:48:24.885086+00:00",
-  "fetched_at_est": "2026-06-11T12:48:24.885094-04:00",
+  "fetched_at_utc": "2026-06-11T17:08:28.177581+00:00",
+  "fetched_at_est": "2026-06-11T13:08:28.177589-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064755743283183749",
-      "timestamp_utc": "2026-06-10T17:05:05.000Z",
-      "timestamp_est": "2026-06-10T13:05:05-04:00",
-      "tweet_text": "Pure chop after this mornings CPI squeeze. 7327 reclaim was the 8am long trigger given in #ES_F. My final target was 7390 (bull/bear line). We hit 90, sold\n\nNext setup was the trap of the 7308 low, given 11:14AM. At 11:52AM, we swept it to 05, recovered. 7358, 7390 remain upsides https://t.co/8ctNnVfae5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7327, 7390, 7308, 7358) are morning-plan levels or hindsight trade recaps. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2064757330164519085",
       "timestamp_utc": "2026-06-10T17:11:23.000Z",
