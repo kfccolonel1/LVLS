@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T14:17:31.521847+00:00",
-  "fetched_at_est": "2026-06-11T10:17:31.521859-04:00",
+  "fetched_at_utc": "2026-06-11T14:27:42.103820+00:00",
+  "fetched_at_est": "2026-06-11T10:27:42.103834-04:00",
   "last_new_level_added_at_est": "2026-06-11T09:04:41-04:00",
   "todays_new_levels": [
     {
@@ -413,6 +413,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7344/7358 not in morning plan but appear as directional targets listed without explicit 'new/added/key/watching' naming language; 7390 is a morning plan level. No qualifying new actionable levels."
+    },
+    {
+      "tweet_id": "2065076475745702318",
+      "timestamp_utc": "2026-06-11T14:19:33.000Z",
+      "timestamp_est": "2026-06-11T10:19:33-04:00",
+      "tweet_text": "@Trevormiles16 Not the type of action I'd touch, but I'm sure some people are tryng to trade it. Just a hold runner day for me.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/commentary ('hold runner day'), no price levels named at all."
+    },
+    {
+      "tweet_id": "2065077537407955048",
+      "timestamp_utc": "2026-06-11T14:23:46.000Z",
+      "timestamp_est": "2026-06-11T10:23:46-04:00",
+      "tweet_text": "@mr1ktrader @Trevormiles16 Just have to trade the planned, high quality areas and not engage chop",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply advising to trade planned levels and avoid chop. No price named, no actionable level introduced."
     }
   ]
 }
