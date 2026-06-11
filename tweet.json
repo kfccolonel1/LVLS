@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T17:38:54.536624+00:00",
-  "fetched_at_est": "2026-06-11T13:38:54.536639-04:00",
+  "fetched_at_utc": "2026-06-11T17:48:58.942356+00:00",
+  "fetched_at_est": "2026-06-11T13:48:58.942360-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -28,24 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064764529469169953",
-      "timestamp_utc": "2026-06-10T17:39:59.000Z",
-      "timestamp_est": "2026-06-10T13:39:59-04:00",
-      "tweet_text": "@OnTheHooch 27 is still a big magnet. Once we recover 7390 it would be the next target up",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7327 and 7390 are both morning-plan levels; tweet is a reaffirmation/observation of existing levels, not a new actionable call."
-    },
-    {
-      "tweet_id": "2064765160854536614",
-      "timestamp_utc": "2026-06-10T17:42:30.000Z",
-      "timestamp_est": "2026-06-10T13:42:30-04:00",
-      "tweet_text": "Chop all day after this mornings rip to the 7390 backtest/final target given in #ES_F. Bears control below, bulls above. Very simple\n\n7308 remains a level we keep trapping. We trapped it once, rallied to 7340s. Same trigger applies with 7327, 7345, 7358 above. 7284, 7247 below https://t.co/2biNzfEyXl",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7390, 7327, 7345, 7358/7359, 7284, 7247) are morning-plan levels or observations of price action; 7308 is a trap observation, not a newly named actionable level."
-    },
     {
       "tweet_id": "2064788724685091008",
       "timestamp_utc": "2026-06-10T19:16:08.000Z",
@@ -384,6 +366,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on market catalyst (Iran headlines); no price levels named or actionable levels mentioned."
+    },
+    {
+      "tweet_id": "2065127439726973220",
+      "timestamp_utc": "2026-06-11T17:42:04.000Z",
+      "timestamp_est": "2026-06-11T13:42:04-04:00",
+      "tweet_text": "@AnotherX2802 Someone predicted the headline in advance because as  I've commented all day last night was a major institutional accumulation event. https://t.co/kWm0oUrojL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about institutional accumulation; no price levels named or actionable triggers identified."
     }
   ]
 }
