@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T17:48:58.942356+00:00",
-  "fetched_at_est": "2026-06-11T13:48:58.942360-04:00",
+  "fetched_at_utc": "2026-06-11T19:19:10.756182+00:00",
+  "fetched_at_est": "2026-06-11T15:19:10.756187-04:00",
   "last_new_level_added_at_est": "2026-06-11T11:55:37-04:00",
   "todays_new_levels": [
     {
@@ -28,24 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064788724685091008",
-      "timestamp_utc": "2026-06-10T19:16:08.000Z",
-      "timestamp_est": "2026-06-10T15:16:08-04:00",
-      "tweet_text": "@bmf39 It depends on what price is doing. If there is a trigger that is close and Im concerned it could trigger before 4pm I'll send it a little early",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining tweet timing; no price levels named or referenced at all."
-    },
-    {
-      "tweet_id": "2064789224176431491",
-      "timestamp_utc": "2026-06-10T19:18:07.000Z",
-      "timestamp_est": "2026-06-10T15:18:07-04:00",
-      "tweet_text": "Closing update #ES_F: Very choppy session after a clean start to the day where we rallied to 7390+ target, rejected, and headed down. 7308 must recover to see another squeeze. Downsides remain 7284, 7247. Newsletter was just sent with specific entries from here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7308 is not in morning plan but used as a condition ('must recover'), not explicitly named as a new actionable level with naming language. 7284/7247 are morning plan reaffirmations."
-    },
     {
       "tweet_id": "2064790750852751680",
       "timestamp_utc": "2026-06-10T19:24:11.000Z",
@@ -375,6 +357,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about institutional accumulation; no price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2065150009612361734",
+      "timestamp_utc": "2026-06-11T19:11:45.000Z",
+      "timestamp_est": "2026-06-11T15:11:45-04:00",
+      "tweet_text": "Closing update: Almost at 7390 final target in #ES_F and this took its time. Last night longs triggered on the Failed Breakdown of Tuesday's 7247 low. Today's plan posted hourly: Hold runner. Targets were 7327, 7336, 7358, 7390. 7425+ above. Newsletter out soon with next entry",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7247, 7327, 7390, 7425 area) are morning plan levels or hindsight trade management references. '7425+' is vague directional commentary, not a named actionable level."
     }
   ]
 }
