@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T15:18:07.361254+00:00",
-  "fetched_at_est": "2026-06-11T11:18:07.361266-04:00",
+  "fetched_at_utc": "2026-06-11T15:28:09.536007+00:00",
+  "fetched_at_est": "2026-06-11T11:28:09.536013-04:00",
   "last_new_level_added_at_est": "2026-06-11T09:04:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064729028238414080",
-      "timestamp_utc": "2026-06-10T15:18:55.000Z",
-      "timestamp_est": "2026-06-10T11:18:55-04:00",
-      "tweet_text": "@Trevormiles16 It is technically. 7308 and 7247 are better though. 7247 is the best",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7247 is already in morning plan; 7308 is mentioned conversationally in a reply without actionable naming language \u2014 no new major levels."
-    },
     {
       "tweet_id": "2064732173848969433",
       "timestamp_utc": "2026-06-10T15:31:25.000Z",
