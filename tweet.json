@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T12:46:46.332731+00:00",
-  "fetched_at_est": "2026-06-11T08:46:46.332737-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-06-11T13:06:52.085110+00:00",
+  "fetched_at_est": "2026-06-11T09:06:52.085114-04:00",
+  "last_new_level_added_at_est": "2026-06-11T09:04:41-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7344.0,
+      "side": "bull",
+      "added_at_est": "2026-06-11T09:04:41-04:00",
+      "expires_at_est": "2026-06-11T17:04:41-04:00",
+      "from_tweet_id": "2065057635259285778"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2064707757337440388",
@@ -349,6 +357,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No specific price named; 'evening low' FBD reference lacks a concrete price and no new actionable level is introduced beyond existing morning plan."
+    },
+    {
+      "tweet_id": "2065057635259285778",
+      "timestamp_utc": "2026-06-11T13:04:41.000Z",
+      "timestamp_est": "2026-06-11T09:04:41-04:00",
+      "tweet_text": "Last night at 730PM we got a textbook Failed Breakdown in #ES_F, given in newsletter: We swept the 7247 Tuesday low, recovered &amp; ripped +90. Task today just ride the lotto runner with trade complete. Little to do  here.\n\n7308=support (heavy traps here). 7344, 7358, 7390 targets https://t.co/UcpM2VymoK",
+      "added_bull_levels": [
+        7344.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7344 named explicitly as a target \u2014 not in morning plan. 7308 and 7358/7390 are morning-plan levels (reaffirmations). 7344 is new and actionable."
     }
   ]
 }
