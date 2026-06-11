@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T13:57:22.569287+00:00",
-  "fetched_at_est": "2026-06-11T09:57:22.569301-04:00",
+  "fetched_at_utc": "2026-06-11T14:17:31.521847+00:00",
+  "fetched_at_est": "2026-06-11T10:17:31.521859-04:00",
   "last_new_level_added_at_est": "2026-06-11T09:04:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2064712297994506510",
-      "timestamp_utc": "2026-06-10T14:12:26.000Z",
-      "timestamp_est": "2026-06-10T10:12:26-04:00",
-      "tweet_text": "Note: Remember today's target (7390) was also yesterday's. 7390 remains bull/bear line being the backtest of yesterday's breakdown. ES follows a standard 3 step process: Shelf fails (7390) which causes elevator down. Failed Breakdown, we long. Backtest shot. Reclaim bottoms",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7390 is already in the morning plan. Tweet is process commentary/reaffirmation of existing level, no new actionable prices introduced."
-    },
     {
       "tweet_id": "2064717144269406584",
       "timestamp_utc": "2026-06-10T14:31:42.000Z",
@@ -404,6 +395,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7527 is already in the morning plan; this is a reaffirmation/commentary, not a new actionable level."
+    },
+    {
+      "tweet_id": "2065075083152855104",
+      "timestamp_utc": "2026-06-11T14:14:01.000Z",
+      "timestamp_est": "2026-06-11T10:14:01-04:00",
+      "tweet_text": "@Jamie50R @jsnow815 Its a magnet, it will backtest at some point. The path price takes there - as I discuss in newsletter - will be the maximally trappy one so we don't predict. Just take the setups one at a time",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply; no price named, no actionable level, no naming language. Pure commentary about price behavior and methodology."
+    },
+    {
+      "tweet_id": "2065075629599437215",
+      "timestamp_utc": "2026-06-11T14:16:12.000Z",
+      "timestamp_est": "2026-06-11T10:16:12-04:00",
+      "tweet_text": "We got the A+ setup last night on the 7247 Failed Breakdown for 90 clean points. Now just chop in #ES_F, plan today just hold runner. I did post 30mins ago that 7308 reclaim was a low quality long &amp; we went +25 on it\n\nStill applies. 7344, 7358, 7390 remain targets. Same supports https://t.co/ItwSosUFyT",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7344/7358 not in morning plan but appear as directional targets listed without explicit 'new/added/key/watching' naming language; 7390 is a morning plan level. No qualifying new actionable levels."
     }
   ]
 }
