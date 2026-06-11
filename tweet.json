@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-11T12:26:35.856665+00:00",
-  "fetched_at_est": "2026-06-11T08:26:35.856673-04:00",
+  "fetched_at_utc": "2026-06-11T12:36:44.221359+00:00",
+  "fetched_at_est": "2026-06-11T08:36:44.221369-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2064687565001675155",
-      "timestamp_utc": "2026-06-10T12:34:10.000Z",
-      "timestamp_est": "2026-06-10T08:34:10-04:00",
-      "tweet_text": "Quick work today and #ES_F giving us two easy sessions a row. As posted today's long trigger was the 7327 reclaim. We triggered. Targets given for today were 7345 (hit), 7358 (hit exact). 7390 next big one up though there are levels enroute from newsletter.\n\n7390 remains key https://t.co/awAvUiiGPW",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7327, 7345, 7358/7359, 7390) are in morning plan or observations of hits. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2064688263298711556",
       "timestamp_utc": "2026-06-10T12:36:56.000Z",
@@ -358,6 +349,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels named. Tweet is commentary/trade management about letting runners work after an accumulation event \u2014 no actionable price cited."
+    },
+    {
+      "tweet_id": "2065048506117558528",
+      "timestamp_utc": "2026-06-11T12:28:25.000Z",
+      "timestamp_est": "2026-06-11T08:28:25-04:00",
+      "tweet_text": "@EricHuang97 I always put my stop just a few points below the lowest low of the failed breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining stop placement methodology only; no specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2065048720169640207",
+      "timestamp_utc": "2026-06-11T12:29:16.000Z",
+      "timestamp_est": "2026-06-11T08:29:16-04:00",
+      "tweet_text": "@repetak There's not a ton up here now. The Failed Breakdown of the evening low would be an obvious one. Otherwise no change from the newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price named; 'evening low' FBD reference lacks a concrete price and no new actionable level is introduced beyond existing morning plan."
     }
   ]
 }
