@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T00:30:04.060906+00:00",
-  "fetched_at_est": "2026-06-11T20:30:04.060911-04:00",
+  "fetched_at_utc": "2026-06-12T01:10:12.200921+00:00",
+  "fetched_at_est": "2026-06-11T21:10:12.200926-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -353,6 +353,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no prices mentioned; purely conversational advice about using levels, no actionable price named."
+    },
+    {
+      "tweet_id": "2065239803948413404",
+      "timestamp_utc": "2026-06-12T01:08:34.000Z",
+      "timestamp_est": "2026-06-11T21:08:34-04:00",
+      "tweet_text": "@jake_lamotta_23 @Gonzolo14 Its like a beach ball going underwater, there is so much demand that they won't let it go much below the low before it springs back up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary using a beach ball analogy; no price named, no actionable level, no naming language whatsoever."
     }
   ]
 }
