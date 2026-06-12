@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T13:51:54.414096+00:00",
-  "fetched_at_est": "2026-06-12T09:51:54.414110-04:00",
+  "fetched_at_utc": "2026-06-12T14:01:56.346878+00:00",
+  "fetched_at_est": "2026-06-12T10:01:56.346885-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065070696774934751",
-      "timestamp_utc": "2026-06-11T13:56:35.000Z",
-      "timestamp_est": "2026-06-11T09:56:35-04:00",
-      "tweet_text": "@jsnow815 Real test for bulls will be at that 7527 magnet!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7527 is already in the morning plan; this is a reaffirmation/commentary, not a new actionable level."
-    },
     {
       "tweet_id": "2065075083152855104",
       "timestamp_utc": "2026-06-11T14:14:01.000Z",
