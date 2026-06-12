@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T15:52:28.728379+00:00",
-  "fetched_at_est": "2026-06-12T11:52:28.728383-04:00",
+  "fetched_at_utc": "2026-06-12T16:02:30.978407+00:00",
+  "fetched_at_est": "2026-06-12T12:02:30.978414-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065100648643715314",
-      "timestamp_utc": "2026-06-11T15:55:37.000Z",
-      "timestamp_est": "2026-06-11T11:55:37-04:00",
-      "tweet_text": "Extreme chop in #ES_F. Evening traders got the quality long. The 7247 Failed Breakdown of Tuesday's low, then a clean +90 points. Now RTH traders get chopped. Hold runner, don't force\n\n7308 is now a ceiling. It must reclaim with vol to see 7327, 7336, 7358+. 7280, 7258=supports https://t.co/CZbYAauyvA",
-      "added_bull_levels": [
-        7336.0
-      ],
-      "added_bear_levels": [
-        7258.0
-      ],
-      "notes": "7336 and 7258 are not in the morning plan. 7336 named as a target ('to see...7336'), 7258 named as support. All others (7247,7308,7327,7358,7280) are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2065119975602356706",
       "timestamp_utc": "2026-06-11T17:12:24.000Z",
