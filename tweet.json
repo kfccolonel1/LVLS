@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T13:21:36.198254+00:00",
-  "fetched_at_est": "2026-06-12T09:21:36.198259-04:00",
+  "fetched_at_utc": "2026-06-12T13:41:41.520785+00:00",
+  "fetched_at_est": "2026-06-12T09:41:41.520790-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -387,6 +387,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned levels (7247, 7390, 7420, 7425, 7439, 7458, 7410\u2248morning plan) are reaffirmations or trade recap; 7410 is close enough to 7420 morning plan, no genuinely new actionable level named."
+    },
+    {
+      "tweet_id": "2065427928540676147",
+      "timestamp_utc": "2026-06-12T13:36:06.000Z",
+      "timestamp_est": "2026-06-12T09:36:06-04:00",
+      "tweet_text": "@upandown007 It already occurred, we rallied 200 points. That is an enormous ES move especially for institutions trading 10s of thousands of contracts",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on magnitude of a 200-point rally; no actionable price named, no naming language, no new level introduced."
     }
   ]
 }
