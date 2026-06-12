@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T18:23:04.436982+00:00",
-  "fetched_at_est": "2026-06-12T14:23:04.436996-04:00",
+  "fetched_at_utc": "2026-06-12T19:13:13.026798+00:00",
+  "fetched_at_est": "2026-06-12T15:13:13.026804-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065150009612361734",
-      "timestamp_utc": "2026-06-11T19:11:45.000Z",
-      "timestamp_est": "2026-06-11T15:11:45-04:00",
-      "tweet_text": "Closing update: Almost at 7390 final target in #ES_F and this took its time. Last night longs triggered on the Failed Breakdown of Tuesday's 7247 low. Today's plan posted hourly: Hold runner. Targets were 7327, 7336, 7358, 7390. 7425+ above. Newsletter out soon with next entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7247, 7327, 7390, 7425 area) are morning plan levels or hindsight trade management references. '7425+' is vague directional commentary, not a named actionable level."
-    },
     {
       "tweet_id": "2065155093981196776",
       "timestamp_utc": "2026-06-11T19:31:57.000Z",
@@ -302,6 +293,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about newsletter philosophy; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2065510552370073701",
+      "timestamp_utc": "2026-06-12T19:04:25.000Z",
+      "timestamp_est": "2026-06-12T15:04:25-04:00",
+      "tweet_text": "Closing update #ES_F: Chop continues and the rule is we never trade chop. We got the long on the 7377 failed breakdown this morning. Targets were 7390, 7420, 7439, 7458. 7474, 7507, then 7527 are coming next week. Hold runner. Newsletter out soon with next entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7377, 7390, 7420, 7439, 7458, 7474, 7507, 7527) are morning plan levels; tweet is a closing recap/reaffirmation with trade management (hold runner), no new levels."
     }
   ]
 }
