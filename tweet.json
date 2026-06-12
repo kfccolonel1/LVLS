@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T17:32:45.432698+00:00",
-  "fetched_at_est": "2026-06-12T13:32:45.432705-04:00",
+  "fetched_at_utc": "2026-06-12T17:42:47.193032+00:00",
+  "fetched_at_est": "2026-06-12T13:42:47.193038-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065125658208977151",
-      "timestamp_utc": "2026-06-11T17:34:59.000Z",
-      "timestamp_est": "2026-06-11T13:34:59-04:00",
-      "tweet_text": "@jake_lamotta_23 More Iran headlines. Market just needed something to get it moving",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on market catalyst (Iran headlines); no price levels named or actionable levels mentioned."
-    },
-    {
-      "tweet_id": "2065127439726973220",
-      "timestamp_utc": "2026-06-11T17:42:04.000Z",
-      "timestamp_est": "2026-06-11T13:42:04-04:00",
-      "tweet_text": "@AnotherX2802 Someone predicted the headline in advance because as  I've commented all day last night was a major institutional accumulation event. https://t.co/kWm0oUrojL",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about institutional accumulation; no price levels named or actionable triggers identified."
-    },
     {
       "tweet_id": "2065150009612361734",
       "timestamp_utc": "2026-06-11T19:11:45.000Z",
