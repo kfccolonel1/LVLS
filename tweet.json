@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T12:01:11.812289+00:00",
-  "fetched_at_est": "2026-06-12T08:01:11.812306-04:00",
+  "fetched_at_utc": "2026-06-12T12:11:24.477707+00:00",
+  "fetched_at_est": "2026-06-12T08:11:24.477720-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -371,6 +371,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management/commentary \u2014 'ride runner', distance math on P&L, no actionable price level named."
+    },
+    {
+      "tweet_id": "2065404389427220720",
+      "timestamp_utc": "2026-06-12T12:02:34.000Z",
+      "timestamp_est": "2026-06-12T08:02:34-04:00",
+      "tweet_text": "@schwartzaman I wouldn't. I only trade high quality, planned Failed Breakdowns. There isn't one now until we lost that 7375 overnight low + the ones I gave in newsletter.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7375 is a casual conversational reference to an overnight low in a reply, not named as an actionable level with naming language. No new major level introduced."
+    },
+    {
+      "tweet_id": "2065404559510372469",
+      "timestamp_utc": "2026-06-12T12:03:15.000Z",
+      "timestamp_est": "2026-06-12T08:03:15-04:00",
+      "tweet_text": "@schwartzaman Very low chance I trade today or even Monday unless we get a really deep selloff",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about trading intentions; no price levels named or actionable triggers provided."
+    },
+    {
+      "tweet_id": "2065404767292030981",
+      "timestamp_utc": "2026-06-12T12:04:04.000Z",
+      "timestamp_est": "2026-06-12T08:04:04-04:00",
+      "tweet_text": "@EpicCharting Maybe not! Bulls still aren't totally out of the woods. We'll see what happens at the 7527 backtest",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7527 is already in the morning plan. The tweet is a conversational observation about a backtest, not naming a new actionable level."
+    },
+    {
+      "tweet_id": "2065405659143610459",
+      "timestamp_utc": "2026-06-12T12:07:37.000Z",
+      "timestamp_est": "2026-06-12T08:07:37-04:00",
+      "tweet_text": "@EpicCharting Just my opinion but doesn't look structurally to me like we are just going to cleanly start rallying to ATH's again. More likely we enter a longer consolidation phase",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure structural/directional opinion with no actionable price named. No levels, triggers, or targets mentioned."
     }
   ]
 }
