@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T17:42:47.193032+00:00",
-  "fetched_at_est": "2026-06-12T13:42:47.193038-04:00",
+  "fetched_at_utc": "2026-06-12T18:02:56.550625+00:00",
+  "fetched_at_est": "2026-06-12T14:02:56.550640-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -266,6 +266,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7377, 7390, 7420, 7439, 7458, 7474, 7507) are morning-plan levels. Tweet is trade recap/management + reaffirmation of existing targets, no new actionable levels."
+    },
+    {
+      "tweet_id": "2065493633952784887",
+      "timestamp_utc": "2026-06-12T17:57:12.000Z",
+      "timestamp_est": "2026-06-12T13:57:12-04:00",
+      "tweet_text": "@br71217_brad It might have been yesterday for a while, but t doesnt mean we go straight back to ATHs. Likely need to build a big new bull flag which could take some time. Weeks",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional/time commentary about bull flag formation. No price levels named, no actionable entries, targets, or triggers mentioned."
+    },
+    {
+      "tweet_id": "2065493850760556884",
+      "timestamp_utc": "2026-06-12T17:58:03.000Z",
+      "timestamp_est": "2026-06-12T13:58:03-04:00",
+      "tweet_text": "@StephenJ223624 Yes thats good to see too. A shallow 10-20 point flush of the low, then very fast recovery",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply describing price action pattern (shallow flush + fast recovery) \u2014 no explicit actionable price named, just qualitative commentary."
     }
   ]
 }
