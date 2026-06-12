@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T12:11:24.477707+00:00",
-  "fetched_at_est": "2026-06-12T08:11:24.477720-04:00",
+  "fetched_at_utc": "2026-06-12T12:31:27.143989+00:00",
+  "fetched_at_est": "2026-06-12T08:31:27.143994-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065048506117558528",
-      "timestamp_utc": "2026-06-11T12:28:25.000Z",
-      "timestamp_est": "2026-06-11T08:28:25-04:00",
-      "tweet_text": "@EricHuang97 I always put my stop just a few points below the lowest low of the failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining stop placement methodology only; no specific price named or actionable level introduced."
-    },
-    {
-      "tweet_id": "2065048720169640207",
-      "timestamp_utc": "2026-06-11T12:29:16.000Z",
-      "timestamp_est": "2026-06-11T08:29:16-04:00",
-      "tweet_text": "@repetak There's not a ton up here now. The Failed Breakdown of the evening low would be an obvious one. Otherwise no change from the newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific price named; 'evening low' FBD reference lacks a concrete price and no new actionable level is introduced beyond existing morning plan."
-    },
     {
       "tweet_id": "2065057635259285778",
       "timestamp_utc": "2026-06-11T13:04:41.000Z",
