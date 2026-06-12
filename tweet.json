@@ -1,56 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T13:41:41.520785+00:00",
-  "fetched_at_est": "2026-06-12T09:41:41.520790-04:00",
+  "fetched_at_utc": "2026-06-12T13:51:54.414096+00:00",
+  "fetched_at_est": "2026-06-12T09:51:54.414110-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065067535523872988",
-      "timestamp_utc": "2026-06-11T13:44:02.000Z",
-      "timestamp_est": "2026-06-11T09:44:02-04:00",
-      "tweet_text": "As posted little to do in #ES_F. We got the quality, A+ Failed Breakdown at 730pm last evening where we lost 7247 Tuesday low, recovered, went +90. Now, sit back, and wait for price to setup the next one. Hold runner\n\n7280, 7258=supports. 7308 must reclaim for a low quality long https://t.co/z7ehw6PEDC",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7247, 7280, 7258, 7308) are morning-plan levels or observations of price action; 7258 is closest to 7247/7280 plan levels and no new naming language used."
-    },
-    {
-      "tweet_id": "2065067977704173727",
-      "timestamp_utc": "2026-06-11T13:45:47.000Z",
-      "timestamp_est": "2026-06-11T09:45:47-04:00",
-      "tweet_text": "@ephesus32 7308 is no longer a fresh level. We triggered the long from newsletter there last night already so its now a trappy zone",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7308 is a morning-plan level being discussed as already-triggered/trappy \u2014 reaffirmation + trade management commentary, no new actionable level named."
-    },
-    {
-      "tweet_id": "2065068170604351750",
-      "timestamp_utc": "2026-06-11T13:46:33.000Z",
-      "timestamp_est": "2026-06-11T09:46:33-04:00",
-      "tweet_text": "Note: No change to upside targets. Still 7344, 7358, 7390. There are minors en route in newsletter. I won't be posting those here as often anymore",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7344, 7358, 7390) are either morning-plan levels or reaffirmations; no new actionable levels named for the first time."
-    },
-    {
-      "tweet_id": "2065068511253143772",
-      "timestamp_utc": "2026-06-11T13:47:54.000Z",
-      "timestamp_est": "2026-06-11T09:47:54-04:00",
-      "tweet_text": "@HagglundKirk @repetak I didn't really give a read. We got the long last night, plan today is just hold the runner, and I gave the next upside targets. Not all action is meant to be traded",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining trade management (holding runner) and referencing previously given targets. No new actionable price levels named."
-    },
-    {
-      "tweet_id": "2065069285643300994",
-      "timestamp_utc": "2026-06-11T13:50:59.000Z",
-      "timestamp_est": "2026-06-11T09:50:59-04:00",
-      "tweet_text": "@YawningKitty24 Low qualkity in the sense the zone is no longer the fresh shelf it was yesterday. Its been traded through and trapped numerous times already so its ging to be a mess",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet, no price mentioned, purely qualitative commentary about a zone's freshness. No actionable level named."
-    },
     {
       "tweet_id": "2065070696774934751",
       "timestamp_utc": "2026-06-11T13:56:35.000Z",
@@ -396,6 +351,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on magnitude of a 200-point rally; no actionable price named, no naming language, no new level introduced."
+    },
+    {
+      "tweet_id": "2065429922009518323",
+      "timestamp_utc": "2026-06-12T13:44:01.000Z",
+      "timestamp_est": "2026-06-12T09:44:01-04:00",
+      "tweet_text": "Finally a little bit of volatility pickup in #ES_F to provide something to possibly trade. Last entry was the Wednesday 730pm 7247 Failed Breakdown. We went +200 on that. \n\n7377 now support (watch traps here). 7390 above, bulls must recover to work lvl to lvl. 7355, 7335 below https://t.co/5v0SWUMcp2",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7377, 7390, 7355, 7335) are already in today's morning plan. These are reaffirmations, not new levels."
+    },
+    {
+      "tweet_id": "2065430239828746673",
+      "timestamp_utc": "2026-06-12T13:45:17.000Z",
+      "timestamp_est": "2026-06-12T09:45:17-04:00",
+      "tweet_text": "@1MDec2030 @EpicCharting Yes, bears took control for the first time in months. I'd be surprised if we just cleanly started rallying to ATH's again. We'll see what happens at the 7527 backtest though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7527 is already in the morning plan; tweet is conversational commentary/opinion, not an actionable named level."
+    },
+    {
+      "tweet_id": "2065430454509973902",
+      "timestamp_utc": "2026-06-12T13:46:08.000Z",
+      "timestamp_est": "2026-06-12T09:46:08-04:00",
+      "tweet_text": "@1MDec2030 @EpicCharting If we cleanly reject there rather than accept for several days it will probably mean extended downside",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no specific price named; purely directional commentary about rejection vs acceptance, no actionable level introduced."
     }
   ]
 }
