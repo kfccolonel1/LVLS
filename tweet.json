@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T18:02:56.550625+00:00",
-  "fetched_at_est": "2026-06-12T14:02:56.550640-04:00",
+  "fetched_at_utc": "2026-06-12T18:23:04.436982+00:00",
+  "fetched_at_est": "2026-06-12T14:23:04.436996-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -284,6 +284,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply describing price action pattern (shallow flush + fast recovery) \u2014 no explicit actionable price named, just qualitative commentary."
+    },
+    {
+      "tweet_id": "2065498451383570933",
+      "timestamp_utc": "2026-06-12T18:16:20.000Z",
+      "timestamp_est": "2026-06-12T14:16:20-04:00",
+      "tweet_text": "@JKThompsonES @br71217_brad Its too large to be relevant to day traders, more of a swing trader/long term investor setup",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade size/timeframe relevance; no price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2065498677423022585",
+      "timestamp_utc": "2026-06-12T18:17:14.000Z",
+      "timestamp_est": "2026-06-12T14:17:14-04:00",
+      "tweet_text": "@JKThompsonES @br71217_brad Have to be very careful what I talk about in the newsletter because I don't want people predicting, can't have a bias intraday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about newsletter philosophy; no price levels named or actionable signals given."
     }
   ]
 }
