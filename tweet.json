@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T14:22:08.871093+00:00",
-  "fetched_at_est": "2026-06-12T10:22:08.871106-04:00",
+  "fetched_at_utc": "2026-06-12T14:32:10.960698+00:00",
+  "fetched_at_est": "2026-06-12T10:32:10.960706-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065077537407955048",
-      "timestamp_utc": "2026-06-11T14:23:46.000Z",
-      "timestamp_est": "2026-06-11T10:23:46-04:00",
-      "tweet_text": "@mr1ktrader @Trevormiles16 Just have to trade the planned, high quality areas and not engage chop",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply advising to trade planned levels and avoid chop. No price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2065086433358922046",
       "timestamp_utc": "2026-06-11T14:59:07.000Z",
