@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-12T17:12:41.863813+00:00",
-  "fetched_at_est": "2026-06-12T13:12:41.863820-04:00",
+  "fetched_at_utc": "2026-06-12T17:22:43.704760+00:00",
+  "fetched_at_est": "2026-06-12T13:22:43.704766-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2065120810746917114",
-      "timestamp_utc": "2026-06-11T17:15:44.000Z",
-      "timestamp_est": "2026-06-11T13:15:44-04:00",
-      "tweet_text": "@OnTheHooch Couldn't pay me to trade a day like today! Platform hasn't even opened yet and won't unless we lose the overnight lows",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No actionable price levels named; purely commentary about trading conditions and platform behavior. No new levels introduced."
-    },
-    {
-      "tweet_id": "2065122075480576042",
-      "timestamp_utc": "2026-06-11T17:20:45.000Z",
-      "timestamp_est": "2026-06-11T13:20:45-04:00",
-      "tweet_text": "@aread_22 There was profit takes at 7320 also I just don't include them all on Twitter anymore. Just in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply mentioning 7320 as a past profit-take level; no actionable naming language, and it's a hindsight/newsletter reference not a new public level."
-    },
     {
       "tweet_id": "2065122922608345587",
       "timestamp_utc": "2026-06-11T17:24:07.000Z",
