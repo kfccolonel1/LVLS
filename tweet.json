@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T14:08:04.092739+00:00",
-  "fetched_at_est": "2026-06-15T10:08:04.092753-04:00",
+  "fetched_at_utc": "2026-06-15T14:28:10.134605+00:00",
+  "fetched_at_est": "2026-06-15T10:28:10.134610-04:00",
   "last_new_level_added_at_est": "2026-06-15T09:13:03-04:00",
   "todays_new_levels": [
     {
@@ -186,6 +186,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about probability of backtests becoming magnets; no specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2066526997912682966",
+      "timestamp_utc": "2026-06-15T14:23:25.000Z",
+      "timestamp_est": "2026-06-15T10:23:25-04:00",
+      "tweet_text": "@WestNyc1 And it definitely took the max pain path, came 35 points shy on the 9th, trapped bulls, made a new low, trapped bears, then came here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure price action observation/narrative about prior movement \u2014 no actionable price named, no naming language, no new level introduced."
     }
   ]
 }
