@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T18:08:56.751186+00:00",
-  "fetched_at_est": "2026-06-15T14:08:56.751190-04:00",
+  "fetched_at_utc": "2026-06-15T18:19:01.767343+00:00",
+  "fetched_at_est": "2026-06-15T14:19:01.767347-04:00",
   "last_new_level_added_at_est": "2026-06-15T12:11:02-04:00",
   "todays_new_levels": [
     {
@@ -249,6 +249,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply; '7590' is not named with actionable language, just a directional observation about losing a level. No explicit entry/watch/trigger framing."
+    },
+    {
+      "tweet_id": "2066584344072732864",
+      "timestamp_utc": "2026-06-15T18:11:17.000Z",
+      "timestamp_est": "2026-06-15T14:11:17-04:00",
+      "tweet_text": "Today's final target was 7639 in #ES_F and holding so far. Nothing to do up here as there is no volatility - just ride runner. If you trade without volatility, you get chopped. 7620 remains micro support, 7590 below.\n\nNo real quality entries until sub 7590. 7660, 7689 next https://t.co/XpdmaqteHH",
+      "added_bull_levels": [
+        7689.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7689 named as 'next' resistance target above \u2014 not in morning plan. 7639/7660/7590/7620 are all morning-plan reaffirmations."
     }
   ]
 }
