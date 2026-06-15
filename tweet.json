@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T12:47:30.974828+00:00",
-  "fetched_at_est": "2026-06-15T08:47:30.974840-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-06-15T13:17:40.379120+00:00",
+  "fetched_at_est": "2026-06-15T09:17:40.379130-04:00",
+  "last_new_level_added_at_est": "2026-06-15T09:13:03-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7620.0,
+      "side": "bull",
+      "added_at_est": "2026-06-15T09:13:03-04:00",
+      "expires_at_est": "2026-06-15T17:13:03-04:00",
+      "from_tweet_id": "2066509292992123287"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2066149854447800428",
@@ -113,6 +121,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure educational/philosophical commentary on market psychology. No price levels named, no actionable entries, targets, or triggers mentioned."
+    },
+    {
+      "tweet_id": "2066509292992123287",
+      "timestamp_utc": "2026-06-15T13:13:03.000Z",
+      "timestamp_est": "2026-06-15T09:13:03-04:00",
+      "tweet_text": "We finally got to my macro target/magnet of 7590 after a +279 point long from Wednesday's 7311 Failed Breakdown. 7590 backtests the June 5th breakdown. Now, there is nothing to trade until the next deep bear trap. Ride runner\n\n7590 (testing), 7570=supports. 7611, 7620, 7639 bonus https://t.co/u4dy5TZX9g",
+      "added_bull_levels": [
+        7620.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7620 named as bonus resistance target not in morning plan; 7590/7570/7611/7639 are all existing morning-plan levels."
+    },
+    {
+      "tweet_id": "2066509321484009812",
+      "timestamp_utc": "2026-06-15T13:13:10.000Z",
+      "timestamp_est": "2026-06-15T09:13:10-04:00",
+      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is an administrative note about contract rollover from ESM2026 to ESU2026; no actionable prices named, no new levels introduced."
     }
   ]
 }
