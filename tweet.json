@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T13:57:53.068095+00:00",
-  "fetched_at_est": "2026-06-15T09:57:53.068108-04:00",
+  "fetched_at_utc": "2026-06-15T14:08:04.092739+00:00",
+  "fetched_at_est": "2026-06-15T10:08:04.092753-04:00",
   "last_new_level_added_at_est": "2026-06-15T09:13:03-04:00",
   "todays_new_levels": [
     {
@@ -159,6 +159,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary/opinion with no price levels named at all. No actionable entry, exit, support, or resistance mentioned."
+    },
+    {
+      "tweet_id": "2066521043020226892",
+      "timestamp_utc": "2026-06-15T13:59:45.000Z",
+      "timestamp_est": "2026-06-15T09:59:45-04:00",
+      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is an administrative rollover notice (ESM2026->ESU2026). No actionable prices named, no new levels introduced."
+    },
+    {
+      "tweet_id": "2066521430540394967",
+      "timestamp_utc": "2026-06-15T14:01:17.000Z",
+      "timestamp_est": "2026-06-15T10:01:17-04:00",
+      "tweet_text": "@RedPill51762365 Have to wait for the next selloff unfortunately. I havnt had a new trade since last Wednesday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user; no prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2066521833449324864",
+      "timestamp_utc": "2026-06-15T14:02:53.000Z",
+      "timestamp_est": "2026-06-15T10:02:53-04:00",
+      "tweet_text": "@WestNyc1 There was a small chance it didn't but probably 90-95% of the time those backtest levels become magnets and we get there eventually",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about probability of backtests becoming magnets; no specific price named or actionable level introduced."
     }
   ]
 }
