@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T11:37:06.328710+00:00",
-  "fetched_at_est": "2026-06-15T07:37:06.328716-04:00",
+  "fetched_at_utc": "2026-06-15T12:07:15.560737+00:00",
+  "fetched_at_est": "2026-06-15T08:07:15.560752-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2066129534177489246",
-      "timestamp_utc": "2026-06-14T12:04:02.000Z",
-      "timestamp_est": "2026-06-14T08:04:02-04:00",
-      "tweet_text": "@CJtheDJ_33 Please read the Note above the plan, its contract roll so they are new levels now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user explaining contract roll context; no actionable price levels named or introduced."
-    },
     {
       "tweet_id": "2066130408752705897",
       "timestamp_utc": "2026-06-14T12:07:30.000Z",
@@ -68,6 +59,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trading philosophy/mindset commentary. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2066490251166552149",
+      "timestamp_utc": "2026-06-15T11:57:24.000Z",
+      "timestamp_est": "2026-06-15T07:57:24-04:00",
+      "tweet_text": "Huge follow through in #ES_F: Last Wednesday we got long on the 7311 Failed Breakdown. All week, I had one target I repeated 5x times daily: 7590. We finally hit last eve, for +279 points.\n\nPlan today: Work done, ride runner. 7611, 7620, 7639 bonus. 7590, 7570=micro supports https://t.co/lKiQdxpBbb",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7311, 7590, 7611, 7639, 7570) are morning-plan levels or hindsight references. 7620 appears in a directional list of existing targets, no new naming language."
+    },
+    {
+      "tweet_id": "2066490292753031632",
+      "timestamp_utc": "2026-06-15T11:57:33.000Z",
+      "timestamp_est": "2026-06-15T07:57:33-04:00",
+      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a contract rollover administrative notice (June\u2192September ESU2026). No actionable price levels named; purely informational."
+    },
+    {
+      "tweet_id": "2066491092267073750",
+      "timestamp_utc": "2026-06-15T12:00:44.000Z",
+      "timestamp_est": "2026-06-15T08:00:44-04:00",
+      "tweet_text": "@JA28970348 63 points higher for September",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a point differential for September \u2014 no actionable price named, no naming language, purely informational math commentary."
     }
   ]
 }
