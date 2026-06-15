@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T19:19:10.816721+00:00",
-  "fetched_at_est": "2026-06-15T15:19:10.816726-04:00",
+  "fetched_at_utc": "2026-06-15T19:29:12.782199+00:00",
+  "fetched_at_est": "2026-06-15T15:29:12.782206-04:00",
   "last_new_level_added_at_est": "2026-06-15T12:11:02-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066240239362842762",
-      "timestamp_utc": "2026-06-14T19:23:56.000Z",
-      "timestamp_est": "2026-06-14T15:23:56-04:00",
-      "tweet_text": "The hardest part of trading isnt trading, its waiting. The market will present at least 1 high win rate, planned, A+ setup daily. But you have to wait for it, and not take all the 50/50 boredom trades that will eat the profit from the A+ trade before it even hits. Less=more",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trading philosophy/mindset commentary. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2066490251166552149",
       "timestamp_utc": "2026-06-15T11:57:24.000Z",
