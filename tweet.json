@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T11:37:03.350246+00:00",
-  "fetched_at_est": "2026-06-15T07:37:03.350253-04:00",
+  "fetched_at_utc": "2026-06-15T11:37:06.328710+00:00",
+  "fetched_at_est": "2026-06-15T07:37:06.328716-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -13,7 +13,7 @@
       "tweet_text": "@CJtheDJ_33 Please read the Note above the plan, its contract roll so they are new levels now",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Reply explaining contract roll context, no actionable price level named with naming language."
+      "notes": "Reply to user explaining contract roll context; no actionable price levels named or introduced."
     },
     {
       "tweet_id": "2066130408752705897",
@@ -22,7 +22,7 @@
       "tweet_text": "@OnTheHooch There will probably a 100+ point gap up...63 points for contract roll plus whatever the regular gap up is",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Conversational reply about contract roll math and gap estimate; no actionable price named with naming language."
+      "notes": "Reply tweet discussing contract roll math and gap estimation; no actionable price named with naming language."
     },
     {
       "tweet_id": "2066149854447800428",
@@ -31,7 +31,7 @@
       "tweet_text": "@david_pete57229 Its not that they always have control (though in ES they do 75% of the time and even in downtrends ES spends very little time actually going down) but just that as a day trader there's opportunities on the long every single day regardless of up or downtrend",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading philosophy and ES behavior; no prices mentioned, no actionable levels named."
+      "notes": "Pure conversational/educational reply about day trading philosophy. No prices mentioned, no actionable levels named."
     },
     {
       "tweet_id": "2066169385111163147",
@@ -40,7 +40,7 @@
       "tweet_text": "@GabCrish If your using tradingview you can goto object window, highlight them all, right click, goto settings, click displacement, then put +63 which will move all the lines up 63 points since Sept is 63 points above June",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Reply about TradingView contract displacement adjustment (+63 points June\u2192Sept). No actionable price level named, purely technical/platform instruction."
+      "notes": "Reply explaining TradingView displacement technique for contract rollover; no actionable price level named."
     },
     {
       "tweet_id": "2066211258588631522",
@@ -49,7 +49,7 @@
       "tweet_text": "@NehaPat45471369 At 6pm tonight tradingview will open with the new levels, so it will sync up with the new levels",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Reply tweet about TradingView updating at 6pm; no price levels named or actionable signals given."
+      "notes": "Reply to user about TradingView update timing. No price mentioned, no actionable level named."
     },
     {
       "tweet_id": "2066211346354463172",
@@ -58,7 +58,7 @@
       "tweet_text": "@NehaPat45471369 from newsletter. So don't need to do anything now!",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply referencing the newsletter with no price levels named or actionable triggers mentioned."
+      "notes": "Reply tweet with no price levels mentioned, purely conversational reference to newsletter with no actionable prices."
     },
     {
       "tweet_id": "2066240239362842762",
