@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T13:17:40.379120+00:00",
-  "fetched_at_est": "2026-06-15T09:17:40.379130-04:00",
+  "fetched_at_utc": "2026-06-15T13:27:42.462807+00:00",
+  "fetched_at_est": "2026-06-15T09:27:42.462814-04:00",
   "last_new_level_added_at_est": "2026-06-15T09:13:03-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066149854447800428",
-      "timestamp_utc": "2026-06-14T13:24:47.000Z",
-      "timestamp_est": "2026-06-14T09:24:47-04:00",
-      "tweet_text": "@david_pete57229 Its not that they always have control (though in ES they do 75% of the time and even in downtrends ES spends very little time actually going down) but just that as a day trader there's opportunities on the long every single day regardless of up or downtrend",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational/educational reply about day trading philosophy. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2066169385111163147",
       "timestamp_utc": "2026-06-14T14:42:23.000Z",
