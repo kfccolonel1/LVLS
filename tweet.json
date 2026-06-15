@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-15T17:38:49.968123+00:00",
-  "fetched_at_est": "2026-06-15T13:38:49.968131-04:00",
+  "fetched_at_utc": "2026-06-15T18:08:56.751186+00:00",
+  "fetched_at_est": "2026-06-15T14:08:56.751190-04:00",
   "last_new_level_added_at_est": "2026-06-15T12:11:02-04:00",
   "todays_new_levels": [
     {
@@ -240,6 +240,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7311,7590,7611,7639,7660) are morning-plan levels or hindsight refs; 7620 micro support is a reaffirmation/observation, not a newly named actionable level."
+    },
+    {
+      "tweet_id": "2066582134219850075",
+      "timestamp_utc": "2026-06-15T18:02:30.000Z",
+      "timestamp_est": "2026-06-15T14:02:30-04:00",
+      "tweet_text": "@tradivate There will definitely be a pullback of some sort. Its better for bulls if we can lose 7590 from here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual conversational reply; '7590' is not named with actionable language, just a directional observation about losing a level. No explicit entry/watch/trigger framing."
     }
   ]
 }
