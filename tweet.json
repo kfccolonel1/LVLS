@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T14:41:35.697956+00:00",
-  "fetched_at_est": "2026-06-16T10:41:35.697961-04:00",
+  "fetched_at_utc": "2026-06-16T14:51:40.222326+00:00",
+  "fetched_at_est": "2026-06-16T10:51:40.222331-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2066532475078152430",
-      "timestamp_utc": "2026-06-15T14:45:11.000Z",
-      "timestamp_est": "2026-06-15T10:45:11-04:00",
-      "tweet_text": "Slow grind continues in #ES_F and 0 to do but ride runner until we get volatility. My macro target all last week was 7590 to backtest the June 5th breakdown. We hit yesterday, cleared. This AM, 7590 became support (held). Targets were 7611 (hit), 7620 (hit), 7639.\n\n7590=support https://t.co/DaLu9BZceU",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7590, 7611, 7620, 7639) are either morning-plan levels or hindsight observations of targets already hit; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2066532499472134453",
-      "timestamp_utc": "2026-06-15T14:45:16.000Z",
-      "timestamp_est": "2026-06-15T10:45:16-04:00",
-      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is purely informational about contract rollover from ESM2026 to ESU2026. No actionable prices named, no new levels introduced."
-    },
     {
       "tweet_id": "2066554080223195285",
       "timestamp_utc": "2026-06-15T16:11:02.000Z",
@@ -189,6 +171,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7611, 7590, 7570, 7545) are in the morning plan. Tweet is observational/reaffirming existing levels, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2066894223752802735",
+      "timestamp_utc": "2026-06-16T14:42:38.000Z",
+      "timestamp_est": "2026-06-16T10:42:38-04:00",
+      "tweet_text": "@OnTheHooch @upandown007 The structure would be at 7611 (the 6:20PM low last evening)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7611 is already in today's morning plan. Tweet is a conversational reply explaining structure context, not a new actionable level call."
     }
   ]
 }
