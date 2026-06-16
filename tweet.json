@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T00:19:37.215395+00:00",
-  "fetched_at_est": "2026-06-15T20:19:37.215402-04:00",
+  "fetched_at_utc": "2026-06-16T12:00:43.446667+00:00",
+  "fetched_at_est": "2026-06-16T08:00:43.446671-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2066490251166552149",
-      "timestamp_utc": "2026-06-15T11:57:24.000Z",
-      "timestamp_est": "2026-06-15T07:57:24-04:00",
-      "tweet_text": "Huge follow through in #ES_F: Last Wednesday we got long on the 7311 Failed Breakdown. All week, I had one target I repeated 5x times daily: 7590. We finally hit last eve, for +279 points.\n\nPlan today: Work done, ride runner. 7611, 7620, 7639 bonus. 7590, 7570=micro supports https://t.co/lKiQdxpBbb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7311, 7590, 7611, 7639, 7570) are morning-plan levels or hindsight references. 7620 appears in a directional list of existing targets, no new naming language."
-    },
-    {
-      "tweet_id": "2066490292753031632",
-      "timestamp_utc": "2026-06-15T11:57:33.000Z",
-      "timestamp_est": "2026-06-15T07:57:33-04:00",
-      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a contract rollover administrative notice (June\u2192September ESU2026). No actionable price levels named; purely informational."
-    },
     {
       "tweet_id": "2066491092267073750",
       "timestamp_utc": "2026-06-15T12:00:44.000Z",
@@ -245,6 +227,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7611 and 7590 are morning-plan levels (7611 listed); 7590 is close to 7587 plan level. No new actionable levels named \u2014 observational closing commentary."
+    },
+    {
+      "tweet_id": "2066853359881990179",
+      "timestamp_utc": "2026-06-16T12:00:15.000Z",
+      "timestamp_est": "2026-06-16T08:00:15-04:00",
+      "tweet_text": "Volatility remains so low it is untradeable. We got long last Wednesday on 7311 Failed Breakdown. #ES_F went +330. 1st support down posted at 3:17PM ystd was 7611, &amp; it held 6:20PM\n\nPlan today: Ride runner until we get vol. 7639, 7650, 7672 next. 7611, 7590 (watch traps)=supports https://t.co/LIbyuZh9lH",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7639, 7650, 7672/7673, 7611, 7590) are already in the morning plan. References to 7311 FBD and +330 are historical trade management, not new levels."
     }
   ]
 }
