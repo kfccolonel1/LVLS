@@ -1,20 +1,26 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T16:11:52.028906+00:00",
-  "fetched_at_est": "2026-06-16T12:11:52.028913-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-06-16T16:22:01.177277+00:00",
+  "fetched_at_est": "2026-06-16T12:22:01.177290-04:00",
+  "last_new_level_added_at_est": "2026-06-16T12:19:12-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2066555302271488457",
-      "timestamp_utc": "2026-06-15T16:15:53.000Z",
-      "timestamp_est": "2026-06-15T12:15:53-04:00",
-      "tweet_text": "@EpicCharting Havnt had a trade since last Wednesday. Might be another day ir two at this rate!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply about trading inactivity; no price levels named or implied whatsoever."
+      "price": 7628.0,
+      "side": "bull",
+      "added_at_est": "2026-06-16T12:19:12-04:00",
+      "expires_at_est": "2026-06-16T20:19:12-04:00",
+      "from_tweet_id": "2066918523037688276"
     },
+    {
+      "price": 7660.0,
+      "side": "bull",
+      "added_at_est": "2026-06-16T12:19:12-04:00",
+      "expires_at_est": "2026-06-16T20:19:12-04:00",
+      "from_tweet_id": "2066918523037688276"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2066565704397070597",
       "timestamp_utc": "2026-06-15T16:57:13.000Z",
@@ -160,6 +166,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7611, 7590, 7620, 7628, 7639) are either morning-plan levels or observations/directional lists without new actionable naming language."
+    },
+    {
+      "tweet_id": "2066918523037688276",
+      "timestamp_utc": "2026-06-16T16:19:12.000Z",
+      "timestamp_est": "2026-06-16T12:19:12-04:00",
+      "tweet_text": "Tons of slow chop in #ES_F (summer trading, holiday week + last Wednesday we had a massive institutional accumulation event on the 7310 Failed Breakdown). 7611 remains a magnet. 7620 1st up - just hit, and its a ceiling for hours.\n\n7628, 7639, then 7660+. 7590 remains very key https://t.co/gkih3jOr4i",
+      "added_bull_levels": [
+        7628.0,
+        7660.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7628 and 7660+ named as next upside targets in sequence ('7628, 7639, then 7660+'); 7628/7660 not in morning plan. 7639/7590/7611/7620 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2066918861450915956",
+      "timestamp_utc": "2026-06-16T16:20:32.000Z",
+      "timestamp_est": "2026-06-16T12:20:32-04:00",
+      "tweet_text": "@MizuTraderr Thats part of it but the technicals matter too. We had a huge Failed Breakdown last Wednesday after a volatile window and that brings volatility way down in general.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet explaining market technicals/volatility context. No price levels named, no actionable entries or targets mentioned."
     }
   ]
 }
