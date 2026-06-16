@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T14:01:24.670692+00:00",
-  "fetched_at_est": "2026-06-16T10:01:24.670712-04:00",
+  "fetched_at_utc": "2026-06-16T14:11:27.216844+00:00",
+  "fetched_at_est": "2026-06-16T10:11:27.216850-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2066521833449324864",
-      "timestamp_utc": "2026-06-15T14:02:53.000Z",
-      "timestamp_est": "2026-06-15T10:02:53-04:00",
-      "tweet_text": "@WestNyc1 There was a small chance it didn't but probably 90-95% of the time those backtest levels become magnets and we get there eventually",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about probability of backtests becoming magnets; no specific price named or actionable level introduced."
-    },
     {
       "tweet_id": "2066526997912682966",
       "timestamp_utc": "2026-06-15T14:23:25.000Z",
