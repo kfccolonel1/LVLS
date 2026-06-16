@@ -1,56 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T13:21:15.741939+00:00",
-  "fetched_at_est": "2026-06-16T09:21:15.741958-04:00",
+  "fetched_at_utc": "2026-06-16T14:01:24.670692+00:00",
+  "fetched_at_est": "2026-06-16T10:01:24.670712-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2066519469698978205",
-      "timestamp_utc": "2026-06-15T13:53:30.000Z",
-      "timestamp_est": "2026-06-15T09:53:30-04:00",
-      "tweet_text": "We are nicely running today's set of targets in #ES_F. All last week my macro target was 7590, repeated 4-5x daily. We hit it last eve after a 279 point run.\n\nToday 1st support was 7590 (held). Targets I gave were 7611 (hit), 7620 (hit), 7639 next. Ride your runner from last week https://t.co/uvCdzIFtiN",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7590, 7611, 7620, 7639) are morning-plan levels or hindsight references to already-hit targets. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2066519827959664675",
-      "timestamp_utc": "2026-06-15T13:54:55.000Z",
-      "timestamp_est": "2026-06-15T09:54:55-04:00",
-      "tweet_text": "@ES_Money_Print I don't short any levels period! We're not in a downtrend though, but I'd be a little surprised if we just cleanly headed to ATHs now. I suspect we;re probably going to start a consolidation phase for a while then put in the next 500-1000 point later in the year",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary/opinion about consolidation and ATHs. No specific actionable price levels named whatsoever."
-    },
-    {
-      "tweet_id": "2066520077902520337",
-      "timestamp_utc": "2026-06-15T13:55:55.000Z",
-      "timestamp_est": "2026-06-15T09:55:55-04:00",
-      "tweet_text": "@MizuTraderr None, we got the volatility last Wednesday now bears need to pay for that until the next big flush so we can do it again",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/opinion with no price levels named at all. No actionable entry, exit, support, or resistance mentioned."
-    },
-    {
-      "tweet_id": "2066521043020226892",
-      "timestamp_utc": "2026-06-15T13:59:45.000Z",
-      "timestamp_est": "2026-06-15T09:59:45-04:00",
-      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is an administrative rollover notice (ESM2026->ESU2026). No actionable prices named, no new levels introduced."
-    },
-    {
-      "tweet_id": "2066521430540394967",
-      "timestamp_utc": "2026-06-15T14:01:17.000Z",
-      "timestamp_est": "2026-06-15T10:01:17-04:00",
-      "tweet_text": "@RedPill51762365 Have to wait for the next selloff unfortunately. I havnt had a new trade since last Wednesday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user; no prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2066521833449324864",
       "timestamp_utc": "2026-06-15T14:02:53.000Z",
@@ -225,6 +180,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet explaining methodology/context only; no specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2066882469173821617",
+      "timestamp_utc": "2026-06-16T13:55:56.000Z",
+      "timestamp_est": "2026-06-16T09:55:56-04:00",
+      "tweet_text": "@SunTrader777 Should be enough to get people talking on social media. Often top callers appearing in comments, people asking \"what happened\" etc. Usually 40-200 points elevator down",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about social media sentiment and point ranges; no actionable price level named."
+    },
+    {
+      "tweet_id": "2066882617975136571",
+      "timestamp_utc": "2026-06-16T13:56:31.000Z",
+      "timestamp_est": "2026-06-16T09:56:31-04:00",
+      "tweet_text": "@SunTrader777 For today I'd want to see 7590 at least",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7590 is already in the morning plan. This is a reaffirmation in reply to a user, not a new actionable level."
     }
   ]
 }
