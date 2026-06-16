@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T17:12:15.351985+00:00",
-  "fetched_at_est": "2026-06-16T13:12:15.351990-04:00",
+  "fetched_at_utc": "2026-06-16T18:02:45.721770+00:00",
+  "fetched_at_est": "2026-06-16T14:02:45.721779-04:00",
   "last_new_level_added_at_est": "2026-06-16T12:19:12-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066582134219850075",
-      "timestamp_utc": "2026-06-15T18:02:30.000Z",
-      "timestamp_est": "2026-06-15T14:02:30-04:00",
-      "tweet_text": "@tradivate There will definitely be a pullback of some sort. Its better for bulls if we can lose 7590 from here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply; '7590' is not named with actionable language, just a directional observation about losing a level. No explicit entry/watch/trigger framing."
-    },
     {
       "tweet_id": "2066584344072732864",
       "timestamp_utc": "2026-06-15T18:11:17.000Z",
