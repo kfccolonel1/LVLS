@@ -1,40 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T15:11:46.223261+00:00",
-  "fetched_at_est": "2026-06-16T11:11:46.223266-04:00",
+  "fetched_at_utc": "2026-06-16T16:11:52.028906+00:00",
+  "fetched_at_est": "2026-06-16T12:11:52.028913-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2066554080223195285",
-      "timestamp_utc": "2026-06-15T16:11:02.000Z",
-      "timestamp_est": "2026-06-15T12:11:02-04:00",
-      "tweet_text": "All targets complete for today in #ES_F. We got long last Wed on the 7310 Failed Breakdown. My target for this long was 7590. Hit last eve, cleared. It then became support this morning. Todays slate of given targets 8am were 7611 (hit), 7620 (hit), 7639 (done).\n\n7660, 7689 next https://t.co/XCufQ6LTMP",
-      "added_bull_levels": [
-        7689.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7689 named explicitly as 'next' target alongside 7660 (morning plan). 7660 is already in plan; 7689 is new and actionable as next bull target."
-    },
-    {
-      "tweet_id": "2066554154546340249",
-      "timestamp_utc": "2026-06-15T16:11:19.000Z",
-      "timestamp_est": "2026-06-15T12:11:19-04:00",
-      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is an administrative note about contract rollover from ESM2026 to ESU2026. No actionable price levels named whatsoever."
-    },
-    {
-      "tweet_id": "2066554253456355655",
-      "timestamp_utc": "2026-06-15T16:11:43.000Z",
-      "timestamp_est": "2026-06-15T12:11:43-04:00",
-      "tweet_text": "@br71217_brad Done!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a one-word reply '@br71217_brad Done!' \u2014 no price levels, no actionable language, no naming language whatsoever."
-    },
     {
       "tweet_id": "2066555302271488457",
       "timestamp_utc": "2026-06-15T16:15:53.000Z",
