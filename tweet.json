@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-16T19:43:10.000524+00:00",
-  "fetched_at_est": "2026-06-16T15:43:10.000529-04:00",
+  "fetched_at_utc": "2026-06-16T20:13:16.821865+00:00",
+  "fetched_at_est": "2026-06-16T16:13:16.821873-04:00",
   "last_new_level_added_at_est": "2026-06-16T12:19:12-04:00",
   "todays_new_levels": [
     {
@@ -194,6 +194,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price levels mentioned at all; purely conversational commentary about range expansion."
+    },
+    {
+      "tweet_id": "2066977315117052068",
+      "timestamp_utc": "2026-06-16T20:12:49.000Z",
+      "timestamp_est": "2026-06-16T16:12:49-04:00",
+      "tweet_text": "@PermaFader There is a whole structure there that has to be taken into consideration. There's a single low at 82 but theres a shelf right next to it at 90. If you wait for 82 to sweep then long, you still need that 90 shelf to recover too",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply describing price structure observation around 7482/7490; no explicit actionable naming language used, just explaining conditions to another user."
     }
   ]
 }
