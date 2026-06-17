@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T13:35:16.409851+00:00",
-  "fetched_at_est": "2026-06-17T09:35:16.409862-04:00",
+  "fetched_at_utc": "2026-06-17T14:05:20.061592+00:00",
+  "fetched_at_est": "2026-06-17T10:05:20.061599-04:00",
   "last_new_level_added_at_est": "2026-06-17T07:49:47-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066882469173821617",
-      "timestamp_utc": "2026-06-16T13:55:56.000Z",
-      "timestamp_est": "2026-06-16T09:55:56-04:00",
-      "tweet_text": "@SunTrader777 Should be enough to get people talking on social media. Often top callers appearing in comments, people asking \"what happened\" etc. Usually 40-200 points elevator down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about social media sentiment and point ranges; no actionable price level named."
-    },
-    {
-      "tweet_id": "2066882617975136571",
-      "timestamp_utc": "2026-06-16T13:56:31.000Z",
-      "timestamp_est": "2026-06-16T09:56:31-04:00",
-      "tweet_text": "@SunTrader777 For today I'd want to see 7590 at least",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7590 is already in the morning plan. This is a reaffirmation in reply to a user, not a new actionable level."
-    },
     {
       "tweet_id": "2066891590744813843",
       "timestamp_utc": "2026-06-16T14:32:10.000Z",
