@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T18:06:08.065575+00:00",
-  "fetched_at_est": "2026-06-17T14:06:08.065581-04:00",
+  "fetched_at_utc": "2026-06-17T18:16:13.187538+00:00",
+  "fetched_at_est": "2026-06-17T14:16:13.187542-04:00",
   "last_new_level_added_at_est": "2026-06-17T11:01:06-04:00",
   "todays_new_levels": [
     {
@@ -224,6 +224,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7578 is a reaffirmation of a posted trigger; 7545-50/7525/7511 are observations/directional list of existing levels; 7590 is morning plan level. No new actionable levels."
+    },
+    {
+      "tweet_id": "2067308082149929282",
+      "timestamp_utc": "2026-06-17T18:07:10.000Z",
+      "timestamp_est": "2026-06-17T14:07:10-04:00",
+      "tweet_text": "Note: No change to newsletter setups but watch for the recover of 7545 now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7545 is within rounding of morning-plan levels 7547.5/7548.0; treated as reaffirmation of existing levels, not a new major level."
     }
   ]
 }
