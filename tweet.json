@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T18:36:15.789608+00:00",
-  "fetched_at_est": "2026-06-17T14:36:15.789615-04:00",
+  "fetched_at_utc": "2026-06-17T18:46:20.881313+00:00",
+  "fetched_at_est": "2026-06-17T14:46:20.881318-04:00",
   "last_new_level_added_at_est": "2026-06-17T11:01:06-04:00",
   "todays_new_levels": [
     {
@@ -224,6 +224,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7545 is within rounding of morning-plan levels 7547.5/7548.0; treated as reaffirmation of existing levels, not a new major level."
+    },
+    {
+      "tweet_id": "2067315476183581108",
+      "timestamp_utc": "2026-06-17T18:36:33.000Z",
+      "timestamp_est": "2026-06-17T14:36:33-04:00",
+      "tweet_text": "@wangle It went to 7559 1st target up from newsletter and has come nowhere near a stop yet so should still be working fine",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply referencing existing newsletter target 7559 (near morning plan 7547.5/7571); no new actionable level named, just trade management update."
     }
   ]
 }
