@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T14:45:33.561251+00:00",
-  "fetched_at_est": "2026-06-17T10:45:33.561256-04:00",
-  "last_new_level_added_at_est": "2026-06-17T07:49:47-04:00",
+  "fetched_at_utc": "2026-06-17T15:05:40.431614+00:00",
+  "fetched_at_est": "2026-06-17T11:05:40.431619-04:00",
+  "last_new_level_added_at_est": "2026-06-17T11:01:06-04:00",
   "todays_new_levels": [
     {
       "price": 7600.0,
@@ -18,18 +18,16 @@
       "added_at_est": "2026-06-17T07:49:47-04:00",
       "expires_at_est": "2026-06-17T15:49:47-04:00",
       "from_tweet_id": "2067213113938633112"
+    },
+    {
+      "price": 7578.0,
+      "side": "bull",
+      "added_at_est": "2026-06-17T11:01:06-04:00",
+      "expires_at_est": "2026-06-17T19:01:06-04:00",
+      "from_tweet_id": "2067261258777207106"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066899325389504826",
-      "timestamp_utc": "2026-06-16T15:02:54.000Z",
-      "timestamp_est": "2026-06-16T11:02:54-04:00",
-      "tweet_text": "Volatility still low as we now chop around 7611. This was support given at 3pm yesterday and it held at 6pm precisely. Now, its a used up zone. Extremely bullish if #ES_F can push through this.\n\nOtherwise, 7590 below (huge level, watch traps here). 7620, 7628, 7639+ above now https://t.co/Tiy74OA2Q8",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7611, 7590, 7620, 7628, 7639) are either morning-plan levels or observations/directional lists without new actionable naming language."
-    },
     {
       "tweet_id": "2066918523037688276",
       "timestamp_utc": "2026-06-16T16:19:12.000Z",
@@ -234,6 +232,19 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7611, 7621, 7600, 7590, 7571, 7545-50) are either morning-plan levels or observations/conditionals referencing existing levels. No genuinely new actionable level introduced."
+    },
+    {
+      "tweet_id": "2067261258777207106",
+      "timestamp_utc": "2026-06-17T15:01:06.000Z",
+      "timestamp_est": "2026-06-17T11:01:06-04:00",
+      "tweet_text": "Finally a little burst of volatility but would be cautious as its noise until FOMC. As posted all morning #ES_F is tired and weak today as it digests the recent rally and sets up the next one. \n\nBulls must recover 7578 now with force to see 7590 magnet again. 7545-50 next down https://t.co/yt2k6Z00kC",
+      "added_bull_levels": [
+        7578.0
+      ],
+      "added_bear_levels": [
+        7547.5
+      ],
+      "notes": "7578 is a new actionable bull reclaim trigger ('must recover with force'); 7545-50 midpoint ~7547.5 is already in morning plan, so bear side yields no new level."
     }
   ]
 }
