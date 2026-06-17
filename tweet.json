@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T11:54:42.007331+00:00",
-  "fetched_at_est": "2026-06-17T07:54:42.007345-04:00",
+  "fetched_at_utc": "2026-06-17T12:04:48.366817+00:00",
+  "fetched_at_est": "2026-06-17T08:04:48.366829-04:00",
   "last_new_level_added_at_est": "2026-06-17T07:49:47-04:00",
   "todays_new_levels": [
     {
@@ -21,33 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066853359881990179",
-      "timestamp_utc": "2026-06-16T12:00:15.000Z",
-      "timestamp_est": "2026-06-16T08:00:15-04:00",
-      "tweet_text": "Volatility remains so low it is untradeable. We got long last Wednesday on 7311 Failed Breakdown. #ES_F went +330. 1st support down posted at 3:17PM ystd was 7611, &amp; it held 6:20PM\n\nPlan today: Ride runner until we get vol. 7639, 7650, 7672 next. 7611, 7590 (watch traps)=supports https://t.co/LIbyuZh9lH",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7639, 7650, 7672/7673, 7611, 7590) are already in the morning plan. References to 7311 FBD and +330 are historical trade management, not new levels."
-    },
-    {
-      "tweet_id": "2066854032962977916",
-      "timestamp_utc": "2026-06-16T12:02:56.000Z",
-      "timestamp_est": "2026-06-16T08:02:56-04:00",
-      "tweet_text": "NOTE: ES is rolling over from June 2026 front month (ESM2026) to September front month contract (ESU2026).  These levels are now all September. June will expire Friday June 19th and stop trading completely but as the week goes on volume will transfer to September",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is an administrative rollover notice (ESM2026\u2192ESU2026) with no actionable price levels named."
-    },
-    {
-      "tweet_id": "2066854403462533465",
-      "timestamp_utc": "2026-06-16T12:04:24.000Z",
-      "timestamp_est": "2026-06-16T08:04:24-04:00",
-      "tweet_text": "@PX99128070 I broke that one down very extensively in last Wednesday's newsletter. It was a 730PM trigger but I sent the setup  out at around 3:30PM. Setups always given in advance with me and in specific terms, never in hindsight",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; tweet is a conversational reply about past newsletter timing and methodology, not an actionable level."
-    },
     {
       "tweet_id": "2066854677803643369",
       "timestamp_utc": "2026-06-16T12:05:30.000Z",
@@ -243,6 +216,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7600 is in the morning plan. Commentary is directional context/observation, not a new actionable level introduction."
+    },
+    {
+      "tweet_id": "2067214992613539945",
+      "timestamp_utc": "2026-06-17T11:57:15.000Z",
+      "timestamp_est": "2026-06-17T07:57:15-04:00",
+      "tweet_text": "@Trevormiles16 Yes a full week basically! Structure now finally looks quite bearish though so hopefully we can get something today!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user about market structure; no actionable price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2067216360950677681",
+      "timestamp_utc": "2026-06-17T12:02:42.000Z",
+      "timestamp_est": "2026-06-17T08:02:42-04:00",
+      "tweet_text": "@justjay_s I'm not liking how low volatility is here now, if we get it on good volatility its fine but right now things are moving so slowly that most setups will fail. Can't trade low vol",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure volatility commentary, no actionable price level named or implied."
     }
   ]
 }
