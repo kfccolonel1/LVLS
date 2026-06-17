@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T16:35:53.863995+00:00",
-  "fetched_at_est": "2026-06-17T12:35:53.863999-04:00",
+  "fetched_at_utc": "2026-06-17T16:45:55.870634+00:00",
+  "fetched_at_est": "2026-06-17T12:45:55.870639-04:00",
   "last_new_level_added_at_est": "2026-06-17T11:01:06-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066923796435497254",
-      "timestamp_utc": "2026-06-16T16:40:09.000Z",
-      "timestamp_est": "2026-06-16T12:40:09-04:00",
-      "tweet_text": "@bryce_schilling Not much! Do some charting, work on levels for the next few days, tweet updates here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply; no prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2066930571800961108",
       "timestamp_utc": "2026-06-16T17:07:04.000Z",
