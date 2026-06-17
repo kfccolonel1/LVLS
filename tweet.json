@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T16:45:55.870634+00:00",
-  "fetched_at_est": "2026-06-17T12:45:55.870639-04:00",
+  "fetched_at_utc": "2026-06-17T17:15:59.608684+00:00",
+  "fetched_at_est": "2026-06-17T13:15:59.608692-04:00",
   "last_new_level_added_at_est": "2026-06-17T11:01:06-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066930571800961108",
-      "timestamp_utc": "2026-06-16T17:07:04.000Z",
-      "timestamp_est": "2026-06-16T13:07:04-04:00",
-      "tweet_text": "@PeriHelion96002 @bryce_schilling Probably about a week. It happens in these very bullish periods. In very volatile periods I may be trading 3x a day. In periods like this sometimes days go by",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading frequency; no prices or actionable levels mentioned at all."
-    },
     {
       "tweet_id": "2066950501900403123",
       "timestamp_utc": "2026-06-16T18:26:16.000Z",
