@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T18:16:13.187538+00:00",
-  "fetched_at_est": "2026-06-17T14:16:13.187542-04:00",
+  "fetched_at_utc": "2026-06-17T18:36:15.789608+00:00",
+  "fetched_at_est": "2026-06-17T14:36:15.789615-04:00",
   "last_new_level_added_at_est": "2026-06-17T11:01:06-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066950501900403123",
-      "timestamp_utc": "2026-06-16T18:26:16.000Z",
-      "timestamp_est": "2026-06-16T14:26:16-04:00",
-      "tweet_text": "@fiveinchhammer 7601 was a support I had in newsletter also, very mild but ES can't even lose that one!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7601 is a conversational reply referencing a prior newsletter level, not a new actionable level named for the first time in today's session."
-    },
     {
       "tweet_id": "2066960960376455247",
       "timestamp_utc": "2026-06-16T19:07:49.000Z",
