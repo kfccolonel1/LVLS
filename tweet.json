@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T14:35:28.436817+00:00",
-  "fetched_at_est": "2026-06-17T10:35:28.436825-04:00",
+  "fetched_at_utc": "2026-06-17T14:45:33.561251+00:00",
+  "fetched_at_est": "2026-06-17T10:45:33.561256-04:00",
   "last_new_level_added_at_est": "2026-06-17T07:49:47-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066894223752802735",
-      "timestamp_utc": "2026-06-16T14:42:38.000Z",
-      "timestamp_est": "2026-06-16T10:42:38-04:00",
-      "tweet_text": "@OnTheHooch @upandown007 The structure would be at 7611 (the 6:20PM low last evening)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7611 is already in today's morning plan. Tweet is a conversational reply explaining structure context, not a new actionable level call."
-    },
     {
       "tweet_id": "2066899325389504826",
       "timestamp_utc": "2026-06-16T15:02:54.000Z",
@@ -234,6 +225,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about FOMC volatility being muted historically; no price levels named or actionable setups mentioned."
+    },
+    {
+      "tweet_id": "2067255587637785084",
+      "timestamp_utc": "2026-06-17T14:38:34.000Z",
+      "timestamp_est": "2026-06-17T10:38:34-04:00",
+      "tweet_text": "Total chop as we await FOMC. Don't trade noise. As posted, #ES_F is very tired and weak now. In order for bulls to rally today (to 7611, 7621+), 7600 must reclaim. We just backtested and rejected to 7590 which remains a noisy magnet.\n\n7571 fails we can finally sell to 7545-50 https://t.co/lzMqOSa6eC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7611, 7621, 7600, 7590, 7571, 7545-50) are either morning-plan levels or observations/conditionals referencing existing levels. No genuinely new actionable level introduced."
     }
   ]
 }
