@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T16:25:48.405687+00:00",
-  "fetched_at_est": "2026-06-17T12:25:48.405695-04:00",
+  "fetched_at_utc": "2026-06-17T16:35:53.863995+00:00",
+  "fetched_at_est": "2026-06-17T12:35:53.863999-04:00",
   "last_new_level_added_at_est": "2026-06-17T11:01:06-04:00",
   "todays_new_levels": [
     {
@@ -224,6 +224,15 @@
         7547.5
       ],
       "notes": "7578 is a new actionable bull reclaim trigger ('must recover with force'); 7545-50 midpoint ~7547.5 is already in morning plan, so bear side yields no new level."
+    },
+    {
+      "tweet_id": "2067284408260866358",
+      "timestamp_utc": "2026-06-17T16:33:05.000Z",
+      "timestamp_est": "2026-06-17T12:33:05-04:00",
+      "tweet_text": "Nice little pre-FOMC move in #ES_F and it was thanks to the burst of volatility we had. Volatility means we can stop sitting on hands and trade. I posted at 11:01AM 7578 must recover to see 7590 magnet. We recovered 7578, just hit 7590\n\n7600, 7611 if bulls want more on this https://t.co/gZy6aFoRTT",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7600 and 7611 appear but 7611 is a morning plan level; 7600 is listed without naming language\u2014no 'key','added','watching', etc. Reaffirmation/directional list only."
     }
   ]
 }
