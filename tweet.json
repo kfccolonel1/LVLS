@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T13:25:05.967618+00:00",
-  "fetched_at_est": "2026-06-17T09:25:05.967625-04:00",
+  "fetched_at_utc": "2026-06-17T13:35:16.409851+00:00",
+  "fetched_at_est": "2026-06-17T09:35:16.409862-04:00",
   "last_new_level_added_at_est": "2026-06-17T07:49:47-04:00",
   "todays_new_levels": [
     {
@@ -225,6 +225,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet expressing trading philosophy and market opinion; no actionable price levels named."
+    },
+    {
+      "tweet_id": "2067237421272453590",
+      "timestamp_utc": "2026-06-17T13:26:23.000Z",
+      "timestamp_est": "2026-06-17T09:26:23-04:00",
+      "tweet_text": "@fiveinchhammer @TradeLearner11 @justjay_s Yes many people take my comments and read them as \"predictions\", rather than actually focusing on the triggers and the plan. Most beginners can't seperate comments on structure/talking about markets with actual execution of a plan",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Meta-commentary about how followers misread the trader's posts. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2067237595612905616",
+      "timestamp_utc": "2026-06-17T13:27:04.000Z",
+      "timestamp_est": "2026-06-17T09:27:04-04:00",
+      "tweet_text": "@anchovy_paste @TradeLearner11 @justjay_s That's just because its very rarely bearish since we are in a strong bull market!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market bias; no price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2067238473740833040",
+      "timestamp_utc": "2026-06-17T13:30:34.000Z",
+      "timestamp_est": "2026-06-17T09:30:34-04:00",
+      "tweet_text": "@Bluepit_80 @anchovy_paste @TradeLearner11 @justjay_s The macro structure is very bullish (there is a huge bull flag I posted in my Saturday chart that will very easily give us another 500-1000 points), but we are at flag resistance now and have abit of a lopsided triangle forming that probably needs to break down. Again, no",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific actionable price levels named; only general macro structure commentary about bull flag and triangle pattern without any explicit price triggers or targets."
     }
   ]
 }
