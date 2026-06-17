@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-17T14:25:26.304004+00:00",
-  "fetched_at_est": "2026-06-17T10:25:26.304009-04:00",
+  "fetched_at_utc": "2026-06-17T14:35:28.436817+00:00",
+  "fetched_at_est": "2026-06-17T10:35:28.436825-04:00",
   "last_new_level_added_at_est": "2026-06-17T07:49:47-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2066891590744813843",
-      "timestamp_utc": "2026-06-16T14:32:10.000Z",
-      "timestamp_est": "2026-06-16T10:32:10-04:00",
-      "tweet_text": "Minature volatility expansion now in #ES_F.. Upside continues from last Wednesday's 7311 Failed Breakdown long/institutional accumulation event. 7611 was support. Held last evening, now back again, but used up.\n\n7590 below (watch traps of this zone), then 7570, 7545. https://t.co/NCSIgdhHJp",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7611, 7590, 7570, 7545) are in the morning plan. Tweet is observational/reaffirming existing levels, no new actionable levels named."
-    },
     {
       "tweet_id": "2066894223752802735",
       "timestamp_utc": "2026-06-16T14:42:38.000Z",
