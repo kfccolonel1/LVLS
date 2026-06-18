@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T12:28:29.478406+00:00",
-  "fetched_at_est": "2026-06-18T08:28:29.478411-04:00",
+  "fetched_at_utc": "2026-06-18T12:38:34.061034+00:00",
+  "fetched_at_est": "2026-06-18T08:38:34.061039-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -207,6 +207,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user about contract roll, no price level named or actionable reference made."
+    },
+    {
+      "tweet_id": "2067586982369169722",
+      "timestamp_utc": "2026-06-18T12:35:25.000Z",
+      "timestamp_est": "2026-06-18T08:35:25-04:00",
+      "tweet_text": "@raj_potla Use the continuuous contract. ES1! on trading view, sometimes its /ES on other platforms",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet giving platform/ticker advice only; no price levels named or actionable signals present."
     }
   ]
 }
