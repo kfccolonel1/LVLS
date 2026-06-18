@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T17:29:31.446225+00:00",
-  "fetched_at_est": "2026-06-18T13:29:31.446230-04:00",
+  "fetched_at_utc": "2026-06-18T18:09:35.447160+00:00",
+  "fetched_at_est": "2026-06-18T14:09:35.447169-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067306826190692561",
-      "timestamp_utc": "2026-06-17T18:02:10.000Z",
-      "timestamp_est": "2026-06-17T14:02:10-04:00",
-      "tweet_text": "Initial FOMC reaction in the books in #ES_F. We got a clean pre-FOMC long. The 7578 reclaim was long trigger posted, with 7590 target. We hit 7590 before FOMC and dipped, now flushing again.\n\n7545-50, 7525, 7511 below. 7578 must reclaim now to rally back to 7590+ again. https://t.co/jfsyAbXYbi",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7578 is a reaffirmation of a posted trigger; 7545-50/7525/7511 are observations/directional list of existing levels; 7590 is morning plan level. No new actionable levels."
-    },
-    {
-      "tweet_id": "2067308082149929282",
-      "timestamp_utc": "2026-06-17T18:07:10.000Z",
-      "timestamp_est": "2026-06-17T14:07:10-04:00",
-      "tweet_text": "Note: No change to newsletter setups but watch for the recover of 7545 now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7545 is within rounding of morning-plan levels 7547.5/7548.0; treated as reaffirmation of existing levels, not a new major level."
-    },
     {
       "tweet_id": "2067315476183581108",
       "timestamp_utc": "2026-06-17T18:36:33.000Z",
