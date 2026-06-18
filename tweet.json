@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T12:08:22.477819+00:00",
-  "fetched_at_est": "2026-06-18T08:08:22.477825-04:00",
+  "fetched_at_utc": "2026-06-18T12:18:24.664753+00:00",
+  "fetched_at_est": "2026-06-18T08:18:24.664758-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067219082328383823",
-      "timestamp_utc": "2026-06-17T12:13:30.000Z",
-      "timestamp_est": "2026-06-17T08:13:30-04:00",
-      "tweet_text": "@mayurpnag That was a fine setup, it just didn't work. I took it also then had to take it a second time after 6pm",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about a trade setup outcome; no price levels named or actionable language used."
-    },
     {
       "tweet_id": "2067233675612144070",
       "timestamp_utc": "2026-06-17T13:11:30.000Z",
