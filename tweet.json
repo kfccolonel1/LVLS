@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T18:49:41.215457+00:00",
-  "fetched_at_est": "2026-06-18T14:49:41.215464-04:00",
+  "fetched_at_utc": "2026-06-18T19:09:46.833518+00:00",
+  "fetched_at_est": "2026-06-18T15:09:46.833524-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -149,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7578, 7535, 7558, 7590) are in the morning plan. Tweet is pure reaffirmation of existing levels plus trade management ('ride your runner')."
+    },
+    {
+      "tweet_id": "2067684343451984030",
+      "timestamp_utc": "2026-06-18T19:02:17.000Z",
+      "timestamp_est": "2026-06-18T15:02:17-04:00",
+      "tweet_text": "Closing update #ES_F: Today was classic OPEX chop. Today's targets as long as 7535 held (which it did exactly) were 7558, 7578 (hit, this was today's target from the newsletter as well). 7590 Monday/Tuesday. Newsletter out soon with next entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7535, 7558, 7578, 7590) are morning-plan levels being reaffirmed as hit targets. No new actionable levels introduced."
     }
   ]
 }
