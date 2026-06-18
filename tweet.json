@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T19:39:51.586332+00:00",
-  "fetched_at_est": "2026-06-18T15:39:51.586340-04:00",
+  "fetched_at_utc": "2026-06-18T19:49:53.405218+00:00",
+  "fetched_at_est": "2026-06-18T15:49:53.405224-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067331764423434263",
-      "timestamp_utc": "2026-06-17T19:41:16.000Z",
-      "timestamp_est": "2026-06-17T15:41:16-04:00",
-      "tweet_text": "@tradivate Yes, thats what I posted this morning https://t.co/3By6r6p667",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply referencing a prior post with a link; no new actionable price levels named."
-    },
-    {
-      "tweet_id": "2067333744160072035",
-      "timestamp_utc": "2026-06-17T19:49:08.000Z",
-      "timestamp_est": "2026-06-17T15:49:08-04:00",
-      "tweet_text": "@mainftr Why I sent the newsletter early!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely a conversational/explanatory remark about newsletter timing."
-    },
     {
       "tweet_id": "2067480979774546340",
       "timestamp_utc": "2026-06-18T05:34:12.000Z",
