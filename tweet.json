@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T13:38:45.890846+00:00",
-  "fetched_at_est": "2026-06-18T09:38:45.890852-04:00",
+  "fetched_at_utc": "2026-06-18T14:28:54.622192+00:00",
+  "fetched_at_est": "2026-06-18T10:28:54.622197-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067251909543559471",
-      "timestamp_utc": "2026-06-17T14:23:57.000Z",
-      "timestamp_est": "2026-06-17T10:23:57-04:00",
-      "tweet_text": "@badfutures40 I find lately they've been quite muted! At least compared to historically, almost a non-event recently. But also the technicals are the technicals and same setups apply FOMC or not",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about FOMC volatility being muted historically; no price levels named or actionable setups mentioned."
-    },
     {
       "tweet_id": "2067255587637785084",
       "timestamp_utc": "2026-06-17T14:38:34.000Z",
@@ -180,6 +171,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7558, 7535, 7578, 7590, 7485) are morning-plan levels or observations of hits/trade management. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2067613957091733519",
+      "timestamp_utc": "2026-06-18T14:22:36.000Z",
+      "timestamp_est": "2026-06-18T10:22:36-04:00",
+      "tweet_text": "Levels are very precise today. Longs triggered yesterday at 3:45PM on the Failed Breakdown of 7485. This was given in advanced in #ES_F. 7558 was 1st target today, hit.\n\n7535 was support given. Held *exact* at 945AM, and back up. 7578, 7590+ remain above. OPEX today, trade light https://t.co/3mpeWxuTHt",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7485, 7558, 7535, 7578, 7590) are either morning-plan levels or hindsight/reaffirmation references with no newly named actionable level."
     }
   ]
 }
