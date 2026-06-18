@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T11:58:17.259907+00:00",
-  "fetched_at_est": "2026-06-18T07:58:17.259911-04:00",
+  "fetched_at_utc": "2026-06-18T12:08:22.477819+00:00",
+  "fetched_at_est": "2026-06-18T08:08:22.477825-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067216360950677681",
-      "timestamp_utc": "2026-06-17T12:02:42.000Z",
-      "timestamp_est": "2026-06-17T08:02:42-04:00",
-      "tweet_text": "@justjay_s I'm not liking how low volatility is here now, if we get it on good volatility its fine but right now things are moving so slowly that most setups will fail. Can't trade low vol",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure volatility commentary, no actionable price level named or implied."
-    },
     {
       "tweet_id": "2067219082328383823",
       "timestamp_utc": "2026-06-17T12:13:30.000Z",
@@ -207,6 +198,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7482, 7535, 7558, 7570, 7590, 7509) are morning plan levels or reaffirmations; 7570 is closest to new but not named with qualifying language."
+    },
+    {
+      "tweet_id": "2067578137152496079",
+      "timestamp_utc": "2026-06-18T12:00:16.000Z",
+      "timestamp_est": "2026-06-18T08:00:16-04:00",
+      "tweet_text": "Yesterday we finally got volatility &amp; that means Failed Breakdowns in #ES_F. Newsletter was sent early with setups: The Failed Breakdown of Fridays 7482 low. We swept it 3:45PM, recovered, longed. +95\n\nPlan: Ride runner. 7535=support. 7558, 7578, 7590 next. 7509/02  below 35 https://t.co/8E8NsYUSPL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7482, 7535, 7558, 7578, 7590, 7509) are in the morning plan. Tweet is trade recap + reaffirmation of existing levels, no new actionable prices."
     }
   ]
 }
