@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T16:39:16.960176+00:00",
-  "fetched_at_est": "2026-06-18T12:39:16.960182-04:00",
+  "fetched_at_utc": "2026-06-18T16:59:22.721278+00:00",
+  "fetched_at_est": "2026-06-18T12:59:22.721284-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -167,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7485/7535/7558/7578/7590) are morning-plan levels or hindsight references to prior trades/targets. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2067651824790753325",
+      "timestamp_utc": "2026-06-18T16:53:04.000Z",
+      "timestamp_est": "2026-06-18T12:53:04-04:00",
+      "tweet_text": "Today is OPEX chop in #ES_F - don't do anything now unless we get a rapid drop below 7535 (and recovery). The main long trigger was the 7485 Failed Breakdown at 3:45PM yesterday. 7535 was then today's support (held). Targets were 7558 (hit), 7578, 7590 (likely after OPEX) https://t.co/OiwQTESt2l",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7485, 7535, 7558, 7578, 7590) are morning-plan levels or hindsight references to yesterday's trade. No new actionable levels introduced."
     }
   ]
 }
