@@ -1,42 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T05:37:43.440783+00:00",
-  "fetched_at_est": "2026-06-18T01:37:43.440787-04:00",
+  "fetched_at_utc": "2026-06-18T11:58:17.259907+00:00",
+  "fetched_at_est": "2026-06-18T07:58:17.259911-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067213113938633112",
-      "timestamp_utc": "2026-06-17T11:49:47.000Z",
-      "timestamp_est": "2026-06-17T07:49:47-04:00",
-      "tweet_text": "Volatility remains low in (holiday week, FOMC today, #ES_F). I posted yesterday 7590 was 1st support of interest, and watch traps there. We trapped it all eve, popped to 7611 target\n\nPlan today: ES is tired. 7600 must reclaim to see 7611, 7621, 7640. 7570 fails, dip 7545-50, 7536 https://t.co/QWOEyluFQo",
-      "added_bull_levels": [
-        7600.0
-      ],
-      "added_bear_levels": [
-        7536.0
-      ],
-      "notes": "7600 named as must-reclaim trigger for bull targets; 7536 named as new bear dip target below 7570 fail \u2014 neither in morning plan."
-    },
-    {
-      "tweet_id": "2067213890849587502",
-      "timestamp_utc": "2026-06-17T11:52:53.000Z",
-      "timestamp_est": "2026-06-17T07:52:53-04:00",
-      "tweet_text": "Note: This is obviously ES September contract now. Volatility remains extremely low here and ES is tired/likely needs to correct and consolidate now. FOMC at 2pm will be key. No rallies today until 7600 recovers",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7600 is in the morning plan. Commentary is directional context/observation, not a new actionable level introduction."
-    },
-    {
-      "tweet_id": "2067214992613539945",
-      "timestamp_utc": "2026-06-17T11:57:15.000Z",
-      "timestamp_est": "2026-06-17T07:57:15-04:00",
-      "tweet_text": "@Trevormiles16 Yes a full week basically! Structure now finally looks quite bearish though so hopefully we can get something today!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user about market structure; no actionable price levels named whatsoever."
-    },
     {
       "tweet_id": "2067216360950677681",
       "timestamp_utc": "2026-06-17T12:02:42.000Z",
@@ -229,6 +198,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Explanatory reply referencing 7485/7514 failed breakdowns that already occurred \u2014 hindsight/context, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2067576647562244108",
+      "timestamp_utc": "2026-06-18T11:54:21.000Z",
+      "timestamp_est": "2026-06-18T07:54:21-04:00",
+      "tweet_text": "Yesterday we finally got volatility &amp; that means Failed Breakdowns in #ES_F. Newsletter was sent early with setups: The Failed Breakdown of Fridays 7482 low. We swept it 3:45PM, recovered, longed. +95\n\nPlan: Ride runner. 7535=support. 7558, 7570, 7590 next. 7509/02  below 35 https://t.co/rxWI6XQp7j",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7482, 7535, 7558, 7570, 7590, 7509) are morning plan levels or reaffirmations; 7570 is closest to new but not named with qualifying language."
     }
   ]
 }
