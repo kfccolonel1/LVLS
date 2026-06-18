@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T15:09:03.897458+00:00",
-  "fetched_at_est": "2026-06-18T11:09:03.897463-04:00",
+  "fetched_at_utc": "2026-06-18T15:29:10.681870+00:00",
+  "fetched_at_est": "2026-06-18T11:29:10.681876-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -167,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual observation about a chop zone using shorthand references to morning-plan levels (7535/7558); no actionable naming language, no new level introduced."
+    },
+    {
+      "tweet_id": "2067628968098853160",
+      "timestamp_utc": "2026-06-18T15:22:15.000Z",
+      "timestamp_est": "2026-06-18T11:22:15-04:00",
+      "tweet_text": "Today is OPEX noise now in #ES_F, don't force trades. We were spoiled yesterday, just protect it now. The 7485 Failed Breakdown triggered us long at 3:45PM. 7535 was today's support, it held at 945AM exact. Targets today were 7558 (hit), 7578, 7590.\n\nTotal chop, hold runner https://t.co/HUgtHKSK0Q",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7485/7535/7558/7578/7590) are morning-plan levels or hindsight references to prior trades/targets. No new actionable levels named."
     }
   ]
 }
