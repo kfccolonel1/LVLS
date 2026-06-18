@@ -1,52 +1,22 @@
 {
-  "session_date": "2026-06-17",
-  "daily_pivot": 7590,
-  "regime_hint": "C4",
+  "session_date": "2026-06-18",
+  "daily_pivot": 7578.0,
+  "regime_hint": "C5",
   "significant_lows": [
-    7590,
-    7571,
-    7548,
-    7511,
-    7483,
-    7462
+    7514.0,
+    7509.0,
+    7482.0,
+    7463.0,
+    7429.0,
+    7310.0
   ],
   "bull_levels": [
     {
-      "price": 7621.0,
+      "price": 7558.0,
       "major": true
     },
     {
-      "price": 7655.0,
-      "major": true
-    },
-    {
-      "price": 7682.0,
-      "major": true
-    },
-    {
-      "price": 7707.0,
-      "major": true
-    },
-    {
-      "price": 7741.0,
-      "major": true
-    },
-    {
-      "price": 7763.0,
-      "major": true
-    },
-    {
-      "price": 7821.0,
-      "major": true
-    },
-    {
-      "price": 7839.0,
-      "major": true
-    }
-  ],
-  "bear_levels": [
-    {
-      "price": 7611.0,
+      "price": 7578.0,
       "major": true
     },
     {
@@ -54,51 +24,93 @@
       "major": true
     },
     {
-      "price": 7571.0,
+      "price": 7611.0,
       "major": true
     },
     {
-      "price": 7547.5,
+      "price": 7620.0,
       "major": true
     },
     {
-      "price": 7511.0,
+      "price": 7635.0,
       "major": true
     },
     {
-      "price": 7501.0,
+      "price": 7650.0,
       "major": true
     },
     {
-      "price": 7483.0,
+      "price": 7669.0,
       "major": true
     },
     {
-      "price": 7454.0,
+      "price": 7683.0,
       "major": true
     },
     {
-      "price": 7421.0,
+      "price": 7723.0,
       "major": true
     },
     {
-      "price": 7394.0,
+      "price": 7768.0,
       "major": true
     },
     {
-      "price": 7372.0,
+      "price": 7788.0,
       "major": true
     },
     {
-      "price": 7340.5,
+      "price": 7815.0,
       "major": true
     },
     {
-      "price": 7303.0,
+      "price": 7840.0,
       "major": true
     },
     {
-      "price": 7293.0,
+      "price": 7864.0,
+      "major": true
+    },
+    {
+      "price": 7902.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7535.0,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7482.0,
+      "major": true
+    },
+    {
+      "price": 7463.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7380.5,
+      "major": true
+    },
+    {
+      "price": 7335.5,
+      "major": true
+    },
+    {
+      "price": 7295.0,
       "major": true
     },
     {
@@ -106,28 +118,16 @@
       "major": true
     },
     {
-      "price": 7263.0,
+      "price": 7245.0,
       "major": true
     },
     {
       "price": 7223.0,
       "major": true
-    },
-    {
-      "price": 7206.0,
-      "major": true
-    },
-    {
-      "price": 7174.0,
-      "major": true
-    },
-    {
-      "price": 7141.0,
-      "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is leaning bullish but expects a pullback first. He wants to see ES dip to around 7590 (the key pivot), hold it or briefly dip below and recover, then rally to 7655 and 7682, and eventually new all-time highs near 7707-7722. The 7590 level is the main dividing line: above it bulls are in control; below it a deeper drop to fill the Sunday gap at 7511 becomes likely. No trades are planned until a fast sell-off sets up a failed-breakdown entry.",
-  "fetched_at": "2026-06-17T05:00:19.191365+00:00"
+  "notes": "Trader leans bullish after FOMC-driven selloff. He is waiting for price to reclaim 7578 (yesterday's breakdown shelf) as confirmation bulls are back in control. From there he expects a grind toward 7590, 7611, 7635, and 7669+. Key pivot is 7578: above it bulls target new highs; below 7509/7502 the bear case opens. He will look to buy Failed Breakdowns near 7509 and 7482 if price flushes those levels and recovers.",
+  "fetched_at": "2026-06-18T05:00:43.036340+00:00"
 }
