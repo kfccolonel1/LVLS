@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T18:39:39.132749+00:00",
-  "fetched_at_est": "2026-06-18T14:39:39.132755-04:00",
+  "fetched_at_utc": "2026-06-18T18:49:41.215457+00:00",
+  "fetched_at_est": "2026-06-18T14:49:41.215464-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067317985920827685",
-      "timestamp_utc": "2026-06-17T18:46:31.000Z",
-      "timestamp_est": "2026-06-17T14:46:31-04:00",
-      "tweet_text": "Good volatility in #ES_F. I posted watch for recoveries of 7545 which was roughly where we opened up Sunday. We recovered, and ripped. 7578 was 1st big level up and we just hit it now. 7590, 7611 is next from here if bulls want it.\n\nProtect gains though especially on FOMC https://t.co/pOR7f8cXAG",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7545/7578/7590/7611 are observations of prior levels hit or reaffirmations of morning-plan levels; no new actionable level named for first time."
-    },
     {
       "tweet_id": "2067326725390749790",
       "timestamp_utc": "2026-06-17T19:21:15.000Z",
