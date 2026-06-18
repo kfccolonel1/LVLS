@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T13:28:44.053850+00:00",
-  "fetched_at_est": "2026-06-18T09:28:44.053855-04:00",
+  "fetched_at_utc": "2026-06-18T13:38:45.890846+00:00",
+  "fetched_at_est": "2026-06-18T09:38:45.890852-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067238473740833040",
-      "timestamp_utc": "2026-06-17T13:30:34.000Z",
-      "timestamp_est": "2026-06-17T09:30:34-04:00",
-      "tweet_text": "@Bluepit_80 @anchovy_paste @TradeLearner11 @justjay_s The macro structure is very bullish (there is a huge bull flag I posted in my Saturday chart that will very easily give us another 500-1000 points), but we are at flag resistance now and have abit of a lopsided triangle forming that probably needs to break down. Again, no",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific actionable price levels named; only general macro structure commentary about bull flag and triangle pattern without any explicit price triggers or targets."
-    },
     {
       "tweet_id": "2067251909543559471",
       "timestamp_utc": "2026-06-17T14:23:57.000Z",
