@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T19:29:49.692880+00:00",
-  "fetched_at_est": "2026-06-18T15:29:49.692889-04:00",
+  "fetched_at_utc": "2026-06-18T19:39:51.586332+00:00",
+  "fetched_at_est": "2026-06-18T15:39:51.586340-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067329625588412585",
-      "timestamp_utc": "2026-06-17T19:32:46.000Z",
-      "timestamp_est": "2026-06-17T15:32:46-04:00",
-      "tweet_text": "@OnTheHooch Exactly what bulls needed to see at that flag resistance to keep the structure in tact!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with pure structural observation ('flag resistance'), no explicit price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2067329857017487832",
-      "timestamp_utc": "2026-06-17T19:33:41.000Z",
-      "timestamp_est": "2026-06-17T15:33:41-04:00",
-      "tweet_text": "@OnTheHooch https://t.co/3By6r6p667",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a URL/media link with no actionable price levels named."
-    },
     {
       "tweet_id": "2067331764423434263",
       "timestamp_utc": "2026-06-17T19:41:16.000Z",
