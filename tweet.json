@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-18T19:09:46.833518+00:00",
-  "fetched_at_est": "2026-06-18T15:09:46.833524-04:00",
+  "fetched_at_utc": "2026-06-18T19:29:49.692880+00:00",
+  "fetched_at_est": "2026-06-18T15:29:49.692889-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067326725390749790",
-      "timestamp_utc": "2026-06-17T19:21:15.000Z",
-      "timestamp_est": "2026-06-17T15:21:15-04:00",
-      "tweet_text": "Closing update #ES_F: Watch for failed breakdowns of the daily low here. Newsletter will liekly be out abit early ahead of any setups that may occur in the closing window here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific price levels named; tweet is a general closing commentary about watching for failed breakdowns with no actionable price cited."
-    },
     {
       "tweet_id": "2067329625588412585",
       "timestamp_utc": "2026-06-17T19:32:46.000Z",
