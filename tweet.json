@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T05:40:41.957733+00:00",
-  "fetched_at_est": "2026-06-19T01:40:41.957740-04:00",
+  "fetched_at_utc": "2026-06-19T12:01:18.353183+00:00",
+  "fetched_at_est": "2026-06-19T08:01:18.353198-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067576647562244108",
-      "timestamp_utc": "2026-06-18T11:54:21.000Z",
-      "timestamp_est": "2026-06-18T07:54:21-04:00",
-      "tweet_text": "Yesterday we finally got volatility &amp; that means Failed Breakdowns in #ES_F. Newsletter was sent early with setups: The Failed Breakdown of Fridays 7482 low. We swept it 3:45PM, recovered, longed. +95\n\nPlan: Ride runner. 7535=support. 7558, 7570, 7590 next. 7509/02  below 35 https://t.co/rxWI6XQp7j",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7482, 7535, 7558, 7570, 7590, 7509) are morning plan levels or reaffirmations; 7570 is closest to new but not named with qualifying language."
-    },
-    {
-      "tweet_id": "2067578137152496079",
-      "timestamp_utc": "2026-06-18T12:00:16.000Z",
-      "timestamp_est": "2026-06-18T08:00:16-04:00",
-      "tweet_text": "Yesterday we finally got volatility &amp; that means Failed Breakdowns in #ES_F. Newsletter was sent early with setups: The Failed Breakdown of Fridays 7482 low. We swept it 3:45PM, recovered, longed. +95\n\nPlan: Ride runner. 7535=support. 7558, 7578, 7590 next. 7509/02  below 35 https://t.co/8E8NsYUSPL",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7482, 7535, 7558, 7578, 7590, 7509) are in the morning plan. Tweet is trade recap + reaffirmation of existing levels, no new actionable prices."
-    },
     {
       "tweet_id": "2067583531526603055",
       "timestamp_utc": "2026-06-18T12:21:42.000Z",
@@ -104,6 +86,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7535, 7558, 7578, 7590) are morning-plan levels being reaffirmed as hit targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2067938345104130526",
+      "timestamp_utc": "2026-06-19T11:51:36.000Z",
+      "timestamp_est": "2026-06-19T07:51:36-04:00",
+      "tweet_text": "Holiday session in #ES_F and we are still holding longs from the post-FOMC 7485 Failed Breakdown. Per 4pm newsletter, overnight traders got a fantastic Failed Breakdown of the 7535 shelf\n\nPlan today: Just ride runner today. 7535-7578=a range. 7559, 7570/78, 7590+ next. https://t.co/iCCsqM19vY",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7485, 7535, 7559, 7570, 7578, 7590) are either morning-plan levels, trade management references, or hindsight observations of prior newsletter calls \u2014 no new actionable levels named."
+    },
+    {
+      "tweet_id": "2067938711233323113",
+      "timestamp_utc": "2026-06-19T11:53:03.000Z",
+      "timestamp_est": "2026-06-19T07:53:03-04:00",
+      "tweet_text": "@noonelikeme81 We are just cnsolidating in a macro bull flag now. When the bull flag breaks though we will see a 500-1500 point leg up almost certainly. That's for the swing traders/investors though, not day traders like me",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational macro commentary about a bull flag pattern and potential move size. No specific actionable price named or naming language used."
+    },
+    {
+      "tweet_id": "2067939748245561413",
+      "timestamp_utc": "2026-06-19T11:57:11.000Z",
+      "timestamp_est": "2026-06-19T07:57:11-04:00",
+      "tweet_text": "Note: Today is obviously a holiday session and ES closes at 1pm. The newsletter long already triggered overnight for the overnight traders. I won't trade today unless we get another one of the newsletter triggers and will just ride my runner from Wednesday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No actionable prices named. Tweet is purely informational: holiday session notice, trade management (riding runner), and personal trading intent with no new levels cited."
     }
   ]
 }
