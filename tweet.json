@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T17:02:00.389992+00:00",
-  "fetched_at_est": "2026-06-19T13:02:00.390000-04:00",
+  "fetched_at_utc": "2026-06-19T17:32:03.867937+00:00",
+  "fetched_at_est": "2026-06-19T13:32:03.867943-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067660867424878822",
-      "timestamp_utc": "2026-06-18T17:29:00.000Z",
-      "timestamp_est": "2026-06-18T13:29:00-04:00",
-      "tweet_text": "There is 7578 target #2 hit and right back to where the FOMC drop began in #ES_F. Today's support was 7535. Held exact. Today's targets were 7558 (hit), 7578 (hit), 7590 (next up, likely after OPEX but maybe we hit it today).\n\nRide your runner https://t.co/ij0sW70Qcq",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7578, 7535, 7558, 7590) are in the morning plan. Tweet is pure reaffirmation of existing levels plus trade management ('ride your runner')."
-    },
     {
       "tweet_id": "2067684343451984030",
       "timestamp_utc": "2026-06-18T19:02:17.000Z",
