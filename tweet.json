@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T12:41:28.250285+00:00",
-  "fetched_at_est": "2026-06-19T08:41:28.250291-04:00",
+  "fetched_at_utc": "2026-06-19T13:11:31.440206+00:00",
+  "fetched_at_est": "2026-06-19T09:11:31.440215-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067595755414524035",
-      "timestamp_utc": "2026-06-18T13:10:16.000Z",
-      "timestamp_est": "2026-06-18T09:10:16-04:00",
-      "tweet_text": "There's 7558 1st target up hit. Warning today is OPEX day in #ES_F, keep it light. We got a massive long at 3:45PM ystd on the 7485 Failed Breakdown, given in advance. Just ride it now until we get vol again\n\n7535=support. 7558 (hit), 7578, 7590 next targets. Sell again under 35 https://t.co/lJS2QfQq5v",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7558, 7535, 7578, 7590, 7485) are morning-plan levels or observations of hits/trade management. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2067613957091733519",
       "timestamp_utc": "2026-06-18T14:22:36.000Z",
