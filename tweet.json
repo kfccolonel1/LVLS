@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T18:22:11.282291+00:00",
-  "fetched_at_est": "2026-06-19T14:22:11.282296-04:00",
+  "fetched_at_utc": "2026-06-19T19:12:16.125660+00:00",
+  "fetched_at_est": "2026-06-19T15:12:16.125668-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067684343451984030",
-      "timestamp_utc": "2026-06-18T19:02:17.000Z",
-      "timestamp_est": "2026-06-18T15:02:17-04:00",
-      "tweet_text": "Closing update #ES_F: Today was classic OPEX chop. Today's targets as long as 7535 held (which it did exactly) were 7558, 7578 (hit, this was today's target from the newsletter as well). 7590 Monday/Tuesday. Newsletter out soon with next entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7535, 7558, 7578, 7590) are morning-plan levels being reaffirmed as hit targets. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2067938345104130526",
       "timestamp_utc": "2026-06-19T11:51:36.000Z",
