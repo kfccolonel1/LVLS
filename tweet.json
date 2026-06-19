@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T13:41:38.012423+00:00",
-  "fetched_at_est": "2026-06-19T09:41:38.012430-04:00",
+  "fetched_at_utc": "2026-06-19T14:31:42.939503+00:00",
+  "fetched_at_est": "2026-06-19T10:31:42.939509-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067613957091733519",
-      "timestamp_utc": "2026-06-18T14:22:36.000Z",
-      "timestamp_est": "2026-06-18T10:22:36-04:00",
-      "tweet_text": "Levels are very precise today. Longs triggered yesterday at 3:45PM on the Failed Breakdown of 7485. This was given in advanced in #ES_F. 7558 was 1st target today, hit.\n\n7535 was support given. Held *exact* at 945AM, and back up. 7578, 7590+ remain above. OPEX today, trade light https://t.co/3mpeWxuTHt",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7485, 7558, 7535, 7578, 7590) are either morning-plan levels or hindsight/reaffirmation references with no newly named actionable level."
-    },
-    {
-      "tweet_id": "2067615649812091357",
-      "timestamp_utc": "2026-06-18T14:29:20.000Z",
-      "timestamp_est": "2026-06-18T10:29:20-04:00",
-      "tweet_text": "@OnTheHooch Likes this 35-58 chop zone",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual observation about a chop zone using shorthand references to morning-plan levels (7535/7558); no actionable naming language, no new level introduced."
-    },
     {
       "tweet_id": "2067628968098853160",
       "timestamp_utc": "2026-06-18T15:22:15.000Z",
