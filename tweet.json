@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T14:31:42.939503+00:00",
-  "fetched_at_est": "2026-06-19T10:31:42.939509-04:00",
+  "fetched_at_utc": "2026-06-19T15:31:52.220115+00:00",
+  "fetched_at_est": "2026-06-19T11:31:52.220120-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067628968098853160",
-      "timestamp_utc": "2026-06-18T15:22:15.000Z",
-      "timestamp_est": "2026-06-18T11:22:15-04:00",
-      "tweet_text": "Today is OPEX noise now in #ES_F, don't force trades. We were spoiled yesterday, just protect it now. The 7485 Failed Breakdown triggered us long at 3:45PM. 7535 was today's support, it held at 945AM exact. Targets today were 7558 (hit), 7578, 7590.\n\nTotal chop, hold runner https://t.co/HUgtHKSK0Q",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7485/7535/7558/7578/7590) are morning-plan levels or hindsight references to prior trades/targets. No new actionable levels named."
-    },
     {
       "tweet_id": "2067651824790753325",
       "timestamp_utc": "2026-06-18T16:53:04.000Z",
@@ -86,6 +77,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7558, 7535, 7559, 7570, 7578, 7590) are morning-plan levels or hindsight references to targets already hit; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2067991746525409737",
+      "timestamp_utc": "2026-06-19T15:23:48.000Z",
+      "timestamp_est": "2026-06-19T11:23:48-04:00",
+      "tweet_text": "Closing update #ES_F: Volatility very low here for a holiday session and 0 to do but ride runner. Last long was the 7535 Failed Breakdown. Targets were 7559 (hit), 7570 (1.5 points shy), then 7590. No good entries now until sub 7535. Newsletter was sent yesterday giving those",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7535, 7559, 7570, 7590) are morning plan levels or observations of targets hit. 'Sub 7535' is vague commentary, not a named actionable level."
     }
   ]
 }
