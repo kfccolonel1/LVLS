@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T12:21:24.427573+00:00",
-  "fetched_at_est": "2026-06-19T08:21:24.427579-04:00",
+  "fetched_at_utc": "2026-06-19T12:31:26.435915+00:00",
+  "fetched_at_est": "2026-06-19T08:31:26.435924-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2067583531526603055",
-      "timestamp_utc": "2026-06-18T12:21:42.000Z",
-      "timestamp_est": "2026-06-18T08:21:42-04:00",
-      "tweet_text": "@raj_potla Check September contract, we've rolled",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user about contract roll, no price level named or actionable reference made."
-    },
     {
       "tweet_id": "2067586982369169722",
       "timestamp_utc": "2026-06-18T12:35:25.000Z",
