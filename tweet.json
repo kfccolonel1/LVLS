@@ -1,25 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-21T13:38:08.900235+00:00",
-  "fetched_at_est": "2026-06-21T09:38:08.900249-04:00",
+  "fetched_at_utc": "2026-06-21T13:58:12.382348+00:00",
+  "fetched_at_est": "2026-06-21T09:58:12.382354-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2068330772419715390",
-      "timestamp_utc": "2026-06-20T13:50:58.000Z",
-      "timestamp_est": "2026-06-20T09:50:58-04:00",
-      "tweet_text": "Big Picture View: All month, #ES_F built a huge bull flag. June 10th, we held support. Monday, we hit resistance. 7590-7244=the flag. We could build for weeks\n\nPlan Next Week: 7535/20, 7472 (watch traps)=supports. Fill out flag to 7590, dip, then breakout sees 7635, 7674, 7713+ https://t.co/emJs0CEo5F",
-      "added_bull_levels": [
-        7674.0,
-        7713.0
-      ],
-      "added_bear_levels": [
-        7472.0
-      ],
-      "notes": "7674 and 7713 are new upside targets not in morning plan; 7472 named as support watch level, also new. 7535/7620/7635 are morning plan reaffirmations."
-    },
     {
       "tweet_id": "2068367271639019831",
       "timestamp_utc": "2026-06-20T16:16:00.000Z",
