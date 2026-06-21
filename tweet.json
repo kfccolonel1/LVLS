@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-21T16:18:23.980288+00:00",
-  "fetched_at_est": "2026-06-21T12:18:23.980295-04:00",
+  "fetched_at_utc": "2026-06-21T19:18:40.057879+00:00",
+  "fetched_at_est": "2026-06-21T15:18:40.057884-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -14,6 +14,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Educational reply explaining FBD mechanics; no specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2068773544645861473",
+      "timestamp_utc": "2026-06-21T19:10:23.000Z",
+      "timestamp_est": "2026-06-21T15:10:23-04:00",
+      "tweet_text": "There's no shortcut to screen time. Profitability requires 1) Finding a setup that has an actual edge and embedding it in a trade management process and 2) Thousands upon thousands of reps of that setup. Seeing it in every context, every variation, every volatility regime",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is general trading philosophy/advice with no prices, levels, or actionable setups mentioned whatsoever."
     }
   ]
 }
