@@ -1,73 +1,42 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-19T19:12:16.125660+00:00",
-  "fetched_at_est": "2026-06-19T15:12:16.125668-04:00",
+  "fetched_at_utc": "2026-06-21T13:38:08.900235+00:00",
+  "fetched_at_est": "2026-06-21T09:38:08.900249-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2067938345104130526",
-      "timestamp_utc": "2026-06-19T11:51:36.000Z",
-      "timestamp_est": "2026-06-19T07:51:36-04:00",
-      "tweet_text": "Holiday session in #ES_F and we are still holding longs from the post-FOMC 7485 Failed Breakdown. Per 4pm newsletter, overnight traders got a fantastic Failed Breakdown of the 7535 shelf\n\nPlan today: Just ride runner today. 7535-7578=a range. 7559, 7570/78, 7590+ next. https://t.co/iCCsqM19vY",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7485, 7535, 7559, 7570, 7578, 7590) are either morning-plan levels, trade management references, or hindsight observations of prior newsletter calls \u2014 no new actionable levels named."
+      "tweet_id": "2068330772419715390",
+      "timestamp_utc": "2026-06-20T13:50:58.000Z",
+      "timestamp_est": "2026-06-20T09:50:58-04:00",
+      "tweet_text": "Big Picture View: All month, #ES_F built a huge bull flag. June 10th, we held support. Monday, we hit resistance. 7590-7244=the flag. We could build for weeks\n\nPlan Next Week: 7535/20, 7472 (watch traps)=supports. Fill out flag to 7590, dip, then breakout sees 7635, 7674, 7713+ https://t.co/emJs0CEo5F",
+      "added_bull_levels": [
+        7674.0,
+        7713.0
+      ],
+      "added_bear_levels": [
+        7472.0
+      ],
+      "notes": "7674 and 7713 are new upside targets not in morning plan; 7472 named as support watch level, also new. 7535/7620/7635 are morning plan reaffirmations."
     },
     {
-      "tweet_id": "2067938711233323113",
-      "timestamp_utc": "2026-06-19T11:53:03.000Z",
-      "timestamp_est": "2026-06-19T07:53:03-04:00",
-      "tweet_text": "@noonelikeme81 We are just cnsolidating in a macro bull flag now. When the bull flag breaks though we will see a 500-1500 point leg up almost certainly. That's for the swing traders/investors though, not day traders like me",
+      "tweet_id": "2068367271639019831",
+      "timestamp_utc": "2026-06-20T16:16:00.000Z",
+      "timestamp_est": "2026-06-20T12:16:00-04:00",
+      "tweet_text": "@Redden843 Yes, thats absolutely true and I've spoken about that in the newsletter. Deep Failed Breakdowns tend to be dangerous unless the volatility is extremely high. 5-15 points is the sweet spot",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Conversational macro commentary about a bull flag pattern and potential move size. No specific actionable price named or naming language used."
+      "notes": "Pure educational commentary about FBD volatility ranges; no specific actionable price level named."
     },
     {
-      "tweet_id": "2067939748245561413",
-      "timestamp_utc": "2026-06-19T11:57:11.000Z",
-      "timestamp_est": "2026-06-19T07:57:11-04:00",
-      "tweet_text": "Note: Today is obviously a holiday session and ES closes at 1pm. The newsletter long already triggered overnight for the overnight traders. I won't trade today unless we get another one of the newsletter triggers and will just ride my runner from Wednesday",
+      "tweet_id": "2068476527122043368",
+      "timestamp_utc": "2026-06-20T23:30:09.000Z",
+      "timestamp_est": "2026-06-20T19:30:09-04:00",
+      "tweet_text": "@badfutures40 @Redden843 Yes deep Failed Breakdowns also often end up being backtest shorts as well. If price loses a low by 30 points, it often just backtests it and heads lower. Needs to be very volatile/fast action to actually clear it and recover",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "No actionable prices named. Tweet is purely informational: holiday session notice, trade management (riding runner), and personal trading intent with no new levels cited."
-    },
-    {
-      "tweet_id": "2067945773182930999",
-      "timestamp_utc": "2026-06-19T12:21:07.000Z",
-      "timestamp_est": "2026-06-19T08:21:07-04:00",
-      "tweet_text": "@tradivate Can definitely still add here and I would on a normal day, but I won't today since its a holiday session and can't guarantee the volume will be there",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels named at all; purely conversational trade management commentary about holiday session volume."
-    },
-    {
-      "tweet_id": "2067965079258022029",
-      "timestamp_utc": "2026-06-19T13:37:50.000Z",
-      "timestamp_est": "2026-06-19T09:37:50-04:00",
-      "tweet_text": "There's 7558 1st target up hit in #ES_F. Ovenight traders got the long: It was given in my 4pm yesterday newsletter. The 7535 Failed Breakdown which swept to 23, recovered. Today's set of targets were 7559 (hit), 7570/78, then 7590 final.\n\nJust let a runner pay all day today https://t.co/vtkJFEhnw1",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7558, 7535, 7559, 7570, 7578, 7590) are morning-plan levels or hindsight references to targets already hit; no new actionable levels named."
-    },
-    {
-      "tweet_id": "2067991746525409737",
-      "timestamp_utc": "2026-06-19T15:23:48.000Z",
-      "timestamp_est": "2026-06-19T11:23:48-04:00",
-      "tweet_text": "Closing update #ES_F: Volatility very low here for a holiday session and 0 to do but ride runner. Last long was the 7535 Failed Breakdown. Targets were 7559 (hit), 7570 (1.5 points shy), then 7590. No good entries now until sub 7535. Newsletter was sent yesterday giving those",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7535, 7559, 7570, 7590) are morning plan levels or observations of targets hit. 'Sub 7535' is vague commentary, not a named actionable level."
-    },
-    {
-      "tweet_id": "2068034840830644690",
-      "timestamp_utc": "2026-06-19T18:15:02.000Z",
-      "timestamp_est": "2026-06-19T14:15:02-04:00",
-      "tweet_text": "@equesvirginis Minor level for sure. Always level to level",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user, purely conversational, no price named, no actionable level introduced."
+      "notes": "Educational reply explaining FBD mechanics; no specific price named or actionable level introduced."
     }
   ]
 }
