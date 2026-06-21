@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-21T21:18:53.275689+00:00",
-  "fetched_at_est": "2026-06-21T17:18:53.275695-04:00",
+  "fetched_at_utc": "2026-06-21T23:39:05.686140+00:00",
+  "fetched_at_est": "2026-06-21T19:39:05.686148-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2068476527122043368",
-      "timestamp_utc": "2026-06-20T23:30:09.000Z",
-      "timestamp_est": "2026-06-20T19:30:09-04:00",
-      "tweet_text": "@badfutures40 @Redden843 Yes deep Failed Breakdowns also often end up being backtest shorts as well. If price loses a low by 30 points, it often just backtests it and heads lower. Needs to be very volatile/fast action to actually clear it and recover",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Educational reply explaining FBD mechanics; no specific price named or actionable level introduced."
-    },
     {
       "tweet_id": "2068773544645861473",
       "timestamp_utc": "2026-06-21T19:10:23.000Z",
