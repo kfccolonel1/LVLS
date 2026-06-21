@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-21T13:58:12.382348+00:00",
-  "fetched_at_est": "2026-06-21T09:58:12.382354-04:00",
+  "fetched_at_utc": "2026-06-21T16:18:23.980288+00:00",
+  "fetched_at_est": "2026-06-21T12:18:23.980295-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2068367271639019831",
-      "timestamp_utc": "2026-06-20T16:16:00.000Z",
-      "timestamp_est": "2026-06-20T12:16:00-04:00",
-      "tweet_text": "@Redden843 Yes, thats absolutely true and I've spoken about that in the newsletter. Deep Failed Breakdowns tend to be dangerous unless the volatility is extremely high. 5-15 points is the sweet spot",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure educational commentary about FBD volatility ranges; no specific actionable price level named."
-    },
     {
       "tweet_id": "2068476527122043368",
       "timestamp_utc": "2026-06-20T23:30:09.000Z",
