@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-22T19:11:45.583567+00:00",
-  "fetched_at_est": "2026-06-22T15:11:45.583590-04:00",
+  "fetched_at_utc": "2026-06-22T21:21:58.561827+00:00",
+  "fetched_at_est": "2026-06-22T17:21:58.561835-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2068804426576306543",
-      "timestamp_utc": "2026-06-21T21:13:06.000Z",
-      "timestamp_est": "2026-06-21T17:13:06-04:00",
-      "tweet_text": "@Pete66668332642 Yes market loves to do one thing for weeks or days, then totally switch it up!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market behavior; no price levels named or actionable triggers of any kind."
-    },
     {
       "tweet_id": "2068853462939443683",
       "timestamp_utc": "2026-06-22T00:27:57.000Z",
