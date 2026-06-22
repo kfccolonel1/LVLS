@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-22T15:21:12.864238+00:00",
-  "fetched_at_est": "2026-06-22T11:21:12.864244-04:00",
+  "fetched_at_utc": "2026-06-22T16:41:24.509033+00:00",
+  "fetched_at_est": "2026-06-22T12:41:24.509038-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7535, 7528, 7558, 7570, 7590, 7509) are morning-plan levels or observations of completed price action; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2069097903340032263",
+      "timestamp_utc": "2026-06-22T16:39:16.000Z",
+      "timestamp_est": "2026-06-22T12:39:16-04:00",
+      "tweet_text": "Now its pure mid-day chop and as always, we do not trade chop. Trades only happen on massive volatility expansions, then on Failed Breakdowns. 7528 Failed Breakdown was long trigger. We swept it, and ran +28.\n\n7558, 7570, 7590 if ES wants more. 7535/28=support. Weak. 7509 below https://t.co/LqRWyW6jrZ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7528 is a hindsight FBD reference; 7558 is not in plan but listed casually as directional target; 7570/7590/7535/7509 are all morning-plan reaffirmations. No new actionable levels named."
     }
   ]
 }
