@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-22T00:29:13.003651+00:00",
-  "fetched_at_est": "2026-06-21T20:29:13.003656-04:00",
+  "fetched_at_utc": "2026-06-22T00:59:21.343741+00:00",
+  "fetched_at_est": "2026-06-21T20:59:21.343751-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -32,6 +32,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with general commentary about Sunday gap-down FBD pattern; no specific price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2068859479324532816",
+      "timestamp_utc": "2026-06-22T00:51:52.000Z",
+      "timestamp_est": "2026-06-21T20:51:52-04:00",
+      "tweet_text": "@EStrader33 @Trevormiles16 I missed that one as it triggered on Ffriday 130AM and I don't trade overnight. Worked nicely though for those who took it! The fresh low wouldve been Friday's daily low and that played out very nicely",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about a missed overnight trade; no actionable price named, just hindsight observation of Friday's daily low playing out."
+    },
+    {
+      "tweet_id": "2068860552839885022",
+      "timestamp_utc": "2026-06-22T00:56:08.000Z",
+      "timestamp_est": "2026-06-21T20:56:08-04:00",
+      "tweet_text": "@fiveinchhammer @EStrader33 @Trevormiles16 That one was very risky since the zone was already traded though and triggered on Friday morning (we already got that long) and there was a fresh low on Friday's daily low that would serve as a magnet. That one worked though as we got to 43 1st up still and that low was 33",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing past trades and existing morning-plan levels (7243, 7233 area); no new actionable levels named with qualifying language."
     }
   ]
 }
