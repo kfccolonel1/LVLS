@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-22T13:50:39.393335+00:00",
-  "fetched_at_est": "2026-06-22T09:50:39.393341-04:00",
+  "fetched_at_utc": "2026-06-22T14:30:48.906827+00:00",
+  "fetched_at_est": "2026-06-22T10:30:48.906832-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -95,6 +95,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels cited (7590, 7600, 7611, 7620) are morning plan reaffirmations or target references; 7640 is casual upside commentary, not explicitly named as a new actionable level."
+    },
+    {
+      "tweet_id": "2069063418355573025",
+      "timestamp_utc": "2026-06-22T14:22:14.000Z",
+      "timestamp_est": "2026-06-22T10:22:14-04:00",
+      "tweet_text": "@OnTheHooch The 7521 low definitely more important, it was the major low from which that whole rally began and it was a daily low which is is always the highest quality",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet referencing 7521 as historical context/observation of a prior low \u2014 no actionable naming language, no entry/watch/trigger directive."
     }
   ]
 }
