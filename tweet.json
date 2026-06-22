@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-22T14:50:59.600961+00:00",
-  "fetched_at_est": "2026-06-22T10:50:59.600966-04:00",
+  "fetched_at_utc": "2026-06-22T15:11:06.795241+00:00",
+  "fetched_at_est": "2026-06-22T11:11:06.795246-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -122,6 +122,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7528/35 and 7509 are all morning-plan levels (7535, 7509 already published); 7590 is a reaffirmation. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2069074511211716871",
+      "timestamp_utc": "2026-06-22T15:06:19.000Z",
+      "timestamp_est": "2026-06-22T11:06:19-04:00",
+      "tweet_text": "@Jbuehler777 Yes, very nice failed breakdown. I didn't take it myself as I already got my points last night but huge follow through for anyone who did.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user commenting on a failed breakdown; no price levels named, purely conversational trade commentary."
     }
   ]
 }
