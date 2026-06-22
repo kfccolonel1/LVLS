@@ -5,7 +5,7 @@
   "significant_lows": [
     7535.0,
     7509.0,
-    7482.0,
+    7486.0,
     7475.0,
     7441.0,
     7428.0
@@ -164,6 +164,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish leaning after Wednesday's FOMC dip was bought via a failed breakdown at 7482. Thursday consolidated in a 7535-7578 range. For Monday, trader expects ES to hold above 7535 and push higher toward 7590, 7611, and 7640. The key pivot is 7535: above it bulls stay in control and a rally is favored; below it the setup turns bearish and a breakdown trade triggers around 7526.",
-  "fetched_at": "2026-06-22T14:24:20.064382+00:00"
+  "notes": "Trader leans bullish after Wednesday's post-FOMC failed breakdown at 7475. ES consolidated 7535-7578 on Thursday. For Monday the plan is to wait for ES to hold or briefly trap the 7535 support zone, then buy a failed breakdown for a move to 7590, 7611, 7640+. The key pivot is 7535: above it bulls remain in control targeting higher levels; below it the bear case opens up toward 7509 and lower.",
+  "fetched_at": "2026-06-22T14:39:55.278007+00:00"
 }
