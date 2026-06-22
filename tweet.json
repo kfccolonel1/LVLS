@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-22T00:59:21.343741+00:00",
-  "fetched_at_est": "2026-06-21T20:59:21.343751-04:00",
+  "fetched_at_utc": "2026-06-22T11:50:12.954946+00:00",
+  "fetched_at_est": "2026-06-22T07:50:12.954952-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -50,6 +50,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing past trades and existing morning-plan levels (7243, 7233 area); no new actionable levels named with qualifying language."
+    },
+    {
+      "tweet_id": "2069025098548257183",
+      "timestamp_utc": "2026-06-22T11:49:58.000Z",
+      "timestamp_est": "2026-06-22T07:49:58-04:00",
+      "tweet_text": "Last eve, #ES_F got same trade we've seen hundreds of times newsletter readers know well: Gap down into Failed Breakdown. We swept Friday's 7520 low, got long. Targets 7535 (hit), ~7559 (hit), 7570  (hit)\n\nPlan: Ride your runner. 7590, 7600, 7611 next. 7535=support. Watch traps https://t.co/vtkJFEhnw1",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7535, 7559, 7570, 7590, 7611) are morning-plan reaffirmations or hit-target observations; 7600 is conversational fill between plan levels. No new actionable levels."
     }
   ]
 }
