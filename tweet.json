@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T14:54:29.807258+00:00",
-  "fetched_at_est": "2026-06-23T10:54:29.807280-04:00",
+  "fetched_at_utc": "2026-06-23T15:14:32.881434+00:00",
+  "fetched_at_est": "2026-06-23T11:14:32.881441-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069074511211716871",
-      "timestamp_utc": "2026-06-22T15:06:19.000Z",
-      "timestamp_est": "2026-06-22T11:06:19-04:00",
-      "tweet_text": "@Jbuehler777 Yes, very nice failed breakdown. I didn't take it myself as I already got my points last night but huge follow through for anyone who did.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user commenting on a failed breakdown; no price levels named, purely conversational trade commentary."
-    },
     {
       "tweet_id": "2069077374507827637",
       "timestamp_utc": "2026-06-22T15:17:42.000Z",
