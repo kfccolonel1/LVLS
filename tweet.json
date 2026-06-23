@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T14:24:11.702003+00:00",
-  "fetched_at_est": "2026-06-23T10:24:11.702025-04:00",
+  "fetched_at_utc": "2026-06-23T14:34:13.730402+00:00",
+  "fetched_at_est": "2026-06-23T10:34:13.730409-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069066325981282389",
-      "timestamp_utc": "2026-06-22T14:33:48.000Z",
-      "timestamp_est": "2026-06-22T10:33:48-04:00",
-      "tweet_text": "@JohnnyComeL8Lee ES is notoriously predictable. Almost never does anything surprising. Not all assets are the same though, commodities and even NQ are much more random",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational commentary comparing asset classes; no price levels named or actionable triggers mentioned."
-    },
     {
       "tweet_id": "2069069581956563290",
       "timestamp_utc": "2026-06-22T14:46:44.000Z",
