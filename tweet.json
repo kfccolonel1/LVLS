@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T00:32:16.103342+00:00",
-  "fetched_at_est": "2026-06-22T20:32:16.103350-04:00",
+  "fetched_at_utc": "2026-06-23T00:52:19.231817+00:00",
+  "fetched_at_est": "2026-06-22T20:52:19.231826-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2068859479324532816",
-      "timestamp_utc": "2026-06-22T00:51:52.000Z",
-      "timestamp_est": "2026-06-21T20:51:52-04:00",
-      "tweet_text": "@EStrader33 @Trevormiles16 I missed that one as it triggered on Ffriday 130AM and I don't trade overnight. Worked nicely though for those who took it! The fresh low wouldve been Friday's daily low and that played out very nicely",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about a missed overnight trade; no actionable price named, just hindsight observation of Friday's daily low playing out."
-    },
     {
       "tweet_id": "2068860552839885022",
       "timestamp_utc": "2026-06-22T00:56:08.000Z",
