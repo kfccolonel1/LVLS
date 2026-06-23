@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T15:24:34.932384+00:00",
-  "fetched_at_est": "2026-06-23T11:24:34.932391-04:00",
+  "fetched_at_utc": "2026-06-23T16:24:46.836161+00:00",
+  "fetched_at_est": "2026-06-23T12:24:46.836175-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -86,6 +86,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational commentary about volatility and trading style; no price levels named or implied."
+    },
+    {
+      "tweet_id": "2069455201199628502",
+      "timestamp_utc": "2026-06-23T16:19:03.000Z",
+      "timestamp_est": "2026-06-23T12:19:03-04:00",
+      "tweet_text": "@JBonwax Great to hear, and thanks for the subscribe!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a social reply with no price levels, no actionable language, and no market content whatsoever."
+    },
+    {
+      "tweet_id": "2069455561783996774",
+      "timestamp_utc": "2026-06-23T16:20:29.000Z",
+      "timestamp_est": "2026-06-23T12:20:29-04:00",
+      "tweet_text": "We are now into standard mid-day chop in #ES_F and as always, chop s not to be traded. We trade deep flushes and Failed Breakdowns. The 7427 Failed Breakdown after 930AM was last long trigger. Targets were 7452 (hit), 7462 (hit), 7472 (hit).\n\n7509, then 7523 are next. Magnets https://t.co/gxDzywAh3Q",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7427, 7452, 7462, 7472, 7509, 7523) are either morning-plan levels or reaffirmations/hit targets. No new actionable levels introduced."
     }
   ]
 }
