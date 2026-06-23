@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T12:23:36.773924+00:00",
-  "fetched_at_est": "2026-06-23T08:23:36.773934-04:00",
+  "fetched_at_utc": "2026-06-23T13:03:44.608636+00:00",
+  "fetched_at_est": "2026-06-23T09:03:44.608642-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -113,6 +113,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational commentary about volatility and day trading \u2014 no price levels named or actionable entries/exits mentioned."
+    },
+    {
+      "tweet_id": "2069404497470792031",
+      "timestamp_utc": "2026-06-23T12:57:34.000Z",
+      "timestamp_est": "2026-06-23T08:57:34-04:00",
+      "tweet_text": "NOTE: 7409, 7398 are below 7428",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet references 7409 and 7398 as positional observations below 7428, not actionable named levels; no naming language used."
     }
   ]
 }
