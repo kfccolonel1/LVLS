@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T12:13:31.993519+00:00",
-  "fetched_at_est": "2026-06-23T08:13:31.993524-04:00",
+  "fetched_at_utc": "2026-06-23T12:23:36.773924+00:00",
+  "fetched_at_est": "2026-06-23T08:23:36.773934-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069031722147008840",
-      "timestamp_utc": "2026-06-22T12:16:17.000Z",
-      "timestamp_est": "2026-06-22T08:16:17-04:00",
-      "tweet_text": "@ES_Money_Print I missed the 35 failed breakdown because it was at 1:30AM on Friday morning. At that point the fresh low was at 7521 Friday low but I obviously couldn't write about that one since it formed after my last newsletter on Thursday came out due to the holiday. I traded the fresh low.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining missed newsletter timing; 7521 is a hindsight trade reference, not a new actionable level. No naming language used."
-    },
-    {
-      "tweet_id": "2069032066344198227",
-      "timestamp_utc": "2026-06-22T12:17:40.000Z",
-      "timestamp_est": "2026-06-22T08:17:40-04:00",
-      "tweet_text": "@ES_Money_Print (and it actually popped to 43 2x so there would've been two chances to take profit there)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual observation about price popping to 43 (likely ~7543); no naming language, no actionable level, pure hindsight trade commentary."
-    },
     {
       "tweet_id": "2069045108708642878",
       "timestamp_utc": "2026-06-22T13:09:29.000Z",
@@ -122,6 +104,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market conditions and volatility; no prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2069393534700945597",
+      "timestamp_utc": "2026-06-23T12:14:00.000Z",
+      "timestamp_est": "2026-06-23T08:14:00-04:00",
+      "tweet_text": "@ES_Money_Print @zero_baalance Volatility=setups. Day traders don't care about direction, only care the market is moving.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary about volatility and day trading \u2014 no price levels named or actionable entries/exits mentioned."
     }
   ]
 }
