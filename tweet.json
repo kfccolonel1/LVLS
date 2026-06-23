@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T16:44:49.678432+00:00",
-  "fetched_at_est": "2026-06-23T12:44:49.678437-04:00",
+  "fetched_at_utc": "2026-06-23T17:25:00.940242+00:00",
+  "fetched_at_est": "2026-06-23T13:25:00.940258-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -95,6 +95,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7427, 7452, 7462, 7472, 7509, 7523) are either morning-plan levels or reaffirmations/hit targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2069469555269759125",
+      "timestamp_utc": "2026-06-23T17:16:05.000Z",
+      "timestamp_est": "2026-06-23T13:16:05-04:00",
+      "tweet_text": "@RoyMcAvoyGolf THat is literally the point of the Failed Breakdown. It stops everyone out, then you get in afterwwards",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining FBD concept to a user; no price levels named, purely educational/conversational content."
+    },
+    {
+      "tweet_id": "2069469788376613146",
+      "timestamp_utc": "2026-06-23T17:17:01.000Z",
+      "timestamp_est": "2026-06-23T13:17:01-04:00",
+      "tweet_text": "@chrisAn00930062 I don't buy any levels, I trade Failed Breakdowns. I don't buy supports ever. When I say a level is weak, it means the level is likely to fail (which it did). Then we can long the Failed Breakdown. That's my whole system",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a methodology explanation to a user, no actionable price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2069470143827058844",
+      "timestamp_utc": "2026-06-23T17:18:25.000Z",
+      "timestamp_est": "2026-06-23T13:18:25-04:00",
+      "tweet_text": "Its pure mid-day chop now in #ES_F, no trading chop. Trade only big volatility expansions, otherwise, just ride runner. 7427 Failed Breakdown after 930am was the last long. 7452, 7462, 7472 (all hit) were targets. Now, hold runner for the next magnet which is 7509/7523 https://t.co/4mH1wAaHkQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7427, 7452, 7462, 7472, 7509, 7523) are either morning-plan levels, already-hit targets, or trade management/runner instructions \u2014 no new actionable levels introduced."
     }
   ]
 }
