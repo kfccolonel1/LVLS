@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T13:03:44.608636+00:00",
-  "fetched_at_est": "2026-06-23T09:03:44.608642-04:00",
+  "fetched_at_utc": "2026-06-23T13:13:46.679013+00:00",
+  "fetched_at_est": "2026-06-23T09:13:46.679020-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069045108708642878",
-      "timestamp_utc": "2026-06-22T13:09:29.000Z",
-      "timestamp_est": "2026-06-22T09:09:29-04:00",
-      "tweet_text": "Last night we got the standard Sunday gap down into Failed Breakdown in #ES_F (my absolute favorite trade). We swept Friday's 7521 low to 7514, recovered, ripped +50.\n\nNow, nothing to do. 7590, 7600, 7611 if ES wants more. No good supports until 7535 now (watch traps there) https://t.co/NXg3StXBks",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7600 is conversational upside reference; 7590, 7611, 7535 all in morning plan. 7521/7514 are observations of price action swept. No new actionable levels named."
-    },
     {
       "tweet_id": "2069055276817248326",
       "timestamp_utc": "2026-06-22T13:49:53.000Z",
