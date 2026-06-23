@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-23T15:14:32.881434+00:00",
-  "fetched_at_est": "2026-06-23T11:14:32.881441-04:00",
+  "fetched_at_utc": "2026-06-23T15:24:34.932384+00:00",
+  "fetched_at_est": "2026-06-23T11:24:34.932391-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069077374507827637",
-      "timestamp_utc": "2026-06-22T15:17:42.000Z",
-      "timestamp_est": "2026-06-22T11:17:42-04:00",
-      "tweet_text": "Nice fast Failed Breakdown in #ES_F. 7535/7528 was the support as posted. I posted watch for traps of 7528. We swept below 7528, recovered for a Failed Breakdown, and ran +28. 7558, 7570, 7590 if ES wants more today.\n\n7528/35 fails (weak zone now), 7509 is next down https://t.co/FAmrn7ahD0",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7535, 7528, 7558, 7570, 7590, 7509) are morning-plan levels or observations of completed price action; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2069097903340032263",
       "timestamp_utc": "2026-06-22T16:39:16.000Z",
