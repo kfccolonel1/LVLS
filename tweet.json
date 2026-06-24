@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T19:19:05.750542+00:00",
-  "fetched_at_est": "2026-06-24T15:19:05.750550-04:00",
+  "fetched_at_utc": "2026-06-24T19:29:10.663949+00:00",
+  "fetched_at_est": "2026-06-24T15:29:10.663954-04:00",
   "last_new_level_added_at_est": "2026-06-24T14:33:22-04:00",
   "todays_new_levels": [
     {
@@ -240,6 +240,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7415 is a morning-plan level (reaffirmation). 7420 is a minor execution tweak via 'non-acceptance protocol', not a newly named major actionable level."
+    },
+    {
+      "tweet_id": "2069865113675259976",
+      "timestamp_utc": "2026-06-24T19:27:53.000Z",
+      "timestamp_est": "2026-06-24T15:27:53-04:00",
+      "tweet_text": "Closing update #ES_F: Newsletter was sent out early today about half an hour ago since we have Micron earnings and ES was approaching some actionable setups. Failed Breakdown of 7408 low in play. Bulls want to hold 7399 now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7408 is a referenced intraday low (observation), and 7399 is already in the morning plan. No new actionable levels introduced."
     }
   ]
 }
