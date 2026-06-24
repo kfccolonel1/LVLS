@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T13:07:10.407311+00:00",
-  "fetched_at_est": "2026-06-24T09:07:10.407424-04:00",
+  "fetched_at_utc": "2026-06-24T13:17:12.735999+00:00",
+  "fetched_at_est": "2026-06-24T09:17:12.736007-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069408981689205140",
-      "timestamp_utc": "2026-06-23T13:15:23.000Z",
-      "timestamp_est": "2026-06-23T09:15:23-04:00",
-      "tweet_text": "Bears control under 7509 now in #ES_F. Most recent long trigger was the 7427 Failed Breakdown given explicitly in newsletter. 7427 was also 1st support today given at 8am here. Just tested exact, but its very weak now\n\n7452, 7462, 7472, 7509 if bulls have energy. 7409, 7398 below https://t.co/vBJ3xxIUtf",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7452 is new but presented as a directional list alongside morning-plan levels (7462,7472,7509,7398\u22487397); 7409\u22487397 reaffirm. No explicit actionable naming language for 7452."
-    },
     {
       "tweet_id": "2069420444805890245",
       "timestamp_utc": "2026-06-23T14:00:56.000Z",
