@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T18:38:56.823421+00:00",
-  "fetched_at_est": "2026-06-24T14:38:56.823436-04:00",
+  "fetched_at_utc": "2026-06-24T18:59:02.846778+00:00",
+  "fetched_at_est": "2026-06-24T14:59:02.846783-04:00",
   "last_new_level_added_at_est": "2026-06-24T14:33:22-04:00",
   "todays_new_levels": [
     {
@@ -242,6 +242,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure philosophical commentary about trading approach and not predicting paths. No price levels named, no actionable triggers referenced."
+    },
+    {
+      "tweet_id": "2069855484824232004",
+      "timestamp_utc": "2026-06-24T18:49:38.000Z",
+      "timestamp_est": "2026-06-24T14:49:38-04:00",
+      "tweet_text": "@traptrade Typical spot from newsletter. 7415 was the entry. Enter a little above 7420 via non acceptance protocol.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7415 is a morning-plan level (reaffirmation). 7420 is a minor execution tweak via 'non-acceptance protocol', not a newly named major actionable level."
     }
   ]
 }
