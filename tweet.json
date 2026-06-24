@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T11:56:51.591190+00:00",
-  "fetched_at_est": "2026-06-24T07:56:51.591199-04:00",
+  "fetched_at_utc": "2026-06-24T12:06:56.061783+00:00",
+  "fetched_at_est": "2026-06-24T08:06:56.061789-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069389262697414969",
-      "timestamp_utc": "2026-06-23T11:57:02.000Z",
-      "timestamp_est": "2026-06-23T07:57:02-04:00",
-      "tweet_text": "@poker848768148 We were just down there at 7:30AM",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing prior price action at 7:30AM \u2014 no actionable level named, purely conversational/observational."
-    },
     {
       "tweet_id": "2069391868912128088",
       "timestamp_utc": "2026-06-23T12:07:23.000Z",
@@ -142,6 +133,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management/commentary tweet. No prices named at all. Describes a no-trade condition (low volatility chop) with no actionable levels."
+    },
+    {
+      "tweet_id": "2069751925256409592",
+      "timestamp_utc": "2026-06-24T11:58:07.000Z",
+      "timestamp_est": "2026-06-24T07:58:07-04:00",
+      "tweet_text": "@mainftr Yes quite often...usually volatility also dies mid day. Not always though. Most days we get at least one good volatility expansion typically in then morning. Then I make my trade and shut down the platform. Can't trade low volatility",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading habits and volatility patterns. No prices mentioned, no actionable levels named."
     }
   ]
 }
