@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T17:38:28.459583+00:00",
-  "fetched_at_est": "2026-06-24T13:38:28.459595-04:00",
+  "fetched_at_utc": "2026-06-24T17:48:38.613120+00:00",
+  "fetched_at_est": "2026-06-24T13:48:38.613134-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -178,6 +178,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about timeframes for backtests; no actionable price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2069837738585559339",
+      "timestamp_utc": "2026-06-24T17:39:07.000Z",
+      "timestamp_est": "2026-06-24T13:39:07-04:00",
+      "tweet_text": "@hamburglar747 Its not supposed to have any value for people trading, its just a magnet. For trading I trade Failed Breakdowns and manage it level to level. When 7530 backtests it could be an actionable backtest short for those who take those, but I don't",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7530 is a morning plan level; mention is conversational/conditional context, not a new actionable level introduction."
+    },
+    {
+      "tweet_id": "2069837857229848908",
+      "timestamp_utc": "2026-06-24T17:39:35.000Z",
+      "timestamp_est": "2026-06-24T13:39:35-04:00",
+      "tweet_text": "@hamburglar747 As I repeat 4-5x everyday (look through my comments) we do not predict price action or price paths.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; tweet is a reply about methodology, purely conversational with zero actionable prices."
     }
   ]
 }
