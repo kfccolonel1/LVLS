@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T14:17:31.139754+00:00",
-  "fetched_at_est": "2026-06-24T10:17:31.139759-04:00",
+  "fetched_at_utc": "2026-06-24T14:57:39.591967+00:00",
+  "fetched_at_est": "2026-06-24T10:57:39.591974-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -133,6 +133,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about methodology/philosophy. No price named, no actionable level, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2069794654720004129",
+      "timestamp_utc": "2026-06-24T14:47:55.000Z",
+      "timestamp_est": "2026-06-24T10:47:55-04:00",
+      "tweet_text": "We continue to push up through today's target slate in #ES_F. Last long trigger was the 930am 7427 Failed Breakdown yesterday morning given here and in newsletter. Today's targets given 8am were 7463, 7472 (hit). 7492, 7510 next. Then 7530.\n\n7530 is now a magnet that must test https://t.co/EoIvvNBFgh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7427, 7463, 7472, 7492, 7510, 7530) are morning-plan levels or hindsight references to prior triggers. No new actionable levels named."
     }
   ]
 }
