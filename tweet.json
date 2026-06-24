@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T13:37:18.293647+00:00",
-  "fetched_at_est": "2026-06-24T09:37:18.293652-04:00",
+  "fetched_at_utc": "2026-06-24T14:07:26.063528+00:00",
+  "fetched_at_est": "2026-06-24T10:07:26.063533-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069420444805890245",
-      "timestamp_utc": "2026-06-23T14:00:56.000Z",
-      "timestamp_est": "2026-06-23T10:00:56-04:00",
-      "tweet_text": "7427 Failed Breakdown continue to pay out heavily in #ES_F and as repeated non-stop, volatility makes our job very easy. We just trapped 7427 again down to 7416, recovered, pushed.\n\nTargets given were 7452 (hit), 7462 (hit), 7472, 7509 next. Just ride your runner now https://t.co/kyfPMqK075",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7427, 7452, 7462, 7472, 7509) are morning-plan levels or observations of hits; 7416 is a passing reference, not named as actionable."
-    },
-    {
-      "tweet_id": "2069420827754299633",
-      "timestamp_utc": "2026-06-23T14:02:27.000Z",
-      "timestamp_est": "2026-06-23T10:02:27-04:00",
-      "tweet_text": "@joeo1s Yes, when volatility spikes like this we tend to get those big failed breakdowns. Its why even though I am a long only trader, I make far more in red markets than green markets. If it were my choice we'd always be in a bear market!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational commentary about volatility and trading style; no price levels named or implied."
-    },
     {
       "tweet_id": "2069455201199628502",
       "timestamp_utc": "2026-06-23T16:19:03.000Z",
@@ -133,6 +115,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management/directional commentary. No specific price level named, no actionable trigger, entry, or watch point introduced."
+    },
+    {
+      "tweet_id": "2069781895504679339",
+      "timestamp_utc": "2026-06-24T13:57:13.000Z",
+      "timestamp_est": "2026-06-24T09:57:13-04:00",
+      "tweet_text": "There's the precise tap of 7472 target #2. Today's #ES_F targets were 7463 (hit), 7472 (hit), 7492, 7510 next. Again this is just pure chop, so ride runner from yesterday's 930AM 7427 Failed Breakdown. Nothing else to do.\n\n7425 remains support. Micro supports in newsletter https://t.co/ow3o4GBOe8",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7472, 7492, 7510, 7463, 7427, 7425) are morning-plan levels or trade management/hindsight references. No new actionable levels named."
     }
   ]
 }
