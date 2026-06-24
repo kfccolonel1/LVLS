@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T18:08:47.530810+00:00",
-  "fetched_at_est": "2026-06-24T14:08:47.530822-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-06-24T18:38:56.823421+00:00",
+  "fetched_at_est": "2026-06-24T14:38:56.823436-04:00",
+  "last_new_level_added_at_est": "2026-06-24T14:33:22-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7463.0,
+      "side": "bull",
+      "added_at_est": "2026-06-24T14:33:22-04:00",
+      "expires_at_est": "2026-06-24T22:33:22-04:00",
+      "from_tweet_id": "2069851393624539362"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2069498282934468957",
@@ -214,6 +222,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about price action stability; no actionable price named, no naming language, no new level introduced."
+    },
+    {
+      "tweet_id": "2069851393624539362",
+      "timestamp_utc": "2026-06-24T18:33:22.000Z",
+      "timestamp_est": "2026-06-24T14:33:22-04:00",
+      "tweet_text": "7425 remains a trappy ATM machine in #ES_F and its the only level that has been tradable all week. We just swept it (and yesterday's 7415 daily low) recovered, and popped +25. Protect your gains aggressively here.\n\n7452, 7463, 7472, 7490 remain upside targets. 7530 = the magnet https://t.co/BQPfSQ7QaT",
+      "added_bull_levels": [
+        7463.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7463 is not in morning plan and listed as an upside target alongside known levels; qualifies as new actionable resistance target."
+    },
+    {
+      "tweet_id": "2069851585262367085",
+      "timestamp_utc": "2026-06-24T18:34:08.000Z",
+      "timestamp_est": "2026-06-24T14:34:08-04:00",
+      "tweet_text": "@noonelikeme81 @sckdds Yes 95% chance but as I've said 4-5x today and everyday, we don't predict the path. It could backtest in 3 months. We just react to triggers.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure philosophical commentary about trading approach and not predicting paths. No price levels named, no actionable triggers referenced."
     }
   ]
 }
