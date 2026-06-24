@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T16:38:00.934019+00:00",
-  "fetched_at_est": "2026-06-24T12:38:00.934036-04:00",
+  "fetched_at_utc": "2026-06-24T16:48:09.238328+00:00",
+  "fetched_at_est": "2026-06-24T12:48:09.238340-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -151,6 +151,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trading philosophy/methodology commentary. No price levels named, no actionable triggers or watchpoints mentioned at all."
+    },
+    {
+      "tweet_id": "2069822317195075895",
+      "timestamp_utc": "2026-06-24T16:37:50.000Z",
+      "timestamp_est": "2026-06-24T12:37:50-04:00",
+      "tweet_text": "@jwmolenaar We could breakdown here, selloff 75 points, return to 7530, selloff for the rest of the year. Or we could rip to 7530 direct, dip, then clear it. Won't be a predictable path.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7530 is already in the morning plan; the tweet is speculative commentary on possible paths, not naming any actionable new level."
+    },
+    {
+      "tweet_id": "2069822581809582474",
+      "timestamp_utc": "2026-06-24T16:38:53.000Z",
+      "timestamp_est": "2026-06-24T12:38:53-04:00",
+      "tweet_text": "@DCdude69 7530 has to clear. It will allow ES to build a larger consolidation above it",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7530 is already in the morning plan; this is a reaffirmation/commentary on existing level, not a new actionable price."
     }
   ]
 }
