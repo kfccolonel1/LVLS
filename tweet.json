@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-24T03:15:57.317706+00:00",
-  "fetched_at_est": "2026-06-23T23:15:57.317712-04:00",
+  "fetched_at_utc": "2026-06-24T11:56:51.591190+00:00",
+  "fetched_at_est": "2026-06-24T07:56:51.591199-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069388113877549113",
-      "timestamp_utc": "2026-06-23T11:52:28.000Z",
-      "timestamp_est": "2026-06-23T07:52:28-04:00",
-      "tweet_text": "After a pure chop day in #ES_F, overnight traders finally spoiled with vol. As always, I only trade vol, I do not trade chop. Per newsletter, the Failed Breakdown of 7427 triggered long, and we are +20\n\nPlan today: 7427=support (weak now). 7462, 7472 above. bears control&lt;7509 https://t.co/JjTdj84Sbv",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7427, 7462, 7472, 7509) are already in the morning plan. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2069389262697414969",
       "timestamp_utc": "2026-06-23T11:57:02.000Z",
@@ -133,6 +124,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7424 named as new actionable overnight bull support ('bulls ideally want to hold 7424') \u2014 not in morning plan. 7509/7530 are reaffirmations."
+    },
+    {
+      "tweet_id": "2069749665323536517",
+      "timestamp_utc": "2026-06-24T11:49:08.000Z",
+      "timestamp_est": "2026-06-24T07:49:08-04:00",
+      "tweet_text": "This market remains all about one level ~7425. It was the Failed Breakdown here after 9:30AM yesterday that got us long for the rally to 7472 target. Last eve #ES_F tested 7425 *again* and bounced.\n\nPlan today: Just ride your runner. 7463, 7472, 7492, 7510=targets. 7425=support https://t.co/G52V8jfV5W",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7425, 7463, 7472, 7492, 7510) are either in the morning plan or trade management/target references. 7463 is closest to unlisted but framed as existing target list, not newly named actionable level."
+    },
+    {
+      "tweet_id": "2069750459233878342",
+      "timestamp_utc": "2026-06-24T11:52:18.000Z",
+      "timestamp_est": "2026-06-24T07:52:18-04:00",
+      "tweet_text": "Note: There is nothing to do here but ride runner - no change to newsletter entries. Readers know I do not trade low volatility chop. For me to even open my platform I need a volatility expansion/elevator down sell. If you engage chop, you are trading noise.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/commentary tweet. No prices named at all. Describes a no-trade condition (low volatility chop) with no actionable levels."
     }
   ]
 }
