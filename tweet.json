@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T14:11:45.763299+00:00",
-  "fetched_at_est": "2026-06-25T10:11:45.763311-04:00",
+  "fetched_at_utc": "2026-06-25T14:21:48.052615+00:00",
+  "fetched_at_est": "2026-06-25T10:21:48.052624-04:00",
   "last_new_level_added_at_est": "2026-06-25T10:06:39-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2069785738493706582",
-      "timestamp_utc": "2026-06-24T14:12:29.000Z",
-      "timestamp_est": "2026-06-24T10:12:29-04:00",
-      "tweet_text": "@CallingForPizza It does make it more likely, but again we don't want to predict anything. Just need to react to whatever it does and respond to triggers",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about methodology/philosophy. No price named, no actionable level, no naming language whatsoever."
-    },
     {
       "tweet_id": "2069794654720004129",
       "timestamp_utc": "2026-06-24T14:47:55.000Z",
