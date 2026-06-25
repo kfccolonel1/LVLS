@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T18:53:09.883557+00:00",
-  "fetched_at_est": "2026-06-25T14:53:09.883563-04:00",
+  "fetched_at_utc": "2026-06-25T19:13:16.479216+00:00",
+  "fetched_at_est": "2026-06-25T15:13:16.479221-04:00",
   "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
@@ -297,6 +297,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All referenced prices (7439, 7530) are morning-plan levels; 7472/7492 are trade targets from earlier post; 7510 not named with actionable naming language \u2014 observation/chop commentary only."
+    },
+    {
+      "tweet_id": "2070223393622827155",
+      "timestamp_utc": "2026-06-25T19:11:34.000Z",
+      "timestamp_est": "2026-06-25T15:11:34-04:00",
+      "tweet_text": "Closing update #ES_F: Other than the 10:18AM 7405 Failed Breakdown, its been a no trade day as ES chops in the 7421-7492 chop range. Just hold your runner as we fill the range out. Newsletter out soon with next entries from here. 7530 remains the magnet",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7405 is trade management/hindsight ref to earlier FBD, 7421/7492 are chop range observations, 7530 is a morning plan reaffirmation. No new actionable levels named."
     }
   ]
 }
