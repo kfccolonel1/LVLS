@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T13:11:10.674418+00:00",
-  "fetched_at_est": "2026-06-25T09:11:10.674426-04:00",
+  "fetched_at_utc": "2026-06-25T13:41:15.384156+00:00",
+  "fetched_at_est": "2026-06-25T09:41:15.384161-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069776362148094202",
-      "timestamp_utc": "2026-06-24T13:35:13.000Z",
-      "timestamp_est": "2026-06-24T09:35:13-04:00",
-      "tweet_text": "@bigwood340 We don't predict regardless - just stay long, ride the runner, and if we break down then we get a new long opportunity",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management/directional commentary. No specific price level named, no actionable trigger, entry, or watch point introduced."
-    },
     {
       "tweet_id": "2069781895504679339",
       "timestamp_utc": "2026-06-24T13:57:13.000Z",
