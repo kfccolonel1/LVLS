@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T17:42:41.482557+00:00",
-  "fetched_at_est": "2026-06-25T13:42:41.482562-04:00",
+  "fetched_at_utc": "2026-06-25T17:52:48.387320+00:00",
+  "fetched_at_est": "2026-06-25T13:52:48.387332-04:00",
   "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
@@ -299,6 +299,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7472 and 7492 named as resistance levels above; not in morning plan. 7439/7510/7530 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2070202384706384219",
+      "timestamp_utc": "2026-06-25T17:48:05.000Z",
+      "timestamp_est": "2026-06-25T13:48:05-04:00",
+      "tweet_text": "@NerdRageDan Just chop now. Needs another deep flush to look good from here, ideally below the daily low",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price named at all; purely directional commentary about needing a flush below daily low with no explicit actionable level cited."
+    },
+    {
+      "tweet_id": "2070203472268464545",
+      "timestamp_utc": "2026-06-25T17:52:24.000Z",
+      "timestamp_est": "2026-06-25T13:52:24-04:00",
+      "tweet_text": "@bigwood340 Much better! Just don't get this many setups when bulls control",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply to a user; no price named, no actionable level, no naming language whatsoever."
     }
   ]
 }
