@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T13:41:15.384156+00:00",
-  "fetched_at_est": "2026-06-25T09:41:15.384161-04:00",
+  "fetched_at_utc": "2026-06-25T13:51:30.108852+00:00",
+  "fetched_at_est": "2026-06-25T09:51:30.108859-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -241,6 +241,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7492 is a target hit (observation), 7510/7530 are reaffirmations of morning plan or prior posts, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2070141013373436329",
+      "timestamp_utc": "2026-06-25T13:44:13.000Z",
+      "timestamp_est": "2026-06-25T09:44:13-04:00",
+      "tweet_text": "Nothing to do still in #ES_F. Last long entry was 3:18PM yesterday on the 7408 low Failed Breakdown. We ran to 7492 target this morning, dipped. Now, sit on hands until the next big bear trap.\n\nReclaims of 52 now are a low quality entry to 72, 85, 92.\n\n7439/7425= weak supports https://t.co/NpGdiJJZzd",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7408, 7492, 7452, 7472, 7485, 7492, 7439, 7425) are morning-plan levels or observations/trade management references, not new actionable levels."
+    },
+    {
+      "tweet_id": "2070141868453630010",
+      "timestamp_utc": "2026-06-25T13:47:37.000Z",
+      "timestamp_est": "2026-06-25T09:47:37-04:00",
+      "tweet_text": "@NorthoverDaniel @CorlukaDejan I keep my size mostly the same as it keeps emotions in control, but yes I've become very selective. There's no way to have a high win rate unless your sniping, typically no more than one trade a trade a day, if that. Best day traders I've known are doing 1-2 scalps per week",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading style/frequency. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2070142487302222225",
+      "timestamp_utc": "2026-06-25T13:50:05.000Z",
+      "timestamp_est": "2026-06-25T09:50:05-04:00",
+      "tweet_text": "Note: Watch for reclaims of 7425 now or Failed Breakdowns of yesterday's daily low",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7425 is already in the morning plan; 'yesterday's daily low' is unnamed/unpriced. No new actionable level introduced."
     }
   ]
 }
