@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T18:22:59.823602+00:00",
-  "fetched_at_est": "2026-06-25T14:22:59.823607-04:00",
+  "fetched_at_utc": "2026-06-25T18:33:05.840177+00:00",
+  "fetched_at_est": "2026-06-25T14:33:05.840182-04:00",
   "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
@@ -317,6 +317,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply describing a condition (take out today's low) with no explicit price named; pure directional commentary, not an actionable level."
+    },
+    {
+      "tweet_id": "2070212329245909101",
+      "timestamp_utc": "2026-06-25T18:27:36.000Z",
+      "timestamp_est": "2026-06-25T14:27:36-04:00",
+      "tweet_text": "As posted not much to do now, just ride your long runner. We got today's long at 10:18AM, given live. It was the Failed Breakdown of yesterday's 7405 daily low in #ES_F. Targets were 7439, 7472, 7492. 7421-7492=a chop range. Then, we break to 7510, 7530.\n\n7530 is a magnet https://t.co/qiuZ7unGzq",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All referenced prices (7439, 7530) are morning-plan levels; 7472/7492 are trade targets from earlier post; 7510 not named with actionable naming language \u2014 observation/chop commentary only."
     }
   ]
 }
