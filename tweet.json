@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T20:13:23.478134+00:00",
-  "fetched_at_est": "2026-06-25T16:13:23.478143-04:00",
+  "fetched_at_utc": "2026-06-25T21:33:30.516991+00:00",
+  "fetched_at_est": "2026-06-25T17:33:30.516996-04:00",
   "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
@@ -42,15 +42,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2069895069620990104",
-      "timestamp_utc": "2026-06-24T21:26:56.000Z",
-      "timestamp_est": "2026-06-24T17:26:56-04:00",
-      "tweet_text": "@JKThompsonES Been an incredible day for Failed Breakdowns! Rushed to get the newsletter out early so people could catch that pre-close 7408 Failed Breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7408 is a hindsight reference to a trade that already occurred (pre-close FBD), not a new actionable level being named for the first time."
-    },
     {
       "tweet_id": "2070110946463305801",
       "timestamp_utc": "2026-06-25T11:44:45.000Z",
