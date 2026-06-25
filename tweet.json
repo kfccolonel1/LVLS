@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T14:51:56.059918+00:00",
-  "fetched_at_est": "2026-06-25T10:51:56.059925-04:00",
+  "fetched_at_utc": "2026-06-25T15:02:01.037318+00:00",
+  "fetched_at_est": "2026-06-25T11:02:01.037324-04:00",
   "last_new_level_added_at_est": "2026-06-25T10:06:39-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2069798065318334532",
-      "timestamp_utc": "2026-06-24T15:01:28.000Z",
-      "timestamp_est": "2026-06-24T11:01:28-04:00",
-      "tweet_text": "There's 7492 target #2 hit in in #ES_F. Runners paying nicely still from yesterday's 930AM 7427 Failed Breakdown. Today's targets given at 8am were 7463, 7472, 7492 (all hit). 7510 is next, then 7530.\n\n7530 backtests the Monday breakdown and it is a technical requirement it tests https://t.co/1kDZu6byKn",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7492, 7427, 7463, 7472, 7510, 7530) are morning plan levels or hindsight trade references; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2069821581216424097",
       "timestamp_utc": "2026-06-24T16:34:55.000Z",
@@ -322,6 +313,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a social reply/thank-you with no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2070158495266017443",
+      "timestamp_utc": "2026-06-25T14:53:41.000Z",
+      "timestamp_est": "2026-06-25T10:53:41-04:00",
+      "tweet_text": "We continue to rip nicely in #ES_F. Today's long was the Failed Breakdown of yesterday's 7405 daily low, given live and for free. We swept it to 7392, recovered, and off we went. Targets were 7425 (hit), 7439 (hit), 7492, 7510, then 7530 next.\n\nPlatform closed now, ride runner https://t.co/Y08wmzot5L",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7392 sweep obs, 7425/7439/7492/7510/7530 targets) are observations of existing plan levels or trade management. No new actionable levels named."
     }
   ]
 }
