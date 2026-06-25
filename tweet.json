@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T16:52:31.671558+00:00",
-  "fetched_at_est": "2026-06-25T12:52:31.671568-04:00",
+  "fetched_at_utc": "2026-06-25T17:32:36.254182+00:00",
+  "fetched_at_est": "2026-06-25T13:32:36.254188-04:00",
   "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
@@ -42,24 +42,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2069833853510815915",
-      "timestamp_utc": "2026-06-24T17:23:40.000Z",
-      "timestamp_est": "2026-06-24T13:23:40-04:00",
-      "tweet_text": "@sckdds In my experience probably 95% of the time. Very rare they don't backtest. This one should backtest too",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about backtest probability; no price named, no actionable level, no naming language."
-    },
-    {
-      "tweet_id": "2069834354948239531",
-      "timestamp_utc": "2026-06-24T17:25:40.000Z",
-      "timestamp_est": "2026-06-24T13:25:40-04:00",
-      "tweet_text": "Mini volatility injection in #ES_F finally. We are back to the 7425 magnet which was the only support listed for today. Today's targets were 7462 (hit), 7472 (hit), 7492 (hit). 7510, 7530 (this is a magnet that must backtest) remain above\n\nWatch traps here. 7399, 7383 below https://t.co/uVPqm8l7nd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7425, 7462, 7472, 7492, 7510, 7530, 7399, 7383) are morning-plan levels or observations of hits; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2069836575450513812",
       "timestamp_utc": "2026-06-24T17:34:29.000Z",
