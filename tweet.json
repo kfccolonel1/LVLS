@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T15:12:06.010396+00:00",
-  "fetched_at_est": "2026-06-25T11:12:06.010401-04:00",
-  "last_new_level_added_at_est": "2026-06-25T10:06:39-04:00",
+  "fetched_at_utc": "2026-06-25T16:12:18.626509+00:00",
+  "fetched_at_est": "2026-06-25T12:12:18.626520-04:00",
+  "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
       "price": 7405.0,
@@ -32,6 +32,13 @@
       "added_at_est": "2026-06-25T10:06:39-04:00",
       "expires_at_est": "2026-06-25T18:06:39-04:00",
       "from_tweet_id": "2070146659284033970"
+    },
+    {
+      "price": 7472.0,
+      "side": "bull",
+      "added_at_est": "2026-06-25T12:10:58-04:00",
+      "expires_at_est": "2026-06-25T20:10:58-04:00",
+      "from_tweet_id": "2070177942202646985"
     }
   ],
   "updates": [
@@ -331,6 +338,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply referencing a prior newsletter link \u2014 no price levels named, no actionable language, purely conversational/reference."
+    },
+    {
+      "tweet_id": "2070177942202646985",
+      "timestamp_utc": "2026-06-25T16:10:58.000Z",
+      "timestamp_est": "2026-06-25T12:10:58-04:00",
+      "tweet_text": "Sit on hands. 1-2x per day, #ES_F produces a large volatility expansion. That is the cue to trade. This then sets up a Failed Breakdown (today it was of the 7405 low, given live). Then, close platform. \n\nTargets were 7425, 7439 (both hit). 7472, 7492, 7510, 7530 next. 7530=magnet https://t.co/25nhLeOyDv",
+      "added_bull_levels": [
+        7472.0,
+        7492.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7472 and 7492 are named as 'next' upside targets not in morning plan. 7425/7439/7510/7530 are morning-plan levels; omitted."
+    },
+    {
+      "tweet_id": "2070178109001764934",
+      "timestamp_utc": "2026-06-25T16:11:37.000Z",
+      "timestamp_est": "2026-06-25T12:11:37-04:00",
+      "tweet_text": "@hcooper0113 Yes. 7530 has to backtest still though, its a magnet. We're making our way up there slowly",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7530 is already in the morning plan; tweet is a conversational reaffirmation/observation of price action, not a new actionable level."
     }
   ]
 }
