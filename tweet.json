@@ -1,20 +1,26 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T13:51:30.108852+00:00",
-  "fetched_at_est": "2026-06-25T09:51:30.108859-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-06-25T14:01:38.270860+00:00",
+  "fetched_at_est": "2026-06-25T10:01:38.270871-04:00",
+  "last_new_level_added_at_est": "2026-06-25T09:56:01-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2069781895504679339",
-      "timestamp_utc": "2026-06-24T13:57:13.000Z",
-      "timestamp_est": "2026-06-24T09:57:13-04:00",
-      "tweet_text": "There's the precise tap of 7472 target #2. Today's #ES_F targets were 7463 (hit), 7472 (hit), 7492, 7510 next. Again this is just pure chop, so ride runner from yesterday's 930AM 7427 Failed Breakdown. Nothing else to do.\n\n7425 remains support. Micro supports in newsletter https://t.co/ow3o4GBOe8",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7472, 7492, 7510, 7463, 7427, 7425) are morning-plan levels or trade management/hindsight references. No new actionable levels named."
+      "price": 7405.0,
+      "side": "bull",
+      "added_at_est": "2026-06-25T09:56:01-04:00",
+      "expires_at_est": "2026-06-25T17:56:01-04:00",
+      "from_tweet_id": "2070143983557160992"
     },
+    {
+      "price": 7383.0,
+      "side": "bear",
+      "added_at_est": "2026-06-25T09:56:01-04:00",
+      "expires_at_est": "2026-06-25T17:56:01-04:00",
+      "from_tweet_id": "2070143983557160992"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2069785738493706582",
       "timestamp_utc": "2026-06-24T14:12:29.000Z",
@@ -268,6 +274,28 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7425 is already in the morning plan; 'yesterday's daily low' is unnamed/unpriced. No new actionable level introduced."
+    },
+    {
+      "tweet_id": "2070143983557160992",
+      "timestamp_utc": "2026-06-25T13:56:01.000Z",
+      "timestamp_est": "2026-06-25T09:56:01-04:00",
+      "tweet_text": "We are finally getting today's volatility expansion, which means we can stalk entries. I only trade on vol expansions. Last long was the 3:18PM 7408 Failed Breakdown that took us to 7492 target in #ES_F.\n\nWatch recoveries of 7405 now to trigger to 7425+. 7383, 7365 are below now https://t.co/XKIMWRJWt9",
+      "added_bull_levels": [
+        7405.0
+      ],
+      "added_bear_levels": [
+        7383.0
+      ],
+      "notes": "7405 named as new bull trigger ('watch recoveries of 7405 now to trigger to 7425+'); 7383 named as new bear support below. 7365/7425 are morning-plan levels."
+    },
+    {
+      "tweet_id": "2070145128233066875",
+      "timestamp_utc": "2026-06-25T14:00:34.000Z",
+      "timestamp_est": "2026-06-25T10:00:34-04:00",
+      "tweet_text": "@CorlukaDejan When I say bears control in the newsletter I just mean we should expect bounces to have trouble sustaining. We will still get great bounces though. The best longs are when bears control",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels named at all; purely directional/contextual commentary explaining market bias and bounce expectations."
     }
   ]
 }
