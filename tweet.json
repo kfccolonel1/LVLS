@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T02:39:57.055089+00:00",
-  "fetched_at_est": "2026-06-24T22:39:57.055097-04:00",
+  "fetched_at_utc": "2026-06-25T11:50:48.892333+00:00",
+  "fetched_at_est": "2026-06-25T07:50:48.892338-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069749665323536517",
-      "timestamp_utc": "2026-06-24T11:49:08.000Z",
-      "timestamp_est": "2026-06-24T07:49:08-04:00",
-      "tweet_text": "This market remains all about one level ~7425. It was the Failed Breakdown here after 9:30AM yesterday that got us long for the rally to 7472 target. Last eve #ES_F tested 7425 *again* and bounced.\n\nPlan today: Just ride your runner. 7463, 7472, 7492, 7510=targets. 7425=support https://t.co/G52V8jfV5W",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7425, 7463, 7472, 7492, 7510) are either in the morning plan or trade management/target references. 7463 is closest to unlisted but framed as existing target list, not newly named actionable level."
-    },
     {
       "tweet_id": "2069750459233878342",
       "timestamp_utc": "2026-06-24T11:52:18.000Z",
@@ -259,6 +250,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7408 is a hindsight reference to a trade that already occurred (pre-close FBD), not a new actionable level being named for the first time."
+    },
+    {
+      "tweet_id": "2070110946463305801",
+      "timestamp_utc": "2026-06-25T11:44:45.000Z",
+      "timestamp_est": "2026-06-25T07:44:45-04:00",
+      "tweet_text": "Yesterday's newsletter was sent early at 2:50PM in preparation for a long in #ES_F: The Failed Breakdown of the 7408 low. At 3:08PM, we swept 7408 to 7405, recovered, &amp; longed. We are +70\n\nPlan today: Ride runner until next bear trap. 7492, 7510, 7530 magnet next. 39/25=supports https://t.co/KuDChg5WnJ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7408/7405=hindsight trade, 7492/7510/7530/7439/7425=morning plan levels) are existing plan levels or historical references. 7492 not in plan but framed as runner target/magnet, not a new named actionable level with naming language."
     }
   ]
 }
