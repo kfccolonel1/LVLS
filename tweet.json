@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T11:50:48.892333+00:00",
-  "fetched_at_est": "2026-06-25T07:50:48.892338-04:00",
+  "fetched_at_utc": "2026-06-25T12:00:56.872675+00:00",
+  "fetched_at_est": "2026-06-25T08:00:56.872687-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069750459233878342",
-      "timestamp_utc": "2026-06-24T11:52:18.000Z",
-      "timestamp_est": "2026-06-24T07:52:18-04:00",
-      "tweet_text": "Note: There is nothing to do here but ride runner - no change to newsletter entries. Readers know I do not trade low volatility chop. For me to even open my platform I need a volatility expansion/elevator down sell. If you engage chop, you are trading noise.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management/commentary tweet. No prices named at all. Describes a no-trade condition (low volatility chop) with no actionable levels."
-    },
-    {
-      "tweet_id": "2069751925256409592",
-      "timestamp_utc": "2026-06-24T11:58:07.000Z",
-      "timestamp_est": "2026-06-24T07:58:07-04:00",
-      "tweet_text": "@mainftr Yes quite often...usually volatility also dies mid day. Not always though. Most days we get at least one good volatility expansion typically in then morning. Then I make my trade and shut down the platform. Can't trade low volatility",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading habits and volatility patterns. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2069767174294573494",
       "timestamp_utc": "2026-06-24T12:58:43.000Z",
@@ -259,6 +241,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7408/7405=hindsight trade, 7492/7510/7530/7439/7425=morning plan levels) are existing plan levels or historical references. 7492 not in plan but framed as runner target/magnet, not a new named actionable level with naming language."
+    },
+    {
+      "tweet_id": "2070113127681651058",
+      "timestamp_utc": "2026-06-25T11:53:25.000Z",
+      "timestamp_est": "2026-06-25T07:53:25-04:00",
+      "tweet_text": "@CorlukaDejan That would count, but not something I'd take (I won't trade today unless we lose yesterday's low)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price level named; purely a conditional/behavioral statement about trading intent with no actionable price cited."
+    },
+    {
+      "tweet_id": "2070113240525201693",
+      "timestamp_utc": "2026-06-25T11:53:52.000Z",
+      "timestamp_est": "2026-06-25T07:53:52-04:00",
+      "tweet_text": "@CorlukaDejan I am very strict though with my entries and won't take a Failed Breakdown unless its basically 100% win rate which means I need to wait for huge volatility expansions",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining entry discipline for Failed Breakdowns; no price levels named or actionable triggers given."
     }
   ]
 }
