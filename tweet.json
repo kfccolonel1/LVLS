@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T18:02:54.024912+00:00",
-  "fetched_at_est": "2026-06-25T14:02:54.024925-04:00",
+  "fetched_at_utc": "2026-06-25T18:22:59.823602+00:00",
+  "fetched_at_est": "2026-06-25T14:22:59.823607-04:00",
   "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
@@ -308,6 +308,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7510-7530 range references already-published morning plan levels (7513, 7530); rest is directional commentary/opinion, no new actionable level named."
+    },
+    {
+      "tweet_id": "2070209095785701874",
+      "timestamp_utc": "2026-06-25T18:14:45.000Z",
+      "timestamp_est": "2026-06-25T14:14:45-04:00",
+      "tweet_text": "@DrJonnyBros We'd need to take out today's low and put in another big failed breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply describing a condition (take out today's low) with no explicit price named; pure directional commentary, not an actionable level."
     }
   ]
 }
