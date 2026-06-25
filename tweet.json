@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T12:00:56.872675+00:00",
-  "fetched_at_est": "2026-06-25T08:00:56.872687-04:00",
+  "fetched_at_utc": "2026-06-25T13:01:04.881645+00:00",
+  "fetched_at_est": "2026-06-25T09:01:04.881649-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2069767174294573494",
-      "timestamp_utc": "2026-06-24T12:58:43.000Z",
-      "timestamp_est": "2026-06-24T08:58:43-04:00",
-      "tweet_text": "Nice pop to 7463 1st target in #ES_F but this is pure chop now. I don't trade chop. To open my platform, I need an elevator down sell and volatility expansion. Last trade was the 930AM 7427 Failed Breakdown ysd morning, which ran +70\n\n7463, 7472, 7492, 7510 next. 7425=support https://t.co/bGTnEbd47x",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7463 is an observation of price hit; 7472/7492/7510/7425 are all morning-plan reaffirmations. No new actionable levels named for the first time."
-    },
-    {
-      "tweet_id": "2069767299419013567",
-      "timestamp_utc": "2026-06-24T12:59:13.000Z",
-      "timestamp_est": "2026-06-24T08:59:13-04:00",
-      "tweet_text": "@CallingForPizza Hopefully can get it today! Nice little bear flag here so fingers crossed it breaks down and we get some red, which means trades",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with general directional commentary ('bear flag', 'some red') but no explicit actionable price level named."
-    },
     {
       "tweet_id": "2069776362148094202",
       "timestamp_utc": "2026-06-24T13:35:13.000Z",
