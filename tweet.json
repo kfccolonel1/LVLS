@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T14:21:48.052615+00:00",
-  "fetched_at_est": "2026-06-25T10:21:48.052624-04:00",
+  "fetched_at_utc": "2026-06-25T14:31:53.287732+00:00",
+  "fetched_at_est": "2026-06-25T10:31:53.287737-04:00",
   "last_new_level_added_at_est": "2026-06-25T10:06:39-04:00",
   "todays_new_levels": [
     {
@@ -322,6 +322,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply; no price levels named, no actionable language, no new levels of any kind."
+    },
+    {
+      "tweet_id": "2070150867106279460",
+      "timestamp_utc": "2026-06-25T14:23:22.000Z",
+      "timestamp_est": "2026-06-25T10:23:22-04:00",
+      "tweet_text": "@Mcloud4004 @BrianMelcher24 Appreciate it, and thanks for the subscribe!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a social reply/thank-you with no price levels mentioned at all."
     }
   ]
 }
