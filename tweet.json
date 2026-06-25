@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T18:43:07.796455+00:00",
-  "fetched_at_est": "2026-06-25T14:43:07.796460-04:00",
+  "fetched_at_utc": "2026-06-25T18:53:09.883557+00:00",
+  "fetched_at_est": "2026-06-25T14:53:09.883563-04:00",
   "last_new_level_added_at_est": "2026-06-25T12:10:58-04:00",
   "todays_new_levels": [
     {
@@ -42,15 +42,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2069855484824232004",
-      "timestamp_utc": "2026-06-24T18:49:38.000Z",
-      "timestamp_est": "2026-06-24T14:49:38-04:00",
-      "tweet_text": "@traptrade Typical spot from newsletter. 7415 was the entry. Enter a little above 7420 via non acceptance protocol.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7415 is a morning-plan level (reaffirmation). 7420 is a minor execution tweak via 'non-acceptance protocol', not a newly named major actionable level."
-    },
     {
       "tweet_id": "2069865113675259976",
       "timestamp_utc": "2026-06-24T19:27:53.000Z",
