@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-25T13:01:04.881645+00:00",
-  "fetched_at_est": "2026-06-25T09:01:04.881649-04:00",
+  "fetched_at_utc": "2026-06-25T13:11:10.674418+00:00",
+  "fetched_at_est": "2026-06-25T09:11:10.674426-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -241,6 +241,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining entry discipline for Failed Breakdowns; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2070131574113226946",
+      "timestamp_utc": "2026-06-25T13:06:43.000Z",
+      "timestamp_est": "2026-06-25T09:06:43-04:00",
+      "tweet_text": "There's 7492 1st target hit in #ES_F. Nothing to do now at all. Last entry was after 3pm yesterday: The Failed Breakdown of 7408. We swept it, recovered, got long, went +70. 7510, 7530 remain next. 7530 is a magnet from here as posted all week.\n\nNo change to supports https://t.co/uV1XlNWu1V",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7492 is a target hit (observation), 7510/7530 are reaffirmations of morning plan or prior posts, no new actionable levels named."
     }
   ]
 }
