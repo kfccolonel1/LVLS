@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T12:55:11.031835+00:00",
-  "fetched_at_est": "2026-06-26T08:55:11.031846-04:00",
+  "fetched_at_utc": "2026-06-26T13:05:16.276890+00:00",
+  "fetched_at_est": "2026-06-26T09:05:16.276895-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -263,6 +263,15 @@
         7383.0
       ],
       "notes": "7383 explicitly named as support for first time \u2014 not in morning plan. 'Things could unravel below 83' adds actionable bear trigger context."
+    },
+    {
+      "tweet_id": "2070492738210906285",
+      "timestamp_utc": "2026-06-26T13:01:51.000Z",
+      "timestamp_est": "2026-06-26T09:01:51-04:00",
+      "tweet_text": "@StephenJ223624 @Mcloud4004 I always get in later and higher but I am win rate focused not R/R focused. Sometimes it means I am getting in 10 or 15 points above the entry trigger if price is really ripping, but that is fine for me. I want to see momentum and conviction",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining personal trading style/methodology; no specific price levels named, no actionable triggers or supports/resistances mentioned."
     }
   ]
 }
