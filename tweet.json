@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T18:46:48.889475+00:00",
-  "fetched_at_est": "2026-06-26T14:46:48.889480-04:00",
+  "fetched_at_utc": "2026-06-26T18:56:53.700389+00:00",
+  "fetched_at_est": "2026-06-26T14:56:53.700395-04:00",
   "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
@@ -216,6 +216,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet discussing probabilities and timing with no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2070580302972371192",
+      "timestamp_utc": "2026-06-26T18:49:48.000Z",
+      "timestamp_est": "2026-06-26T14:49:48-04:00",
+      "tweet_text": "@VeganP16776 Entries are all given in advance in the newsletter in very specific terms",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet referencing newsletter entries; no price named, no actionable level introduced."
     }
   ]
 }
