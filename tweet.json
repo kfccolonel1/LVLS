@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T13:25:29.064216+00:00",
-  "fetched_at_est": "2026-06-26T09:25:29.064232-04:00",
+  "fetched_at_utc": "2026-06-26T13:45:31.983963+00:00",
+  "fetched_at_est": "2026-06-26T09:45:31.983969-04:00",
   "last_new_level_added_at_est": "2026-06-26T09:05:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070141013373436329",
-      "timestamp_utc": "2026-06-25T13:44:13.000Z",
-      "timestamp_est": "2026-06-25T09:44:13-04:00",
-      "tweet_text": "Nothing to do still in #ES_F. Last long entry was 3:18PM yesterday on the 7408 low Failed Breakdown. We ran to 7492 target this morning, dipped. Now, sit on hands until the next big bear trap.\n\nReclaims of 52 now are a low quality entry to 72, 85, 92.\n\n7439/7425= weak supports https://t.co/NpGdiJJZzd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7408, 7492, 7452, 7472, 7485, 7492, 7439, 7425) are morning-plan levels or observations/trade management references, not new actionable levels."
-    },
     {
       "tweet_id": "2070141868453630010",
       "timestamp_utc": "2026-06-25T13:47:37.000Z",
