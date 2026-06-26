@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T11:54:45.586786+00:00",
-  "fetched_at_est": "2026-06-26T07:54:45.586790-04:00",
+  "fetched_at_utc": "2026-06-26T12:04:51.281295+00:00",
+  "fetched_at_est": "2026-06-26T08:04:51.281299-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -216,6 +216,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7405 is trade management/hindsight ref to earlier FBD, 7421/7492 are chop range observations, 7530 is a morning plan reaffirmation. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2070476790355652902",
+      "timestamp_utc": "2026-06-26T11:58:29.000Z",
+      "timestamp_est": "2026-06-26T07:58:29-04:00",
+      "tweet_text": "Finally another vol expansion in #ES_F. Overnight traders gifted a low quality Failed Breakdown. Failed Breakdown of 7392 was trigger given in newsletter. 240am we recovered, ran +22,sold\n\nPlan today: 7392 must reclaim to see 7398, 7407, 7421+. Bears control&lt;21. 72, 52, 38 below https://t.co/xLXPahQry8",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7407 appears new but is likely rounding of morning-plan 7410; all other prices (7392,7398,7421,7372,7352,7338) are reaffirmations of published morning levels."
     }
   ]
 }
