@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T12:45:03.451322+00:00",
-  "fetched_at_est": "2026-06-26T08:45:03.451327-04:00",
+  "fetched_at_utc": "2026-06-26T12:55:11.031835+00:00",
+  "fetched_at_est": "2026-06-26T08:55:11.031846-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -243,6 +243,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining FBD criteria at 7372 (morning plan level); no new actionable price named, purely educational/contextual commentary."
+    },
+    {
+      "tweet_id": "2070490643797778459",
+      "timestamp_utc": "2026-06-26T12:53:31.000Z",
+      "timestamp_est": "2026-06-26T08:53:31-04:00",
+      "tweet_text": "@Mcloud4004 @StephenJ223624 They're fine trades just need to prepared to get in and out quickly. Often goes a level or two and fails and does this several times before a big recovery",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Purely conversational trading advice about managing quick trades; no specific price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2070490798282453091",
+      "timestamp_utc": "2026-06-26T12:54:08.000Z",
+      "timestamp_est": "2026-06-26T08:54:08-04:00",
+      "tweet_text": "Note: 7383 is also support. Bears remain in full control, but things could unravel below 83",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7383.0
+      ],
+      "notes": "7383 explicitly named as support for first time \u2014 not in morning plan. 'Things could unravel below 83' adds actionable bear trigger context."
     }
   ]
 }
