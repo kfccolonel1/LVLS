@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T17:56:34.865179+00:00",
-  "fetched_at_est": "2026-06-26T13:56:34.865186-04:00",
+  "fetched_at_utc": "2026-06-26T18:16:41.067396+00:00",
+  "fetched_at_est": "2026-06-26T14:16:41.067401-04:00",
   "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070209095785701874",
-      "timestamp_utc": "2026-06-25T18:14:45.000Z",
-      "timestamp_est": "2026-06-25T14:14:45-04:00",
-      "tweet_text": "@DrJonnyBros We'd need to take out today's low and put in another big failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply describing a condition (take out today's low) with no explicit price named; pure directional commentary, not an actionable level."
-    },
     {
       "tweet_id": "2070212329245909101",
       "timestamp_utc": "2026-06-25T18:27:36.000Z",
@@ -216,6 +207,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7530 (~7532.5) is a morning plan level; this is a reaffirmation/observation ('still the magnet'), not a new actionable level."
+    },
+    {
+      "tweet_id": "2070570958142779839",
+      "timestamp_utc": "2026-06-26T18:12:40.000Z",
+      "timestamp_est": "2026-06-26T14:12:40-04:00",
+      "tweet_text": "Day is done in #ES_F, just ride runner now. We don't trade chop *ever* in ES. 7392 Reclaim was long trigger with 7421 target. We hit 7421. 7421 returns part control to bulls setting up 7439 (hit), 7452 (hit). 7473, 7493, then 7530 magnet remain next from here https://t.co/FjMNgCegS7",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7392,7421,7439,7452,7473,7493,7530) are morning-plan levels or observations of hits; 7439 is a reference not in plan but framed as hindsight/observation, not actionable naming."
     }
   ]
 }
