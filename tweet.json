@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T17:16:29.426706+00:00",
-  "fetched_at_est": "2026-06-26T13:16:29.426711-04:00",
+  "fetched_at_utc": "2026-06-26T17:46:33.008820+00:00",
+  "fetched_at_est": "2026-06-26T13:46:33.008829-04:00",
   "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
@@ -28,18 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070199615975051474",
-      "timestamp_utc": "2026-06-25T17:37:05.000Z",
-      "timestamp_est": "2026-06-25T13:37:05-04:00",
-      "tweet_text": "We remain in a range 7425-7492 and back at range support now. The last long given was the 7405 Failed Breakdown of yesterday's low that paid 70 points. Now, just ride runner in #ES_F.\n\n7439, 7472, 7492 remain above. Then 7510, 7530 which is the magnet level that must test https://t.co/LT70JHQsAn",
-      "added_bull_levels": [
-        7472.0,
-        7492.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7472 and 7492 named as resistance levels above; not in morning plan. 7439/7510/7530 are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2070202384706384219",
       "timestamp_utc": "2026-06-25T17:48:05.000Z",
