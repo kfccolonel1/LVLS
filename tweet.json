@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T14:15:41.085377+00:00",
-  "fetched_at_est": "2026-06-26T10:15:41.085385-04:00",
+  "fetched_at_utc": "2026-06-26T14:25:46.962052+00:00",
+  "fetched_at_est": "2026-06-26T10:25:46.962058-04:00",
   "last_new_level_added_at_est": "2026-06-26T09:05:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070150867106279460",
-      "timestamp_utc": "2026-06-25T14:23:22.000Z",
-      "timestamp_est": "2026-06-25T10:23:22-04:00",
-      "tweet_text": "@Mcloud4004 @BrianMelcher24 Appreciate it, and thanks for the subscribe!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a social reply/thank-you with no price levels mentioned at all."
-    },
     {
       "tweet_id": "2070158495266017443",
       "timestamp_utc": "2026-06-25T14:53:41.000Z",
@@ -249,6 +240,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7392, 7398, 7407, 7421, 7439, 7452) are either morning-plan levels or observations of price action already hit; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2070512572445429782",
+      "timestamp_utc": "2026-06-26T14:20:40.000Z",
+      "timestamp_est": "2026-06-26T10:20:40-04:00",
+      "tweet_text": "@khaled912983977 I never said anywhere I wouldn't take 92 and It very clearly reclaimed",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet defending a prior call on 7392; no actionable naming language, no new level introduced \u2014 pure conversational defense."
     }
   ]
 }
