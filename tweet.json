@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T16:56:18.986523+00:00",
-  "fetched_at_est": "2026-06-26T12:56:18.986530-04:00",
+  "fetched_at_utc": "2026-06-26T17:06:24.193443+00:00",
+  "fetched_at_est": "2026-06-26T13:06:24.193448-04:00",
   "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
@@ -237,6 +237,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user suggesting backtesting a long; no price named, no actionable level, pure conversational."
+    },
+    {
+      "tweet_id": "2070553784674123852",
+      "timestamp_utc": "2026-06-26T17:04:25.000Z",
+      "timestamp_est": "2026-06-26T13:04:25-04:00",
+      "tweet_text": "Nothing to do now but ride runner. As always chop in #ES_F is *never* traded. Only trade huge vol expansions. 7392 Reclaim was today's long trigger. Targets given were 7398, 7407, 7421 (hit). 7421 flipped partial control to bulls.\n\n7439 (Hit), 7452 (hit), 7472, 7493, 7530 next https://t.co/0u3Y875ggv",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices cited (7392,7398,7407,7421,7439,7452,7472,7493,7530) are morning-plan levels or hit-price observations; no new actionable levels named."
     }
   ]
 }
