@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T14:25:46.962052+00:00",
-  "fetched_at_est": "2026-06-26T10:25:46.962058-04:00",
-  "last_new_level_added_at_est": "2026-06-26T09:05:52-04:00",
+  "fetched_at_utc": "2026-06-26T14:45:52.840081+00:00",
+  "fetched_at_est": "2026-06-26T10:45:52.840086-04:00",
+  "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
       "price": 7407.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-06-26T09:05:52-04:00",
       "expires_at_est": "2026-06-26T17:05:52-04:00",
       "from_tweet_id": "2070493751512912016"
+    },
+    {
+      "price": 7439.0,
+      "side": "bull",
+      "added_at_est": "2026-06-26T10:43:30-04:00",
+      "expires_at_est": "2026-06-26T18:43:30-04:00",
+      "from_tweet_id": "2070518320395133099"
     }
   ],
   "updates": [
@@ -249,6 +256,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet defending a prior call on 7392; no actionable naming language, no new level introduced \u2014 pure conversational defense."
+    },
+    {
+      "tweet_id": "2070518320395133099",
+      "timestamp_utc": "2026-06-26T14:43:30.000Z",
+      "timestamp_est": "2026-06-26T10:43:30-04:00",
+      "tweet_text": "There's 7421 tagged #ES_F. This has been range support all week and its a messy, choppy zone that we do not trade around. Long trigger was the 7392 recovery. Targets were 7398 (hit), 7407 (hit), 7421 (hit).\n\nBulls must chew through the massive supply here now. Then, 7439, 7452+ https://t.co/NzWPAWciQE",
+      "added_bull_levels": [
+        7439.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7439 named explicitly as next bull target above 7421 supply zone \u2014 not in morning plan. 7452 is a morning plan level (reaffirmation)."
     }
   ]
 }
