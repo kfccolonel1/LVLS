@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T13:15:21.898493+00:00",
-  "fetched_at_est": "2026-06-26T09:15:21.898497-04:00",
+  "fetched_at_utc": "2026-06-26T13:25:29.064216+00:00",
+  "fetched_at_est": "2026-06-26T09:25:29.064232-04:00",
   "last_new_level_added_at_est": "2026-06-26T09:05:52-04:00",
   "todays_new_levels": [
     {
@@ -292,6 +292,24 @@
         7352.0
       ],
       "notes": "7407 named as upside target (not in morning plan); 7383 and 7352 named as explicit downside supports below 7392 (not in morning plan)."
+    },
+    {
+      "tweet_id": "2070497043064172545",
+      "timestamp_utc": "2026-06-26T13:18:57.000Z",
+      "timestamp_est": "2026-06-26T09:18:57-04:00",
+      "tweet_text": "@RobyArnoldi We just popped to 7398 1st up and sold. Remember this trade already played overnight per the newsletter. Its now a used up level reclaim in bearish control. Can still take it but just need to aggressively take profits",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7398 is a morning plan level (reaffirmation). Tweet is trade management advice (take profits aggressively) on an already-published level, not a new actionable price."
+    },
+    {
+      "tweet_id": "2070497281996968144",
+      "timestamp_utc": "2026-06-26T13:19:54.000Z",
+      "timestamp_est": "2026-06-26T09:19:54-04:00",
+      "tweet_text": "@RobyArnoldi https://t.co/KqjkqAz7k3",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply with only a URL and a username mention \u2014 no price levels named, no actionable content."
     }
   ]
 }
