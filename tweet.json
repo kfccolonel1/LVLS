@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T13:55:33.989854+00:00",
-  "fetched_at_est": "2026-06-26T09:55:33.989861-04:00",
+  "fetched_at_utc": "2026-06-26T14:05:38.949277+00:00",
+  "fetched_at_est": "2026-06-26T10:05:38.949281-04:00",
   "last_new_level_added_at_est": "2026-06-26T09:05:52-04:00",
   "todays_new_levels": [
     {
@@ -21,28 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070143983557160992",
-      "timestamp_utc": "2026-06-25T13:56:01.000Z",
-      "timestamp_est": "2026-06-25T09:56:01-04:00",
-      "tweet_text": "We are finally getting today's volatility expansion, which means we can stalk entries. I only trade on vol expansions. Last long was the 3:18PM 7408 Failed Breakdown that took us to 7492 target in #ES_F.\n\nWatch recoveries of 7405 now to trigger to 7425+. 7383, 7365 are below now https://t.co/XKIMWRJWt9",
-      "added_bull_levels": [
-        7405.0
-      ],
-      "added_bear_levels": [
-        7383.0
-      ],
-      "notes": "7405 named as new bull trigger ('watch recoveries of 7405 now to trigger to 7425+'); 7383 named as new bear support below. 7365/7425 are morning-plan levels."
-    },
-    {
-      "tweet_id": "2070145128233066875",
-      "timestamp_utc": "2026-06-25T14:00:34.000Z",
-      "timestamp_est": "2026-06-25T10:00:34-04:00",
-      "tweet_text": "@CorlukaDejan When I say bears control in the newsletter I just mean we should expect bounces to have trouble sustaining. We will still get great bounces though. The best longs are when bears control",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels named at all; purely directional/contextual commentary explaining market bias and bounce expectations."
-    },
     {
       "tweet_id": "2070146659284033970",
       "timestamp_utc": "2026-06-25T14:06:39.000Z",
@@ -283,6 +261,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply with only a URL and a username mention \u2014 no price levels named, no actionable content."
+    },
+    {
+      "tweet_id": "2070508481652588668",
+      "timestamp_utc": "2026-06-26T14:04:24.000Z",
+      "timestamp_est": "2026-06-26T10:04:24-04:00",
+      "tweet_text": "Today is all about 7392 which #ES_F attempts reclaims of over and over. I posted 7392 reclaims see 7398 (hit 2x today), 7407 (hit), 7421 (not yet). 7421 was support all week which has now failed. Bears retain full, 100% control below there.\n\n7439, 7452+ above it https://t.co/eVwJuPgX6A",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7392, 7398, 7407, 7421, 7439, 7452) are either morning-plan levels or observations of price action already hit; no new actionable levels introduced."
     }
   ]
 }
