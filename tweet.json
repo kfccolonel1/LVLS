@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T14:55:54.856854+00:00",
-  "fetched_at_est": "2026-06-26T10:55:54.856860-04:00",
+  "fetched_at_utc": "2026-06-26T15:05:56.770702+00:00",
+  "fetched_at_est": "2026-06-26T11:05:56.770709-04:00",
   "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070161292183158816",
-      "timestamp_utc": "2026-06-25T15:04:48.000Z",
-      "timestamp_est": "2026-06-25T11:04:48-04:00",
-      "tweet_text": "@RChew1119 Tweeted here: Also was in newsletter though https://t.co/HqdVj4zyAI",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply referencing a prior newsletter link \u2014 no price levels named, no actionable language, purely conversational/reference."
-    },
     {
       "tweet_id": "2070177942202646985",
       "timestamp_utc": "2026-06-25T16:10:58.000Z",
