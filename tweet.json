@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T16:46:16.869755+00:00",
-  "fetched_at_est": "2026-06-26T12:46:16.869763-04:00",
+  "fetched_at_utc": "2026-06-26T16:56:18.986523+00:00",
+  "fetched_at_est": "2026-06-26T12:56:18.986530-04:00",
   "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070188075641077947",
-      "timestamp_utc": "2026-06-25T16:51:14.000Z",
-      "timestamp_est": "2026-06-25T12:51:14-04:00",
-      "tweet_text": "Little to do now but sit on hands in #ES_F. The long was the Failed Breakdown of yesterday's 7405 daily low. We ran +70. Targets were 7425, 7439 (both hit). 7472 (hit),7492, 7510, 7530 still above.\n\n7425-7492=a multiday chop range as we prep for trend https://t.co/zWDqrT1axy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7472 and 7492 mentioned as targets but are observations of prior trade/hindsight refs; 7425/7439/7530 are morning-plan levels; 7472/7492 lack explicit actionable naming language."
-    },
     {
       "tweet_id": "2070199615975051474",
       "timestamp_utc": "2026-06-25T17:37:05.000Z",
