@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T12:04:51.281295+00:00",
-  "fetched_at_est": "2026-06-26T08:04:51.281299-04:00",
+  "fetched_at_utc": "2026-06-26T12:24:57.323428+00:00",
+  "fetched_at_est": "2026-06-26T08:24:57.323432-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -225,6 +225,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7407 appears new but is likely rounding of morning-plan 7410; all other prices (7392,7398,7421,7372,7352,7338) are reaffirmations of published morning levels."
+    },
+    {
+      "tweet_id": "2070481233813914077",
+      "timestamp_utc": "2026-06-26T12:16:08.000Z",
+      "timestamp_est": "2026-06-26T08:16:08-04:00",
+      "tweet_text": "@schwartzaman Its definitely a significant low, but I'd expect lower win rate Failed Breakdowns down there since we've broken structure at 7421. This is fine though, I'm only looking for 5 points a day usually so anymore is bonus",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing existing morning plan level 7421; no new actionable price named with naming language."
     }
   ]
 }
