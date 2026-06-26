@@ -1,20 +1,26 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T13:05:16.276890+00:00",
-  "fetched_at_est": "2026-06-26T09:05:16.276895-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-06-26T13:15:21.898493+00:00",
+  "fetched_at_est": "2026-06-26T09:15:21.898497-04:00",
+  "last_new_level_added_at_est": "2026-06-26T09:05:52-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2070131574113226946",
-      "timestamp_utc": "2026-06-25T13:06:43.000Z",
-      "timestamp_est": "2026-06-25T09:06:43-04:00",
-      "tweet_text": "There's 7492 1st target hit in #ES_F. Nothing to do now at all. Last entry was after 3pm yesterday: The Failed Breakdown of 7408. We swept it, recovered, got long, went +70. 7510, 7530 remain next. 7530 is a magnet from here as posted all week.\n\nNo change to supports https://t.co/uV1XlNWu1V",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7492 is a target hit (observation), 7510/7530 are reaffirmations of morning plan or prior posts, no new actionable levels named."
+      "price": 7407.0,
+      "side": "bull",
+      "added_at_est": "2026-06-26T09:05:52-04:00",
+      "expires_at_est": "2026-06-26T17:05:52-04:00",
+      "from_tweet_id": "2070493751512912016"
     },
+    {
+      "price": 7352.0,
+      "side": "bear",
+      "added_at_est": "2026-06-26T09:05:52-04:00",
+      "expires_at_est": "2026-06-26T17:05:52-04:00",
+      "from_tweet_id": "2070493751512912016"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2070141013373436329",
       "timestamp_utc": "2026-06-25T13:44:13.000Z",
@@ -272,6 +278,20 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining personal trading style/methodology; no specific price levels named, no actionable triggers or supports/resistances mentioned."
+    },
+    {
+      "tweet_id": "2070493751512912016",
+      "timestamp_utc": "2026-06-26T13:05:52.000Z",
+      "timestamp_est": "2026-06-26T09:05:52-04:00",
+      "tweet_text": "All week the range in #ES_F was 7421-7490. We finally broke down last eve, continuing bearish control. 7392 reclaim was long trigger, and overnight traders got it for +20 points. Bears control&lt;7421\n\n7392 must reclaim to see 7398 (hit), 7407, 7421. 7383, 7352, 7338 below https://t.co/GSCtSC29B1",
+      "added_bull_levels": [
+        7407.0
+      ],
+      "added_bear_levels": [
+        7383.0,
+        7352.0
+      ],
+      "notes": "7407 named as upside target (not in morning plan); 7383 and 7352 named as explicit downside supports below 7392 (not in morning plan)."
     }
   ]
 }
