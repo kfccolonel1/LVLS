@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T18:56:53.700389+00:00",
-  "fetched_at_est": "2026-06-26T14:56:53.700395-04:00",
+  "fetched_at_utc": "2026-06-26T19:16:59.185510+00:00",
+  "fetched_at_est": "2026-06-26T15:16:59.185515-04:00",
   "last_new_level_added_at_est": "2026-06-26T10:43:30-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2070223393622827155",
-      "timestamp_utc": "2026-06-25T19:11:34.000Z",
-      "timestamp_est": "2026-06-25T15:11:34-04:00",
-      "tweet_text": "Closing update #ES_F: Other than the 10:18AM 7405 Failed Breakdown, its been a no trade day as ES chops in the 7421-7492 chop range. Just hold your runner as we fill the range out. Newsletter out soon with next entries from here. 7530 remains the magnet",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7405 is trade management/hindsight ref to earlier FBD, 7421/7492 are chop range observations, 7530 is a morning plan reaffirmation. No new actionable levels named."
-    },
     {
       "tweet_id": "2070476790355652902",
       "timestamp_utc": "2026-06-26T11:58:29.000Z",
@@ -225,6 +216,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet referencing newsletter entries; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2070584619661979888",
+      "timestamp_utc": "2026-06-26T19:06:57.000Z",
+      "timestamp_est": "2026-06-26T15:06:57-04:00",
+      "tweet_text": "Closing update #ES_F: Work done today and little to do but hold runner. Newsletter was sent out early today with entries for Sunday and we should get a Sunday/early Monday long. Watch for reclaims of 7421 now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7421 is already in the morning plan. 'Watch for reclaims of 7421' is a reaffirmation of an existing level, not a new one."
     }
   ]
 }
