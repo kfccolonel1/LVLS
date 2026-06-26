@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-26T00:13:46.859355+00:00",
-  "fetched_at_est": "2026-06-25T20:13:46.859360-04:00",
+  "fetched_at_utc": "2026-06-26T11:54:45.586786+00:00",
+  "fetched_at_est": "2026-06-26T07:54:45.586790-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2070110946463305801",
-      "timestamp_utc": "2026-06-25T11:44:45.000Z",
-      "timestamp_est": "2026-06-25T07:44:45-04:00",
-      "tweet_text": "Yesterday's newsletter was sent early at 2:50PM in preparation for a long in #ES_F: The Failed Breakdown of the 7408 low. At 3:08PM, we swept 7408 to 7405, recovered, &amp; longed. We are +70\n\nPlan today: Ride runner until next bear trap. 7492, 7510, 7530 magnet next. 39/25=supports https://t.co/KuDChg5WnJ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7408/7405=hindsight trade, 7492/7510/7530/7439/7425=morning plan levels) are existing plan levels or historical references. 7492 not in plan but framed as runner target/magnet, not a new named actionable level with naming language."
-    },
-    {
-      "tweet_id": "2070113127681651058",
-      "timestamp_utc": "2026-06-25T11:53:25.000Z",
-      "timestamp_est": "2026-06-25T07:53:25-04:00",
-      "tweet_text": "@CorlukaDejan That would count, but not something I'd take (I won't trade today unless we lose yesterday's low)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price level named; purely a conditional/behavioral statement about trading intent with no actionable price cited."
-    },
-    {
-      "tweet_id": "2070113240525201693",
-      "timestamp_utc": "2026-06-25T11:53:52.000Z",
-      "timestamp_est": "2026-06-25T07:53:52-04:00",
-      "tweet_text": "@CorlukaDejan I am very strict though with my entries and won't take a Failed Breakdown unless its basically 100% win rate which means I need to wait for huge volatility expansions",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining entry discipline for Failed Breakdowns; no price levels named or actionable triggers given."
-    },
     {
       "tweet_id": "2070131574113226946",
       "timestamp_utc": "2026-06-25T13:06:43.000Z",
