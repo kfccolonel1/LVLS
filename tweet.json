@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-28T04:09:32.499754+00:00",
-  "fetched_at_est": "2026-06-28T00:09:32.499763-04:00",
+  "fetched_at_utc": "2026-06-28T14:30:20.255154+00:00",
+  "fetched_at_est": "2026-06-28T10:30:20.255160-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -23,6 +23,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual reply referencing '68' (likely 7368) as already-known resistance with no explicit actionable naming language; conversational clarification, not a new level."
+    },
+    {
+      "tweet_id": "2071238522632089944",
+      "timestamp_utc": "2026-06-28T14:25:20.000Z",
+      "timestamp_est": "2026-06-28T10:25:20-04:00",
+      "tweet_text": "@thekhomish I think we could be stuck in the May flag for quite some time. Maybe months. Just my guess though, no \"predicting\"",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market structure opinion; no actionable price level named or implied."
     }
   ]
 }
