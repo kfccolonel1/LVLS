@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-28T15:10:24.247059+00:00",
-  "fetched_at_est": "2026-06-28T11:10:24.247066-04:00",
+  "fetched_at_utc": "2026-06-28T20:00:49.573714+00:00",
+  "fetched_at_est": "2026-06-28T16:00:49.573720-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -23,6 +23,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about market structure opinion; no actionable price level named or implied."
+    },
+    {
+      "tweet_id": "2071322746760372325",
+      "timestamp_utc": "2026-06-28T20:00:00.000Z",
+      "timestamp_est": "2026-06-28T16:00:00-04:00",
+      "tweet_text": "Profitable trading is boring trading. Its 95% sitting on hands, followed by trading the same setup, managed the same way, with tight risk management, proper size, and doing this same routine year after year. If its exciting, your likely gambling, not trading",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure motivational/philosophical commentary. No price levels mentioned, no actionable setups, no market structure referenced."
     }
   ]
 }
