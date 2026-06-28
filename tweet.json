@@ -1,217 +1,28 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-27T02:17:39.796426+00:00",
-  "fetched_at_est": "2026-06-26T22:17:39.796430-04:00",
+  "fetched_at_utc": "2026-06-28T04:09:32.499754+00:00",
+  "fetched_at_est": "2026-06-28T00:09:32.499763-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2070476790355652902",
-      "timestamp_utc": "2026-06-26T11:58:29.000Z",
-      "timestamp_est": "2026-06-26T07:58:29-04:00",
-      "tweet_text": "Finally another vol expansion in #ES_F. Overnight traders gifted a low quality Failed Breakdown. Failed Breakdown of 7392 was trigger given in newsletter. 240am we recovered, ran +22,sold\n\nPlan today: 7392 must reclaim to see 7398, 7407, 7421+. Bears control&lt;21. 72, 52, 38 below https://t.co/xLXPahQry8",
+      "tweet_id": "2070885226406957445",
+      "timestamp_utc": "2026-06-27T15:01:27.000Z",
+      "timestamp_est": "2026-06-27T11:01:27-04:00",
+      "tweet_text": "Big Picture View #ES_F: Since early May ES has formed a massive bull flag. Inside this flag, since June 15th ES has formed a smaller bull flag with 7369 support, 7472 resistance.\n\nPlan Next Week: Fill it out to 7472, then break to 7530, dip, 7590. If 7369 fails, ES sells to 7235 https://t.co/WsjaiZM6an",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "7407 appears new but is likely rounding of morning-plan 7410; all other prices (7392,7398,7421,7372,7352,7338) are reaffirmations of published morning levels."
+      "notes": "All prices mentioned (7472, 7530, 7369, 7590, 7235) are either morning-plan levels or close reaffirmations/observations; no new actionable levels introduced."
     },
     {
-      "tweet_id": "2070481233813914077",
-      "timestamp_utc": "2026-06-26T12:16:08.000Z",
-      "timestamp_est": "2026-06-26T08:16:08-04:00",
-      "tweet_text": "@schwartzaman Its definitely a significant low, but I'd expect lower win rate Failed Breakdowns down there since we've broken structure at 7421. This is fine though, I'm only looking for 5 points a day usually so anymore is bonus",
+      "tweet_id": "2071042513817727097",
+      "timestamp_utc": "2026-06-28T01:26:28.000Z",
+      "timestamp_est": "2026-06-27T21:26:28-04:00",
+      "tweet_text": "@LfHb4015 I forgot to put the green line, but it just maps to whats said in the text (up as long as 68 holds to flag resistance)",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Conversational reply referencing existing morning plan level 7421; no new actionable price named with naming language."
-    },
-    {
-      "tweet_id": "2070487168347242748",
-      "timestamp_utc": "2026-06-26T12:39:43.000Z",
-      "timestamp_est": "2026-06-26T08:39:43-04:00",
-      "tweet_text": "@hcooper0113 There was no Failed Breakdown at 7372. Remember a Failed Breakdown requires a significant low. There is nothing of the sort at 72. Its just a support, in a bearish context (where almost all supports fail by definition)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining FBD criteria at 7372 (morning plan level); no new actionable price named, purely educational/contextual commentary."
-    },
-    {
-      "tweet_id": "2070490643797778459",
-      "timestamp_utc": "2026-06-26T12:53:31.000Z",
-      "timestamp_est": "2026-06-26T08:53:31-04:00",
-      "tweet_text": "@Mcloud4004 @StephenJ223624 They're fine trades just need to prepared to get in and out quickly. Often goes a level or two and fails and does this several times before a big recovery",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Purely conversational trading advice about managing quick trades; no specific price levels named or actionable triggers identified."
-    },
-    {
-      "tweet_id": "2070490798282453091",
-      "timestamp_utc": "2026-06-26T12:54:08.000Z",
-      "timestamp_est": "2026-06-26T08:54:08-04:00",
-      "tweet_text": "Note: 7383 is also support. Bears remain in full control, but things could unravel below 83",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7383.0
-      ],
-      "notes": "7383 explicitly named as support for first time \u2014 not in morning plan. 'Things could unravel below 83' adds actionable bear trigger context."
-    },
-    {
-      "tweet_id": "2070492738210906285",
-      "timestamp_utc": "2026-06-26T13:01:51.000Z",
-      "timestamp_est": "2026-06-26T09:01:51-04:00",
-      "tweet_text": "@StephenJ223624 @Mcloud4004 I always get in later and higher but I am win rate focused not R/R focused. Sometimes it means I am getting in 10 or 15 points above the entry trigger if price is really ripping, but that is fine for me. I want to see momentum and conviction",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining personal trading style/methodology; no specific price levels named, no actionable triggers or supports/resistances mentioned."
-    },
-    {
-      "tweet_id": "2070493751512912016",
-      "timestamp_utc": "2026-06-26T13:05:52.000Z",
-      "timestamp_est": "2026-06-26T09:05:52-04:00",
-      "tweet_text": "All week the range in #ES_F was 7421-7490. We finally broke down last eve, continuing bearish control. 7392 reclaim was long trigger, and overnight traders got it for +20 points. Bears control&lt;7421\n\n7392 must reclaim to see 7398 (hit), 7407, 7421. 7383, 7352, 7338 below https://t.co/GSCtSC29B1",
-      "added_bull_levels": [
-        7407.0
-      ],
-      "added_bear_levels": [
-        7383.0,
-        7352.0
-      ],
-      "notes": "7407 named as upside target (not in morning plan); 7383 and 7352 named as explicit downside supports below 7392 (not in morning plan)."
-    },
-    {
-      "tweet_id": "2070497043064172545",
-      "timestamp_utc": "2026-06-26T13:18:57.000Z",
-      "timestamp_est": "2026-06-26T09:18:57-04:00",
-      "tweet_text": "@RobyArnoldi We just popped to 7398 1st up and sold. Remember this trade already played overnight per the newsletter. Its now a used up level reclaim in bearish control. Can still take it but just need to aggressively take profits",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7398 is a morning plan level (reaffirmation). Tweet is trade management advice (take profits aggressively) on an already-published level, not a new actionable price."
-    },
-    {
-      "tweet_id": "2070497281996968144",
-      "timestamp_utc": "2026-06-26T13:19:54.000Z",
-      "timestamp_est": "2026-06-26T09:19:54-04:00",
-      "tweet_text": "@RobyArnoldi https://t.co/KqjkqAz7k3",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply with only a URL and a username mention \u2014 no price levels named, no actionable content."
-    },
-    {
-      "tweet_id": "2070508481652588668",
-      "timestamp_utc": "2026-06-26T14:04:24.000Z",
-      "timestamp_est": "2026-06-26T10:04:24-04:00",
-      "tweet_text": "Today is all about 7392 which #ES_F attempts reclaims of over and over. I posted 7392 reclaims see 7398 (hit 2x today), 7407 (hit), 7421 (not yet). 7421 was support all week which has now failed. Bears retain full, 100% control below there.\n\n7439, 7452+ above it https://t.co/eVwJuPgX6A",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7392, 7398, 7407, 7421, 7439, 7452) are either morning-plan levels or observations of price action already hit; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2070512572445429782",
-      "timestamp_utc": "2026-06-26T14:20:40.000Z",
-      "timestamp_est": "2026-06-26T10:20:40-04:00",
-      "tweet_text": "@khaled912983977 I never said anywhere I wouldn't take 92 and It very clearly reclaimed",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet defending a prior call on 7392; no actionable naming language, no new level introduced \u2014 pure conversational defense."
-    },
-    {
-      "tweet_id": "2070518320395133099",
-      "timestamp_utc": "2026-06-26T14:43:30.000Z",
-      "timestamp_est": "2026-06-26T10:43:30-04:00",
-      "tweet_text": "There's 7421 tagged #ES_F. This has been range support all week and its a messy, choppy zone that we do not trade around. Long trigger was the 7392 recovery. Targets were 7398 (hit), 7407 (hit), 7421 (hit).\n\nBulls must chew through the massive supply here now. Then, 7439, 7452+ https://t.co/NzWPAWciQE",
-      "added_bull_levels": [
-        7439.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7439 named explicitly as next bull target above 7421 supply zone \u2014 not in morning plan. 7452 is a morning plan level (reaffirmation)."
-    },
-    {
-      "tweet_id": "2070538653508477373",
-      "timestamp_utc": "2026-06-26T16:04:18.000Z",
-      "timestamp_est": "2026-06-26T12:04:18-04:00",
-      "tweet_text": "We continue to rip nicely in #ES_F. The 7392 Reclaim Was today's long trigger. Target slate given was 7398 (hit), 7407 (hit), 7421 (hit). 7421 had to recover to flip control partially to bulls. 7439, 7452 were next up, both hit\n\nNow, just ride runner. 7472, 7493, 7530 magnet next https://t.co/e02UzWpGwD",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7392, 7398, 7421, 7439, 7452, 7472, 7493, 7530) are morning-plan levels or hindsight observations of targets hit; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2070540239978807521",
-      "timestamp_utc": "2026-06-26T16:10:36.000Z",
-      "timestamp_est": "2026-06-26T12:10:36-04:00",
-      "tweet_text": "@DrJonnyBros Thanks for the subscribe!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a simple thank-you reply with no price levels or actionable content whatsoever."
-    },
-    {
-      "tweet_id": "2070546939687358919",
-      "timestamp_utc": "2026-06-26T16:37:13.000Z",
-      "timestamp_est": "2026-06-26T12:37:13-04:00",
-      "tweet_text": "@Lucky_879 You could! Backtest long",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user suggesting backtesting a long; no price named, no actionable level, pure conversational."
-    },
-    {
-      "tweet_id": "2070553784674123852",
-      "timestamp_utc": "2026-06-26T17:04:25.000Z",
-      "timestamp_est": "2026-06-26T13:04:25-04:00",
-      "tweet_text": "Nothing to do now but ride runner. As always chop in #ES_F is *never* traded. Only trade huge vol expansions. 7392 Reclaim was today's long trigger. Targets given were 7398, 7407, 7421 (hit). 7421 flipped partial control to bulls.\n\n7439 (Hit), 7452 (hit), 7472, 7493, 7530 next https://t.co/0u3Y875ggv",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices cited (7392,7398,7407,7421,7439,7452,7472,7493,7530) are morning-plan levels or hit-price observations; no new actionable levels named."
-    },
-    {
-      "tweet_id": "2070555592083570738",
-      "timestamp_utc": "2026-06-26T17:11:36.000Z",
-      "timestamp_est": "2026-06-26T13:11:36-04:00",
-      "tweet_text": "@Trevormiles16 7530 is still the magnet as I've said all week. Has to backtest",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7530 (~7532.5) is a morning plan level; this is a reaffirmation/observation ('still the magnet'), not a new actionable level."
-    },
-    {
-      "tweet_id": "2070570958142779839",
-      "timestamp_utc": "2026-06-26T18:12:40.000Z",
-      "timestamp_est": "2026-06-26T14:12:40-04:00",
-      "tweet_text": "Day is done in #ES_F, just ride runner now. We don't trade chop *ever* in ES. 7392 Reclaim was long trigger with 7421 target. We hit 7421. 7421 returns part control to bulls setting up 7439 (hit), 7452 (hit). 7473, 7493, then 7530 magnet remain next from here https://t.co/FjMNgCegS7",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7392,7421,7439,7452,7473,7493,7530) are morning-plan levels or observations of hits; 7439 is a reference not in plan but framed as hindsight/observation, not actionable naming."
-    },
-    {
-      "tweet_id": "2070579141452103968",
-      "timestamp_utc": "2026-06-26T18:45:11.000Z",
-      "timestamp_est": "2026-06-26T14:45:11-04:00",
-      "tweet_text": "@NYJets2017 @Trevormiles16 Nothing is 100%, but these sort of backtests occur 95% of the time. The path though and the timing is totally unpredictable. Could be in 6 months. Everything is probabilities.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet discussing probabilities and timing with no price levels mentioned at all."
-    },
-    {
-      "tweet_id": "2070580302972371192",
-      "timestamp_utc": "2026-06-26T18:49:48.000Z",
-      "timestamp_est": "2026-06-26T14:49:48-04:00",
-      "tweet_text": "@VeganP16776 Entries are all given in advance in the newsletter in very specific terms",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing newsletter entries; no price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2070584619661979888",
-      "timestamp_utc": "2026-06-26T19:06:57.000Z",
-      "timestamp_est": "2026-06-26T15:06:57-04:00",
-      "tweet_text": "Closing update #ES_F: Work done today and little to do but hold runner. Newsletter was sent out early today with entries for Sunday and we should get a Sunday/early Monday long. Watch for reclaims of 7421 now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7421 is already in the morning plan. 'Watch for reclaims of 7421' is a reaffirmation of an existing level, not a new one."
-    },
-    {
-      "tweet_id": "2070691426204020897",
-      "timestamp_utc": "2026-06-27T02:11:22.000Z",
-      "timestamp_est": "2026-06-26T22:11:22-04:00",
-      "tweet_text": "@TopherThe @BrianMelcher24 Held nicely!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels mentioned at all \u2014 purely conversational observation."
+      "notes": "Casual reply referencing '68' (likely 7368) as already-known resistance with no explicit actionable naming language; conversational clarification, not a new level."
     }
   ]
 }
