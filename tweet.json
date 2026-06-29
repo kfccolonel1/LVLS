@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-29T13:02:30.040034+00:00",
-  "fetched_at_est": "2026-06-29T09:02:30.040039-04:00",
+  "fetched_at_utc": "2026-06-29T13:12:40.209440+00:00",
+  "fetched_at_est": "2026-06-29T09:12:40.209444-04:00",
   "last_new_level_added_at_est": "2026-06-29T07:37:38-04:00",
   "todays_new_levels": [
     {
@@ -78,6 +78,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about Sunday open concept; no price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2071580564641947974",
+      "timestamp_utc": "2026-06-29T13:04:29.000Z",
+      "timestamp_est": "2026-06-29T09:04:29-04:00",
+      "tweet_text": "All the action happened at Friday's close/Sunday open and now we grind. This week's plan was #ES_F had to hold 7368. It held. 7421 reclaims then trigger up. We triggered 6pm. 7472 was target, hit.\n\n7492, 7502, 7511, then 7530 is next. 7421 remains support. 7439 micro above https://t.co/AGCkfvoCld",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7492/7511/7530 are morning-plan levels; 7439 and 7502 appear in context as directional list references/observations, no explicit naming language qualifying them as new actionable levels."
     }
   ]
 }
