@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-29T18:53:42.262509+00:00",
-  "fetched_at_est": "2026-06-29T14:53:42.262514-04:00",
+  "fetched_at_utc": "2026-06-29T19:13:50.457851+00:00",
+  "fetched_at_est": "2026-06-29T15:13:50.457863-04:00",
   "last_new_level_added_at_est": "2026-06-29T12:35:55-04:00",
   "todays_new_levels": [
     {
@@ -170,6 +170,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7530 is already in the morning plan; tweet is conversational commentary on price structure/seasonals with no new actionable level named."
+    },
+    {
+      "tweet_id": "2071672536446664961",
+      "timestamp_utc": "2026-06-29T19:09:57.000Z",
+      "timestamp_est": "2026-06-29T15:09:57-04:00",
+      "tweet_text": "@OnTheHooch @Alberkas We had a fairly clear bear flag at that point, but it broke down and then recovered. Thats trading though, its dynamic! Could look bearish again in a few hours. The macro structure though has always been bullish. We are in a massive, macro bull flag that will produce a shocking",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels named at all; purely macro commentary about bull flag structure with no actionable prices or naming language."
+    },
+    {
+      "tweet_id": "2071672747835474174",
+      "timestamp_utc": "2026-06-29T19:10:47.000Z",
+      "timestamp_est": "2026-06-29T15:10:47-04:00",
+      "tweet_text": "Closing update #ES_F: One way traffic today as we ripped to 7492 which has been the range resistance all last week. Next leg up sees 7530, big magnet, then we head to 7590. Newsletter out shortly with next entries",
+      "added_bull_levels": [
+        7590.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7590 named as next upside target ('head to 7590') not in morning plan; 7492 and 7530 are reaffirmations of existing plan levels."
     }
   ]
 }
