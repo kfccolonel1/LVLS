@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-29T13:42:46.644192+00:00",
-  "fetched_at_est": "2026-06-29T09:42:46.644198-04:00",
+  "fetched_at_utc": "2026-06-29T14:22:54.499754+00:00",
+  "fetched_at_est": "2026-06-29T10:22:54.499759-04:00",
   "last_new_level_added_at_est": "2026-06-29T07:37:38-04:00",
   "todays_new_levels": [
     {
@@ -96,6 +96,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with conversational commentary about price action/protocol observation; no actionable price levels named."
+    },
+    {
+      "tweet_id": "2071599735236903169",
+      "timestamp_utc": "2026-06-29T14:20:39.000Z",
+      "timestamp_est": "2026-06-29T10:20:39-04:00",
+      "tweet_text": "Nice little volatility expansion again in #ES_F. This weeks plan was 7368 support had to hold. It did. 7421 reclaims then trigger up to 7472 target, hit. Now we are back to 7421 which has been the magnet for the last week or so.\n\nBulls want to hold this quick to see 39, 53, 72+ https://t.co/5B8c8kRxwA",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7368/7369, 7421, 7437/7453, 7472/7492) are morning plan levels or observations of price action already hit; '39,53,72' are shorthand reaffirmations of existing levels."
     }
   ]
 }
