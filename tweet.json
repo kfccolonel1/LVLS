@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-29T19:43:53.884258+00:00",
-  "fetched_at_est": "2026-06-29T15:43:53.884264-04:00",
+  "fetched_at_utc": "2026-06-29T20:03:56.485267+00:00",
+  "fetched_at_est": "2026-06-29T16:03:56.485272-04:00",
   "last_new_level_added_at_est": "2026-06-29T12:35:55-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2071322746760372325",
-      "timestamp_utc": "2026-06-28T20:00:00.000Z",
-      "timestamp_est": "2026-06-28T16:00:00-04:00",
-      "tweet_text": "Profitable trading is boring trading. Its 95% sitting on hands, followed by trading the same setup, managed the same way, with tight risk management, proper size, and doing this same routine year after year. If its exciting, your likely gambling, not trading",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure motivational/philosophical commentary. No price levels mentioned, no actionable setups, no market structure referenced."
-    },
     {
       "tweet_id": "2071344973035831512",
       "timestamp_utc": "2026-06-28T21:28:19.000Z",
