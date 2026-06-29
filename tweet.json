@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-29T14:53:05.588288+00:00",
-  "fetched_at_est": "2026-06-29T10:53:05.588292-04:00",
-  "last_new_level_added_at_est": "2026-06-29T07:37:38-04:00",
+  "fetched_at_utc": "2026-06-29T16:43:20.755680+00:00",
+  "fetched_at_est": "2026-06-29T12:43:20.755692-04:00",
+  "last_new_level_added_at_est": "2026-06-29T12:35:55-04:00",
   "todays_new_levels": [
     {
       "price": 7502.0,
@@ -11,6 +11,13 @@
       "added_at_est": "2026-06-29T07:37:38-04:00",
       "expires_at_est": "2026-06-29T15:37:38-04:00",
       "from_tweet_id": "2071558709566652851"
+    },
+    {
+      "price": 7590.0,
+      "side": "bull",
+      "added_at_est": "2026-06-29T12:35:55-04:00",
+      "expires_at_est": "2026-06-29T20:35:55-04:00",
+      "from_tweet_id": "2071633773876174903"
     }
   ],
   "updates": [
@@ -114,6 +121,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7421, 7439, 7453, 7472, 7492, 7530) are morning-plan levels or hindsight/observation references; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2071633773876174903",
+      "timestamp_utc": "2026-06-29T16:35:55.000Z",
+      "timestamp_est": "2026-06-29T12:35:55-04:00",
+      "tweet_text": "Very simple session today in #ES_F and there's 7472 tagged again. This weeks plan was simple: Bulls had to hold 7368 (they did Friday), then reclaim 7421. We got another 7421 reclaim at 10:20AM. Targets were 7439, 7453, 7472 (hit). 7492 next, then we head to 7530. Dip, then 7590 https://t.co/fYFCdVqvU1",
+      "added_bull_levels": [
+        7590.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7590 named as next bull target after 7530 \u2014 not in morning plan. All other prices (7421,7439,7453,7472,7492,7530) are plan levels or observations of hits."
+    },
+    {
+      "tweet_id": "2071634550795419873",
+      "timestamp_utc": "2026-06-29T16:39:00.000Z",
+      "timestamp_est": "2026-06-29T12:39:00-04:00",
+      "tweet_text": "@ashwagamma I think everyone knows how this one plays out!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned, purely conversational comment directed at a user."
     }
   ]
 }
