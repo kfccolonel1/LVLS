@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T17:36:22.290249+00:00",
-  "fetched_at_est": "2026-06-30T13:36:22.290265-04:00",
+  "fetched_at_utc": "2026-06-30T17:46:24.471721+00:00",
+  "fetched_at_est": "2026-06-30T13:46:24.471728-04:00",
   "last_new_level_added_at_est": "2026-06-30T13:28:49-04:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2071650796878344535",
-      "timestamp_utc": "2026-06-29T17:43:34.000Z",
-      "timestamp_est": "2026-06-29T13:43:34-04:00",
-      "tweet_text": "There's 7492 tagged in #ES_F. This has been resistance for days. 7421 reclaim was our long trigger at 10:20AM. Targets given were 7439, 7453, 7472, 7492. Now there is nothing to do but ride runner.\n\n7511 next, then we see 7530 which backtests Monday's breakdown. Dip, then 7590 https://t.co/fPIofvvPCU",
-      "added_bull_levels": [
-        7590.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7590 named as next bull target after 7530 \u2014 not in morning plan. All other levels (7492, 7421, 7453, 7511, 7530) are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2071666768473411895",
       "timestamp_utc": "2026-06-29T18:47:01.000Z",
