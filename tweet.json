@@ -1,10 +1,25 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T13:45:19.104421+00:00",
-  "fetched_at_est": "2026-06-30T09:45:19.104427-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-06-30T14:05:27.973994+00:00",
+  "fetched_at_est": "2026-06-30T10:05:27.974011-04:00",
+  "last_new_level_added_at_est": "2026-06-30T09:57:46-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7544.0,
+      "side": "bull",
+      "added_at_est": "2026-06-30T09:57:46-04:00",
+      "expires_at_est": "2026-06-30T17:57:46-04:00",
+      "from_tweet_id": "2071956360837656908"
+    },
+    {
+      "price": 7560.0,
+      "side": "bull",
+      "added_at_est": "2026-06-30T09:57:46-04:00",
+      "expires_at_est": "2026-06-30T17:57:46-04:00",
+      "from_tweet_id": "2071956360837656908"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2071599735236903169",
@@ -137,6 +152,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure educational commentary on volatility ranges (50-70, 100+, 150pts). No actionable price levels named, just distance/magnitude discussion."
+    },
+    {
+      "tweet_id": "2071956360837656908",
+      "timestamp_utc": "2026-06-30T13:57:46.000Z",
+      "timestamp_est": "2026-06-30T09:57:46-04:00",
+      "tweet_text": "Pinpoint defense of 7493 support. Followers here know that since last Monday, I've had one clear target in #ES_F that I've called a magnet: 7530. We are almost here. 7421 reclaim was last long trigger and we are +100 on that.\n\nOnce 7530 hits, we can head to 7544, 7560, then 7590 https://t.co/xzB5wexuJm",
+      "added_bull_levels": [
+        7544.0,
+        7560.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7544 and 7560 named as sequential upside targets beyond 7530; not in morning plan. 7530/7590 are morning-plan levels; 7493/7421 are observations."
+    },
+    {
+      "tweet_id": "2071957152747356176",
+      "timestamp_utc": "2026-06-30T14:00:54.000Z",
+      "timestamp_est": "2026-06-30T10:00:54-04:00",
+      "tweet_text": "Note: I have been posting this 7530 target multiple times a day for a week. It is charting 101: Whenever a major shelf breaks down (7530 last Monday), in ES it backtests 95-100% of the time. https://t.co/Wp5rLT86wg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7530 is already in morning plan; tweet is educational hindsight commentary on a known level, not a new actionable signal."
     }
   ]
 }
