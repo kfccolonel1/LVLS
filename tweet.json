@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T14:25:30.809432+00:00",
-  "fetched_at_est": "2026-06-30T10:25:30.809440-04:00",
+  "fetched_at_utc": "2026-06-30T14:35:36.302210+00:00",
+  "fetched_at_est": "2026-06-30T10:35:36.302218-04:00",
   "last_new_level_added_at_est": "2026-06-30T09:57:46-04:00",
   "todays_new_levels": [
     {
@@ -155,6 +155,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7530 is already in morning plan; tweet is educational hindsight commentary on a known level, not a new actionable signal."
+    },
+    {
+      "tweet_id": "2071964451490656536",
+      "timestamp_utc": "2026-06-30T14:29:55.000Z",
+      "timestamp_est": "2026-06-30T10:29:55-04:00",
+      "tweet_text": "There it is: 7530 hit in #ES_F. I have called for this target everyday since last Monday. It was a technical *requirement* it hit, and we did. Last long trigger was the 7421 reclaim to get us here. +100 on that.\n\nNow, we ride that runner. 7544, 7560, then 7590 next. 90 new magnet https://t.co/o6G9bqhR7p",
+      "added_bull_levels": [
+        7544.0,
+        7560.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7544 and 7560 named as next sequential bull targets ('7544, 7560, then 7590 next'); 7590 maps to morning-plan 7588, excluded. 7530 is morning plan."
     }
   ]
 }
