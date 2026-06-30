@@ -1,40 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T00:44:20.127376+00:00",
-  "fetched_at_est": "2026-06-29T20:44:20.127384-04:00",
+  "fetched_at_utc": "2026-06-30T11:57:36.906008+00:00",
+  "fetched_at_est": "2026-06-30T07:57:36.906028-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071558709566652851",
-      "timestamp_utc": "2026-06-29T11:37:38.000Z",
-      "timestamp_est": "2026-06-29T07:37:38-04:00",
-      "tweet_text": "Big start to week in #ES_F. The last week has been all about 7421. Per Saturday post and Friday newsletter, plan was 7368 had to hold (held exact), then 7421 reclaims trigger long. We triggered long 6:05PM &amp; 7472 target hit\n\nPlan: Ride runner. 7492, 7502, 7511 next. 21=support https://t.co/ykj1DPsF2z",
-      "added_bull_levels": [
-        7502.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7502 named as 'next' target alongside morning-plan levels 7492/7511; it is not in the published morning plan and is explicitly listed as a bull target/resistance to watch."
-    },
-    {
-      "tweet_id": "2071559574163718278",
-      "timestamp_utc": "2026-06-29T11:41:04.000Z",
-      "timestamp_est": "2026-06-29T07:41:04-04:00",
-      "tweet_text": "@KevinJagiah Have to mute fintwit! Fintwit=the herd and your not going to be profitable plugged into it unless your using it as a counter indicator.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet giving trading advice about fintwit/herd mentality. No price levels mentioned whatsoever."
-    },
-    {
-      "tweet_id": "2071561634007437443",
-      "timestamp_utc": "2026-06-29T11:49:15.000Z",
-      "timestamp_est": "2026-06-29T07:49:15-04:00",
-      "tweet_text": "@Jbuehler777 A few big levels between here and there still. 7492 first, then 7530 magnet (which has to test).",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7492 and 7530 are both in the morning plan; this is a reaffirmation of existing levels, not new actionable prices."
-    },
     {
       "tweet_id": "2071579807951827070",
       "timestamp_utc": "2026-06-29T13:01:28.000Z",
@@ -157,6 +128,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7590 named as next upside target ('head to 7590') not in morning plan; 7492 and 7530 are reaffirmations of existing plan levels."
+    },
+    {
+      "tweet_id": "2071923521358381217",
+      "timestamp_utc": "2026-06-30T11:47:16.000Z",
+      "timestamp_est": "2026-06-30T07:47:16-04:00",
+      "tweet_text": "Note: There are no actionable supports now until much lower, refer to newsletter for actionable levels",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific prices named; tweet defers to newsletter with no new actionable level introduced."
     }
   ]
 }
