@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T19:06:36.284185+00:00",
-  "fetched_at_est": "2026-06-30T15:06:36.284193-04:00",
-  "last_new_level_added_at_est": "2026-06-30T13:28:49-04:00",
+  "fetched_at_utc": "2026-06-30T19:16:44.086162+00:00",
+  "fetched_at_est": "2026-06-30T15:16:44.086174-04:00",
+  "last_new_level_added_at_est": "2026-06-30T15:13:09-04:00",
   "todays_new_levels": [
     {
       "price": 7544.0,
@@ -25,29 +25,16 @@
       "added_at_est": "2026-06-30T13:28:49-04:00",
       "expires_at_est": "2026-06-30T21:28:49-04:00",
       "from_tweet_id": "2072009474361995638"
+    },
+    {
+      "price": 7593.5,
+      "side": "bull",
+      "added_at_est": "2026-06-30T15:13:09-04:00",
+      "expires_at_est": "2026-06-30T23:13:09-04:00",
+      "from_tweet_id": "2072035732210729095"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2071672536446664961",
-      "timestamp_utc": "2026-06-29T19:09:57.000Z",
-      "timestamp_est": "2026-06-29T15:09:57-04:00",
-      "tweet_text": "@OnTheHooch @Alberkas We had a fairly clear bear flag at that point, but it broke down and then recovered. Thats trading though, its dynamic! Could look bearish again in a few hours. The macro structure though has always been bullish. We are in a massive, macro bull flag that will produce a shocking",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels named at all; purely macro commentary about bull flag structure with no actionable prices or naming language."
-    },
-    {
-      "tweet_id": "2071672747835474174",
-      "timestamp_utc": "2026-06-29T19:10:47.000Z",
-      "timestamp_est": "2026-06-29T15:10:47-04:00",
-      "tweet_text": "Closing update #ES_F: One way traffic today as we ripped to 7492 which has been the range resistance all last week. Next leg up sees 7530, big magnet, then we head to 7590. Newsletter out shortly with next entries",
-      "added_bull_levels": [
-        7590.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7590 named as next upside target ('head to 7590') not in morning plan; 7492 and 7530 are reaffirmations of existing plan levels."
-    },
     {
       "tweet_id": "2071923521358381217",
       "timestamp_utc": "2026-06-30T11:47:16.000Z",
@@ -190,6 +177,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user about runners paying \u2014 pure conversational trade management comment, no price named at all."
+    },
+    {
+      "tweet_id": "2072035549519417612",
+      "timestamp_utc": "2026-06-30T19:12:26.000Z",
+      "timestamp_est": "2026-06-30T15:12:26-04:00",
+      "tweet_text": "@tradivate @99dot9percent Also seasonally very strong. As  I said yeserday morning, I think everyone knows what happens here! Just ride the runner until next week https://t.co/qdUF2qQpIh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; purely conversational commentary about seasonality and riding a runner with no actionable level introduced."
+    },
+    {
+      "tweet_id": "2072035732210729095",
+      "timestamp_utc": "2026-06-30T19:13:09.000Z",
+      "timestamp_est": "2026-06-30T15:13:09-04:00",
+      "tweet_text": "Closing update #ES_F: Not much to do now or for the rest of the week. Ride your runner. Bullish structure, bullish seasonals, massive Failed Breakdown at 7421 to get long. Newsletter out soon with next entries. 7590-97 is now the new magnet that has to test",
+      "added_bull_levels": [
+        7593.5
+      ],
+      "added_bear_levels": [],
+      "notes": "7590-97 explicitly named as 'new magnet that has to test' \u2014 actionable target/watch level, midpoint ~7593.5, not in morning plan."
     }
   ]
 }
