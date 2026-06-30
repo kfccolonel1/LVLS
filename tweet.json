@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T12:07:45.183759+00:00",
-  "fetched_at_est": "2026-06-30T08:07:45.183764-04:00",
+  "fetched_at_utc": "2026-06-30T13:05:10.465593+00:00",
+  "fetched_at_est": "2026-06-30T09:05:10.465599-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071579807951827070",
-      "timestamp_utc": "2026-06-29T13:01:28.000Z",
-      "timestamp_est": "2026-06-29T09:01:28-04:00",
-      "tweet_text": "@repetak Lots of people the Sunday open is something that is widely watched and traded",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about Sunday open concept; no price named, no actionable level, no naming language."
-    },
-    {
-      "tweet_id": "2071580564641947974",
-      "timestamp_utc": "2026-06-29T13:04:29.000Z",
-      "timestamp_est": "2026-06-29T09:04:29-04:00",
-      "tweet_text": "All the action happened at Friday's close/Sunday open and now we grind. This week's plan was #ES_F had to hold 7368. It held. 7421 reclaims then trigger up. We triggered 6pm. 7472 was target, hit.\n\n7492, 7502, 7511, then 7530 is next. 7421 remains support. 7439 micro above https://t.co/AGCkfvoCld",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7492/7511/7530 are morning-plan levels; 7439 and 7502 appear in context as directional list references/observations, no explicit naming language qualifying them as new actionable levels."
-    },
     {
       "tweet_id": "2071590091294744650",
       "timestamp_utc": "2026-06-29T13:42:20.000Z",
@@ -146,6 +128,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7421-25 midpoint ~7423 is already in the morning plan; this is a reaffirmation in a reply, not a new actionable level."
+    },
+    {
+      "tweet_id": "2071940875156947454",
+      "timestamp_utc": "2026-06-30T12:56:14.000Z",
+      "timestamp_est": "2026-06-30T08:56:14-04:00",
+      "tweet_text": "Holiday week so volatility in #ES_F is dropping to 0. Don't trade unless we get a big \"elevator down\" sell. Last long was the 10:20AM 7421 Reclaim yesterday. My targets were 7492 (hit), 7511 (hit), 7530 (this is a magnet).\n\nRide your runner. 92, 82 (watch traps)=supports https://t.co/eb7Yt2eKvo",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new levels: 7492/7530 are morning-plan levels; 7511 is an observation; '92,82' are vague shorthand supports with no explicit actionable naming language; rest is trade management/commentary."
     }
   ]
 }
