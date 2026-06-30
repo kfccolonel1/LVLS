@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T16:16:04.638618+00:00",
-  "fetched_at_est": "2026-06-30T12:16:04.638624-04:00",
+  "fetched_at_utc": "2026-06-30T16:36:07.360989+00:00",
+  "fetched_at_est": "2026-06-30T12:36:07.360994-04:00",
   "last_new_level_added_at_est": "2026-06-30T09:57:46-04:00",
   "todays_new_levels": [
     {
@@ -21,17 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2071633773876174903",
-      "timestamp_utc": "2026-06-29T16:35:55.000Z",
-      "timestamp_est": "2026-06-29T12:35:55-04:00",
-      "tweet_text": "Very simple session today in #ES_F and there's 7472 tagged again. This weeks plan was simple: Bulls had to hold 7368 (they did Friday), then reclaim 7421. We got another 7421 reclaim at 10:20AM. Targets were 7439, 7453, 7472 (hit). 7492 next, then we head to 7530. Dip, then 7590 https://t.co/fYFCdVqvU1",
-      "added_bull_levels": [
-        7590.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7590 named as next bull target after 7530 \u2014 not in morning plan. All other prices (7421,7439,7453,7472,7492,7530) are plan levels or observations of hits."
-    },
     {
       "tweet_id": "2071634550795419873",
       "timestamp_utc": "2026-06-29T16:39:00.000Z",
