@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T13:15:15.609330+00:00",
-  "fetched_at_est": "2026-06-30T09:15:15.609334-04:00",
+  "fetched_at_utc": "2026-06-30T13:45:19.104421+00:00",
+  "fetched_at_est": "2026-06-30T09:45:19.104427-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071590091294744650",
-      "timestamp_utc": "2026-06-29T13:42:20.000Z",
-      "timestamp_est": "2026-06-29T09:42:20-04:00",
-      "tweet_text": "@coleridge8264 It was around 32-33. This is what you want to see though. Its those slow, grinding recoveries that felt especially around the 5 point non -acceptance protocol mark. The more momentum the better",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with conversational commentary about price action/protocol observation; no actionable price levels named."
-    },
     {
       "tweet_id": "2071599735236903169",
       "timestamp_utc": "2026-06-29T14:20:39.000Z",
