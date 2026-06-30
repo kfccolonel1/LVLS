@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T17:46:24.471721+00:00",
-  "fetched_at_est": "2026-06-30T13:46:24.471728-04:00",
+  "fetched_at_utc": "2026-06-30T18:56:31.042780+00:00",
+  "fetched_at_est": "2026-06-30T14:56:31.042787-04:00",
   "last_new_level_added_at_est": "2026-06-30T13:28:49-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2071666768473411895",
-      "timestamp_utc": "2026-06-29T18:47:01.000Z",
-      "timestamp_est": "2026-06-29T14:47:01-04:00",
-      "tweet_text": "@Alberkas Its just a reaction zone at 7530. Could be a brief consolidation, could be a larger dip. We could also just rip through. The structure now though is incredible bullish with seasonals also as a tailwind",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7530 is already in the morning plan; tweet is conversational commentary on price structure/seasonals with no new actionable level named."
-    },
     {
       "tweet_id": "2071672536446664961",
       "timestamp_utc": "2026-06-29T19:09:57.000Z",
