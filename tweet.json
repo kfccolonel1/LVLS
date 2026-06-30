@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T14:05:27.973994+00:00",
-  "fetched_at_est": "2026-06-30T10:05:27.974011-04:00",
+  "fetched_at_utc": "2026-06-30T14:25:30.809432+00:00",
+  "fetched_at_est": "2026-06-30T10:25:30.809440-04:00",
   "last_new_level_added_at_est": "2026-06-30T09:57:46-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2071599735236903169",
-      "timestamp_utc": "2026-06-29T14:20:39.000Z",
-      "timestamp_est": "2026-06-29T10:20:39-04:00",
-      "tweet_text": "Nice little volatility expansion again in #ES_F. This weeks plan was 7368 support had to hold. It did. 7421 reclaims then trigger up to 7472 target, hit. Now we are back to 7421 which has been the magnet for the last week or so.\n\nBulls want to hold this quick to see 39, 53, 72+ https://t.co/5B8c8kRxwA",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7368/7369, 7421, 7437/7453, 7472/7492) are morning plan levels or observations of price action already hit; '39,53,72' are shorthand reaffirmations of existing levels."
-    },
-    {
-      "tweet_id": "2071600815953834168",
-      "timestamp_utc": "2026-06-29T14:24:57.000Z",
-      "timestamp_est": "2026-06-29T10:24:57-04:00",
-      "tweet_text": "@Jbuehler777 Its range resistance as discussed in newsletter. Very healthy/bullish price action though, always want to see dips at range resistance",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price named at all; purely commentary about range resistance and price action observation. No actionable level introduced."
-    },
     {
       "tweet_id": "2071606205986849207",
       "timestamp_utc": "2026-06-29T14:46:22.000Z",
