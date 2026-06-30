@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-06-30T14:35:36.302210+00:00",
-  "fetched_at_est": "2026-06-30T10:35:36.302218-04:00",
+  "fetched_at_utc": "2026-06-30T14:55:39.094507+00:00",
+  "fetched_at_est": "2026-06-30T10:55:39.094513-04:00",
   "last_new_level_added_at_est": "2026-06-30T09:57:46-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2071606205986849207",
-      "timestamp_utc": "2026-06-29T14:46:22.000Z",
-      "timestamp_est": "2026-06-29T10:46:22-04:00",
-      "tweet_text": "7421 continues to pay over and over, a total ATM machine in #ES_F. At 6pm last evening we got the 1st recovery that took us to 7472, 7492 targets. 25mins ago, I posted 7421 reclaim was in play again. Targets were 7439, 7453 (hit), 7472, 7492+ above.\n\nThen we head to 7530 https://t.co/I0A7VvBN15",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7421, 7439, 7453, 7472, 7492, 7530) are morning-plan levels or hindsight/observation references; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2071633773876174903",
       "timestamp_utc": "2026-06-29T16:35:55.000Z",
