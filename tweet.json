@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T13:58:53.740667+00:00",
-  "fetched_at_est": "2026-07-01T09:58:53.740671-04:00",
+  "fetched_at_utc": "2026-07-01T14:08:55.732882+00:00",
+  "fetched_at_est": "2026-07-01T10:08:55.732889-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071957152747356176",
-      "timestamp_utc": "2026-06-30T14:00:54.000Z",
-      "timestamp_est": "2026-06-30T10:00:54-04:00",
-      "tweet_text": "Note: I have been posting this 7530 target multiple times a day for a week. It is charting 101: Whenever a major shelf breaks down (7530 last Monday), in ES it backtests 95-100% of the time. https://t.co/Wp5rLT86wg",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7530 is already in morning plan; tweet is educational hindsight commentary on a known level, not a new actionable signal."
-    },
     {
       "tweet_id": "2071964451490656536",
       "timestamp_utc": "2026-06-30T14:29:55.000Z",
