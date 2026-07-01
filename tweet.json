@@ -1,31 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T19:10:07.054437+00:00",
-  "fetched_at_est": "2026-07-01T15:10:07.054442-04:00",
+  "fetched_at_utc": "2026-07-01T19:20:09.018924+00:00",
+  "fetched_at_est": "2026-07-01T15:20:09.018929-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2072035549519417612",
-      "timestamp_utc": "2026-06-30T19:12:26.000Z",
-      "timestamp_est": "2026-06-30T15:12:26-04:00",
-      "tweet_text": "@tradivate @99dot9percent Also seasonally very strong. As  I said yeserday morning, I think everyone knows what happens here! Just ride the runner until next week https://t.co/qdUF2qQpIh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named at all; purely conversational commentary about seasonality and riding a runner with no actionable level introduced."
-    },
-    {
-      "tweet_id": "2072035732210729095",
-      "timestamp_utc": "2026-06-30T19:13:09.000Z",
-      "timestamp_est": "2026-06-30T15:13:09-04:00",
-      "tweet_text": "Closing update #ES_F: Not much to do now or for the rest of the week. Ride your runner. Bullish structure, bullish seasonals, massive Failed Breakdown at 7421 to get long. Newsletter out soon with next entries. 7590-97 is now the new magnet that has to test",
-      "added_bull_levels": [
-        7593.5
-      ],
-      "added_bear_levels": [],
-      "notes": "7590-97 explicitly named as 'new magnet that has to test' \u2014 actionable target/watch level, midpoint ~7593.5, not in morning plan."
-    },
     {
       "tweet_id": "2072054216844001514",
       "timestamp_utc": "2026-06-30T20:26:36.000Z",
