@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T12:58:40.674867+00:00",
-  "fetched_at_est": "2026-07-01T08:58:40.674872-04:00",
+  "fetched_at_utc": "2026-07-01T13:08:45.636951+00:00",
+  "fetched_at_est": "2026-07-01T09:08:45.636956-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071943998025998395",
-      "timestamp_utc": "2026-06-30T13:08:38.000Z",
-      "timestamp_est": "2026-06-30T09:08:38-04:00",
-      "tweet_text": "@Porterhous90889 Might be abit too zoomed in! In ES a 50-70 elevator down is normal volatility. Good volatility is 100+ point elevator down, then excellent volatility I'd consider when we are easily making 150 point moves.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure educational commentary on volatility ranges (50-70, 100+, 150pts). No actionable price levels named, just distance/magnitude discussion."
-    },
     {
       "tweet_id": "2071956360837656908",
       "timestamp_utc": "2026-06-30T13:57:46.000Z",
@@ -204,6 +195,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply with no price levels named, no actionable language, purely social commentary."
+    },
+    {
+      "tweet_id": "2072305831035494729",
+      "timestamp_utc": "2026-07-01T13:06:26.000Z",
+      "timestamp_est": "2026-07-01T09:06:26-04:00",
+      "tweet_text": "Low volatility holiday week continues in #ES_F: Wait for a violent elevator down sell to trade. 7421 Failed Breakdown was last entry on Monday. 7511 was support given in newsletter, held perfect overnight\n\nNo change: Watch traps there. 7492, below. 7550, 7560, 7578 remain upsides https://t.co/vrylTbIGhF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7421, 7511, 7492, 7550, 7560, 7578) are either morning-plan levels or hindsight/reaffirmation references; no new actionable levels introduced."
     }
   ]
 }
