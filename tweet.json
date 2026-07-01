@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T12:48:38.505597+00:00",
-  "fetched_at_est": "2026-07-01T08:48:38.505607-04:00",
+  "fetched_at_utc": "2026-07-01T12:58:40.674867+00:00",
+  "fetched_at_est": "2026-07-01T08:58:40.674872-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071940875156947454",
-      "timestamp_utc": "2026-06-30T12:56:14.000Z",
-      "timestamp_est": "2026-06-30T08:56:14-04:00",
-      "tweet_text": "Holiday week so volatility in #ES_F is dropping to 0. Don't trade unless we get a big \"elevator down\" sell. Last long was the 10:20AM 7421 Reclaim yesterday. My targets were 7492 (hit), 7511 (hit), 7530 (this is a magnet).\n\nRide your runner. 92, 82 (watch traps)=supports https://t.co/eb7Yt2eKvo",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No new levels: 7492/7530 are morning-plan levels; 7511 is an observation; '92,82' are vague shorthand supports with no explicit actionable naming language; rest is trade management/commentary."
-    },
     {
       "tweet_id": "2071943998025998395",
       "timestamp_utc": "2026-06-30T13:08:38.000Z",
