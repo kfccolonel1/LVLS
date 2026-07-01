@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T11:58:15.903819+00:00",
-  "fetched_at_est": "2026-07-01T07:58:15.903824-04:00",
+  "fetched_at_utc": "2026-07-01T12:08:17.865036+00:00",
+  "fetched_at_est": "2026-07-01T08:08:17.865044-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071927426645463429",
-      "timestamp_utc": "2026-06-30T12:02:47.000Z",
-      "timestamp_est": "2026-06-30T08:02:47-04:00",
-      "tweet_text": "@colinshorthcdd Nothing I'd engage until 7421-25 again",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7421-25 midpoint ~7423 is already in the morning plan; this is a reaffirmation in a reply, not a new actionable level."
-    },
     {
       "tweet_id": "2071940875156947454",
       "timestamp_utc": "2026-06-30T12:56:14.000Z",
