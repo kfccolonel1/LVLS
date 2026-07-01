@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T14:38:59.991830+00:00",
-  "fetched_at_est": "2026-07-01T10:38:59.991837-04:00",
+  "fetched_at_utc": "2026-07-01T14:59:06.348187+00:00",
+  "fetched_at_est": "2026-07-01T10:59:06.348195-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -180,6 +180,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7511/7530/7560/7578 are morning-plan levels; 7523 is an observation of price action; 7550 is not named with actionable language\u2014directional list only."
+    },
+    {
+      "tweet_id": "2072334050929385783",
+      "timestamp_utc": "2026-07-01T14:58:34.000Z",
+      "timestamp_est": "2026-07-01T10:58:34-04:00",
+      "tweet_text": "Incredible follow through in #ES_F. This morning I posted that traps of 7511 are actionable. 7511 was the overnight low. We swept it down to 7506, recovered, got long. I then gave the targets: 7530 (hit), 7560 (hit). 7560, 7578, 7590+ is next.\n\nRide runner now all week https://t.co/yhsJ28WyF7",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7511, 7530, 7560, 7578) are morning-plan levels or observations of hits. '7590+' is vague/non-specific. No new actionable levels named."
     }
   ]
 }
