@@ -1,23 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T13:08:45.636951+00:00",
-  "fetched_at_est": "2026-07-01T09:08:45.636956-04:00",
+  "fetched_at_utc": "2026-07-01T13:58:53.740667+00:00",
+  "fetched_at_est": "2026-07-01T09:58:53.740671-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071956360837656908",
-      "timestamp_utc": "2026-06-30T13:57:46.000Z",
-      "timestamp_est": "2026-06-30T09:57:46-04:00",
-      "tweet_text": "Pinpoint defense of 7493 support. Followers here know that since last Monday, I've had one clear target in #ES_F that I've called a magnet: 7530. We are almost here. 7421 reclaim was last long trigger and we are +100 on that.\n\nOnce 7530 hits, we can head to 7544, 7560, then 7590 https://t.co/xzB5wexuJm",
-      "added_bull_levels": [
-        7544.0,
-        7560.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7544 and 7560 named as sequential upside targets beyond 7530; not in morning plan. 7530/7590 are morning-plan levels; 7493/7421 are observations."
-    },
     {
       "tweet_id": "2071957152747356176",
       "timestamp_utc": "2026-06-30T14:00:54.000Z",
@@ -204,6 +192,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels mentioned (7421, 7511, 7492, 7550, 7560, 7578) are either morning-plan levels or hindsight/reaffirmation references; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2072317060269433237",
+      "timestamp_utc": "2026-07-01T13:51:03.000Z",
+      "timestamp_est": "2026-07-01T09:51:03-04:00",
+      "tweet_text": "Nice little vol spike there in #ES_F and make sure you lock in profits very aggressively now. 7511 was support given in 4pm newsletter. Held exact overnight. I then posted watch traps of 7511. We just trapped it, ran to 7523.\n\n7530, 7550, 7560, 7578 above still. Ride your runner https://t.co/tczPN0BeQt",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7511/7530/7560/7578 are morning-plan levels; 7523 is an observation of price action; 7550 is not named with actionable language\u2014directional list only."
     }
   ]
 }
