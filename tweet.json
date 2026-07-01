@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T16:19:27.656762+00:00",
-  "fetched_at_est": "2026-07-01T12:19:27.656767-04:00",
+  "fetched_at_utc": "2026-07-01T16:59:37.503935+00:00",
+  "fetched_at_est": "2026-07-01T12:59:37.503947-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -171,6 +171,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply thanking a subscriber \u2014 no price levels mentioned, no actionable content whatsoever."
+    },
+    {
+      "tweet_id": "2072363325287985261",
+      "timestamp_utc": "2026-07-01T16:54:54.000Z",
+      "timestamp_est": "2026-07-01T12:54:54-04:00",
+      "tweet_text": "@mblcta1 Typo, I meant 78",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply correcting a typo; no actionable price level named, no naming language, no context for any trade signal."
+    },
+    {
+      "tweet_id": "2072363858807623815",
+      "timestamp_utc": "2026-07-01T16:57:01.000Z",
+      "timestamp_est": "2026-07-01T12:57:01-04:00",
+      "tweet_text": "Today's work is done. Everyday in #ES_F is the same if you have an edge. Today's plan was wait for the trap of 7511 posted here and in newsletter. We trapped bears to 7506, recovered 11, and longed. My targets were 7530, 7550, 7560, 7578 (all hit).\n\nJust 7597 next from here. https://t.co/2yCiYXWfrl",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7511, 7530, 7550, 7560, 7578, 7597) are morning-plan levels or hit-target observations. 7506 is a trap observation, not a new actionable level."
     }
   ]
 }
