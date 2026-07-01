@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T19:20:09.018924+00:00",
-  "fetched_at_est": "2026-07-01T15:20:09.018929-04:00",
+  "fetched_at_utc": "2026-07-01T20:30:16.087111+00:00",
+  "fetched_at_est": "2026-07-01T16:30:16.087120-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2072054216844001514",
-      "timestamp_utc": "2026-06-30T20:26:36.000Z",
-      "timestamp_est": "2026-06-30T16:26:36-04:00",
-      "tweet_text": "@StephenJ223624 Thanks for the subscribe!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a subscription acknowledgment with no price levels mentioned at all."
-    },
     {
       "tweet_id": "2072288074441142400",
       "timestamp_utc": "2026-07-01T11:55:52.000Z",
