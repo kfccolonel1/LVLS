@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T15:19:16.946404+00:00",
-  "fetched_at_est": "2026-07-01T11:19:16.946408-04:00",
+  "fetched_at_utc": "2026-07-01T15:29:19.032654+00:00",
+  "fetched_at_est": "2026-07-01T11:29:19.032657-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071978447534956988",
-      "timestamp_utc": "2026-06-30T15:25:32.000Z",
-      "timestamp_est": "2026-06-30T11:25:32-04:00",
-      "tweet_text": "@Poonz83 @CDP543323274225 @Tesla4life69420 Never made any sense to me, was always taught to buy strong markets and sell weak markets",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading philosophy; no price levels mentioned or actionable signals given."
-    },
     {
       "tweet_id": "2071989858810163624",
       "timestamp_utc": "2026-06-30T16:10:52.000Z",
