@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T03:17:31.344691+00:00",
-  "fetched_at_est": "2026-06-30T23:17:31.344697-04:00",
+  "fetched_at_utc": "2026-07-01T11:48:10.790083+00:00",
+  "fetched_at_est": "2026-07-01T07:48:10.790089-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071923521358381217",
-      "timestamp_utc": "2026-06-30T11:47:16.000Z",
-      "timestamp_est": "2026-06-30T07:47:16-04:00",
-      "tweet_text": "Note: There are no actionable supports now until much lower, refer to newsletter for actionable levels",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific prices named; tweet defers to newsletter with no new actionable level introduced."
-    },
     {
       "tweet_id": "2071927426645463429",
       "timestamp_utc": "2026-06-30T12:02:47.000Z",
