@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-01T15:49:24.129786+00:00",
-  "fetched_at_est": "2026-07-01T11:49:24.129790-04:00",
+  "fetched_at_utc": "2026-07-01T16:19:27.656762+00:00",
+  "fetched_at_est": "2026-07-01T12:19:27.656767-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2071989858810163624",
-      "timestamp_utc": "2026-06-30T16:10:52.000Z",
-      "timestamp_est": "2026-06-30T12:10:52-04:00",
-      "tweet_text": "We continue to push the targets nicely in #ES_F. Holiday week, bullish structure. Just sit back &amp; ride runner all week. My target was clear and stated over a dozen times: 7530. 7421 reclaim was last long entry, and we are +130 on this now.\n\n7544 was next (hit). 7560, 7590 coming https://t.co/6nw7Seu5Nh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7530/7560/7590 are reaffirmations or prior targets; 7544 is an observation of a hit; 7421 is trade management reference. No new actionable levels named."
-    },
     {
       "tweet_id": "2072009163576651819",
       "timestamp_utc": "2026-06-30T17:27:35.000Z",
