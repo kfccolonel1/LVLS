@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T19:03:20.659501+00:00",
-  "fetched_at_est": "2026-07-02T15:03:20.659510-04:00",
+  "fetched_at_utc": "2026-07-02T19:13:25.615022+00:00",
+  "fetched_at_est": "2026-07-02T15:13:25.615026-04:00",
   "last_new_level_added_at_est": "2026-07-02T13:26:21-04:00",
   "todays_new_levels": [
     {
@@ -171,6 +171,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7521 named as 'overnight shelf' \u2014 actionable support level not in morning plan; failure = bear control, recovery = bull control."
+    },
+    {
+      "tweet_id": "2072759854515519535",
+      "timestamp_utc": "2026-07-02T19:10:33.000Z",
+      "timestamp_est": "2026-07-02T15:10:33-04:00",
+      "tweet_text": "Closing update #ES_F: Good late day volatility expansion. 7521 must reclaim now to rally. 7506 remains a high risk scalp just above there. We already got this one earlier. 7482 is support which is now well tested. NEwsletter out soon with entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7521 and 7506 are observations/commentary; 7482 is close to morning plan 7483. No newly named actionable levels introduced with qualifying language."
     }
   ]
 }
