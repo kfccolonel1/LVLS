@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T17:43:07.678008+00:00",
-  "fetched_at_est": "2026-07-02T13:43:07.678013-04:00",
+  "fetched_at_utc": "2026-07-02T17:53:09.606049+00:00",
+  "fetched_at_est": "2026-07-02T13:53:09.606056-04:00",
   "last_new_level_added_at_est": "2026-07-02T13:26:21-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072376346131472439",
-      "timestamp_utc": "2026-07-01T17:46:38.000Z",
-      "timestamp_est": "2026-07-01T13:46:38-04:00",
-      "tweet_text": "@anananna99 Those are supports, not targets. I don't post downside targets since I only long",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user explaining post philosophy; no price levels named or actionable triggers mentioned."
-    },
     {
       "tweet_id": "2072395494991499654",
       "timestamp_utc": "2026-07-01T19:02:43.000Z",
