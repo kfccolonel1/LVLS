@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T12:51:48.574906+00:00",
-  "fetched_at_est": "2026-07-02T08:51:48.574912-04:00",
+  "fetched_at_utc": "2026-07-02T13:11:51.246779+00:00",
+  "fetched_at_est": "2026-07-02T09:11:51.246784-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2072305831035494729",
-      "timestamp_utc": "2026-07-01T13:06:26.000Z",
-      "timestamp_est": "2026-07-01T09:06:26-04:00",
-      "tweet_text": "Low volatility holiday week continues in #ES_F: Wait for a violent elevator down sell to trade. 7421 Failed Breakdown was last entry on Monday. 7511 was support given in newsletter, held perfect overnight\n\nNo change: Watch traps there. 7492, below. 7550, 7560, 7578 remain upsides https://t.co/vrylTbIGhF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7421, 7511, 7492, 7550, 7560, 7578) are either morning-plan levels or hindsight/reaffirmation references; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2072317060269433237",
       "timestamp_utc": "2026-07-01T13:51:03.000Z",
