@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T12:31:41.972996+00:00",
-  "fetched_at_est": "2026-07-02T08:31:41.973001-04:00",
+  "fetched_at_utc": "2026-07-02T12:41:46.607500+00:00",
+  "fetched_at_est": "2026-07-02T08:41:46.607505-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2072297968128905496",
-      "timestamp_utc": "2026-07-01T12:35:11.000Z",
-      "timestamp_est": "2026-07-01T08:35:11-04:00",
-      "tweet_text": "@SpxgammaEdge This is a very strong week seasonally so we could definitely keep pushing but I don't think we're quite ready for the actual macro breakout to all time highs yet. We are in a multi-month flag and I could see it filling out for a few more months still",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure macro/seasonal commentary with no actionable price named; 'all time highs' and 'multi-month flag' are directional observations, not named levels."
-    },
     {
       "tweet_id": "2072299779824947655",
       "timestamp_utc": "2026-07-01T12:42:23.000Z",
@@ -167,6 +158,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user commenting on a Failed Breakdown \u2014 no price named, no actionable level, pure conversational observation."
+    },
+    {
+      "tweet_id": "2072659601556701299",
+      "timestamp_utc": "2026-07-02T12:32:11.000Z",
+      "timestamp_est": "2026-07-02T08:32:11-04:00",
+      "tweet_text": "@StephenJ223624 I'd take it around 11-12 still. The low is whats important here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a range (11-12) in context of 'the low'; no explicit actionable price named with naming language."
     }
   ]
 }
