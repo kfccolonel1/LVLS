@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T15:02:21.261875+00:00",
-  "fetched_at_est": "2026-07-02T11:02:21.261883-04:00",
+  "fetched_at_utc": "2026-07-02T15:12:23.149059+00:00",
+  "fetched_at_est": "2026-07-02T11:12:23.149065-04:00",
   "last_new_level_added_at_est": "2026-07-02T10:42:52-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072335325733490824",
-      "timestamp_utc": "2026-07-01T15:03:38.000Z",
-      "timestamp_est": "2026-07-01T11:03:38-04:00",
-      "tweet_text": "@options_tlh Usually does, thanks for the subscribe!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a casual reply thanking a subscriber \u2014 no price levels, no actionable language, no market content whatsoever."
-    },
-    {
-      "tweet_id": "2072335981764604353",
-      "timestamp_utc": "2026-07-01T15:06:14.000Z",
-      "timestamp_est": "2026-07-01T11:06:14-04:00",
-      "tweet_text": "#ES_F does the same thing everyday. Per newsletter, 7511 was support. Held exact at 3:30AM. After a bounce, ES then puts in the Failed Breakdown. I tweeted 9:06AM to watch the trap of 7511. Now, we just rally\n\nTargets were 7530 (hit), 7550 (hit), 7560 (hit), 7572, 7590-97 next https://t.co/U03BuO1CHT",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices cited (7511, 7530, 7550, 7560, 7572, 7590-97) are morning-plan levels or hindsight references to already-published targets; no new actionable level introduced."
-    },
     {
       "tweet_id": "2072345071777628215",
       "timestamp_utc": "2026-07-01T15:42:22.000Z",
