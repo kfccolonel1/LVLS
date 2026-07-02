@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T17:53:09.606049+00:00",
-  "fetched_at_est": "2026-07-02T13:53:09.606056-04:00",
+  "fetched_at_utc": "2026-07-02T18:23:16.254122+00:00",
+  "fetched_at_est": "2026-07-02T14:23:16.254127-04:00",
   "last_new_level_added_at_est": "2026-07-02T13:26:21-04:00",
   "todays_new_levels": [
     {
@@ -169,6 +169,17 @@
       ],
       "added_bear_levels": [],
       "notes": "7521 'shelf must reclaim to rally' and 7506 'reclaim' are new actionable bull trigger levels not in morning plan. 7483/7453 are morning plan levels, ignored."
+    },
+    {
+      "tweet_id": "2072746998759936100",
+      "timestamp_utc": "2026-07-02T18:19:28.000Z",
+      "timestamp_est": "2026-07-02T14:19:28-04:00",
+      "tweet_text": "@MacedoAgostinho Because the overnight shelf is at 7521 now. Whenever a shelf fails bears take control utnil the shelf recovers.",
+      "added_bull_levels": [
+        7521.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7521 named as 'overnight shelf' \u2014 actionable support level not in morning plan; failure = bear control, recovery = bull control."
     }
   ]
 }
