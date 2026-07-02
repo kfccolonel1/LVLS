@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T15:42:26.635610+00:00",
-  "fetched_at_est": "2026-07-02T11:42:26.635618-04:00",
+  "fetched_at_utc": "2026-07-02T16:02:35.882969+00:00",
+  "fetched_at_est": "2026-07-02T12:02:35.882973-04:00",
   "last_new_level_added_at_est": "2026-07-02T10:42:52-04:00",
   "todays_new_levels": [
     {
@@ -159,6 +159,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7521 named explicitly as a recovery trigger to watch ('recover 7521 now') \u2014 not in morning plan. 7511/7568/7597 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2072711684905488410",
+      "timestamp_utc": "2026-07-02T15:59:09.000Z",
+      "timestamp_est": "2026-07-02T11:59:09-04:00",
+      "tweet_text": "It took hours but we are finally coming into mild supports in #ES_F. 7511 Failed Breakdown was last long trigger at 930am ystd. Targets today were 7560, 7568, 7597 (3 points shy, then sold).\n\nAt 7521 now. Watch sweeps here that hold 7511. 7541, 7560+ upsides. https://t.co/R2hyeHcjRF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7511, 7541, 7560, 7568, 7597 all in morning plan. '7521 now' is price observation. 'Watch sweeps here that hold 7511' is reaffirmation of existing level, not new."
     }
   ]
 }
