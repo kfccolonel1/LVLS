@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T12:01:34.114411+00:00",
-  "fetched_at_est": "2026-07-02T08:01:34.114416-04:00",
+  "fetched_at_utc": "2026-07-02T12:11:36.096131+00:00",
+  "fetched_at_est": "2026-07-02T08:11:36.096137-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2072291723397493051",
-      "timestamp_utc": "2026-07-01T12:10:22.000Z",
-      "timestamp_est": "2026-07-01T08:10:22-04:00",
-      "tweet_text": "@Raptor_Futes I didn't take it (was too late and I do don't do direct level buys anymore) but for me if I did stop would go maybe 7 points below 7511 at entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management reply about stop placement below 7511 (morning plan level). No new actionable level named."
-    },
-    {
-      "tweet_id": "2072291909544935543",
-      "timestamp_utc": "2026-07-01T12:11:07.000Z",
-      "timestamp_est": "2026-07-01T08:11:07-04:00",
-      "tweet_text": "@CorlukaDejan Hopefully! There is some possible bearish structure here but will need a catalyst to actualize it. Otherwise market is programmed just to grind all week",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary about market structure and sentiment; no actionable price level named or implied."
-    },
     {
       "tweet_id": "2072297968128905496",
       "timestamp_utc": "2026-07-01T12:35:11.000Z",
