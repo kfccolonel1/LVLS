@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T12:41:46.607500+00:00",
-  "fetched_at_est": "2026-07-02T08:41:46.607505-04:00",
+  "fetched_at_utc": "2026-07-02T12:51:48.574906+00:00",
+  "fetched_at_est": "2026-07-02T08:51:48.574912-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2072299779824947655",
-      "timestamp_utc": "2026-07-01T12:42:23.000Z",
-      "timestamp_est": "2026-07-01T08:42:23-04:00",
-      "tweet_text": "@Taylor8xeno8 @SpxgammaEdge That is a very big picture observation, we're in a large macro bull flag. These take months to build and mature. It will produce a 500-1000 point rally when its done but it doesn't happen overnight. Flag has to mature properly and not prematurely breakout",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Purely macro commentary about a bull flag pattern; no specific actionable price level named, just a vague 500-1000 point rally estimate."
-    },
-    {
-      "tweet_id": "2072301132508983554",
-      "timestamp_utc": "2026-07-01T12:47:46.000Z",
-      "timestamp_est": "2026-07-01T08:47:46-04:00",
-      "tweet_text": "@1MDec2030 @Taylor8xeno8 @SpxgammaEdge For sure! if it were my choice everyday would be a big red day",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply with no price levels named, no actionable language, purely social commentary."
-    },
     {
       "tweet_id": "2072305831035494729",
       "timestamp_utc": "2026-07-01T13:06:26.000Z",
