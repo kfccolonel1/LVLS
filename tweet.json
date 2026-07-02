@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T17:12:55.518709+00:00",
-  "fetched_at_est": "2026-07-02T13:12:55.518717-04:00",
+  "fetched_at_utc": "2026-07-02T17:23:00.442937+00:00",
+  "fetched_at_est": "2026-07-02T13:23:00.442942-04:00",
   "last_new_level_added_at_est": "2026-07-02T10:42:52-04:00",
   "todays_new_levels": [
     {
@@ -168,6 +168,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7597 is already in today's morning plan. Tweet is a hindsight reaffirmation/newsletter reference, not a new actionable level."
+    },
+    {
+      "tweet_id": "2072731328819183973",
+      "timestamp_utc": "2026-07-02T17:17:12.000Z",
+      "timestamp_est": "2026-07-02T13:17:12-04:00",
+      "tweet_text": "@BrianMelcher24 06 Failed Breakdown from newsletter is good if we can trigger, so is the 94 from newsletter. Issue with 06 is that overnight shelf at 21 though, you want strong momentum",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "References to '06' (7506?), '94', and '21' are newsletter/morning-plan levels being discussed contextually; no new actionable level named for the first time."
     }
   ]
 }
