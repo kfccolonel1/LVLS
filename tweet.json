@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T17:23:00.442937+00:00",
-  "fetched_at_est": "2026-07-02T13:23:00.442942-04:00",
-  "last_new_level_added_at_est": "2026-07-02T10:42:52-04:00",
+  "fetched_at_utc": "2026-07-02T17:33:05.781259+00:00",
+  "fetched_at_est": "2026-07-02T13:33:05.781263-04:00",
+  "last_new_level_added_at_est": "2026-07-02T13:26:21-04:00",
   "todays_new_levels": [
     {
       "price": 7520.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-07-02T10:42:52-04:00",
       "expires_at_est": "2026-07-02T18:42:52-04:00",
       "from_tweet_id": "2072692488515535269"
+    },
+    {
+      "price": 7506.0,
+      "side": "bull",
+      "added_at_est": "2026-07-02T13:26:21-04:00",
+      "expires_at_est": "2026-07-02T21:26:21-04:00",
+      "from_tweet_id": "2072733628975513824"
     }
   ],
   "updates": [
@@ -177,6 +184,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "References to '06' (7506?), '94', and '21' are newsletter/morning-plan levels being discussed contextually; no new actionable level named for the first time."
+    },
+    {
+      "tweet_id": "2072733628975513824",
+      "timestamp_utc": "2026-07-02T17:26:21.000Z",
+      "timestamp_est": "2026-07-02T13:26:21-04:00",
+      "tweet_text": "Good volatility pickup. Today's final target was 7597 and we came 3 points shy &amp; sold. Newsletter readers know this was the point at which #ES_F should digest the recent run up\n\n7521 shelf must reclaim to rally. 7506 reclaim higher risk before that. 7483, 7453=supports https://t.co/kRY6GpOwe1",
+      "added_bull_levels": [
+        7521.0,
+        7506.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7521 'shelf must reclaim to rally' and 7506 'reclaim' are new actionable bull trigger levels not in morning plan. 7483/7453 are morning plan levels, ignored."
     }
   ]
 }
