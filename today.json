@@ -1,21 +1,18 @@
 {
-  "session_date": "2026-07-01",
+  "session_date": "2026-07-02",
   "daily_pivot": 7511,
   "regime_hint": "C1",
   "significant_lows": [
+    7541,
+    7511,
     7492,
     7459,
-    7420,
-    7409,
-    7368
+    7423,
+    7409
   ],
   "bull_levels": [
     {
-      "price": 7560.0,
-      "major": true
-    },
-    {
-      "price": 7578.0,
+      "price": 7568.0,
       "major": true
     },
     {
@@ -27,37 +24,45 @@
       "major": true
     },
     {
-      "price": 7638.0,
+      "price": 7636.0,
       "major": true
     },
     {
-      "price": 7668.0,
+      "price": 7641.0,
       "major": true
     },
     {
-      "price": 7683.0,
+      "price": 7661.0,
       "major": true
     },
     {
-      "price": 7728.0,
+      "price": 7673.0,
       "major": true
     },
     {
-      "price": 7750.0,
+      "price": 7694.0,
       "major": true
     },
     {
-      "price": 7780.0,
+      "price": 7722.0,
+      "major": true
+    },
+    {
+      "price": 7752.0,
+      "major": true
+    },
+    {
+      "price": 7785.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7530.0,
+      "price": 7541.0,
       "major": true
     },
     {
-      "price": 7511.0,
+      "price": 7512.0,
       "major": true
     },
     {
@@ -65,11 +70,11 @@
       "major": true
     },
     {
-      "price": 7459.0,
+      "price": 7453.0,
       "major": true
     },
     {
-      "price": 7420.0,
+      "price": 7422.0,
       "major": true
     },
     {
@@ -77,19 +82,19 @@
       "major": true
     },
     {
-      "price": 7374.0,
+      "price": 7371.0,
       "major": true
     },
     {
-      "price": 7351.0,
+      "price": 7357.0,
       "major": true
     },
     {
-      "price": 7337.0,
+      "price": 7336.0,
       "major": true
     },
     {
-      "price": 7321.0,
+      "price": 7326.0,
       "major": true
     },
     {
@@ -97,20 +102,32 @@
       "major": true
     },
     {
-      "price": 7276.0,
+      "price": 7277.0,
       "major": true
     },
     {
-      "price": 7235.0,
+      "price": 7263.0,
       "major": true
     },
     {
-      "price": 7223.0,
+      "price": 7234.0,
+      "major": true
+    },
+    {
+      "price": 7224.0,
+      "major": true
+    },
+    {
+      "price": 7210.0,
+      "major": true
+    },
+    {
+      "price": 7198.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish into July 4th holiday week, one of the strongest seasonal windows of the year. After today's rally to 7530, he expects continuation toward 7578 then 7597 with little pullback. He holds a long runner from the 7421 Failed Breakdown on Sunday. Key pivot is 7511: bulls stay in control above it, and any dip ideally holds there or at 7492 before resuming higher. Below 7459 the bear case begins.",
-  "fetched_at": "2026-07-01T05:00:19.348967+00:00"
+  "notes": "Trader leans bullish into a seasonally strong holiday-shortened week. He wants dips to hold 7541 or 7511; a quick flush below 7511 that quickly recovers (failed breakdown) is the preferred long entry. Targets above are 7568 then 7597. The key pivot is 7511: above it bulls stay in control and the rally continues toward 7597-7611+; a sustained break below 7492 would shift the tone bearish.",
+  "fetched_at": "2026-07-02T05:00:19.627937+00:00"
 }
