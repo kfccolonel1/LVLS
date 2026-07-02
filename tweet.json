@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-02T18:23:16.254122+00:00",
-  "fetched_at_est": "2026-07-02T14:23:16.254127-04:00",
+  "fetched_at_utc": "2026-07-02T19:03:20.659501+00:00",
+  "fetched_at_est": "2026-07-02T15:03:20.659510-04:00",
   "last_new_level_added_at_est": "2026-07-02T13:26:21-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072395494991499654",
-      "timestamp_utc": "2026-07-01T19:02:43.000Z",
-      "timestamp_est": "2026-07-01T15:02:43-04:00",
-      "tweet_text": "Closing update #ES_F: Very easy day. 7511 Failed Breakdown was long trigger, we got it, and up went to 7578 target. Now, we just rinse and repeat. Ride runner until the next \"elevator down\" sell, to do it again, as we do everyday. Newsletter out soon talking next entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7511, 7578) are morning-plan levels. No new actionable levels named; tweet is trade recap and management commentary."
-    },
     {
       "tweet_id": "2072651384730661209",
       "timestamp_utc": "2026-07-02T11:59:32.000Z",
