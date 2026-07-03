@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T12:25:46.136608+00:00",
-  "fetched_at_est": "2026-07-03T08:25:46.136616-04:00",
+  "fetched_at_utc": "2026-07-03T12:35:48.022066+00:00",
+  "fetched_at_est": "2026-07-03T08:35:48.022072-04:00",
   "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072659601556701299",
-      "timestamp_utc": "2026-07-02T12:32:11.000Z",
-      "timestamp_est": "2026-07-02T08:32:11-04:00",
-      "tweet_text": "@StephenJ223624 I'd take it around 11-12 still. The low is whats important here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing a range (11-12) in context of 'the low'; no explicit actionable price named with naming language."
-    },
     {
       "tweet_id": "2072669673590587475",
       "timestamp_utc": "2026-07-02T13:12:13.000Z",
