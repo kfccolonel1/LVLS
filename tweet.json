@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T01:44:11.123907+00:00",
-  "fetched_at_est": "2026-07-02T21:44:11.123912-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-03T11:35:36.065914+00:00",
+  "fetched_at_est": "2026-07-03T07:35:36.065920-04:00",
+  "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7567.0,
+      "side": "bull",
+      "added_at_est": "2026-07-03T07:32:36-04:00",
+      "expires_at_est": "2026-07-03T15:32:36-04:00",
+      "from_tweet_id": "2073006991388062039"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2072651384730661209",
@@ -176,6 +184,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet clarifying a prior comment; no prices named, no actionable levels, purely conversational."
+    },
+    {
+      "tweet_id": "2073006991388062039",
+      "timestamp_utc": "2026-07-03T11:32:36.000Z",
+      "timestamp_est": "2026-07-03T07:32:36-04:00",
+      "tweet_text": "Short session for #ES_F. Late day yesterday we finally got volatility (sell to 7483 support) &amp; that means trades. I wrote at 3:10PM that 7521 must reclaim to rally. Shortly after, 21 reclaimed and longs triggered. +40\n\nPlan: Ride runner. 7521/7511=supports. 7567, 7578, 7597 next https://t.co/oSGyQgmSWK",
+      "added_bull_levels": [
+        7567.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7567 named as 'next' resistance target not in morning plan. 7521, 7511, 7578, 7597 are all morning-plan levels (reaffirmations)."
     }
   ]
 }
