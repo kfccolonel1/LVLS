@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T19:36:35.752842+00:00",
-  "fetched_at_est": "2026-07-03T15:36:35.752850-04:00",
+  "fetched_at_utc": "2026-07-03T23:46:56.010273+00:00",
+  "fetched_at_est": "2026-07-03T19:46:56.010280-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2072828755681116593",
-      "timestamp_utc": "2026-07-02T23:44:21.000Z",
-      "timestamp_est": "2026-07-02T19:44:21-04:00",
-      "tweet_text": "@KnightTrader999 Have to remember that yesteday's 7511 long wasn't my first long. I'd been long since the Sunday 6pm 7421 Failed Breakdown, so my cost basis isn't at 7516 its much lower. Its just a 10% runner though so it doesn't really matter either way",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management/hindsight reply: references 7511 and 7421 (both in morning plan) as prior entries, no new actionable level named."
-    },
     {
       "tweet_id": "2072857375371833570",
       "timestamp_utc": "2026-07-03T01:38:04.000Z",
