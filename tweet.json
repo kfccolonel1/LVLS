@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T16:36:14.066601+00:00",
-  "fetched_at_est": "2026-07-03T12:36:14.066609-04:00",
+  "fetched_at_utc": "2026-07-03T16:46:15.855776+00:00",
+  "fetched_at_est": "2026-07-03T12:46:15.855781-04:00",
   "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072722375133593723",
-      "timestamp_utc": "2026-07-02T16:41:38.000Z",
-      "timestamp_est": "2026-07-02T12:41:38-04:00",
-      "tweet_text": "Finally a little bit of volatility to work with in #ES_F. 7511 Failed Breakdown was last entry was 930am yesterday. Today's final target was 7597 and we got 3 points shy then sold.\n\nNow, we are back to 7511 zone. Bulls are going to want to recover the 7521 shelf now to work up https://t.co/iHOIyIHZGF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7511 and 7597 are morning plan levels; 7521 is mentioned as a 'shelf' but lacks explicit actionable naming language meeting all three criteria."
-    },
     {
       "tweet_id": "2072726828721057797",
       "timestamp_utc": "2026-07-02T16:59:20.000Z",
