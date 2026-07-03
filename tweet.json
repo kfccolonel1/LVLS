@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T14:05:57.171550+00:00",
-  "fetched_at_est": "2026-07-03T10:05:57.171556-04:00",
+  "fetched_at_utc": "2026-07-03T14:25:59.788777+00:00",
+  "fetched_at_est": "2026-07-03T10:25:59.788785-04:00",
   "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072687911955288081",
-      "timestamp_utc": "2026-07-02T14:24:41.000Z",
-      "timestamp_est": "2026-07-02T10:24:41-04:00",
-      "tweet_text": "@Bluepit_80 Its not bad, but win rate for shorts in general just far too low to actually derive an edge over a big sample in ES.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about win rates for shorts; no price level named or actionable instruction given."
-    },
     {
       "tweet_id": "2072689314731815251",
       "timestamp_utc": "2026-07-02T14:30:15.000Z",
