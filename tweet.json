@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T11:35:36.065914+00:00",
-  "fetched_at_est": "2026-07-03T07:35:36.065920-04:00",
+  "fetched_at_utc": "2026-07-03T11:45:40.907738+00:00",
+  "fetched_at_est": "2026-07-03T07:45:40.907743-04:00",
   "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
   "todays_new_levels": [
     {
@@ -195,6 +195,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7567 named as 'next' resistance target not in morning plan. 7521, 7511, 7578, 7597 are all morning-plan levels (reaffirmations)."
+    },
+    {
+      "tweet_id": "2073008097761595640",
+      "timestamp_utc": "2026-07-03T11:36:59.000Z",
+      "timestamp_est": "2026-07-03T07:36:59-04:00",
+      "tweet_text": "@fiveinchhammer @KnightTrader999 Yes runner stops out below the prior days low, but if my entry is much lower as it was here and I like the structure I am fairly loose with this rule. It is always only a 10% runner for me (tiny)  with a large embedded profit. Would often take price going 50-100 points below my",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining runner stop management philosophy; no specific actionable price level named, only general distance commentary (50-100 points)."
     }
   ]
 }
