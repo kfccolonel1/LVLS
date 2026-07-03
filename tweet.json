@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T16:06:10.677280+00:00",
-  "fetched_at_est": "2026-07-03T12:06:10.677286-04:00",
+  "fetched_at_utc": "2026-07-03T16:36:14.066601+00:00",
+  "fetched_at_est": "2026-07-03T12:36:14.066609-04:00",
   "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072718630735732965",
-      "timestamp_utc": "2026-07-02T16:26:45.000Z",
-      "timestamp_est": "2026-07-02T12:26:45-04:00",
-      "tweet_text": "@PeriHelion96002 More downside is always better! Fresh setups are all lower and downside creates volatility",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; purely conversational commentary about preferring downside and volatility. No actionable level named."
-    },
     {
       "tweet_id": "2072722375133593723",
       "timestamp_utc": "2026-07-02T16:41:38.000Z",
