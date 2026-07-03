@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T11:45:40.907738+00:00",
-  "fetched_at_est": "2026-07-03T07:45:40.907743-04:00",
+  "fetched_at_utc": "2026-07-03T12:05:43.537805+00:00",
+  "fetched_at_est": "2026-07-03T08:05:43.537810-04:00",
   "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072651384730661209",
-      "timestamp_utc": "2026-07-02T11:59:32.000Z",
-      "timestamp_est": "2026-07-02T07:59:32-04:00",
-      "tweet_text": "Low vol holiday grind week continues in #ES_F. Don't force trades. Last entry was the 7511 Failed Breakdown at 9:30AM yesterday. Targets were 7530, 7550, 7560, 7578. All were hit\n\nPlan today: Ride runner. 7512, 7492=only supports to engage. 7560, 7568, 7597 next set of targets https://t.co/40bC4YOWS9",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7511/7512, 7492, 7560, 7568, 7597) are morning-plan levels or hindsight trade recap. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2072656966665621964",
       "timestamp_utc": "2026-07-02T12:21:43.000Z",
