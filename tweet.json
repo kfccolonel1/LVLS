@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-03T16:46:15.855776+00:00",
-  "fetched_at_est": "2026-07-03T12:46:15.855781-04:00",
+  "fetched_at_utc": "2026-07-03T17:06:18.298057+00:00",
+  "fetched_at_est": "2026-07-03T13:06:18.298064-04:00",
   "last_new_level_added_at_est": "2026-07-03T07:32:36-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2072726828721057797",
-      "timestamp_utc": "2026-07-02T16:59:20.000Z",
-      "timestamp_est": "2026-07-02T12:59:20-04:00",
-      "tweet_text": "@Gail20211 Mentioned in in newsletter yesterday that at 7597 ES would need to digest the run. Structure incredibly bullish now!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7597 is already in today's morning plan. Tweet is a hindsight reaffirmation/newsletter reference, not a new actionable level."
-    },
     {
       "tweet_id": "2072731328819183973",
       "timestamp_utc": "2026-07-02T17:17:12.000Z",
