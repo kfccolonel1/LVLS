@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-05T17:32:49.502309+00:00",
-  "fetched_at_est": "2026-07-05T13:32:49.502315-04:00",
+  "fetched_at_utc": "2026-07-05T18:22:54.180751+00:00",
+  "fetched_at_est": "2026-07-05T14:22:54.180758-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2073470628443602944",
-      "timestamp_utc": "2026-07-04T18:14:55.000Z",
-      "timestamp_est": "2026-07-04T14:14:55-04:00",
-      "tweet_text": "@ES_Money_Print Yesterday was a holiday session so nothing to post after the morning! Won't be a Saturday update this week",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Administrative/scheduling note only \u2014 no prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2073821588802162900",
       "timestamp_utc": "2026-07-05T17:29:31.000Z",
