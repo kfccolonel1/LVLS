@@ -1,30 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-04T01:47:06.241205+00:00",
-  "fetched_at_est": "2026-07-03T21:47:06.241211-04:00",
+  "fetched_at_utc": "2026-07-05T04:07:38.591121+00:00",
+  "fetched_at_est": "2026-07-05T00:07:38.591125-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2073006991388062039",
-      "timestamp_utc": "2026-07-03T11:32:36.000Z",
-      "timestamp_est": "2026-07-03T07:32:36-04:00",
-      "tweet_text": "Short session for #ES_F. Late day yesterday we finally got volatility (sell to 7483 support) &amp; that means trades. I wrote at 3:10PM that 7521 must reclaim to rally. Shortly after, 21 reclaimed and longs triggered. +40\n\nPlan: Ride runner. 7521/7511=supports. 7567, 7578, 7597 next https://t.co/oSGyQgmSWK",
-      "added_bull_levels": [
-        7567.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7567 named as 'next' resistance target not in morning plan. 7521, 7511, 7578, 7597 are all morning-plan levels (reaffirmations)."
-    },
-    {
-      "tweet_id": "2073008097761595640",
-      "timestamp_utc": "2026-07-03T11:36:59.000Z",
-      "timestamp_est": "2026-07-03T07:36:59-04:00",
-      "tweet_text": "@fiveinchhammer @KnightTrader999 Yes runner stops out below the prior days low, but if my entry is much lower as it was here and I like the structure I am fairly loose with this rule. It is always only a 10% runner for me (tiny)  with a large embedded profit. Would often take price going 50-100 points below my",
+      "tweet_id": "2073470628443602944",
+      "timestamp_utc": "2026-07-04T18:14:55.000Z",
+      "timestamp_est": "2026-07-04T14:14:55-04:00",
+      "tweet_text": "@ES_Money_Print Yesterday was a holiday session so nothing to post after the morning! Won't be a Saturday update this week",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Reply explaining runner stop management philosophy; no specific actionable price level named, only general distance commentary (50-100 points)."
+      "notes": "Administrative/scheduling note only \u2014 no prices mentioned, no actionable levels named."
     }
   ]
 }
