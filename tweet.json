@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-06T13:14:37.152420+00:00",
-  "fetched_at_est": "2026-07-06T09:14:37.152424-04:00",
+  "fetched_at_utc": "2026-07-06T14:04:45.332285+00:00",
+  "fetched_at_est": "2026-07-06T10:04:45.332290-04:00",
   "last_new_level_added_at_est": "2026-07-06T07:57:08-04:00",
   "todays_new_levels": [
     {
@@ -71,6 +71,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7588 named explicitly as 'next' resistance target alongside 7578/7597 (morning plan). 7588 is not in the morning plan and is actionable as next resistance."
+    },
+    {
+      "tweet_id": "2074129963398099354",
+      "timestamp_utc": "2026-07-06T13:54:53.000Z",
+      "timestamp_est": "2026-07-06T09:54:53-04:00",
+      "tweet_text": "@IsshoKnows That would be an excellent entry but we need volatility to get down there",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no explicit price named; no actionable level introduced."
     }
   ]
 }
