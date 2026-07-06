@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-06T17:35:41.384162+00:00",
-  "fetched_at_est": "2026-07-06T13:35:41.384176-04:00",
-  "last_new_level_added_at_est": "2026-07-06T07:57:08-04:00",
+  "fetched_at_utc": "2026-07-06T17:45:46.650464+00:00",
+  "fetched_at_est": "2026-07-06T13:45:46.650468-04:00",
+  "last_new_level_added_at_est": "2026-07-06T13:37:14-04:00",
   "todays_new_levels": [
     {
       "price": 7588.0,
@@ -11,6 +11,20 @@
       "added_at_est": "2026-07-06T07:57:08-04:00",
       "expires_at_est": "2026-07-06T15:57:08-04:00",
       "from_tweet_id": "2074100332624330788"
+    },
+    {
+      "price": 7597.0,
+      "side": "bull",
+      "added_at_est": "2026-07-06T13:37:14-04:00",
+      "expires_at_est": "2026-07-06T21:37:14-04:00",
+      "from_tweet_id": "2074185920459235630"
+    },
+    {
+      "price": 7611.0,
+      "side": "bull",
+      "added_at_est": "2026-07-06T13:37:14-04:00",
+      "expires_at_est": "2026-07-06T21:37:14-04:00",
+      "from_tweet_id": "2074185920459235630"
     }
   ],
   "updates": [
@@ -156,6 +170,19 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7540 is already in the morning plan. Rest is personal preference commentary, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2074185920459235630",
+      "timestamp_utc": "2026-07-06T17:37:14.000Z",
+      "timestamp_est": "2026-07-06T13:37:14-04:00",
+      "tweet_text": "We continue to drift up in #ES_F and just nothing to do. 7540-7567 was today's range. I posted earlier the task today was to hold runner for range breakout with 3 targets. They were: 7578 (hit), 7588 (hit), 7597 (2 points shy)\n\nOnce 7597 clears, we see 7611 bonus. Same supports https://t.co/nBZmronieS",
+      "added_bull_levels": [
+        7588.0,
+        7597.0,
+        7611.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7588 and 7597 are new runner targets not in morning plan; 7611 explicitly named as bonus target once 7597 clears \u2014 all three are actionable upside levels."
     }
   ]
 }
