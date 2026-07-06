@@ -6,9 +6,9 @@
     7521,
     7492,
     7482,
-    7454,
-    7421,
-    7409
+    7423,
+    7409,
+    7421
   ],
   "bull_levels": [
     {
@@ -136,6 +136,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish for Monday but is waiting for ES to reclaim the 7521 shelf (a multi-touch support from Wednesday night/Thursday morning) before acting. Above 7521 he targets 7540, 7578, and 7597. The key pivot is 7521: reclaiming it is the trigger for longs; failing to do so keeps pressure on 7492 and below. He will look to buy failed breakdowns at 7492 and 7482 if price dips there, taking profits level by level.",
-  "fetched_at": "2026-07-03T05:00:21.230953+00:00"
+  "notes": "Trader leans bullish but is waiting for ES to reclaim 7521 (a multi-touch shelf) before acting. Once 7521 is back, targets are 7540, 7578, then 7597. The daily pivot is 7521: above it the bull case is alive and price can work toward range highs; below 7492 the bear case opens and sellers may push toward 7482 and lower. Session is rangebound roughly 7511-7597; no crystal-ball calls, just reacting to failed breakdowns at key levels.",
+  "fetched_at": "2026-07-06T05:00:26.157876+00:00"
 }
