@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-06T20:06:02.628671+00:00",
-  "fetched_at_est": "2026-07-06T16:06:02.628678-04:00",
+  "fetched_at_utc": "2026-07-06T21:36:10.463448+00:00",
+  "fetched_at_est": "2026-07-06T17:36:10.463454-04:00",
   "last_new_level_added_at_est": "2026-07-06T13:37:14-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2073883214393860573",
-      "timestamp_utc": "2026-07-05T21:34:23.000Z",
-      "timestamp_est": "2026-07-05T17:34:23-04:00",
-      "tweet_text": "@Wes_Trades_ Boredom trades are a major loss causer!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely motivational/advisory commentary about avoiding boredom trades."
-    },
     {
       "tweet_id": "2074100332624330788",
       "timestamp_utc": "2026-07-06T11:57:08.000Z",
