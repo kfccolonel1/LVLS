@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-06T14:55:04.712722+00:00",
-  "fetched_at_est": "2026-07-06T10:55:04.712727-04:00",
+  "fetched_at_utc": "2026-07-06T15:05:10.358961+00:00",
+  "fetched_at_est": "2026-07-06T11:05:10.358965-04:00",
   "last_new_level_added_at_est": "2026-07-06T07:57:08-04:00",
   "todays_new_levels": [
     {
@@ -118,6 +118,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about September volatility \u2014 no price named, no actionable level, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2074145231109238900",
+      "timestamp_utc": "2026-07-06T14:55:33.000Z",
+      "timestamp_est": "2026-07-06T10:55:33-04:00",
+      "tweet_text": "We are pushing the targets nicely in #ES_F. Last long trigger was Thursday late afternoon on the 7521 Failed Breakdown. Today the chop range was 7540-7567. I posted 1hr ago hold runner for breakout. 1st breakout target was 7578 (hit). 7588, 7597 next.\n\n7597 is a magnet now https://t.co/vt0mh7uJhX",
+      "added_bull_levels": [
+        7588.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7588 named as next breakout target after 7578 hit \u2014 actionable upside level not in morning plan. 7578/7597 are morning-plan levels (reaffirmations)."
     }
   ]
 }
