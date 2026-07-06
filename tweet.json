@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-06T14:14:53.712087+00:00",
-  "fetched_at_est": "2026-07-06T10:14:53.712101-04:00",
+  "fetched_at_utc": "2026-07-06T14:24:58.470495+00:00",
+  "fetched_at_est": "2026-07-06T10:24:58.470500-04:00",
   "last_new_level_added_at_est": "2026-07-06T07:57:08-04:00",
   "todays_new_levels": [
     {
@@ -100,6 +100,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply acknowledging a prior entry/low \u2014 no actionable price named, no naming language, no new level introduced."
+    },
+    {
+      "tweet_id": "2074135063306883497",
+      "timestamp_utc": "2026-07-06T14:15:09.000Z",
+      "timestamp_est": "2026-07-06T10:15:09-04:00",
+      "tweet_text": "@peterpan312312 Thats basically the main reason I use runners! I make very little off them, but they control FOMO",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading psychology/runners; no price levels named or actionable signals given."
     }
   ]
 }
