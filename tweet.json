@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-06T14:24:58.470495+00:00",
-  "fetched_at_est": "2026-07-06T10:24:58.470500-04:00",
+  "fetched_at_utc": "2026-07-06T14:55:04.712722+00:00",
+  "fetched_at_est": "2026-07-06T10:55:04.712727-04:00",
   "last_new_level_added_at_est": "2026-07-06T07:57:08-04:00",
   "todays_new_levels": [
     {
@@ -109,6 +109,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about trading psychology/runners; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2074143677182623971",
+      "timestamp_utc": "2026-07-06T14:49:23.000Z",
+      "timestamp_est": "2026-07-06T10:49:23-04:00",
+      "tweet_text": "@Uncultured_Man Volatility usually returns hard in September!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about September volatility \u2014 no price named, no actionable level, no naming language whatsoever."
     }
   ]
 }
