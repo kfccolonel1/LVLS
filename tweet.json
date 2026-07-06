@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-05T21:43:13.771073+00:00",
-  "fetched_at_est": "2026-07-05T17:43:13.771078-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-06T12:04:20.989533+00:00",
+  "fetched_at_est": "2026-07-06T08:04:20.989538-04:00",
+  "last_new_level_added_at_est": "2026-07-06T07:57:08-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7588.0,
+      "side": "bull",
+      "added_at_est": "2026-07-06T07:57:08-04:00",
+      "expires_at_est": "2026-07-06T15:57:08-04:00",
+      "from_tweet_id": "2074100332624330788"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2073821588802162900",
@@ -23,6 +31,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; purely motivational/advisory commentary about avoiding boredom trades."
+    },
+    {
+      "tweet_id": "2074100332624330788",
+      "timestamp_utc": "2026-07-06T11:57:08.000Z",
+      "timestamp_est": "2026-07-06T07:57:08-04:00",
+      "tweet_text": "Volatility remains very low in #ES_F. Last long trigger was 3:10PM Thursday where I wrote 7521 must reclaim to rally. We reclaimed shortly after, rallied since. Now, hold runner until next vol expansion\n\nPlan: 7540=support (watch traps). 40-67=chop. 7578, 7588, 7597 next targets https://t.co/Kp3M3iCvrv",
+      "added_bull_levels": [
+        7588.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7588 named explicitly as a target not in morning plan; 7540/7578/7597 are reaffirmations of existing plan levels."
     }
   ]
 }
