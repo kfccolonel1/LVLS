@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T17:18:57.384803+00:00",
-  "fetched_at_est": "2026-07-07T13:18:57.384808-04:00",
+  "fetched_at_utc": "2026-07-07T17:29:02.121770+00:00",
+  "fetched_at_est": "2026-07-07T13:29:02.121776-04:00",
   "last_new_level_added_at_est": "2026-07-07T10:42:34-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074183449473077662",
-      "timestamp_utc": "2026-07-06T17:27:25.000Z",
-      "timestamp_est": "2026-07-06T13:27:25-04:00",
-      "tweet_text": "@D5star_general Id do the 7540 failed breakdown for sure. I probably wouldnt rebuy the 10% though but its a personal preference. 10% doesnt make a big difference either way and mostly just helps with FOMO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7540 is already in the morning plan. Rest is personal preference commentary, no new actionable levels named."
-    },
     {
       "tweet_id": "2074185920459235630",
       "timestamp_utc": "2026-07-06T17:37:14.000Z",
@@ -199,6 +190,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price mentioned, no actionable level, purely conversational agreement."
+    },
+    {
+      "tweet_id": "2074545725367624057",
+      "timestamp_utc": "2026-07-07T17:26:58.000Z",
+      "timestamp_est": "2026-07-07T13:26:58-04:00",
+      "tweet_text": "@CorlukaDejan It is a little but still looks bullish to me. May just need abit more time before a full breakout",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet expressing bullish opinion with no specific price level named or actionable trigger identified."
     }
   ]
 }
