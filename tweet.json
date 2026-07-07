@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T16:28:47.125216+00:00",
-  "fetched_at_est": "2026-07-07T12:28:47.125224-04:00",
+  "fetched_at_utc": "2026-07-07T16:38:49.309985+00:00",
+  "fetched_at_est": "2026-07-07T12:38:49.309992-04:00",
   "last_new_level_added_at_est": "2026-07-07T10:42:34-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074169029963427888",
-      "timestamp_utc": "2026-07-06T16:30:07.000Z",
-      "timestamp_est": "2026-07-06T12:30:07-04:00",
-      "tweet_text": "@DrJonnyBros All resistances just become supports once cleared",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "General conceptual reply about S/R flip mechanics; no specific price named or actionable level introduced."
-    },
     {
       "tweet_id": "2074183449473077662",
       "timestamp_utc": "2026-07-06T17:27:25.000Z",
