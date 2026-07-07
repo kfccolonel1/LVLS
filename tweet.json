@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T14:58:16.811538+00:00",
-  "fetched_at_est": "2026-07-07T10:58:16.811544-04:00",
+  "fetched_at_utc": "2026-07-07T15:08:22.014169+00:00",
+  "fetched_at_est": "2026-07-07T11:08:22.014175-04:00",
   "last_new_level_added_at_est": "2026-07-07T10:42:34-04:00",
   "todays_new_levels": [
     {
@@ -163,6 +163,15 @@
         7504.0
       ],
       "notes": "7553 named as new bull target ('to see 7553'); 7504 named as new bear support below. 7540/7565/7521/7511 are morning-plan levels, not new."
+    },
+    {
+      "tweet_id": "2074509242774520187",
+      "timestamp_utc": "2026-07-07T15:02:00.000Z",
+      "timestamp_est": "2026-07-07T11:02:00-04:00",
+      "tweet_text": "@tradivate Just needs to meet the non-acceptance protocol requirement in newsletter. If we are pushing through 45 hard and holding above for several minutes, we've usually got momentum. We'll see if we can trigger",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new actionable price level named; '45' is a casual shorthand reference to an existing morning-plan level (7245/7345?), framed as momentum observation, not a new named level."
     }
   ]
 }
