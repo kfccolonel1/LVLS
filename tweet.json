@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T12:37:39.135136+00:00",
-  "fetched_at_est": "2026-07-07T08:37:39.135142-04:00",
+  "fetched_at_utc": "2026-07-07T13:07:42.558052+00:00",
+  "fetched_at_est": "2026-07-07T09:07:42.558058-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2074117697474818150",
-      "timestamp_utc": "2026-07-06T13:06:08.000Z",
-      "timestamp_est": "2026-07-06T09:06:08-04:00",
-      "tweet_text": "Volatility non-existent in #ES_F. Do not trade low volatility, *only* trade after a vol expansion. Trade low vol=loss, very easy. 7521 Failed Breakdown given out 3:10PM Thursday was last long.\n\n7540-7567=chop. Just hit 67. 7578, 7588, 7597 next. 7540 (watch traps), 7521=supports https://t.co/py16dFisPc",
-      "added_bull_levels": [
-        7588.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7588 named explicitly as 'next' resistance target alongside 7578/7597 (morning plan). 7588 is not in the morning plan and is actionable as next resistance."
-    },
     {
       "tweet_id": "2074129963398099354",
       "timestamp_utc": "2026-07-06T13:54:53.000Z",
