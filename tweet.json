@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T14:07:56.723236+00:00",
-  "fetched_at_est": "2026-07-07T10:07:56.723242-04:00",
+  "fetched_at_utc": "2026-07-07T14:18:07.681695+00:00",
+  "fetched_at_est": "2026-07-07T10:18:07.681708-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2074133411774505238",
-      "timestamp_utc": "2026-07-06T14:08:35.000Z",
-      "timestamp_est": "2026-07-06T10:08:35-04:00",
-      "tweet_text": "@jyblazze @IsshoKnows Yes that was a fine entry too. That was a significant low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply acknowledging a prior entry/low \u2014 no actionable price named, no naming language, no new level introduced."
-    },
-    {
-      "tweet_id": "2074135063306883497",
-      "timestamp_utc": "2026-07-06T14:15:09.000Z",
-      "timestamp_est": "2026-07-06T10:15:09-04:00",
-      "tweet_text": "@peterpan312312 Thats basically the main reason I use runners! I make very little off them, but they control FOMO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading psychology/runners; no price levels named or actionable signals given."
-    },
     {
       "tweet_id": "2074143677182623971",
       "timestamp_utc": "2026-07-06T14:49:23.000Z",
@@ -155,6 +137,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about strategy/trading style; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2074496087524516345",
+      "timestamp_utc": "2026-07-07T14:09:44.000Z",
+      "timestamp_est": "2026-07-07T10:09:44-04:00",
+      "tweet_text": "Tiny volatility pickup in #ES_F finally but need much more still. 7521 Failed Breakdown Thursday was last entry and we got to 7597 target yesterday.\n\n7565 was 1st support today (weak), flushed now. Watch reoveries. 7553, 7540 below (watch traps). 7588, 7598, 7611+ remain targets https://t.co/JfdU08dzLQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7553 is the only non-morning-plan price mentioned, but it appears in a directional list ('7553, 7540 below') as an observation, not named with actionable language."
+    },
+    {
+      "tweet_id": "2074497722657251745",
+      "timestamp_utc": "2026-07-07T14:16:14.000Z",
+      "timestamp_est": "2026-07-07T10:16:14-04:00",
+      "tweet_text": "@RedPill51762365 That not what it says at all",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price mentioned and no actionable level of any kind."
     }
   ]
 }
