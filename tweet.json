@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T11:57:25.003905+00:00",
-  "fetched_at_est": "2026-07-07T07:57:25.003910-04:00",
+  "fetched_at_utc": "2026-07-07T12:07:32.474784+00:00",
+  "fetched_at_est": "2026-07-07T08:07:32.474797-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -159,6 +159,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7521, 7578, 7588, 7597, 7565, 7540, 7587, 7611) are either morning-plan levels, hindsight references, or reaffirmations. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2074462887301550596",
+      "timestamp_utc": "2026-07-07T11:57:48.000Z",
+      "timestamp_est": "2026-07-07T07:57:48-04:00",
+      "tweet_text": "@RyanMorse33 The levels or entries don't change regardless what time I send it especially on a low volatility day. Doesn't matter if I send it at 1pm, 2pm, 3pm, 5pm. Entries don't change",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is a conversational reply about timing of level publication, not naming any actionable level."
+    },
+    {
+      "tweet_id": "2074463610592526570",
+      "timestamp_utc": "2026-07-07T12:00:41.000Z",
+      "timestamp_est": "2026-07-07T08:00:41-04:00",
+      "tweet_text": "@RyanMorse33 Yesterday for example the key entries were at 65, then the 51/40 failed breakdowns. We did not hit 65 until 1am, so ending it at 3pm rather than 4pm literally makes 0 difference. I could've sent it at 10am and nothing would have changed",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user about trading hours/timing. Mentions 65, 51, 40 only as shorthand historical references with no actionable naming language; no new levels."
     }
   ]
 }
