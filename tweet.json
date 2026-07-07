@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T18:49:15.955713+00:00",
-  "fetched_at_est": "2026-07-07T14:49:15.955721-04:00",
+  "fetched_at_utc": "2026-07-07T19:09:21.555481+00:00",
+  "fetched_at_est": "2026-07-07T15:09:21.555485-04:00",
   "last_new_level_added_at_est": "2026-07-07T10:42:34-04:00",
   "todays_new_levels": [
     {
@@ -186,6 +186,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7540/7565/7597 are morning-plan levels; 7553/7588 are observations of targets hit or referenced from newsletter, no new actionable naming language used."
+    },
+    {
+      "tweet_id": "2074571267030577378",
+      "timestamp_utc": "2026-07-07T19:08:28.000Z",
+      "timestamp_est": "2026-07-07T15:08:28-04:00",
+      "tweet_text": "Closing update #ES_F: Default summer chop but we got our daily setup. THe 7540 Failed Breakdown, which ran to 7565 target. For the overnight session watch 7540 and the failed breakdown of today's low. Same upside targets. Newsletter out soon with entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7540 and 7565 are morning-plan levels; 'ran to 7565' is an observation; 'failed breakdown of today's low' is no specific price. All reaffirmations or observations."
     }
   ]
 }
