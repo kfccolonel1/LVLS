@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T17:59:09.972456+00:00",
-  "fetched_at_est": "2026-07-07T13:59:09.972460-04:00",
+  "fetched_at_utc": "2026-07-07T18:49:15.955713+00:00",
+  "fetched_at_est": "2026-07-07T14:49:15.955721-04:00",
   "last_new_level_added_at_est": "2026-07-07T10:42:34-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074203956138369480",
-      "timestamp_utc": "2026-07-06T18:48:54.000Z",
-      "timestamp_est": "2026-07-06T14:48:54-04:00",
-      "tweet_text": "Closing update #ES_F: It took all day but we arriving at 7597 final target. This is peak summer trading and its as easy as it gets as long as you wait for the volatility spikes, then sit in a runner and do nothing. Today's targets were 7578, 7588, 7597. Newsletter out soon",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7578, 7588, 7597) are either morning plan levels or target observations. No new actionable levels named."
-    },
     {
       "tweet_id": "2074462590428684468",
       "timestamp_utc": "2026-07-07T11:56:37.000Z",
