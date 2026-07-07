@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T13:57:54.709722+00:00",
-  "fetched_at_est": "2026-07-07T09:57:54.709727-04:00",
+  "fetched_at_utc": "2026-07-07T14:07:56.723236+00:00",
+  "fetched_at_est": "2026-07-07T10:07:56.723242-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2074133249102659799",
-      "timestamp_utc": "2026-07-06T14:07:56.000Z",
-      "timestamp_est": "2026-07-06T10:07:56-04:00",
-      "tweet_text": "No volatility in #ES_F &amp; as always hard rule is I never trade until we get a massive vol expansion. Levels are precise though. The range today was 7540-7567 as posted. We've bumped into 7567 all morning.\n\nHold runner for breakout to 7578, 7588, 7597. 7540 (watch traps)=support https://t.co/VcvolxkYbz",
-      "added_bull_levels": [
-        7588.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7588 is named as a breakout target not in morning plan. 7578, 7597/7598, 7540 are all morning-plan levels (reaffirmations). 7567 is an observation."
-    },
     {
       "tweet_id": "2074133411774505238",
       "timestamp_utc": "2026-07-06T14:08:35.000Z",
