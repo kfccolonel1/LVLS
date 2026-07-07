@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T16:18:41.600796+00:00",
-  "fetched_at_est": "2026-07-07T12:18:41.600801-04:00",
+  "fetched_at_utc": "2026-07-07T16:28:47.125216+00:00",
+  "fetched_at_est": "2026-07-07T12:28:47.125224-04:00",
   "last_new_level_added_at_est": "2026-07-07T10:42:34-04:00",
   "todays_new_levels": [
     {
@@ -190,6 +190,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7540, 7565, 7521, 7511 all in morning plan. 7553 mentioned as target but no naming language used \u2014 reaffirmation/observation only."
+    },
+    {
+      "tweet_id": "2074530660052549794",
+      "timestamp_utc": "2026-07-07T16:27:06.000Z",
+      "timestamp_est": "2026-07-07T12:27:06-04:00",
+      "tweet_text": "We got a brief volatility spike this morning in #ES_F, then back to summer chop. We did finally get the 7540 recovery though after plenty of chop.\n\nTargets were 7553 (hit), 7565 (hit). 7588, 7597+ next. No change to supports, nothing to do until the next volatility spike https://t.co/sOvk9P5TBk",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7553 is a target reference but not named with actionable language as a new level; 7565/7597/7588 are morning plan levels or casual directional mentions, no new levels introduced."
     }
   ]
 }
