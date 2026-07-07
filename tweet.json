@@ -1,10 +1,25 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-07T14:18:07.681695+00:00",
-  "fetched_at_est": "2026-07-07T10:18:07.681708-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-07T14:48:14.873221+00:00",
+  "fetched_at_est": "2026-07-07T10:48:14.873225-04:00",
+  "last_new_level_added_at_est": "2026-07-07T10:42:34-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7553.0,
+      "side": "bull",
+      "added_at_est": "2026-07-07T10:42:34-04:00",
+      "expires_at_est": "2026-07-07T18:42:34-04:00",
+      "from_tweet_id": "2074504352950051291"
+    },
+    {
+      "price": 7504.0,
+      "side": "bear",
+      "added_at_est": "2026-07-07T10:42:34-04:00",
+      "expires_at_est": "2026-07-07T18:42:34-04:00",
+      "from_tweet_id": "2074504352950051291"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2074143677182623971",
@@ -155,6 +170,19 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price mentioned and no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2074504352950051291",
+      "timestamp_utc": "2026-07-07T14:42:34.000Z",
+      "timestamp_est": "2026-07-07T10:42:34-04:00",
+      "tweet_text": "Finally volatility in #ES_F and now we can stalk new entries for the first time since Thursday's 7521 Failed Breakdown. Bulls need to recover 7540 now with momentum and force to see 7553, 7565+\n\n7521, 7511 (watch traps), 7504 are below now https://t.co/M4w4PmKZpH",
+      "added_bull_levels": [
+        7553.0
+      ],
+      "added_bear_levels": [
+        7504.0
+      ],
+      "notes": "7553 named as new bull target ('to see 7553'); 7504 named as new bear support below. 7540/7565/7521/7511 are morning-plan levels, not new."
     }
   ]
 }
