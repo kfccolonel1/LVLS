@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T16:22:03.298279+00:00",
-  "fetched_at_est": "2026-07-08T12:22:03.298288-04:00",
+  "fetched_at_utc": "2026-07-08T16:32:08.137870+00:00",
+  "fetched_at_est": "2026-07-08T12:32:08.137875-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074530660052549794",
-      "timestamp_utc": "2026-07-07T16:27:06.000Z",
-      "timestamp_est": "2026-07-07T12:27:06-04:00",
-      "tweet_text": "We got a brief volatility spike this morning in #ES_F, then back to summer chop. We did finally get the 7540 recovery though after plenty of chop.\n\nTargets were 7553 (hit), 7565 (hit). 7588, 7597+ next. No change to supports, nothing to do until the next volatility spike https://t.co/sOvk9P5TBk",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7553 is a target reference but not named with actionable language as a new level; 7565/7597/7588 are morning plan levels or casual directional mentions, no new levels introduced."
-    },
     {
       "tweet_id": "2074542652511461487",
       "timestamp_utc": "2026-07-07T17:14:46.000Z",
@@ -185,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7482, 7492, 7506, 7511, 7521, 7540) are hindsight trade recaps or morning-plan reaffirmations; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2074892089628807547",
+      "timestamp_utc": "2026-07-08T16:23:18.000Z",
+      "timestamp_est": "2026-07-08T12:23:18-04:00",
+      "tweet_text": "Note that per my strategy we simply do the same boring routine everyday: Wait for a volatility injection (elevator down sell), wait for the failed breakdown or in some cases low quality reclaim, manage level to level, leave runner. Nothing else involved in trading",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure strategy description/commentary with no specific price levels named or actionable entries mentioned."
     }
   ]
 }
