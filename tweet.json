@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T14:51:39.010279+00:00",
-  "fetched_at_est": "2026-07-08T10:51:39.010286-04:00",
+  "fetched_at_utc": "2026-07-08T15:11:41.604504+00:00",
+  "fetched_at_est": "2026-07-08T11:11:41.604512-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,33 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074509242774520187",
-      "timestamp_utc": "2026-07-07T15:02:00.000Z",
-      "timestamp_est": "2026-07-07T11:02:00-04:00",
-      "tweet_text": "@tradivate Just needs to meet the non-acceptance protocol requirement in newsletter. If we are pushing through 45 hard and holding above for several minutes, we've usually got momentum. We'll see if we can trigger",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No new actionable price level named; '45' is a casual shorthand reference to an existing morning-plan level (7245/7345?), framed as momentum observation, not a new named level."
-    },
-    {
-      "tweet_id": "2074511309421322426",
-      "timestamp_utc": "2026-07-07T15:10:13.000Z",
-      "timestamp_est": "2026-07-07T11:10:13-04:00",
-      "tweet_text": "@artbrokerr Please read the instructions in the newsletter. There has not yet been a Failed Breakdown of 7540 (Sunday low) via any my criteria",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user explaining FBD criteria not met for 7540 (morning plan level). No new actionable level named, just clarification of existing level status."
-    },
-    {
-      "tweet_id": "2074511437913878893",
-      "timestamp_utc": "2026-07-07T15:10:44.000Z",
-      "timestamp_est": "2026-07-07T11:10:44-04:00",
-      "tweet_text": "@artbrokerr We flushed the low down to 30, and are now hovering within the 5 point danger zone which has to clear and hold above for several minutes",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Observation of price action near existing morning level (7320 implied by '30'). No new actionable price named with required naming language."
-    },
     {
       "tweet_id": "2074511764079751503",
       "timestamp_utc": "2026-07-07T15:12:01.000Z",
