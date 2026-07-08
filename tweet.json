@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T14:21:22.473026+00:00",
-  "fetched_at_est": "2026-07-08T10:21:22.473033-04:00",
+  "fetched_at_utc": "2026-07-08T14:31:27.922534+00:00",
+  "fetched_at_est": "2026-07-08T10:31:27.922539-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -180,6 +180,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7521, 7540, 7482, 7492, 7511) are morning-plan levels or trade observations/targets already hit; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2074863279017517166",
+      "timestamp_utc": "2026-07-08T14:28:49.000Z",
+      "timestamp_est": "2026-07-08T10:28:49-04:00",
+      "tweet_text": "@Tiquisito Yes this was where the Thursday late day Failed Breakdown occurred",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining context of a prior FBD event \u2014 no price named, no actionable level introduced, purely conversational/historical reference."
     }
   ]
 }
