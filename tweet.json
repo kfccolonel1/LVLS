@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T14:01:18.136509+00:00",
-  "fetched_at_est": "2026-07-08T10:01:18.136514-04:00",
+  "fetched_at_utc": "2026-07-08T14:11:20.427090+00:00",
+  "fetched_at_est": "2026-07-08T10:11:20.427098-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074496087524516345",
-      "timestamp_utc": "2026-07-07T14:09:44.000Z",
-      "timestamp_est": "2026-07-07T10:09:44-04:00",
-      "tweet_text": "Tiny volatility pickup in #ES_F finally but need much more still. 7521 Failed Breakdown Thursday was last entry and we got to 7597 target yesterday.\n\n7565 was 1st support today (weak), flushed now. Watch reoveries. 7553, 7540 below (watch traps). 7588, 7598, 7611+ remain targets https://t.co/JfdU08dzLQ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7553 is the only non-morning-plan price mentioned, but it appears in a directional list ('7553, 7540 below') as an observation, not named with actionable language."
-    },
     {
       "tweet_id": "2074497722657251745",
       "timestamp_utc": "2026-07-07T14:16:14.000Z",
