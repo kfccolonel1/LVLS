@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T13:21:10.849482+00:00",
-  "fetched_at_est": "2026-07-08T09:21:10.849488-04:00",
+  "fetched_at_utc": "2026-07-08T14:01:18.136509+00:00",
+  "fetched_at_est": "2026-07-08T10:01:18.136514-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074491443297615998",
-      "timestamp_utc": "2026-07-07T13:51:16.000Z",
-      "timestamp_est": "2026-07-07T09:51:16-04:00",
-      "tweet_text": "@NYJets2017 For sure! I always tell people that even though I only long and never short, my strategy performs much  better in downtrends than uptrends. If today were a very red day would've likely already had 3 trades",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about strategy/trading style; no price levels named or actionable signals given."
-    },
     {
       "tweet_id": "2074496087524516345",
       "timestamp_utc": "2026-07-07T14:09:44.000Z",
@@ -198,6 +189,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to a user about headline randomness; no price levels named, no actionable language, pure conversational commentary."
+    },
+    {
+      "tweet_id": "2074855115559702660",
+      "timestamp_utc": "2026-07-08T13:56:23.000Z",
+      "timestamp_est": "2026-07-08T09:56:23-04:00",
+      "tweet_text": "There's 7521 next up tagged in #ES_F and we continue to push. 7482 Thursday low was the last Failed Breakdown (we swept it and recovered). Targets for today given 7:44AM were 7492 (hit), 7511 (hit), 7511 (hit), 7521 (hit).\n\n7540 next. 7540 must backtest, since we broke down there https://t.co/HwNMMxXQZN",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7521, 7540, 7482, 7492, 7511) are morning-plan levels or trade observations/targets already hit; no new actionable levels introduced."
     }
   ]
 }
