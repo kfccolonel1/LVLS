@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T16:32:08.137870+00:00",
-  "fetched_at_est": "2026-07-08T12:32:08.137875-04:00",
+  "fetched_at_utc": "2026-07-08T17:22:18.916143+00:00",
+  "fetched_at_est": "2026-07-08T13:22:18.916148-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074542652511461487",
-      "timestamp_utc": "2026-07-07T17:14:46.000Z",
-      "timestamp_est": "2026-07-07T13:14:46-04:00",
-      "tweet_text": "@fiveinchhammer Yes thats about as clear as it gets",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price mentioned, no actionable level, purely conversational agreement."
-    },
     {
       "tweet_id": "2074545725367624057",
       "timestamp_utc": "2026-07-07T17:26:58.000Z",
@@ -185,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure strategy description/commentary with no specific price levels named or actionable entries mentioned."
+    },
+    {
+      "tweet_id": "2074906541858120032",
+      "timestamp_utc": "2026-07-08T17:20:44.000Z",
+      "timestamp_est": "2026-07-08T13:20:44-04:00",
+      "tweet_text": "We continue to rip in #ES_F. Two trades today, both recoveries of 7482 to trigger us long. Targets were given at 7:44AM and entries given live as always: 7492 (hit 2x), 7506 (hit 2x), 7511 (hit 2x), 7521 (hit many times).\n\nJust 7540 next, which is a magnet and final target https://t.co/i0fpyalq8H",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7482, 7492, 7506, 7511, 7521, 7540) are observations of hits/entries already in morning plan or trade recap; no new actionable levels named."
     }
   ]
 }
