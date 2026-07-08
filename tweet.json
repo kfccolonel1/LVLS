@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T12:00:55.588318+00:00",
-  "fetched_at_est": "2026-07-08T08:00:55.588323-04:00",
+  "fetched_at_utc": "2026-07-08T12:40:59.618186+00:00",
+  "fetched_at_est": "2026-07-08T08:40:59.618193-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074472780205093122",
-      "timestamp_utc": "2026-07-07T12:37:07.000Z",
-      "timestamp_est": "2026-07-07T08:37:07-04:00",
-      "tweet_text": "@Tiquisito I wouldnt personally, too small and too close to top of structure. 53 is though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user; '53' is an informal reference, no explicit price named with actionable naming language, and likely refers to morning-plan level 7253 or similar."
-    },
     {
       "tweet_id": "2074483105272864778",
       "timestamp_utc": "2026-07-07T13:18:08.000Z",
