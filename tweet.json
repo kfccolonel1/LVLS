@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T15:11:41.604504+00:00",
-  "fetched_at_est": "2026-07-08T11:11:41.604512-04:00",
+  "fetched_at_utc": "2026-07-08T15:21:43.607482+00:00",
+  "fetched_at_est": "2026-07-08T11:21:43.607487-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074511764079751503",
-      "timestamp_utc": "2026-07-07T15:12:01.000Z",
-      "timestamp_est": "2026-07-07T11:12:01-04:00",
-      "tweet_text": "@NYJets2017 @tradivate Yes 38.25 but theres another small low at 40 right next to it. I typically use the higher of the two in that situation when it comes to the non acceptance protocol entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining entry methodology using 38.25/40 as illustrative examples in context, not actionable ES futures levels named as new major levels."
-    },
-    {
-      "tweet_id": "2074512614315401579",
-      "timestamp_utc": "2026-07-07T15:15:24.000Z",
-      "timestamp_est": "2026-07-07T11:15:24-04:00",
-      "tweet_text": "We got our brief daily volatility lift. 7540 remains key support (this was Sunday's low) and #ES_F likes it here stuck here for 30 minutes now. Bulls must recover this with force and momentum (exact trigger given in newsletter) to see 7553, 7565+\n\n7521, 7511 (watch traps) below https://t.co/l1Cu0tJSuS",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7540, 7565, 7521, 7511 all in morning plan. 7553 mentioned as target but no naming language used \u2014 reaffirmation/observation only."
-    },
     {
       "tweet_id": "2074530660052549794",
       "timestamp_utc": "2026-07-07T16:27:06.000Z",
