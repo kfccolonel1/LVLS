@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-08T14:41:37.038579+00:00",
-  "fetched_at_est": "2026-07-08T10:41:37.038592-04:00",
+  "fetched_at_utc": "2026-07-08T14:51:39.010279+00:00",
+  "fetched_at_est": "2026-07-08T10:51:39.010286-04:00",
   "last_new_level_added_at_est": "2026-07-08T07:44:10-04:00",
   "todays_new_levels": [
     {
@@ -21,19 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074504352950051291",
-      "timestamp_utc": "2026-07-07T14:42:34.000Z",
-      "timestamp_est": "2026-07-07T10:42:34-04:00",
-      "tweet_text": "Finally volatility in #ES_F and now we can stalk new entries for the first time since Thursday's 7521 Failed Breakdown. Bulls need to recover 7540 now with momentum and force to see 7553, 7565+\n\n7521, 7511 (watch traps), 7504 are below now https://t.co/M4w4PmKZpH",
-      "added_bull_levels": [
-        7553.0
-      ],
-      "added_bear_levels": [
-        7504.0
-      ],
-      "notes": "7553 named as new bull target ('to see 7553'); 7504 named as new bear support below. 7540/7565/7521/7511 are morning-plan levels, not new."
-    },
     {
       "tweet_id": "2074509242774520187",
       "timestamp_utc": "2026-07-07T15:02:00.000Z",
