@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T12:24:15.718444+00:00",
-  "fetched_at_est": "2026-07-09T08:24:15.718449-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-09T12:44:21.514614+00:00",
+  "fetched_at_est": "2026-07-09T08:44:21.514618-04:00",
+  "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7577.0,
+      "side": "bull",
+      "added_at_est": "2026-07-09T08:41:41-04:00",
+      "expires_at_est": "2026-07-09T16:41:41-04:00",
+      "from_tweet_id": "2075198705334923429"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2074842204527349900",
@@ -178,6 +186,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about bull flag pattern and trend bias; no specific actionable price level named."
+    },
+    {
+      "tweet_id": "2075198705334923429",
+      "timestamp_utc": "2026-07-09T12:41:41.000Z",
+      "timestamp_est": "2026-07-09T08:41:41-04:00",
+      "tweet_text": "Summer trading is very easy and we've done the same thing daily for weeks. 1) Wait for elevator down sell 2) Take the Failed Breakdown 3) Ride runner for 1-2 days as we grind up. Last entry was 7482 recovery. My target was 7540 (hit).\n\nToday's targets 7547 (hit), 7565, 7577 next https://t.co/y60QH1QkzB",
+      "added_bull_levels": [
+        7577.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7577 named explicitly as 'next' target beyond 7565 \u2014 not in morning plan. 7547/7565 are morning-plan reaffirmations. 7540 is hindsight."
     }
   ]
 }
