@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T15:15:09.970889+00:00",
-  "fetched_at_est": "2026-07-09T11:15:09.970894-04:00",
+  "fetched_at_utc": "2026-07-09T15:35:12.864767+00:00",
+  "fetched_at_est": "2026-07-09T11:35:12.864773-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074879339217223789",
-      "timestamp_utc": "2026-07-08T15:32:38.000Z",
-      "timestamp_est": "2026-07-08T11:32:38-04:00",
-      "tweet_text": "We are spoiled today with two volatility injections in one session. As always, the more red, the better. Last entry was the 7482 Failed Breakdown. Targets given were 7492, 7506, 7511, 7521, 7540. 4/5 hit. 7540 must backtest\n\nWatch traps of overnight low. 83 low quality reclaim https://t.co/IbowwQfRYJ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7482, 7492, 7506, 7511, 7521, 7540) are trade recaps or morning-plan reaffirmations; '7540 must backtest' and overnight low trap are observations, not new named actionable levels."
-    },
-    {
-      "tweet_id": "2074879533958799837",
-      "timestamp_utc": "2026-07-08T15:33:24.000Z",
-      "timestamp_est": "2026-07-08T11:33:24-04:00",
-      "tweet_text": "@Marcel22520116 As I've discussed before major breakdown shelves backtest 95-100% of the time. Its a technical requirement that 7540 backtests.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7540 is already in the morning plan; this is a reaffirmation/educational comment about a known level, not a new actionable level."
-    },
     {
       "tweet_id": "2074883899973329242",
       "timestamp_utc": "2026-07-08T15:50:45.000Z",
