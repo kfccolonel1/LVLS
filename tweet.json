@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T17:05:37.138446+00:00",
-  "fetched_at_est": "2026-07-09T13:05:37.138451-04:00",
+  "fetched_at_utc": "2026-07-09T17:25:39.858553+00:00",
+  "fetched_at_est": "2026-07-09T13:25:39.858561-04:00",
   "last_new_level_added_at_est": "2026-07-09T12:46:26-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074906541858120032",
-      "timestamp_utc": "2026-07-08T17:20:44.000Z",
-      "timestamp_est": "2026-07-08T13:20:44-04:00",
-      "tweet_text": "We continue to rip in #ES_F. Two trades today, both recoveries of 7482 to trigger us long. Targets were given at 7:44AM and entries given live as always: 7492 (hit 2x), 7506 (hit 2x), 7511 (hit 2x), 7521 (hit many times).\n\nJust 7540 next, which is a magnet and final target https://t.co/i0fpyalq8H",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7482, 7492, 7506, 7511, 7521, 7540) are observations of hits/entries already in morning plan or trade recap; no new actionable levels named."
-    },
     {
       "tweet_id": "2074909345418973536",
       "timestamp_utc": "2026-07-08T17:31:52.000Z",
