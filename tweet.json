@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T11:54:02.747155+00:00",
-  "fetched_at_est": "2026-07-09T07:54:02.747160-04:00",
+  "fetched_at_utc": "2026-07-09T12:04:10.340056+00:00",
+  "fetched_at_est": "2026-07-09T08:04:10.340066-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2074824814380863597",
-      "timestamp_utc": "2026-07-08T11:55:58.000Z",
-      "timestamp_est": "2026-07-08T07:55:58-04:00",
-      "tweet_text": "@DBees9 Easy day! Don't need to make trading harder than that, wait for the elevator down sell, long the failed breakdown, close platform. Too many people flipping back and forth and watching news etc",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trading philosophy/commentary tweet. No prices mentioned whatsoever, no actionable levels named."
-    },
     {
       "tweet_id": "2074842204527349900",
       "timestamp_utc": "2026-07-08T13:05:04.000Z",
@@ -160,6 +151,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7482, 7506, 7521, 7547, 7565) are morning-plan levels or prior-day targets; 7540 is a hindsight magnet ref; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2075186695457157510",
+      "timestamp_utc": "2026-07-09T11:53:57.000Z",
+      "timestamp_est": "2026-07-09T07:53:57-04:00",
+      "tweet_text": "@fiveinchhammer Yes, I wouldn't touch it now personally but not every entry I give here is something I'd trade. I only trade the high quality newsletter Failed Breakdowns. No shorts, Level Reclaims, Level Buys or anything else for me",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is a personal trading philosophy reply with zero actionable levels named."
+    },
+    {
+      "tweet_id": "2075186863908806774",
+      "timestamp_utc": "2026-07-09T11:54:38.000Z",
+      "timestamp_est": "2026-07-09T07:54:38-04:00",
+      "tweet_text": "@fiveinchhammer Few people have the patience I do though to wait and most don't care about having a 95%+ win rate either so I give other entries also",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely conversational reply about trading patience and win rate."
     }
   ]
 }
