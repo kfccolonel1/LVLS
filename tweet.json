@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T14:35:01.668856+00:00",
-  "fetched_at_est": "2026-07-09T10:35:01.668862-04:00",
+  "fetched_at_utc": "2026-07-09T14:45:03.677445+00:00",
+  "fetched_at_est": "2026-07-09T10:45:03.677450-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074865620340896074",
-      "timestamp_utc": "2026-07-08T14:38:07.000Z",
-      "timestamp_est": "2026-07-08T10:38:07-04:00",
-      "tweet_text": "We have hit 4/5 of today's targets so far in #ES_F. The entry given was the 7482 Thursday low Failed Breakdown. Targets given 7:44AM were 7492, 7511, 7506, 7511, 7521 (hit). 7540 must backtest now (or at least the 7533-40 range).\n\nThis backtests the overnight breakdown. https://t.co/9k5jXyo0iO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7482, 7492, 7506, 7511, 7521, 7533-40) are morning-plan levels or trade-recap observations, not newly named actionable levels."
-    },
-    {
-      "tweet_id": "2074865803652989089",
-      "timestamp_utc": "2026-07-08T14:38:51.000Z",
-      "timestamp_est": "2026-07-08T10:38:51-04:00",
-      "tweet_text": "Note: 7482, 7453 are supports now. Watch traps of the overnight low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7482\u22487483 and 7453\u22487452 are both in the morning plan; reaffirmations only. 'Watch traps of overnight low' is observational commentary, not a new named level."
-    },
     {
       "tweet_id": "2074879339217223789",
       "timestamp_utc": "2026-07-08T15:32:38.000Z",
