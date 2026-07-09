@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T12:44:21.514614+00:00",
-  "fetched_at_est": "2026-07-09T08:44:21.514618-04:00",
+  "fetched_at_utc": "2026-07-09T13:14:25.020217+00:00",
+  "fetched_at_est": "2026-07-09T09:14:25.020225-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074842204527349900",
-      "timestamp_utc": "2026-07-08T13:05:04.000Z",
-      "timestamp_est": "2026-07-08T09:05:04-04:00",
-      "tweet_text": "Easy start to the day in #ES_F. Wait for the volatility expansion, trade the failed breakdown, get out. 7482 last Thursday low Failed Breakdown was long trigger. At 745am I gave targets of 7492 (hit), 7506(hit), 7511(hit), 7521, 7540 next.\n\n7540 must backtest from here. https://t.co/4NoMbMJPl8",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7482 is a hindsight FBD reference; 7492/7506/7511/7521/7540 are morning plan levels or prior targets already given at 745am \u2014 no new actionable levels named."
-    },
-    {
-      "tweet_id": "2074842324924801067",
-      "timestamp_utc": "2026-07-08T13:05:33.000Z",
-      "timestamp_est": "2026-07-08T09:05:33-04:00",
-      "tweet_text": "@Tesla4life69420 Cant predict that, they occur randomly on headlines",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to a user about headline randomness; no price levels named, no actionable language, pure conversational commentary."
-    },
     {
       "tweet_id": "2074855115559702660",
       "timestamp_utc": "2026-07-08T13:56:23.000Z",
