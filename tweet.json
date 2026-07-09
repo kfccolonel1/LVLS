@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T15:55:23.196172+00:00",
-  "fetched_at_est": "2026-07-09T11:55:23.196177-04:00",
+  "fetched_at_utc": "2026-07-09T16:25:26.757575+00:00",
+  "fetched_at_est": "2026-07-09T12:25:26.757582-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074891564648632676",
-      "timestamp_utc": "2026-07-08T16:21:13.000Z",
-      "timestamp_est": "2026-07-08T12:21:13-04:00",
-      "tweet_text": "Today thanks to volatility its been a two trade day: One A+ trade: The 7482 Thursday low Failed Breakdown, given in newsletter and at 744AM: Targets were 7492, 7506, 7511, 7521, 7540. 4/5 hit.\n\nThen a low quality 7482 reclaim given 47mins ago. Running targets again. 7540 magnet https://t.co/l7zb3eD3gV",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7482, 7492, 7506, 7511, 7521, 7540) are hindsight trade recaps or morning-plan reaffirmations; no new actionable levels named."
-    },
-    {
-      "tweet_id": "2074892089628807547",
-      "timestamp_utc": "2026-07-08T16:23:18.000Z",
-      "timestamp_est": "2026-07-08T12:23:18-04:00",
-      "tweet_text": "Note that per my strategy we simply do the same boring routine everyday: Wait for a volatility injection (elevator down sell), wait for the failed breakdown or in some cases low quality reclaim, manage level to level, leave runner. Nothing else involved in trading",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure strategy description/commentary with no specific price levels named or actionable entries mentioned."
-    },
     {
       "tweet_id": "2074906541858120032",
       "timestamp_utc": "2026-07-08T17:20:44.000Z",
