@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T17:25:39.858553+00:00",
-  "fetched_at_est": "2026-07-09T13:25:39.858561-04:00",
+  "fetched_at_utc": "2026-07-09T17:35:41.740435+00:00",
+  "fetched_at_est": "2026-07-09T13:35:41.740442-04:00",
   "last_new_level_added_at_est": "2026-07-09T12:46:26-04:00",
   "todays_new_levels": [
     {
@@ -21,26 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074909345418973536",
-      "timestamp_utc": "2026-07-08T17:31:52.000Z",
-      "timestamp_est": "2026-07-08T13:31:52-04:00",
-      "tweet_text": "Note: Once we hit the 7540 target (which as I've said since this morning *has to* backtest - they do 95-100% of the time and it is a law of technical analysis). Simply hold runner for 7565, 7587 next slate",
-      "added_bull_levels": [
-        7587.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7587 named as 'next slate' target for the first time \u2014 not in morning plan. 7565 is a reaffirmation. 7540 is an observation of price hit."
-    },
-    {
-      "tweet_id": "2074910150427644196",
-      "timestamp_utc": "2026-07-08T17:35:04.000Z",
-      "timestamp_est": "2026-07-08T13:35:04-04:00",
-      "tweet_text": "@cspiff138040 I don't think about it. I just wait for elevator down sells, then wait for the planned failed breakdown. Don't think about any economic events, news, data and generally have little no in economics or what the fed says/does",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure methodology commentary reply to a user. No prices named, no actionable levels, no naming language whatsoever."
-    },
     {
       "tweet_id": "2074936039563518425",
       "timestamp_utc": "2026-07-08T19:17:56.000Z",
