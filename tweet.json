@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T14:45:03.677445+00:00",
-  "fetched_at_est": "2026-07-09T10:45:03.677450-04:00",
+  "fetched_at_utc": "2026-07-09T15:15:09.970889+00:00",
+  "fetched_at_est": "2026-07-09T11:15:09.970894-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -190,6 +190,17 @@
       ],
       "added_bear_levels": [],
       "notes": "7577 named explicitly as next upside target after 7565, not in morning plan. 7547/7565/7597 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2075236199602540585",
+      "timestamp_utc": "2026-07-09T15:10:40.000Z",
+      "timestamp_est": "2026-07-09T11:10:40-04:00",
+      "tweet_text": "We continue to push targets in #ES_F and don't make summer trading hard. 1) Wait for the elevator down sell 2) Wait for the Failed Breakdown (7483 recovery yesterday) 3) Ride runner for 1-3 days. Today's targets were 7547 (hit), 7565 (hit), 7577, then 7597 next\n\n33,21=supports https://t.co/PEI07FwfRM",
+      "added_bull_levels": [
+        7577.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7577 named explicitly as next target above 7565, not in morning plan. 7547/7565/7597 are morning-plan reaffirmations. '33,21=supports' too vague to extract."
     }
   ]
 }
