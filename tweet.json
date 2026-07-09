@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T19:05:56.418762+00:00",
-  "fetched_at_est": "2026-07-09T15:05:56.418767-04:00",
+  "fetched_at_utc": "2026-07-09T19:25:59.354860+00:00",
+  "fetched_at_est": "2026-07-09T15:25:59.354867-04:00",
   "last_new_level_added_at_est": "2026-07-09T12:46:26-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074936039563518425",
-      "timestamp_utc": "2026-07-08T19:17:56.000Z",
-      "timestamp_est": "2026-07-08T15:17:56-04:00",
-      "tweet_text": "Closing update #ES_F: Good volatility today in bursts. 7482 recovery was the long trigger. Targets were 7492, 7506, 7511, 7521, then 7533/40 to backtest the overnight breakdown shelf. Massive success for bulls if this recovers. Newsletter out soon with next entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7482,7492,7506,7511,7521,7533,7540) are trade recap/observations or already in morning plan; no new actionable levels named."
-    },
     {
       "tweet_id": "2075184833832099955",
       "timestamp_utc": "2026-07-09T11:46:34.000Z",
