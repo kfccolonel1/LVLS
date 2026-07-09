@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T13:24:42.549059+00:00",
-  "fetched_at_est": "2026-07-09T09:24:42.549072-04:00",
+  "fetched_at_utc": "2026-07-09T13:34:49.807585+00:00",
+  "fetched_at_est": "2026-07-09T09:34:49.807593-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -197,6 +197,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure seasonal commentary, no price named, no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2075210079167508972",
+      "timestamp_utc": "2026-07-09T13:26:53.000Z",
+      "timestamp_est": "2026-07-09T09:26:53-04:00",
+      "tweet_text": "@wesBateman7 September, January-March, May/June",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply listing months/dates with no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2075211450700681333",
+      "timestamp_utc": "2026-07-09T13:32:20.000Z",
+      "timestamp_est": "2026-07-09T09:32:20-04:00",
+      "tweet_text": "@MizuTraderr High volatility means more setups, but if you don't know what your doing it can also means more losses. Markets like this are just easy as long as you don't overtrade and wait for the elevator down sells",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on trading volatility and strategy; no price named, no actionable level introduced."
     }
   ]
 }
