@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T15:45:21.192655+00:00",
-  "fetched_at_est": "2026-07-09T11:45:21.192669-04:00",
+  "fetched_at_utc": "2026-07-09T15:55:23.196172+00:00",
+  "fetched_at_est": "2026-07-09T11:55:23.196177-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074883899973329242",
-      "timestamp_utc": "2026-07-08T15:50:45.000Z",
-      "timestamp_est": "2026-07-08T11:50:45-04:00",
-      "tweet_text": "@vardmark Not something I'd trade but it may still work once we get some volatility back",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply with no price named, no actionable level, no naming language. Comment about volatility only."
-    },
     {
       "tweet_id": "2074891564648632676",
       "timestamp_utc": "2026-07-08T16:21:13.000Z",
