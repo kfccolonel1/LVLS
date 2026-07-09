@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T17:35:41.740435+00:00",
-  "fetched_at_est": "2026-07-09T13:35:41.740442-04:00",
+  "fetched_at_utc": "2026-07-09T18:55:51.624617+00:00",
+  "fetched_at_est": "2026-07-09T14:55:51.624622-04:00",
   "last_new_level_added_at_est": "2026-07-09T12:46:26-04:00",
   "todays_new_levels": [
     {
@@ -172,6 +172,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure methodology/process commentary. No specific price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2075291471339557104",
+      "timestamp_utc": "2026-07-09T18:50:18.000Z",
+      "timestamp_est": "2026-07-09T14:50:18-04:00",
+      "tweet_text": "@Marcel22520116 It has to be a major shelf of support that breaks down to produce a large selloff. ITs very specific, has to be a multi-day very clear shelf with numerous tests that then collapses through. Can't just be any random support",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining a conceptual rule about shelf breakdowns; no specific price named or actionable level introduced."
     }
   ]
 }
