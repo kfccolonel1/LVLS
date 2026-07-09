@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-09T13:54:55.810448+00:00",
-  "fetched_at_est": "2026-07-09T09:54:55.810453-04:00",
+  "fetched_at_utc": "2026-07-09T14:04:58.027712+00:00",
+  "fetched_at_est": "2026-07-09T10:04:58.027717-04:00",
   "last_new_level_added_at_est": "2026-07-09T08:41:41-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2074855115559702660",
-      "timestamp_utc": "2026-07-08T13:56:23.000Z",
-      "timestamp_est": "2026-07-08T09:56:23-04:00",
-      "tweet_text": "There's 7521 next up tagged in #ES_F and we continue to push. 7482 Thursday low was the last Failed Breakdown (we swept it and recovered). Targets for today given 7:44AM were 7492 (hit), 7511 (hit), 7511 (hit), 7521 (hit).\n\n7540 next. 7540 must backtest, since we broke down there https://t.co/HwNMMxXQZN",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7521, 7540, 7482, 7492, 7511) are morning-plan levels or trade observations/targets already hit; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2074863279017517166",
       "timestamp_utc": "2026-07-08T14:28:49.000Z",
