@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T13:27:57.183890+00:00",
-  "fetched_at_est": "2026-07-10T09:27:57.183895-04:00",
+  "fetched_at_utc": "2026-07-10T13:38:04.297554+00:00",
+  "fetched_at_est": "2026-07-10T09:38:04.297559-04:00",
   "last_new_level_added_at_est": "2026-07-10T09:06:49-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075211450700681333",
-      "timestamp_utc": "2026-07-09T13:32:20.000Z",
-      "timestamp_est": "2026-07-09T09:32:20-04:00",
-      "tweet_text": "@MizuTraderr High volatility means more setups, but if you don't know what your doing it can also means more losses. Markets like this are just easy as long as you don't overtrade and wait for the elevator down sells",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on trading volatility and strategy; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2075216697384923191",
       "timestamp_utc": "2026-07-09T13:53:10.000Z",
@@ -149,6 +140,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7611 and 7624 are named as 'next slate' targets not in morning plan. 7597 is morning plan. '55,33' refer to 7555/7533 (morning plan). No new bear levels."
+    },
+    {
+      "tweet_id": "2075573477340250366",
+      "timestamp_utc": "2026-07-10T13:30:53.000Z",
+      "timestamp_est": "2026-07-10T09:30:53-04:00",
+      "tweet_text": "@OnTheHooch Most likely! Unless we get a headline market is programmed to drift up basically from mid June until mid August",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational/directional commentary about seasonal drift; no price named, no actionable level introduced."
     }
   ]
 }
