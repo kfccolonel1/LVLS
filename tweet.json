@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T11:47:28.707071+00:00",
-  "fetched_at_est": "2026-07-10T07:47:28.707075-04:00",
+  "fetched_at_utc": "2026-07-10T11:57:31.166138+00:00",
+  "fetched_at_est": "2026-07-10T07:57:31.166142-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2075186695457157510",
-      "timestamp_utc": "2026-07-09T11:53:57.000Z",
-      "timestamp_est": "2026-07-09T07:53:57-04:00",
-      "tweet_text": "@fiveinchhammer Yes, I wouldn't touch it now personally but not every entry I give here is something I'd trade. I only trade the high quality newsletter Failed Breakdowns. No shorts, Level Reclaims, Level Buys or anything else for me",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; tweet is a personal trading philosophy reply with zero actionable levels named."
-    },
-    {
-      "tweet_id": "2075186863908806774",
-      "timestamp_utc": "2026-07-09T11:54:38.000Z",
-      "timestamp_est": "2026-07-09T07:54:38-04:00",
-      "tweet_text": "@fiveinchhammer Few people have the patience I do though to wait and most don't care about having a 95%+ win rate either so I give other entries also",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely conversational reply about trading patience and win rate."
-    },
     {
       "tweet_id": "2075193284733894976",
       "timestamp_utc": "2026-07-09T12:20:08.000Z",
