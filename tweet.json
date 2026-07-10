@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T00:46:33.401197+00:00",
-  "fetched_at_est": "2026-07-09T20:46:33.401202-04:00",
+  "fetched_at_utc": "2026-07-10T11:47:28.707071+00:00",
+  "fetched_at_est": "2026-07-10T07:47:28.707075-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2075184833832099955",
-      "timestamp_utc": "2026-07-09T11:46:34.000Z",
-      "timestamp_est": "2026-07-09T07:46:34-04:00",
-      "tweet_text": "Summer trading slow but we get 1 volatility spikes daily to give us longs in #ES_F. 7482 reclaim was last entry. Targets I gave ystd were 7492, 7506, 7511, 7521. 7540 was my final target &amp; magnet. We are here.\n\nPlan: Ride runner. 7547, 7565 next. Watch 21 entry from newsletter https://t.co/MhiD4iXJ9R",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7482, 7506, 7521, 7547, 7565) are morning-plan levels or prior-day targets; 7540 is a hindsight magnet ref; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2075186695457157510",
       "timestamp_utc": "2026-07-09T11:53:57.000Z",
