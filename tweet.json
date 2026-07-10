@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T12:07:36.245483+00:00",
-  "fetched_at_est": "2026-07-10T08:07:36.245488-04:00",
+  "fetched_at_utc": "2026-07-10T12:27:38.998971+00:00",
+  "fetched_at_est": "2026-07-10T08:27:38.998978-04:00",
   "last_new_level_added_at_est": "2026-07-10T07:57:23-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075193284733894976",
-      "timestamp_utc": "2026-07-09T12:20:08.000Z",
-      "timestamp_est": "2026-07-09T08:20:08-04:00",
-      "tweet_text": "@saltyairlife There is definitely a large bull flag there. I never assume any type of downside in ES though, I am always bullish in an uptrend (in an uptrend you should be a permabull and never even think of downside). If it fails we would see an elevator down sell though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about bull flag pattern and trend bias; no specific actionable price level named."
-    },
     {
       "tweet_id": "2075198705334923429",
       "timestamp_utc": "2026-07-09T12:41:41.000Z",
