@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T18:19:12.070171+00:00",
-  "fetched_at_est": "2026-07-10T14:19:12.070180-04:00",
+  "fetched_at_utc": "2026-07-10T18:59:16.368460+00:00",
+  "fetched_at_est": "2026-07-10T14:59:16.368467-04:00",
   "last_new_level_added_at_est": "2026-07-10T14:14:58-04:00",
   "todays_new_levels": [
     {
@@ -28,24 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075291471339557104",
-      "timestamp_utc": "2026-07-09T18:50:18.000Z",
-      "timestamp_est": "2026-07-09T14:50:18-04:00",
-      "tweet_text": "@Marcel22520116 It has to be a major shelf of support that breaks down to produce a large selloff. ITs very specific, has to be a multi-day very clear shelf with numerous tests that then collapses through. Can't just be any random support",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining a conceptual rule about shelf breakdowns; no specific price named or actionable level introduced."
-    },
-    {
-      "tweet_id": "2075292843699052558",
-      "timestamp_utc": "2026-07-09T18:55:45.000Z",
-      "timestamp_est": "2026-07-09T14:55:45-04:00",
-      "tweet_text": "Closing update #ES_F: Today's final target was 7597. Targets given at 8am were 7547, 7565, 7577, then 7597. We hit ~7597, and rejected. Now, we will rebuild structure and then prep for breakout. We are building a 1.5 week flag which is 60% mature. Newsletter out soon with entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7547, 7565, 7577, 7597) are morning-plan levels or hindsight references to targets already given at 8am. No new actionable levels named."
-    },
     {
       "tweet_id": "2075303967592997120",
       "timestamp_utc": "2026-07-09T19:39:57.000Z",
