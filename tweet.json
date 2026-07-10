@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T12:47:45.742647+00:00",
-  "fetched_at_est": "2026-07-10T08:47:45.742657-04:00",
-  "last_new_level_added_at_est": "2026-07-10T07:57:23-04:00",
+  "fetched_at_utc": "2026-07-10T13:07:52.517288+00:00",
+  "fetched_at_est": "2026-07-10T09:07:52.517293-04:00",
+  "last_new_level_added_at_est": "2026-07-10T09:06:49-04:00",
   "todays_new_levels": [
     {
       "price": 7624.0,
@@ -11,6 +11,13 @@
       "added_at_est": "2026-07-10T07:57:23-04:00",
       "expires_at_est": "2026-07-10T15:57:23-04:00",
       "from_tweet_id": "2075549944983761269"
+    },
+    {
+      "price": 7611.0,
+      "side": "bull",
+      "added_at_est": "2026-07-10T09:06:49-04:00",
+      "expires_at_est": "2026-07-10T17:06:49-04:00",
+      "from_tweet_id": "2075567419695710410"
     }
   ],
   "updates": [
@@ -157,6 +164,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure distance/math commentary about expected range breakout magnitude. No actionable price named, no naming language used."
+    },
+    {
+      "tweet_id": "2075567419695710410",
+      "timestamp_utc": "2026-07-10T13:06:49.000Z",
+      "timestamp_est": "2026-07-10T09:06:49-04:00",
+      "tweet_text": "This action is not tradeable in #ES_F: Hold runner until we get an \"elevator down\" sell to restart the cycle. 7482 Reclaim was last entry given live here and in newsletter. My target was ~7597 (hit). 7597, 7611, 7624 next slate\n\nNo supports of interest until 55, 33 (watch traps) https://t.co/LZHPkOnjpe",
+      "added_bull_levels": [
+        7611.0,
+        7624.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7611 and 7624 are named as 'next slate' targets not in morning plan. 7597 is morning plan. '55,33' refer to 7555/7533 (morning plan). No new bear levels."
     }
   ]
 }
