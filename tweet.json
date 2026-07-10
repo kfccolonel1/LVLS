@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T14:48:24.064081+00:00",
-  "fetched_at_est": "2026-07-10T10:48:24.064095-04:00",
+  "fetched_at_utc": "2026-07-10T14:58:31.097884+00:00",
+  "fetched_at_est": "2026-07-10T10:58:31.097896-04:00",
   "last_new_level_added_at_est": "2026-07-10T09:06:49-04:00",
   "todays_new_levels": [
     {
@@ -168,6 +168,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet referencing a distance ('51 points'), no actionable price named, pure conversational response to a user question."
+    },
+    {
+      "tweet_id": "2075593544916464003",
+      "timestamp_utc": "2026-07-10T14:50:38.000Z",
+      "timestamp_est": "2026-07-10T10:50:38-04:00",
+      "tweet_text": "@bhargaval All elevator down sells are headline driven (they don't just happen randomly). I basically always hold a runner over the weekend though as long as my cost basis is low enough. All war dips will be bought without exception",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trade philosophy and holding runners over weekend. No actionable price levels named."
+    },
+    {
+      "tweet_id": "2075593852782629252",
+      "timestamp_utc": "2026-07-10T14:51:51.000Z",
+      "timestamp_est": "2026-07-10T10:51:51-04:00",
+      "tweet_text": "@ewtnewbie You just buy it! Trading involves risk. As I said in the newsletter I don't take those trades (I only take Faild Breakdowns) but I give the levels and entries out and people can engage how they want. In this case we did flush it and recover though, so a little safer",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading philosophy and trade management (FBD preference). No new actionable price levels named."
     }
   ]
 }
