@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T16:48:52.708861+00:00",
-  "fetched_at_est": "2026-07-10T12:48:52.708868-04:00",
+  "fetched_at_utc": "2026-07-10T17:08:58.658957+00:00",
+  "fetched_at_est": "2026-07-10T13:08:58.658962-04:00",
   "last_new_level_added_at_est": "2026-07-10T09:06:49-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075264443059986538",
-      "timestamp_utc": "2026-07-09T17:02:54.000Z",
-      "timestamp_est": "2026-07-09T13:02:54-04:00",
-      "tweet_text": "@PX99128070 Its a reaction zone but I don't predict price paths. I just wait for elevator down sell, take the failed breakdown, hold runner. I know the range will breakout but as for when or how, that is up to price",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure methodology/process commentary. No specific price levels named or actionable triggers identified."
-    },
     {
       "tweet_id": "2075291471339557104",
       "timestamp_utc": "2026-07-09T18:50:18.000Z",
@@ -155,6 +146,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7555/7597 are morning-plan levels; 7611/7624 appear as new targets but lack explicit naming language ('added','key','major','watching') \u2014 treated as directional commentary."
+    },
+    {
+      "tweet_id": "2075626613111193875",
+      "timestamp_utc": "2026-07-10T17:02:02.000Z",
+      "timestamp_est": "2026-07-10T13:02:02-04:00",
+      "tweet_text": "Another easy money day in #ES_F as are most days in the summer once you know how ES functions. 7555 was support. We went \"elevator down\" and held exact. Targets were 7597 (hit), 7611 (hit), 7624 next, then many targets above that.\n\nJust ride runner for the rest of the day https://t.co/1DKPgC1jd4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7555/7597 are morning-plan levels; 7611/7624 are target observations not named with actionable language; 'ride runner' is trade management only."
     }
   ]
 }
