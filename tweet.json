@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T13:38:04.297554+00:00",
-  "fetched_at_est": "2026-07-10T09:38:04.297559-04:00",
+  "fetched_at_utc": "2026-07-10T13:58:07.160925+00:00",
+  "fetched_at_est": "2026-07-10T09:58:07.160933-04:00",
   "last_new_level_added_at_est": "2026-07-10T09:06:49-04:00",
   "todays_new_levels": [
     {
@@ -21,17 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075216697384923191",
-      "timestamp_utc": "2026-07-09T13:53:10.000Z",
-      "timestamp_est": "2026-07-09T09:53:10-04:00",
-      "tweet_text": "Just continue to ride runner in #ES_F. Last entry was the 7482 Recovery yesterday and my target was 7540. Today's targets were 7547 (hit), 7565 (~hit), then 7577 next. After that, we see 7597.\n\nSummer trading is 90% holding runners, trading only during the elevator down sells https://t.co/41ldgLtfoD",
-      "added_bull_levels": [
-        7577.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7577 named explicitly as next upside target after 7565, not in morning plan. 7547/7565/7597 are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2075236199602540585",
       "timestamp_utc": "2026-07-09T15:10:40.000Z",
