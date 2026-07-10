@@ -1,17 +1,10 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T18:59:16.368460+00:00",
-  "fetched_at_est": "2026-07-10T14:59:16.368467-04:00",
+  "fetched_at_utc": "2026-07-10T20:09:35.761783+00:00",
+  "fetched_at_est": "2026-07-10T16:09:35.761792-04:00",
   "last_new_level_added_at_est": "2026-07-10T14:14:58-04:00",
   "todays_new_levels": [
-    {
-      "price": 7624.0,
-      "side": "bull",
-      "added_at_est": "2026-07-10T07:57:23-04:00",
-      "expires_at_est": "2026-07-10T15:57:23-04:00",
-      "from_tweet_id": "2075549944983761269"
-    },
     {
       "price": 7611.0,
       "side": "bull",
@@ -28,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075303967592997120",
-      "timestamp_utc": "2026-07-09T19:39:57.000Z",
-      "timestamp_est": "2026-07-09T15:39:57-04:00",
-      "tweet_text": "@paigeclay0 Failed Breakdowns work best if the wick of the failed breakdown can also tag a big support. Then the failed breakdown is backed up by a direct support test",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet explaining FBD mechanics conceptually; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2075549944983761269",
       "timestamp_utc": "2026-07-10T11:57:23.000Z",
@@ -165,6 +149,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trade setups in hindsight (70 low, 55 sweep) \u2014 observational references to existing levels, no new actionable level named."
+    },
+    {
+      "tweet_id": "2075661305885692391",
+      "timestamp_utc": "2026-07-10T19:19:53.000Z",
+      "timestamp_est": "2026-07-10T15:19:53-04:00",
+      "tweet_text": "@tanay1210 Nothing changes between when its sent and the close so no reason to wait!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user with no price levels mentioned; purely conversational about timing of newsletter delivery."
+    },
+    {
+      "tweet_id": "2075661565886431517",
+      "timestamp_utc": "2026-07-10T19:20:55.000Z",
+      "timestamp_est": "2026-07-10T15:20:55-04:00",
+      "tweet_text": "CLosing update #ES_F: There's 7624 target hit. Today went perfect. Support was 7555. It held. 3 targets were given: 7597 (hit), 7611 (ht), 7624 (hit). 7695 is the next magnet. Newsletter out early with next entries",
+      "added_bull_levels": [
+        7611.0,
+        7695.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7611 not in morning plan and named as a target (hit); 7695 explicitly named as 'next magnet' \u2014 a new actionable bull target. 7597/7624/7555 are morning plan levels."
     }
   ]
 }
