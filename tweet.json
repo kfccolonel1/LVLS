@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T12:27:38.998971+00:00",
-  "fetched_at_est": "2026-07-10T08:27:38.998978-04:00",
+  "fetched_at_utc": "2026-07-10T12:37:43.587859+00:00",
+  "fetched_at_est": "2026-07-10T08:37:43.587864-04:00",
   "last_new_level_added_at_est": "2026-07-10T07:57:23-04:00",
   "todays_new_levels": [
     {
@@ -159,6 +159,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7611 and 7624 named as 'next slate' targets not in morning plan; 7555, 7533, 7597 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2075559685667668048",
+      "timestamp_utc": "2026-07-10T12:36:05.000Z",
+      "timestamp_est": "2026-07-10T08:36:05-04:00",
+      "tweet_text": "@atlasbtcgrowth Likely a 300 or so point move out of a range this size, but it isnt an exact science",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure distance/math commentary about expected range breakout magnitude. No actionable price named, no naming language used."
     }
   ]
 }
