@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T11:57:31.166138+00:00",
-  "fetched_at_est": "2026-07-10T07:57:31.166142-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-10T12:07:36.245483+00:00",
+  "fetched_at_est": "2026-07-10T08:07:36.245488-04:00",
+  "last_new_level_added_at_est": "2026-07-10T07:57:23-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7624.0,
+      "side": "bull",
+      "added_at_est": "2026-07-10T07:57:23-04:00",
+      "expires_at_est": "2026-07-10T15:57:23-04:00",
+      "from_tweet_id": "2075549944983761269"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2075193284733894976",
@@ -148,6 +156,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet explaining FBD mechanics conceptually; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2075549944983761269",
+      "timestamp_utc": "2026-07-10T11:57:23.000Z",
+      "timestamp_est": "2026-07-10T07:57:23-04:00",
+      "tweet_text": "Peak low vol summer trading. Nothing to do in #ES_F. We got a 120 point long off the 7482 Wednesday reclaim. My target yesterday given at 8am was 7597, hit.\n\nPlan today: Do nothing but ride runner until elevator down. 7555, 7533 (watch traps)=supports. 7597, 7611, 7624 next slate https://t.co/iWm84aOm4D",
+      "added_bull_levels": [
+        7611.0,
+        7624.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7611 and 7624 named as 'next slate' targets not in morning plan; 7555, 7533, 7597 are morning-plan reaffirmations."
     }
   ]
 }
