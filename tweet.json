@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T15:18:34.333945+00:00",
-  "fetched_at_est": "2026-07-10T11:18:34.333953-04:00",
+  "fetched_at_utc": "2026-07-10T15:48:38.012432+00:00",
+  "fetched_at_est": "2026-07-10T11:48:38.012439-04:00",
   "last_new_level_added_at_est": "2026-07-10T09:06:49-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075244360602464267",
-      "timestamp_utc": "2026-07-09T15:43:06.000Z",
-      "timestamp_est": "2026-07-09T11:43:06-04:00",
-      "tweet_text": "@NerdRageDan I am always bullish, never changes! https://t.co/hvFKMY7CLH",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels named; purely conversational sentiment comment."
-    },
-    {
-      "tweet_id": "2075244622868091322",
-      "timestamp_utc": "2026-07-09T15:44:08.000Z",
-      "timestamp_est": "2026-07-09T11:44:08-04:00",
-      "tweet_text": "There's 7577 target #3 hit and easy as it gets today in #ES_F as we work up the range. 7482 Failed Breakdown was the last long entry yesterday. Today 4 targets were given before 8am: 7547 (hit), 7565 (hit), 7577 (hit). Just 7597 next, then we can finally breakout the range https://t.co/x3XgsJT3t9",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7547, 7565, 7577, 7597, 7482) are morning-plan levels or hindsight target-hit commentary. No new actionable levels named."
-    },
     {
       "tweet_id": "2075260301352600022",
       "timestamp_utc": "2026-07-09T16:46:26.000Z",
