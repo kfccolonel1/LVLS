@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-10T13:17:54.857197+00:00",
-  "fetched_at_est": "2026-07-10T09:17:54.857203-04:00",
+  "fetched_at_utc": "2026-07-10T13:27:57.183890+00:00",
+  "fetched_at_est": "2026-07-10T09:27:57.183895-04:00",
   "last_new_level_added_at_est": "2026-07-10T09:06:49-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2075210079167508972",
-      "timestamp_utc": "2026-07-09T13:26:53.000Z",
-      "timestamp_est": "2026-07-09T09:26:53-04:00",
-      "tweet_text": "@wesBateman7 September, January-March, May/June",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply listing months/dates with no price levels mentioned at all."
-    },
     {
       "tweet_id": "2075211450700681333",
       "timestamp_utc": "2026-07-09T13:32:20.000Z",
