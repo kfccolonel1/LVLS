@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-12T13:03:59.507377+00:00",
-  "fetched_at_est": "2026-07-12T09:03:59.507384-04:00",
+  "fetched_at_utc": "2026-07-12T14:54:10.410905+00:00",
+  "fetched_at_est": "2026-07-12T10:54:10.410912-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2075954643360739417",
-      "timestamp_utc": "2026-07-11T14:45:31.000Z",
-      "timestamp_est": "2026-07-11T10:45:31-04:00",
-      "tweet_text": "@Porterhous90889 Won't be non-stop, but as I've said regularly for two years we're in the early to mid stages of a bull market. Still 2-4 years left at the very least but could be longer",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure macro commentary about bull market duration; no price levels named or actionable entries/exits referenced."
-    },
     {
       "tweet_id": "2075987215751028955",
       "timestamp_utc": "2026-07-11T16:54:56.000Z",
