@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-13",
-  "daily_pivot": 7597.0,
-  "regime_hint": "C4",
+  "daily_pivot": 7553.0,
+  "regime_hint": "C3",
   "significant_lows": [
     7553.0,
     7529.0,
@@ -135,6 +135,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish, holding a runner long from last week's 7482 failed breakdown. After expanding the range upside to ~7600, he wants to buy dips: ideally a flush of 7553 (Friday's low) or 7529 cluster before targeting 7640 then 7668 and eventually 7695. The key pivot is 7597 \u2014 above it bulls remain in control; losing 7553 shifts odds toward a full range retrace back toward 7482.",
-  "fetched_at": "2026-07-12T10:23:48.568383+00:00"
+  "notes": "Trader is long with a runner from the prior failed breakdown at 7482. After a range breakout above 7597, he leans bullish toward 7640, then 7668, and eventually 7695. He will not chase upside but waits for dips. Key pivot is 7553: above it bulls stay in control; below it a full range retrace becomes likely. No new trades until a sharp sell-off creates a fresh failed-breakdown entry opportunity.",
+  "fetched_at": "2026-07-12T10:26:58.533799+00:00"
 }
