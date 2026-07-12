@@ -1,160 +1,39 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-11T02:20:07.885490+00:00",
-  "fetched_at_est": "2026-07-10T22:20:07.885498-04:00",
+  "fetched_at_utc": "2026-07-12T10:13:42.275016+00:00",
+  "fetched_at_est": "2026-07-12T06:13:42.275021-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2075549944983761269",
-      "timestamp_utc": "2026-07-10T11:57:23.000Z",
-      "timestamp_est": "2026-07-10T07:57:23-04:00",
-      "tweet_text": "Peak low vol summer trading. Nothing to do in #ES_F. We got a 120 point long off the 7482 Wednesday reclaim. My target yesterday given at 8am was 7597, hit.\n\nPlan today: Do nothing but ride runner until elevator down. 7555, 7533 (watch traps)=supports. 7597, 7611, 7624 next slate https://t.co/iWm84aOm4D",
+      "tweet_id": "2075927679757361467",
+      "timestamp_utc": "2026-07-11T12:58:22.000Z",
+      "timestamp_est": "2026-07-11T08:58:22-04:00",
+      "tweet_text": "Big Picture View #ES_F: Since early June, ES has built a massive bull flag. This week, it attempted breakout for the 1st time.\n\nPlan Next Week: 7597, 7555=supports (watch traps). As long as they hold, 7675 next, dip, breakout to 7750. If 7555 fails, flag needs more time &amp; we sell https://t.co/LkEUuRJH9O",
       "added_bull_levels": [
-        7611.0,
-        7624.0
+        7675.0
       ],
       "added_bear_levels": [],
-      "notes": "7611 and 7624 named as 'next slate' targets not in morning plan; 7555, 7533, 7597 are morning-plan reaffirmations."
+      "notes": "7675 named explicitly as 'next' target in bull scenario \u2014 not in morning plan. 7597, 7555, 7750 are all existing plan levels."
     },
     {
-      "tweet_id": "2075559685667668048",
-      "timestamp_utc": "2026-07-10T12:36:05.000Z",
-      "timestamp_est": "2026-07-10T08:36:05-04:00",
-      "tweet_text": "@atlasbtcgrowth Likely a 300 or so point move out of a range this size, but it isnt an exact science",
+      "tweet_id": "2075954643360739417",
+      "timestamp_utc": "2026-07-11T14:45:31.000Z",
+      "timestamp_est": "2026-07-11T10:45:31-04:00",
+      "tweet_text": "@Porterhous90889 Won't be non-stop, but as I've said regularly for two years we're in the early to mid stages of a bull market. Still 2-4 years left at the very least but could be longer",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Pure distance/math commentary about expected range breakout magnitude. No actionable price named, no naming language used."
+      "notes": "Pure macro commentary about bull market duration; no price levels named or actionable entries/exits referenced."
     },
     {
-      "tweet_id": "2075567419695710410",
-      "timestamp_utc": "2026-07-10T13:06:49.000Z",
-      "timestamp_est": "2026-07-10T09:06:49-04:00",
-      "tweet_text": "This action is not tradeable in #ES_F: Hold runner until we get an \"elevator down\" sell to restart the cycle. 7482 Reclaim was last entry given live here and in newsletter. My target was ~7597 (hit). 7597, 7611, 7624 next slate\n\nNo supports of interest until 55, 33 (watch traps) https://t.co/LZHPkOnjpe",
-      "added_bull_levels": [
-        7611.0,
-        7624.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7611 and 7624 are named as 'next slate' targets not in morning plan. 7597 is morning plan. '55,33' refer to 7555/7533 (morning plan). No new bear levels."
-    },
-    {
-      "tweet_id": "2075573477340250366",
-      "timestamp_utc": "2026-07-10T13:30:53.000Z",
-      "timestamp_est": "2026-07-10T09:30:53-04:00",
-      "tweet_text": "@OnTheHooch Most likely! Unless we get a headline market is programmed to drift up basically from mid June until mid August",
+      "tweet_id": "2075987215751028955",
+      "timestamp_utc": "2026-07-11T16:54:56.000Z",
+      "timestamp_est": "2026-07-11T12:54:56-04:00",
+      "tweet_text": "@NYJets2017 @Porterhous90889 Not rocket science! SPX and its predecessors have been doing the same thing for over 100 years yet everytime people think they are smarter than the market and \"this time is different\". They miss out everytime",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Pure conversational/directional commentary about seasonal drift; no price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2075588501182009642",
-      "timestamp_utc": "2026-07-10T14:30:35.000Z",
-      "timestamp_est": "2026-07-10T10:30:35-04:00",
-      "tweet_text": "We are working the targets today and as I've warned all week, don't make summer trading hard. Markets go *elevator down*, then they rally for days. 7482 reclaim was last entry Wednesday. My target was 7597 (hit). Today's slate: 7597 again (hit), 7611, 7624.\n\nNo support until 55 https://t.co/yDIjbvM630",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7597/7611/7624 are morning-plan or hindsight targets; 7482 is existing; '55' is incomplete/ambiguous. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2075591653700645331",
-      "timestamp_utc": "2026-07-10T14:43:07.000Z",
-      "timestamp_est": "2026-07-10T10:43:07-04:00",
-      "tweet_text": "Micro dip there in #ES_F but levels are ultra precise today. As I tweeted 11mins ago, the first support today is 7555. We sold to 7555 almost exact, and bounced 30 points. Summer trading is 95% upward grind, mixed with brief \"elevator down\" dips\n\n7597 (hit), 7611, 7624 upsides https://t.co/rFPMr9ouLX",
-      "added_bull_levels": [
-        7611.0,
-        7624.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7611 and 7624 are new upside targets not in the morning plan; 7555 and 7597 are morning-plan reaffirmations."
-    },
-    {
-      "tweet_id": "2075592224033616049",
-      "timestamp_utc": "2026-07-10T14:45:23.000Z",
-      "timestamp_est": "2026-07-10T10:45:23-04:00",
-      "tweet_text": "@Trevormiles16 Only 51 points. If you see larger it may be a platform error",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing a distance ('51 points'), no actionable price named, pure conversational response to a user question."
-    },
-    {
-      "tweet_id": "2075593544916464003",
-      "timestamp_utc": "2026-07-10T14:50:38.000Z",
-      "timestamp_est": "2026-07-10T10:50:38-04:00",
-      "tweet_text": "@bhargaval All elevator down sells are headline driven (they don't just happen randomly). I basically always hold a runner over the weekend though as long as my cost basis is low enough. All war dips will be bought without exception",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trade philosophy and holding runners over weekend. No actionable price levels named."
-    },
-    {
-      "tweet_id": "2075593852782629252",
-      "timestamp_utc": "2026-07-10T14:51:51.000Z",
-      "timestamp_est": "2026-07-10T10:51:51-04:00",
-      "tweet_text": "@ewtnewbie You just buy it! Trading involves risk. As I said in the newsletter I don't take those trades (I only take Faild Breakdowns) but I give the levels and entries out and people can engage how they want. In this case we did flush it and recover though, so a little safer",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trading philosophy and trade management (FBD preference). No new actionable price levels named."
-    },
-    {
-      "tweet_id": "2075614737279111222",
-      "timestamp_utc": "2026-07-10T16:14:51.000Z",
-      "timestamp_est": "2026-07-10T12:14:51-04:00",
-      "tweet_text": "That was likely today's volatility spike in #ES_F and now back to the summer grind up. Today's support was 7555 in ES. It held exact essentially. Today's targets were 7597 (hit), 7611, 7624+ remain next.\n\nJust ride runner now until the next elevator down spike lower https://t.co/x7CDGoEpt5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7555/7597 are morning-plan levels; 7611/7624 appear as new targets but lack explicit naming language ('added','key','major','watching') \u2014 treated as directional commentary."
-    },
-    {
-      "tweet_id": "2075626613111193875",
-      "timestamp_utc": "2026-07-10T17:02:02.000Z",
-      "timestamp_est": "2026-07-10T13:02:02-04:00",
-      "tweet_text": "Another easy money day in #ES_F as are most days in the summer once you know how ES functions. 7555 was support. We went \"elevator down\" and held exact. Targets were 7597 (hit), 7611 (hit), 7624 next, then many targets above that.\n\nJust ride runner for the rest of the day https://t.co/1DKPgC1jd4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7555/7597 are morning-plan levels; 7611/7624 are target observations not named with actionable language; 'ride runner' is trade management only."
-    },
-    {
-      "tweet_id": "2075644967481983370",
-      "timestamp_utc": "2026-07-10T18:14:58.000Z",
-      "timestamp_est": "2026-07-10T14:14:58-04:00",
-      "tweet_text": "Nothing to do but close platform. As I've said all week, summer #ES_F trading is easy. 1) Wait for the daily \"elevator down sell\" 2) Long the Failed Breakdowns (I do not short, ever) 3) Ride runner for 1-3 days until repeat\n\n7555 was today's support, held. 7624 next, then 7695+ https://t.co/71R4Ayqwwo",
-      "added_bull_levels": [
-        7624.0,
-        7695.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7624 and 7695 named as sequential upside targets ('next, then') not in morning plan; 7555 is a morning plan level (reaffirmation only)."
-    },
-    {
-      "tweet_id": "2075645267739582540",
-      "timestamp_utc": "2026-07-10T18:16:10.000Z",
-      "timestamp_est": "2026-07-10T14:16:10-04:00",
-      "tweet_text": "@ChadWinward It was buyable. Could've entered on the 70 low recovery, or on the 55 sweep, or just bought the 55. I didn't trade it as I only take high quality Failed Breakdowns that have a nearly 100% win rate (this was much lower) but it was there for those who wanted it.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trade setups in hindsight (70 low, 55 sweep) \u2014 observational references to existing levels, no new actionable level named."
-    },
-    {
-      "tweet_id": "2075661305885692391",
-      "timestamp_utc": "2026-07-10T19:19:53.000Z",
-      "timestamp_est": "2026-07-10T15:19:53-04:00",
-      "tweet_text": "@tanay1210 Nothing changes between when its sent and the close so no reason to wait!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to a user with no price levels mentioned; purely conversational about timing of newsletter delivery."
-    },
-    {
-      "tweet_id": "2075661565886431517",
-      "timestamp_utc": "2026-07-10T19:20:55.000Z",
-      "timestamp_est": "2026-07-10T15:20:55-04:00",
-      "tweet_text": "CLosing update #ES_F: There's 7624 target hit. Today went perfect. Support was 7555. It held. 3 targets were given: 7597 (hit), 7611 (ht), 7624 (hit). 7695 is the next magnet. Newsletter out early with next entries",
-      "added_bull_levels": [
-        7611.0,
-        7695.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7611 not in morning plan and named as a target (hit); 7695 explicitly named as 'next magnet' \u2014 a new actionable bull target. 7597/7624/7555 are morning plan levels."
+      "notes": "Reply tweet with general market philosophy commentary; no prices or actionable levels mentioned at all."
     }
   ]
 }
