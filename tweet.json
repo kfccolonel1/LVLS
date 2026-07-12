@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-12T10:13:42.275016+00:00",
-  "fetched_at_est": "2026-07-12T06:13:42.275021-04:00",
+  "fetched_at_utc": "2026-07-12T13:03:59.507377+00:00",
+  "fetched_at_est": "2026-07-12T09:03:59.507384-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2075927679757361467",
-      "timestamp_utc": "2026-07-11T12:58:22.000Z",
-      "timestamp_est": "2026-07-11T08:58:22-04:00",
-      "tweet_text": "Big Picture View #ES_F: Since early June, ES has built a massive bull flag. This week, it attempted breakout for the 1st time.\n\nPlan Next Week: 7597, 7555=supports (watch traps). As long as they hold, 7675 next, dip, breakout to 7750. If 7555 fails, flag needs more time &amp; we sell https://t.co/LkEUuRJH9O",
-      "added_bull_levels": [
-        7675.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7675 named explicitly as 'next' target in bull scenario \u2014 not in morning plan. 7597, 7555, 7750 are all existing plan levels."
-    },
     {
       "tweet_id": "2075954643360739417",
       "timestamp_utc": "2026-07-11T14:45:31.000Z",
