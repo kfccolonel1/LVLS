@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-13T13:16:14.774192+00:00",
-  "fetched_at_est": "2026-07-13T09:16:14.774210-04:00",
+  "fetched_at_utc": "2026-07-13T14:26:25.475501+00:00",
+  "fetched_at_est": "2026-07-13T10:26:25.475505-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -50,6 +50,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7621 not in morning plan but tweet says 'No change' \u2014 reaffirmation framing. All other prices (7612,7627,7570,7553) are morning-plan levels. No new actionable levels."
+    },
+    {
+      "tweet_id": "2076672621572137088",
+      "timestamp_utc": "2026-07-13T14:18:30.000Z",
+      "timestamp_est": "2026-07-13T10:18:30-04:00",
+      "tweet_text": "Mostly untradable summer chop still in #ES_F. Summer trading=95% riding a runner, 5% engaging the brief vol spikes on Failed Breakdowns. Do not overtrade in this action.\n\n7570 (watch traps) remains support, with 7553 (watch traps) below. 7612, 7621, 7627 next slate https://t.co/JJt2MMC0ey",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7570, 7553, 7612, 7627 all in morning plan; 7621 appears as observation in a directional list, no explicit actionable naming language for a new level."
     }
   ]
 }
