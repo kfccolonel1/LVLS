@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-13T17:56:55.538326+00:00",
-  "fetched_at_est": "2026-07-13T13:56:55.538337-04:00",
+  "fetched_at_utc": "2026-07-13T18:47:04.298213+00:00",
+  "fetched_at_est": "2026-07-13T14:47:04.298217-04:00",
   "last_new_level_added_at_est": "2026-07-13T13:00:32-04:00",
   "todays_new_levels": [
     {
@@ -131,6 +131,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing a bearish H&S pattern with no explicit actionable price named; no trigger price, entry, or level identified."
+    },
+    {
+      "tweet_id": "2076739059175546899",
+      "timestamp_utc": "2026-07-13T18:42:30.000Z",
+      "timestamp_est": "2026-07-13T14:42:30-04:00",
+      "tweet_text": "@JackRFrankII Yes valid entry, still active now as the low hasn't lost. No volatility now though + summer trading + mid day chop means if you take a trade need to be ready to sit for hours and hours",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/advisory reply to user \u2014 no price named, no actionable level introduced."
     }
   ]
 }
