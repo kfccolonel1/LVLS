@@ -4,7 +4,7 @@
   "regime_hint": "C3",
   "significant_lows": [
     7553.0,
-    7529.0,
+    7527.0,
     7482.0,
     7467.0,
     7408.0
@@ -135,6 +135,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is long with a runner from the prior failed breakdown at 7482. After a range breakout above 7597, he leans bullish toward 7640, then 7668, and eventually 7695. He will not chase upside but waits for dips. Key pivot is 7553: above it bulls stay in control; below it a full range retrace becomes likely. No new trades until a sharp sell-off creates a fresh failed-breakdown entry opportunity.",
-  "fetched_at": "2026-07-12T10:26:58.533799+00:00"
+  "notes": "Trader is holding a 10% long runner from Wednesday's failed breakdown of 7482. He leans bullish, expecting dips to be bought and price to work up toward 7640 then 7668 and eventually 7695. He is not chasing; he waits for a pullback and failed breakdown setup. Key pivot is 7553: above it bulls remain in control targeting 7640+; below it a full retracement back into the prior range becomes likely.",
+  "fetched_at": "2026-07-13T05:00:18.833726+00:00"
 }
