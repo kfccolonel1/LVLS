@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-13T15:36:36.105366+00:00",
-  "fetched_at_est": "2026-07-13T11:36:36.105373-04:00",
-  "last_new_level_added_at_est": "2026-07-13T11:28:06-04:00",
+  "fetched_at_utc": "2026-07-13T17:56:55.538326+00:00",
+  "fetched_at_est": "2026-07-13T13:56:55.538337-04:00",
+  "last_new_level_added_at_est": "2026-07-13T13:00:32-04:00",
   "todays_new_levels": [
     {
       "price": 7621.0,
@@ -11,6 +11,20 @@
       "added_at_est": "2026-07-13T11:28:06-04:00",
       "expires_at_est": "2026-07-13T19:28:06-04:00",
       "from_tweet_id": "2076690137660993842"
+    },
+    {
+      "price": 7578.0,
+      "side": "bull",
+      "added_at_est": "2026-07-13T13:00:32-04:00",
+      "expires_at_est": "2026-07-13T21:00:32-04:00",
+      "from_tweet_id": "2076713397165420659"
+    },
+    {
+      "price": 7587.0,
+      "side": "bull",
+      "added_at_est": "2026-07-13T13:00:32-04:00",
+      "expires_at_est": "2026-07-13T21:00:32-04:00",
+      "from_tweet_id": "2076713397165420659"
     }
   ],
   "updates": [
@@ -78,6 +92,45 @@
       ],
       "added_bear_levels": [],
       "notes": "7621 is named as 'next up' target not in morning plan; 7612/7627/7570/7553 are all existing plan levels reaffirmed."
+    },
+    {
+      "tweet_id": "2076713397165420659",
+      "timestamp_utc": "2026-07-13T17:00:32.000Z",
+      "timestamp_est": "2026-07-13T13:00:32-04:00",
+      "tweet_text": "Nice mini volatility spike in #ES_F but in summer trading its important to aggressively take profits if they are there. 7570 first support of interest down today and we just flushed the zone (overnight low) and popped above. Bulls need to push fast now to see 7578, 7587, 7596 https://t.co/NS43NKiA8s",
+      "added_bull_levels": [
+        7578.0,
+        7587.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7578 and 7587 are newly named upside targets not in morning plan; 7596 and 7570 are already published levels."
+    },
+    {
+      "tweet_id": "2076717977941029310",
+      "timestamp_utc": "2026-07-13T17:18:44.000Z",
+      "timestamp_est": "2026-07-13T13:18:44-04:00",
+      "tweet_text": "@DeFiBaller They become more likely because the more red in ES, the larger the subsequent green move will be.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conceptual commentary about market dynamics; no price level named or actionable instruction given."
+    },
+    {
+      "tweet_id": "2076719486409802099",
+      "timestamp_utc": "2026-07-13T17:24:43.000Z",
+      "timestamp_est": "2026-07-13T13:24:43-04:00",
+      "tweet_text": "@ashwagamma About as bad as trading conditions get right now. 1/10 conditions",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely a commentary tweet rating current trading conditions as 1/10."
+    },
+    {
+      "tweet_id": "2076719907979272658",
+      "timestamp_utc": "2026-07-13T17:26:24.000Z",
+      "timestamp_est": "2026-07-13T13:26:24-04:00",
+      "tweet_text": "@MtBornKidd More or less! At least until volatility comes back. Nice little bearish H&amp;S here so if we luck out and it triggers down we may get a window of more setups",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a bearish H&S pattern with no explicit actionable price named; no trigger price, entry, or level identified."
     }
   ]
 }
