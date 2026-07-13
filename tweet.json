@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-13T11:55:55.751266+00:00",
-  "fetched_at_est": "2026-07-13T07:55:55.751271-04:00",
+  "fetched_at_utc": "2026-07-13T12:06:00.577133+00:00",
+  "fetched_at_est": "2026-07-13T08:06:00.577138-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -23,6 +23,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7553, 7570, 7612, 7627) are morning-plan reaffirmations; 7621 is close to 7627 but context is a directional list restatement, not a new named actionable level."
+    },
+    {
+      "tweet_id": "2076637618960265285",
+      "timestamp_utc": "2026-07-13T11:59:25.000Z",
+      "timestamp_est": "2026-07-13T07:59:25-04:00",
+      "tweet_text": "@RockyTSST Nothing I would engage there. As I said in newsletter: \"As of writing 7596 is first support down. I\u2019ve got no interest in engaging here and this is far too close to the highs.\" I only take high quality, 95-100% win rate Failed Breakdowns.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7596 is in morning plan; tweet is a hindsight reaffirmation of newsletter text, no new actionable level named."
     }
   ]
 }
