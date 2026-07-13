@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-13T14:26:25.475501+00:00",
-  "fetched_at_est": "2026-07-13T10:26:25.475505-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-13T15:36:36.105366+00:00",
+  "fetched_at_est": "2026-07-13T11:36:36.105373-04:00",
+  "last_new_level_added_at_est": "2026-07-13T11:28:06-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7621.0,
+      "side": "bull",
+      "added_at_est": "2026-07-13T11:28:06-04:00",
+      "expires_at_est": "2026-07-13T19:28:06-04:00",
+      "from_tweet_id": "2076690137660993842"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2076420536985329789",
@@ -59,6 +67,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7570, 7553, 7612, 7627 all in morning plan; 7621 appears as observation in a directional list, no explicit actionable naming language for a new level."
+    },
+    {
+      "tweet_id": "2076690137660993842",
+      "timestamp_utc": "2026-07-13T15:28:06.000Z",
+      "timestamp_est": "2026-07-13T11:28:06-04:00",
+      "tweet_text": "We are still in peak low volatility summer chop in #ES_F and this is not remotely tradable and I don't touch it. Just hold runner as we grind. 7612, 7621, 7627 next up from here.\n\n7570, 7553 are supports if we actually get volatility. Watch traps of both of them https://t.co/59thmb9X35",
+      "added_bull_levels": [
+        7621.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7621 is named as 'next up' target not in morning plan; 7612/7627/7570/7553 are all existing plan levels reaffirmed."
     }
   ]
 }
