@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-13T19:07:10.009316+00:00",
-  "fetched_at_est": "2026-07-13T15:07:10.009321-04:00",
+  "fetched_at_utc": "2026-07-13T21:37:23.774333+00:00",
+  "fetched_at_est": "2026-07-13T17:37:23.774341-04:00",
   "last_new_level_added_at_est": "2026-07-13T13:00:32-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2076420536985329789",
-      "timestamp_utc": "2026-07-12T21:36:48.000Z",
-      "timestamp_est": "2026-07-12T17:36:48-04:00",
-      "tweet_text": "Key to remember there is no such thing as difficult trading conditions - you as the trader are in full control of how easy or difficult any session is, by how often you trade. If you are trying to force 10 trades into a day, any day will hard and high stress. Less is more",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure motivational/philosophical commentary about trading frequency and stress. No price levels named or referenced whatsoever."
-    },
     {
       "tweet_id": "2076636115184898268",
       "timestamp_utc": "2026-07-13T11:53:26.000Z",
