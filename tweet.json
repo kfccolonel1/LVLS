@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-14T11:58:40.698309+00:00",
-  "fetched_at_est": "2026-07-14T07:58:40.698326-04:00",
+  "fetched_at_utc": "2026-07-14T12:08:47.527737+00:00",
+  "fetched_at_est": "2026-07-14T08:08:47.527746-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2076637618960265285",
-      "timestamp_utc": "2026-07-13T11:59:25.000Z",
-      "timestamp_est": "2026-07-13T07:59:25-04:00",
-      "tweet_text": "@RockyTSST Nothing I would engage there. As I said in newsletter: \"As of writing 7596 is first support down. I\u2019ve got no interest in engaging here and this is far too close to the highs.\" I only take high quality, 95-100% win rate Failed Breakdowns.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7596 is in morning plan; tweet is a hindsight reaffirmation of newsletter text, no new actionable level named."
-    },
     {
       "tweet_id": "2076654722866401297",
       "timestamp_utc": "2026-07-13T13:07:22.000Z",
@@ -127,6 +118,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about trading volatility and seasonality; no price levels named or actionable setups referenced."
+    },
+    {
+      "tweet_id": "2077001931629678752",
+      "timestamp_utc": "2026-07-14T12:07:03.000Z",
+      "timestamp_est": "2026-07-14T08:07:03-04:00",
+      "tweet_text": "@305HRHitter That would've been a fine trade, it only went one level though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual reply to a user about a trade outcome; no actionable price named, no naming language, pure conversational observation."
+    },
+    {
+      "tweet_id": "2077002112353927257",
+      "timestamp_utc": "2026-07-14T12:07:47.000Z",
+      "timestamp_est": "2026-07-14T08:07:47-04:00",
+      "tweet_text": "@YBuphet Can't really trade when markets aren't moving! If your trading level to level its still fine but need to be prepared to aggressively get out at those first targets",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with general trading advice about managing exits at targets; no new price levels named or actionable prices mentioned."
     }
   ]
 }
