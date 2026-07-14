@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-14T14:59:24.245568+00:00",
-  "fetched_at_est": "2026-07-14T10:59:24.245572-04:00",
+  "fetched_at_utc": "2026-07-14T15:19:37.588805+00:00",
+  "fetched_at_est": "2026-07-14T11:19:37.588818-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -154,6 +154,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7567-73, 7585, 7597, 7611) are morning plan levels or hindsight hit references; 7567-73 support is reaffirmation/observation, not a new actionable level."
+    },
+    {
+      "tweet_id": "2077047943891136760",
+      "timestamp_utc": "2026-07-14T15:09:54.000Z",
+      "timestamp_est": "2026-07-14T11:09:54-04:00",
+      "tweet_text": "@coleridge8264 Neither, the zone was too choppy and vol was too low",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user explaining why a trade was avoided (choppy zone, low vol). No price named, no actionable level, pure commentary."
+    },
+    {
+      "tweet_id": "2077048616766566879",
+      "timestamp_utc": "2026-07-14T15:12:34.000Z",
+      "timestamp_est": "2026-07-14T11:12:34-04:00",
+      "tweet_text": "@chrisAn00930062 I didn't take at it at 830, it was simply too fast after CPI. Normally I'd position before CPI but we just had no volatility and the zone was too choppy. I need momentum and strength to enter, which we had after CPI but we ran the whole target set instantly. I just took the 67-73",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining trade management and missed entry; '67-73' is a range reference to morning-plan levels 7267-7273 area, no new actionable level named."
+    },
+    {
+      "tweet_id": "2077049250265862472",
+      "timestamp_utc": "2026-07-14T15:15:05.000Z",
+      "timestamp_est": "2026-07-14T11:15:05-04:00",
+      "tweet_text": "There's 7597 hit again and we are running the target set for the second time today. Today's targets were 7585 (hit many times), 7587 (hit 2x), then 7611 (hit once).\n\n7573-67 tests/recoveries were entry and we backtested it. After 7611 7621, 7629, 7639 are bonus targets https://t.co/cNQzcSgOrH",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7573,7585,7597,7611,7621,7639) are morning-plan levels or observations of hits; 7629 appears but no actionable naming language, just listed as 'bonus target' alongside existing plan levels."
     }
   ]
 }
