@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-14T12:58:59.633880+00:00",
-  "fetched_at_est": "2026-07-14T08:58:59.633885-04:00",
+  "fetched_at_utc": "2026-07-14T13:09:04.391734+00:00",
+  "fetched_at_est": "2026-07-14T09:09:04.391739-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2076654722866401297",
-      "timestamp_utc": "2026-07-13T13:07:22.000Z",
-      "timestamp_est": "2026-07-13T09:07:22-04:00",
-      "tweet_text": "@kaly11681776 When we get volatility back. There's no volatility now and day traders can't trade no volatility (you can, but you'll get chopped up and lose).",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on market conditions (no volatility). No price levels named or implied whatsoever."
-    },
-    {
-      "tweet_id": "2076654995328340281",
-      "timestamp_utc": "2026-07-13T13:08:27.000Z",
-      "timestamp_est": "2026-07-13T09:08:27-04:00",
-      "tweet_text": "Just ride runner, summer trading is 90-95% riding runners, then 5% of the time we get a vol spike which produces a Failed Breakdown and gets us long for the next 1-3 days. Rinse and repeat. \n\nNo change: 7612, 7621, 7627 next slate. No support until 7570 (watch traps), 7553 (same) https://t.co/lYyVu21Sq1",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7621 not in morning plan but tweet says 'No change' \u2014 reaffirmation framing. All other prices (7612,7627,7570,7553) are morning-plan levels. No new actionable levels."
-    },
     {
       "tweet_id": "2076672621572137088",
       "timestamp_utc": "2026-07-13T14:18:30.000Z",
@@ -154,6 +136,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet defending methodology; no prices named, no actionable levels introduced. Pure conversational commentary."
+    },
+    {
+      "tweet_id": "2077016384945398085",
+      "timestamp_utc": "2026-07-14T13:04:29.000Z",
+      "timestamp_est": "2026-07-14T09:04:29-04:00",
+      "tweet_text": "@repetak That's data days though! Only alternative would be not to post before data. Everyone knows that CPI reactions are random, large, and instant",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about data-day volatility; no price levels named or actionable signals given."
     }
   ]
 }
