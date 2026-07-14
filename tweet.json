@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-14T17:30:04.094555+00:00",
-  "fetched_at_est": "2026-07-14T13:30:04.094561-04:00",
+  "fetched_at_utc": "2026-07-14T18:50:11.650639+00:00",
+  "fetched_at_est": "2026-07-14T14:50:11.650645-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2076739059175546899",
-      "timestamp_utc": "2026-07-13T18:42:30.000Z",
-      "timestamp_est": "2026-07-13T14:42:30-04:00",
-      "tweet_text": "@JackRFrankII Yes valid entry, still active now as the low hasn't lost. No volatility now though + summer trading + mid day chop means if you take a trade need to be ready to sit for hours and hours",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management/advisory reply to user \u2014 no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2076744618679357934",
       "timestamp_utc": "2026-07-13T19:04:35.000Z",
