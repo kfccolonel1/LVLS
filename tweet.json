@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-14T17:09:59.330820+00:00",
-  "fetched_at_est": "2026-07-14T13:09:59.330826-04:00",
+  "fetched_at_utc": "2026-07-14T17:20:02.015572+00:00",
+  "fetched_at_est": "2026-07-14T13:20:02.015577-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2076717977941029310",
-      "timestamp_utc": "2026-07-13T17:18:44.000Z",
-      "timestamp_est": "2026-07-13T13:18:44-04:00",
-      "tweet_text": "@DeFiBaller They become more likely because the more red in ES, the larger the subsequent green move will be.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conceptual commentary about market dynamics; no price level named or actionable instruction given."
-    },
     {
       "tweet_id": "2076719486409802099",
       "timestamp_utc": "2026-07-13T17:24:43.000Z",
