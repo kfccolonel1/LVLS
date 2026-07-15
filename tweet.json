@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-15T14:42:37.280390+00:00",
-  "fetched_at_est": "2026-07-15T10:42:37.280394-04:00",
+  "fetched_at_utc": "2026-07-15T14:52:46.535326+00:00",
+  "fetched_at_est": "2026-07-15T10:52:46.535340-04:00",
   "last_new_level_added_at_est": "2026-07-15T08:56:50-04:00",
   "todays_new_levels": [
     {
@@ -125,6 +125,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Trade management commentary about runner and targets hitting; no new actionable price level named."
+    },
+    {
+      "tweet_id": "2077403589652148523",
+      "timestamp_utc": "2026-07-15T14:43:06.000Z",
+      "timestamp_est": "2026-07-15T10:43:06-04:00",
+      "tweet_text": "@lockingprofits Yes I did! I quit shorting in early 2024 though. I did short for my career prior to that though. There was an opportunity cost to playing those shorts though, I'd miss the Failed Breakdown squeeze afterwards and those are higher win rate",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading style/history. No price levels named, no actionable entries, targets, or watches mentioned."
+    },
+    {
+      "tweet_id": "2077403786289553665",
+      "timestamp_utc": "2026-07-15T14:43:53.000Z",
+      "timestamp_est": "2026-07-15T10:43:53-04:00",
+      "tweet_text": "@lockingprofits I didn't like how I'd catch a 40 point short then I'd miss the 150 point rip in an hour we'd get right after",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading style/regret; no actionable price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2077404466270154796",
+      "timestamp_utc": "2026-07-15T14:46:35.000Z",
+      "timestamp_est": "2026-07-15T10:46:35-04:00",
+      "tweet_text": "Poor quality summer grind continues in #ES_F: 7597 remains weak support. 7570-73 below there which is the first zone that interests me today (watch traps there). Today's targets were 7604, 7611, 7621, 7640.\n\nJust 7640 left to the upside which has not hit yet https://t.co/nG7PAsMUlf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7597, 7570-73, 7604, 7611, 7621, 7640) are morning-plan levels or reaffirmations; no new actionable levels introduced."
     }
   ]
 }
