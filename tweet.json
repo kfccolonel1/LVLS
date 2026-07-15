@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-15T15:22:53.093361+00:00",
-  "fetched_at_est": "2026-07-15T11:22:53.093369-04:00",
+  "fetched_at_utc": "2026-07-15T16:23:03.750180+00:00",
+  "fetched_at_est": "2026-07-15T12:23:03.750194-04:00",
   "last_new_level_added_at_est": "2026-07-15T08:56:50-04:00",
   "todays_new_levels": [
     {
@@ -116,6 +116,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7597, 7570-73, 7604, 7611, 7621, 7640) are morning-plan levels or reaffirmations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2077427315374522579",
+      "timestamp_utc": "2026-07-15T16:17:23.000Z",
+      "timestamp_est": "2026-07-15T12:17:23-04:00",
+      "tweet_text": "Finally getting today's mini-vol injection but still remains extremely low in #ES_F due to summer grind: Adhere to the summer trading protocol. Today's slate of given targets were 7604, 7611, 7621, 7640. 3/4 hit so far. \n\n7570-73 remains 1st support. Watch traps there . 47 below https://t.co/5M5wmk2ELn",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7604,7611,7621,7640,7570-73,7547) are morning-plan levels or reaffirmations; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2077427710029168923",
+      "timestamp_utc": "2026-07-15T16:18:57.000Z",
+      "timestamp_est": "2026-07-15T12:18:57-04:00",
+      "tweet_text": "@ThePinkWolf_ Structure overall is incredibly bullish, if we got down to 7400's that would just be a small range expansion and propel us even higher. I wouldn't consider that to be a multi-day breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational commentary about 7400s being a small pullback; no actionable price named with explicit naming language, just casual distance reference."
     }
   ]
 }
