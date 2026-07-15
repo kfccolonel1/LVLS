@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-15T14:12:30.778652+00:00",
-  "fetched_at_est": "2026-07-15T10:12:30.778660-04:00",
+  "fetched_at_utc": "2026-07-15T14:42:37.280390+00:00",
+  "fetched_at_est": "2026-07-15T10:42:37.280394-04:00",
   "last_new_level_added_at_est": "2026-07-15T08:56:50-04:00",
   "todays_new_levels": [
     {
@@ -116,6 +116,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7604 and 7621 are observations of hit targets; 7611 and 7640 are morning-plan levels. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2077403321501929624",
+      "timestamp_utc": "2026-07-15T14:42:02.000Z",
+      "timestamp_est": "2026-07-15T10:42:02-04:00",
+      "tweet_text": "@Datmonster29 I don't add again unless we get a failed breakdown. I'm only getting paid in the sense that my runner continues to appreciate as targets hit",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management commentary about runner and targets hitting; no new actionable price level named."
     }
   ]
 }
