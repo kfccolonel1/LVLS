@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-15T14:52:46.535326+00:00",
-  "fetched_at_est": "2026-07-15T10:52:46.535340-04:00",
+  "fetched_at_utc": "2026-07-15T15:02:48.754723+00:00",
+  "fetched_at_est": "2026-07-15T11:02:48.754731-04:00",
   "last_new_level_added_at_est": "2026-07-15T08:56:50-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077044408336183592",
-      "timestamp_utc": "2026-07-14T14:55:51.000Z",
-      "timestamp_est": "2026-07-14T10:55:51-04:00",
-      "tweet_text": "Back to boring summer chop in #ES_F and all the action was in the 2 mins after CPI. Levels held nicely since though. Post CPI targets were 7567-73, 7585, 7597, 7611, all hit.\n\n7567-73 then became support to buy the backtest. Held. Same upside targets, ride runner from here https://t.co/yaq24jdBBy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7567-73, 7585, 7597, 7611) are morning plan levels or hindsight hit references; 7567-73 support is reaffirmation/observation, not a new actionable level."
-    },
     {
       "tweet_id": "2077047943891136760",
       "timestamp_utc": "2026-07-14T15:09:54.000Z",
