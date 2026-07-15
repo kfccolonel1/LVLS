@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-15T16:23:03.750180+00:00",
-  "fetched_at_est": "2026-07-15T12:23:03.750194-04:00",
+  "fetched_at_utc": "2026-07-15T16:43:06.811338+00:00",
+  "fetched_at_est": "2026-07-15T12:43:06.811344-04:00",
   "last_new_level_added_at_est": "2026-07-15T08:56:50-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077071294172962868",
-      "timestamp_utc": "2026-07-14T16:42:41.000Z",
-      "timestamp_est": "2026-07-14T12:42:41-04:00",
-      "tweet_text": "Now we're just into ride runners for the rest of the day/summer trading protocol in #ES_F. Do not touch this action. Today's targets off 7573-67 zone were 7585 (hit), 7597 (hit), 7611 (hit).\n\n7621, 7629, and 7639 are next targets up when this range finally clears to the upside https://t.co/lw4LrSsMrJ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7585, 7597, 7611, 7621, 7639) are morning-plan levels; 7629 is a target extension but framed as existing range targets, not newly named actionable level."
-    },
     {
       "tweet_id": "2077107430257807801",
       "timestamp_utc": "2026-07-14T19:06:16.000Z",
