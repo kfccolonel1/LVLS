@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-15T12:11:59.634271+00:00",
-  "fetched_at_est": "2026-07-15T08:11:59.634278-04:00",
+  "fetched_at_utc": "2026-07-15T12:32:09.259706+00:00",
+  "fetched_at_est": "2026-07-15T08:32:09.259710-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -115,6 +115,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7621 is the only unlisted price, but it appears in a directional target list alongside morning-plan levels (7604,7611,7640) with no explicit naming language \u2014 reaffirmation/list context, not a new actionable level."
+    },
+    {
+      "tweet_id": "2077368518861828339",
+      "timestamp_utc": "2026-07-15T12:23:45.000Z",
+      "timestamp_est": "2026-07-15T08:23:45-04:00",
+      "tweet_text": "@IsshoKnows Engagement down in general I find. Many people read my posts though and simply don't like them. If people find the posts useful I would encourage them to like the posts",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a social media engagement comment with no price levels, no actionable language, and no trading content whatsoever."
     }
   ]
 }
