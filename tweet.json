@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-15T17:03:12.819086+00:00",
-  "fetched_at_est": "2026-07-15T13:03:12.819090-04:00",
+  "fetched_at_utc": "2026-07-15T17:43:20.045124+00:00",
+  "fetched_at_est": "2026-07-15T13:43:20.045128-04:00",
   "last_new_level_added_at_est": "2026-07-15T13:00:19-04:00",
   "todays_new_levels": [
     {
@@ -144,6 +144,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7604 and 7621 are newly named upside resistance targets not in morning plan; 7597, 7611, 7640 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2077448183597179094",
+      "timestamp_utc": "2026-07-15T17:40:18.000Z",
+      "timestamp_est": "2026-07-15T13:40:18-04:00",
+      "tweet_text": "Very simple session and summer trading is the same thing everyday in #ES_F. Support was 7570-73, given well in advance + in newsletter. We sold, and held *exact*. Targets were then 7597 (hit), 7604 (hit), 7611, 7621, 7640 next.\n\nRide runner now, and we do it again tomorrow https://t.co/7UD4ICssAx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7570-73, 7597, 7604, 7611, 7621, 7640) are morning-plan reaffirmations or hit-target observations. No new actionable levels named."
     }
   ]
 }
