@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T18:09:46.013940+00:00",
-  "fetched_at_est": "2026-07-16T14:09:46.013949-04:00",
+  "fetched_at_utc": "2026-07-16T19:19:52.434304+00:00",
+  "fetched_at_est": "2026-07-16T15:19:52.434312-04:00",
   "last_new_level_added_at_est": "2026-07-16T10:21:40-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077472963419357400",
-      "timestamp_utc": "2026-07-15T19:18:46.000Z",
-      "timestamp_est": "2026-07-15T15:18:46-04:00",
-      "tweet_text": "Closing update #ES_F: 7570-73 was support today, held exact, and off we went. Now just ride runner for 7640 which is the next magnet. NEwsletter out soon talking possible dip buy entries if we luck out and get another volatility spike this week. We are close to a *massive* move",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7570-73 and 7640 are all morning-plan levels; 'next magnet' is reaffirmation, not new. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2077586777448042605",
       "timestamp_utc": "2026-07-16T02:51:02.000Z",
