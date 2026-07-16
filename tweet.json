@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T01:04:28.288882+00:00",
-  "fetched_at_est": "2026-07-15T21:04:28.288888-04:00",
+  "fetched_at_utc": "2026-07-16T02:54:40.888849+00:00",
+  "fetched_at_est": "2026-07-15T22:54:40.888854-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -208,6 +208,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7570-73 and 7640 are all morning-plan levels; 'next magnet' is reaffirmation, not new. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2077586777448042605",
+      "timestamp_utc": "2026-07-16T02:51:02.000Z",
+      "timestamp_est": "2026-07-15T22:51:02-04:00",
+      "tweet_text": "@NoBSOracle1 For me its always up. I don't \"predict\" downside moves ever because we are in an uptrend, and you'll never hear me say anything bearish",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely a philosophical/directional commentary about trading style and trend bias."
     }
   ]
 }
