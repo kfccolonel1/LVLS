@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T12:08:29.421395+00:00",
-  "fetched_at_est": "2026-07-16T08:08:29.421401-04:00",
+  "fetched_at_utc": "2026-07-16T12:28:32.234418+00:00",
+  "fetched_at_est": "2026-07-16T08:28:32.234422-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2077368518861828339",
-      "timestamp_utc": "2026-07-15T12:23:45.000Z",
-      "timestamp_est": "2026-07-15T08:23:45-04:00",
-      "tweet_text": "@IsshoKnows Engagement down in general I find. Many people read my posts though and simply don't like them. If people find the posts useful I would encourage them to like the posts",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a social media engagement comment with no price levels, no actionable language, and no trading content whatsoever."
-    },
     {
       "tweet_id": "2077376843766739407",
       "timestamp_utc": "2026-07-15T12:56:50.000Z",
