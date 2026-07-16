@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T12:28:32.234418+00:00",
-  "fetched_at_est": "2026-07-16T08:28:32.234422-04:00",
+  "fetched_at_utc": "2026-07-16T12:58:38.831533+00:00",
+  "fetched_at_est": "2026-07-16T08:58:38.831537-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2077376843766739407",
-      "timestamp_utc": "2026-07-15T12:56:50.000Z",
-      "timestamp_est": "2026-07-15T08:56:50-04:00",
-      "tweet_text": "Up the targets we go already and as I've said daily for a month, summer trading = 95% just riding a long runner. Once every 1-3 days, we get a vol spike which creates a Failed Breakdown, allowing us to add size to longs, then we repeat.\n\n7604 (hit), 7611 (hit), 7621, 7640 next https://t.co/twfnw3XivA",
-      "added_bull_levels": [
-        7621.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7621 is named as a new upside target not in the morning plan. 7604/7611/7640 are morning-plan or hit levels. 7621 qualifies as actionable 'next' target."
-    },
     {
       "tweet_id": "2077392223616876792",
       "timestamp_utc": "2026-07-15T13:57:56.000Z",
@@ -199,6 +188,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7570-73, 7611, 7594 implied, 7604, 7621, 7639) are morning plan levels or observations of prior action; 7621 rounds to existing 7611/7639 range. No genuinely new actionable levels."
+    },
+    {
+      "tweet_id": "2077737783603384473",
+      "timestamp_utc": "2026-07-16T12:51:04.000Z",
+      "timestamp_est": "2026-07-16T08:51:04-04:00",
+      "tweet_text": "@OnTheHooch If we get the non-acceptance protocol trigger its still a good trade but lower quality than the 70",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet referencing 'the 70' (likely 7570 or similar morning level) as trade quality commentary; no new actionable level named."
     }
   ]
 }
