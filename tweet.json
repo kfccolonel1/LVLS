@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T17:19:32.245163+00:00",
-  "fetched_at_est": "2026-07-16T13:19:32.245167-04:00",
+  "fetched_at_utc": "2026-07-16T17:49:39.286342+00:00",
+  "fetched_at_est": "2026-07-16T13:49:39.286347-04:00",
   "last_new_level_added_at_est": "2026-07-16T10:21:40-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077448183597179094",
-      "timestamp_utc": "2026-07-15T17:40:18.000Z",
-      "timestamp_est": "2026-07-15T13:40:18-04:00",
-      "tweet_text": "Very simple session and summer trading is the same thing everyday in #ES_F. Support was 7570-73, given well in advance + in newsletter. We sold, and held *exact*. Targets were then 7597 (hit), 7604 (hit), 7611, 7621, 7640 next.\n\nRide runner now, and we do it again tomorrow https://t.co/7UD4ICssAx",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7570-73, 7597, 7604, 7611, 7621, 7640) are morning-plan reaffirmations or hit-target observations. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2077448995211825596",
-      "timestamp_utc": "2026-07-15T17:43:32.000Z",
-      "timestamp_est": "2026-07-15T13:43:32-04:00",
-      "tweet_text": "@T_Ngo_T SOmetimes volatility just not there in this context, fine to just take the long on the bounce out in these cases especially when its just a slow grind down. That's what I do (or can just directly buy it)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trading advice/commentary on volatility and entry style; no specific price level named or flagged as actionable."
-    },
-    {
-      "tweet_id": "2077449778707747325",
-      "timestamp_utc": "2026-07-15T17:46:39.000Z",
-      "timestamp_est": "2026-07-15T13:46:39-04:00",
-      "tweet_text": "@house2k6 I took it on the bounce out, seeing we didn't have the vol for the full failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management reply describing exit rationale; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2077451821837131940",
       "timestamp_utc": "2026-07-15T17:54:46.000Z",
@@ -197,6 +170,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7594/7611/7639 are morning-plan levels; 7604 and 7621 are observations/targets from prior context, no new actionable level named for first time."
+    },
+    {
+      "tweet_id": "2077811082924613642",
+      "timestamp_utc": "2026-07-16T17:42:20.000Z",
+      "timestamp_est": "2026-07-16T13:42:20-04:00",
+      "tweet_text": "There remains nothing to do now in #ES_F and we've got a 2 target run today. 95% of summer trading is riding a runner. 7594 reclaims was low quality trigger. Target slate = 7604 (hit), 7611 (hit), 7621, 7639 still outstanding.\n\n7570-75=support (watch traps). 7555, 7533 below https://t.co/v5YpvNm2gM",
+      "added_bull_levels": [
+        7621.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7621 named as an outstanding target not in morning plan. 7604 is new but already hit (hindsight). 7570-75/7555/7533 are morning-plan reaffirmations."
     }
   ]
 }
