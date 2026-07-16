@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T17:59:43.881125+00:00",
-  "fetched_at_est": "2026-07-16T13:59:43.881129-04:00",
+  "fetched_at_utc": "2026-07-16T18:09:46.013940+00:00",
+  "fetched_at_est": "2026-07-16T14:09:46.013949-04:00",
   "last_new_level_added_at_est": "2026-07-16T10:21:40-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077453966141485294",
-      "timestamp_utc": "2026-07-15T18:03:17.000Z",
-      "timestamp_est": "2026-07-15T14:03:17-04:00",
-      "tweet_text": "@Trade1233288310 @PermaFader I do, but if its low volatility summer trading, we have a clearly planned support, its defending perfectly and bouncing out, there is no reason not to long it. May be the last setup for many days and no reason not to long it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading philosophy/strategy; no specific price level named or actionable trigger identified."
-    },
-    {
-      "tweet_id": "2077454166209761291",
-      "timestamp_utc": "2026-07-15T18:04:05.000Z",
-      "timestamp_est": "2026-07-15T14:04:05-04:00",
-      "tweet_text": "@Trade1233288310 @PermaFader Not going to pass on a trade and a planned, high quality support because it only hits 7570 instead of 7568",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7570 is already in the morning plan. Comment is a reaffirmation/defense of executing near that level, not a new actionable level."
-    },
     {
       "tweet_id": "2077472963419357400",
       "timestamp_utc": "2026-07-15T19:18:46.000Z",
