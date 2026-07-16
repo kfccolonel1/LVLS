@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T12:58:38.831533+00:00",
-  "fetched_at_est": "2026-07-16T08:58:38.831537-04:00",
+  "fetched_at_utc": "2026-07-16T13:08:44.453653+00:00",
+  "fetched_at_est": "2026-07-16T09:08:44.453658-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -197,6 +197,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet referencing 'the 70' (likely 7570 or similar morning level) as trade quality commentary; no new actionable level named."
+    },
+    {
+      "tweet_id": "2077740637504290963",
+      "timestamp_utc": "2026-07-16T13:02:25.000Z",
+      "timestamp_est": "2026-07-16T09:02:25-04:00",
+      "tweet_text": "Summer trading continues in #ES_F &amp; its same regime daily: 95% of the time should be holding a long runner. Every 1-3 days, vol spike, long the Failed Breakdown, sit in runner for 1-3 days\n\nNo change: 94 reclaim=low quality long. 70 traps=high quality. 7604, 7611, 7621, 7639 next https://t.co/EooxVzVhHB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7494/7470 reclaim/trap references are strategy reaffirmations; 7604,7611,7621,7639 are directional target list, not newly named actionable levels. 7621 is only new price but lacks explicit naming language."
     }
   ]
 }
