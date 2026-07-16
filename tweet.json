@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T17:49:39.286342+00:00",
-  "fetched_at_est": "2026-07-16T13:49:39.286347-04:00",
+  "fetched_at_utc": "2026-07-16T17:59:43.881125+00:00",
+  "fetched_at_est": "2026-07-16T13:59:43.881129-04:00",
   "last_new_level_added_at_est": "2026-07-16T10:21:40-04:00",
   "todays_new_levels": [
     {
@@ -14,42 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077451821837131940",
-      "timestamp_utc": "2026-07-15T17:54:46.000Z",
-      "timestamp_est": "2026-07-15T13:54:46-04:00",
-      "tweet_text": "@mohzoheir If its clearly just defending then bouncing out you can just take the long. If it traps then can also take the long. Just need to react to whatever it does",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with general trade management advice (react to price action). No specific price level named or actionable trigger identified."
-    },
-    {
-      "tweet_id": "2077452046102417568",
-      "timestamp_utc": "2026-07-15T17:55:39.000Z",
-      "timestamp_est": "2026-07-15T13:55:39-04:00",
-      "tweet_text": "@PermaFader Yes, didn't have the volatility to sweep but defended nicely and started pushing. Easy long",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply and trade commentary ('defended nicely', 'easy long') \u2014 no actionable price level named at all."
-    },
-    {
-      "tweet_id": "2077452180525605148",
-      "timestamp_utc": "2026-07-15T17:56:11.000Z",
-      "timestamp_est": "2026-07-15T13:56:11-04:00",
-      "tweet_text": "@PermaFader Slow grind into the zone as well",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price mentioned; purely conversational observation about price action."
-    },
-    {
-      "tweet_id": "2077452480124710921",
-      "timestamp_utc": "2026-07-15T17:57:23.000Z",
-      "timestamp_est": "2026-07-15T13:57:23-04:00",
-      "tweet_text": "There's 7611 tagged. This entire move was given clearly, in advance, in simple terms. As posted since this morning 7570-73 was the support I was interested in today. We got a vol spike, held exact, triggered longs. Targets I have were 7597 (hit), 7604 (hit), 7611 (hit)\n\n40 next https://t.co/R7rsMk0Rzq",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7570-73, 7597, 7604, 7611) are morning-plan levels or reaffirmations of already-published targets; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2077453966141485294",
       "timestamp_utc": "2026-07-15T18:03:17.000Z",
@@ -181,6 +145,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7621 named as an outstanding target not in morning plan. 7604 is new but already hit (hindsight). 7570-75/7555/7533 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2077814742773555377",
+      "timestamp_utc": "2026-07-16T17:56:53.000Z",
+      "timestamp_est": "2026-07-16T13:56:53-04:00",
+      "tweet_text": "Note: Newsletter likely will be out early today, volatility is low and fresher entries are setting up as we speak",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; purely logistical commentary about newsletter timing and low volatility. No actionable levels."
     }
   ]
 }
