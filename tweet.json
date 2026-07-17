@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T17:03:32.727187+00:00",
-  "fetched_at_est": "2026-07-17T13:03:32.727197-04:00",
+  "fetched_at_utc": "2026-07-17T17:43:36.827703+00:00",
+  "fetched_at_est": "2026-07-17T13:43:36.827709-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077811082924613642",
-      "timestamp_utc": "2026-07-16T17:42:20.000Z",
-      "timestamp_est": "2026-07-16T13:42:20-04:00",
-      "tweet_text": "There remains nothing to do now in #ES_F and we've got a 2 target run today. 95% of summer trading is riding a runner. 7594 reclaims was low quality trigger. Target slate = 7604 (hit), 7611 (hit), 7621, 7639 still outstanding.\n\n7570-75=support (watch traps). 7555, 7533 below https://t.co/v5YpvNm2gM",
-      "added_bull_levels": [
-        7621.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7621 named as an outstanding target not in morning plan. 7604 is new but already hit (hindsight). 7570-75/7555/7533 are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2077814742773555377",
       "timestamp_utc": "2026-07-16T17:56:53.000Z",
