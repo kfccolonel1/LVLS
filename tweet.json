@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T18:23:45.944074+00:00",
-  "fetched_at_est": "2026-07-17T14:23:45.944079-04:00",
+  "fetched_at_utc": "2026-07-17T19:03:52.784637+00:00",
+  "fetched_at_est": "2026-07-17T15:03:52.784641-04:00",
   "last_new_level_added_at_est": "2026-07-17T14:23:23-04:00",
   "todays_new_levels": [
     {
@@ -326,6 +326,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7506 is named for first time with explicit actionable language ('watch for recoveries...as a lower quality long') \u2014 not in morning plan."
+    },
+    {
+      "tweet_id": "2078191438634815622",
+      "timestamp_utc": "2026-07-17T18:53:44.000Z",
+      "timestamp_est": "2026-07-17T14:53:44-04:00",
+      "tweet_text": "@KevinSPYtrader I've got it written about in the newsletter! Hopefully doesn't trigger early, its why I send it early on these days sometimes",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing newsletter timing; no price level named or actionable trigger identified."
     }
   ]
 }
