@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T15:33:10.309770+00:00",
-  "fetched_at_est": "2026-07-17T11:33:10.309777-04:00",
+  "fetched_at_utc": "2026-07-17T15:43:15.765513+00:00",
+  "fetched_at_est": "2026-07-17T11:43:15.765518-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -301,6 +301,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7540 named as next bull target ('must recover to see 7540') not in morning plan. 7522 is observation of hit target; 7533/7555/7570-75 are morning-plan levels."
+    },
+    {
+      "tweet_id": "2078141404040122397",
+      "timestamp_utc": "2026-07-17T15:34:55.000Z",
+      "timestamp_est": "2026-07-17T11:34:55-04:00",
+      "tweet_text": "@tenantfit Yes for me the minors are mostly profit takes rather than levels to actually engage it. They're much shakier/less well defined",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading philosophy about minor levels as profit targets; no actionable price named, no naming language used."
     }
   ]
 }
