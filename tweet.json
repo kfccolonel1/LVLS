@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T15:23:08.134390+00:00",
-  "fetched_at_est": "2026-07-17T11:23:08.134396-04:00",
+  "fetched_at_utc": "2026-07-17T15:33:10.309770+00:00",
+  "fetched_at_est": "2026-07-17T11:33:10.309777-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077776258293793232",
-      "timestamp_utc": "2026-07-16T15:23:57.000Z",
-      "timestamp_est": "2026-07-16T11:23:57-04:00",
-      "tweet_text": "@ES_Money_Print I would call it one because we had a clear shelf of lows there that swept and recovered. Would definitely meet all my criteria. Couldn't write about that in the newsletter obviously because all the structure formed afterwards",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining post-hoc structure recognition; no actionable price named, no naming language, no new level introduced."
-    },
     {
       "tweet_id": "2077799549834256537",
       "timestamp_utc": "2026-07-16T16:56:30.000Z",
