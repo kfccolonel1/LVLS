@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T12:22:00.657015+00:00",
-  "fetched_at_est": "2026-07-17T08:22:00.657020-04:00",
-  "last_new_level_added_at_est": "2026-07-17T07:52:56-04:00",
+  "fetched_at_utc": "2026-07-17T12:32:07.304585+00:00",
+  "fetched_at_est": "2026-07-17T08:32:07.304596-04:00",
+  "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
       "price": 7540.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-07-17T07:52:56-04:00",
       "expires_at_est": "2026-07-17T15:52:56-04:00",
       "from_tweet_id": "2078085540323250677"
+    },
+    {
+      "price": 7522.0,
+      "side": "bull",
+      "added_at_est": "2026-07-17T08:24:21-04:00",
+      "expires_at_est": "2026-07-17T16:24:21-04:00",
+      "from_tweet_id": "2078093445256655179"
     }
   ],
   "updates": [
@@ -245,6 +252,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user referencing a past trade observation ('failed breakdown'); no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2078093060798345634",
+      "timestamp_utc": "2026-07-17T12:22:49.000Z",
+      "timestamp_est": "2026-07-17T08:22:49-04:00",
+      "tweet_text": "@UmerAshraf2000 (its why I sent the newsletter early)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet to a user, no price levels named or actionable language present."
+    },
+    {
+      "tweet_id": "2078093445256655179",
+      "timestamp_utc": "2026-07-17T12:24:21.000Z",
+      "timestamp_est": "2026-07-17T08:24:21-04:00",
+      "tweet_text": "Note: Reclaims of 7522 are also actionable but 7533 resistance is still just above.",
+      "added_bull_levels": [
+        7522.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7522 named as actionable reclaim trigger \u2014 new level not in morning plan. 7533 is a morning-plan level (reaffirmation, excluded)."
     }
   ]
 }
