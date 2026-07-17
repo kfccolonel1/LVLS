@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T14:32:54.472955+00:00",
-  "fetched_at_est": "2026-07-17T10:32:54.472960-04:00",
+  "fetched_at_utc": "2026-07-17T14:52:59.930633+00:00",
+  "fetched_at_est": "2026-07-17T10:52:59.930638-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -301,6 +301,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on market sentiment and red days; no price named, no actionable level, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2078129502534713849",
+      "timestamp_utc": "2026-07-17T14:47:37.000Z",
+      "timestamp_est": "2026-07-17T10:47:37-04:00",
+      "tweet_text": "@Bluepit_80 @DurnanTW2 Tons of brand new traders many of who started in the past few months and think a 1% move is something major when its absolutely nothing",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about new traders and 1% moves; no price levels named, no actionable language, purely commentary."
     }
   ]
 }
