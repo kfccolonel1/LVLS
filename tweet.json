@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-16T22:30:13.018389+00:00",
-  "fetched_at_est": "2026-07-16T18:30:13.018395-04:00",
+  "fetched_at_utc": "2026-07-17T01:30:35.972294+00:00",
+  "fetched_at_est": "2026-07-16T21:30:35.972309-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -128,6 +128,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about bullish structure and volatility; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2077927375661138403",
+      "timestamp_utc": "2026-07-17T01:24:27.000Z",
+      "timestamp_est": "2026-07-16T21:24:27-04:00",
+      "tweet_text": "@repetak 7555 is a major in the newsletter but nothing of interest there for me at least. High quality Failed Breakdowns are of 70 and 33",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7555 is a morning-plan level (reaffirmation). '70 and 33' are incomplete prices, not valid ES range values (~5000-9000), so no new levels qualify."
+    },
+    {
+      "tweet_id": "2077927538374967494",
+      "timestamp_utc": "2026-07-17T01:25:05.000Z",
+      "timestamp_est": "2026-07-16T21:25:05-04:00",
+      "tweet_text": "@repetak *75",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply fragment '@repetak *75' \u2014 no actionable price, no naming language, no level introduced."
+    },
+    {
+      "tweet_id": "2077927698995761385",
+      "timestamp_utc": "2026-07-17T01:25:44.000Z",
+      "timestamp_est": "2026-07-16T21:25:44-04:00",
+      "tweet_text": "@z3e8n661 The levels don't change. They are the same at 2pm as they every hour after.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user explaining levels don't change \u2014 no new price named, no actionable language, pure conversational explanation."
     }
   ]
 }
