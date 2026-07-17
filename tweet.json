@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T15:43:15.765513+00:00",
-  "fetched_at_est": "2026-07-17T11:43:15.765518-04:00",
+  "fetched_at_utc": "2026-07-17T15:53:20.759191+00:00",
+  "fetched_at_est": "2026-07-17T11:53:20.759196-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -310,6 +310,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trading philosophy about minor levels as profit targets; no actionable price named, no naming language used."
+    },
+    {
+      "tweet_id": "2078144912181051600",
+      "timestamp_utc": "2026-07-17T15:48:51.000Z",
+      "timestamp_est": "2026-07-17T11:48:51-04:00",
+      "tweet_text": "We are now settling into mid-day chop in #ES_F. 7482 sweep and recovery started us up with targets of 7522 (hit), 7533 (hit). 7533 remains a major pivot/resistance as posted and its a ceiling. It will be trappy, and complex.\n\nOnce recovered, we head to the 7570-75 backtest https://t.co/1pzQnnA4As",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7482/7533 are morning-plan levels; 7522 is an observation of a hit target; 7570-75 rounds to 7572 but stated as a future backtest destination, not named with actionable trigger language."
     }
   ]
 }
