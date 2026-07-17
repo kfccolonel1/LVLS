@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T21:24:17.553351+00:00",
-  "fetched_at_est": "2026-07-17T17:24:17.553356-04:00",
+  "fetched_at_utc": "2026-07-17T23:04:30.840100+00:00",
+  "fetched_at_est": "2026-07-17T19:04:30.840110-04:00",
   "last_new_level_added_at_est": "2026-07-17T14:23:23-04:00",
   "todays_new_levels": [
     {
@@ -334,6 +334,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about timing of reading content; no price levels named or actionable setups referenced."
+    },
+    {
+      "tweet_id": "2078253497464537169",
+      "timestamp_utc": "2026-07-17T23:00:20.000Z",
+      "timestamp_est": "2026-07-17T19:00:20-04:00",
+      "tweet_text": "@bmf39 @Shallobowed It doesn't matter what happens from 2-4 though thats the point. The levels are the levels and the setups. 7506 is an important level at 2pm today, 4pm today, itll be important at 6pm Sunday, 6am Monday, noon Monday",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7506.0
+      ],
+      "notes": "7506 explicitly named as 'important level' \u2014 new price not in morning plan, with clear actionable naming language."
+    },
+    {
+      "tweet_id": "2078253672706855171",
+      "timestamp_utc": "2026-07-17T23:01:02.000Z",
+      "timestamp_est": "2026-07-17T19:01:02-04:00",
+      "tweet_text": "@bmf39 @Shallobowed By 2pm Monday it may not be as relevant anymore but thats when a new newsletter comes out",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about newsletter timing; no price levels named or actionable levels referenced."
     }
   ]
 }
