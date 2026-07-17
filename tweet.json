@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T12:32:07.304585+00:00",
-  "fetched_at_est": "2026-07-17T08:32:07.304596-04:00",
+  "fetched_at_utc": "2026-07-17T12:52:13.111487+00:00",
+  "fetched_at_est": "2026-07-17T08:52:13.111491-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077737783603384473",
-      "timestamp_utc": "2026-07-16T12:51:04.000Z",
-      "timestamp_est": "2026-07-16T08:51:04-04:00",
-      "tweet_text": "@OnTheHooch If we get the non-acceptance protocol trigger its still a good trade but lower quality than the 70",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing 'the 70' (likely 7570 or similar morning level) as trade quality commentary; no new actionable level named."
-    },
     {
       "tweet_id": "2077740637504290963",
       "timestamp_utc": "2026-07-16T13:02:25.000Z",
@@ -272,6 +263,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7522 named as actionable reclaim trigger \u2014 new level not in morning plan. 7533 is a morning-plan level (reaffirmation, excluded)."
+    },
+    {
+      "tweet_id": "2078098050510213158",
+      "timestamp_utc": "2026-07-17T12:42:39.000Z",
+      "timestamp_est": "2026-07-17T08:42:39-04:00",
+      "tweet_text": "@upandown007 -The Failed Breakdown at 2:15-2:30PM after the newsletter release worked and we ran to 85 1st target exact. There is nothing wrong with this, not every Failed Breakdown will produce a 100 point move. 5-10 points is fine\n-The 33 Failed Breakdown hovered around 38-40 trigger for 5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet describes past trade outcomes (FBD at 33, ran to 85) and trade management commentary. No new actionable levels named; all references are hindsight observations."
     }
   ]
 }
