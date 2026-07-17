@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T02:50:46.116638+00:00",
-  "fetched_at_est": "2026-07-16T22:50:46.116643-04:00",
+  "fetched_at_utc": "2026-07-17T03:00:48.140249+00:00",
+  "fetched_at_est": "2026-07-16T23:00:48.140254-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2077586777448042605",
-      "timestamp_utc": "2026-07-16T02:51:02.000Z",
-      "timestamp_est": "2026-07-15T22:51:02-04:00",
-      "tweet_text": "@NoBSOracle1 For me its always up. I don't \"predict\" downside moves ever because we are in an uptrend, and you'll never hear me say anything bearish",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely a philosophical/directional commentary about trading style and trend bias."
-    },
     {
       "tweet_id": "2077723735121879199",
       "timestamp_utc": "2026-07-16T11:55:15.000Z",
