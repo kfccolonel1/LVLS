@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T18:03:39.728400+00:00",
-  "fetched_at_est": "2026-07-17T14:03:39.728408-04:00",
-  "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
+  "fetched_at_utc": "2026-07-17T18:23:45.944074+00:00",
+  "fetched_at_est": "2026-07-17T14:23:45.944079-04:00",
+  "last_new_level_added_at_est": "2026-07-17T14:23:23-04:00",
   "todays_new_levels": [
     {
       "price": 7540.0,
@@ -25,6 +25,13 @@
       "added_at_est": "2026-07-17T08:24:21-04:00",
       "expires_at_est": "2026-07-17T16:24:21-04:00",
       "from_tweet_id": "2078093445256655179"
+    },
+    {
+      "price": 7506.0,
+      "side": "bull",
+      "added_at_est": "2026-07-17T14:23:23-04:00",
+      "expires_at_est": "2026-07-17T22:23:23-04:00",
+      "from_tweet_id": "2078183799842541979"
     }
   ],
   "updates": [
@@ -308,6 +315,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7482, 7522, 7533, 7570-75) are either morning-plan levels or observations of price action already played out; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2078183799842541979",
+      "timestamp_utc": "2026-07-17T18:23:23.000Z",
+      "timestamp_est": "2026-07-17T14:23:23-04:00",
+      "tweet_text": "Note: Watch for recoveries of 7506 now as a lower quality long",
+      "added_bull_levels": [
+        7506.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7506 is named for first time with explicit actionable language ('watch for recoveries...as a lower quality long') \u2014 not in morning plan."
     }
   ]
 }
