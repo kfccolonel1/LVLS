@@ -1,14 +1,12 @@
 {
-  "session_date": "2026-07-16",
-  "daily_pivot": 7570,
+  "session_date": "2026-07-17",
+  "daily_pivot": 7575,
   "regime_hint": "C2",
   "significant_lows": [
-    7570,
+    7575,
     7533,
     7482,
     7467,
-    7454,
-    7423,
     7408
   ],
   "bull_levels": [
@@ -21,39 +19,43 @@
       "major": true
     },
     {
-      "price": 7656.0,
+      "price": 7668.0,
       "major": true
     },
     {
-      "price": 7675.0,
+      "price": 7674.0,
       "major": true
     },
     {
-      "price": 7695.0,
+      "price": 7696.0,
       "major": true
     },
     {
-      "price": 7728.0,
+      "price": 7734.0,
       "major": true
     },
     {
-      "price": 7736.0,
+      "price": 7746.0,
       "major": true
     },
     {
-      "price": 7772.0,
+      "price": 7774.0,
       "major": true
     },
     {
-      "price": 7798.0,
+      "price": 7788.0,
       "major": true
     },
     {
-      "price": 7838.0,
+      "price": 7801.0,
       "major": true
     },
     {
-      "price": 7855.0,
+      "price": 7837.5,
+      "major": true
+    },
+    {
+      "price": 7877.0,
       "major": true
     }
   ],
@@ -63,7 +65,7 @@
       "major": true
     },
     {
-      "price": 7570.0,
+      "price": 7575.0,
       "major": true
     },
     {
@@ -75,15 +77,7 @@
       "major": true
     },
     {
-      "price": 7524.0,
-      "major": true
-    },
-    {
       "price": 7482.0,
-      "major": true
-    },
-    {
-      "price": 7473.0,
       "major": true
     },
     {
@@ -95,15 +89,23 @@
       "major": true
     },
     {
-      "price": 7383.0,
+      "price": 7408.0,
       "major": true
     },
     {
-      "price": 7358.0,
+      "price": 7382.0,
       "major": true
     },
     {
-      "price": 7339.0,
+      "price": 7369.0,
+      "major": true
+    },
+    {
+      "price": 7351.0,
+      "major": true
+    },
+    {
+      "price": 7336.0,
       "major": true
     },
     {
@@ -111,20 +113,12 @@
       "major": true
     },
     {
-      "price": 7288.0,
-      "major": true
-    },
-    {
-      "price": 7276.0,
-      "major": true
-    },
-    {
-      "price": 7264.0,
+      "price": 7304.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES has been rangebound between roughly 7533 and 7611 since last Thursday. The trader still holds a long runner from the 7570 area and is watching for the range to fill out before a breakout. Key pivot is 7570: above it the bull case holds with a breakout target of 7639+; below it the range expands toward 7533 and lower. Best long entry is a failed breakdown of 7570 or 7533. No shorts planned.",
-  "fetched_at": "2026-07-16T05:00:18.537589+00:00"
+  "notes": "ES has been range-bound from roughly 7533 to 7611 since last Thursday. The trader leans bullish, expecting the range to fill out further and eventually break higher, with 7639 as the first breakout target. He will wait for Failed Breakdown setups rather than chasing. Key pivot is 7575: above it, bulls are in control and a breakout becomes likely; below it, the bear case opens up with potential for further downside.",
+  "fetched_at": "2026-07-17T05:00:19.673888+00:00"
 }
