@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T14:52:59.930633+00:00",
-  "fetched_at_est": "2026-07-17T10:52:59.930638-04:00",
+  "fetched_at_utc": "2026-07-17T15:13:05.924578+00:00",
+  "fetched_at_est": "2026-07-17T11:13:05.924583-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -310,6 +310,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about new traders and 1% moves; no price levels named, no actionable language, purely commentary."
+    },
+    {
+      "tweet_id": "2078134468901007365",
+      "timestamp_utc": "2026-07-17T15:07:21.000Z",
+      "timestamp_est": "2026-07-17T11:07:21-04:00",
+      "tweet_text": "Levels acting precisely today in #ES_F and the vol spike gave us a trade. 7482 was support which swept and recovered. Targets were 7522 (hit), 7533 (hit). 7533 is a major level/pivot which must recover to see 7540, 7555, then 7570-75. This backtests yesterday's breakdown https://t.co/ukddnblxKq",
+      "added_bull_levels": [
+        7540.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7540 named as next bull target ('must recover to see 7540') not in morning plan. 7522 is observation of hit target; 7533/7555/7570-75 are morning-plan levels."
     }
   ]
 }
