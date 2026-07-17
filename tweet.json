@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T15:53:20.759191+00:00",
-  "fetched_at_est": "2026-07-17T11:53:20.759196-04:00",
+  "fetched_at_utc": "2026-07-17T17:03:32.727187+00:00",
+  "fetched_at_est": "2026-07-17T13:03:32.727197-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077799549834256537",
-      "timestamp_utc": "2026-07-16T16:56:30.000Z",
-      "timestamp_est": "2026-07-16T12:56:30-04:00",
-      "tweet_text": "Back into fully untradable chop in #ES_F and as warned, 95% of summer trading is just riding a runner. We got a 2 target run today. 7594 reclaim was the low quality trigger given. Targets were 7604 (hit), 7611 (hit). 7621, then 7639 still outstanding for the breakout leg https://t.co/7Kio3KSFG6",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7594/7611/7639 are morning-plan levels; 7604 and 7621 are observations/targets from prior context, no new actionable level named for first time."
-    },
     {
       "tweet_id": "2077811082924613642",
       "timestamp_utc": "2026-07-16T17:42:20.000Z",
@@ -319,6 +310,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7482/7533 are morning-plan levels; 7522 is an observation of a hit target; 7570-75 rounds to 7572 but stated as a future backtest destination, not named with actionable trigger language."
+    },
+    {
+      "tweet_id": "2078162092570325113",
+      "timestamp_utc": "2026-07-17T16:57:07.000Z",
+      "timestamp_est": "2026-07-17T12:57:07-04:00",
+      "tweet_text": "@AStendorr Anyone letting \"war fears\" affect trading at this point probably can't be helped. Has no effect on markets at all other than to produce buyable dips",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on market sentiment and war fears; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2078162435911868878",
+      "timestamp_utc": "2026-07-17T16:58:29.000Z",
+      "timestamp_est": "2026-07-17T12:58:29-04:00",
+      "tweet_text": "Levels continue to respect well as well remain in mid day chop. Its all about 7533 today in #ES_F. 7482 sweep and recover triggered up with 7522, 7533 being targets. I warned 33 was a major resistance that would be trappy, and complex\n\nOnce recovered, we had back to 7570-75 https://t.co/WNE95jkaeB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7482, 7522, 7533, 7570-75) are either morning-plan levels or observations of price action already played out; no new actionable levels named."
     }
   ]
 }
