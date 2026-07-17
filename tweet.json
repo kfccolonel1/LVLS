@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T14:02:38.153793+00:00",
-  "fetched_at_est": "2026-07-17T10:02:38.153803-04:00",
+  "fetched_at_utc": "2026-07-17T14:22:49.450514+00:00",
+  "fetched_at_est": "2026-07-17T10:22:49.450519-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077760584389394516",
-      "timestamp_utc": "2026-07-16T14:21:40.000Z",
-      "timestamp_est": "2026-07-16T10:21:40-04:00",
-      "tweet_text": "Be sure to take profits very quickly in summer trading in #ES_F. Long runners do the heavy lifting (you should have a long runner going most the summer). 7594 reclaims were low quality longs as posted 8am. 7604 1st target (hit 2x). 7611, 7621, 7639 next if ES wants more here https://t.co/NoNx0AEZSb",
-      "added_bull_levels": [
-        7621.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7621 named as next bull target not in morning plan. 7594,7604,7611,7639 are morning-plan reaffirmations or observations. 7604 is close to 7611 but distinct \u2014 however 7621 is clearly new."
-    },
     {
       "tweet_id": "2077776017632997588",
       "timestamp_utc": "2026-07-16T15:23:00.000Z",
@@ -294,6 +283,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price named at all; purely directional commentary about bear control and profit-taking guidance with zero actionable levels cited."
+    },
+    {
+      "tweet_id": "2078122423132606521",
+      "timestamp_utc": "2026-07-17T14:19:29.000Z",
+      "timestamp_est": "2026-07-17T10:19:29-04:00",
+      "tweet_text": "Incredible follow through up the levels and there's 7533 tagged in #ES_F. Same drill everyday in summer trading: Wait for vol spike, wait for Failed Breakdown/reclaim, long. 7482 was support, it swept and recovered. I said 7522, 7533 were next, hit 33.\n\n7540, 7555, 7570-75 next https://t.co/coqvUZ2utn",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7540 not in plan but listed without naming language; 7555/7575 are morning-plan levels. Tweet is hindsight recap + directional list, no new actionable level introduced."
     }
   ]
 }
