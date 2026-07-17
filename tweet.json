@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T13:52:30.774454+00:00",
-  "fetched_at_est": "2026-07-17T09:52:30.774459-04:00",
+  "fetched_at_utc": "2026-07-17T14:02:38.153793+00:00",
+  "fetched_at_est": "2026-07-17T10:02:38.153803-04:00",
   "last_new_level_added_at_est": "2026-07-17T08:24:21-04:00",
   "todays_new_levels": [
     {
@@ -28,24 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077753265517637806",
-      "timestamp_utc": "2026-07-16T13:52:35.000Z",
-      "timestamp_est": "2026-07-16T09:52:35-04:00",
-      "tweet_text": "@fiveinchhammer I'd just stick to the non-acceptance protocol and never rush. I wait for the non-acceptance protocol to trigger then always want to see price actually pushing not just chopping around with no energy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; tweet is general trading advice about patience and non-acceptance protocol with no actionable levels."
-    },
-    {
-      "tweet_id": "2077753519667392914",
-      "timestamp_utc": "2026-07-16T13:53:36.000Z",
-      "timestamp_est": "2026-07-16T09:53:36-04:00",
-      "tweet_text": "Still in peak summer chop in #ES_F don't overtrade. 95% of the time should just be in a long runner doing nothing. Then when we get a vol spike every 1-3 days, engage the Failed Breakdowns.\n\nNo change: 94 reclaim=low quality long. 70 traps=high quality. 7604, 7611, 7621+ targets https://t.co/0BpvvRAmnR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7594\u2192'94', 7570\u2192'70', 7604, 7611, 7621) are either morning-plan levels or reaffirmations with 'no change'; 7621 is a directional target extension, not newly named."
-    },
     {
       "tweet_id": "2077760584389394516",
       "timestamp_utc": "2026-07-16T14:21:40.000Z",
@@ -294,6 +276,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7522, 7540, 7546 named as intermediate resistance levels 'en route' to 7533/7570-75 \u2014 actionable waypoints not in morning plan. 7533/7555/7575 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2078116127331283414",
+      "timestamp_utc": "2026-07-17T13:54:28.000Z",
+      "timestamp_est": "2026-07-17T09:54:28-04:00",
+      "tweet_text": "@DrobiazkoD You may be new to following me but as I've posted and as we've seen hundreds of times, every single bearish geopolitical headline (there are no exceptions) gets bought as a Failed Breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary/philosophy about bearish headlines getting bought as FBDs. No price level named or implied."
+    },
+    {
+      "tweet_id": "2078117233776091482",
+      "timestamp_utc": "2026-07-17T13:58:52.000Z",
+      "timestamp_est": "2026-07-17T09:58:52-04:00",
+      "tweet_text": "@bigwood340 Bears still control here since we've lost a major shelf yesterday so always have to be aggressive with profit takes",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price named at all; purely directional commentary about bear control and profit-taking guidance with zero actionable levels cited."
     }
   ]
 }
