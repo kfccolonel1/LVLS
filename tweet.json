@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T12:01:35.563842+00:00",
-  "fetched_at_est": "2026-07-17T08:01:35.563854-04:00",
+  "fetched_at_utc": "2026-07-17T12:11:55.885213+00:00",
+  "fetched_at_est": "2026-07-17T08:11:55.885222-04:00",
   "last_new_level_added_at_est": "2026-07-17T07:52:56-04:00",
   "todays_new_levels": [
     {
@@ -182,6 +182,60 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure macro commentary, no price levels named or actionable entries/exits/targets mentioned."
+    },
+    {
+      "tweet_id": "2078088332790149377",
+      "timestamp_utc": "2026-07-17T12:04:02.000Z",
+      "timestamp_est": "2026-07-17T08:04:02-04:00",
+      "tweet_text": "@HagglundKirk The level in the newsletter is 22 which is where we've been rejecting, but note how it never acted as support on the way down which is why I did not a major",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining why a level was NOT designated major; no actionable price named with naming language."
+    },
+    {
+      "tweet_id": "2078088371235098699",
+      "timestamp_utc": "2026-07-17T12:04:11.000Z",
+      "timestamp_est": "2026-07-17T08:04:11-04:00",
+      "tweet_text": "@HagglundKirk *did not make it",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a brief conversational reply with no price, no actionable level, and no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2078088988498207178",
+      "timestamp_utc": "2026-07-17T12:06:38.000Z",
+      "timestamp_est": "2026-07-17T08:06:38-04:00",
+      "tweet_text": "@NYJets2017 The structure is 10/10 bullish (i said that because we were dipping), we are in a large flag in the context of an uptrend. Remember red=bullish in an uptrend. The more red the larger the subsequent move up will be",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; pure structural/directional commentary about bullish flag pattern. No actionable level mentioned."
+    },
+    {
+      "tweet_id": "2078089273685819736",
+      "timestamp_utc": "2026-07-17T12:07:46.000Z",
+      "timestamp_est": "2026-07-17T08:07:46-04:00",
+      "tweet_text": "@NYJets2017 It could be slightly more bullish still if we took out 7363 for a Failed Breakdown, but we'd need a little more volatility for that",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to user; 7363 mentioned speculatively ('could be', 'if we took out') without explicit actionable naming language. Not a clean signal."
+    },
+    {
+      "tweet_id": "2078089437733442033",
+      "timestamp_utc": "2026-07-17T12:08:25.000Z",
+      "timestamp_est": "2026-07-17T08:08:25-04:00",
+      "tweet_text": "@HagglundKirk If I feel a level won't act as support but may act as resistance, I usually will just make it a minor not a major",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining level classification methodology; no actionable price named, purely conversational/educational."
+    },
+    {
+      "tweet_id": "2078089591450395031",
+      "timestamp_utc": "2026-07-17T12:09:02.000Z",
+      "timestamp_est": "2026-07-17T08:09:02-04:00",
+      "tweet_text": "@HagglundKirk (since the minors are mostly profit takes)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price mentioned; purely conversational comment about profit-taking, no actionable level named."
     }
   ]
 }
