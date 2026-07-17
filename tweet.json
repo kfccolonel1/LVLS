@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T01:30:35.972294+00:00",
-  "fetched_at_est": "2026-07-16T21:30:35.972309-04:00",
+  "fetched_at_utc": "2026-07-17T02:50:46.116638+00:00",
+  "fetched_at_est": "2026-07-16T22:50:46.116643-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -155,6 +155,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user explaining levels don't change \u2014 no new price named, no actionable language, pure conversational explanation."
+    },
+    {
+      "tweet_id": "2077947558131908801",
+      "timestamp_utc": "2026-07-17T02:44:38.000Z",
+      "timestamp_est": "2026-07-16T22:44:38-04:00",
+      "tweet_text": "@purplehippbh @PermaFader It didn't fail. We got a trigger at 2:15PM that went to 85 1st target. Only went one level but thats fine, not every failed breakdown will go 100 points.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trade outcome; '85' is shorthand for morning-plan level 7485/7483 area, no new actionable levels named."
     }
   ]
 }
