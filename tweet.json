@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T20:34:06.207499+00:00",
-  "fetched_at_est": "2026-07-17T16:34:06.207506-04:00",
+  "fetched_at_utc": "2026-07-17T21:14:13.293897+00:00",
+  "fetched_at_est": "2026-07-17T17:14:13.293902-04:00",
   "last_new_level_added_at_est": "2026-07-17T14:23:23-04:00",
   "todays_new_levels": [
     {
@@ -316,6 +316,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7506 named as actionable trigger: 'reclaims now start us back to 7533' \u2014 first-time explicit bull trigger not in morning plan."
+    },
+    {
+      "tweet_id": "2078226734424412564",
+      "timestamp_utc": "2026-07-17T21:13:59.000Z",
+      "timestamp_est": "2026-07-17T17:13:59-04:00",
+      "tweet_text": "@Shallobowed @bmf39 The levels or setups dont change - newsletter is for Monday and the levels/setups remain the same from the time sent until end of day Monday. Between 2 and 4pm in the summer the market will almost never do anything dramatic enough to invalidate anything ive written",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational explanation of newsletter timing/validity \u2014 no price named, no actionable level, no naming language whatsoever."
     }
   ]
 }
