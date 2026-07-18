@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-18T01:24:47.525271+00:00",
-  "fetched_at_est": "2026-07-17T21:24:47.525277-04:00",
+  "fetched_at_utc": "2026-07-18T01:34:49.425423+00:00",
+  "fetched_at_est": "2026-07-17T21:34:49.425430-04:00",
   "last_new_level_added_at_est": "2026-07-17T14:23:23-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077927538374967494",
-      "timestamp_utc": "2026-07-17T01:25:05.000Z",
-      "timestamp_est": "2026-07-16T21:25:05-04:00",
-      "tweet_text": "@repetak *75",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply fragment '@repetak *75' \u2014 no actionable price, no naming language, no level introduced."
-    },
-    {
-      "tweet_id": "2077927698995761385",
-      "timestamp_utc": "2026-07-17T01:25:44.000Z",
-      "timestamp_est": "2026-07-16T21:25:44-04:00",
-      "tweet_text": "@z3e8n661 The levels don't change. They are the same at 2pm as they every hour after.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user explaining levels don't change \u2014 no new price named, no actionable language, pure conversational explanation."
-    },
     {
       "tweet_id": "2077947558131908801",
       "timestamp_utc": "2026-07-17T02:44:38.000Z",
