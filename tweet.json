@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-18T00:14:41.127143+00:00",
-  "fetched_at_est": "2026-07-17T20:14:41.127148-04:00",
+  "fetched_at_utc": "2026-07-18T01:24:47.525271+00:00",
+  "fetched_at_est": "2026-07-17T21:24:47.525277-04:00",
   "last_new_level_added_at_est": "2026-07-17T14:23:23-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2077927375661138403",
-      "timestamp_utc": "2026-07-17T01:24:27.000Z",
-      "timestamp_est": "2026-07-16T21:24:27-04:00",
-      "tweet_text": "@repetak 7555 is a major in the newsletter but nothing of interest there for me at least. High quality Failed Breakdowns are of 70 and 33",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7555 is a morning-plan level (reaffirmation). '70 and 33' are incomplete prices, not valid ES range values (~5000-9000), so no new levels qualify."
-    },
     {
       "tweet_id": "2077927538374967494",
       "timestamp_utc": "2026-07-17T01:25:05.000Z",
