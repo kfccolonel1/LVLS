@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-17T23:04:30.840100+00:00",
-  "fetched_at_est": "2026-07-17T19:04:30.840110-04:00",
+  "fetched_at_utc": "2026-07-18T00:14:41.127143+00:00",
+  "fetched_at_est": "2026-07-17T20:14:41.127148-04:00",
   "last_new_level_added_at_est": "2026-07-17T14:23:23-04:00",
   "todays_new_levels": [
     {
@@ -354,6 +354,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about newsletter timing; no price levels named or actionable levels referenced."
+    },
+    {
+      "tweet_id": "2078272101748793462",
+      "timestamp_utc": "2026-07-18T00:14:16.000Z",
+      "timestamp_est": "2026-07-17T20:14:16-04:00",
+      "tweet_text": "@bryce_schilling I think I only took one direct bid this week? That one was a no brainer though as we had tested 70-73 support exact and were pushing out. This was a planned, high quality support and would make little sense to skip a trade there just because we didn't go 1 point lower for an FBD",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 70-73 support in hindsight; no new actionable price named with naming language. '70-73' also maps near morning plan levels."
     }
   ]
 }
