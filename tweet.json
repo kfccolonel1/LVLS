@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-19T21:36:31.334877+00:00",
-  "fetched_at_est": "2026-07-19T17:36:31.334885-04:00",
+  "fetched_at_utc": "2026-07-19T22:06:37.637095+00:00",
+  "fetched_at_est": "2026-07-19T18:06:37.637100-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -59,6 +59,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; tweet is philosophical commentary about trading process and consistency, not actionable."
+    },
+    {
+      "tweet_id": "2078963124451811688",
+      "timestamp_utc": "2026-07-19T22:00:08.000Z",
+      "timestamp_est": "2026-07-19T18:00:08-04:00",
+      "tweet_text": "@DavidDa41048475 Volatility not volume. Volatility just means the market is moving quickly and covering lots of ground",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure explanatory reply to a user about volatility definition; no price levels named or actionable signals of any kind."
     }
   ]
 }
