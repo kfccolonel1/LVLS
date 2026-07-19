@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-19T22:06:37.637095+00:00",
-  "fetched_at_est": "2026-07-19T18:06:37.637100-04:00",
+  "fetched_at_utc": "2026-07-19T22:26:40.772629+00:00",
+  "fetched_at_est": "2026-07-19T18:26:40.772637-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2078605935631630815",
-      "timestamp_utc": "2026-07-18T22:20:48.000Z",
-      "timestamp_est": "2026-07-18T18:20:48-04:00",
-      "tweet_text": "@penguin_red_ It is drawn there - its the blue channel. I just didn't extend it all the way down to the April low.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about a chart channel drawn to April low \u2014 no actionable price named, pure chart/visual commentary."
-    },
-    {
-      "tweet_id": "2078606105479901447",
-      "timestamp_utc": "2026-07-18T22:21:28.000Z",
-      "timestamp_est": "2026-07-18T18:21:28-04:00",
-      "tweet_text": "@penguin_red_ I don't find that to be overly relevant though big picture. Steep uptrends always crack and shallow out eventually",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trend behavior; no price named, no actionable level, no naming language."
-    },
     {
       "tweet_id": "2078830360532574652",
       "timestamp_utc": "2026-07-19T13:12:35.000Z",
