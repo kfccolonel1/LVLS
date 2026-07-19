@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-19T20:24:10.899505+00:00",
-  "fetched_at_est": "2026-07-19T16:24:10.899514-04:00",
+  "fetched_at_utc": "2026-07-19T21:26:29.329967+00:00",
+  "fetched_at_est": "2026-07-19T17:26:29.329975-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2078592222132330895",
-      "timestamp_utc": "2026-07-18T21:26:18.000Z",
-      "timestamp_est": "2026-07-18T17:26:18-04:00",
-      "tweet_text": "@Jbuehler777 I usually dont re draw it because then it becomes too subjective. If i redraw jt with the July highs it wouldnt be a failed bull flag breakout anymore it would",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet discussing chart methodology (redrawing patterns/flags). No actionable price level named or implied."
-    },
     {
       "tweet_id": "2078592273818796152",
       "timestamp_utc": "2026-07-18T21:26:31.000Z",
