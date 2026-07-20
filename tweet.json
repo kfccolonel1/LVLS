@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-20T13:18:15.115322+00:00",
-  "fetched_at_est": "2026-07-20T09:18:15.115328-04:00",
+  "fetched_at_utc": "2026-07-20T13:48:22.723860+00:00",
+  "fetched_at_est": "2026-07-20T09:48:22.723864-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -68,6 +68,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7490 mentioned conditionally/conversationally ('would be' + 'don't have volatility yet'); not an actionable named level, and no naming language like key/major/watch/trigger."
+    },
+    {
+      "tweet_id": "2079199996922994695",
+      "timestamp_utc": "2026-07-20T13:41:23.000Z",
+      "timestamp_est": "2026-07-20T09:41:23-04:00",
+      "tweet_text": "All the work for today was done off Sunday's open in #ES_F, as it is with every single Sunday gap down (100% bear traps). 7483 was support (held last eve) with 7490 reclaims triggering up. Targets were 7534-39 massive res (hit)\n\nNext up were 7546 (hit), 7554, 7575 next. 75=magnet https://t.co/mo1eSWeVuq",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7483, 7490, 7534-39, 7546, 7554, 7575) are observations of price action already hit or reaffirmations of morning-plan levels. No new actionable levels introduced."
     }
   ]
 }
