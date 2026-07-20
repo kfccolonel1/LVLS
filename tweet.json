@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-20T19:19:34.384661+00:00",
-  "fetched_at_est": "2026-07-20T15:19:34.384665-04:00",
+  "fetched_at_utc": "2026-07-20T19:29:38.952496+00:00",
+  "fetched_at_est": "2026-07-20T15:29:38.952500-04:00",
   "last_new_level_added_at_est": "2026-07-20T10:52:09-04:00",
   "todays_new_levels": [
     {
@@ -177,6 +177,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7490 is near morning plan 7483/7505; 7506 reclaim, 7534-39, 7546, 7554, 7575 all reaffirmations or observations of existing levels. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2079286778008113650",
+      "timestamp_utc": "2026-07-20T19:26:13.000Z",
+      "timestamp_est": "2026-07-20T15:26:13-04:00",
+      "tweet_text": "@PhilDanner1 There's some slight differences but we've gone nowhere since Friday so its still the same basic levels",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply confirming existing levels unchanged; no new price named, no actionable naming language used."
     }
   ]
 }
