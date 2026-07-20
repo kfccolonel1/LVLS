@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-20T14:38:39.887768+00:00",
-  "fetched_at_est": "2026-07-20T10:38:39.887773-04:00",
+  "fetched_at_utc": "2026-07-20T14:48:48.246370+00:00",
+  "fetched_at_est": "2026-07-20T10:48:48.246381-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -113,6 +113,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price levels named, no actionable language, purely conversational."
+    },
+    {
+      "tweet_id": "2079215748526801052",
+      "timestamp_utc": "2026-07-20T14:43:59.000Z",
+      "timestamp_est": "2026-07-20T10:43:59-04:00",
+      "tweet_text": "@Taylor8xeno8 @InstinctTrades Yes no wrong way to trade! My runners are 10% and my cost basis is down in the 7490's. large embedded profit, would be 0 reason whatsoever to arbitrarily sell a runner because of a routine intraday dip when no structure was lost",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management commentary \u2014 references cost basis and runner logic. No new actionable level named; '7490s' is a cost basis reference, not a new named level."
+    },
+    {
+      "tweet_id": "2079216496639660061",
+      "timestamp_utc": "2026-07-20T14:46:57.000Z",
+      "timestamp_est": "2026-07-20T10:46:57-04:00",
+      "tweet_text": "Levels acting precisely today but we remain in slow summer chop in #ES_F. 7482 was support with 7490 reclaims triggering up last evening. Targets were 7534-39 heavy res (hit). 7546 next (hit, dipped), 7554, 7575 above.\n\n7505 then became support, just held exact. Weaker now https://t.co/SOtEtjmaSU",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7505, 7536/7539, 7554, 7575) are morning-plan levels or observations of price action hitting targets. No new actionable levels named."
     }
   ]
 }
