@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-20T17:19:14.015777+00:00",
-  "fetched_at_est": "2026-07-20T13:19:14.015782-04:00",
+  "fetched_at_utc": "2026-07-20T18:19:20.562556+00:00",
+  "fetched_at_est": "2026-07-20T14:19:20.562563-04:00",
   "last_new_level_added_at_est": "2026-07-20T10:52:09-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2078906373987815533",
-      "timestamp_utc": "2026-07-19T18:14:38.000Z",
-      "timestamp_est": "2026-07-19T14:14:38-04:00",
-      "tweet_text": "Key to remember trading means having a process, which also means most trades should be replica's of each other. If every trade is dramatically different, it is likely gambling. For me its the same setup every trade, the same direction (long only), managed the exact same way",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; tweet is philosophical commentary about trading process and consistency, not actionable."
-    },
     {
       "tweet_id": "2078963124451811688",
       "timestamp_utc": "2026-07-19T22:00:08.000Z",
