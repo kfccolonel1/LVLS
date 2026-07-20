@@ -127,6 +127,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Market is stuck in a sideways range roughly 7482 to 7611. The key pivot is 7575 \u2014 above it bulls are in control and a push back to 7611 is likely; below it the market is vulnerable. Trader leans bullish, expecting ES to work back up toward 7575 then 7611. He will wait for failed-breakdown setups at 7505, 7483, or 7473 before entering long. No shorts planned. No scheduled events.",
-  "fetched_at": "2026-07-19T20:30:24.853677+00:00"
+  "notes": "Trader is in a sideways range (7482 to 7611) and leans bullish. He expects ES to work back up toward 7575, possibly dip there, then push toward 7611. He will look to buy dips via failed-breakdown setups at 7505, 7483, and 7473, not by bidding blindly. The key pivot is 7575: above it bulls are back in control; below it the selloff risk resumes. No new trades unless price gives a clean setup at a planned level.",
+  "fetched_at": "2026-07-20T05:00:18.463180+00:00"
 }
