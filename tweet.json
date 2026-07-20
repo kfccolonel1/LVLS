@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-20T13:08:12.716312+00:00",
-  "fetched_at_est": "2026-07-20T09:08:12.716320-04:00",
+  "fetched_at_utc": "2026-07-20T13:18:15.115322+00:00",
+  "fetched_at_est": "2026-07-20T09:18:15.115328-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2078830360532574652",
-      "timestamp_utc": "2026-07-19T13:12:35.000Z",
-      "timestamp_est": "2026-07-19T09:12:35-04:00",
-      "tweet_text": "@Stockgod202377 @Porterhous90889 Impossible to say! This is a fairly young to approaching middle aged bull market though. Another 50% up from here to 10k would be conservative but could go much higher than that still. Has 2-3 years left",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about long-term bull market outlook; 10k is a rough speculative comment, not an actionable level with naming language."
-    },
-    {
-      "tweet_id": "2078830995524985291",
-      "timestamp_utc": "2026-07-19T13:15:06.000Z",
-      "timestamp_est": "2026-07-19T09:15:06-04:00",
-      "tweet_text": "@ChrisHux Yes, thats exactly what the chart shows. Bears have full control for now until we get back above there",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply, no explicit price named, no actionable level introduced \u2014 pure directional commentary."
-    },
     {
       "tweet_id": "2078856587381289166",
       "timestamp_utc": "2026-07-19T14:56:48.000Z",
