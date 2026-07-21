@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T16:12:09.725326+00:00",
-  "fetched_at_est": "2026-07-21T12:12:09.725330-04:00",
+  "fetched_at_utc": "2026-07-21T16:22:15.105675+00:00",
+  "fetched_at_est": "2026-07-21T12:22:15.105690-04:00",
   "last_new_level_added_at_est": "2026-07-21T09:22:17-04:00",
   "todays_new_levels": [
     {
@@ -96,6 +96,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary about market weakness; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2079600906773877142",
+      "timestamp_utc": "2026-07-21T16:14:27.000Z",
+      "timestamp_est": "2026-07-21T12:14:27-04:00",
+      "tweet_text": "One way traffic in #ES_F and summer trading usually gives an entry, then trends up for 1-3 days with nothing to do but ride runner. 7490 reclaim was last entry. Targets given at 8am were fourfold: 7522 (hit), 7532 (hit), 7548 (almost), then the big 7575 backtest. Decision point https://t.co/zxvbCrPMJQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7490, 7522, 7532, 7548, 7575) are morning-plan levels or hit-targets; tweet is hindsight recap of existing levels, no new actionable levels named."
     }
   ]
 }
