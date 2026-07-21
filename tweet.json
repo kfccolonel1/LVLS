@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-20T22:59:59.594366+00:00",
-  "fetched_at_est": "2026-07-20T18:59:59.594373-04:00",
+  "fetched_at_utc": "2026-07-21T12:01:07.276063+00:00",
+  "fetched_at_est": "2026-07-21T08:01:07.276069-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079174046344700039",
-      "timestamp_utc": "2026-07-20T11:58:16.000Z",
-      "timestamp_est": "2026-07-20T07:58:16-04:00",
-      "tweet_text": "Note: We also of course got the defense of 7483 then recovery of 7490 long trigger given in Friday's newsletter as well. Sunday gap downs are the best way to open the week as it typically means we can get our trade in, then take Monday off. Ride runner now all day https://t.co/DEmuOD9Lwb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices referenced (7483, 7490) are hindsight reaffirmations of newsletter levels; 7490 not in plan but framed as already-given trigger, not a new actionable level."
-    },
     {
       "tweet_id": "2079175391164367359",
       "timestamp_utc": "2026-07-20T12:03:37.000Z",
@@ -162,6 +153,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply confirming existing levels unchanged; no new price named, no actionable naming language used."
+    },
+    {
+      "tweet_id": "2079536198897324330",
+      "timestamp_utc": "2026-07-21T11:57:20.000Z",
+      "timestamp_est": "2026-07-21T07:57:20-04:00",
+      "tweet_text": "Evening traders gifted with yet another long in #ES_F, just like Sunday. Same drill daily. Per newsletter, recoveries of the 7490 2 day shelf were actionable. We got it last evening, went +37\n\nPlan today: Ride runner until vol expands. 7522, 7532, 7548 next set. 7490=support https://t.co/02HqiWQHKX",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7522 is the only unlisted price, but it appears in a directional target list referencing the newsletter/morning plan context, not introduced with naming language as a standalone new level."
     }
   ]
 }
