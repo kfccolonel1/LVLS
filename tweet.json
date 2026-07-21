@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T15:01:48.044758+00:00",
-  "fetched_at_est": "2026-07-21T11:01:48.044765-04:00",
+  "fetched_at_utc": "2026-07-21T15:11:57.473747+00:00",
+  "fetched_at_est": "2026-07-21T11:11:57.473752-04:00",
   "last_new_level_added_at_est": "2026-07-21T09:22:17-04:00",
   "todays_new_levels": [
     {
@@ -96,6 +96,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7490, 7522, 7532, 7548, 7575) are morning-plan levels or hit-target observations; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2079584006148895090",
+      "timestamp_utc": "2026-07-21T15:07:18.000Z",
+      "timestamp_est": "2026-07-21T11:07:18-04:00",
+      "tweet_text": "@Vinsmoke1P Means the market is extremely weak if it can't complete those basic backtests",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary about market weakness; no price named, no actionable level introduced."
     }
   ]
 }
