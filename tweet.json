@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T14:41:41.057384+00:00",
-  "fetched_at_est": "2026-07-21T10:41:41.057390-04:00",
+  "fetched_at_utc": "2026-07-21T14:51:45.851190+00:00",
+  "fetched_at_est": "2026-07-21T10:51:45.851195-04:00",
   "last_new_level_added_at_est": "2026-07-21T09:22:17-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2079215748526801052",
-      "timestamp_utc": "2026-07-20T14:43:59.000Z",
-      "timestamp_est": "2026-07-20T10:43:59-04:00",
-      "tweet_text": "@Taylor8xeno8 @InstinctTrades Yes no wrong way to trade! My runners are 10% and my cost basis is down in the 7490's. large embedded profit, would be 0 reason whatsoever to arbitrarily sell a runner because of a routine intraday dip when no structure was lost",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management commentary \u2014 references cost basis and runner logic. No new actionable level named; '7490s' is a cost basis reference, not a new named level."
-    },
-    {
-      "tweet_id": "2079216496639660061",
-      "timestamp_utc": "2026-07-20T14:46:57.000Z",
-      "timestamp_est": "2026-07-20T10:46:57-04:00",
-      "tweet_text": "Levels acting precisely today but we remain in slow summer chop in #ES_F. 7482 was support with 7490 reclaims triggering up last evening. Targets were 7534-39 heavy res (hit). 7546 next (hit, dipped), 7554, 7575 above.\n\n7505 then became support, just held exact. Weaker now https://t.co/SOtEtjmaSU",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7505, 7536/7539, 7554, 7575) are morning-plan levels or observations of price action hitting targets. No new actionable levels named."
-    },
     {
       "tweet_id": "2079217804222337416",
       "timestamp_utc": "2026-07-20T14:52:09.000Z",
@@ -118,6 +100,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining price action (double bottom, failed breakdown) \u2014 no new actionable price named, pure observation/commentary."
+    },
+    {
+      "tweet_id": "2079579638762729940",
+      "timestamp_utc": "2026-07-21T14:49:57.000Z",
+      "timestamp_est": "2026-07-21T10:49:57-04:00",
+      "tweet_text": "Finally unpinning from the morning chop in #ES_F mildly and little to do now but ride runner until next bear trap. 7490 shelf recovery was last entry. Today's targets were 7522 (hit), 7532 (hit), 7548 next, then 7575 which has to backtest still and has been unable to so far https://t.co/TpSv7f6CV1",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7490, 7522, 7532, 7548, 7575) are morning-plan levels or hit-target observations; no new actionable levels named."
     }
   ]
 }
