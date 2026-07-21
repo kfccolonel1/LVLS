@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T12:01:07.276063+00:00",
-  "fetched_at_est": "2026-07-21T08:01:07.276069-04:00",
+  "fetched_at_utc": "2026-07-21T12:11:09.553581+00:00",
+  "fetched_at_est": "2026-07-21T08:11:09.553585-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079175391164367359",
-      "timestamp_utc": "2026-07-20T12:03:37.000Z",
-      "timestamp_est": "2026-07-20T08:03:37-04:00",
-      "tweet_text": "@OnTheHooch 90 far better because of how trappy 06 was late Friday and it also happened right off the open. But both worked fine",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply discussing trade quality of prior levels (06, 90); no actionable price named with naming language."
-    },
     {
       "tweet_id": "2079189579131695549",
       "timestamp_utc": "2026-07-20T12:59:59.000Z",
