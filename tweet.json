@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T19:02:38.693172+00:00",
-  "fetched_at_est": "2026-07-21T15:02:38.693177-04:00",
+  "fetched_at_utc": "2026-07-21T19:12:49.480470+00:00",
+  "fetched_at_est": "2026-07-21T15:12:49.480480-04:00",
   "last_new_level_added_at_est": "2026-07-21T09:22:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2079282581485318598",
-      "timestamp_utc": "2026-07-20T19:09:33.000Z",
-      "timestamp_est": "2026-07-20T15:09:33-04:00",
-      "tweet_text": "Closing update #ES_F: Final hour and we are back to 7490 big support. Watch for traps here and ES will need to recover 7506 with speed to start back up to 7534-39 target (hit), 7546 (hit), then 7554, 7575 (not yet). Newsletter just sent with newest entries. Big zone right here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7490 is near morning plan 7483/7505; 7506 reclaim, 7534-39, 7546, 7554, 7575 all reaffirmations or observations of existing levels. No new actionable levels named."
-    },
     {
       "tweet_id": "2079286778008113650",
       "timestamp_utc": "2026-07-20T19:26:13.000Z",
@@ -105,6 +96,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about reading price/volatility; no price named, no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2079643511314337892",
+      "timestamp_utc": "2026-07-21T19:03:45.000Z",
+      "timestamp_est": "2026-07-21T15:03:45-04:00",
+      "tweet_text": "@D5star_general Quite a few newsletter setups we got! ~72 near Failed Breakdown, 90 reclaim, 06 reclaim, 32 reclaim",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All references (7272, 7290, 7306, 7332) are hindsight recaps of newsletter setups already triggered \u2014 no new actionable levels named."
+    },
+    {
+      "tweet_id": "2079643906652725753",
+      "timestamp_utc": "2026-07-21T19:05:19.000Z",
+      "timestamp_est": "2026-07-21T15:05:19-04:00",
+      "tweet_text": "Closing update #ES_F: No volatility. 4 targets were given for today. 7522 (hit), 7532 (hit), 7548 (hit). We've been stuck at this 7548 level now for over 2 hours and ES clearly likes it. 7575 is next. Then we head to 7627. Newsletter out shortly talking the next entries from here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7522, 7532, 7548, 7575, 7627) are either morning-plan levels or hit-target observations. No new actionable levels named."
     }
   ]
 }
