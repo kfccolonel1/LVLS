@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T13:41:23.761580+00:00",
-  "fetched_at_est": "2026-07-21T09:41:23.761586-04:00",
+  "fetched_at_utc": "2026-07-21T14:31:36.149955+00:00",
+  "fetched_at_est": "2026-07-21T10:31:36.149961-04:00",
   "last_new_level_added_at_est": "2026-07-21T09:22:17-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2079210137999299034",
-      "timestamp_utc": "2026-07-20T14:21:41.000Z",
-      "timestamp_est": "2026-07-20T10:21:41-04:00",
-      "tweet_text": "@tradivate Its always the same - bearish weekend headlines, twitter (which is 99% retail traders who are therefore always on the wrong side) gets extremely bearish, just provides extremely easy liquidity for institutions to use off the Sunday open",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about retail sentiment and institutional liquidity; no price levels named or actionable triggers mentioned."
-    },
-    {
-      "tweet_id": "2079210436021354693",
-      "timestamp_utc": "2026-07-20T14:22:52.000Z",
-      "timestamp_est": "2026-07-20T10:22:52-04:00",
-      "tweet_text": "Slow summer chop again in #ES_F and the work was done last evening. The long was clear: 7483 was support (held) with 7490 reclaims triggering up. Targets were 7534-39 (hit), 7546 (hit), 7554, 7575 next.\n\nJust ride runner - no changes to newsletter entries or critical supports https://t.co/ZJG0xW0Xs6",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7483, 7490, 7534-39, 7546, 7554, 7575) are morning-plan reaffirmations or trade management/observations. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2079211384177299893",
-      "timestamp_utc": "2026-07-20T14:26:38.000Z",
-      "timestamp_est": "2026-07-20T10:26:38-04:00",
-      "tweet_text": "@Karim7Design It was in the newsletter sent out Friday afternoon and again Sunday morning. Trade Plan section. I give out some of the supports here for free also (like the 7505 this morning) but I am gradually going to be cutting that back",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7505 is a morning-plan level (reaffirmation). Rest of tweet is meta-commentary about newsletter/free levels, no new actionable prices named."
-    },
     {
       "tweet_id": "2079212774299689364",
       "timestamp_utc": "2026-07-20T14:32:09.000Z",
@@ -145,6 +118,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7522 is named as an explicit upside target not in the morning plan. 7532, 7548, 7575 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2079572775233003576",
+      "timestamp_utc": "2026-07-21T14:22:40.000Z",
+      "timestamp_est": "2026-07-21T10:22:40-04:00",
+      "tweet_text": "@kevinc2114 Double bottomed it exact. Could still take the long there sometimes price does that (it did it last week also). Double bottoms the low exact but doesn't get that one tick extra needed for a Failed Breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining price action (double bottom, failed breakdown) \u2014 no new actionable price named, pure observation/commentary."
     }
   ]
 }
