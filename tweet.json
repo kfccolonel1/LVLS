@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T13:01:14.993226+00:00",
-  "fetched_at_est": "2026-07-21T09:01:14.993231-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-21T13:31:21.562038+00:00",
+  "fetched_at_est": "2026-07-21T09:31:21.562042-04:00",
+  "last_new_level_added_at_est": "2026-07-21T09:22:17-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7522.0,
+      "side": "bull",
+      "added_at_est": "2026-07-21T09:22:17-04:00",
+      "expires_at_est": "2026-07-21T17:22:17-04:00",
+      "from_tweet_id": "2079557579781423198"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2079199996922994695",
@@ -135,6 +143,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7522 is the only unlisted price, but it appears in a directional target list referencing the newsletter/morning plan context, not introduced with naming language as a standalone new level."
+    },
+    {
+      "tweet_id": "2079557579781423198",
+      "timestamp_utc": "2026-07-21T13:22:17.000Z",
+      "timestamp_est": "2026-07-21T09:22:17-04:00",
+      "tweet_text": "Volatility has died out again in #ES_F and everyone knows the drill now. Sit in runner, do nothing until the next bear trap. Per newsletter recovery of the 7490 shelf triggered long last evening. Targets are now 7522, 7532, 7548, then onto 7575 which still needs to backtest https://t.co/2xS5UC1Sx4",
+      "added_bull_levels": [
+        7522.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7522 is named as an explicit upside target not in the morning plan. 7532, 7548, 7575 are morning-plan reaffirmations."
     }
   ]
 }
