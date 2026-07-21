@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T15:11:57.473747+00:00",
-  "fetched_at_est": "2026-07-21T11:11:57.473752-04:00",
+  "fetched_at_utc": "2026-07-21T16:12:09.725326+00:00",
+  "fetched_at_est": "2026-07-21T12:12:09.725330-04:00",
   "last_new_level_added_at_est": "2026-07-21T09:22:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2079237030559514685",
-      "timestamp_utc": "2026-07-20T16:08:33.000Z",
-      "timestamp_est": "2026-07-20T12:08:33-04:00",
-      "tweet_text": "7505 support defending with precision in #ES_F. Last good long trigger though was the 7482 support test/7490 reclaim after the 6pm open. Targets remain 7534-39 (hit - heavy resistance), 7546 (hit), 7554 (not yet), 7575 (magnet - must backtest since we lost it last week) https://t.co/NBef6vyWcX",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7505, 7554, 7575) are morning-plan levels; 7482/7490 are hindsight trade references; 7534-39/7546 are prior targets. No new actionable levels."
-    },
     {
       "tweet_id": "2079254398937510231",
       "timestamp_utc": "2026-07-20T17:17:34.000Z",
