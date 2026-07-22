@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T17:45:46.374599+00:00",
-  "fetched_at_est": "2026-07-22T13:45:46.374606-04:00",
+  "fetched_at_utc": "2026-07-22T18:35:51.799603+00:00",
+  "fetched_at_est": "2026-07-22T14:35:51.799610-04:00",
   "last_new_level_added_at_est": "2026-07-22T13:33:28-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2079635713570525403",
-      "timestamp_utc": "2026-07-21T18:32:46.000Z",
-      "timestamp_est": "2026-07-21T14:32:46-04:00",
-      "tweet_text": "@ebin59843030 Just look at price, its very obvious when its volatile or not volatile",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about reading price/volatility; no price named, no actionable level of any kind."
-    },
     {
       "tweet_id": "2079643511314337892",
       "timestamp_utc": "2026-07-21T19:03:45.000Z",
