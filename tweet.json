@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T14:55:07.941783+00:00",
-  "fetched_at_est": "2026-07-22T10:55:07.941789-04:00",
+  "fetched_at_utc": "2026-07-22T15:15:11.358399+00:00",
+  "fetched_at_est": "2026-07-22T11:15:11.358406-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079584006148895090",
-      "timestamp_utc": "2026-07-21T15:07:18.000Z",
-      "timestamp_est": "2026-07-21T11:07:18-04:00",
-      "tweet_text": "@Vinsmoke1P Means the market is extremely weak if it can't complete those basic backtests",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary about market weakness; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2079600906773877142",
       "timestamp_utc": "2026-07-21T16:14:27.000Z",
