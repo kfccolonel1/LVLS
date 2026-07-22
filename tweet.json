@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-21T21:23:02.725544+00:00",
-  "fetched_at_est": "2026-07-21T17:23:02.725549-04:00",
+  "fetched_at_utc": "2026-07-22T12:04:24.014678+00:00",
+  "fetched_at_est": "2026-07-22T08:04:24.014691-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079536198897324330",
-      "timestamp_utc": "2026-07-21T11:57:20.000Z",
-      "timestamp_est": "2026-07-21T07:57:20-04:00",
-      "tweet_text": "Evening traders gifted with yet another long in #ES_F, just like Sunday. Same drill daily. Per newsletter, recoveries of the 7490 2 day shelf were actionable. We got it last evening, went +37\n\nPlan today: Ride runner until vol expands. 7522, 7532, 7548 next set. 7490=support https://t.co/02HqiWQHKX",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7522 is the only unlisted price, but it appears in a directional target list referencing the newsletter/morning plan context, not introduced with naming language as a standalone new level."
-    },
     {
       "tweet_id": "2079557579781423198",
       "timestamp_utc": "2026-07-21T13:22:17.000Z",
@@ -97,6 +88,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7522, 7532, 7548, 7575, 7627) are either morning-plan levels or hit-target observations. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2079898952346775757",
+      "timestamp_utc": "2026-07-22T11:58:47.000Z",
+      "timestamp_est": "2026-07-22T07:58:47-04:00",
+      "tweet_text": "We remain in summer range trading which is 95% holding a runner, 5% trading Failed Breakdowns on vol expansions. 7490 reclaim was our last long. Ystds targets were 7522, 7532, 7548 (the high), 7575\n\nPlan today: Ride runner. 7506=support (watch traps), 72 below. 22, 33, 47 next https://t.co/lNEWbyQj1M",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All named prices (7506, 7472, 7522, 7532, 7548, 7575, 7533, 7473) are morning-plan levels or observations/reaffirmations; no genuinely new actionable level introduced."
+    },
+    {
+      "tweet_id": "2079899075885883557",
+      "timestamp_utc": "2026-07-22T11:59:17.000Z",
+      "timestamp_est": "2026-07-22T07:59:17-04:00",
+      "tweet_text": "Note: Little to do here but ride runner until we sell. No change to newsletter entries, I will be including less supports on Twitter going forward and the quality entries will be in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; purely commentary about trade management and newsletter policy changes."
+    },
+    {
+      "tweet_id": "2079899762187280778",
+      "timestamp_utc": "2026-07-22T12:02:00.000Z",
+      "timestamp_est": "2026-07-22T08:02:00-04:00",
+      "tweet_text": "@TsgSpecial Volatility picks up in September. That doesn't mean there aren't big summer vol expansions, just they are rare",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about seasonal volatility patterns; no price named, no actionable level, no naming language."
     }
   ]
 }
