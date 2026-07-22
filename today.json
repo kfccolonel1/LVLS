@@ -1,27 +1,20 @@
 {
-  "session_date": "2026-07-21",
+  "session_date": "2026-07-22",
   "daily_pivot": 7575.0,
   "regime_hint": "C2",
   "significant_lows": [
-    7504.0,
-    7490.0,
-    7483.0,
+    7506.0,
     7473.0,
-    7459.0,
     7408.0,
     7357.0
   ],
   "bull_levels": [
     {
-      "price": 7532.0,
+      "price": 7547.0,
       "major": true
     },
     {
-      "price": 7548.0,
-      "major": true
-    },
-    {
-      "price": 7564.0,
+      "price": 7563.0,
       "major": true
     },
     {
@@ -29,7 +22,7 @@
       "major": true
     },
     {
-      "price": 7597.0,
+      "price": 7595.0,
       "major": true
     },
     {
@@ -37,61 +30,65 @@
       "major": true
     },
     {
-      "price": 7627.0,
+      "price": 7640.0,
       "major": true
     },
     {
-      "price": 7642.5,
+      "price": 7657.0,
       "major": true
     },
     {
-      "price": 7669.0,
+      "price": 7673.0,
       "major": true
     },
     {
-      "price": 7694.0,
+      "price": 7708.0,
       "major": true
     },
     {
-      "price": 7716.0,
+      "price": 7744.0,
       "major": true
     },
     {
-      "price": 7757.0,
+      "price": 7778.0,
       "major": true
     },
     {
-      "price": 7771.0,
+      "price": 7812.0,
       "major": true
     },
     {
-      "price": 7821.0,
+      "price": 7829.0,
       "major": true
     },
     {
-      "price": 7841.0,
+      "price": 7849.0,
       "major": true
     },
     {
-      "price": 7877.0,
+      "price": 7859.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7504.0,
+      "price": 7533.0,
       "major": true
     },
     {
-      "price": 7483.0,
+      "price": 7506.0,
       "major": true
     },
     {
-      "price": 7471.0,
+      "price": 7492.0,
       "major": true
     },
     {
-      "price": 7459.0,
+      "price": 7473.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
       "major": true
     },
     {
@@ -99,7 +96,7 @@
       "major": true
     },
     {
-      "price": 7418.0,
+      "price": 7422.0,
       "major": true
     },
     {
@@ -107,19 +104,11 @@
       "major": true
     },
     {
-      "price": 7390.0,
+      "price": 7373.0,
       "major": true
     },
     {
-      "price": 7369.0,
-      "major": true
-    },
-    {
-      "price": 7346.0,
-      "major": true
-    },
-    {
-      "price": 7336.0,
+      "price": 7333.0,
       "major": true
     },
     {
@@ -129,6 +118,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish-leaning within a month-long range (7482\u20137627). He is holding a long runner from the Sunday 7490 recovery and expects bulls to push toward 7575, then 7611 and 7627. He will look to buy failed breakdowns at 7490, 7483, 7473, and 7408 if price dips. The daily pivot is 7575: above it, bulls are in control and a run to 7611\u20137627 is favored; below it, the range stays compressed and bears have a chance.",
-  "fetched_at": "2026-07-21T05:00:19.315582+00:00"
+  "notes": "Trader is bullish and expects the month-long range (7473 to 7627) to continue filling upward. He wants to buy dips, ideally holding above 7533 or only briefly dipping under 7506, then moving up to 7575, 7611, and 7627. The key pivot is 7575: above it bulls are in control aiming for 7627 and a potential breakout; below it the range remains under pressure. No new longs to chase at current mid-range prices.",
+  "fetched_at": "2026-07-22T05:00:18.044983+00:00"
 }
