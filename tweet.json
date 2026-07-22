@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T16:15:32.195278+00:00",
-  "fetched_at_est": "2026-07-22T12:15:32.195284-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-07-22T17:35:44.107281+00:00",
+  "fetched_at_est": "2026-07-22T13:35:44.107285-04:00",
+  "last_new_level_added_at_est": "2026-07-22T13:33:28-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7627.0,
+      "side": "bull",
+      "added_at_est": "2026-07-22T13:33:28-04:00",
+      "expires_at_est": "2026-07-22T21:33:28-04:00",
+      "from_tweet_id": "2079983179478315020"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2079622579661283729",
@@ -167,6 +175,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional philosophy/commentary, no price levels named or actionable entries/targets mentioned."
+    },
+    {
+      "tweet_id": "2079983179478315020",
+      "timestamp_utc": "2026-07-22T17:33:28.000Z",
+      "timestamp_est": "2026-07-22T13:33:28-04:00",
+      "tweet_text": "Volatility gone and just close platform now and let runner work. 0 left to do. Today's entry was the 7506 trap, which we got at 9am. Targets for that #ES_F long were 7522 (hit), 7532 (hit), 7548 (hit).\n\n7575 next, then we can head to 7627. Just let runner work from here https://t.co/sSEmrMVYjc",
+      "added_bull_levels": [
+        7627.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7627 named as next bull target beyond 7575 \u2014 not in morning plan. 7506/7522/7532/7548/7575 are all morning-plan levels or hit observations."
     }
   ]
 }
