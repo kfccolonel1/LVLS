@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T17:35:44.107281+00:00",
-  "fetched_at_est": "2026-07-22T13:35:44.107285-04:00",
+  "fetched_at_utc": "2026-07-22T17:45:46.374599+00:00",
+  "fetched_at_est": "2026-07-22T13:45:46.374606-04:00",
   "last_new_level_added_at_est": "2026-07-22T13:33:28-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2079622579661283729",
-      "timestamp_utc": "2026-07-21T17:40:35.000Z",
-      "timestamp_est": "2026-07-21T13:40:35-04:00",
-      "tweet_text": "Little going on now in #ES_F but levels respecting well. After the 7490 Failed Breakdown long given in newsletter, today's targets were 4 fold and given at 8am: 7522 (hit), 7532 (hit), 7548 (hit - stuck here for 1hr). Just 7575 yet, this is the major backtest to complete this leg https://t.co/oBKRlMtxDw",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7490, 7522, 7532, 7548, 7575) are either morning-plan levels or hindsight references to targets already given at 8am. No new actionable level introduced."
-    },
     {
       "tweet_id": "2079635713570525403",
       "timestamp_utc": "2026-07-21T18:32:46.000Z",
