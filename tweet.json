@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T14:25:04.092008+00:00",
-  "fetched_at_est": "2026-07-22T10:25:04.092014-04:00",
+  "fetched_at_utc": "2026-07-22T14:55:07.941783+00:00",
+  "fetched_at_est": "2026-07-22T10:55:07.941789-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079579638762729940",
-      "timestamp_utc": "2026-07-21T14:49:57.000Z",
-      "timestamp_est": "2026-07-21T10:49:57-04:00",
-      "tweet_text": "Finally unpinning from the morning chop in #ES_F mildly and little to do now but ride runner until next bear trap. 7490 shelf recovery was last entry. Today's targets were 7522 (hit), 7532 (hit), 7548 next, then 7575 which has to backtest still and has been unable to so far https://t.co/TpSv7f6CV1",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7490, 7522, 7532, 7548, 7575) are morning-plan levels or hit-target observations; no new actionable levels named."
-    },
     {
       "tweet_id": "2079584006148895090",
       "timestamp_utc": "2026-07-21T15:07:18.000Z",
