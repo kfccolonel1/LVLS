@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T19:05:58.492259+00:00",
-  "fetched_at_est": "2026-07-22T15:05:58.492264-04:00",
+  "fetched_at_utc": "2026-07-22T19:16:03.779619+00:00",
+  "fetched_at_est": "2026-07-22T15:16:03.779624-04:00",
   "last_new_level_added_at_est": "2026-07-22T13:33:28-04:00",
   "todays_new_levels": [
     {
@@ -159,6 +159,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about market inactivity; no price levels named, no actionable language whatsoever."
+    },
+    {
+      "tweet_id": "2080006508595605776",
+      "timestamp_utc": "2026-07-22T19:06:10.000Z",
+      "timestamp_est": "2026-07-22T15:06:10-04:00",
+      "tweet_text": "Closing update #ES_F: Volatility still totally gone and we are at the exact same level we were 24hrs ago. 7506 Failed Breakdown was todays long 9am. Targets were 7522, 7532, 7548 (hit). Just 7575 left. Newsletter was sent early with entries for the next selloff if we get one",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All referenced levels (7506, 7522, 7532, 7548, 7575) are either morning-plan levels or observation/hindsight references to targets already hit. No new actionable levels named."
     }
   ]
 }
