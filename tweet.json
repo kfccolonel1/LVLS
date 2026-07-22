@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T13:54:57.214396+00:00",
-  "fetched_at_est": "2026-07-22T09:54:57.214405-04:00",
+  "fetched_at_utc": "2026-07-22T14:25:04.092008+00:00",
+  "fetched_at_est": "2026-07-22T10:25:04.092014-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079572775233003576",
-      "timestamp_utc": "2026-07-21T14:22:40.000Z",
-      "timestamp_est": "2026-07-21T10:22:40-04:00",
-      "tweet_text": "@kevinc2114 Double bottomed it exact. Could still take the long there sometimes price does that (it did it last week also). Double bottoms the low exact but doesn't get that one tick extra needed for a Failed Breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining price action (double bottom, failed breakdown) \u2014 no new actionable price named, pure observation/commentary."
-    },
     {
       "tweet_id": "2079579638762729940",
       "timestamp_utc": "2026-07-21T14:49:57.000Z",
@@ -158,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user referencing a newsletter trade; no price named, no actionable level, pure conversational response."
+    },
+    {
+      "tweet_id": "2079935380749443133",
+      "timestamp_utc": "2026-07-22T14:23:32.000Z",
+      "timestamp_est": "2026-07-22T10:23:32-04:00",
+      "tweet_text": "Extremely easy day today (won't get many like this). Entry was given live and at 4pm ystd in newsletter: The 7506 trap. We trapped it at 9am, recovered, longed. 4 targets were given. 7522 (hit), 7532 (hit), 7548 (hit). Just 7575 backtest remaining.\n\nRide runner now, 0 to do https://t.co/t4uRJgficb",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7506, 7522, 7532, 7548, 7575) are hindsight references to pre-published newsletter/morning plan levels; no new actionable levels named."
     }
   ]
 }
