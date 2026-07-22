@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-22T15:15:11.358399+00:00",
-  "fetched_at_est": "2026-07-22T11:15:11.358406-04:00",
+  "fetched_at_utc": "2026-07-22T15:55:26.317857+00:00",
+  "fetched_at_est": "2026-07-22T11:55:26.317864-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7506, 7522, 7532, 7548, 7575) are hindsight references to pre-published newsletter/morning plan levels; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2079957075073867912",
+      "timestamp_utc": "2026-07-22T15:49:45.000Z",
+      "timestamp_est": "2026-07-22T11:49:45-04:00",
+      "tweet_text": "Today's work is done and the plan tracked to 100% perfection in #ES_F. Entry was given here live and in newsletter: The 7506 trap. We flushed it 9am, and up we went. 4 targets were given: 7522 (hit), 7532 (hit), 7548 (hit), 7575.\n\nRide runner for 75. Then we head to macro res https://t.co/Ya0R77TPIZ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7506, 7522, 7532, 7548, 7575) are hindsight references to prior plan targets already hit; 7575 is in morning plan. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2079957340627857805",
+      "timestamp_utc": "2026-07-22T15:50:48.000Z",
+      "timestamp_est": "2026-07-22T11:50:48-04:00",
+      "tweet_text": "@NerdRageDan I am always bullish (perma bull in uptrends) so I just assume we react and head higher to range resistance which is also a magnet that needs to test. Spoke alot about it in newsletter yesterday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no specific price named; vague reference to 'range resistance' without a price is not an actionable level."
+    },
+    {
+      "tweet_id": "2079957467924947445",
+      "timestamp_utc": "2026-07-22T15:51:18.000Z",
+      "timestamp_est": "2026-07-22T11:51:18-04:00",
+      "tweet_text": "@tradivate Should get there soon!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to @tradivate with no price named, no actionable level, purely conversational."
     }
   ]
 }
