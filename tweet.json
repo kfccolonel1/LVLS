@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T13:58:20.229666+00:00",
-  "fetched_at_est": "2026-07-23T09:58:20.229673-04:00",
+  "fetched_at_utc": "2026-07-23T14:28:29.806934+00:00",
+  "fetched_at_est": "2026-07-23T10:28:29.806947-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079935380749443133",
-      "timestamp_utc": "2026-07-22T14:23:32.000Z",
-      "timestamp_est": "2026-07-22T10:23:32-04:00",
-      "tweet_text": "Extremely easy day today (won't get many like this). Entry was given live and at 4pm ystd in newsletter: The 7506 trap. We trapped it at 9am, recovered, longed. 4 targets were given. 7522 (hit), 7532 (hit), 7548 (hit). Just 7575 backtest remaining.\n\nRide runner now, 0 to do https://t.co/t4uRJgficb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7506, 7522, 7532, 7548, 7575) are hindsight references to pre-published newsletter/morning plan levels; no new actionable levels named."
-    },
     {
       "tweet_id": "2079957075073867912",
       "timestamp_utc": "2026-07-22T15:49:45.000Z",
@@ -160,6 +151,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7575 is already in the morning plan; tweet is a reaffirmation/commentary on its magnetic property, not a new actionable level."
+    },
+    {
+      "tweet_id": "2080297683067998327",
+      "timestamp_utc": "2026-07-23T14:23:12.000Z",
+      "timestamp_est": "2026-07-23T10:23:12-04:00",
+      "tweet_text": "We are settling into chop again now in #ES_F and today is all about 7472 which is the bull/bear line. As posted 1hr ago, full control to bears until 72 recoveries. We just took 1 crack at it, went +10, then back down again\n\nNo change: 72 reclaims see 7483, 7491, 7506+. Bottoms it https://t.co/oQgkJNOSV6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7472 is near morning plan 7473; 7483/7491/7506 are reaffirmations or observations of prior levels. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2080298712392249580",
+      "timestamp_utc": "2026-07-23T14:27:17.000Z",
+      "timestamp_est": "2026-07-23T10:27:17-04:00",
+      "tweet_text": "@RobyArnoldi It would go below the lowest low if its a 10% runner. If it only gets to the 1st profit take at 83 though which it did on the first run then you need to exit slightly below break-even to preserve a green trade",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with trade management advice (exit near break-even, 1st profit take at ~7483); no new actionable level named, just managing an existing position."
     }
   ]
 }
