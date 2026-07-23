@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T13:18:06.156937+00:00",
-  "fetched_at_est": "2026-07-23T09:18:06.156945-04:00",
+  "fetched_at_utc": "2026-07-23T13:28:11.132129+00:00",
+  "fetched_at_est": "2026-07-23T09:28:11.132133-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -196,6 +196,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; purely a philosophical/methodological commentary about not buying red or shorting after structural breakdown."
+    },
+    {
+      "tweet_id": "2080283034247389241",
+      "timestamp_utc": "2026-07-23T13:24:59.000Z",
+      "timestamp_est": "2026-07-23T09:24:59-04:00",
+      "tweet_text": "@MaxSkowron Monday and Friday. Its been the range all month though which has now broken down so I wouldn't touch any longs now (as I mentioned in newsletter) until or unless 7472 recovers. Major structural breakdown could sell for a long time from here if we don't get a catalyst",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7472 is close to morning plan 7473 (rounding/same level); conversational reply with no new explicitly actionable price meeting all three criteria."
     }
   ]
 }
