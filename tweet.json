@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T17:39:53.133591+00:00",
-  "fetched_at_est": "2026-07-23T13:39:53.133598-04:00",
+  "fetched_at_utc": "2026-07-23T17:49:59.579052+00:00",
+  "fetched_at_est": "2026-07-23T13:49:59.579063-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -266,6 +266,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No specific price named; 'shelf between 930am and 1030am' is a time-based observation with no actionable price level stated."
+    },
+    {
+      "tweet_id": "2080347676210548932",
+      "timestamp_utc": "2026-07-23T17:41:51.000Z",
+      "timestamp_est": "2026-07-23T13:41:51-04:00",
+      "tweet_text": "@AmyAmyYY9 Never reclaimed at any point today at least not via my rules. 7453+5=7458. Price has to hold above 58 for several minutes and be pushing with momentum",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7458 is a derived math reference (7453+5) explained in reply to a user, not a standalone actionable named level with naming language."
+    },
+    {
+      "tweet_id": "2080347756548202619",
+      "timestamp_utc": "2026-07-23T17:42:10.000Z",
+      "timestamp_est": "2026-07-23T13:42:10-04:00",
+      "tweet_text": "@AmyAmyYY9 I repeat these rules every single day in the newsletter multiple times",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user about newsletter habits; no price levels mentioned or implied."
     }
   ]
 }
