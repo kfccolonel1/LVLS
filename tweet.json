@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T15:59:33.609608+00:00",
-  "fetched_at_est": "2026-07-23T11:59:33.609616-04:00",
+  "fetched_at_utc": "2026-07-23T16:19:36.870730+00:00",
+  "fetched_at_est": "2026-07-23T12:19:36.870736-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079963496041599203",
-      "timestamp_utc": "2026-07-22T16:15:15.000Z",
-      "timestamp_est": "2026-07-22T12:15:15-04:00",
-      "tweet_text": "@noonelikeme81 @tradivate Always assume up in ES in a bull market. I never predict any type of downside, you'll be right 80% of the time if you are just perma-bullish",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional philosophy/commentary, no price levels named or actionable entries/targets mentioned."
-    },
     {
       "tweet_id": "2079983179478315020",
       "timestamp_utc": "2026-07-22T17:33:28.000Z",
