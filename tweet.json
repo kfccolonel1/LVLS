@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T01:36:37.581052+00:00",
-  "fetched_at_est": "2026-07-22T21:36:37.581060-04:00",
+  "fetched_at_utc": "2026-07-23T11:57:32.102941+00:00",
+  "fetched_at_est": "2026-07-23T07:57:32.102946-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -160,6 +160,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All referenced levels (7506, 7522, 7532, 7548, 7575) are either morning-plan levels or observation/hindsight references to targets already hit. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2080260307776098400",
+      "timestamp_utc": "2026-07-23T11:54:41.000Z",
+      "timestamp_est": "2026-07-23T07:54:41-04:00",
+      "tweet_text": "We remain in low volatility, rangebound summer trading in #ES_F for 3 weeks now. Yesterday's long was the 7506 trap. Targets were 7522, 7532, 7548, 7575. 3/4 hit.\n\nPlan today: 7506 must reclaim with volatility to see 7516, 7522, 7533, 7548+. Watch 72 traps below now https://t.co/xqbs5pUL5f",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All referenced levels (7506, 7533, 7548, 7575) are morning-plan reaffirmations; 7516/7522 are intermediate targets, no new actionable levels named."
     }
   ]
 }
