@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T12:47:45.050196+00:00",
-  "fetched_at_est": "2026-07-23T08:47:45.050205-04:00",
+  "fetched_at_utc": "2026-07-23T12:57:50.599888+00:00",
+  "fetched_at_est": "2026-07-23T08:57:50.599892-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -160,6 +160,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7472 is close to morning plan 7473; 7492 not named with actionable language; 7459/7440/7506 all in morning plan. No genuinely new major levels."
+    },
+    {
+      "tweet_id": "2080275864655118718",
+      "timestamp_utc": "2026-07-23T12:56:30.000Z",
+      "timestamp_est": "2026-07-23T08:56:30-04:00",
+      "tweet_text": "@BladeHawk8 The war began on Feb 28th and we are up 600 points",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a 600-point move with no actionable price level named."
     }
   ]
 }
