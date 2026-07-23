@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T15:39:09.264896+00:00",
-  "fetched_at_est": "2026-07-23T11:39:09.264901-04:00",
+  "fetched_at_utc": "2026-07-23T15:49:31.268823+00:00",
+  "fetched_at_est": "2026-07-23T11:49:31.268837-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -241,6 +241,60 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user with no price levels mentioned; purely conversational commentary about backtesting."
+    },
+    {
+      "tweet_id": "2080316768833163329",
+      "timestamp_utc": "2026-07-23T15:39:02.000Z",
+      "timestamp_est": "2026-07-23T11:39:02-04:00",
+      "tweet_text": "@PeriHelion96002 I am a trader, I'm bullish when price is bullish and bearish after structures fail. It's all systematic and unemotional for me I just follow my process",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet describing trading philosophy/process only. No price levels named, no actionable levels of any kind."
+    },
+    {
+      "tweet_id": "2080317127177687248",
+      "timestamp_utc": "2026-07-23T15:40:28.000Z",
+      "timestamp_est": "2026-07-23T11:40:28-04:00",
+      "tweet_text": "@SuperHumanEpoch I never short. 100% Failed Breakdown longs only for me",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned; purely a conversational reply about trading style/methodology."
+    },
+    {
+      "tweet_id": "2080317209834819851",
+      "timestamp_utc": "2026-07-23T15:40:47.000Z",
+      "timestamp_est": "2026-07-23T11:40:47-04:00",
+      "tweet_text": "@SuperHumanEpoch I provide shorts in the newsletter though still. The 7473 breakdown short was given",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7473 is already in the morning plan; tweet is a hindsight reference to a previously published trade, not a new actionable level."
+    },
+    {
+      "tweet_id": "2080318035936584178",
+      "timestamp_utc": "2026-07-23T15:44:04.000Z",
+      "timestamp_est": "2026-07-23T11:44:04-04:00",
+      "tweet_text": "Note: Recoveries of 7448-53 from here likely take us up to the 7473 backtest, but that will need to recover to return full control to bulls",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7473 is a morning plan level (reaffirmation); 7448-53 midpoint ~7450 is a recovery observation/condition, not explicitly named as a new actionable level."
+    },
+    {
+      "tweet_id": "2080318882535842052",
+      "timestamp_utc": "2026-07-23T15:47:26.000Z",
+      "timestamp_est": "2026-07-23T11:47:26-04:00",
+      "tweet_text": "@Ethoswrath If we get up there on the squeeze I will, otherwise won't take anything today",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade intent; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2080319007207411872",
+      "timestamp_utc": "2026-07-23T15:47:56.000Z",
+      "timestamp_est": "2026-07-23T11:47:56-04:00",
+      "tweet_text": "@jake_lamotta_23 @T_Ngo_T That is also a big backtest point and that one hasn't backtested at all",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet referencing a 'backtest point' with no explicit price named; purely conversational observation, no actionable level introduced."
     }
   ]
 }
