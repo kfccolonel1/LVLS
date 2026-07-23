@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T14:38:35.293359+00:00",
-  "fetched_at_est": "2026-07-23T10:38:35.293364-04:00",
+  "fetched_at_utc": "2026-07-23T14:48:39.884364+00:00",
+  "fetched_at_est": "2026-07-23T10:48:39.884369-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -178,6 +178,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining risk/position sizing rules. No price levels named, only stop-loss point distances (15, 30) used as math examples, not ES prices."
+    },
+    {
+      "tweet_id": "2080303880147959961",
+      "timestamp_utc": "2026-07-23T14:47:49.000Z",
+      "timestamp_est": "2026-07-23T10:47:49-04:00",
+      "tweet_text": "@thebraithwaits Yes that's how they should look. Speed and momentum",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet about chart aesthetics/momentum \u2014 no price levels named, purely conversational."
     }
   ]
 }
