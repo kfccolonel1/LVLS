@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T16:49:43.336847+00:00",
-  "fetched_at_est": "2026-07-23T12:49:43.336851-04:00",
+  "fetched_at_utc": "2026-07-23T17:29:50.937716+00:00",
+  "fetched_at_est": "2026-07-23T13:29:50.937720-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -268,6 +268,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7473, 7422, 7447-53\u21927450) are morning-plan levels or observations of price action; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2080342678961639854",
+      "timestamp_utc": "2026-07-23T17:22:00.000Z",
+      "timestamp_est": "2026-07-23T13:22:00-04:00",
+      "tweet_text": "@cspiff138040 There's a nice shelf there between 930am and 1030am. Now resistance but looks set to clear",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price named; 'shelf between 930am and 1030am' is a time-based observation with no actionable price level stated."
     }
   ]
 }
