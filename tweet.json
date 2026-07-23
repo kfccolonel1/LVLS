@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T14:28:29.806934+00:00",
-  "fetched_at_est": "2026-07-23T10:28:29.806947-04:00",
+  "fetched_at_utc": "2026-07-23T14:38:35.293359+00:00",
+  "fetched_at_est": "2026-07-23T10:38:35.293364-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -169,6 +169,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with trade management advice (exit near break-even, 1st profit take at ~7483); no new actionable level named, just managing an existing position."
+    },
+    {
+      "tweet_id": "2080301295215190512",
+      "timestamp_utc": "2026-07-23T14:37:33.000Z",
+      "timestamp_est": "2026-07-23T10:37:33-04:00",
+      "tweet_text": "@RobyArnoldi Yes 15 points full size is the max loss I'd ever take. If a larger stop is required though, you can half the trade size. A half size trade for example a 30 point stop would equal 15 on a full trade.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining risk/position sizing rules. No price levels named, only stop-loss point distances (15, 30) used as math examples, not ES prices."
     }
   ]
 }
