@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T13:38:15.934573+00:00",
-  "fetched_at_est": "2026-07-23T09:38:15.934578-04:00",
+  "fetched_at_utc": "2026-07-23T13:48:18.169172+00:00",
+  "fetched_at_est": "2026-07-23T09:48:18.169176-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079926404334878768",
-      "timestamp_utc": "2026-07-22T13:47:52.000Z",
-      "timestamp_est": "2026-07-22T09:47:52-04:00",
-      "tweet_text": "Levels and trade plan working perfect today. As posted at 8am (and in newsletter), traps of 7506 were today's long. We trapped 7506 down to 7504 at 9am, longs triggered. Target slate today was 7522 (hit), 7532 (hit), 7548, 7575 next.\n\nNothing to do now. Ride your runner in #ES_F https://t.co/4XK8bkqvTu",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7506, 7522, 7532, 7548, 7575) are morning-plan levels or hindsight trade recaps; no new actionable levels named."
-    },
     {
       "tweet_id": "2079926610824683712",
       "timestamp_utc": "2026-07-22T13:48:41.000Z",
