@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T12:07:34.881425+00:00",
-  "fetched_at_est": "2026-07-23T08:07:34.881432-04:00",
+  "fetched_at_utc": "2026-07-23T12:47:45.050196+00:00",
+  "fetched_at_est": "2026-07-23T08:47:45.050205-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -142,6 +142,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All referenced levels (7506, 7533, 7548, 7575) are morning-plan reaffirmations; 7516/7522 are intermediate targets, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2080272021749911563",
+      "timestamp_utc": "2026-07-23T12:41:14.000Z",
+      "timestamp_est": "2026-07-23T08:41:14-04:00",
+      "tweet_text": "@Michel866027 Down here now! Would be nice to see some more red and break this range down finally though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual reply with no price named at all; pure directional commentary with no actionable level."
+    },
+    {
+      "tweet_id": "2080272951891423593",
+      "timestamp_utc": "2026-07-23T12:44:55.000Z",
+      "timestamp_est": "2026-07-23T08:44:55-04:00",
+      "tweet_text": "We are finally getting a little volatility and range expansion in #ES_F which gives day traders something to work with (these bursts are rare until September).\n\n7472 shelf must reclaim with heavy vol to return to 7492, 7506+. 7459, 7440 are below. 7472-7627 remains macro range https://t.co/E2His3in0i",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7472 is close to morning plan 7473; 7492 not named with actionable language; 7459/7440/7506 all in morning plan. No genuinely new major levels."
     }
   ]
 }
