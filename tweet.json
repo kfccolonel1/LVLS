@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-23T11:57:32.102941+00:00",
-  "fetched_at_est": "2026-07-23T07:57:32.102946-04:00",
+  "fetched_at_utc": "2026-07-23T12:07:34.881425+00:00",
+  "fetched_at_est": "2026-07-23T08:07:34.881432-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2079898952346775757",
-      "timestamp_utc": "2026-07-22T11:58:47.000Z",
-      "timestamp_est": "2026-07-22T07:58:47-04:00",
-      "tweet_text": "We remain in summer range trading which is 95% holding a runner, 5% trading Failed Breakdowns on vol expansions. 7490 reclaim was our last long. Ystds targets were 7522, 7532, 7548 (the high), 7575\n\nPlan today: Ride runner. 7506=support (watch traps), 72 below. 22, 33, 47 next https://t.co/lNEWbyQj1M",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All named prices (7506, 7472, 7522, 7532, 7548, 7575, 7533, 7473) are morning-plan levels or observations/reaffirmations; no genuinely new actionable level introduced."
-    },
-    {
-      "tweet_id": "2079899075885883557",
-      "timestamp_utc": "2026-07-22T11:59:17.000Z",
-      "timestamp_est": "2026-07-22T07:59:17-04:00",
-      "tweet_text": "Note: Little to do here but ride runner until we sell. No change to newsletter entries, I will be including less supports on Twitter going forward and the quality entries will be in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; purely commentary about trade management and newsletter policy changes."
-    },
-    {
-      "tweet_id": "2079899762187280778",
-      "timestamp_utc": "2026-07-22T12:02:00.000Z",
-      "timestamp_est": "2026-07-22T08:02:00-04:00",
-      "tweet_text": "@TsgSpecial Volatility picks up in September. That doesn't mean there aren't big summer vol expansions, just they are rare",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about seasonal volatility patterns; no price named, no actionable level, no naming language."
-    },
     {
       "tweet_id": "2079921473607618610",
       "timestamp_utc": "2026-07-22T13:28:17.000Z",
