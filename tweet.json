@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T12:11:48.271540+00:00",
-  "fetched_at_est": "2026-07-24T08:11:48.271546-04:00",
+  "fetched_at_utc": "2026-07-24T12:41:51.692179+00:00",
+  "fetched_at_est": "2026-07-24T08:41:51.692185-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080272021749911563",
-      "timestamp_utc": "2026-07-23T12:41:14.000Z",
-      "timestamp_est": "2026-07-23T08:41:14-04:00",
-      "tweet_text": "@Michel866027 Down here now! Would be nice to see some more red and break this range down finally though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reply with no price named at all; pure directional commentary with no actionable level."
-    },
     {
       "tweet_id": "2080272951891423593",
       "timestamp_utc": "2026-07-23T12:44:55.000Z",
