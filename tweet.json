@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T15:02:30.131297+00:00",
-  "fetched_at_est": "2026-07-24T11:02:30.131306-04:00",
+  "fetched_at_utc": "2026-07-24T15:22:32.943876+00:00",
+  "fetched_at_est": "2026-07-24T11:22:32.943884-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080310244610064751",
-      "timestamp_utc": "2026-07-23T15:13:07.000Z",
-      "timestamp_est": "2026-07-23T11:13:07-04:00",
-      "tweet_text": "Little to do now in #ES_F but ride shorts if you take them. Per newsletter + tweets, loss of 7473 would trigger the bear case and a long period of selling where all supports fail. Underway now.\n\nArriving at 7422 next support. 7408 below (watch traps). 7473 must reclaim to bottom https://t.co/RCVsmqCyJH",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7473, 7422, 7408) are already in today's morning plan. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2080310855372030420",
-      "timestamp_utc": "2026-07-23T15:15:32.000Z",
-      "timestamp_est": "2026-07-23T11:15:32-04:00",
-      "tweet_text": "@purplehippbh Very clear breakdown short there! I don't take them personally but I know many readers like them so I still provide them",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels mentioned; purely conversational about breakdown shorts."
-    },
     {
       "tweet_id": "2080313097969979732",
       "timestamp_utc": "2026-07-23T15:24:27.000Z",
