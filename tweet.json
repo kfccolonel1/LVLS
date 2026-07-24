@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T13:22:08.086751+00:00",
-  "fetched_at_est": "2026-07-24T09:22:08.086756-04:00",
+  "fetched_at_utc": "2026-07-24T13:32:10.130875+00:00",
+  "fetched_at_est": "2026-07-24T09:32:10.130884-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080283034247389241",
-      "timestamp_utc": "2026-07-23T13:24:59.000Z",
-      "timestamp_est": "2026-07-23T09:24:59-04:00",
-      "tweet_text": "@MaxSkowron Monday and Friday. Its been the range all month though which has now broken down so I wouldn't touch any longs now (as I mentioned in newsletter) until or unless 7472 recovers. Major structural breakdown could sell for a long time from here if we don't get a catalyst",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7472 is close to morning plan 7473 (rounding/same level); conversational reply with no new explicitly actionable price meeting all three criteria."
-    },
-    {
-      "tweet_id": "2080284180127031465",
-      "timestamp_utc": "2026-07-23T13:29:33.000Z",
-      "timestamp_est": "2026-07-23T09:29:33-04:00",
-      "tweet_text": "@StephenJ223624 It was an immediate backtest of 7575 but typically price also backtest it after the breakdown selloff occurs, from lower. 7575 remains a magnet that has to be backtested",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7575 is already in the morning plan; tweet is a reaffirmation/commentary on its magnetic property, not a new actionable level."
-    },
     {
       "tweet_id": "2080297683067998327",
       "timestamp_utc": "2026-07-23T14:23:12.000Z",
