@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T17:43:23.292089+00:00",
-  "fetched_at_est": "2026-07-24T13:43:23.292096-04:00",
+  "fetched_at_utc": "2026-07-24T18:23:33.666654+00:00",
+  "fetched_at_est": "2026-07-24T14:23:33.666666-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -122,6 +122,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7438/7506/7575 are morning-plan levels; 7472 is observation of hit target; 7458 lacks naming language and reads as casual support reference, not a new actionable level."
+    },
+    {
+      "tweet_id": "2080718398191742997",
+      "timestamp_utc": "2026-07-24T18:14:58.000Z",
+      "timestamp_est": "2026-07-24T14:14:58-04:00",
+      "tweet_text": "@GuidoVerweyen None of that has anything remotely to do with my job. I day trade ES professionally by exploiting one narrow edge (as all professionals do), I don't trade dyx, oil, vix, or the US10yr.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user about trading methodology; no prices, levels, or actionable information mentioned."
+    },
+    {
+      "tweet_id": "2080718701473542155",
+      "timestamp_utc": "2026-07-24T18:16:10.000Z",
+      "timestamp_est": "2026-07-24T14:16:10-04:00",
+      "tweet_text": "As posted 1hr ago today's work is done, just let a runner work in #ES_F. 7438 was support which trapped and recovered. My target was the backtest of the 7472 shelf, and we got it, stuck here for hours. 7506 is next, then we can resume to 7575+.\n\n7458, 7438 remain supports https://t.co/D6pJAu2rwK",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7438, 7472, 7506, 7575, 7458) are observations, hindsight refs, or reaffirmations of morning-plan levels. 7472 is a passing shelf reference, not named with actionable language."
     }
   ]
 }
