@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T14:42:22.390677+00:00",
-  "fetched_at_est": "2026-07-24T10:42:22.390689-04:00",
+  "fetched_at_utc": "2026-07-24T14:52:27.788838+00:00",
+  "fetched_at_est": "2026-07-24T10:52:27.788843-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080303880147959961",
-      "timestamp_utc": "2026-07-23T14:47:49.000Z",
-      "timestamp_est": "2026-07-23T10:47:49-04:00",
-      "tweet_text": "@thebraithwaits Yes that's how they should look. Speed and momentum",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet about chart aesthetics/momentum \u2014 no price levels named, purely conversational."
-    },
     {
       "tweet_id": "2080305111176249851",
       "timestamp_utc": "2026-07-23T14:52:43.000Z",
@@ -230,6 +221,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7438, 7447\u224847, 7472\u22487474, 7506, 7412) are reaffirmations of morning-plan levels. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2080665859014496635",
+      "timestamp_utc": "2026-07-24T14:46:12.000Z",
+      "timestamp_est": "2026-07-24T10:46:12-04:00",
+      "tweet_text": "As posted 40mins ago, volatility is dead which means \"lots of chop, traps, and be sure to take profits aggressively\". We held 7438 remains support which we just trapped, ran to 7447, 7459, then back down again.\n\n7412 below (watch traps here). Bears control under 7473 https://t.co/OssOKAR7gd",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7438, 7447, 7412 are morning-plan levels; 7459 is an observation of price action; 7473 is a reaffirmation-style bear control line, no new naming language for an unlisted price."
     }
   ]
 }
