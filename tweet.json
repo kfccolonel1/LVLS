@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T15:22:32.943876+00:00",
-  "fetched_at_est": "2026-07-24T11:22:32.943884-04:00",
+  "fetched_at_utc": "2026-07-24T15:32:35.131514+00:00",
+  "fetched_at_est": "2026-07-24T11:32:35.131523-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080313097969979732",
-      "timestamp_utc": "2026-07-23T15:24:27.000Z",
-      "timestamp_est": "2026-07-23T11:24:27-04:00",
-      "tweet_text": "@tanay1210 @purplehippbh The short periods don't last nearly as long though! Few hours, rarely a whole day. Then squeeze",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about market behavior duration \u2014 no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2080315164201513415",
       "timestamp_utc": "2026-07-23T15:32:40.000Z",
