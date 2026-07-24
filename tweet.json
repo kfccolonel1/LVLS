@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T18:33:38.865451+00:00",
-  "fetched_at_est": "2026-07-24T14:33:38.865456-04:00",
+  "fetched_at_utc": "2026-07-24T19:03:57.388076+00:00",
+  "fetched_at_est": "2026-07-24T15:03:57.388090-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -149,6 +149,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices mentioned at all; purely a conversational reply about trading philosophy with zero actionable levels."
+    },
+    {
+      "tweet_id": "2080728560289902934",
+      "timestamp_utc": "2026-07-24T18:55:21.000Z",
+      "timestamp_est": "2026-07-24T14:55:21-04:00",
+      "tweet_text": "Closing update #ES_F: Fairly straightforward session today and levels worked well. Work is done. 7438 was support, which we trapped and ran. 7474 was target, hit. 7506 remains above, then 7575. 7438 remains support, back now. Collapse below. Newsletter just sent with entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7438, 7474, 7506, 7575) are in the morning plan; tweet is a closing recap/reaffirmation with no new actionable prices named."
+    },
+    {
+      "tweet_id": "2080728813009268902",
+      "timestamp_utc": "2026-07-24T18:56:21.000Z",
+      "timestamp_est": "2026-07-24T14:56:21-04:00",
+      "tweet_text": "@jdswain3 Hopefully! Sunday gap downs my favorite trade. Big macro bull flag just completed though so may just want to rip direct, hopefully not",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about macro pattern and Sunday gap preference; no actionable price level named or implied."
     }
   ]
 }
