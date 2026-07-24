@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T12:01:43.228843+00:00",
-  "fetched_at_est": "2026-07-24T08:01:43.228848-04:00",
+  "fetched_at_utc": "2026-07-24T12:11:48.271540+00:00",
+  "fetched_at_est": "2026-07-24T08:11:48.271546-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -284,6 +284,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7447, 7438, 7474/7472\u22487474, 7506) are reaffirmations of morning plan levels; 7422/7473 are observations of prior price action, not new actionable levels."
+    },
+    {
+      "tweet_id": "2080626610869276815",
+      "timestamp_utc": "2026-07-24T12:10:14.000Z",
+      "timestamp_est": "2026-07-24T08:10:14-04:00",
+      "tweet_text": "@KevinJagiah That's how it is all on bears control days. My whole edge is based on this concept, ES almost never sells in straight lines. Its why \"bears\" won't typically make money even in downtrends because shorts are very fast and short lived then we squeeze. Nearly impossible to make money",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining market structure/trading philosophy. No price levels named, no actionable entries, targets, or triggers mentioned."
     }
   ]
 }
