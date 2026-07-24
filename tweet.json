@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T18:23:33.666654+00:00",
-  "fetched_at_est": "2026-07-24T14:23:33.666666-04:00",
+  "fetched_at_utc": "2026-07-24T18:33:38.865451+00:00",
+  "fetched_at_est": "2026-07-24T14:33:38.865456-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7438, 7472, 7506, 7575, 7458) are observations, hindsight refs, or reaffirmations of morning-plan levels. 7472 is a passing shelf reference, not named with actionable language."
+    },
+    {
+      "tweet_id": "2080721076087087169",
+      "timestamp_utc": "2026-07-24T18:25:37.000Z",
+      "timestamp_est": "2026-07-24T14:25:37-04:00",
+      "tweet_text": "@minifurutrader @GuidoVerweyen Many just don't understand what day trading is. I've got 0 interest in economics/macroeconomics/correlations. Find it very boring and has literally nothing to do with my job, which is about making money by exploiting a pattern based edge over a large sample",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; purely a conversational reply about trading philosophy with zero actionable levels."
     }
   ]
 }
