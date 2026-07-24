@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T13:12:03.530163+00:00",
-  "fetched_at_est": "2026-07-24T09:12:03.530168-04:00",
+  "fetched_at_utc": "2026-07-24T13:22:08.086751+00:00",
+  "fetched_at_est": "2026-07-24T09:22:08.086756-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080279897423880596",
-      "timestamp_utc": "2026-07-23T13:12:31.000Z",
-      "timestamp_est": "2026-07-23T09:12:31-04:00",
-      "tweet_text": "@investingpro12 My system doesn't buy red. Nothing wrong with it, many traders do but I never 1) Short and 2) Never buy red especially after a structural breakdown. If a range break like this sticks we could easily sell hundreds of points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely a philosophical/methodological commentary about not buying red or shorting after structural breakdown."
-    },
     {
       "tweet_id": "2080283034247389241",
       "timestamp_utc": "2026-07-23T13:24:59.000Z",
@@ -266,6 +257,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet discussing timelines with no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2080644278481568020",
+      "timestamp_utc": "2026-07-24T13:20:27.000Z",
+      "timestamp_est": "2026-07-24T09:20:27-04:00",
+      "tweet_text": "@alex_sidarenka We broke down a big support shelf causing a selloff, so bulls don't control again until that shelf recovers to invalidate it. It doesn't mean we cant bounce (the strongest bounces occur when bears control) but just don't expect them to last",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price levels named; purely conceptual commentary about support shelf breakdowns and bear-controlled bounces with no actionable prices."
     }
   ]
 }
