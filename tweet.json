@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T16:22:57.091730+00:00",
-  "fetched_at_est": "2026-07-24T12:22:57.091736-04:00",
+  "fetched_at_utc": "2026-07-24T16:33:05.646159+00:00",
+  "fetched_at_est": "2026-07-24T12:33:05.646164-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about trading philosophy (longs only, no shorting). No price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2080690600039346444",
+      "timestamp_utc": "2026-07-24T16:24:31.000Z",
+      "timestamp_est": "2026-07-24T12:24:31-04:00",
+      "tweet_text": "@ghoshdd I don't think that much! And I never predict anything bearish. I just react to triggers. Up here there are no triggers as they were all lower. 7506 is a big zone though, if it recovers I'd expect a large squeeze",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7506 is a morning-plan level (reaffirmation). Rest is conversational commentary about reactions/triggers with no new actionable price named."
     }
   ]
 }
