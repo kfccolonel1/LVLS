@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T13:32:10.130875+00:00",
-  "fetched_at_est": "2026-07-24T09:32:10.130884-04:00",
+  "fetched_at_utc": "2026-07-24T14:12:17.231218+00:00",
+  "fetched_at_est": "2026-07-24T10:12:17.231223-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -248,6 +248,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No specific price levels named; purely conceptual commentary about support shelf breakdowns and bear-controlled bounces with no actionable prices."
+    },
+    {
+      "tweet_id": "2080656234588316107",
+      "timestamp_utc": "2026-07-24T14:07:57.000Z",
+      "timestamp_est": "2026-07-24T10:07:57-04:00",
+      "tweet_text": "We are down to 7438 support in #ES_F and volatility is low again which means lots of chop, traps, and be sure to take profits aggressively. Bulls must push fast here and recover 47 now to work back to 7472 (bears control fully below there), then we head to 7506\n\n7412 is below now https://t.co/Qz2P4N7iBV",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7438, 7447\u224847, 7472\u22487474, 7506, 7412) are reaffirmations of morning-plan levels. No new actionable levels introduced."
     }
   ]
 }
