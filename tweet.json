@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T16:33:05.646159+00:00",
-  "fetched_at_est": "2026-07-24T12:33:05.646164-04:00",
+  "fetched_at_utc": "2026-07-24T16:53:09.149368+00:00",
+  "fetched_at_est": "2026-07-24T12:53:09.149374-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080333143446278249",
-      "timestamp_utc": "2026-07-23T16:44:06.000Z",
-      "timestamp_est": "2026-07-23T12:44:06-04:00",
-      "tweet_text": "For the first time in weeks today bears took control in #ES_F and shorts triggered on the failure of the multi-week 7473 shelf. We sold down to 7422 support, spent an hour there, trapped it briefly, then back up\n\n7447-53 reclaim takes us to the 7473 backtest. Bottoms in if clears https://t.co/BYQhtkhA8v",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7473, 7422, 7447-53\u21927450) are morning-plan levels or observations of price action; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2080342678961639854",
       "timestamp_utc": "2026-07-23T17:22:00.000Z",
