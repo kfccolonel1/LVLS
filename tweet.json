@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-24T13:01:58.869418+00:00",
-  "fetched_at_est": "2026-07-24T09:01:58.869423-04:00",
+  "fetched_at_utc": "2026-07-24T13:12:03.530163+00:00",
+  "fetched_at_est": "2026-07-24T09:12:03.530168-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2080279628363465011",
-      "timestamp_utc": "2026-07-23T13:11:27.000Z",
-      "timestamp_est": "2026-07-23T09:11:27-04:00",
-      "tweet_text": "We are working down levels nicely in #ES_F and excellent to see some range expansion after over 3 weeks in the same range. These expansions are rare in summer, so have to capitalize quickly. 7459 was next down, here now.\n\n7440, 7422 below. Full control to bears until 72 recovers https://t.co/efzBASVggR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7459, 7440, 7422) are morning-plan levels. '72 recovers' references 7472-area, also in plan. Pure reaffirmation/observation."
-    },
     {
       "tweet_id": "2080279897423880596",
       "timestamp_utc": "2026-07-23T13:12:31.000Z",
@@ -266,6 +257,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7473, 7447, 7438, 7506) are reaffirmations of morning-plan levels or prior references; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2080641365780652064",
+      "timestamp_utc": "2026-07-24T13:08:52.000Z",
+      "timestamp_est": "2026-07-24T09:08:52-04:00",
+      "tweet_text": "@OnTheHooch There's no timeline on it as I've always said, the longest I've seen was about 2 years but usually its within in a month or two. Probably 3-4 weeks average",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet discussing timelines with no price levels mentioned at all."
     }
   ]
 }
