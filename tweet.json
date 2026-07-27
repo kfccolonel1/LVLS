@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-27T04:22:12.417692+00:00",
-  "fetched_at_est": "2026-07-27T00:22:12.417698-04:00",
+  "fetched_at_utc": "2026-07-27T11:52:52.250356+00:00",
+  "fetched_at_est": "2026-07-27T07:52:52.250361-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -14,6 +14,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply with no price mentioned and no actionable level named."
+    },
+    {
+      "tweet_id": "2081706862076989761",
+      "timestamp_utc": "2026-07-27T11:42:46.000Z",
+      "timestamp_est": "2026-07-27T07:42:46-04:00",
+      "tweet_text": "Monday 8am and this weeks plan's already played out in #ES_F. Per Friday 3pm newsletter and tweets all day, 7434 was support. Held after 3pm. 7506 was my target all last week, tagged. \n\nPlan today: Now, we just ride our runner. 7506=support. 7533, 7547 next. 7490, 7459 below 7506 https://t.co/1QBHLgkzMC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7434, 7506, 7533, 7547, 7490, 7459) are reaffirmations or near-matches of morning plan levels; no new actionable levels introduced."
     }
   ]
 }
