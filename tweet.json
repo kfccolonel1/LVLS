@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-27T18:44:26.178900+00:00",
-  "fetched_at_est": "2026-07-27T14:44:26.178905-04:00",
+  "fetched_at_utc": "2026-07-27T19:14:35.175981+00:00",
+  "fetched_at_est": "2026-07-27T15:14:35.175992-04:00",
   "last_new_level_added_at_est": "2026-07-27T10:15:23-04:00",
   "todays_new_levels": [
     {
@@ -186,6 +186,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining market structure concepts; no specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2081818315844923542",
+      "timestamp_utc": "2026-07-27T19:05:39.000Z",
+      "timestamp_est": "2026-07-27T15:05:39-04:00",
+      "tweet_text": "Closing update #ES_F: Little left to do today in ES, but we got yet another trap of the 7434 zone that jumped ES 15+ points. 7434 remains the only zone for trades for now, until it unpins, after which we should move 100-150 points. Newsletter just sent with next set of entry",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7434 is a morning-plan level; '100-150 points' is distance commentary; no new actionable price named for the first time."
+    },
+    {
+      "tweet_id": "2081819320003289308",
+      "timestamp_utc": "2026-07-27T19:09:38.000Z",
+      "timestamp_est": "2026-07-27T15:09:38-04:00",
+      "tweet_text": "@tradivate @chrisAn00930062 Not much to it! Fairly obvious when price has momentum or doesn't. If its just sitting at the level and not going anywhere there's no momentum. You want to tbe pushing to the point where you feel you need to chase,",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading psychology/momentum; no price levels named or actionable calls made."
     }
   ]
 }
