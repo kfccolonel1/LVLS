@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-27T15:13:42.829901+00:00",
-  "fetched_at_est": "2026-07-27T11:13:42.829911-04:00",
+  "fetched_at_utc": "2026-07-27T16:13:54.226811+00:00",
+  "fetched_at_est": "2026-07-27T12:13:54.226819-04:00",
   "last_new_level_added_at_est": "2026-07-27T10:15:23-04:00",
   "todays_new_levels": [
     {
@@ -114,6 +114,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply giving trade management/profit-take guidance referencing 7447, 7453, 7458 \u2014 all existing plan levels or trade management, no new actionable level named."
+    },
+    {
+      "tweet_id": "2081773181686239737",
+      "timestamp_utc": "2026-07-27T16:06:18.000Z",
+      "timestamp_est": "2026-07-27T12:06:18-04:00",
+      "tweet_text": "@thebraithwaits It hit 7460. But the profit takes were at 47 and 53 per newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply referencing existing newsletter profit targets 7447/7453 area and price observation of 7460 hit \u2014 no new actionable level named."
+    },
+    {
+      "tweet_id": "2081774102839214549",
+      "timestamp_utc": "2026-07-27T16:09:58.000Z",
+      "timestamp_est": "2026-07-27T12:09:58-04:00",
+      "tweet_text": "The last 3 days have been all about 7434 in #ES_F with our only entry being 7434 traps. Trap #1 was late Friday, and we ran to 7506 target. Trap #2 was this morning, and we ran to 7458 target where I warned to lock in gains.\n\nNow 34 is weak and more likely to fail. Same upsides https://t.co/DxcMnJ2urC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7434, 7506, 7458) are morning-plan levels. Commentary is hindsight recap + trade management (lock in gains). No new actionable levels named."
     }
   ]
 }
