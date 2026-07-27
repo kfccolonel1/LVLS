@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-27T14:23:29.589315+00:00",
-  "fetched_at_est": "2026-07-27T10:23:29.589324-04:00",
+  "fetched_at_utc": "2026-07-27T15:13:42.829901+00:00",
+  "fetched_at_est": "2026-07-27T11:13:42.829911-04:00",
   "last_new_level_added_at_est": "2026-07-27T10:15:23-04:00",
   "todays_new_levels": [
     {
@@ -87,6 +87,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply describing general trading pattern with no specific actionable price levels named."
+    },
+    {
+      "tweet_id": "2081757945646235986",
+      "timestamp_utc": "2026-07-27T15:05:46.000Z",
+      "timestamp_est": "2026-07-27T11:05:46-04:00",
+      "tweet_text": "Very nice volatility pickup in #ES_F &amp; for those who missed the 7434 trap entry, we just got it again. Per newsletter sent Friday at 3pm, 7434 traps were our long. We got it late Friday, ran to 7506 target. We just got it again. Lock in gains here at 7458.\n\n7472, 7490, 7506 above https://t.co/lhm41V8zOA",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7434, 7458, 7472, 7490, 7506) are morning-plan levels or trade management (lock in gains). No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2081758871492690277",
+      "timestamp_utc": "2026-07-27T15:09:26.000Z",
+      "timestamp_est": "2026-07-27T11:09:26-04:00",
+      "tweet_text": "@bigwood340 Summer trading always easy! Just not many entries so need to capitalize on them when we get there",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary about summer trading conditions; no price level named or actionable instruction given."
+    },
+    {
+      "tweet_id": "2081759768440353232",
+      "timestamp_utc": "2026-07-27T15:13:00.000Z",
+      "timestamp_est": "2026-07-27T11:13:00-04:00",
+      "tweet_text": "@CorlukaDejan 47 would be the first profit take. technically 53 was the second but can push it to 58 if you want as well",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply giving trade management/profit-take guidance referencing 7447, 7453, 7458 \u2014 all existing plan levels or trade management, no new actionable level named."
     }
   ]
 }
