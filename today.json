@@ -3,11 +3,11 @@
   "daily_pivot": 7434,
   "regime_hint": "C4",
   "significant_lows": [
-    7458,
     7434,
     7411,
     7369,
-    7358
+    7358,
+    7311
   ],
   "bull_levels": [
     {
@@ -119,6 +119,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish-leaning but cautious after last week's range breakdown. He is waiting for ES to hold the 7434 support zone (or a quick dip and recovery below it), then expects a move up toward 7506, 7533, 7547, and 7575. The key pivot is 7434: above it bulls are in control and the path higher is open; below it bears take over and a breakdown short becomes possible. No events scheduled.",
-  "fetched_at": "2026-07-26T20:13:32.204431+00:00"
+  "notes": "Trader leans bullish for Monday. He expects ES to hold 7434 (or flush briefly below it and recover) then rally back up toward 7506, 7533, 7547, and 7575. He is already long with a small runner from Friday. The key pivot is 7434: above it bulls are in control and a push back into the monthly range is expected; below it bears take over and a breakdown short toward 7411 and lower becomes possible.",
+  "fetched_at": "2026-07-27T05:00:27.833335+00:00"
 }
