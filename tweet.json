@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-27T16:13:54.226811+00:00",
-  "fetched_at_est": "2026-07-27T12:13:54.226819-04:00",
+  "fetched_at_utc": "2026-07-27T17:04:07.095890+00:00",
+  "fetched_at_est": "2026-07-27T13:04:07.095903-04:00",
   "last_new_level_added_at_est": "2026-07-27T10:15:23-04:00",
   "todays_new_levels": [
     {
@@ -132,6 +132,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7434, 7506, 7458) are morning-plan levels. Commentary is hindsight recap + trade management (lock in gains). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2081785425035763943",
+      "timestamp_utc": "2026-07-27T16:54:57.000Z",
+      "timestamp_est": "2026-07-27T12:54:57-04:00",
+      "tweet_text": "@T_Ngo_T Bears still retain control because we havn't recovered either of the shelves that need to recover (7506 or 7575). Until those recover there's nothing bullish essentially and we should by default assume prices head lower",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7506 and 7575 are both morning-plan levels; tweet is a reaffirmation of bear bias using existing levels, no new actionable price named."
+    },
+    {
+      "tweet_id": "2081786284830343531",
+      "timestamp_utc": "2026-07-27T16:58:22.000Z",
+      "timestamp_est": "2026-07-27T12:58:22-04:00",
+      "tweet_text": "Mid-day chop in #ES_F. Protect profits, let risk free lotto runner work. Traps of 7434 remain the long. Trap #1 Friday took us to 7506 target. Trap #2 today took us to 7458 where I warned lock gains.\n\n7434 is now trappy, weak &amp;noisy. Must reclaim with vol to run the slate again https://t.co/VQjRpNybO4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7434, 7506, 7458) are morning-plan levels. No new actionable level introduced; tweet is trade management and hindsight commentary."
+    },
+    {
+      "tweet_id": "2081787509814530489",
+      "timestamp_utc": "2026-07-27T17:03:14.000Z",
+      "timestamp_est": "2026-07-27T13:03:14-04:00",
+      "tweet_text": "@rainydaystocks There was only two: 7506 (tested) and 7575 (not tested yet)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Both 7506 and 7575 are already in the morning plan; this is a reaffirmation/reply, not a new actionable level."
     }
   ]
 }
