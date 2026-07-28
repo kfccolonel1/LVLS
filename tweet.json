@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T11:56:06.428032+00:00",
-  "fetched_at_est": "2026-07-28T07:56:06.428047-04:00",
+  "fetched_at_utc": "2026-07-28T12:36:11.018943+00:00",
+  "fetched_at_est": "2026-07-28T08:36:11.018948-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081720300513694186",
-      "timestamp_utc": "2026-07-27T12:36:10.000Z",
-      "timestamp_est": "2026-07-27T08:36:10-04:00",
-      "tweet_text": "@PermaFader We got the 7434 test/trap multiple times after newsletter came out Friday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7434 is already in the morning plan; tweet is a hindsight observation of price action, not a new actionable level."
-    },
     {
       "tweet_id": "2081720523130589312",
       "timestamp_utc": "2026-07-27T12:37:03.000Z",
