@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T13:36:26.526357+00:00",
-  "fetched_at_est": "2026-07-28T09:36:26.526363-04:00",
+  "fetched_at_utc": "2026-07-28T13:46:32.195388+00:00",
+  "fetched_at_est": "2026-07-28T09:46:32.195393-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -197,6 +197,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7434, 7447, 7458, 7474, 7506) are morning-plan levels or reaffirmations/trade management references; 7447/7458 are trigger/target observations, not new named levels."
+    },
+    {
+      "tweet_id": "2082099494594736430",
+      "timestamp_utc": "2026-07-28T13:42:57.000Z",
+      "timestamp_est": "2026-07-28T09:42:57-04:00",
+      "tweet_text": "We are into pure chop here in #ES_F and still glued to the 7434 magnet zone which is weak and noisy after paying out dozens and dozens of points. Today's reclaim trigger was 7447 which got to 7458 (where I warned lock gains) and we sold. 7474, 7506 above\n\nSell to new low&lt;18 https://t.co/xBHQIgbuLP",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7434, 7474, 7506 are morning plan levels; 7447 reclaim trigger and 7458 gain-lock are trade management/observation references, not new named actionable levels."
     }
   ]
 }
