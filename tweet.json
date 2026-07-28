@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T15:06:53.468150+00:00",
-  "fetched_at_est": "2026-07-28T11:06:53.468157-04:00",
+  "fetched_at_utc": "2026-07-28T15:16:56.681434+00:00",
+  "fetched_at_est": "2026-07-28T11:16:56.681438-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081758871492690277",
-      "timestamp_utc": "2026-07-27T15:09:26.000Z",
-      "timestamp_est": "2026-07-27T11:09:26-04:00",
-      "tweet_text": "@bigwood340 Summer trading always easy! Just not many entries so need to capitalize on them when we get there",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational commentary about summer trading conditions; no price level named or actionable instruction given."
-    },
-    {
-      "tweet_id": "2081759768440353232",
-      "timestamp_utc": "2026-07-27T15:13:00.000Z",
-      "timestamp_est": "2026-07-27T11:13:00-04:00",
-      "tweet_text": "@CorlukaDejan 47 would be the first profit take. technically 53 was the second but can push it to 58 if you want as well",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply giving trade management/profit-take guidance referencing 7447, 7453, 7458 \u2014 all existing plan levels or trade management, no new actionable level named."
-    },
     {
       "tweet_id": "2081773181686239737",
       "timestamp_utc": "2026-07-27T16:06:18.000Z",
