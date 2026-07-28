@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T11:45:59.784963+00:00",
-  "fetched_at_est": "2026-07-28T07:45:59.784967-04:00",
+  "fetched_at_utc": "2026-07-28T11:56:06.428032+00:00",
+  "fetched_at_est": "2026-07-28T07:56:06.428047-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -197,6 +197,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7447 is named as a new actionable trigger ('must reclaim') not in the morning plan; 7434/7458/7474/7506/7418 are all existing plan levels."
+    },
+    {
+      "tweet_id": "2082070284308238431",
+      "timestamp_utc": "2026-07-28T11:46:53.000Z",
+      "timestamp_est": "2026-07-28T07:46:53-04:00",
+      "tweet_text": "@disciple33 Its quite rare for me to wait 5 minutes (its typically something like 1-3 minutes but it all depends on momentum). If price is ripping through violently (which I always need to see) usually a couple mins I can chase in. If price is just hoverng around the NAP trigger and drifting",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply explaining trade entry timing methodology. No prices named, no actionable levels, pure process commentary."
+    },
+    {
+      "tweet_id": "2082070912371724460",
+      "timestamp_utc": "2026-07-28T11:49:23.000Z",
+      "timestamp_est": "2026-07-28T07:49:23-04:00",
+      "tweet_text": "@purplehippbh @tradivate @chrisAn00930062 That's fine. I make very little from runners (they are only 10% in my case and they all end up stopped out eventually), they are just a psychological tool to prevent overtrading for the most part.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; tweet is a conversational reply about trading psychology and runner management strategy."
     }
   ]
 }
