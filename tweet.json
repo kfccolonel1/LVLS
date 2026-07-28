@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T17:07:21.975126+00:00",
-  "fetched_at_est": "2026-07-28T13:07:21.975136-04:00",
+  "fetched_at_utc": "2026-07-28T17:17:25.109622+00:00",
+  "fetched_at_est": "2026-07-28T13:17:25.109630-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081789670917099836",
-      "timestamp_utc": "2026-07-27T17:11:49.000Z",
-      "timestamp_est": "2026-07-27T13:11:49-04:00",
-      "tweet_text": "@RizOyt Its below 7434. We don't want to predict anything though (we don't predict if price will go lower or higher). I only react if 7434 reclaims to the upside to meet NAP criteria with momentum. Otherwise no trades until next newsletter entry down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7434 is already in the morning plan; this is a reaffirmation of that level with trade management context, not a new actionable level."
-    },
     {
       "tweet_id": "2081791691573342297",
       "timestamp_utc": "2026-07-27T17:19:51.000Z",
