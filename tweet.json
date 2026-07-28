@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T16:07:08.389423+00:00",
-  "fetched_at_est": "2026-07-28T12:07:08.389431-04:00",
+  "fetched_at_utc": "2026-07-28T16:17:10.543391+00:00",
+  "fetched_at_est": "2026-07-28T12:17:10.543398-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081774102839214549",
-      "timestamp_utc": "2026-07-27T16:09:58.000Z",
-      "timestamp_est": "2026-07-27T12:09:58-04:00",
-      "tweet_text": "The last 3 days have been all about 7434 in #ES_F with our only entry being 7434 traps. Trap #1 was late Friday, and we ran to 7506 target. Trap #2 was this morning, and we ran to 7458 target where I warned to lock in gains.\n\nNow 34 is weak and more likely to fail. Same upsides https://t.co/DxcMnJ2urC",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7434, 7506, 7458) are morning-plan levels. Commentary is hindsight recap + trade management (lock in gains). No new actionable levels named."
-    },
     {
       "tweet_id": "2081785425035763943",
       "timestamp_utc": "2026-07-27T16:54:57.000Z",
