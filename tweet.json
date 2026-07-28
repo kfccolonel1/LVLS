@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T17:27:27.167931+00:00",
-  "fetched_at_est": "2026-07-28T13:27:27.167937-04:00",
+  "fetched_at_utc": "2026-07-28T18:17:35.853312+00:00",
+  "fetched_at_est": "2026-07-28T14:17:35.853316-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -152,6 +152,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a social reply thanking a subscriber. No price levels or actionable language whatsoever."
+    },
+    {
+      "tweet_id": "2082167704467677211",
+      "timestamp_utc": "2026-07-28T18:14:00.000Z",
+      "timestamp_est": "2026-07-28T14:14:00-04:00",
+      "tweet_text": "There is little to do now in #ES_F. 7418 was must hold support today (we will collapse deeply below). We held it, and back up range. 7418-7506=range. Targets given were 7458 (hit), 7474 (hit), then 7506. Once 7506 recovers, ES should see a substantial rally to 7575+.\n\nRide runner https://t.co/B9M3k9DaVb",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7418, 7458, 7474, 7506, 7575) are morning-plan levels or prior targets. Tweet is trade management/reaffirmation with no newly named actionable levels."
     }
   ]
 }
