@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T12:46:15.622441+00:00",
-  "fetched_at_est": "2026-07-28T08:46:15.622446-04:00",
+  "fetched_at_utc": "2026-07-28T12:56:20.737791+00:00",
+  "fetched_at_est": "2026-07-28T08:56:20.737796-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -206,6 +206,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7506 is already in the morning plan; this is a reaffirmation of that level as a bear/bull pivot, not a new level."
+    },
+    {
+      "tweet_id": "2082086688856174655",
+      "timestamp_utc": "2026-07-28T12:52:04.000Z",
+      "timestamp_est": "2026-07-28T08:52:04-04:00",
+      "tweet_text": "Good level to level move in #ES_F to start and as discussed extensively here and in newsletter, 7434 is only lvl that matters, paying us dozens and dozens of points. Its weak now. Today's reclaim trigger was 7447. 1st target was 7458 (lock gains here), 7474, 7506 next for runner https://t.co/TKJTQcw9Sc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7434, 7447, 7458, 7474, 7506) are morning-plan levels or reaffirmations/trade management references; 7447/7458 are trigger/target observations, not new named levels."
     }
   ]
 }
