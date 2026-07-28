@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T14:26:48.998570+00:00",
-  "fetched_at_est": "2026-07-28T10:26:48.998575-04:00",
+  "fetched_at_utc": "2026-07-28T15:06:53.468150+00:00",
+  "fetched_at_est": "2026-07-28T11:06:53.468157-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081757945646235986",
-      "timestamp_utc": "2026-07-27T15:05:46.000Z",
-      "timestamp_est": "2026-07-27T11:05:46-04:00",
-      "tweet_text": "Very nice volatility pickup in #ES_F &amp; for those who missed the 7434 trap entry, we just got it again. Per newsletter sent Friday at 3pm, 7434 traps were our long. We got it late Friday, ran to 7506 target. We just got it again. Lock in gains here at 7458.\n\n7472, 7490, 7506 above https://t.co/lhm41V8zOA",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7434, 7458, 7472, 7490, 7506) are morning-plan levels or trade management (lock in gains). No new actionable levels introduced."
-    },
     {
       "tweet_id": "2081758871492690277",
       "timestamp_utc": "2026-07-27T15:09:26.000Z",
