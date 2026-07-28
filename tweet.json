@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T16:17:10.543391+00:00",
-  "fetched_at_est": "2026-07-28T12:17:10.543398-04:00",
+  "fetched_at_utc": "2026-07-28T16:47:17.714549+00:00",
+  "fetched_at_est": "2026-07-28T12:47:17.714553-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -188,6 +188,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user with no price mentioned and no actionable level named. Pure conversational comment."
+    },
+    {
+      "tweet_id": "2082144809569968329",
+      "timestamp_utc": "2026-07-28T16:43:01.000Z",
+      "timestamp_est": "2026-07-28T12:43:01-04:00",
+      "tweet_text": "@Kyy937 Appreciate the subscribe!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a social reply thanking a subscriber. No price levels or actionable language whatsoever."
     }
   ]
 }
