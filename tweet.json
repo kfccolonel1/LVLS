@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T18:57:57.489116+00:00",
-  "fetched_at_est": "2026-07-28T14:57:57.489121-04:00",
+  "fetched_at_utc": "2026-07-28T19:07:59.642124+00:00",
+  "fetched_at_est": "2026-07-28T15:07:59.642130-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081818315844923542",
-      "timestamp_utc": "2026-07-27T19:05:39.000Z",
-      "timestamp_est": "2026-07-27T15:05:39-04:00",
-      "tweet_text": "Closing update #ES_F: Little left to do today in ES, but we got yet another trap of the 7434 zone that jumped ES 15+ points. 7434 remains the only zone for trades for now, until it unpins, after which we should move 100-150 points. Newsletter just sent with next set of entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7434 is a morning-plan level; '100-150 points' is distance commentary; no new actionable price named for the first time."
-    },
     {
       "tweet_id": "2081819320003289308",
       "timestamp_utc": "2026-07-27T19:09:38.000Z",
