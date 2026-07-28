@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T14:16:43.324537+00:00",
-  "fetched_at_est": "2026-07-28T10:16:43.324541-04:00",
+  "fetched_at_utc": "2026-07-28T14:26:48.998570+00:00",
+  "fetched_at_est": "2026-07-28T10:26:48.998575-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081745903212278045",
-      "timestamp_utc": "2026-07-27T14:17:54.000Z",
-      "timestamp_est": "2026-07-27T10:17:54-04:00",
-      "tweet_text": "@patalaportfolio Thanks! Same sequence over and over though in ES. Elevator down, trap,short squeeze, backtest, repeat. Just have to know the levels that each occurs and then its just running the same process day in and out",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply describing general trading pattern with no specific actionable price levels named."
-    },
     {
       "tweet_id": "2081757945646235986",
       "timestamp_utc": "2026-07-27T15:05:46.000Z",
@@ -213,6 +204,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining Failed Breakdown concept; no specific actionable price named, just general market commentary about elevator down moves."
+    },
+    {
+      "tweet_id": "2082110280222306307",
+      "timestamp_utc": "2026-07-28T14:25:49.000Z",
+      "timestamp_est": "2026-07-28T10:25:49-04:00",
+      "tweet_text": "Pure chop in #ES_F still and its all about the 7434 magnet still. Bulls had to hold 7418 today to prevent a trip to new lows. We just sold down to 7418, held, and returned to the 7434 magnet.\n\n7447 must recover to see 7458 (hit once), 7474, then 7506. Hard sell if we lose 18 now https://t.co/vxIOtNdTZv",
+      "added_bull_levels": [
+        7447.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7447 named as new actionable trigger ('must recover') to unlock 7458/7474/7506. 7458 is new but close to 7459 morning plan level \u2014 treated as reaffirmation. All others are morning plan levels."
     }
   ]
 }
