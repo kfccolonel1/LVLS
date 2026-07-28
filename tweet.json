@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T14:06:37.648287+00:00",
-  "fetched_at_est": "2026-07-28T10:06:37.648291-04:00",
+  "fetched_at_utc": "2026-07-28T14:16:43.324537+00:00",
+  "fetched_at_est": "2026-07-28T10:16:43.324541-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,17 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081745270044299345",
-      "timestamp_utc": "2026-07-27T14:15:23.000Z",
-      "timestamp_est": "2026-07-27T10:15:23-04:00",
-      "tweet_text": "Clean action to start today and finally a little vol to work with in #ES_F. My target all last week was 7506. 7434 traps were out entry (given here and in newsletter Friday), and we clipped 7506. \n\nToday's supports were 7490, 7458. 90 must reclaim now to pop to 7506+ again. https://t.co/XZ9EcrVI8o",
-      "added_bull_levels": [
-        7490.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7490 named as a new intraday support level not in the morning plan, with explicit actionable language ('must reclaim now to pop to 7506+')."
-    },
     {
       "tweet_id": "2081745903212278045",
       "timestamp_utc": "2026-07-27T14:17:54.000Z",
@@ -215,6 +204,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7506 is already in the morning plan; this is a reaffirmation of an existing level, not a new one."
+    },
+    {
+      "tweet_id": "2082106604401340864",
+      "timestamp_utc": "2026-07-28T14:11:12.000Z",
+      "timestamp_est": "2026-07-28T10:11:12-04:00",
+      "tweet_text": "@AStendorr @PeriHelion96002 Red is always bullish because it means it sets up a Failed Breakdown and squeeze. But we havnt had any elevator downs recently we are just chopping. If we get a big 100-200 point elevator down that is always bullish",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining Failed Breakdown concept; no specific actionable price named, just general market commentary about elevator down moves."
     }
   ]
 }
