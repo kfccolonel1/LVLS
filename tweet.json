@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-28T15:57:06.219166+00:00",
-  "fetched_at_est": "2026-07-28T11:57:06.219175-04:00",
+  "fetched_at_utc": "2026-07-28T16:07:08.389423+00:00",
+  "fetched_at_est": "2026-07-28T12:07:08.389431-04:00",
   "last_new_level_added_at_est": "2026-07-28T07:45:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2081773181686239737",
-      "timestamp_utc": "2026-07-27T16:06:18.000Z",
-      "timestamp_est": "2026-07-27T12:06:18-04:00",
-      "tweet_text": "@thebraithwaits It hit 7460. But the profit takes were at 47 and 53 per newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply referencing existing newsletter profit targets 7447/7453 area and price observation of 7460 hit \u2014 no new actionable level named."
-    },
     {
       "tweet_id": "2081774102839214549",
       "timestamp_utc": "2026-07-27T16:09:58.000Z",
