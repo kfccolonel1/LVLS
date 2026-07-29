@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T14:20:15.687811+00:00",
-  "fetched_at_est": "2026-07-29T10:20:15.687820-04:00",
+  "fetched_at_utc": "2026-07-29T14:30:22.452871+00:00",
+  "fetched_at_est": "2026-07-29T10:30:22.452875-04:00",
   "last_new_level_added_at_est": "2026-07-29T10:06:43-04:00",
   "todays_new_levels": [
     {
@@ -21,17 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082110280222306307",
-      "timestamp_utc": "2026-07-28T14:25:49.000Z",
-      "timestamp_est": "2026-07-28T10:25:49-04:00",
-      "tweet_text": "Pure chop in #ES_F still and its all about the 7434 magnet still. Bulls had to hold 7418 today to prevent a trip to new lows. We just sold down to 7418, held, and returned to the 7434 magnet.\n\n7447 must recover to see 7458 (hit once), 7474, then 7506. Hard sell if we lose 18 now https://t.co/vxIOtNdTZv",
-      "added_bull_levels": [
-        7447.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7447 named as new actionable trigger ('must recover') to unlock 7458/7474/7506. 7458 is new but close to 7459 morning plan level \u2014 treated as reaffirmation. All others are morning plan levels."
-    },
     {
       "tweet_id": "2082131168640545279",
       "timestamp_utc": "2026-07-28T15:48:49.000Z",
@@ -181,6 +170,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet, no prices mentioned at all \u2014 purely conversational comment about FOMC/earnings volatility."
+    },
+    {
+      "tweet_id": "2082473288857485739",
+      "timestamp_utc": "2026-07-29T14:28:17.000Z",
+      "timestamp_est": "2026-07-29T10:28:17-04:00",
+      "tweet_text": "Good vol pickup to start in #ES_F, but all noise until FOMC. 7458 was weak support as posted, and we lost it and failed. 7418 shelf was next and we lost it and collapsed. Bulls must recover 7418 now to rip today back to 7434, 7458.\n\nPer newsletter (7398 - just tested), 7358 below https://t.co/ZZqWb5es7a",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7458, 7418, 7434, 7398, 7358) are either morning-plan levels or reaffirmations/observations of existing levels; no new actionable levels introduced."
     }
   ]
 }
