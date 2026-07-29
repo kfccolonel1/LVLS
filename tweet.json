@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T15:00:47.789557+00:00",
-  "fetched_at_est": "2026-07-29T11:00:47.789561-04:00",
-  "last_new_level_added_at_est": "2026-07-29T10:06:43-04:00",
+  "fetched_at_utc": "2026-07-29T15:10:54.298156+00:00",
+  "fetched_at_est": "2026-07-29T11:10:54.298161-04:00",
+  "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
       "price": 7494.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-07-29T10:06:43-04:00",
       "expires_at_est": "2026-07-29T18:06:43-04:00",
       "from_tweet_id": "2082467861067423974"
+    },
+    {
+      "price": 7398.0,
+      "side": "bear",
+      "added_at_est": "2026-07-29T11:06:05-04:00",
+      "expires_at_est": "2026-07-29T19:06:05-04:00",
+      "from_tweet_id": "2082482803686449394"
     }
   ],
   "updates": [
@@ -224,6 +231,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7398 is an observation of price action; 7418 is a reaffirmation of a morning plan level. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2082482803686449394",
+      "timestamp_utc": "2026-07-29T15:06:05.000Z",
+      "timestamp_est": "2026-07-29T11:06:05-04:00",
+      "tweet_text": "Noise now until FOMC. 7398 support and #ES_F likes it here. 7418 now resistance which is the \"bull/bear line\" today. Bulls need to recover it to regain any control (and recover 7506 to regain full control). 7434, 7458, 7474+ when they do.\n\n7398, 7364, 7358 (big support) below https://t.co/plHi5hzLUR",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7398.0
+      ],
+      "notes": "7398 named explicitly as support and 'bull/bear line' context \u2014 not in morning plan. All other levels (7418, 7506, 7434, 7458, 7474, 7364, 7358) are morning-plan reaffirmations."
     }
   ]
 }
