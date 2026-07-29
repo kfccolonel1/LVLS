@@ -1,26 +1,17 @@
 {
-  "session_date": "2026-07-28",
+  "session_date": "2026-07-29",
   "daily_pivot": 7506.0,
-  "regime_hint": "C2",
+  "regime_hint": "C5",
   "significant_lows": [
+    7418.0,
     7434.0,
-    7417.0,
-    7412.0,
-    7398.0,
-    7369.0,
-    7358.0
+    7458.0,
+    7358.0,
+    7311.0
   ],
   "bull_levels": [
     {
-      "price": 7459.0,
-      "major": true
-    },
-    {
       "price": 7474.0,
-      "major": true
-    },
-    {
-      "price": 7490.0,
       "major": true
     },
     {
@@ -36,23 +27,15 @@
       "major": true
     },
     {
-      "price": 7563.0,
+      "price": 7574.0,
       "major": true
     },
     {
-      "price": 7575.0,
+      "price": 7614.0,
       "major": true
     },
     {
-      "price": 7587.0,
-      "major": true
-    },
-    {
-      "price": 7612.0,
-      "major": true
-    },
-    {
-      "price": 7628.0,
+      "price": 7624.0,
       "major": true
     },
     {
@@ -60,7 +43,11 @@
       "major": true
     },
     {
-      "price": 7668.0,
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7667.0,
       "major": true
     },
     {
@@ -68,11 +55,31 @@
       "major": true
     },
     {
-      "price": 7724.0,
+      "price": 7703.0,
+      "major": true
+    },
+    {
+      "price": 7744.0,
+      "major": true
+    },
+    {
+      "price": 7763.0,
+      "major": true
+    },
+    {
+      "price": 7790.0,
+      "major": true
+    },
+    {
+      "price": 7817.0,
       "major": true
     }
   ],
   "bear_levels": [
+    {
+      "price": 7458.0,
+      "major": true
+    },
     {
       "price": 7434.0,
       "major": true
@@ -82,48 +89,42 @@
       "major": true
     },
     {
-      "price": 7398.0,
+      "price": 7391.0,
       "major": true
     },
     {
-      "price": 7383.0,
+      "price": 7374.0,
       "major": true
     },
     {
-      "price": 7363.0,
+      "price": 7364.0,
       "major": true
     },
     {
-      "price": 7351.0,
+      "price": 7342.0,
       "major": true
     },
     {
-      "price": 7336.0,
+      "price": 7319.0,
       "major": true
     },
     {
-      "price": 7312.0,
+      "price": 7304.0,
       "major": true
     },
     {
-      "price": 7295.0,
+      "price": 7296.0,
       "major": true
     },
     {
-      "price": 7275.0,
-      "major": true
-    },
-    {
-      "price": 7263.0,
-      "major": true
-    },
-    {
-      "price": 7244.0,
+      "price": 7276.0,
       "major": true
     }
   ],
-  "event_times": [],
-  "event_day": false,
-  "notes": "Trader is holding a long runner from the 7434 Failed Breakdown and leans bullish but cautious. The key pivot is 7506: bulls need to reclaim it to resume the rally toward 7575+. Below 7506, 7434 is the main support shelf \u2014 recovering it again targets 7459 then 7506. If 7434 fails and 7398 breaks, the bias shifts bearish toward 7369 and 7358. No trades are planned unless price flushes a significant low and recovers cleanly.",
-  "fetched_at": "2026-07-28T05:00:18.309873+00:00"
+  "event_times": [
+    1753808400000
+  ],
+  "event_day": true,
+  "notes": "FOMC day (2pm). ES is rangebound between 7418 (support shelf with multiple touches) and 7506 (broken support now acting as resistance). Trader leans bullish - expects a breakout above 7506 targeting 7533, 7575, then 7627. Key pivot is 7506: bulls need to reclaim it for a proper rally; below 7418 flips bearish and opens a fast drop. Will watch for failed-breakdown entries at 7458 or 7418 before engaging.",
+  "fetched_at": "2026-07-29T05:00:17.039685+00:00"
 }
