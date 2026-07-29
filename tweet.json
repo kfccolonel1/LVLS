@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T18:52:20.396361+00:00",
-  "fetched_at_est": "2026-07-29T14:52:20.396373-04:00",
+  "fetched_at_utc": "2026-07-29T19:02:29.239266+00:00",
+  "fetched_at_est": "2026-07-29T15:02:29.239273-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082178218832839017",
-      "timestamp_utc": "2026-07-28T18:55:47.000Z",
-      "timestamp_est": "2026-07-28T14:55:47-04:00",
-      "tweet_text": "@OnTheHooch @tradivate Shelf at 7418. Price keeps bouncing there exact rather than sweeping below and recovering",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7418 is already in the morning plan. This is an observation of price action ('keeps bouncing there') not a new actionable level."
-    },
     {
       "tweet_id": "2082181447964610620",
       "timestamp_utc": "2026-07-28T19:08:36.000Z",
@@ -336,6 +327,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; pure commentary about expected movement with no actionable price named."
+    },
+    {
+      "tweet_id": "2082540050751852916",
+      "timestamp_utc": "2026-07-29T18:53:34.000Z",
+      "timestamp_est": "2026-07-29T14:53:34-04:00",
+      "tweet_text": "@KevinJagiah Very clean. For those new to the Failed Breakdown strategy this has been one of the clearer examples in the last few months. Big elevator down, shelf recovery, squeeze.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Educational reply describing FBD pattern mechanics; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2082540092027981930",
+      "timestamp_utc": "2026-07-29T18:53:44.000Z",
+      "timestamp_est": "2026-07-29T14:53:44-04:00",
+      "tweet_text": "@es_trader_day I am usually on a 10min or a 15min",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about chart timeframe preference. No price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2082540195396661396",
+      "timestamp_utc": "2026-07-29T18:54:08.000Z",
+      "timestamp_est": "2026-07-29T14:54:08-04:00",
+      "tweet_text": "@OnTheHooch FOMC might've taken all the good entries. Nothing good now unless we sell back below 7418!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7418 is already in the morning plan; comment is conditional/conversational, not a new actionable level introduction."
     }
   ]
 }
