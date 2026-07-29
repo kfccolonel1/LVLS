@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T19:02:29.239266+00:00",
-  "fetched_at_est": "2026-07-29T15:02:29.239273-04:00",
+  "fetched_at_utc": "2026-07-29T19:12:31.339984+00:00",
+  "fetched_at_est": "2026-07-29T15:12:31.339992-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082181447964610620",
-      "timestamp_utc": "2026-07-28T19:08:36.000Z",
-      "timestamp_est": "2026-07-28T15:08:36-04:00",
-      "tweet_text": "Closing update #ES_F: Newsletter sent early in preparation for FOMC. 7458 now support, and its essential bulls hold 7418 now or we collapse. 7506 next, then breakout to 7506+",
-      "added_bull_levels": [
-        7458.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7458 named as 'now support' \u2014 new actionable level not in morning plan. 7418 and 7506 are reaffirmations of morning-plan levels, not new."
-    },
     {
       "tweet_id": "2082433059928895727",
       "timestamp_utc": "2026-07-29T11:48:25.000Z",
