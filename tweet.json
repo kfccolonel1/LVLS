@@ -1,20 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T12:49:42.342200+00:00",
-  "fetched_at_est": "2026-07-29T08:49:42.342204-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-07-29T12:59:50.654308+00:00",
+  "fetched_at_est": "2026-07-29T08:59:50.654312-04:00",
+  "last_new_level_added_at_est": "2026-07-29T08:50:00-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2082086688856174655",
-      "timestamp_utc": "2026-07-28T12:52:04.000Z",
-      "timestamp_est": "2026-07-28T08:52:04-04:00",
-      "tweet_text": "Good level to level move in #ES_F to start and as discussed extensively here and in newsletter, 7434 is only lvl that matters, paying us dozens and dozens of points. Its weak now. Today's reclaim trigger was 7447. 1st target was 7458 (lock gains here), 7474, 7506 next for runner https://t.co/TKJTQcw9Sc",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7434, 7447, 7458, 7474, 7506) are morning-plan levels or reaffirmations/trade management references; 7447/7458 are trigger/target observations, not new named levels."
-    },
+      "price": 7494.0,
+      "side": "bull",
+      "added_at_est": "2026-07-29T08:50:00-04:00",
+      "expires_at_est": "2026-07-29T16:50:00-04:00",
+      "from_tweet_id": "2082448558096035989"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2082099494594736430",
       "timestamp_utc": "2026-07-28T13:42:57.000Z",
@@ -144,6 +143,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with no specific price named; no actionable level introduced."
+    },
+    {
+      "tweet_id": "2082448558096035989",
+      "timestamp_utc": "2026-07-29T12:50:00.000Z",
+      "timestamp_est": "2026-07-29T08:50:00-04:00",
+      "tweet_text": "Levels working precisely to start the day in #ES_F, all noise until 2pm. 7458 was support, and we just dipped there, held, went +10. This zone is very weak now and we got a big long there last eve on the trap from newsletter.\n\n7494, 7506+ (huge breakout above). 7434, 7418=support https://t.co/lrD6Y3CfIK",
+      "added_bull_levels": [
+        7494.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7494 is named as a resistance/breakout trigger not in morning plan; 7506, 7434, 7418 are all existing morning levels and are reaffirmations."
     }
   ]
 }
