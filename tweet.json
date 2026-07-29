@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T16:01:01.254248+00:00",
-  "fetched_at_est": "2026-07-29T12:01:01.254255-04:00",
+  "fetched_at_utc": "2026-07-29T16:21:07.293627+00:00",
+  "fetched_at_est": "2026-07-29T12:21:07.293632-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -224,6 +224,15 @@
         7398.0
       ],
       "notes": "7398 named explicitly as support and 'bull/bear line' context \u2014 not in morning plan. All other levels (7418, 7506, 7434, 7458, 7474, 7364, 7358) are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2082501140638249405",
+      "timestamp_utc": "2026-07-29T16:18:57.000Z",
+      "timestamp_est": "2026-07-29T12:18:57-04:00",
+      "tweet_text": "Dip continues in #ES_F and little do, all noise until FOMC. 7418 was key support down as posted with \"collapse below\" as posted at 8am, and its the bull/bear line. Bulls must recover 7418 after FOMC to resume back up to 7434+\n\n7364, 7358 (watch traps) remain below from here https://t.co/due90HObdL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7418, 7434, 7364, 7358) are in the morning plan. Tweet is reaffirmation/commentary on existing levels, no new actionable levels introduced."
     }
   ]
 }
