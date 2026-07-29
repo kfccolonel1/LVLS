@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T18:21:59.973575+00:00",
-  "fetched_at_est": "2026-07-29T14:21:59.973588-04:00",
+  "fetched_at_utc": "2026-07-29T18:42:12.912512+00:00",
+  "fetched_at_est": "2026-07-29T14:42:12.912517-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082174621567115421",
-      "timestamp_utc": "2026-07-28T18:41:29.000Z",
-      "timestamp_est": "2026-07-28T14:41:29-04:00",
-      "tweet_text": "@tradivate Usually when you see a shelf like that when it does fail it;ll fail for good",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with general commentary about shelf failures; no price named, no actionable level, no naming language."
-    },
     {
       "tweet_id": "2082175130172543152",
       "timestamp_utc": "2026-07-28T18:43:30.000Z",
@@ -327,6 +318,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7418 is already in the morning plan; tweet is a hindsight reaffirmation referencing an earlier post, not a new actionable level."
+    },
+    {
+      "tweet_id": "2082535589551681816",
+      "timestamp_utc": "2026-07-29T18:35:50.000Z",
+      "timestamp_est": "2026-07-29T14:35:50-04:00",
+      "tweet_text": "Note: With the 7418 Failed Breakdown having played out to 7434+, just sit in a runner now. Meta and MSFT earnings are after hours, and newsletter will be sent out now with next entries as there is new structure here that needs to be traded very soon",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new prices named; 7418 and 7434 are morning-plan levels. 'New structure' is vague commentary with no explicit actionable price given."
     }
   ]
 }
