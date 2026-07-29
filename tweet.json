@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T16:21:07.293627+00:00",
-  "fetched_at_est": "2026-07-29T12:21:07.293632-04:00",
+  "fetched_at_utc": "2026-07-29T16:31:17.481466+00:00",
+  "fetched_at_est": "2026-07-29T12:31:17.481473-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -233,6 +233,35 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7418, 7434, 7364, 7358) are in the morning plan. Tweet is reaffirmation/commentary on existing levels, no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2082501746337653192",
+      "timestamp_utc": "2026-07-29T16:21:21.000Z",
+      "timestamp_est": "2026-07-29T12:21:21-04:00",
+      "tweet_text": "@BrianMelcher24 Slow day! Should pick up after FOMC though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about market conditions; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2082501910800613868",
+      "timestamp_utc": "2026-07-29T16:22:01.000Z",
+      "timestamp_est": "2026-07-29T12:22:01-04:00",
+      "tweet_text": "@SirBoofingqqv I keep the same size. The best longs are when bears control",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with trading philosophy, no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2082503094730907650",
+      "timestamp_utc": "2026-07-29T16:26:43.000Z",
+      "timestamp_est": "2026-07-29T12:26:43-04:00",
+      "tweet_text": "Note: Recoveries of 7398 are a lower quality long to take us back to 7418",
+      "added_bull_levels": [
+        7398.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7398 named explicitly as a recovery/entry trigger for longs \u2014 actionable new level not in morning plan."
     }
   ]
 }
