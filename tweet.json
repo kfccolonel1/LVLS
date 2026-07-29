@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T18:01:51.875824+00:00",
-  "fetched_at_est": "2026-07-29T14:01:51.875829-04:00",
+  "fetched_at_utc": "2026-07-29T18:21:59.973575+00:00",
+  "fetched_at_est": "2026-07-29T14:21:59.973588-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082167704467677211",
-      "timestamp_utc": "2026-07-28T18:14:00.000Z",
-      "timestamp_est": "2026-07-28T14:14:00-04:00",
-      "tweet_text": "There is little to do now in #ES_F. 7418 was must hold support today (we will collapse deeply below). We held it, and back up range. 7418-7506=range. Targets given were 7458 (hit), 7474 (hit), then 7506. Once 7506 recovers, ES should see a substantial rally to 7575+.\n\nRide runner https://t.co/B9M3k9DaVb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7418, 7458, 7474, 7506, 7575) are morning-plan levels or prior targets. Tweet is trade management/reaffirmation with no newly named actionable levels."
-    },
     {
       "tweet_id": "2082174621567115421",
       "timestamp_utc": "2026-07-28T18:41:29.000Z",
@@ -318,6 +309,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7418, 7434, 7458, 7474, 7506) are morning plan levels. Trade management advice only; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2082530602570682412",
+      "timestamp_utc": "2026-07-29T18:16:01.000Z",
+      "timestamp_est": "2026-07-29T14:16:01-04:00",
+      "tweet_text": "@poker848768148 I give the entries out. I gave the 7418 entry 4-5x since 8am including saying 7418 must recover after FOMC. We triggered prior to FOMC.  I can't press the  buttons for you. The entry was also given out in the newsletter. All together I mentioned that trade close to 10 times in",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7418 is a morning-plan level; tweet is a defensive reply about prior entries given, not introducing any new actionable level."
+    },
+    {
+      "tweet_id": "2082530842081988953",
+      "timestamp_utc": "2026-07-29T18:16:58.000Z",
+      "timestamp_est": "2026-07-29T14:16:58-04:00",
+      "tweet_text": "@poker848768148 At 12:18PM, I posted \"7418 must recover after FOMC\". We recovered after FOMC. Can press the button and buy if you want, or not! https://t.co/3AXnx2CJfR",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7418 is already in the morning plan; tweet is a hindsight reaffirmation referencing an earlier post, not a new actionable level."
     }
   ]
 }
