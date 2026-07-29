@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T18:42:12.912512+00:00",
-  "fetched_at_est": "2026-07-29T14:42:12.912517-04:00",
+  "fetched_at_utc": "2026-07-29T18:52:20.396361+00:00",
+  "fetched_at_est": "2026-07-29T14:52:20.396373-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082175130172543152",
-      "timestamp_utc": "2026-07-28T18:43:30.000Z",
-      "timestamp_est": "2026-07-28T14:43:30-04:00",
-      "tweet_text": "@KeyurMulani786 I don't really believe anything nor do I predict. But if we recover 7506 that its a very bullish breakout and 7575 is a conservative target",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7506 and 7575 are both already in the morning plan; this is a reaffirmation of existing levels in a conversational reply, not a new major level."
-    },
     {
       "tweet_id": "2082178218832839017",
       "timestamp_utc": "2026-07-28T18:55:47.000Z",
@@ -327,6 +318,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No new prices named; 7418 and 7434 are morning-plan levels. 'New structure' is vague commentary with no explicit actionable price given."
+    },
+    {
+      "tweet_id": "2082538319909441921",
+      "timestamp_utc": "2026-07-29T18:46:41.000Z",
+      "timestamp_est": "2026-07-29T14:46:41-04:00",
+      "tweet_text": "Straightforward FOMC today in #ES_F. Entry was given out 5+ times both here and in newsletter. We long the 7418 recovery for a post-FOMC rip. Targets were 7434 (hit), 7458 (hit), 7474 next, then 7506. Then breakout.\n\nNewsletter was just sent with entries for MSFT/META earnings https://t.co/lNjrmR2Ypx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7418, 7434, 7458, 7474, 7506) are in the morning plan. Tweet is a hindsight recap of existing levels with no new actionable prices."
+    },
+    {
+      "tweet_id": "2082539422222844395",
+      "timestamp_utc": "2026-07-29T18:51:04.000Z",
+      "timestamp_est": "2026-07-29T14:51:04-04:00",
+      "tweet_text": "@tradivate Going to be a big move once it clears!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; pure commentary about expected movement with no actionable price named."
     }
   ]
 }
