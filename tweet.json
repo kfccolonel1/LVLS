@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T17:01:33.999237+00:00",
-  "fetched_at_est": "2026-07-29T13:01:33.999246-04:00",
+  "fetched_at_utc": "2026-07-29T17:11:39.073773+00:00",
+  "fetched_at_est": "2026-07-29T13:11:39.073777-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -291,6 +291,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7398 named as a 'lower quality trigger' \u2014 explicit actionable entry language for a long setup; not in morning plan. All other prices (7418, 7434, 7458, 7506) are reaffirmations."
+    },
+    {
+      "tweet_id": "2082514250757472737",
+      "timestamp_utc": "2026-07-29T17:11:03.000Z",
+      "timestamp_est": "2026-07-29T13:11:03-04:00",
+      "tweet_text": "@PierScalamandre For this year the full session (not just RTH) ADR is 99-100 points. If your using a diluted 5 year average though looking at RTH rather than full session its going to be a little lower. We had several very slow years in that window",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet discussing ADR statistics (99-100 points) as a metric/average, not an actionable price level. No naming language, no entry/exit/target framing."
     }
   ]
 }
