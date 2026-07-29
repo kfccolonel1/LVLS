@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T20:02:46.621113+00:00",
-  "fetched_at_est": "2026-07-29T16:02:46.621118-04:00",
+  "fetched_at_utc": "2026-07-29T20:12:51.996900+00:00",
+  "fetched_at_est": "2026-07-29T16:12:51.996905-04:00",
   "last_new_level_added_at_est": "2026-07-29T11:06:05-04:00",
   "todays_new_levels": [
     {
@@ -370,6 +370,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about trading psychology/market character. No price levels named or implied whatsoever."
+    },
+    {
+      "tweet_id": "2082559633676276013",
+      "timestamp_utc": "2026-07-29T20:11:23.000Z",
+      "timestamp_est": "2026-07-29T16:11:23-04:00",
+      "tweet_text": "@jdswain3 @OnTheHooch Lucky on that one! Thats why I give the shorts though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual reply tweet, no prices mentioned at all, purely conversational."
     }
   ]
 }
