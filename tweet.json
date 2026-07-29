@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T14:40:38.237811+00:00",
-  "fetched_at_est": "2026-07-29T10:40:38.237822-04:00",
+  "fetched_at_utc": "2026-07-29T14:50:43.267716+00:00",
+  "fetched_at_est": "2026-07-29T10:50:43.267726-04:00",
   "last_new_level_added_at_est": "2026-07-29T10:06:43-04:00",
   "todays_new_levels": [
     {
@@ -206,6 +206,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining personal trade management (profit takes level-to-level, spike exit). No new actionable price named; '34' is not a standalone ES price in valid range."
+    },
+    {
+      "tweet_id": "2082478022095933528",
+      "timestamp_utc": "2026-07-29T14:47:05.000Z",
+      "timestamp_est": "2026-07-29T10:47:05-04:00",
+      "tweet_text": "@D5star_general @eldnitj Yes. I would if I had to, if price spiked to 31 for example and failed I'd exit when I could",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about hypothetical exit near 7331; no naming language, no explicit actionable level designation, just trade management commentary."
     }
   ]
 }
