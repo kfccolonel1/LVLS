@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T11:49:32.562836+00:00",
-  "fetched_at_est": "2026-07-29T07:49:32.562840-04:00",
+  "fetched_at_utc": "2026-07-29T12:19:38.587230+00:00",
+  "fetched_at_est": "2026-07-29T08:19:38.587234-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -144,6 +144,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7418, 7458, 7474, 7506, 7491, 7434) are either morning plan levels or observations/reaffirmations of prior targets. 7491 not in plan but no naming language used \u2014 listed in directional sequence only."
+    },
+    {
+      "tweet_id": "2082438723782713521",
+      "timestamp_utc": "2026-07-29T12:10:56.000Z",
+      "timestamp_est": "2026-07-29T08:10:56-04:00",
+      "tweet_text": "@PierScalamandre Yes for sure. We should sweep that at some point today I'm hoping",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no specific price named; no actionable level introduced."
     }
   ]
 }
