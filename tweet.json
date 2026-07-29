@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T13:59:58.436238+00:00",
-  "fetched_at_est": "2026-07-29T09:59:58.436243-04:00",
-  "last_new_level_added_at_est": "2026-07-29T08:50:00-04:00",
+  "fetched_at_utc": "2026-07-29T14:10:08.685169+00:00",
+  "fetched_at_est": "2026-07-29T10:10:08.685182-04:00",
+  "last_new_level_added_at_est": "2026-07-29T10:06:43-04:00",
   "todays_new_levels": [
     {
       "price": 7494.0,
@@ -11,6 +11,13 @@
       "added_at_est": "2026-07-29T08:50:00-04:00",
       "expires_at_est": "2026-07-29T16:50:00-04:00",
       "from_tweet_id": "2082448558096035989"
+    },
+    {
+      "price": 7439.0,
+      "side": "bear",
+      "added_at_est": "2026-07-29T10:06:43-04:00",
+      "expires_at_est": "2026-07-29T18:06:43-04:00",
+      "from_tweet_id": "2082467861067423974"
     }
   ],
   "updates": [
@@ -136,6 +143,35 @@
       ],
       "added_bear_levels": [],
       "notes": "7494 is named as a resistance/breakout trigger not in morning plan; 7506, 7434, 7418 are all existing morning levels and are reaffirmations."
+    },
+    {
+      "tweet_id": "2082467861067423974",
+      "timestamp_utc": "2026-07-29T14:06:43.000Z",
+      "timestamp_est": "2026-07-29T10:06:43-04:00",
+      "tweet_text": "Nice vol pickup in #ES_F which means we can pay attention to price. 7458 was the key shelf and this paid out overnight several times and a brief 10 point pop this morning. I warned its very weak now, it failed.\n\nWatch recoveries of 7439 overnight low. 7418 below. Collapse below https://t.co/i6OBfyQP0B",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7439.0
+      ],
+      "notes": "7439 named as overnight low to 'watch recoveries of' \u2014 actionable watch level not in morning plan. 7418 and 7458 are morning plan levels."
+    },
+    {
+      "tweet_id": "2082468074725199906",
+      "timestamp_utc": "2026-07-29T14:07:34.000Z",
+      "timestamp_est": "2026-07-29T10:07:34-04:00",
+      "tweet_text": "@tradivate For a 10% runner I'd probably just stick it beneath the overnight low.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about stop placement for a runner \u2014 trade management commentary, no actionable price level named."
+    },
+    {
+      "tweet_id": "2082468316157743216",
+      "timestamp_utc": "2026-07-29T14:08:31.000Z",
+      "timestamp_est": "2026-07-29T10:08:31-04:00",
+      "tweet_text": "Note: Watch traps of that 7418 shelf. If bulls can't stick this, we activate the full bearish scenerio from newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7418 is already in the morning plan. Comment is a reaffirmation/observation about that level, not a new actionable level."
     }
   ]
 }
