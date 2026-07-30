@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T14:15:06.543494+00:00",
-  "fetched_at_est": "2026-07-30T10:15:06.543498-04:00",
+  "fetched_at_utc": "2026-07-30T14:25:12.185756+00:00",
+  "fetched_at_est": "2026-07-30T10:25:12.185761-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082470054654788025",
-      "timestamp_utc": "2026-07-29T14:15:26.000Z",
-      "timestamp_est": "2026-07-29T10:15:26-04:00",
-      "tweet_text": "@bigwood340 Likely get it a few times today with FOMC and earnings. Will be lots of traps",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet, no prices mentioned at all \u2014 purely conversational comment about FOMC/earnings volatility."
-    },
     {
       "tweet_id": "2082473288857485739",
       "timestamp_utc": "2026-07-29T14:28:17.000Z",
@@ -407,6 +398,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7418 is already in the morning plan; this is a hindsight reaffirmation of a prior FBD, not a new actionable level."
+    },
+    {
+      "tweet_id": "2082833642640863705",
+      "timestamp_utc": "2026-07-30T14:20:12.000Z",
+      "timestamp_est": "2026-07-30T10:20:12-04:00",
+      "tweet_text": "@bryce_schilling It should go under 7372 in that case but that was just too far so I stuck it about halfway under some smaller structure around 7400. I kept it there until trailed out on the post-FOMC sell",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply describing past trade management (stop placement, trailing out). 7372/7400 are observations of prior action, not new actionable levels named with naming language."
     }
   ]
 }
