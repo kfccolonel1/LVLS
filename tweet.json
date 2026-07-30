@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T17:56:10.532469+00:00",
-  "fetched_at_est": "2026-07-30T13:56:10.532473-04:00",
+  "fetched_at_utc": "2026-07-30T18:06:12.816868+00:00",
+  "fetched_at_est": "2026-07-30T14:06:12.816875-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082526964812845127",
-      "timestamp_utc": "2026-07-29T18:01:34.000Z",
-      "timestamp_est": "2026-07-29T14:01:34-04:00",
-      "tweet_text": "There's the initial FOMC reaction in #ES_F. I posted 7418 must recover to see 7434+ and we just tagged it. Lock in profits here though, take no risks after FOMC and let a runner do the work. 7458 next, then 7474, 7506+.\n\nSell again if the 7418 shelf fails. It will trap lots https://t.co/srrgM6ThUZ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7418, 7434, 7458, 7474, 7506) are morning plan levels. Trade management advice only; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2082530602570682412",
       "timestamp_utc": "2026-07-29T18:16:01.000Z",
