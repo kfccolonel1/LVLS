@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-29T23:13:15.617195+00:00",
-  "fetched_at_est": "2026-07-29T19:13:15.617200-04:00",
+  "fetched_at_utc": "2026-07-30T11:54:14.878856+00:00",
+  "fetched_at_est": "2026-07-30T07:54:14.878863-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082433059928895727",
-      "timestamp_utc": "2026-07-29T11:48:25.000Z",
-      "timestamp_est": "2026-07-29T07:48:25-04:00",
-      "tweet_text": "Little to do until FOMC in #ES_F. Yesterday 7418 was must hold support. It held. Targets were 7458 (hit), 7474 (hit), 7506\n\nPlan today: Per newsletter, 7458 traps get us long, we got it last eve. 58 now weak. 7491, 7506 next, then breakout. 7434, 7418=supports (hard sell below) https://t.co/5YTMxTt0MF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7418, 7458, 7474, 7506, 7491, 7434) are either morning plan levels or observations/reaffirmations of prior targets. 7491 not in plan but no naming language used \u2014 listed in directional sequence only."
-    },
     {
       "tweet_id": "2082438723782713521",
       "timestamp_utc": "2026-07-29T12:10:56.000Z",
