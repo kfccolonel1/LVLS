@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T18:36:22.234335+00:00",
-  "fetched_at_est": "2026-07-30T14:36:22.234339-04:00",
+  "fetched_at_utc": "2026-07-30T18:56:26.101108+00:00",
+  "fetched_at_est": "2026-07-30T14:56:26.101117-04:00",
   "last_new_level_added_at_est": "2026-07-30T14:33:40-04:00",
   "todays_new_levels": [
     {
@@ -35,51 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082538319909441921",
-      "timestamp_utc": "2026-07-29T18:46:41.000Z",
-      "timestamp_est": "2026-07-29T14:46:41-04:00",
-      "tweet_text": "Straightforward FOMC today in #ES_F. Entry was given out 5+ times both here and in newsletter. We long the 7418 recovery for a post-FOMC rip. Targets were 7434 (hit), 7458 (hit), 7474 next, then 7506. Then breakout.\n\nNewsletter was just sent with entries for MSFT/META earnings https://t.co/lNjrmR2Ypx",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7418, 7434, 7458, 7474, 7506) are in the morning plan. Tweet is a hindsight recap of existing levels with no new actionable prices."
-    },
-    {
-      "tweet_id": "2082539422222844395",
-      "timestamp_utc": "2026-07-29T18:51:04.000Z",
-      "timestamp_est": "2026-07-29T14:51:04-04:00",
-      "tweet_text": "@tradivate Going to be a big move once it clears!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; pure commentary about expected movement with no actionable price named."
-    },
-    {
-      "tweet_id": "2082540050751852916",
-      "timestamp_utc": "2026-07-29T18:53:34.000Z",
-      "timestamp_est": "2026-07-29T14:53:34-04:00",
-      "tweet_text": "@KevinJagiah Very clean. For those new to the Failed Breakdown strategy this has been one of the clearer examples in the last few months. Big elevator down, shelf recovery, squeeze.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Educational reply describing FBD pattern mechanics; no price levels named or actionable triggers given."
-    },
-    {
-      "tweet_id": "2082540092027981930",
-      "timestamp_utc": "2026-07-29T18:53:44.000Z",
-      "timestamp_est": "2026-07-29T14:53:44-04:00",
-      "tweet_text": "@es_trader_day I am usually on a 10min or a 15min",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about chart timeframe preference. No price levels mentioned at all."
-    },
-    {
-      "tweet_id": "2082540195396661396",
-      "timestamp_utc": "2026-07-29T18:54:08.000Z",
-      "timestamp_est": "2026-07-29T14:54:08-04:00",
-      "tweet_text": "@OnTheHooch FOMC might've taken all the good entries. Nothing good now unless we sell back below 7418!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7418 is already in the morning plan; comment is conditional/conversational, not a new actionable level introduction."
-    },
     {
       "tweet_id": "2082547722909806889",
       "timestamp_utc": "2026-07-29T19:24:03.000Z",
