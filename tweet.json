@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T14:55:26.255671+00:00",
-  "fetched_at_est": "2026-07-30T10:55:26.255680-04:00",
+  "fetched_at_utc": "2026-07-30T15:05:28.449202+00:00",
+  "fetched_at_est": "2026-07-30T11:05:28.449207-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082480354091204847",
-      "timestamp_utc": "2026-07-29T14:56:21.000Z",
-      "timestamp_est": "2026-07-29T10:56:21-04:00",
-      "tweet_text": "@ashwagamma ES likes 7398! Can't trust many supports though as long as we are below 7418",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7398 is an observation of price action; 7418 is a reaffirmation of a morning plan level. No new actionable levels named."
-    },
     {
       "tweet_id": "2082482803686449394",
       "timestamp_utc": "2026-07-29T15:06:05.000Z",
