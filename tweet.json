@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T12:34:31.027271+00:00",
-  "fetched_at_est": "2026-07-30T08:34:31.027283-04:00",
+  "fetched_at_utc": "2026-07-30T12:54:34.110401+00:00",
+  "fetched_at_est": "2026-07-30T08:54:34.110406-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082448558096035989",
-      "timestamp_utc": "2026-07-29T12:50:00.000Z",
-      "timestamp_est": "2026-07-29T08:50:00-04:00",
-      "tweet_text": "Levels working precisely to start the day in #ES_F, all noise until 2pm. 7458 was support, and we just dipped there, held, went +10. This zone is very weak now and we got a big long there last eve on the trap from newsletter.\n\n7494, 7506+ (huge breakout above). 7434, 7418=support https://t.co/lrD6Y3CfIK",
-      "added_bull_levels": [
-        7494.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7494 is named as a resistance/breakout trigger not in morning plan; 7506, 7434, 7418 are all existing morning levels and are reaffirmations."
-    },
     {
       "tweet_id": "2082467861067423974",
       "timestamp_utc": "2026-07-29T14:06:43.000Z",
