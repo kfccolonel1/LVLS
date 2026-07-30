@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T20:06:42.407531+00:00",
-  "fetched_at_est": "2026-07-30T16:06:42.407537-04:00",
+  "fetched_at_utc": "2026-07-30T20:16:44.373380+00:00",
+  "fetched_at_est": "2026-07-30T16:16:44.373386-04:00",
   "last_new_level_added_at_est": "2026-07-30T14:33:40-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082559633676276013",
-      "timestamp_utc": "2026-07-29T20:11:23.000Z",
-      "timestamp_est": "2026-07-29T16:11:23-04:00",
-      "tweet_text": "@jdswain3 @OnTheHooch Lucky on that one! Thats why I give the shorts though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reply tweet, no prices mentioned at all, purely conversational."
-    },
     {
       "tweet_id": "2082561313117540585",
       "timestamp_utc": "2026-07-29T20:18:03.000Z",
