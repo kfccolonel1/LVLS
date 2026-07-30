@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T18:06:12.816868+00:00",
-  "fetched_at_est": "2026-07-30T14:06:12.816875-04:00",
+  "fetched_at_utc": "2026-07-30T18:16:14.810505+00:00",
+  "fetched_at_est": "2026-07-30T14:16:14.810510-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082530602570682412",
-      "timestamp_utc": "2026-07-29T18:16:01.000Z",
-      "timestamp_est": "2026-07-29T14:16:01-04:00",
-      "tweet_text": "@poker848768148 I give the entries out. I gave the 7418 entry 4-5x since 8am including saying 7418 must recover after FOMC. We triggered prior to FOMC.  I can't press the  buttons for you. The entry was also given out in the newsletter. All together I mentioned that trade close to 10 times in",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7418 is a morning-plan level; tweet is a defensive reply about prior entries given, not introducing any new actionable level."
-    },
     {
       "tweet_id": "2082530842081988953",
       "timestamp_utc": "2026-07-29T18:16:58.000Z",
