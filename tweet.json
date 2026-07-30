@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T18:26:16.920950+00:00",
-  "fetched_at_est": "2026-07-30T14:26:16.920955-04:00",
-  "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
+  "fetched_at_utc": "2026-07-30T18:36:22.234335+00:00",
+  "fetched_at_est": "2026-07-30T14:36:22.234339-04:00",
+  "last_new_level_added_at_est": "2026-07-30T14:33:40-04:00",
   "todays_new_levels": [
     {
       "price": 7434.0,
@@ -18,18 +18,23 @@
       "added_at_est": "2026-07-30T09:24:52-04:00",
       "expires_at_est": "2026-07-30T17:24:52-04:00",
       "from_tweet_id": "2082819720449835517"
+    },
+    {
+      "price": 7492.0,
+      "side": "bull",
+      "added_at_est": "2026-07-30T14:33:40-04:00",
+      "expires_at_est": "2026-07-30T22:33:40-04:00",
+      "from_tweet_id": "2082897431490961811"
+    },
+    {
+      "price": 7400.0,
+      "side": "bear",
+      "added_at_est": "2026-07-30T14:33:40-04:00",
+      "expires_at_est": "2026-07-30T22:33:40-04:00",
+      "from_tweet_id": "2082897431490961811"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082535589551681816",
-      "timestamp_utc": "2026-07-29T18:35:50.000Z",
-      "timestamp_est": "2026-07-29T14:35:50-04:00",
-      "tweet_text": "Note: With the 7418 Failed Breakdown having played out to 7434+, just sit in a runner now. Meta and MSFT earnings are after hours, and newsletter will be sent out now with next entries as there is new structure here that needs to be traded very soon",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No new prices named; 7418 and 7434 are morning-plan levels. 'New structure' is vague commentary with no explicit actionable price given."
-    },
     {
       "tweet_id": "2082538319909441921",
       "timestamp_utc": "2026-07-29T18:46:41.000Z",
@@ -298,6 +303,19 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7458/7418/7434/7474 are existing targets; 7325 is a hindsight reference to yesterday's FBD. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2082897431490961811",
+      "timestamp_utc": "2026-07-30T18:33:40.000Z",
+      "timestamp_est": "2026-07-30T14:33:40-04:00",
+      "tweet_text": "NOTE: Today's newsletter was sent out early ahead of Apple/Amazon earnings. 7474 remains next up, then 7492, then 7506. 7418, 7400 are supports (watch traps) if we are lucky enough to get another earnings related bear trap. Until then, just ride your runner",
+      "added_bull_levels": [
+        7492.0
+      ],
+      "added_bear_levels": [
+        7400.0
+      ],
+      "notes": "7492 named as 'next' target (actionable sequence); 7400 named as support to watch for bear trap \u2014 neither is in morning plan. 7474/7418/7506 are reaffirmations."
     }
   ]
 }
