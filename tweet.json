@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T18:56:26.101108+00:00",
-  "fetched_at_est": "2026-07-30T14:56:26.101117-04:00",
+  "fetched_at_utc": "2026-07-30T19:16:33.993952+00:00",
+  "fetched_at_est": "2026-07-30T15:16:33.993960-04:00",
   "last_new_level_added_at_est": "2026-07-30T14:33:40-04:00",
   "todays_new_levels": [
     {
@@ -271,6 +271,24 @@
         7400.0
       ],
       "notes": "7492 named as 'next' target (actionable sequence); 7400 named as support to watch for bear trap \u2014 neither is in morning plan. 7474/7418/7506 are reaffirmations."
+    },
+    {
+      "tweet_id": "2082907211462795635",
+      "timestamp_utc": "2026-07-30T19:12:32.000Z",
+      "timestamp_est": "2026-07-30T15:12:32-04:00",
+      "tweet_text": "There's the full 4 target slate ran today in #ES_F. We are now +150 points from the 7325 Failed Breakdown, given *explicitly and in advance* in 2:45PM newsletter yesterday. Targets were given free at 8am: 7418 (hit), 7434 (hit), 7458 (hit), 7474 (hit).\n\nRide runner. 7506 next https://t.co/2DUjhqHuJl",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7325, 7418, 7434, 7458, 7474, 7506) are morning-plan levels or hit-target observations. 'Ride runner' is trade management, not a new actionable level."
+    },
+    {
+      "tweet_id": "2082907284489855351",
+      "timestamp_utc": "2026-07-30T19:12:49.000Z",
+      "timestamp_est": "2026-07-30T15:12:49-04:00",
+      "tweet_text": "Note: Newsletter was sent out 30mins ago showing the entry for the next Bear Trap",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price level named; tweet references a newsletter entry but does not explicitly state any actionable price in this tweet."
     }
   ]
 }
