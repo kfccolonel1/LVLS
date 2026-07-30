@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T18:16:14.810505+00:00",
-  "fetched_at_est": "2026-07-30T14:16:14.810510-04:00",
+  "fetched_at_utc": "2026-07-30T18:26:16.920950+00:00",
+  "fetched_at_est": "2026-07-30T14:26:16.920955-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082530842081988953",
-      "timestamp_utc": "2026-07-29T18:16:58.000Z",
-      "timestamp_est": "2026-07-29T14:16:58-04:00",
-      "tweet_text": "@poker848768148 At 12:18PM, I posted \"7418 must recover after FOMC\". We recovered after FOMC. Can press the button and buy if you want, or not! https://t.co/3AXnx2CJfR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7418 is already in the morning plan; tweet is a hindsight reaffirmation referencing an earlier post, not a new actionable level."
-    },
     {
       "tweet_id": "2082535589551681816",
       "timestamp_utc": "2026-07-29T18:35:50.000Z",
