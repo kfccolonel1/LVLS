@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T11:54:14.878856+00:00",
-  "fetched_at_est": "2026-07-30T07:54:14.878863-04:00",
+  "fetched_at_utc": "2026-07-30T12:04:19.831175+00:00",
+  "fetched_at_est": "2026-07-30T08:04:19.831180-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -366,6 +366,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7418 is already in the morning plan; this is a reaffirmation of an existing level, not a new one."
+    },
+    {
+      "tweet_id": "2082796970263916844",
+      "timestamp_utc": "2026-07-30T11:54:28.000Z",
+      "timestamp_est": "2026-07-30T07:54:28-04:00",
+      "tweet_text": "Volatility makes our job easy in #ES_F. \"Elevator down\" sells, create Failed Breakdowns. Per 2:45pm newsletter ystd, 7325 Failed Breakdowns get us long. We swept it by 1 point 4:35PM, now at 7400\n\nPlan: Ride runner. 7418 next, bull/bear line. Recover to bottom. 7373, 7342=support https://t.co/CBpXpVtVBp",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7325, 7418, 7373, 7342) are in the morning plan. Tweet is trade management + reaffirmations of existing levels, no new actionable levels."
     }
   ]
 }
