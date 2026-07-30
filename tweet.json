@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T13:34:46.842882+00:00",
-  "fetched_at_est": "2026-07-30T09:34:46.842892-04:00",
+  "fetched_at_utc": "2026-07-30T13:54:55.068662+00:00",
+  "fetched_at_est": "2026-07-30T09:54:55.068669-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -409,6 +409,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining backtests as magnet points; no specific price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2082824743539875921",
+      "timestamp_utc": "2026-07-30T13:44:50.000Z",
+      "timestamp_est": "2026-07-30T09:44:50-04:00",
+      "tweet_text": "@Mike79739104 I'm a Failed Breakdown trader so I'm always waiting for the Failed Breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading style/methodology. No price levels named, no actionable triggers cited."
+    },
+    {
+      "tweet_id": "2082824846434521575",
+      "timestamp_utc": "2026-07-30T13:45:15.000Z",
+      "timestamp_est": "2026-07-30T09:45:15-04:00",
+      "tweet_text": "@dirtymoose The june 11th low is closer",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a historical date/low with no explicit price named or actionable language used."
     }
   ]
 }
