@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T21:26:53.736002+00:00",
-  "fetched_at_est": "2026-07-30T17:26:53.736011-04:00",
+  "fetched_at_utc": "2026-07-30T23:17:04.142190+00:00",
+  "fetched_at_est": "2026-07-30T19:17:04.142197-04:00",
   "last_new_level_added_at_est": "2026-07-30T14:33:40-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082603996254978416",
-      "timestamp_utc": "2026-07-29T23:07:40.000Z",
-      "timestamp_est": "2026-07-29T19:07:40-04:00",
-      "tweet_text": "@vikidave Nothing surprises me! Will need to recover 7418 again",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7418 is already in the morning plan; this is a reaffirmation of an existing level, not a new one."
-    },
     {
       "tweet_id": "2082796970263916844",
       "timestamp_utc": "2026-07-30T11:54:28.000Z",
