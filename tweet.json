@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T14:35:14.495057+00:00",
-  "fetched_at_est": "2026-07-30T10:35:14.495065-04:00",
+  "fetched_at_utc": "2026-07-30T14:45:16.681833+00:00",
+  "fetched_at_est": "2026-07-30T10:45:16.681840-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2082475393672466600",
-      "timestamp_utc": "2026-07-29T14:36:39.000Z",
-      "timestamp_est": "2026-07-29T10:36:39-04:00",
-      "tweet_text": "@D5star_general For me its always level to level profit takes. 34 first profit take. If its a very fast recovery though after FOMC (sometimes we spike 100 points) in which case I just get out when I can",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining personal trade management (profit takes level-to-level, spike exit). No new actionable price named; '34' is not a standalone ES price in valid range."
-    },
     {
       "tweet_id": "2082478022095933528",
       "timestamp_utc": "2026-07-29T14:47:05.000Z",
