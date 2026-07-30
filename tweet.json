@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T12:04:19.831175+00:00",
-  "fetched_at_est": "2026-07-30T08:04:19.831180-04:00",
+  "fetched_at_utc": "2026-07-30T12:14:22.110864+00:00",
+  "fetched_at_est": "2026-07-30T08:14:22.110868-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082438723782713521",
-      "timestamp_utc": "2026-07-29T12:10:56.000Z",
-      "timestamp_est": "2026-07-29T08:10:56-04:00",
-      "tweet_text": "@PierScalamandre Yes for sure. We should sweep that at some point today I'm hoping",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no specific price named; no actionable level introduced."
-    },
     {
       "tweet_id": "2082448558096035989",
       "timestamp_utc": "2026-07-29T12:50:00.000Z",
