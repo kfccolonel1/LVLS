@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T13:54:55.068662+00:00",
-  "fetched_at_est": "2026-07-30T09:54:55.068669-04:00",
+  "fetched_at_utc": "2026-07-30T14:05:01.053000+00:00",
+  "fetched_at_est": "2026-07-30T10:05:01.053005-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -427,6 +427,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing a historical date/low with no explicit price named or actionable language used."
+    },
+    {
+      "tweet_id": "2082829411313705458",
+      "timestamp_utc": "2026-07-30T14:03:23.000Z",
+      "timestamp_est": "2026-07-30T10:03:23-04:00",
+      "tweet_text": "One way traffic &amp; perfect example how my system works in #ES_F for those new. 1. I never short 2. I wait for an \"elevator down\" sell. 3. I trade a Failed Breakdown (7325, given in advance). We are now +110 points here \n\nToday's targets were 7418 (hit), 7434 (hit), 7458, 7474 next https://t.co/hPn0nXvQOA",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7325, 7418, 7434, 7458, 7474) are morning-plan levels or reaffirmations of targets already published; 7434/7458 are observations of hits, not new actionable levels."
     }
   ]
 }
