@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-30T15:15:30.876629+00:00",
-  "fetched_at_est": "2026-07-30T11:15:30.876635-04:00",
+  "fetched_at_utc": "2026-07-30T15:25:37.726388+00:00",
+  "fetched_at_est": "2026-07-30T11:25:37.726392-04:00",
   "last_new_level_added_at_est": "2026-07-30T09:24:52-04:00",
   "todays_new_levels": [
     {
@@ -371,6 +371,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a correction reply ('*not 7434') with no actionable naming language and no new level introduced."
+    },
+    {
+      "tweet_id": "2082849785162195151",
+      "timestamp_utc": "2026-07-30T15:24:20.000Z",
+      "timestamp_est": "2026-07-30T11:24:20-04:00",
+      "tweet_text": "Quick dip to 7408 support but be careful now in #ES_F. Volatility is low, which means low quality chop. I trade after a violent \"elevator down\" sell, where a squeeze is guaranteed post-Failed Breakdown\n\n7325 trap was last long. 7418 (hit), 7434 (hit), 7458, 7474 above. Sell&lt;93 https://t.co/JQZaxcXdRQ",
+      "added_bull_levels": [
+        7434.0,
+        7458.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7434 and 7458 are new upside targets not in morning plan; 7325/7418/7474 are morning-plan levels. 7408 is a morning-plan level reaffirmed."
     }
   ]
 }
