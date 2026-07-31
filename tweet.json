@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T19:19:46.125611+00:00",
-  "fetched_at_est": "2026-07-31T15:19:46.125620-04:00",
+  "fetched_at_utc": "2026-07-31T19:29:55.661486+00:00",
+  "fetched_at_est": "2026-07-31T15:29:55.661495-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -86,6 +86,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7447, 7458, 7482, 7506, 7533, 7548) are morning-plan levels or hit-target observations. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2083271780588732431",
+      "timestamp_utc": "2026-07-31T19:21:12.000Z",
+      "timestamp_est": "2026-07-31T15:21:12-04:00",
+      "tweet_text": "CLosing update #ES_F: We are coming into 7533 to close up today. 7548 remains next up next week, then 7575. As of now, we have broken out structure and the task for bulls is just to run it. Ride the runner. Newsletter out shortly for the next bear trap entry",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7533, 7548, 7575) are in the morning plan. 'Next bear trap entry' is directional commentary with no new price named."
+    },
+    {
+      "tweet_id": "2083272590660141259",
+      "timestamp_utc": "2026-07-31T19:24:25.000Z",
+      "timestamp_est": "2026-07-31T15:24:25-04:00",
+      "tweet_text": "@EdgeAutopsy Obviously when you long and when you short matters. Its very hard to be profitable just shorting ES (I've never been able to do it). Sells are short lived, news driven, then squeeze viciously in all market conditions. If your in a well established downtrend its a little easier,",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading strategy and market conditions; no prices named, no actionable levels introduced."
     }
   ]
 }
