@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T13:28:35.336346+00:00",
-  "fetched_at_est": "2026-07-31T09:28:35.336352-04:00",
+  "fetched_at_utc": "2026-07-31T13:38:43.814999+00:00",
+  "fetched_at_est": "2026-07-31T09:38:43.815010-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7400 is in morning plan; 'sub 7400' is a conditional commentary remark, not a named actionable level with explicit naming language."
+    },
+    {
+      "tweet_id": "2083183628809314311",
+      "timestamp_utc": "2026-07-31T13:30:55.000Z",
+      "timestamp_est": "2026-07-31T09:30:55-04:00",
+      "tweet_text": "@RoyMcAvoyGolf I most likely will!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a casual conversational reply with no price levels, no actionable language, and no market context whatsoever."
+    },
+    {
+      "tweet_id": "2083185252692804005",
+      "timestamp_utc": "2026-07-31T13:37:22.000Z",
+      "timestamp_est": "2026-07-31T09:37:22-04:00",
+      "tweet_text": "Levels precise today. 7482 was first weak support, and we dipped there, held exact, went ~40. Runners still going from Wednesday's late day 7325 Failed Breakdown, and 7506 was my main target.\n\nToday's targets are 7533, 7548. We sell under 7482 from here https://t.co/GRwhs7DN8K",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7482, 7325, 7506, 7533, 7548) are in the morning plan. 'Sell under 7482' is trade management using an existing level, not a new one."
     }
   ]
 }
