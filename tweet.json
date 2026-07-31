@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T14:08:48.671895+00:00",
-  "fetched_at_est": "2026-07-31T10:08:48.671901-04:00",
+  "fetched_at_utc": "2026-07-31T14:18:50.929482+00:00",
+  "fetched_at_est": "2026-07-31T10:18:50.929487-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082831023260180781",
-      "timestamp_utc": "2026-07-30T14:09:47.000Z",
-      "timestamp_est": "2026-07-30T10:09:47-04:00",
-      "tweet_text": "@HagglundKirk There was one ,the big 7418 Failed Breakdown before FOMC.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7418 is already in the morning plan; this is a hindsight reaffirmation of a prior FBD, not a new actionable level."
-    },
     {
       "tweet_id": "2082833642640863705",
       "timestamp_utc": "2026-07-30T14:20:12.000Z",
