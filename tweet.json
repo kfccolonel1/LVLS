@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T14:18:50.929482+00:00",
-  "fetched_at_est": "2026-07-31T10:18:50.929487-04:00",
+  "fetched_at_utc": "2026-07-31T14:28:56.315468+00:00",
+  "fetched_at_est": "2026-07-31T10:28:56.315474-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082833642640863705",
-      "timestamp_utc": "2026-07-30T14:20:12.000Z",
-      "timestamp_est": "2026-07-30T10:20:12-04:00",
-      "tweet_text": "@bryce_schilling It should go under 7372 in that case but that was just too far so I stuck it about halfway under some smaller structure around 7400. I kept it there until trailed out on the post-FOMC sell",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply describing past trade management (stop placement, trailing out). 7372/7400 are observations of prior action, not new actionable levels named with naming language."
-    },
     {
       "tweet_id": "2082841045507748150",
       "timestamp_utc": "2026-07-30T14:49:37.000Z",
@@ -167,6 +158,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7482, 7325, 7506, 7533, 7548) are in the morning plan. 'Sell under 7482' is trade management using an existing level, not a new one."
+    },
+    {
+      "tweet_id": "2083196308806914396",
+      "timestamp_utc": "2026-07-31T14:21:18.000Z",
+      "timestamp_est": "2026-07-31T10:21:18-04:00",
+      "tweet_text": "Nice little vol pickup in #ES_F. Last good entry was the 7325 Failed Breakdown Wednesday that paid out +190. 7482 was first support today (weak). we bounced ~40 points there, then I posted sell below. We lost it, and down we went.\n\nReclaim takes us to 7458, 7482. Then 7506+ https://t.co/VthVFu4KpM",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7325, 7482, 7458, 7506) are morning-plan levels or observations of price action/hindsight; no new actionable levels introduced."
     }
   ]
 }
