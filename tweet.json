@@ -1,32 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T12:38:22.341595+00:00",
-  "fetched_at_est": "2026-07-31T08:38:22.341600-04:00",
+  "fetched_at_utc": "2026-07-31T13:28:35.336346+00:00",
+  "fetched_at_est": "2026-07-31T09:28:35.336352-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082819720449835517",
-      "timestamp_utc": "2026-07-30T13:24:52.000Z",
-      "timestamp_est": "2026-07-30T09:24:52-04:00",
-      "tweet_text": "Longs continue to pay in #ES_F and now the job is easy. just ride the runner until the next bear trap to do it again. Same drill every single day. 7325 Failed breakdown was the long trigger &amp; I've been waiting on it for weeks\n\n7418 bull/bear line next. Huge res. 7434, 7458+ above https://t.co/R30tfa3XSV",
-      "added_bull_levels": [
-        7434.0,
-        7458.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7434 and 7458 are named as resistance targets above 7418 with 'above' framing; not in morning plan. 7325 and 7418 are morning-plan reaffirmations."
-    },
-    {
-      "tweet_id": "2082820347947077899",
-      "timestamp_utc": "2026-07-30T13:27:22.000Z",
-      "timestamp_est": "2026-07-30T09:27:22-04:00",
-      "tweet_text": "@OnTheHooch Backtests don't really have anything to do with day trading though! They are just magnet points the market will make their way to do. Doesn't have anything to do with my system or entries (unless you want to a short a backtest)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining backtests as magnet points; no specific price named, no actionable level, no naming language."
-    },
     {
       "tweet_id": "2082824743539875921",
       "timestamp_utc": "2026-07-30T13:44:50.000Z",
