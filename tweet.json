@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T17:59:31.283983+00:00",
-  "fetched_at_est": "2026-07-31T13:59:31.283990-04:00",
+  "fetched_at_utc": "2026-07-31T18:39:36.103567+00:00",
+  "fetched_at_est": "2026-07-31T14:39:36.103574-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082897431490961811",
-      "timestamp_utc": "2026-07-30T18:33:40.000Z",
-      "timestamp_est": "2026-07-30T14:33:40-04:00",
-      "tweet_text": "NOTE: Today's newsletter was sent out early ahead of Apple/Amazon earnings. 7474 remains next up, then 7492, then 7506. 7418, 7400 are supports (watch traps) if we are lucky enough to get another earnings related bear trap. Until then, just ride your runner",
-      "added_bull_levels": [
-        7492.0
-      ],
-      "added_bear_levels": [
-        7400.0
-      ],
-      "notes": "7492 named as 'next' target (actionable sequence); 7400 named as support to watch for bear trap \u2014 neither is in morning plan. 7474/7418/7506 are reaffirmations."
-    },
     {
       "tweet_id": "2082907211462795635",
       "timestamp_utc": "2026-07-30T19:12:32.000Z",
