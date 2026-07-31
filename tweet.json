@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T16:49:17.379479+00:00",
-  "fetched_at_est": "2026-07-31T12:49:17.379484-04:00",
+  "fetched_at_utc": "2026-07-31T16:59:22.159238+00:00",
+  "fetched_at_est": "2026-07-31T12:59:22.159243-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -126,6 +126,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7447, 7458, 7482, 7506, 7533, 7548) are morning-plan levels or observations of targets already hit; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2083235870161711588",
+      "timestamp_utc": "2026-07-31T16:58:30.000Z",
+      "timestamp_est": "2026-07-31T12:58:30-04:00",
+      "tweet_text": "@bigwood340 Its probably not as much work as it sounds! I just use simple channels, trendlines, and backtest points, but there is definitely an art to it more than a science.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about methodology; no prices named, no actionable levels of any kind."
     }
   ]
 }
