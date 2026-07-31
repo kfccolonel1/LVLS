@@ -1,40 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T14:28:56.315468+00:00",
-  "fetched_at_est": "2026-07-31T10:28:56.315474-04:00",
+  "fetched_at_utc": "2026-07-31T14:59:01.324798+00:00",
+  "fetched_at_est": "2026-07-31T10:59:01.324805-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082841045507748150",
-      "timestamp_utc": "2026-07-30T14:49:37.000Z",
-      "timestamp_est": "2026-07-30T10:49:37-04:00",
-      "tweet_text": "We are slowing into midday chop now in #ES_F and not much to do here now. Nothing to trade until we get another big \"elevator down\" sell. 7325 Failed Breakdown was last entry. Targets were 7418 major res and bull/bear line (hit), 7434 (hit), 7458, 7474+ above\n\n7408, 7393=supports https://t.co/LEMYB63XVv",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7325, 7418, 7434, 7458, 7474, 7408, 7393) are either morning-plan levels or hit-target observations. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2082841316652658895",
-      "timestamp_utc": "2026-07-30T14:50:41.000Z",
-      "timestamp_est": "2026-07-30T10:50:41-04:00",
-      "tweet_text": "@Couto25 7418 was the major resistance now 7434. It doesn't have to do anything though (that would be predicting). We know 7418 is a major structure (you can see the shelf there). It failed yesterday, then became resistance. A very heavy resistance",
-      "added_bull_levels": [
-        7434.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7434 named as new major resistance \u2014 not in morning plan. 7418 is a reaffirmation of a morning plan level."
-    },
-    {
-      "tweet_id": "2082841354757947656",
-      "timestamp_utc": "2026-07-30T14:50:50.000Z",
-      "timestamp_est": "2026-07-30T10:50:50-04:00",
-      "tweet_text": "@Couto25 *not 7434",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a correction reply ('*not 7434') with no actionable naming language and no new level introduced."
-    },
     {
       "tweet_id": "2082849785162195151",
       "timestamp_utc": "2026-07-30T15:24:20.000Z",
