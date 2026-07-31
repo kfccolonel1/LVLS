@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T15:29:05.091259+00:00",
-  "fetched_at_est": "2026-07-31T11:29:05.091265-04:00",
+  "fetched_at_utc": "2026-07-31T16:39:12.548766+00:00",
+  "fetched_at_est": "2026-07-31T12:39:12.548773-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2082867168664789254",
-      "timestamp_utc": "2026-07-30T16:33:25.000Z",
-      "timestamp_est": "2026-07-30T12:33:25-04:00",
-      "tweet_text": "Nice pop there in #ES_F but we are still in midday chop now. 7325 Failed Breakdown was last good long. Today's targets are 7418 (hit several times), 7434 (hit), 7458 (not yet), 7474 (not yet) \n\n7408 was first support of interest and quick sweep then squeeze. We only sell&lt;7393 https://t.co/sTTa7PpKXK",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7434 and 7458 mentioned as targets but these appear to be intraday references/observations, not newly named actionable levels; all other prices (7325,7418,7474,7408,7393) are morning-plan levels."
-    },
     {
       "tweet_id": "2082876229921738916",
       "timestamp_utc": "2026-07-30T17:09:25.000Z",
