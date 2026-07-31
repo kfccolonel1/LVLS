@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-07-31T12:08:14.710269+00:00",
-  "fetched_at_est": "2026-07-31T08:08:14.710274-04:00",
+  "fetched_at_utc": "2026-07-31T12:18:19.423539+00:00",
+  "fetched_at_est": "2026-07-31T08:18:19.423544-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -215,6 +215,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply, no price named, no actionable level, no naming language. Nothing to extract."
+    },
+    {
+      "tweet_id": "2083164367806152970",
+      "timestamp_utc": "2026-07-31T12:14:23.000Z",
+      "timestamp_est": "2026-07-31T08:14:23-04:00",
+      "tweet_text": "@305HRHitter A low quality one because its so high up in the trend leg. At this point we need sub 7400 though for me to engage anything, until we form another large higher low",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7400 is in morning plan; 'sub 7400' is a conditional commentary remark, not a named actionable level with explicit naming language."
     }
   ]
 }
