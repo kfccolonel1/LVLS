@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-02T04:01:09.999755+00:00",
-  "fetched_at_est": "2026-08-02T00:01:09.999765-04:00",
+  "fetched_at_utc": "2026-08-02T15:22:02.155178+00:00",
+  "fetched_at_est": "2026-08-02T11:22:02.155188-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2083573411188511068",
-      "timestamp_utc": "2026-08-01T15:19:46.000Z",
-      "timestamp_est": "2026-08-01T11:19:46-04:00",
-      "tweet_text": "Big Picture View: For the last half of June, #ES_F built a big bull flag with resistance at 7430. This week, we finally broke it out and exploded higher.\n\nPlan Next Week: Bulls need to run it and hold 7430 lowest (or we collapse). 7506, 7449 above there. Targets  7575, 7627, 7675 https://t.co/aJVtRgaW1i",
-      "added_bull_levels": [
-        7449.0
-      ],
-      "added_bear_levels": [
-        7430.0
-      ],
-      "notes": "7430 named as key bull flag breakout support (new bear trigger if lost); 7449 not in morning plan, named as actionable level above 7430. 7506/7575/7627 are morning plan levels."
-    },
     {
       "tweet_id": "2083656752466469011",
       "timestamp_utc": "2026-08-01T20:50:56.000Z",
