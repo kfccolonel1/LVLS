@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-03T17:15:34.711239+00:00",
-  "fetched_at_est": "2026-08-03T13:15:34.711244-04:00",
+  "fetched_at_utc": "2026-08-03T18:05:44.387269+00:00",
+  "fetched_at_est": "2026-08-03T14:05:44.387274-04:00",
   "last_new_level_added_at_est": "2026-08-03T09:51:06-04:00",
   "todays_new_levels": [
     {
@@ -158,6 +158,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7626 mentioned as 'bonus' is casual commentary; 7639 and 7611 are morning-plan levels. No new actionable levels named with qualifying language."
+    },
+    {
+      "tweet_id": "2084339002681753996",
+      "timestamp_utc": "2026-08-03T18:01:58.000Z",
+      "timestamp_est": "2026-08-03T14:01:58-04:00",
+      "tweet_text": "We are now up a staggering 305 points from last Wednesday's 430pm 7325 Failed Breakdown, given in advance in newsletter. Classic Failed Breakdown, only setup I trade daily. Never short. Todays targets were 7548, 7573, 7597, 7611, 7626 bonus (hit)\n\nRide runner for 7639, 7649, 7682 https://t.co/IFNomifZCB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7649 could be new, but tweet reads as a directional runner list alongside morning-plan levels (7639, 7682). No explicit 'added/key/new' naming language; reaffirmation context dominates."
     }
   ]
 }
