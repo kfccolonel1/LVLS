@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-03T18:05:44.387269+00:00",
-  "fetched_at_est": "2026-08-03T14:05:44.387274-04:00",
+  "fetched_at_utc": "2026-08-03T19:05:50.945606+00:00",
+  "fetched_at_est": "2026-08-03T15:05:50.945611-04:00",
   "last_new_level_added_at_est": "2026-08-03T09:51:06-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2083991498329325577",
-      "timestamp_utc": "2026-08-02T19:01:06.000Z",
-      "timestamp_est": "2026-08-02T15:01:06-04:00",
-      "tweet_text": "A game changer for me was realizing markets can't be engaged all day. Most price action is noise &amp; has little edge. I used to spend 8rs a day trading, and lost. Now, its &lt;15 mins. Everyday is a mission: Plan my spots, get in, take my piece/get into a runner, get out and protect",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all. Tweet is philosophical/motivational commentary about trading approach and time management, not actionable level identification."
-    },
     {
       "tweet_id": "2084244456169988451",
       "timestamp_utc": "2026-08-03T11:46:16.000Z",
