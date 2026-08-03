@@ -1,41 +1,25 @@
 {
-  "session_date": "2026-07-31",
-  "daily_pivot": 7418.0,
-  "regime_hint": "C2",
+  "session_date": "2026-08-03",
+  "daily_pivot": 7449,
+  "regime_hint": "C4",
   "significant_lows": [
-    7400.0,
-    7374.0,
-    7353.0,
-    7325.0,
-    7324.0
+    7449,
+    7427,
+    7399,
+    7353,
+    7325
   ],
   "bull_levels": [
     {
-      "price": 7463.0,
+      "price": 7530.0,
       "major": true
     },
     {
-      "price": 7482.0,
+      "price": 7547.0,
       "major": true
     },
     {
-      "price": 7506.0,
-      "major": true
-    },
-    {
-      "price": 7533.0,
-      "major": true
-    },
-    {
-      "price": 7548.0,
-      "major": true
-    },
-    {
-      "price": 7554.0,
-      "major": true
-    },
-    {
-      "price": 7575.0,
+      "price": 7572.0,
       "major": true
     },
     {
@@ -51,41 +35,49 @@
       "major": true
     },
     {
-      "price": 7647.0,
+      "price": 7639.0,
       "major": true
     },
     {
-      "price": 7683.0,
+      "price": 7682.0,
       "major": true
     },
     {
-      "price": 7696.0,
+      "price": 7722.0,
       "major": true
     },
     {
-      "price": 7717.0,
+      "price": 7742.0,
       "major": true
     },
     {
-      "price": 7736.0,
-      "major": true
-    },
-    {
-      "price": 7770.0,
+      "price": 7775.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7447.0,
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7473.0,
+      "major": true
+    },
+    {
+      "price": 7449.0,
+      "major": true
+    },
+    {
+      "price": 7427.0,
       "major": true
     },
     {
       "price": 7417.0,
-      "major": true
-    },
-    {
-      "price": 7393.0,
       "major": true
     },
     {
@@ -97,11 +89,15 @@
       "major": true
     },
     {
-      "price": 7336.0,
+      "price": 7337.0,
       "major": true
     },
     {
-      "price": 7326.0,
+      "price": 7325.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
       "major": true
     },
     {
@@ -109,11 +105,7 @@
       "major": true
     },
     {
-      "price": 7276.0,
-      "major": true
-    },
-    {
-      "price": 7263.0,
+      "price": 7275.0,
       "major": true
     },
     {
@@ -123,6 +115,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish, holding a 10% long runner from the 7325 failed breakdown. He wants price to stay above 7402 on any dips, then push to 7482 and 7506, with a possible breakout to 7533 and 7575+. The key pivot is 7418: above it bulls are in control and the range rally can continue; below 7393 the bear case opens up. Apple and Amazon earnings are after the bell on July 30th but no scheduled macro events on July 31st.",
-  "fetched_at": "2026-07-31T05:00:22.018021+00:00"
+  "notes": "Trader leans bullish after Wednesday's FOMC flush to 7325 sparked a 190-point rally to ~7506. He expects bulls to hold 7449 on any dip Monday; a quick flush and recovery there is a buy targeting 7530, 7547, then 7575+. The key level is 7449: above it the rally continues, below it the upside case weakens and a breakdown short becomes possible. No new longs chased on strength from current levels.",
+  "fetched_at": "2026-08-03T05:00:18.117480+00:00"
 }
