@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-02T20:52:33.742083+00:00",
-  "fetched_at_est": "2026-08-02T16:52:33.742090-04:00",
+  "fetched_at_utc": "2026-08-03T11:54:02.209746+00:00",
+  "fetched_at_est": "2026-08-03T07:54:02.209750-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -14,6 +14,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices mentioned at all. Tweet is philosophical/motivational commentary about trading approach and time management, not actionable level identification."
+    },
+    {
+      "tweet_id": "2084244456169988451",
+      "timestamp_utc": "2026-08-03T11:46:16.000Z",
+      "timestamp_est": "2026-08-03T07:46:16-04:00",
+      "tweet_text": "The rip continues in #ES_F and we are now +230 from our Wednesday 7325 Failed Breakdown. On Friday at 3pm, I posted what was next: That we broke out structure, to ride runner, and its time to rip. 7548 (hit), 7575 were next\n\nPlan: 7548, 7530=supports. 7573, 7587, 7594 next now https://t.co/3bBWdklvd3",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7587 is the only unlisted price, but tweet reads as a directional target list reaffirming existing plan levels (7548,7530,7573,7594); no explicit 'new/added/key' naming language for 7587."
     }
   ]
 }
