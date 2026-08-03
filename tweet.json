@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-03T13:54:37.607426+00:00",
-  "fetched_at_est": "2026-08-03T09:54:37.607430-04:00",
+  "fetched_at_utc": "2026-08-03T14:14:44.224330+00:00",
+  "fetched_at_est": "2026-08-03T10:14:44.224335-04:00",
   "last_new_level_added_at_est": "2026-08-03T09:51:06-04:00",
   "todays_new_levels": [
     {
@@ -95,6 +95,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7587 and 7596 named explicitly as 'next' targets \u2014 actionable upside levels not in the morning plan. 7548/7573 are observations of hits, not new."
+    },
+    {
+      "tweet_id": "2084280861894029379",
+      "timestamp_utc": "2026-08-03T14:10:56.000Z",
+      "timestamp_est": "2026-08-03T10:10:56-04:00",
+      "tweet_text": "There's 7587 next target hit in #ES_F and its been charting 101 last few days all given step by step here. Big Failed Breakdown Wednesday at 7325 got us long. Friday, we broke out a multi-week bull flag. Today, we rip. Targets were 7547 , 7573, 7587 (all hit)\n\n7597, 7611 next https://t.co/696msMf2oh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7597 is new but stated as a casual next-target continuation with no explicit naming/actionable language; 7611 is already in morning plan. No qualifying new major level language used."
     }
   ]
 }
