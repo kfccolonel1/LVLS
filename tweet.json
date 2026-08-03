@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-03T11:54:02.209746+00:00",
-  "fetched_at_est": "2026-08-03T07:54:02.209750-04:00",
+  "fetched_at_utc": "2026-08-03T12:14:10.326065+00:00",
+  "fetched_at_est": "2026-08-03T08:14:10.326077-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -23,6 +23,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7587 is the only unlisted price, but tweet reads as a directional target list reaffirming existing plan levels (7548,7530,7573,7594); no explicit 'new/added/key' naming language for 7587."
+    },
+    {
+      "tweet_id": "2084249385789948037",
+      "timestamp_utc": "2026-08-03T12:05:51.000Z",
+      "timestamp_est": "2026-08-03T08:05:51-04:00",
+      "tweet_text": "Note: Unfortunately there is nothing to trade up here. We need a deep \"elevator down\" sell. ES repeats the same cycle daily for 100 years. Elevator down, failed breakdown, short squeeze. Do not trade until we see step #1",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary/market philosophy; no specific price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2084249665319383262",
+      "timestamp_utc": "2026-08-03T12:06:58.000Z",
+      "timestamp_est": "2026-08-03T08:06:58-04:00",
+      "tweet_text": "@options_tlh I don't see any structure at 7492 now. There is a nice low around 7500 though that would wokr for a Failed breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7500 mentioned as 'nice low' for FBD candidate, but 7492 is already in morning plan; 7500 is a casual reply reference, not a formally named actionable level."
     }
   ]
 }
