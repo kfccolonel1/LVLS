@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T13:37:59.486017+00:00",
-  "fetched_at_est": "2026-08-04T09:37:59.486025-04:00",
+  "fetched_at_utc": "2026-08-04T13:58:02.369207+00:00",
+  "fetched_at_est": "2026-08-04T09:58:02.369214-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -14,18 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084275873130086801",
-      "timestamp_utc": "2026-08-03T13:51:06.000Z",
-      "timestamp_est": "2026-08-03T09:51:06-04:00",
-      "tweet_text": "There's 7573 finally hit in #ES_F. Followers here know I've been calling for this backtest (of the July 16 breakdown) for two weeks. We finally got it. Longs still working from last Wednesday's 7325 Failed Breakdown.\n\nToday's targets were 7548 (hit), 7573 (hit). 7587, 7596 next https://t.co/L24OdOF6XJ",
-      "added_bull_levels": [
-        7587.0,
-        7596.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7587 and 7596 named explicitly as 'next' targets \u2014 actionable upside levels not in the morning plan. 7548/7573 are observations of hits, not new."
-    },
     {
       "tweet_id": "2084280861894029379",
       "timestamp_utc": "2026-08-03T14:10:56.000Z",
