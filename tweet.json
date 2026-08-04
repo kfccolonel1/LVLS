@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T18:59:51.667104+00:00",
-  "fetched_at_est": "2026-08-04T14:59:51.667107-04:00",
+  "fetched_at_utc": "2026-08-04T19:09:56.216692+00:00",
+  "fetched_at_est": "2026-08-04T15:09:56.216697-04:00",
   "last_new_level_added_at_est": "2026-08-04T14:53:56-04:00",
   "todays_new_levels": [
     {
@@ -42,15 +42,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084355808138014852",
-      "timestamp_utc": "2026-08-03T19:08:44.000Z",
-      "timestamp_est": "2026-08-03T15:08:44-04:00",
-      "tweet_text": "Closing update #ES_F: Today's plan was straightforward. Just hold the runner as we rip. We broke out a macro bull flag on Friday which means straight up now. Now +310 points from Last Wednesday's long. More ahead. Newsletter out soon with entries for the bear trap down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No new actionable prices named; tweet is trade management/commentary (holding runner, macro context, newsletter teaser) with no explicit price levels introduced."
-    },
     {
       "tweet_id": "2084609702860562465",
       "timestamp_utc": "2026-08-04T11:57:37.000Z",
