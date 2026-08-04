@@ -1,29 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T11:47:29.917733+00:00",
-  "fetched_at_est": "2026-08-04T07:47:29.917740-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-04T12:07:41.094797+00:00",
+  "fetched_at_est": "2026-08-04T08:07:41.094810-04:00",
+  "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7673.0,
+      "side": "bull",
+      "added_at_est": "2026-08-04T07:57:37-04:00",
+      "expires_at_est": "2026-08-04T15:57:37-04:00",
+      "from_tweet_id": "2084609702860562465"
+    }
+  ],
   "updates": [
-    {
-      "tweet_id": "2084249385789948037",
-      "timestamp_utc": "2026-08-03T12:05:51.000Z",
-      "timestamp_est": "2026-08-03T08:05:51-04:00",
-      "tweet_text": "Note: Unfortunately there is nothing to trade up here. We need a deep \"elevator down\" sell. ES repeats the same cycle daily for 100 years. Elevator down, failed breakdown, short squeeze. Do not trade until we see step #1",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary/market philosophy; no specific price levels named or actionable triggers given."
-    },
-    {
-      "tweet_id": "2084249665319383262",
-      "timestamp_utc": "2026-08-03T12:06:58.000Z",
-      "timestamp_est": "2026-08-03T08:06:58-04:00",
-      "tweet_text": "@options_tlh I don't see any structure at 7492 now. There is a nice low around 7500 though that would wokr for a Failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7500 mentioned as 'nice low' for FBD candidate, but 7492 is already in morning plan; 7500 is a casual reply reference, not a formally named actionable level."
-    },
     {
       "tweet_id": "2084263349789859908",
       "timestamp_utc": "2026-08-03T13:01:20.000Z",
@@ -143,6 +133,35 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No new actionable prices named; tweet is trade management/commentary (holding runner, macro context, newsletter teaser) with no explicit price levels introduced."
+    },
+    {
+      "tweet_id": "2084609702860562465",
+      "timestamp_utc": "2026-08-04T11:57:37.000Z",
+      "timestamp_est": "2026-08-04T07:57:37-04:00",
+      "tweet_text": "Charting 101, all called out in advance. Last Wed, we had a massive Failed Breakdown long of 7325. Friday, we broke out a 2 week bull flag. That means straight up. Targets were 7626 (hit), 7649 (hit)\n\nPlan: Ride runner. 0 to do. 7673, 7683 next then much more. 39=weak support https://t.co/nlzZ5CBRyF",
+      "added_bull_levels": [
+        7673.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7673 named as 'next' target/resistance above \u2014 not in morning plan. 7683 and 7639 are already published levels. Actionable upside target qualifies."
+    },
+    {
+      "tweet_id": "2084609925104197739",
+      "timestamp_utc": "2026-08-04T11:58:30.000Z",
+      "timestamp_est": "2026-08-04T07:58:30-04:00",
+      "tweet_text": "Note: There is literally 0 to trade up here or anywhere near here. This is how ES works, you need to long when everyone is top calling on the \"elevator down\" sells. Then its lock out. No supports I'd trade until what I mentioned in newsletter which is &gt;100 points down now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary/observation; no specific price named as actionable. 'Newsletter' levels are prior-published, and no new price is explicitly cited."
+    },
+    {
+      "tweet_id": "2084611188298543308",
+      "timestamp_utc": "2026-08-04T12:03:32.000Z",
+      "timestamp_est": "2026-08-04T08:03:32-04:00",
+      "tweet_text": "@OnTheHooch Its because we broke out the macro flag in Saturday's chart. Measured move here is easily 7850+, with some traps for bears and chasers en route",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7850+ is distance/math commentary on a measured move, not explicitly named as an actionable level with naming language."
     }
   ]
 }
