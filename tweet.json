@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T15:48:50.772616+00:00",
-  "fetched_at_est": "2026-08-04T11:48:50.772623-04:00",
+  "fetched_at_utc": "2026-08-04T16:39:07.123954+00:00",
+  "fetched_at_est": "2026-08-04T12:39:07.123962-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -150,6 +150,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational/seasonal commentary with no actionable price named. No levels mentioned at all."
+    },
+    {
+      "tweet_id": "2084678559033913493",
+      "timestamp_utc": "2026-08-04T16:31:14.000Z",
+      "timestamp_est": "2026-08-04T12:31:14-04:00",
+      "tweet_text": "Now the biggest long of 2026 in #ES_F up a staggering 420 points from our 7325 Wednesday Failed Breakdown long, given in advance. As warned yesterday, this week we just let runners pay. Today's targets were 7673, 7683, 7694 ATH's (hit).\n\nNext were 7727, 7741. Hit. 7764, 7783 next https://t.co/XkG2LWgaOj",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7673,7683,7694,7727,7741,7764,7783) are either in morning plan or hindsight references to targets already hit; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2084679230235807823",
+      "timestamp_utc": "2026-08-04T16:33:54.000Z",
+      "timestamp_est": "2026-08-04T12:33:54-04:00",
+      "tweet_text": "@DWBenChimol No such thing as overextended market in a bull market. The higher it goes, the higher you should expect it to go",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary/market philosophy reply to a user. No price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2084679382547787893",
+      "timestamp_utc": "2026-08-04T16:34:30.000Z",
+      "timestamp_est": "2026-08-04T12:34:30-04:00",
+      "tweet_text": "@Mister_J_Weezy I don't check the news either so I have no idea!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual reply tweet, no price levels mentioned, no actionable content whatsoever."
+    },
+    {
+      "tweet_id": "2084679538076778779",
+      "timestamp_utc": "2026-08-04T16:35:08.000Z",
+      "timestamp_est": "2026-08-04T12:35:08-04:00",
+      "tweet_text": "@bhargaval All started from that FOMC bear trap, then into the two week bull flag breakout",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational/contextual observation about FOMC bear trap and bull flag breakout \u2014 no actionable price named at all."
     }
   ]
 }
