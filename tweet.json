@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T12:17:46.028505+00:00",
-  "fetched_at_est": "2026-08-04T08:17:46.028510-04:00",
+  "fetched_at_utc": "2026-08-04T13:07:51.279655+00:00",
+  "fetched_at_est": "2026-08-04T09:07:51.279662-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084263349789859908",
-      "timestamp_utc": "2026-08-03T13:01:20.000Z",
-      "timestamp_est": "2026-08-03T09:01:20-04:00",
-      "tweet_text": "No volatility in #ES_F and that means do nothing. Our last good entry was the 7325 Failed Breakdown last Wednesday. We are +230. As posted Friday at 3pm, we just broke structure, so we begin a new leg up. 7548 (hit), 7573 were targets\n\n7573, 7587, 7594 next. 48, 30=weak supports https://t.co/0IhYwSFYNj",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7548/7573/7587/7594 are targets from prior posts or morning plan; 7548/7530/7594 already in plan; no new actionable level named with required naming language."
-    },
     {
       "tweet_id": "2084270642413662452",
       "timestamp_utc": "2026-08-03T13:30:19.000Z",
