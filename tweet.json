@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T13:07:51.279655+00:00",
-  "fetched_at_est": "2026-08-04T09:07:51.279662-04:00",
+  "fetched_at_utc": "2026-08-04T13:17:56.545526+00:00",
+  "fetched_at_est": "2026-08-04T09:17:56.545532-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -162,6 +162,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user with no price levels named; purely conversational commentary about trade setup conditions."
+    },
+    {
+      "tweet_id": "2084628261133287463",
+      "timestamp_utc": "2026-08-04T13:11:22.000Z",
+      "timestamp_est": "2026-08-04T09:11:22-04:00",
+      "tweet_text": "We are in a no trade region now in #ES_F and 0 to do but ride a runner. Now +330 from last Wednesday's 7325 430pm Failed Breakdown. Macro bull flag breakout in play.\n\n7673, 7683, 7694 next, then ATHs. No good supports for about 100 points down from here, but 7639 is a weak one https://t.co/mUGS046bDk",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7673 and 7694 not in morning plan but no naming language used\u2014just a directional list. 7683 and 7639 are morning-plan levels. No actionable trigger language present."
     }
   ]
 }
