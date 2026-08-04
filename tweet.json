@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T17:49:38.928782+00:00",
-  "fetched_at_est": "2026-08-04T13:49:38.928787-04:00",
+  "fetched_at_utc": "2026-08-04T18:09:42.176262+00:00",
+  "fetched_at_est": "2026-08-04T14:09:42.176267-04:00",
   "last_new_level_added_at_est": "2026-08-04T13:35:11-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084339002681753996",
-      "timestamp_utc": "2026-08-03T18:01:58.000Z",
-      "timestamp_est": "2026-08-03T14:01:58-04:00",
-      "tweet_text": "We are now up a staggering 305 points from last Wednesday's 430pm 7325 Failed Breakdown, given in advance in newsletter. Classic Failed Breakdown, only setup I trade daily. Never short. Todays targets were 7548, 7573, 7597, 7611, 7626 bonus (hit)\n\nRide runner for 7639, 7649, 7682 https://t.co/IFNomifZCB",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7649 could be new, but tweet reads as a directional runner list alongside morning-plan levels (7639, 7682). No explicit 'added/key/new' naming language; reaffirmation context dominates."
-    },
     {
       "tweet_id": "2084355808138014852",
       "timestamp_utc": "2026-08-03T19:08:44.000Z",
