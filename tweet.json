@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T12:07:41.094797+00:00",
-  "fetched_at_est": "2026-08-04T08:07:41.094810-04:00",
+  "fetched_at_utc": "2026-08-04T12:17:46.028505+00:00",
+  "fetched_at_est": "2026-08-04T08:17:46.028510-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -162,6 +162,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7850+ is distance/math commentary on a measured move, not explicitly named as an actionable level with naming language."
+    },
+    {
+      "tweet_id": "2084612929597403139",
+      "timestamp_utc": "2026-08-04T12:10:27.000Z",
+      "timestamp_est": "2026-08-04T08:10:27-04:00",
+      "tweet_text": "@CorlukaDejan Hopefully. Need to either see a straight dip, or a consolidation now in order to start thinking about new trades.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user with no price levels named; purely conversational commentary about trade setup conditions."
     }
   ]
 }
