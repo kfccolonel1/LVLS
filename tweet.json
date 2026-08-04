@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T13:58:02.369207+00:00",
-  "fetched_at_est": "2026-08-04T09:58:02.369214-04:00",
+  "fetched_at_utc": "2026-08-04T14:18:09.997503+00:00",
+  "fetched_at_est": "2026-08-04T10:18:09.997508-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084280861894029379",
-      "timestamp_utc": "2026-08-03T14:10:56.000Z",
-      "timestamp_est": "2026-08-03T10:10:56-04:00",
-      "tweet_text": "There's 7587 next target hit in #ES_F and its been charting 101 last few days all given step by step here. Big Failed Breakdown Wednesday at 7325 got us long. Friday, we broke out a multi-week bull flag. Today, we rip. Targets were 7547 , 7573, 7587 (all hit)\n\n7597, 7611 next https://t.co/696msMf2oh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7597 is new but stated as a casual next-target continuation with no explicit naming/actionable language; 7611 is already in morning plan. No qualifying new major level language used."
-    },
-    {
-      "tweet_id": "2084281832514748474",
-      "timestamp_utc": "2026-08-03T14:14:47.000Z",
-      "timestamp_est": "2026-08-03T10:14:47-04:00",
-      "tweet_text": "@rainydaystocks Why would a gap need to get filled?",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet to a user; no price mentioned, no actionable level named \u2014 purely conversational question."
-    },
     {
       "tweet_id": "2084282763339829323",
       "timestamp_utc": "2026-08-03T14:18:29.000Z",
@@ -141,6 +123,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7673 and 7694 not in morning plan but no naming language used\u2014just a directional list. 7683 and 7639 are morning-plan levels. No actionable trigger language present."
+    },
+    {
+      "tweet_id": "2084644866630221901",
+      "timestamp_utc": "2026-08-04T14:17:21.000Z",
+      "timestamp_est": "2026-08-04T10:17:21-04:00",
+      "tweet_text": "This has been one of the biggest longs of 2026 in #ES_F and it was all given transparently, in advance, and updated real-time. 7325 Failed Breakdown Wednesday was our long. Now +368. Today's targets? 7673, 7683, 7694, ATHs. All hit\n\n7727, 7741 next. Just ride that runner now https://t.co/MSv9Ci8uXF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7673/7694 not in plan but presented as already-hit targets in hindsight recap; 7683/7727/7741 are morning-plan levels reaffirmed. No new actionable levels named."
     }
   ]
 }
