@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T14:48:27.508969+00:00",
-  "fetched_at_est": "2026-08-04T10:48:27.508974-04:00",
+  "fetched_at_utc": "2026-08-04T14:58:37.500281+00:00",
+  "fetched_at_est": "2026-08-04T10:58:37.500286-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084291715830026617",
-      "timestamp_utc": "2026-08-03T14:54:03.000Z",
-      "timestamp_est": "2026-08-03T10:54:03-04:00",
-      "tweet_text": "We are running targets nicely and easy as it gets in #ES_F. Friday we broke out that multi-week flag and todays job was simple. Just ride your runner and get paid as we rip all day. Targets given were 7547 (hit), 7573 (hit), 7587 (hit). 7597 was next (hit).\n\n7611, 7627 next https://t.co/JKl8QoYGZb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7547, 7573, 7587, 7597, 7611, 7627) are morning-plan levels or observations of targets hit; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2084293463034470695",
       "timestamp_utc": "2026-08-03T15:01:00.000Z",
@@ -150,6 +141,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a casual social reply with no price levels, no actionable language, and no trading content whatsoever."
+    },
+    {
+      "tweet_id": "2084654777179214285",
+      "timestamp_utc": "2026-08-04T14:56:44.000Z",
+      "timestamp_est": "2026-08-04T10:56:44-04:00",
+      "tweet_text": "@rainydaystocks @JohnnyComeL8Lee That's the cost of using a runner. You'll always give back profits there is no way to perfectly time when the market peaks. I am always bullish so I always just want to be a long runner",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade philosophy/runner management. No prices mentioned, no actionable levels named."
     }
   ]
 }
