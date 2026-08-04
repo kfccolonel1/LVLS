@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T17:39:32.432600+00:00",
-  "fetched_at_est": "2026-08-04T13:39:32.432614-04:00",
+  "fetched_at_utc": "2026-08-04T17:49:38.928782+00:00",
+  "fetched_at_est": "2026-08-04T13:49:38.928787-04:00",
   "last_new_level_added_at_est": "2026-08-04T13:35:11-04:00",
   "todays_new_levels": [
     {
@@ -231,6 +231,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure behavioral/sentiment commentary about trader psychology during pullbacks. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2084696325711360161",
+      "timestamp_utc": "2026-08-04T17:41:50.000Z",
+      "timestamp_est": "2026-08-04T13:41:50-04:00",
+      "tweet_text": "@KPferrarif8 @venkyguda457 I don't ever predict or call for pullbacks in ES. I am just always bullish. They happen when they happen or when a major support shelf fails (then I'll call for a pullback)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply explaining trading philosophy; no price levels named or actionable instructions given."
     }
   ]
 }
