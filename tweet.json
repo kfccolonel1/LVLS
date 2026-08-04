@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-04T13:17:56.545526+00:00",
-  "fetched_at_est": "2026-08-04T09:17:56.545532-04:00",
+  "fetched_at_utc": "2026-08-04T13:37:59.486017+00:00",
+  "fetched_at_est": "2026-08-04T09:37:59.486025-04:00",
   "last_new_level_added_at_est": "2026-08-04T07:57:37-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084270642413662452",
-      "timestamp_utc": "2026-08-03T13:30:19.000Z",
-      "timestamp_est": "2026-08-03T09:30:19-04:00",
-      "tweet_text": "@StephenJ223624 Its irrelevant, some backtests take days, some weeks, ive seen a few take years.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user about backtesting timelines; no price levels mentioned or actionable signals of any kind."
-    },
-    {
-      "tweet_id": "2084270934815387959",
-      "timestamp_utc": "2026-08-03T13:31:29.000Z",
-      "timestamp_est": "2026-08-03T09:31:29-04:00",
-      "tweet_text": "@DavidDa41048475 Market hasn't cared about Iran for over a month, irrelevant now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on Iran/market sentiment, no price level named or implied."
-    },
     {
       "tweet_id": "2084275873130086801",
       "timestamp_utc": "2026-08-03T13:51:06.000Z",
