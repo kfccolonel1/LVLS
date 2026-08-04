@@ -1,35 +1,15 @@
 {
-  "session_date": "2026-08-03",
-  "daily_pivot": 7449,
-  "regime_hint": "C4",
+  "session_date": "2026-08-04",
+  "daily_pivot": 7517,
+  "regime_hint": "C1",
   "significant_lows": [
+    7549,
+    7499,
     7449,
     7427,
-    7399,
-    7353,
-    7325
+    7400
   ],
   "bull_levels": [
-    {
-      "price": 7530.0,
-      "major": true
-    },
-    {
-      "price": 7547.0,
-      "major": true
-    },
-    {
-      "price": 7572.0,
-      "major": true
-    },
-    {
-      "price": 7594.0,
-      "major": true
-    },
-    {
-      "price": 7611.0,
-      "major": true
-    },
     {
       "price": 7627.0,
       "major": true
@@ -39,45 +19,81 @@
       "major": true
     },
     {
-      "price": 7682.0,
+      "price": 7649.0,
       "major": true
     },
     {
-      "price": 7722.0,
+      "price": 7683.0,
       "major": true
     },
     {
-      "price": 7742.0,
+      "price": 7693.0,
       "major": true
     },
     {
-      "price": 7775.0,
+      "price": 7727.0,
+      "major": true
+    },
+    {
+      "price": 7741.0,
+      "major": true
+    },
+    {
+      "price": 7764.0,
+      "major": true
+    },
+    {
+      "price": 7790.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7506.0,
+      "price": 7611.0,
       "major": true
     },
     {
-      "price": 7492.0,
+      "price": 7594.0,
       "major": true
     },
     {
-      "price": 7473.0,
+      "price": 7567.0,
       "major": true
     },
     {
-      "price": 7449.0,
+      "price": 7549.0,
       "major": true
     },
     {
-      "price": 7427.0,
+      "price": 7531.0,
       "major": true
     },
     {
-      "price": 7417.0,
+      "price": 7516.0,
+      "major": true
+    },
+    {
+      "price": 7499.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    },
+    {
+      "price": 7451.0,
+      "major": true
+    },
+    {
+      "price": 7428.0,
+      "major": true
+    },
+    {
+      "price": 7411.0,
+      "major": true
+    },
+    {
+      "price": 7392.0,
       "major": true
     },
     {
@@ -85,15 +101,11 @@
       "major": true
     },
     {
-      "price": 7353.0,
+      "price": 7358.0,
       "major": true
     },
     {
-      "price": 7337.0,
-      "major": true
-    },
-    {
-      "price": 7325.0,
+      "price": 7333.0,
       "major": true
     },
     {
@@ -109,12 +121,20 @@
       "major": true
     },
     {
-      "price": 7245.0,
+      "price": 7256.0,
+      "major": true
+    },
+    {
+      "price": 7235.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish after Wednesday's FOMC flush to 7325 sparked a 190-point rally to ~7506. He expects bulls to hold 7449 on any dip Monday; a quick flush and recovery there is a buy targeting 7530, 7547, then 7575+. The key level is 7449: above it the rally continues, below it the upside case weakens and a breakdown short becomes possible. No new longs chased on strength from current levels.",
-  "fetched_at": "2026-08-03T05:00:18.117480+00:00"
+  "notes": "Trader is leaning bullish after a big multi-day rally from the 7325 failed breakdown. He has nothing new to buy at current highs and is waiting for a pullback. He wants ES to hold 7549 (or 7517 at worst) on any dip, then continue up toward 7627, 7639, 7649, and 7683. The pivot is 7517: above it bulls stay in control and the uptrend continues; below it the rally is in trouble.",
+  "fetched_at": "2026-08-04T05:00:13.584235+00:00"
 }
