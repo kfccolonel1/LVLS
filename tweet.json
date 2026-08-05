@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T12:01:29.769134+00:00",
-  "fetched_at_est": "2026-08-05T08:01:29.769139-04:00",
+  "fetched_at_utc": "2026-08-05T12:11:32.028185+00:00",
+  "fetched_at_est": "2026-08-05T08:11:32.028193-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084611188298543308",
-      "timestamp_utc": "2026-08-04T12:03:32.000Z",
-      "timestamp_est": "2026-08-04T08:03:32-04:00",
-      "tweet_text": "@OnTheHooch Its because we broke out the macro flag in Saturday's chart. Measured move here is easily 7850+, with some traps for bears and chasers en route",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7850+ is distance/math commentary on a measured move, not explicitly named as an actionable level with naming language."
-    },
-    {
-      "tweet_id": "2084612929597403139",
-      "timestamp_utc": "2026-08-04T12:10:27.000Z",
-      "timestamp_est": "2026-08-04T08:10:27-04:00",
-      "tweet_text": "@CorlukaDejan Hopefully. Need to either see a straight dip, or a consolidation now in order to start thinking about new trades.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user with no price levels named; purely conversational commentary about trade setup conditions."
-    },
     {
       "tweet_id": "2084628261133287463",
       "timestamp_utc": "2026-08-04T13:11:22.000Z",
