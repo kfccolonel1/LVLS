@@ -1,31 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T03:00:44.587904+00:00",
-  "fetched_at_est": "2026-08-04T23:00:44.587909-04:00",
+  "fetched_at_utc": "2026-08-05T12:01:29.769134+00:00",
+  "fetched_at_est": "2026-08-05T08:01:29.769139-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084609702860562465",
-      "timestamp_utc": "2026-08-04T11:57:37.000Z",
-      "timestamp_est": "2026-08-04T07:57:37-04:00",
-      "tweet_text": "Charting 101, all called out in advance. Last Wed, we had a massive Failed Breakdown long of 7325. Friday, we broke out a 2 week bull flag. That means straight up. Targets were 7626 (hit), 7649 (hit)\n\nPlan: Ride runner. 0 to do. 7673, 7683 next then much more. 39=weak support https://t.co/nlzZ5CBRyF",
-      "added_bull_levels": [
-        7673.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7673 named as 'next' target/resistance above \u2014 not in morning plan. 7683 and 7639 are already published levels. Actionable upside target qualifies."
-    },
-    {
-      "tweet_id": "2084609925104197739",
-      "timestamp_utc": "2026-08-04T11:58:30.000Z",
-      "timestamp_est": "2026-08-04T07:58:30-04:00",
-      "tweet_text": "Note: There is literally 0 to trade up here or anywhere near here. This is how ES works, you need to long when everyone is top calling on the \"elevator down\" sells. Then its lock out. No supports I'd trade until what I mentioned in newsletter which is &gt;100 points down now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary/observation; no specific price named as actionable. 'Newsletter' levels are prior-published, and no new price is explicitly cited."
-    },
     {
       "tweet_id": "2084611188298543308",
       "timestamp_utc": "2026-08-04T12:03:32.000Z",
@@ -220,6 +200,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7803, 7826, 7855 named as 'next' targets not in morning plan \u2014 explicit upside price sequence qualifying as actionable resistance/target levels."
+    },
+    {
+      "tweet_id": "2084970639627026721",
+      "timestamp_utc": "2026-08-05T11:51:52.000Z",
+      "timestamp_est": "2026-08-05T07:51:52-04:00",
+      "tweet_text": "We remain in parabolic melt-up in #ES_F.  Nothing to trade now. 7325 Failed Breakdown 1 week ago got us long for the macro bull flag breakout. After that? We go parabolic. Now +465\n\nPlan: 7803, 7826, 7855 next. 7763=micro support, 7709 below. No support I'd touch till 7649 https://t.co/PFs0jYprmk",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All named levels (7803, 7826, 7855, 7763, 7709\u22487707, 7649) are morning-plan reaffirmations. 7325 is hindsight context, not actionable."
     }
   ]
 }
