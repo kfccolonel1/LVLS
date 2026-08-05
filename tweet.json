@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T14:42:38.389008+00:00",
-  "fetched_at_est": "2026-08-05T10:42:38.389015-04:00",
+  "fetched_at_utc": "2026-08-05T15:02:45.286806+00:00",
+  "fetched_at_est": "2026-08-05T11:02:45.286814-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084654777179214285",
-      "timestamp_utc": "2026-08-04T14:56:44.000Z",
-      "timestamp_est": "2026-08-04T10:56:44-04:00",
-      "tweet_text": "@rainydaystocks @JohnnyComeL8Lee That's the cost of using a runner. You'll always give back profits there is no way to perfectly time when the market peaks. I am always bullish so I always just want to be a long runner",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trade philosophy/runner management. No prices mentioned, no actionable levels named."
-    },
-    {
-      "tweet_id": "2084655739402940776",
-      "timestamp_utc": "2026-08-04T15:00:33.000Z",
-      "timestamp_est": "2026-08-04T11:00:33-04:00",
-      "tweet_text": "Today a good example of a lockout rally and good example of why my hardest rule for #ES_F trading is never short (in bull, or bear markets, I long only). Now +390 from last Wednesday's Failed Breakdown. Today's targets were 7673, 7683, 7694, ATH's. We are here.\n\n7727, 7741 next https://t.co/Oy6eMVWxQb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7727 and 7741 are already in the morning plan. 7673/7683/7694 are observations of today's targets hit. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2084657155756400831",
       "timestamp_utc": "2026-08-04T15:06:11.000Z",
@@ -218,6 +200,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price levels named; purely conversational response with no actionable prices."
+    },
+    {
+      "tweet_id": "2085017898435657797",
+      "timestamp_utc": "2026-08-05T14:59:39.000Z",
+      "timestamp_est": "2026-08-05T10:59:39-04:00",
+      "tweet_text": "@veremcocapital I don't exit it until we lose the prior days low which is way down at 7632 ish or so now. Today we should set a higher low which would move that stop up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7632 is already in morning plan; comment is trade management (trailing stop logic), not a new actionable level."
     }
   ]
 }
