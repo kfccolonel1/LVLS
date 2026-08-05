@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T16:33:12.758442+00:00",
-  "fetched_at_est": "2026-08-05T12:33:12.758448-04:00",
+  "fetched_at_utc": "2026-08-05T16:43:14.985690+00:00",
+  "fetched_at_est": "2026-08-05T12:43:14.985696-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084679230235807823",
-      "timestamp_utc": "2026-08-04T16:33:54.000Z",
-      "timestamp_est": "2026-08-04T12:33:54-04:00",
-      "tweet_text": "@DWBenChimol No such thing as overextended market in a bull market. The higher it goes, the higher you should expect it to go",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary/market philosophy reply to a user. No price levels named or actionable triggers mentioned."
-    },
-    {
-      "tweet_id": "2084679382547787893",
-      "timestamp_utc": "2026-08-04T16:34:30.000Z",
-      "timestamp_est": "2026-08-04T12:34:30-04:00",
-      "tweet_text": "@Mister_J_Weezy I don't check the news either so I have no idea!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reply tweet, no price levels mentioned, no actionable content whatsoever."
-    },
-    {
-      "tweet_id": "2084679538076778779",
-      "timestamp_utc": "2026-08-04T16:35:08.000Z",
-      "timestamp_est": "2026-08-04T12:35:08-04:00",
-      "tweet_text": "@bhargaval All started from that FOMC bear trap, then into the two week bull flag breakout",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational/contextual observation about FOMC bear trap and bull flag breakout \u2014 no actionable price named at all."
-    },
     {
       "tweet_id": "2084682880966385819",
       "timestamp_utc": "2026-08-04T16:48:25.000Z",
