@@ -1,58 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T17:23:27.179366+00:00",
-  "fetched_at_est": "2026-08-05T13:23:27.179378-04:00",
+  "fetched_at_utc": "2026-08-05T17:43:34.157681+00:00",
+  "fetched_at_est": "2026-08-05T13:43:34.157686-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084694345588842854",
-      "timestamp_utc": "2026-08-04T17:33:58.000Z",
-      "timestamp_est": "2026-08-04T13:33:58-04:00",
-      "tweet_text": "@Vandeeee Nothing until 7650 that I'd touch now. Need to build new structure otherwise",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7650 is a conversational reply reference, no naming/actionable language used, and 7649 is already in morning plan. No new major level."
-    },
-    {
-      "tweet_id": "2084694652939071841",
-      "timestamp_utc": "2026-08-04T17:35:11.000Z",
-      "timestamp_est": "2026-08-04T13:35:11-04:00",
-      "tweet_text": "There's 7764 hit in #ES_F. We are now +440 from last Wednesday's 7325 Failed Breakdown. Combine that with Friday's two week bull flag breakout, and we get today's action. Not surprising, warned in advance. Next slate of targets were 7727 (hit), 7741 (hit), 7764 (hit).\n\n7783 next https://t.co/C6dbFqvsuk",
-      "added_bull_levels": [
-        7783.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7783 is named explicitly as 'next' target, not in morning plan. Other prices (7727, 7741, 7764) are morning-plan reaffirmations."
-    },
-    {
-      "tweet_id": "2084694779535806502",
-      "timestamp_utc": "2026-08-04T17:35:41.000Z",
-      "timestamp_est": "2026-08-04T13:35:41-04:00",
-      "tweet_text": "Note: Bull flag shown here in Saturday's chart https://t.co/m8MZ1dZGyI",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet references a chart showing a bull flag pattern \u2014 no explicit actionable price level named or quantified."
-    },
-    {
-      "tweet_id": "2084695497705414998",
-      "timestamp_utc": "2026-08-04T17:38:33.000Z",
-      "timestamp_est": "2026-08-04T13:38:33-04:00",
-      "tweet_text": "@venkyguda457 When we get a pullback people won't be looking to re-enter. They'll be calling a top again, surprised by how fast and deep the move down is, talking about whatever the headline was that caused it. Then they'll get trapped again",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure behavioral/sentiment commentary about trader psychology during pullbacks. No prices mentioned, no actionable levels named."
-    },
-    {
-      "tweet_id": "2084696325711360161",
-      "timestamp_utc": "2026-08-04T17:41:50.000Z",
-      "timestamp_est": "2026-08-04T13:41:50-04:00",
-      "tweet_text": "@KPferrarif8 @venkyguda457 I don't ever predict or call for pullbacks in ES. I am just always bullish. They happen when they happen or when a major support shelf fails (then I'll call for a pullback)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply explaining trading philosophy; no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2084714470119543225",
       "timestamp_utc": "2026-08-04T18:53:56.000Z",
@@ -200,6 +153,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply about market behavior and 'top callers'; no price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2085057593303572745",
+      "timestamp_utc": "2026-08-05T17:37:23.000Z",
+      "timestamp_est": "2026-08-05T13:37:23-04:00",
+      "tweet_text": "@1roguecowgirl @TheHealingTrade Its predicting so I don't know the answer! I don't have a crystal ball. If you start predicting then you create a bias and if you have a bias you cant respond to what is infront of you. My guess is either a tight flag above 7763 or a wider flag above 7649.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market scenarios; 7763 and 7649 are both morning-plan levels, and references are speculative/observational, not actionable new levels."
     }
   ]
 }
