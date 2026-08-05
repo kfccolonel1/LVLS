@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T13:12:18.336912+00:00",
-  "fetched_at_est": "2026-08-05T09:12:18.336921-04:00",
+  "fetched_at_utc": "2026-08-05T13:52:26.847640+00:00",
+  "fetched_at_est": "2026-08-05T09:52:26.847645-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -236,6 +236,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about FOMC timing; no price levels named or implied, no actionable language whatsoever."
+    },
+    {
+      "tweet_id": "2085000592108167475",
+      "timestamp_utc": "2026-08-05T13:50:53.000Z",
+      "timestamp_est": "2026-08-05T09:50:53-04:00",
+      "tweet_text": "The parabolic rip continues in #ES_F &amp; I've made it clear since Monday. Just ride a runner. This is a swing move and no longer of interest for day traders until a 50-200 point dip minimum. 7803 was 1st target today (hit). 7826, 7855 if ES wants more\n\n7763 1st micro, weak support https://t.co/vqAYRoJAQ3",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7803, 7826, 7855, 7763) are in morning plan. Tweet is trade management/reaffirmation with no new actionable levels introduced."
     }
   ]
 }
