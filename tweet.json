@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T16:53:17.434319+00:00",
-  "fetched_at_est": "2026-08-05T12:53:17.434329-04:00",
+  "fetched_at_utc": "2026-08-05T17:23:27.179366+00:00",
+  "fetched_at_est": "2026-08-05T13:23:27.179378-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -182,6 +182,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7763, 7782/7790\u22487783, 7803, 7733, 7707) are morning-plan levels or observations of price action. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2085052594976604415",
+      "timestamp_utc": "2026-08-05T17:17:31.000Z",
+      "timestamp_est": "2026-08-05T13:17:31-04:00",
+      "tweet_text": "We are finally building structure in #ES_F, creating the initial scaffolding of the first bull flag.This often takes a few days especially after the 400 point long we just had from the 7325 trigger.\n\n7763 was support. ES agrees, we trapped it. 7782, 7790, 7803+ above. 7733 below https://t.co/IatL8Im2v4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7763, 7782, 7790, 7803, 7733) are either morning-plan levels or observations of price action/structure; no newly named actionable levels."
+    },
+    {
+      "tweet_id": "2085053028214698018",
+      "timestamp_utc": "2026-08-05T17:19:14.000Z",
+      "timestamp_est": "2026-08-05T13:19:14-04:00",
+      "tweet_text": "@tradivate Havnt had a dip yet to see top callers. Usually they appear though on the first one!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual conversational reply about market behavior and 'top callers'; no price named, no actionable level, no naming language."
     }
   ]
 }
