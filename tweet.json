@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T17:43:34.157681+00:00",
-  "fetched_at_est": "2026-08-05T13:43:34.157686-04:00",
+  "fetched_at_utc": "2026-08-05T19:03:44.200021+00:00",
+  "fetched_at_est": "2026-08-05T15:03:44.200031-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084714470119543225",
-      "timestamp_utc": "2026-08-04T18:53:56.000Z",
-      "timestamp_est": "2026-08-04T14:53:56-04:00",
-      "tweet_text": "Closing update #ES_F: This has been the best long of 2026 and its unlikely we see another like it (2-3x  a year we get a 400+ point straight long). There is nothing to do now but ride a runner. Newsletter out shortly with where to buy the first dip. 7803, 7826, 7855 next",
-      "added_bull_levels": [
-        7803.0,
-        7826.0,
-        7855.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7803, 7826, 7855 named as 'next' targets not in morning plan \u2014 explicit upside price sequence qualifying as actionable resistance/target levels."
-    },
     {
       "tweet_id": "2084970639627026721",
       "timestamp_utc": "2026-08-05T11:51:52.000Z",
