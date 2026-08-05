@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T14:02:31.837245+00:00",
-  "fetched_at_est": "2026-08-05T10:02:31.837250-04:00",
+  "fetched_at_utc": "2026-08-05T14:22:34.963017+00:00",
+  "fetched_at_est": "2026-08-05T10:22:34.963026-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084644866630221901",
-      "timestamp_utc": "2026-08-04T14:17:21.000Z",
-      "timestamp_est": "2026-08-04T10:17:21-04:00",
-      "tweet_text": "This has been one of the biggest longs of 2026 in #ES_F and it was all given transparently, in advance, and updated real-time. 7325 Failed Breakdown Wednesday was our long. Now +368. Today's targets? 7673, 7683, 7694, ATHs. All hit\n\n7727, 7741 next. Just ride that runner now https://t.co/MSv9Ci8uXF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7673/7694 not in plan but presented as already-hit targets in hindsight recap; 7683/7727/7741 are morning-plan levels reaffirmed. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2084645055252332591",
-      "timestamp_utc": "2026-08-04T14:18:06.000Z",
-      "timestamp_est": "2026-08-04T10:18:06-04:00",
-      "tweet_text": "@OnTheHooch @upandown007 Yes, too small. As I said 7850+ is very conservative for a flag this size",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7850 is mentioned conversationally as a conservative target estimate in a reply, not named with actionable language as a level to trade."
-    },
-    {
-      "tweet_id": "2084645889151324493",
-      "timestamp_utc": "2026-08-04T14:21:25.000Z",
-      "timestamp_est": "2026-08-04T10:21:25-04:00",
-      "tweet_text": "@JohnnyComeL8Lee I don't close it. I just hold it until we selloff and take out the prior days low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about trade management (holding until selloff takes prior day low); no actionable price level named."
-    },
     {
       "tweet_id": "2084650898098184646",
       "timestamp_utc": "2026-08-04T14:41:19.000Z",
