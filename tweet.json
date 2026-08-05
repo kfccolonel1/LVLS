@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T15:02:45.286806+00:00",
-  "fetched_at_est": "2026-08-05T11:02:45.286814-04:00",
+  "fetched_at_utc": "2026-08-05T15:12:56.691050+00:00",
+  "fetched_at_est": "2026-08-05T11:12:56.691055-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2084657155756400831",
-      "timestamp_utc": "2026-08-04T15:06:11.000Z",
-      "timestamp_est": "2026-08-04T11:06:11-04:00",
-      "tweet_text": "@myBMW_S1000XR Bumps into Septembers bearish seasonality. Rallying all August very plausible though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational/seasonal commentary with no actionable price named. No levels mentioned at all."
-    },
     {
       "tweet_id": "2084678559033913493",
       "timestamp_utc": "2026-08-04T16:31:14.000Z",
@@ -209,6 +200,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7632 is already in morning plan; comment is trade management (trailing stop logic), not a new actionable level."
+    },
+    {
+      "tweet_id": "2085020994100416700",
+      "timestamp_utc": "2026-08-05T15:11:57.000Z",
+      "timestamp_est": "2026-08-05T11:11:57-04:00",
+      "tweet_text": "Parabolic rip continues in #ES_F but we are at least starting to build sideways structure after 400+ points straight up from last Wednesday's 7325 Failed Breakdown. Likely early scaffolding of next bull flag. \n\n7783=micro shelf, just swept. 64 below. 7803 (hit), 7826, 7855 next https://t.co/60jVhFOA5H",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7783, 7803, 7826, 7855) are in the morning plan. 7325 is a hindsight reference. No new actionable levels introduced."
     }
   ]
 }
