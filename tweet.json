@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-05T12:21:36.578798+00:00",
-  "fetched_at_est": "2026-08-05T08:21:36.578803-04:00",
+  "fetched_at_utc": "2026-08-05T12:52:05.813017+00:00",
+  "fetched_at_est": "2026-08-05T08:52:05.813036-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -200,6 +200,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about lack of volatility; no price level named or actionable instruction given."
+    },
+    {
+      "tweet_id": "2084983945679024332",
+      "timestamp_utc": "2026-08-05T12:44:44.000Z",
+      "timestamp_est": "2026-08-05T08:44:44-04:00",
+      "tweet_text": "@Vandeeee ES melts up all the time, its in its nature. We had a 600 point melt up in April, 365 pointer in June",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing historical move sizes (600pt, 365pt) \u2014 no actionable price named, no naming language used."
+    },
+    {
+      "tweet_id": "2084984080362287142",
+      "timestamp_utc": "2026-08-05T12:45:16.000Z",
+      "timestamp_est": "2026-08-05T08:45:16-04:00",
+      "tweet_text": "@Vandeeee Its one of the reasons why I always say never short ES, even if its a bear market/downtrend, you won't make money shorting it",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational trading philosophy reply; no price level named or actionable instruction given."
+    },
+    {
+      "tweet_id": "2084984351142322634",
+      "timestamp_utc": "2026-08-05T12:46:21.000Z",
+      "timestamp_est": "2026-08-05T08:46:21-04:00",
+      "tweet_text": "@mindbend360 Under yetserdays 7630 daily low",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7630 as an observation of price location relative to yesterday's low \u2014 no actionable naming language used."
     }
   ]
 }
