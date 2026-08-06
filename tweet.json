@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T19:06:43.574736+00:00",
-  "fetched_at_est": "2026-08-06T15:06:43.574744-04:00",
+  "fetched_at_utc": "2026-08-06T19:16:48.681522+00:00",
+  "fetched_at_est": "2026-08-06T15:16:48.681528-04:00",
   "last_new_level_added_at_est": "2026-08-06T13:08:49-04:00",
   "todays_new_levels": [
     {
@@ -108,6 +108,15 @@
         7708.0
       ],
       "notes": "7774 named as bull target (new, not in plan); 7708 named as 'no big supports until' (new bear support). 7763/7751/7782 are plan levels; 7325 is historical observation."
+    },
+    {
+      "tweet_id": "2085443959430471751",
+      "timestamp_utc": "2026-08-06T19:12:40.000Z",
+      "timestamp_est": "2026-08-06T15:12:40-04:00",
+      "tweet_text": "Closing update #ES_F: No volatility today to work with at all. Bulls must recover 7751 now to resume up to 7763+. Newsletter was sent out early today due to the low volatility",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7751 and 7763 are morning plan levels; 'must recover' is a reaffirmation. No new actionable prices introduced."
     }
   ]
 }
