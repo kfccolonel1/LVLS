@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T11:25:16.256184+00:00",
-  "fetched_at_est": "2026-08-06T07:25:16.256188-04:00",
+  "fetched_at_utc": "2026-08-06T11:55:23.820388+00:00",
+  "fetched_at_est": "2026-08-06T07:55:23.820392-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084970639627026721",
-      "timestamp_utc": "2026-08-05T11:51:52.000Z",
-      "timestamp_est": "2026-08-05T07:51:52-04:00",
-      "tweet_text": "We remain in parabolic melt-up in #ES_F.  Nothing to trade now. 7325 Failed Breakdown 1 week ago got us long for the macro bull flag breakout. After that? We go parabolic. Now +465\n\nPlan: 7803, 7826, 7855 next. 7763=micro support, 7709 below. No support I'd touch till 7649 https://t.co/PFs0jYprmk",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All named levels (7803, 7826, 7855, 7763, 7709\u22487707, 7649) are morning-plan reaffirmations. 7325 is hindsight context, not actionable."
-    },
     {
       "tweet_id": "2084976812103290916",
       "timestamp_utc": "2026-08-05T12:16:23.000Z",
@@ -187,6 +178,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7772 named as must-reclaim trigger for bull scalp; 7785 named as explicit scalp target \u2014 both are new actionable levels not in morning plan."
+    },
+    {
+      "tweet_id": "2085331633817686097",
+      "timestamp_utc": "2026-08-06T11:46:19.000Z",
+      "timestamp_est": "2026-08-06T07:46:19-04:00",
+      "tweet_text": "@weneedthepoo Yes, I've cut it down to a 25% runner though due to the lack of volatility.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management reply \u2014 trimming runner size, no price level named or actionable trigger given."
     }
   ]
 }
