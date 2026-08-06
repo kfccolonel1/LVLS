@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T13:45:50.171007+00:00",
-  "fetched_at_est": "2026-08-06T09:45:50.171011-04:00",
+  "fetched_at_utc": "2026-08-06T13:55:52.545481+00:00",
+  "fetched_at_est": "2026-08-06T09:55:52.545486-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2085000592108167475",
-      "timestamp_utc": "2026-08-05T13:50:53.000Z",
-      "timestamp_est": "2026-08-05T09:50:53-04:00",
-      "tweet_text": "The parabolic rip continues in #ES_F &amp; I've made it clear since Monday. Just ride a runner. This is a swing move and no longer of interest for day traders until a 50-200 point dip minimum. 7803 was 1st target today (hit). 7826, 7855 if ES wants more\n\n7763 1st micro, weak support https://t.co/vqAYRoJAQ3",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7803, 7826, 7855, 7763) are in morning plan. Tweet is trade management/reaffirmation with no new actionable levels introduced."
-    },
     {
       "tweet_id": "2085002932819247393",
       "timestamp_utc": "2026-08-05T14:00:11.000Z",
