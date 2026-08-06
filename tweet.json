@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T12:45:36.185816+00:00",
-  "fetched_at_est": "2026-08-06T08:45:36.185821-04:00",
+  "fetched_at_utc": "2026-08-06T12:55:38.424769+00:00",
+  "fetched_at_est": "2026-08-06T08:55:38.424776-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084984351142322634",
-      "timestamp_utc": "2026-08-05T12:46:21.000Z",
-      "timestamp_est": "2026-08-05T08:46:21-04:00",
-      "tweet_text": "@mindbend360 Under yetserdays 7630 daily low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing 7630 as an observation of price location relative to yesterday's low \u2014 no actionable naming language used."
-    },
-    {
-      "tweet_id": "2084985944021594461",
-      "timestamp_utc": "2026-08-05T12:52:40.000Z",
-      "timestamp_est": "2026-08-05T08:52:40-04:00",
-      "tweet_text": "Unfortunately nothing to do now for day traders in #ES_F. This is a swing move and we just hold runners and don't press buttons until we get a 50-200 point sell to bring back vol. 7803 was 1st target today (hit). 7826, 7855 if ES wants more.\n\n7763 1st micro support. 7709 below https://t.co/JWVGVR20cQ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7803, 7826, 7855, 7763, 7709\u22487707) are reaffirmations of morning-plan levels or trade management commentary; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2084987287536861212",
       "timestamp_utc": "2026-08-05T12:58:01.000Z",
