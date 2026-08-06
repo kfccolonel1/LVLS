@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T15:26:05.749958+00:00",
-  "fetched_at_est": "2026-08-06T11:26:05.749965-04:00",
+  "fetched_at_utc": "2026-08-06T15:36:07.937984+00:00",
+  "fetched_at_est": "2026-08-06T11:36:07.937990-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2085024722329157849",
-      "timestamp_utc": "2026-08-05T15:26:46.000Z",
-      "timestamp_est": "2026-08-05T11:26:46-04:00",
-      "tweet_text": "We finally got a micro-dip to the 1st weak support after 400+ points straight up from last Wednesday's 7325 Failed Breakdown. Now time to finally let #ES_F digest and build fresh structure (this takes days)\n\n7763 was support, held exact. 7782, 7790, 7803+ above. 7733, 7707 below https://t.co/60jVhFOA5H",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7763, 7782/7790\u22487783, 7803, 7733, 7707) are morning-plan levels or observations of price action. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2085052594976604415",
       "timestamp_utc": "2026-08-05T17:17:31.000Z",
