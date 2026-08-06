@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T15:36:07.937984+00:00",
-  "fetched_at_est": "2026-08-06T11:36:07.937990-04:00",
+  "fetched_at_utc": "2026-08-06T15:56:14.463148+00:00",
+  "fetched_at_est": "2026-08-06T11:56:14.463153-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -101,6 +101,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7772 is named as the next bull target requiring forceful recovery \u2014 not in morning plan. 7785/7800/7741/7708 are all morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2085394380060328419",
+      "timestamp_utc": "2026-08-06T15:55:39.000Z",
+      "timestamp_est": "2026-08-06T11:55:39-04:00",
+      "tweet_text": "Volatility still very low in #ES_F but we have finally broken down that 7751 level which has been a big support shelf for 24hrs.  7741 (hit), 7708 were next down.\n\nIn order to rally now, ES must recover that 7751 shelf which would produce a large Failed Breakdown to 7763+ https://t.co/vMLqoodEqH",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7751, 7741, 7708, 7763) are morning-plan levels; tweet is observational/reaffirmation with no new actionable levels introduced."
     }
   ]
 }
