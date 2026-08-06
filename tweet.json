@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T12:25:27.368895+00:00",
-  "fetched_at_est": "2026-08-06T08:25:27.368903-04:00",
+  "fetched_at_utc": "2026-08-06T12:35:33.952706+00:00",
+  "fetched_at_est": "2026-08-06T08:35:33.952711-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -178,6 +178,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Trade management reply \u2014 trimming runner size, no price level named or actionable trigger given."
+    },
+    {
+      "tweet_id": "2085341677657453042",
+      "timestamp_utc": "2026-08-06T12:26:14.000Z",
+      "timestamp_est": "2026-08-06T08:26:14-04:00",
+      "tweet_text": "No volatility now in #ES_F and dangerous to engage this type of low vol chop. ES is digesting the recent 400+ point rally. 7763 remains a key pivot but its now used up\n\nBulls need to hold 7751 and recover 7763 now with force to see 7772, 7785, 7800. We dip&lt;7751 to 7741, 7708 https://t.co/ac18rvnbBt",
+      "added_bull_levels": [
+        7772.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7772 named as bull target ('to see 7772') not in morning plan; 7785 close to plan's 7783 treated as reaffirmation; all others are morning-plan levels."
     }
   ]
 }
