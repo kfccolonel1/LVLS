@@ -1,13 +1,12 @@
 {
-  "session_date": "2026-08-05",
-  "daily_pivot": 7516.0,
-  "regime_hint": "C1",
+  "session_date": "2026-08-06",
+  "daily_pivot": 7763.0,
+  "regime_hint": "C4",
   "significant_lows": [
+    7763.0,
+    7751.0,
     7632.0,
-    7649.0,
-    7549.0,
-    7517.0,
-    7499.0
+    7516.0
   ],
   "bull_levels": [
     {
@@ -15,27 +14,35 @@
       "major": true
     },
     {
-      "price": 7803.0,
+      "price": 7800.0,
       "major": true
     },
     {
-      "price": 7826.0,
+      "price": 7820.0,
       "major": true
     },
     {
-      "price": 7835.0,
+      "price": 7856.0,
       "major": true
     },
     {
-      "price": 7855.0,
+      "price": 7863.0,
       "major": true
     },
     {
-      "price": 7875.0,
+      "price": 7876.0,
       "major": true
     },
     {
-      "price": 7894.0,
+      "price": 7920.0,
+      "major": true
+    },
+    {
+      "price": 7931.0,
+      "major": true
+    },
+    {
+      "price": 7941.0,
       "major": true
     }
   ],
@@ -45,11 +52,7 @@
       "major": true
     },
     {
-      "price": 7742.0,
-      "major": true
-    },
-    {
-      "price": 7733.0,
+      "price": 7741.0,
       "major": true
     },
     {
@@ -57,15 +60,19 @@
       "major": true
     },
     {
-      "price": 7673.0,
+      "price": 7694.0,
       "major": true
     },
     {
-      "price": 7650.0,
+      "price": 7672.0,
       "major": true
     },
     {
-      "price": 7637.0,
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7638.0,
       "major": true
     },
     {
@@ -73,24 +80,32 @@
       "major": true
     },
     {
-      "price": 7583.0,
+      "price": 7597.0,
       "major": true
     },
     {
-      "price": 7567.0,
+      "price": 7575.0,
       "major": true
     },
     {
-      "price": 7549.0,
+      "price": 7548.0,
       "major": true
     },
     {
-      "price": 7517.0,
+      "price": 7529.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7491.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES is parabolic at all-time highs after a 340+ point rally from last Wednesday's FOMC failed breakdown at 7325. Trader is riding a long runner and sees nothing to do on the long side until price pulls back significantly. He leans bullish toward 7803, 7826, 7855. The key pivot is 7516: above it, bulls are fully in control and any dip is just a breakout backtest; below it, the bullish thesis weakens materially.",
-  "fetched_at": "2026-08-05T05:00:20.272946+00:00"
+  "notes": "After a 3-day, 400+ point parabolic rally, ES is starting to consolidate. The trader is already holding a long runner from the original 7325 entry and is not chasing new longs at current heights. He leans bullish: if ES holds around 7763 (prior day's significant low, the key pivot \u2014 bulls favored above it, deeper pullback risk below), he expects a range between 7763 and 7800 before resuming up toward 7820, 7856, then 7876. A drop below 7751 could trigger a deeper retrace.",
+  "fetched_at": "2026-08-06T05:00:14.699857+00:00"
 }
