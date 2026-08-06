@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T17:46:35.445264+00:00",
-  "fetched_at_est": "2026-08-06T13:46:35.445269-04:00",
+  "fetched_at_utc": "2026-08-06T19:06:43.574736+00:00",
+  "fetched_at_est": "2026-08-06T15:06:43.574744-04:00",
   "last_new_level_added_at_est": "2026-08-06T13:08:49-04:00",
   "todays_new_levels": [
     {
@@ -35,17 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2085079834573537363",
-      "timestamp_utc": "2026-08-05T19:05:46.000Z",
-      "timestamp_est": "2026-08-05T15:05:46-04:00",
-      "tweet_text": "Closing update #ES_F: ES likes 7763 and has been stuck here for hours as we begin to build a consolidation structure and digest recent leg up. Bulls want to hold this ideally tonight which sets up 7782, 7790, 7800+. 7763-7800 likely a chop range. Newsletter out soon with entries",
-      "added_bull_levels": [
-        7790.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7790 is named for first time as a bull target/watch level; 7782 and 7800 are morning-plan levels (7783/7803 approx), 7763 already in plan."
-    },
     {
       "tweet_id": "2085326037966074241",
       "timestamp_utc": "2026-08-06T11:24:05.000Z",
