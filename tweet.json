@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T15:06:01.147263+00:00",
-  "fetched_at_est": "2026-08-06T11:06:01.147270-04:00",
+  "fetched_at_utc": "2026-08-06T15:16:03.535823+00:00",
+  "fetched_at_est": "2026-08-06T11:16:03.535830-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2085020994100416700",
-      "timestamp_utc": "2026-08-05T15:11:57.000Z",
-      "timestamp_est": "2026-08-05T11:11:57-04:00",
-      "tweet_text": "Parabolic rip continues in #ES_F but we are at least starting to build sideways structure after 400+ points straight up from last Wednesday's 7325 Failed Breakdown. Likely early scaffolding of next bull flag. \n\n7783=micro shelf, just swept. 64 below. 7803 (hit), 7826, 7855 next https://t.co/60jVhFOA5H",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7783, 7803, 7826, 7855) are in the morning plan. 7325 is a hindsight reference. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2085024165623415156",
       "timestamp_utc": "2026-08-05T15:24:33.000Z",
