@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T13:05:41.540344+00:00",
-  "fetched_at_est": "2026-08-06T09:05:41.540352-04:00",
+  "fetched_at_utc": "2026-08-06T13:45:50.171007+00:00",
+  "fetched_at_est": "2026-08-06T09:45:50.171011-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -144,6 +144,17 @@
       ],
       "added_bear_levels": [],
       "notes": "7772 named as bull target ('to see 7772') not in morning plan; 7785 close to plan's 7783 treated as reaffirmation; all others are morning-plan levels."
+    },
+    {
+      "tweet_id": "2085360067889582463",
+      "timestamp_utc": "2026-08-06T13:39:18.000Z",
+      "timestamp_est": "2026-08-06T09:39:18-04:00",
+      "tweet_text": "Very slow, low volatility chop in #ES_F as we digest the recent rally. ES is low glued to 7763 which remains a magnet. It needs to recover with force to see 7772, 7785, 7800+. If today's current lows fail, next big support is 7741, then down to 7708. Don't overtrade here https://t.co/VQ22JJ2Cas",
+      "added_bull_levels": [
+        7772.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7772 is named as the next bull target requiring forceful recovery \u2014 not in morning plan. 7785/7800/7741/7708 are all morning-plan reaffirmations."
     }
   ]
 }
