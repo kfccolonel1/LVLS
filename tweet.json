@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T12:55:38.424769+00:00",
-  "fetched_at_est": "2026-08-06T08:55:38.424776-04:00",
+  "fetched_at_utc": "2026-08-06T13:05:41.540344+00:00",
+  "fetched_at_est": "2026-08-06T09:05:41.540352-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2084987287536861212",
-      "timestamp_utc": "2026-08-05T12:58:01.000Z",
-      "timestamp_est": "2026-08-05T08:58:01-04:00",
-      "tweet_text": "@Velcrodog3 Should've been buying after FOMC last Wednesday! Everyone was busy calling a top",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about FOMC timing; no price levels named or implied, no actionable language whatsoever."
-    },
     {
       "tweet_id": "2085000592108167475",
       "timestamp_utc": "2026-08-05T13:50:53.000Z",
