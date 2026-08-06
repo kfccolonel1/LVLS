@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-06T14:05:54.894361+00:00",
-  "fetched_at_est": "2026-08-06T10:05:54.894366-04:00",
+  "fetched_at_utc": "2026-08-06T15:06:01.147263+00:00",
+  "fetched_at_est": "2026-08-06T11:06:01.147270-04:00",
   "last_new_level_added_at_est": "2026-08-06T07:24:05-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2085017898435657797",
-      "timestamp_utc": "2026-08-05T14:59:39.000Z",
-      "timestamp_est": "2026-08-05T10:59:39-04:00",
-      "tweet_text": "@veremcocapital I don't exit it until we lose the prior days low which is way down at 7632 ish or so now. Today we should set a higher low which would move that stop up",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7632 is already in morning plan; comment is trade management (trailing stop logic), not a new actionable level."
-    },
     {
       "tweet_id": "2085020994100416700",
       "timestamp_utc": "2026-08-05T15:11:57.000Z",
