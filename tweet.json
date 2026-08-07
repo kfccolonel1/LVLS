@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T13:49:02.417541+00:00",
-  "fetched_at_est": "2026-08-07T09:49:02.417545-04:00",
+  "fetched_at_utc": "2026-08-07T14:19:12.204049+00:00",
+  "fetched_at_est": "2026-08-07T10:19:12.204059-04:00",
   "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
   "todays_new_levels": [
     {
@@ -100,6 +100,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about ES move magnitude; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2085731019974447202",
+      "timestamp_utc": "2026-08-07T14:13:20.000Z",
+      "timestamp_est": "2026-08-07T10:13:20-04:00",
+      "tweet_text": "@Claudirxl @CorlukaDejan In this case barely even backtests the breakout region which is at 7516! 250 points is just a normal, bullish, shallow backtest",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7516 is a conversational/observational reference ('barely even backtests the breakout region') with no actionable naming language; 7518 is already in morning plan."
+    },
+    {
+      "tweet_id": "2085732264667664852",
+      "timestamp_utc": "2026-08-07T14:18:17.000Z",
+      "timestamp_est": "2026-08-07T10:18:17-04:00",
+      "tweet_text": "This is extremely poor quality action in #ES_F. This is digestion/structure building after 400+ points straight up from last Wednesday's long. It takes days to build a new flag to start the next leg higher. 7751 reclaims were today's long. 7763 1st targe, 7774 2nd, 7782 3rd https://t.co/eKY62YbrUe",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7751/7763/7774/7782 are all in morning plan or observations of targets hit; no new actionable levels named for first time."
     }
   ]
 }
