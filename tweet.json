@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T17:29:57.278042+00:00",
-  "fetched_at_est": "2026-08-07T13:29:57.278053-04:00",
+  "fetched_at_utc": "2026-08-07T18:40:20.623825+00:00",
+  "fetched_at_est": "2026-08-07T14:40:20.623835-04:00",
   "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
   "todays_new_levels": [
     {
@@ -132,6 +132,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market behavior and retail trader psychology. No price levels named or implied whatsoever."
+    },
+    {
+      "tweet_id": "2085797460618723743",
+      "timestamp_utc": "2026-08-07T18:37:21.000Z",
+      "timestamp_est": "2026-08-07T14:37:21-04:00",
+      "tweet_text": "Work done today in #ES_F and wrap it up for the weekend now, just ride runner. Easy session: 7751 Reclaim was long trigger. Targets were 3: 7763, 7774, 7782. 7800 next. 7726-7800 is a new flag forming to setup next macro trend leg. It is young &amp; still has plenty of work to finish https://t.co/Ph7CgZ6E3b",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7751,7763,7774,7782,7800) are morning-plan levels or trade management/targets already hit. '7726-7800 flag' is macro commentary, not a new actionable level."
+    },
+    {
+      "tweet_id": "2085797607146656048",
+      "timestamp_utc": "2026-08-07T18:37:56.000Z",
+      "timestamp_est": "2026-08-07T14:37:56-04:00",
+      "tweet_text": "@UmpaLumpagimp I use the 10min or 15min typically. Usually 10.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about timeframe preference \u2014 no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2085797677938221067",
+      "timestamp_utc": "2026-08-07T18:38:13.000Z",
+      "timestamp_est": "2026-08-07T14:38:13-04:00",
+      "tweet_text": "Note: Newsletter will be sent early due to lack of volatility detailing next entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely an administrative note about newsletter timing and low volatility."
     }
   ]
 }
