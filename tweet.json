@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T14:19:12.204049+00:00",
-  "fetched_at_est": "2026-08-07T10:19:12.204059-04:00",
+  "fetched_at_utc": "2026-08-07T14:49:19.423246+00:00",
+  "fetched_at_est": "2026-08-07T10:49:19.423251-04:00",
   "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
   "todays_new_levels": [
     {
@@ -118,6 +118,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7751/7763/7774/7782 are all in morning plan or observations of targets hit; no new actionable levels named for first time."
+    },
+    {
+      "tweet_id": "2085738658091413697",
+      "timestamp_utc": "2026-08-07T14:43:41.000Z",
+      "timestamp_est": "2026-08-07T10:43:41-04:00",
+      "tweet_text": "@X18C30 In these markets there's no option. Price just doesn't have the energy to do more than a level or two for long periods",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about price behavior and energy; no actionable price level named or implied."
     }
   ]
 }
