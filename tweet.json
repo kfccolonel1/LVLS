@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T11:28:33.157352+00:00",
-  "fetched_at_est": "2026-08-07T07:28:33.157359-04:00",
+  "fetched_at_utc": "2026-08-07T11:48:36.572398+00:00",
+  "fetched_at_est": "2026-08-07T07:48:36.572406-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2085331633817686097",
-      "timestamp_utc": "2026-08-06T11:46:19.000Z",
-      "timestamp_est": "2026-08-06T07:46:19-04:00",
-      "tweet_text": "@weneedthepoo Yes, I've cut it down to a 25% runner though due to the lack of volatility.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management reply \u2014 trimming runner size, no price level named or actionable trigger given."
-    },
     {
       "tweet_id": "2085341677657453042",
       "timestamp_utc": "2026-08-06T12:26:14.000Z",
