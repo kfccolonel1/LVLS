@@ -1,23 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T01:17:19.500226+00:00",
-  "fetched_at_est": "2026-08-06T21:17:19.500234-04:00",
+  "fetched_at_utc": "2026-08-07T11:28:33.157352+00:00",
+  "fetched_at_est": "2026-08-07T07:28:33.157359-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2085326037966074241",
-      "timestamp_utc": "2026-08-06T11:24:05.000Z",
-      "timestamp_est": "2026-08-06T07:24:05-04:00",
-      "tweet_text": "After 4 days of parabolic upside, #ES_F is finally basing. This process often takes days. 7763 was support given yesterday and ES agrees, stuck here since 10am yesterday. This lvl is weak, choppy\n\nPlan today: 7772 must reclaim to scalp to 7785, 7800+. 7751 fails, dip 7741, 7708 https://t.co/NnlkRsXO6I",
-      "added_bull_levels": [
-        7772.0,
-        7785.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7772 named as must-reclaim trigger for bull scalp; 7785 named as explicit scalp target \u2014 both are new actionable levels not in morning plan."
-    },
     {
       "tweet_id": "2085331633817686097",
       "timestamp_utc": "2026-08-06T11:46:19.000Z",
