@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T12:28:46.906191+00:00",
-  "fetched_at_est": "2026-08-07T08:28:46.906199-04:00",
+  "fetched_at_utc": "2026-08-07T13:18:55.665867+00:00",
+  "fetched_at_est": "2026-08-07T09:18:55.665872-04:00",
   "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
   "todays_new_levels": [
     {
@@ -93,6 +93,15 @@
         7694.0
       ],
       "notes": "7763, 7774 named as bull targets above shelf; 7707, 7694 named as flush targets below 7722 \u2014 none of these are in the morning plan."
+    },
+    {
+      "tweet_id": "2085715079270428834",
+      "timestamp_utc": "2026-08-07T13:10:00.000Z",
+      "timestamp_est": "2026-08-07T09:10:00-04:00",
+      "tweet_text": "Volatility still very low in #ES_F but nice pop to start. 7751-56 had to reclaim to see 7763 (hit), 7774 (hit), 7782 (not yet). If ES can get up there we can then head to 7800+. 7751 to 7800=a pure chop range. Digesting the 400 point leg up, do not overtrade in this zone https://t.co/ymYx58Ua3v",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7751, 7763, 7774, 7782, 7800) are morning-plan levels or observations of price action hitting targets; no new actionable levels named."
     }
   ]
 }
