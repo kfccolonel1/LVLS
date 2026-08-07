@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T14:49:19.423246+00:00",
-  "fetched_at_est": "2026-08-07T10:49:19.423251-04:00",
+  "fetched_at_utc": "2026-08-07T15:09:25.893740+00:00",
+  "fetched_at_est": "2026-08-07T11:09:25.893745-04:00",
   "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
   "todays_new_levels": [
     {
@@ -127,6 +127,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about price behavior and energy; no actionable price level named or implied."
+    },
+    {
+      "tweet_id": "2085743213768249353",
+      "timestamp_utc": "2026-08-07T15:01:48.000Z",
+      "timestamp_est": "2026-08-07T11:01:48-04:00",
+      "tweet_text": "There's the full 3 set target slate for today ran in #ES_F. 7751 reclaims are today's long entry and we got it twice. Targets were 7763 (hit), 7774 (hit), 7782 (hit). 7800 if ES wants more. 7751-7800 is a tight chop range as we build a flag, to setup the next leg up later on https://t.co/bI6GZncvlM",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7751, 7763, 7774, 7782, 7800) are morning-plan levels or target observations/hindsight. No new actionable levels introduced."
     }
   ]
 }
