@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T16:19:41.531973+00:00",
-  "fetched_at_est": "2026-08-07T12:19:41.531980-04:00",
+  "fetched_at_utc": "2026-08-07T17:09:47.447282+00:00",
+  "fetched_at_est": "2026-08-07T13:09:47.447289-04:00",
   "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
   "todays_new_levels": [
     {
@@ -28,19 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2085412793302360247",
-      "timestamp_utc": "2026-08-06T17:08:49.000Z",
-      "timestamp_est": "2026-08-06T13:08:49-04:00",
-      "tweet_text": "No volatility in #ES_F at all and everything in slow motion today. Price is resting after a 400+ point vertical rally from the 7325 Failed Breakdown last Wednesday. Bulls must recover 7751 to see 7763, 7774, 7782+.\n\nNo big supports now until 7708 https://t.co/9St1cvXTqa",
-      "added_bull_levels": [
-        7774.0
-      ],
-      "added_bear_levels": [
-        7708.0
-      ],
-      "notes": "7774 named as bull target (new, not in plan); 7708 named as 'no big supports until' (new bear support). 7763/7751/7782 are plan levels; 7325 is historical observation."
-    },
     {
       "tweet_id": "2085443959430471751",
       "timestamp_utc": "2026-08-06T19:12:40.000Z",
