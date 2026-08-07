@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T13:18:55.665867+00:00",
-  "fetched_at_est": "2026-08-07T09:18:55.665872-04:00",
+  "fetched_at_utc": "2026-08-07T13:49:02.417541+00:00",
+  "fetched_at_est": "2026-08-07T09:49:02.417545-04:00",
   "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2085360067889582463",
-      "timestamp_utc": "2026-08-06T13:39:18.000Z",
-      "timestamp_est": "2026-08-06T09:39:18-04:00",
-      "tweet_text": "Very slow, low volatility chop in #ES_F as we digest the recent rally. ES is low glued to 7763 which remains a magnet. It needs to recover with force to see 7772, 7785, 7800+. If today's current lows fail, next big support is 7741, then down to 7708. Don't overtrade here https://t.co/VQ22JJ2Cas",
-      "added_bull_levels": [
-        7772.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7772 is named as the next bull target requiring forceful recovery \u2014 not in morning plan. 7785/7800/7741/7708 are all morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2085394380060328419",
       "timestamp_utc": "2026-08-06T15:55:39.000Z",
@@ -102,6 +91,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7751, 7763, 7774, 7782, 7800) are morning-plan levels or observations of price action hitting targets; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2085722459114815621",
+      "timestamp_utc": "2026-08-07T13:39:19.000Z",
+      "timestamp_est": "2026-08-07T09:39:19-04:00",
+      "tweet_text": "@Claudirxl @CorlukaDejan 250 points down actually isnt much in ES. It goes \"elevator down\". Can see that in a day or two of  a normal sell cycle",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about ES move magnitude; no price named, no actionable level introduced."
     }
   ]
 }
