@@ -1,10 +1,32 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T11:48:36.572398+00:00",
-  "fetched_at_est": "2026-08-07T07:48:36.572406-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-07T11:58:42.868004+00:00",
+  "fetched_at_est": "2026-08-07T07:58:42.868008-04:00",
+  "last_new_level_added_at_est": "2026-08-07T07:53:24-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7763.0,
+      "side": "bull",
+      "added_at_est": "2026-08-07T07:53:24-04:00",
+      "expires_at_est": "2026-08-07T15:53:24-04:00",
+      "from_tweet_id": "2085695803016831483"
+    },
+    {
+      "price": 7707.0,
+      "side": "bear",
+      "added_at_est": "2026-08-07T07:53:24-04:00",
+      "expires_at_est": "2026-08-07T15:53:24-04:00",
+      "from_tweet_id": "2085695803016831483"
+    },
+    {
+      "price": 7694.0,
+      "side": "bear",
+      "added_at_est": "2026-08-07T07:53:24-04:00",
+      "expires_at_est": "2026-08-07T15:53:24-04:00",
+      "from_tweet_id": "2085695803016831483"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2085341677657453042",
@@ -67,6 +89,21 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7751 and 7763 are morning plan levels; 'must recover' is a reaffirmation. No new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2085695803016831483",
+      "timestamp_utc": "2026-08-07T11:53:24.000Z",
+      "timestamp_est": "2026-08-07T07:53:24-04:00",
+      "tweet_text": "After a 400+ point long from the 7325 Failed Breakdown last Wed, #ES_F is now digesting. This will be very choppy &amp; slow now. Don't overtrade.\n\nPlan today: 7751-56=a massive shelf. Bulls must recover with vol to see 7763, 7774, 7782+. 7722 below, fail there we flush to 7707, 7694 https://t.co/fABwE1ULtB",
+      "added_bull_levels": [
+        7763.0,
+        7774.0
+      ],
+      "added_bear_levels": [
+        7707.0,
+        7694.0
+      ],
+      "notes": "7763, 7774 named as bull targets above shelf; 7707, 7694 named as flush targets below 7722 \u2014 none of these are in the morning plan."
     }
   ]
 }
