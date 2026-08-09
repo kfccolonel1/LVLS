@@ -1,25 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-09T04:00:27.809575+00:00",
-  "fetched_at_est": "2026-08-09T00:00:27.809587-04:00",
+  "fetched_at_utc": "2026-08-09T13:36:50.861284+00:00",
+  "fetched_at_est": "2026-08-09T09:36:50.861290-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2086081721242468473",
-      "timestamp_utc": "2026-08-08T13:26:54.000Z",
-      "timestamp_est": "2026-08-08T09:26:54-04:00",
-      "tweet_text": "Big Picture View #ES_F: Last week was charting 101. I week ago I posted it built a 2 week bull flag and broke out. What was the plan? Rip, and we did\n\nPlan Next Week: Consolidate, flag again. 7800-7724=the range. Breakout targets 7820, 7870, then 7920. 7724 fails, dip 7695, 7649 https://t.co/PebxT330ef",
-      "added_bull_levels": [
-        7870.0
-      ],
-      "added_bear_levels": [
-        7724.0,
-        7649.0
-      ],
-      "notes": "7870 is a new breakout target not in morning plan; 7724 named as range floor/failure trigger; 7649 named as dip target on 7724 fail \u2014 all actionable and new."
-    },
     {
       "tweet_id": "2086159890829934902",
       "timestamp_utc": "2026-08-08T18:37:31.000Z",
