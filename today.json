@@ -1,23 +1,14 @@
 {
-  "session_date": "2026-08-07",
+  "session_date": "2026-08-10",
   "daily_pivot": 7751,
-  "regime_hint": "C4",
+  "regime_hint": "C2",
   "significant_lows": [
     7751,
-    7710,
-    7673,
-    7637,
-    7567
+    7744,
+    7724,
+    7632
   ],
   "bull_levels": [
-    {
-      "price": 7751.0,
-      "major": true
-    },
-    {
-      "price": 7767.0,
-      "major": true
-    },
     {
       "price": 7783.0,
       "major": true
@@ -31,37 +22,41 @@
       "major": true
     },
     {
-      "price": 7839.0,
+      "price": 7840.0,
       "major": true
     },
     {
-      "price": 7865.0,
+      "price": 7883.0,
       "major": true
     },
     {
-      "price": 7881.0,
+      "price": 7893.0,
       "major": true
     },
     {
-      "price": 7909.0,
+      "price": 7936.0,
       "major": true
     },
     {
-      "price": 7929.0,
+      "price": 7965.0,
       "major": true
     },
     {
-      "price": 7944.0,
-      "major": true
-    },
-    {
-      "price": 7967.0,
+      "price": 8029.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7725.0,
+      "price": 7751.0,
+      "major": true
+    },
+    {
+      "price": 7734.0,
+      "major": true
+    },
+    {
+      "price": 7724.0,
       "major": true
     },
     {
@@ -73,15 +68,11 @@
       "major": true
     },
     {
-      "price": 7673.0,
+      "price": 7671.0,
       "major": true
     },
     {
-      "price": 7661.0,
-      "major": true
-    },
-    {
-      "price": 7640.0,
+      "price": 7641.0,
       "major": true
     },
     {
@@ -93,68 +84,72 @@
       "major": true
     },
     {
-      "price": 7604.0,
+      "price": 7597.0,
       "major": true
     },
     {
-      "price": 7576.0,
+      "price": 7575.0,
       "major": true
     },
     {
-      "price": 7563.0,
+      "price": 7549.0,
       "major": true
     },
     {
-      "price": 7547.0,
+      "price": 7538.0,
       "major": true
     },
     {
-      "price": 7518.0,
+      "price": 7506.0,
       "major": true
     },
     {
-      "price": 7482.0,
+      "price": 7474.0,
       "major": true
     },
     {
-      "price": 7447.0,
+      "price": 7444.0,
       "major": true
     },
     {
-      "price": 7418.0,
+      "price": 7428.0,
       "major": true
     },
     {
-      "price": 7402.0,
+      "price": 7392.0,
       "major": true
     },
     {
-      "price": 7374.0,
+      "price": 7373.0,
       "major": true
     },
     {
-      "price": 7351.0,
+      "price": 7336.0,
       "major": true
     },
     {
-      "price": 7326.0,
+      "price": 7311.0,
       "major": true
     },
     {
-      "price": 7312.0,
+      "price": 7303.0,
       "major": true
     },
     {
-      "price": 7294.0,
+      "price": 7296.0,
       "major": true
     },
     {
-      "price": 7275.0,
+      "price": 7277.0,
+      "major": true
+    },
+    {
+      "price": 7234.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "After a 400+ point, 3-day rally, ES finally pulled back. The trader holds a small long runner from last week and is waiting for dip-buy setups. The key level is 7751: if ES recovers it, bulls target 7767, 7783, then 7800. If 7751 stays broken and price drops below 7710, the next meaningful support is 7650. Best long entries are Failed Breakdowns near 7673 and 7637.",
-  "fetched_at": "2026-08-07T09:05:32.325292+00:00"
+  "notes": "After a 400+ point rally, ES is digesting in a consolidation range roughly 7724 to 7800, with 7751 as the key middle pivot. The trader leans bullish and expects ES to fill out this range then break higher toward 7820, 7840, and 7893. He is not chasing; he will wait for failed breakdowns at 7744, 7724, or 7632 before entering long. Above 7751 bulls are in control; below 7724 the picture weakens meaningfully.",
+  "fetched_at": "2026-08-09T21:43:38.971665+00:00"
 }
