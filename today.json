@@ -1,12 +1,13 @@
 {
   "session_date": "2026-08-10",
-  "daily_pivot": 7751,
+  "daily_pivot": 7751.0,
   "regime_hint": "C2",
   "significant_lows": [
-    7751,
-    7744,
-    7724,
-    7632
+    7751.0,
+    7744.0,
+    7724.0,
+    7632.0,
+    7325.0
   ],
   "bull_levels": [
     {
@@ -150,6 +151,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "After a 400+ point rally, ES is digesting in a consolidation range roughly 7724 to 7800, with 7751 as the key middle pivot. The trader leans bullish and expects ES to fill out this range then break higher toward 7820, 7840, and 7893. He is not chasing; he will wait for failed breakdowns at 7744, 7724, or 7632 before entering long. Above 7751 bulls are in control; below 7724 the picture weakens meaningfully.",
-  "fetched_at": "2026-08-09T21:43:38.971665+00:00"
+  "notes": "After a 400+ point rally, ES is consolidating in a range roughly 7724 to 7800. The trader leans bullish and expects ES to fill out this range then break higher toward 7820, 7840, 7893. He is not chasing; he waits for failed breakdowns at 7744, 7724, or 7632 before entering long. The daily pivot is 7751 \u2014 above it bulls are in control and a rally is favored; below it (especially a break of 7724) the near-term picture weakens.",
+  "fetched_at": "2026-08-09T22:16:26.165293+00:00"
 }
