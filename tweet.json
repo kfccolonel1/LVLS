@@ -1,133 +1,33 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-07T20:00:30.699230+00:00",
-  "fetched_at_est": "2026-08-07T16:00:30.699237-04:00",
+  "fetched_at_utc": "2026-08-09T04:00:27.809575+00:00",
+  "fetched_at_est": "2026-08-09T00:00:27.809587-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2085695803016831483",
-      "timestamp_utc": "2026-08-07T11:53:24.000Z",
-      "timestamp_est": "2026-08-07T07:53:24-04:00",
-      "tweet_text": "After a 400+ point long from the 7325 Failed Breakdown last Wed, #ES_F is now digesting. This will be very choppy &amp; slow now. Don't overtrade.\n\nPlan today: 7751-56=a massive shelf. Bulls must recover with vol to see 7763, 7774, 7782+. 7722 below, fail there we flush to 7707, 7694 https://t.co/fABwE1ULtB",
+      "tweet_id": "2086081721242468473",
+      "timestamp_utc": "2026-08-08T13:26:54.000Z",
+      "timestamp_est": "2026-08-08T09:26:54-04:00",
+      "tweet_text": "Big Picture View #ES_F: Last week was charting 101. I week ago I posted it built a 2 week bull flag and broke out. What was the plan? Rip, and we did\n\nPlan Next Week: Consolidate, flag again. 7800-7724=the range. Breakout targets 7820, 7870, then 7920. 7724 fails, dip 7695, 7649 https://t.co/PebxT330ef",
       "added_bull_levels": [
-        7763.0,
-        7774.0
+        7870.0
       ],
       "added_bear_levels": [
-        7707.0,
-        7694.0
+        7724.0,
+        7649.0
       ],
-      "notes": "7763, 7774 named as bull targets above shelf; 7707, 7694 named as flush targets below 7722 \u2014 none of these are in the morning plan."
+      "notes": "7870 is a new breakout target not in morning plan; 7724 named as range floor/failure trigger; 7649 named as dip target on 7724 fail \u2014 all actionable and new."
     },
     {
-      "tweet_id": "2085715079270428834",
-      "timestamp_utc": "2026-08-07T13:10:00.000Z",
-      "timestamp_est": "2026-08-07T09:10:00-04:00",
-      "tweet_text": "Volatility still very low in #ES_F but nice pop to start. 7751-56 had to reclaim to see 7763 (hit), 7774 (hit), 7782 (not yet). If ES can get up there we can then head to 7800+. 7751 to 7800=a pure chop range. Digesting the 400 point leg up, do not overtrade in this zone https://t.co/ymYx58Ua3v",
+      "tweet_id": "2086159890829934902",
+      "timestamp_utc": "2026-08-08T18:37:31.000Z",
+      "timestamp_est": "2026-08-08T14:37:31-04:00",
+      "tweet_text": "@SDCtrader Its mostly semantics. Very technically yes a flag is a consolidation after a rally. You could call the white structure a channel breakout to be more precise. The result is the same for all of them, we rally",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All mentioned prices (7751, 7763, 7774, 7782, 7800) are morning-plan levels or observations of price action hitting targets; no new actionable levels named."
-    },
-    {
-      "tweet_id": "2085722459114815621",
-      "timestamp_utc": "2026-08-07T13:39:19.000Z",
-      "timestamp_est": "2026-08-07T09:39:19-04:00",
-      "tweet_text": "@Claudirxl @CorlukaDejan 250 points down actually isnt much in ES. It goes \"elevator down\". Can see that in a day or two of  a normal sell cycle",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about ES move magnitude; no price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2085731019974447202",
-      "timestamp_utc": "2026-08-07T14:13:20.000Z",
-      "timestamp_est": "2026-08-07T10:13:20-04:00",
-      "tweet_text": "@Claudirxl @CorlukaDejan In this case barely even backtests the breakout region which is at 7516! 250 points is just a normal, bullish, shallow backtest",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7516 is a conversational/observational reference ('barely even backtests the breakout region') with no actionable naming language; 7518 is already in morning plan."
-    },
-    {
-      "tweet_id": "2085732264667664852",
-      "timestamp_utc": "2026-08-07T14:18:17.000Z",
-      "timestamp_est": "2026-08-07T10:18:17-04:00",
-      "tweet_text": "This is extremely poor quality action in #ES_F. This is digestion/structure building after 400+ points straight up from last Wednesday's long. It takes days to build a new flag to start the next leg higher. 7751 reclaims were today's long. 7763 1st targe, 7774 2nd, 7782 3rd https://t.co/eKY62YbrUe",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7751/7763/7774/7782 are all in morning plan or observations of targets hit; no new actionable levels named for first time."
-    },
-    {
-      "tweet_id": "2085738658091413697",
-      "timestamp_utc": "2026-08-07T14:43:41.000Z",
-      "timestamp_est": "2026-08-07T10:43:41-04:00",
-      "tweet_text": "@X18C30 In these markets there's no option. Price just doesn't have the energy to do more than a level or two for long periods",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about price behavior and energy; no actionable price level named or implied."
-    },
-    {
-      "tweet_id": "2085743213768249353",
-      "timestamp_utc": "2026-08-07T15:01:48.000Z",
-      "timestamp_est": "2026-08-07T11:01:48-04:00",
-      "tweet_text": "There's the full 3 set target slate for today ran in #ES_F. 7751 reclaims are today's long entry and we got it twice. Targets were 7763 (hit), 7774 (hit), 7782 (hit). 7800 if ES wants more. 7751-7800 is a tight chop range as we build a flag, to setup the next leg up later on https://t.co/bI6GZncvlM",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7751, 7763, 7774, 7782, 7800) are morning-plan levels or target observations/hindsight. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2085754195567595995",
-      "timestamp_utc": "2026-08-07T15:45:26.000Z",
-      "timestamp_est": "2026-08-07T11:45:26-04:00",
-      "tweet_text": "All targets hit for today in #ES_F. Classic post-rally consolidation as we begin flagging to setup next trend leg higher. 7724-7800 is the range with 7751 key in the middle. 7751 reclaims were the long trigger today. Targets 7763, 7774, 7782 (all hit).\n\n7800 next, then up again https://t.co/fZQgeoqIQ5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7751, 7800 are morning-plan levels; 7763, 7774, 7782 are targets-hit observations; '7800 next' is reaffirmation. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2085778120578117920",
-      "timestamp_utc": "2026-08-07T17:20:30.000Z",
-      "timestamp_est": "2026-08-07T13:20:30-04:00",
-      "tweet_text": "Levels respecting perfectly today in #ES_F as we build out a new flag to setup the next eventual macro leg up. Today's entry was given here &amp; newsletter: 7751 reclaim. We triggered. Targets were 7763, 7774, 7782 (all hit). Now just ride runner\n\n7800 bonus, then breakout and trend https://t.co/TbwYDA6JII",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7751/7800 are morning-plan levels; 7763/7774/7782 are hit targets from newsletter \u2014 all reaffirmations or trade management, no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2085778899263164516",
-      "timestamp_utc": "2026-08-07T17:23:36.000Z",
-      "timestamp_est": "2026-08-07T13:23:36-04:00",
-      "tweet_text": "@bigwood340 That's the markets job! Create max pain for retail traders who make the same mistakes over and over again (fighting trend etc)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market behavior and retail trader psychology. No price levels named or implied whatsoever."
-    },
-    {
-      "tweet_id": "2085797460618723743",
-      "timestamp_utc": "2026-08-07T18:37:21.000Z",
-      "timestamp_est": "2026-08-07T14:37:21-04:00",
-      "tweet_text": "Work done today in #ES_F and wrap it up for the weekend now, just ride runner. Easy session: 7751 Reclaim was long trigger. Targets were 3: 7763, 7774, 7782. 7800 next. 7726-7800 is a new flag forming to setup next macro trend leg. It is young &amp; still has plenty of work to finish https://t.co/Ph7CgZ6E3b",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7751,7763,7774,7782,7800) are morning-plan levels or trade management/targets already hit. '7726-7800 flag' is macro commentary, not a new actionable level."
-    },
-    {
-      "tweet_id": "2085797607146656048",
-      "timestamp_utc": "2026-08-07T18:37:56.000Z",
-      "timestamp_est": "2026-08-07T14:37:56-04:00",
-      "tweet_text": "@UmpaLumpagimp I use the 10min or 15min typically. Usually 10.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about timeframe preference \u2014 no price levels mentioned at all."
-    },
-    {
-      "tweet_id": "2085797677938221067",
-      "timestamp_utc": "2026-08-07T18:38:13.000Z",
-      "timestamp_est": "2026-08-07T14:38:13-04:00",
-      "tweet_text": "Note: Newsletter will be sent early due to lack of volatility detailing next entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely an administrative note about newsletter timing and low volatility."
+      "notes": "Reply tweet is purely educational/semantic discussion about chart patterns with no actionable price level named."
     }
   ]
 }
