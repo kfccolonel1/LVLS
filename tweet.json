@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-09T17:57:20.638071+00:00",
-  "fetched_at_est": "2026-08-09T13:57:20.638077-04:00",
+  "fetched_at_utc": "2026-08-09T18:47:26.408406+00:00",
+  "fetched_at_est": "2026-08-09T14:47:26.408415-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2086159890829934902",
-      "timestamp_utc": "2026-08-08T18:37:31.000Z",
-      "timestamp_est": "2026-08-08T14:37:31-04:00",
-      "tweet_text": "@SDCtrader Its mostly semantics. Very technically yes a flag is a consolidation after a rally. You could call the white structure a channel breakout to be more precise. The result is the same for all of them, we rally",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet is purely educational/semantic discussion about chart patterns with no actionable price level named."
-    },
     {
       "tweet_id": "2086510554860933225",
       "timestamp_utc": "2026-08-09T17:50:56.000Z",
