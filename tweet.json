@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-10T14:27:59.456311+00:00",
-  "fetched_at_est": "2026-08-10T10:27:59.456316-04:00",
+  "fetched_at_utc": "2026-08-10T15:38:14.225771+00:00",
+  "fetched_at_est": "2026-08-10T11:38:14.225781-04:00",
   "last_new_level_added_at_est": "2026-08-10T07:58:57-04:00",
   "todays_new_levels": [
     {
@@ -116,6 +116,28 @@
       ],
       "added_bear_levels": [],
       "notes": "7767 named explicitly as '1st support today' \u2014 new actionable level not in morning plan. 7751/7800 are morning plan reaffirmations."
+    },
+    {
+      "tweet_id": "2086837037533945890",
+      "timestamp_utc": "2026-08-10T15:28:15.000Z",
+      "timestamp_est": "2026-08-10T11:28:15-04:00",
+      "tweet_text": "@AprendidoVida Not in this market it doesn't. But this isn't always the market",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user; no price levels named, no actionable language, no naming language present."
+    },
+    {
+      "tweet_id": "2086837432100569509",
+      "timestamp_utc": "2026-08-10T15:29:50.000Z",
+      "timestamp_est": "2026-08-10T11:29:50-04:00",
+      "tweet_text": "There's 7794 1st target up hit in #ES_F. This still is barely tradable though and markets are basically \"off\" now until we get some catalysts. 7800-7724=a flag with 7751  a key pivot inside.\n\n7800 remains next, then breakout if and when that clears on momentum. 7767, 7751=support https://t.co/0pPB1U11Mc",
+      "added_bull_levels": [
+        7794.0
+      ],
+      "added_bear_levels": [
+        7767.0
+      ],
+      "notes": "7794 named as '1st target up hit' (new actionable target not in morning plan); 7767 named as support alongside 7751 (7751 is in plan, 7767 is not)."
     }
   ]
 }
