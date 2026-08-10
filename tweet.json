@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-10T16:58:27.435426+00:00",
-  "fetched_at_est": "2026-08-10T12:58:27.435432-04:00",
+  "fetched_at_utc": "2026-08-10T17:58:35.407097+00:00",
+  "fetched_at_est": "2026-08-10T13:58:35.407103-04:00",
   "last_new_level_added_at_est": "2026-08-10T07:58:57-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2086510554860933225",
-      "timestamp_utc": "2026-08-09T17:50:56.000Z",
-      "timestamp_est": "2026-08-09T13:50:56-04:00",
-      "tweet_text": "Many new traders confuse forecasting with trading: Only the latter makes money. You don't need an opinion on the next 5 leg move (having one is costly). What you do need is zones you want to long/short, a couple setups to do so, and a trade management system. Focus on execution.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "General trading advice tweet; no prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2086784363409113338",
       "timestamp_utc": "2026-08-10T11:58:57.000Z",
