@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-10T15:38:14.225771+00:00",
-  "fetched_at_est": "2026-08-10T11:38:14.225781-04:00",
+  "fetched_at_utc": "2026-08-10T16:58:27.435426+00:00",
+  "fetched_at_est": "2026-08-10T12:58:27.435432-04:00",
   "last_new_level_added_at_est": "2026-08-10T07:58:57-04:00",
   "todays_new_levels": [
     {
@@ -138,6 +138,19 @@
         7767.0
       ],
       "notes": "7794 named as '1st target up hit' (new actionable target not in morning plan); 7767 named as support alongside 7751 (7751 is in plan, 7767 is not)."
+    },
+    {
+      "tweet_id": "2086858253061832773",
+      "timestamp_utc": "2026-08-10T16:52:34.000Z",
+      "timestamp_est": "2026-08-10T12:52:34-04:00",
+      "tweet_text": "No vol summer chop continues in #ES_F, but levels acting precisely. 7751 reclaim Friday was our last trigger. Today's target was 7794 1st up, 7800 2nd. We got to 7998 then dipped. 7800-7725=macro bull flag to setup next monster trend leg soon.\n\n7767 1st support, here. 7751 below https://t.co/3HSdBn93tq",
+      "added_bull_levels": [
+        7794.0
+      ],
+      "added_bear_levels": [
+        7767.0
+      ],
+      "notes": "7794 named as '1st up' target (not in morning plan); 7767 named as '1st support' (not in morning plan). 7800/7751 are morning-plan reaffirmations."
     }
   ]
 }
