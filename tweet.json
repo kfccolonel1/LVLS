@@ -1,10 +1,25 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-09T18:47:26.408406+00:00",
-  "fetched_at_est": "2026-08-09T14:47:26.408415-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-10T12:07:16.954740+00:00",
+  "fetched_at_est": "2026-08-10T08:07:16.954750-04:00",
+  "last_new_level_added_at_est": "2026-08-10T07:58:57-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7794.0,
+      "side": "bull",
+      "added_at_est": "2026-08-10T07:58:57-04:00",
+      "expires_at_est": "2026-08-10T15:58:57-04:00",
+      "from_tweet_id": "2086784363409113338"
+    },
+    {
+      "price": 7767.0,
+      "side": "bear",
+      "added_at_est": "2026-08-10T07:58:57-04:00",
+      "expires_at_est": "2026-08-10T15:58:57-04:00",
+      "from_tweet_id": "2086784363409113338"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2086510554860933225",
@@ -14,6 +29,37 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "General trading advice tweet; no prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2086784363409113338",
+      "timestamp_utc": "2026-08-10T11:58:57.000Z",
+      "timestamp_est": "2026-08-10T07:58:57-04:00",
+      "tweet_text": "We continue to digest last weeks 400+ point rally, building a new flag. 7800-7726. 7751 was last long trigger Friday. Targets given? 7763 (hit), 7774 (hit), 7782 (here)\n\nPlan now: Zero to do here until next bear trap. 7767, 7751 (watch trap)=supports. 7794, 7800, breakout next https://t.co/pe7xcPw7Ir",
+      "added_bull_levels": [
+        7794.0
+      ],
+      "added_bear_levels": [
+        7767.0
+      ],
+      "notes": "7767 named as new support to watch; 7794 named as new resistance/target. 7751/7800 are morning-plan levels. 7763/7774/7782 are hit targets, not new actionable levels."
+    },
+    {
+      "tweet_id": "2086784581848486241",
+      "timestamp_utc": "2026-08-10T11:59:49.000Z",
+      "timestamp_est": "2026-08-10T07:59:49-04:00",
+      "tweet_text": "Note: We are in very low volatility summer grind now, inside a big new bull flag. Literally 0 at all for day traders to do here. Do not press any buttons until we get an \"elevator down\" sell. The best entries today are on on 7751 traps. Ride your runner otherwise",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7751 is already in morning plan. Rest is commentary on volatility/trade management (ride runner, no buttons). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2086786331695288650",
+      "timestamp_utc": "2026-08-10T12:06:46.000Z",
+      "timestamp_est": "2026-08-10T08:06:46-04:00",
+      "tweet_text": "@OnTheHooch Summer trading! Elevator down once every couple days, get long, repeat until September. Been the same drill for 3 months",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary on summer trading pattern; no price levels named or actionable triggers given."
     }
   ]
 }
