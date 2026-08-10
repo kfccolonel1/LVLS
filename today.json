@@ -1,12 +1,13 @@
 {
   "session_date": "2026-08-10",
   "daily_pivot": 7751.0,
-  "regime_hint": "C2",
+  "regime_hint": "C4",
   "significant_lows": [
     7751.0,
     7744.0,
     7724.0,
     7632.0,
+    7567.0,
     7325.0
   ],
   "bull_levels": [
@@ -151,6 +152,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "After a 400+ point rally, ES is consolidating in a range roughly 7724 to 7800. The trader leans bullish and expects ES to fill out this range then break higher toward 7820, 7840, 7893. He is not chasing; he waits for failed breakdowns at 7744, 7724, or 7632 before entering long. The daily pivot is 7751 \u2014 above it bulls are in control and a rally is favored; below it (especially a break of 7724) the near-term picture weakens.",
-  "fetched_at": "2026-08-09T22:16:26.165293+00:00"
+  "notes": "After a 400-point rally, ES is consolidating in a range roughly 7724 to 7800. The trader leans bullish and expects the range to fill out before breaking higher toward 7820, 7840, and 7893. He is watching for failed-breakdown entries at 7744, 7724, and 7632 rather than chasing strength. The key pivot is 7751 \u2014 above it bulls are in control and a push higher is likely; below 7724 the picture turns bearish.",
+  "fetched_at": "2026-08-10T05:00:18.110800+00:00"
 }
