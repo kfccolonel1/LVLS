@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-10T18:18:42.934830+00:00",
-  "fetched_at_est": "2026-08-10T14:18:42.934835-04:00",
+  "fetched_at_utc": "2026-08-10T18:28:49.582147+00:00",
+  "fetched_at_est": "2026-08-10T14:28:49.582153-04:00",
   "last_new_level_added_at_est": "2026-08-10T07:58:57-04:00",
   "todays_new_levels": [
     {
@@ -153,6 +153,15 @@
         7767.0
       ],
       "notes": "7767 named explicitly as support with time-based context ('been here for 2 hours') \u2014 actionable bear/support level not in morning plan. 7751 is already in plan."
+    },
+    {
+      "tweet_id": "2086881703339925943",
+      "timestamp_utc": "2026-08-10T18:25:45.000Z",
+      "timestamp_est": "2026-08-10T14:25:45-04:00",
+      "tweet_text": "@cjr_trader Very clear flag structure. As always though the important thing is not predicting, its trading level to level. We just always remain bullish in an uptrend and never say/think/\"predict\" any type downside until structures fail. Need to always be a perma-bull, no exceptions https://t.co/nFTaWqtvCw",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure methodology commentary about trend-following mindset; no specific actionable price level named or implied."
     }
   ]
 }
