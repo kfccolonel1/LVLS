@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-10T12:07:16.954740+00:00",
-  "fetched_at_est": "2026-08-10T08:07:16.954750-04:00",
+  "fetched_at_utc": "2026-08-10T12:17:26.794614+00:00",
+  "fetched_at_est": "2026-08-10T08:17:26.794625-04:00",
   "last_new_level_added_at_est": "2026-08-10T07:58:57-04:00",
   "todays_new_levels": [
     {
@@ -60,6 +60,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary on summer trading pattern; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2086787389817573862",
+      "timestamp_utc": "2026-08-10T12:10:59.000Z",
+      "timestamp_est": "2026-08-10T08:10:59-04:00",
+      "tweet_text": "@roninrhino Amount of contracts doesn't really matter, just depends on your account size and confidence. I personally trade over 7 contracts but can trade it with 2 MES contracts if you have a very small account. I would just say size so that risk on a full stop out is &lt;1% of account. For",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about position sizing and risk management advice; no price levels named or referenced at all."
+    },
+    {
+      "tweet_id": "2086787856752623911",
+      "timestamp_utc": "2026-08-10T12:12:50.000Z",
+      "timestamp_est": "2026-08-10T08:12:50-04:00",
+      "tweet_text": "@roninrhino 2% of a 250k is a $2500 so should lose no more than $2500 absolute maximum on a full stop out (ideally I'd keep it lower though). With 15 point full stop out at 3 contracts in ES that would be $2,250 loss. 2-3 contracts about ride then for a 250k account",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about position sizing and risk management math for a 250k account; no actionable price levels named."
+    },
+    {
+      "tweet_id": "2086787962507858356",
+      "timestamp_utc": "2026-08-10T12:13:15.000Z",
+      "timestamp_est": "2026-08-10T08:13:15-04:00",
+      "tweet_text": "@roninrhino *right. This is just a guideline though, no wrong way to do it",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned; purely conversational clarification with no actionable prices."
     }
   ]
 }
