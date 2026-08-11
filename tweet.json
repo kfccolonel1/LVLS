@@ -1,33 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T04:20:12.874794+00:00",
-  "fetched_at_est": "2026-08-11T00:20:12.874805-04:00",
+  "fetched_at_utc": "2026-08-11T12:01:18.223680+00:00",
+  "fetched_at_est": "2026-08-11T08:01:18.223688-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2086784363409113338",
-      "timestamp_utc": "2026-08-10T11:58:57.000Z",
-      "timestamp_est": "2026-08-10T07:58:57-04:00",
-      "tweet_text": "We continue to digest last weeks 400+ point rally, building a new flag. 7800-7726. 7751 was last long trigger Friday. Targets given? 7763 (hit), 7774 (hit), 7782 (here)\n\nPlan now: Zero to do here until next bear trap. 7767, 7751 (watch trap)=supports. 7794, 7800, breakout next https://t.co/pe7xcPw7Ir",
-      "added_bull_levels": [
-        7794.0
-      ],
-      "added_bear_levels": [
-        7767.0
-      ],
-      "notes": "7767 named as new support to watch; 7794 named as new resistance/target. 7751/7800 are morning-plan levels. 7763/7774/7782 are hit targets, not new actionable levels."
-    },
-    {
-      "tweet_id": "2086784581848486241",
-      "timestamp_utc": "2026-08-10T11:59:49.000Z",
-      "timestamp_est": "2026-08-10T07:59:49-04:00",
-      "tweet_text": "Note: We are in very low volatility summer grind now, inside a big new bull flag. Literally 0 at all for day traders to do here. Do not press any buttons until we get an \"elevator down\" sell. The best entries today are on on 7751 traps. Ride your runner otherwise",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7751 is already in morning plan. Rest is commentary on volatility/trade management (ride runner, no buttons). No new actionable levels named."
-    },
     {
       "tweet_id": "2086786331695288650",
       "timestamp_utc": "2026-08-10T12:06:46.000Z",
@@ -201,6 +179,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a conversational reply with no prices or actionable levels mentioned."
+    },
+    {
+      "tweet_id": "2087145695920759081",
+      "timestamp_utc": "2026-08-11T11:54:45.000Z",
+      "timestamp_est": "2026-08-11T07:54:45-04:00",
+      "tweet_text": "Peak low vol summer trading in #ES_F as we bull flag. *Do not force trades until we get* vol. 7767 was support yesterday. We held it all day. Targets were 7794 was 1st target, its been a ceiling\n\nPlan today: Ride runner. 7767 (watch traps), 7751=supports. 7794, 7800, 7820+ next https://t.co/86cCJGXmE4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7767, 7751, 7794, 7800, 7820) are in the morning plan or observations/trade management. 7794 is a ceiling observation, not a new actionable level."
+    },
+    {
+      "tweet_id": "2087146012410306883",
+      "timestamp_utc": "2026-08-11T11:56:01.000Z",
+      "timestamp_est": "2026-08-11T07:56:01-04:00",
+      "tweet_text": "Note: Again nothing to do here but just ride a runner. These conditions are *exactly* why I use runners. When vol drops, you want to be basically become a swing trader, and just spend most time just in a position, riding with the trend. When vol spikes, we can engage",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure strategy commentary about runners and volatility conditions; no price levels named or actionable entries/exits mentioned."
     }
   ]
 }
