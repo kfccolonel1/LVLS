@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T19:02:57.797181+00:00",
-  "fetched_at_est": "2026-08-11T15:02:57.797187-04:00",
+  "fetched_at_utc": "2026-08-11T19:13:00.388059+00:00",
+  "fetched_at_est": "2026-08-11T15:13:00.388068-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2086891797024784529",
-      "timestamp_utc": "2026-08-10T19:05:51.000Z",
-      "timestamp_est": "2026-08-10T15:05:51-04:00",
-      "tweet_text": "Closing update #ES_F: Markets barely on today, this is not tradable and the only entry was the quick flush and recovery of 7767 support. Today's targets were 7794, ~7800 range resistance, both hit. Newsletter just sent out with next entries if we luck out and get a selloff.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7767 is observation of price action/support flush; 7794 and 7800 are morning-plan levels. No new actionable levels named."
-    },
     {
       "tweet_id": "2087030378196316544",
       "timestamp_utc": "2026-08-11T04:16:31.000Z",
