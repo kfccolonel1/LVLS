@@ -1,33 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T15:11:38.817075+00:00",
-  "fetched_at_est": "2026-08-11T11:11:38.817079-04:00",
+  "fetched_at_utc": "2026-08-11T15:31:45.498325+00:00",
+  "fetched_at_est": "2026-08-11T11:31:45.498331-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2086837037533945890",
-      "timestamp_utc": "2026-08-10T15:28:15.000Z",
-      "timestamp_est": "2026-08-10T11:28:15-04:00",
-      "tweet_text": "@AprendidoVida Not in this market it doesn't. But this isn't always the market",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user; no price levels named, no actionable language, no naming language present."
-    },
-    {
-      "tweet_id": "2086837432100569509",
-      "timestamp_utc": "2026-08-10T15:29:50.000Z",
-      "timestamp_est": "2026-08-10T11:29:50-04:00",
-      "tweet_text": "There's 7794 1st target up hit in #ES_F. This still is barely tradable though and markets are basically \"off\" now until we get some catalysts. 7800-7724=a flag with 7751  a key pivot inside.\n\n7800 remains next, then breakout if and when that clears on momentum. 7767, 7751=support https://t.co/0pPB1U11Mc",
-      "added_bull_levels": [
-        7794.0
-      ],
-      "added_bear_levels": [
-        7767.0
-      ],
-      "notes": "7794 named as '1st target up hit' (new actionable target not in morning plan); 7767 named as support alongside 7751 (7751 is in plan, 7767 is not)."
-    },
     {
       "tweet_id": "2086858253061832773",
       "timestamp_utc": "2026-08-10T16:52:34.000Z",
@@ -195,6 +173,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about tight range/coil \u2014 no specific price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2087199478050689425",
+      "timestamp_utc": "2026-08-11T15:28:28.000Z",
+      "timestamp_est": "2026-08-11T11:28:28-04:00",
+      "tweet_text": "7667 has been support that I've posted since 8am yesterday and #ES_F agrees. We've tested it multiple times to build a shelf &amp; just did again. This is untradeable chop. 7794 remains 1st target (hit) already. When ready, ES can trend. 7794-7724=a flag\n\n7751, 7742, 7724=next down https://t.co/4h1a2bglVn",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7667 is a reaffirmed prior level; 7794, 7751, 7724 are morning plan levels. No new actionable prices introduced."
     }
   ]
 }
