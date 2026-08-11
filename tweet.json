@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T15:31:45.498325+00:00",
-  "fetched_at_est": "2026-08-11T11:31:45.498331-04:00",
+  "fetched_at_utc": "2026-08-11T15:41:50.627592+00:00",
+  "fetched_at_est": "2026-08-11T11:41:50.627598-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -182,6 +182,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7667 is a reaffirmed prior level; 7794, 7751, 7724 are morning plan levels. No new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2087202109603156043",
+      "timestamp_utc": "2026-08-11T15:38:55.000Z",
+      "timestamp_est": "2026-08-11T11:38:55-04:00",
+      "tweet_text": "@mikedrop67 Usually they do yes, but in practical terms it doesn't matter. I don't ever short, so I just wait for shelves to flush if they recover with volatility I'll long it. Otherwise I wait for the next entry down.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet describing general trading approach with no specific price levels named or actionable entries mentioned."
     }
   ]
 }
