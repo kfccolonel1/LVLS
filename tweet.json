@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T18:02:38.473058+00:00",
-  "fetched_at_est": "2026-08-11T14:02:38.473065-04:00",
+  "fetched_at_utc": "2026-08-11T18:22:42.019966+00:00",
+  "fetched_at_est": "2026-08-11T14:22:42.019974-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2086879151328256314",
-      "timestamp_utc": "2026-08-10T18:15:36.000Z",
-      "timestamp_est": "2026-08-10T14:15:36-04:00",
-      "tweet_text": "High precision today in #ES_F as we flag out (this flag is still young - lots of work to do before the next monster, macro leg up). Today's targets were 7794 (hit), ~7800 (hit). 7725-7800=the preliminary flag structure.\n\n7767 support, been here for 2 hours. 7751 below https://t.co/iwrN5LFIWa",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7767.0
-      ],
-      "notes": "7767 named explicitly as support with time-based context ('been here for 2 hours') \u2014 actionable bear/support level not in morning plan. 7751 is already in plan."
-    },
     {
       "tweet_id": "2086881703339925943",
       "timestamp_utc": "2026-08-10T18:25:45.000Z",
