@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T12:01:18.223680+00:00",
-  "fetched_at_est": "2026-08-11T08:01:18.223688-04:00",
+  "fetched_at_utc": "2026-08-11T12:10:28.915037+00:00",
+  "fetched_at_est": "2026-08-11T08:10:28.915040-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2086786331695288650",
-      "timestamp_utc": "2026-08-10T12:06:46.000Z",
-      "timestamp_est": "2026-08-10T08:06:46-04:00",
-      "tweet_text": "@OnTheHooch Summer trading! Elevator down once every couple days, get long, repeat until September. Been the same drill for 3 months",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary on summer trading pattern; no price levels named or actionable triggers given."
-    },
     {
       "tweet_id": "2086787389817573862",
       "timestamp_utc": "2026-08-10T12:10:59.000Z",
