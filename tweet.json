@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T17:02:08.726646+00:00",
-  "fetched_at_est": "2026-08-11T13:02:08.726650-04:00",
+  "fetched_at_utc": "2026-08-11T17:22:15.124891+00:00",
+  "fetched_at_est": "2026-08-11T13:22:15.124896-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -205,6 +205,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on market conditions; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2087226990155739306",
+      "timestamp_utc": "2026-08-11T17:17:47.000Z",
+      "timestamp_est": "2026-08-11T13:17:47-04:00",
+      "tweet_text": "@TxTrader10 That wouldn't be my system you are trading. I don't use volume, and an entry on the 7767 failed breakdown would require a +5 point buffer (7772) plus price to hold above that for a few minutes. When I say vol I mean volatility (momentum, speed). You want to see ES ripping above",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7767 and 7772 referenced in system explanation context; 7767 is a morning plan level, 7772 is a buffer/entry mechanic clarification, not a newly named actionable level."
     }
   ]
 }
