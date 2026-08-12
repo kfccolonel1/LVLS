@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T12:55:38.914011+00:00",
-  "fetched_at_est": "2026-08-12T08:55:38.914017-04:00",
+  "fetched_at_utc": "2026-08-12T13:15:42.698892+00:00",
+  "fetched_at_est": "2026-08-12T09:15:42.698899-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2087165772661436854",
-      "timestamp_utc": "2026-08-11T13:14:32.000Z",
-      "timestamp_est": "2026-08-11T09:14:32-04:00",
-      "tweet_text": "There's 7794 1st target hit again in #ES_F and we are in 0 volatility summer chop as we flag, digest the recent 400+ point rally &amp; setup the next one. Just ride a runner. 7724 to 7794-7800=the flag. Breakout to 7820+ when its ready.\n\n7767 remains support (watch traps). 51 below https://t.co/ovjEr7P40c",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7794, 7724, 7800, 7820, 7767) are morning-plan levels or observations of price action/trade management. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2087165876428509513",
-      "timestamp_utc": "2026-08-11T13:14:57.000Z",
-      "timestamp_est": "2026-08-11T09:14:57-04:00",
-      "tweet_text": "@investingpro12 Only people trading it! Which should be nobody know. Just hold a runner",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management reply \u2014 'hold a runner' with no price named; no actionable level introduced."
-    },
     {
       "tweet_id": "2087169424251879725",
       "timestamp_utc": "2026-08-11T13:29:03.000Z",
