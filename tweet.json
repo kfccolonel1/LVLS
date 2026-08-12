@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T12:05:12.157848+00:00",
-  "fetched_at_est": "2026-08-12T08:05:12.157862-04:00",
+  "fetched_at_utc": "2026-08-12T12:15:24.329628+00:00",
+  "fetched_at_est": "2026-08-12T08:15:24.329642-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply about summer trading strategy and volatility behavior. No prices named, purely conceptual/strategic commentary with no actionable levels."
+    },
+    {
+      "tweet_id": "2087511792738029803",
+      "timestamp_utc": "2026-08-12T12:09:30.000Z",
+      "timestamp_est": "2026-08-12T08:09:30-04:00",
+      "tweet_text": "@ES_Money_Print That's why I send them early days! Often we've got a trigger close that would be missed if I waited",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about timing of alerts; no price levels named or actionable signals present."
+    },
+    {
+      "tweet_id": "2087512237900451903",
+      "timestamp_utc": "2026-08-12T12:11:16.000Z",
+      "timestamp_est": "2026-08-12T08:11:16-04:00",
+      "tweet_text": "@disciple33 Entry is always 5 points above + some time, so 7749-7750 was the trigger. Stop would need to be 10-11 points under the 38 low. It is what it is there. Anything above there you would get stopped without the trade doing anything technically invalidating.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining entry mechanics near 7749-7750 and stop placement; 7751/7752 already in morning plan. No new actionable level introduced."
     }
   ]
 }
