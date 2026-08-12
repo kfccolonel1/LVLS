@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T04:24:09.765170+00:00",
-  "fetched_at_est": "2026-08-12T00:24:09.765177-04:00",
+  "fetched_at_utc": "2026-08-12T11:54:50.922495+00:00",
+  "fetched_at_est": "2026-08-12T07:54:50.922500-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2087145695920759081",
-      "timestamp_utc": "2026-08-11T11:54:45.000Z",
-      "timestamp_est": "2026-08-11T07:54:45-04:00",
-      "tweet_text": "Peak low vol summer trading in #ES_F as we bull flag. *Do not force trades until we get* vol. 7767 was support yesterday. We held it all day. Targets were 7794 was 1st target, its been a ceiling\n\nPlan today: Ride runner. 7767 (watch traps), 7751=supports. 7794, 7800, 7820+ next https://t.co/86cCJGXmE4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7767, 7751, 7794, 7800, 7820) are in the morning plan or observations/trade management. 7794 is a ceiling observation, not a new actionable level."
-    },
     {
       "tweet_id": "2087146012410306883",
       "timestamp_utc": "2026-08-11T11:56:01.000Z",
