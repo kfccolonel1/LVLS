@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T12:45:33.572518+00:00",
-  "fetched_at_est": "2026-08-12T08:45:33.572532-04:00",
+  "fetched_at_utc": "2026-08-12T12:55:38.914011+00:00",
+  "fetched_at_est": "2026-08-12T08:55:38.914017-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -266,6 +266,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure philosophy/methodology commentary about trend-following; no price levels named or referenced at all."
+    },
+    {
+      "tweet_id": "2087521230303719729",
+      "timestamp_utc": "2026-08-12T12:47:00.000Z",
+      "timestamp_est": "2026-08-12T08:47:00-04:00",
+      "tweet_text": "@Trevormiles16 Summer trading! Lowest volatility/volume few weeks of the year right now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on seasonal volatility/volume conditions; no price level named or implied whatsoever."
     }
   ]
 }
