@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T18:57:19.106519+00:00",
-  "fetched_at_est": "2026-08-12T14:57:19.106525-04:00",
+  "fetched_at_utc": "2026-08-12T19:17:34.617972+00:00",
+  "fetched_at_est": "2026-08-12T15:17:34.617982-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -194,6 +194,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about trend assumption; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2087617358118478089",
+      "timestamp_utc": "2026-08-12T19:08:58.000Z",
+      "timestamp_est": "2026-08-12T15:08:58-04:00",
+      "tweet_text": "@KMasterSPX Its a big structure so not really relevant for us day traders. Swing traders its a relevant long though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about swing vs day trading structure; no actionable price named at all."
+    },
+    {
+      "tweet_id": "2087617558065144307",
+      "timestamp_utc": "2026-08-12T19:09:46.000Z",
+      "timestamp_est": "2026-08-12T15:09:46-04:00",
+      "tweet_text": "Closing update #ES_F: Very slow conditions. 7767 reclaim was a low quality long to take us back to 7775 (hit), 7783, 7794. We already ran these targets after CPI this morning, but now trying again. Newsletter was just sent out with the next set of entries in case we dip again",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7767/7775/7783/7794 are observations of price action and reaffirmations of morning plan levels; no new actionable levels named."
     }
   ]
 }
