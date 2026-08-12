@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T14:26:02.497478+00:00",
-  "fetched_at_est": "2026-08-12T10:26:02.497487-04:00",
+  "fetched_at_utc": "2026-08-12T14:46:06.259761+00:00",
+  "fetched_at_est": "2026-08-12T10:46:06.259764-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2087186878848012664",
-      "timestamp_utc": "2026-08-11T14:38:24.000Z",
-      "timestamp_est": "2026-08-11T10:38:24-04:00",
-      "tweet_text": "Markets still in non-tradable summer chop in #ES_F as we bull flag and digest the 400+ point recent run. 7794-7800 to 7724=the flag. 7767 remains support and we keep defending that zone, but its now weak (watch traps).\n\nWhen ready, breakout sees 7820+. 7767 fails, dip 7751, 7724 https://t.co/tts4mKAK4Q",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7800, 7724, 7767, 7820, 7751) are in the morning plan. Commentary is observation/reaffirmation, no new actionable levels named."
-    },
     {
       "tweet_id": "2087194786402902369",
       "timestamp_utc": "2026-08-11T15:09:49.000Z",
