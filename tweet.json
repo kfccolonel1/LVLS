@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-11T20:03:15.440314+00:00",
-  "fetched_at_est": "2026-08-11T16:03:15.440320-04:00",
+  "fetched_at_utc": "2026-08-12T04:24:09.765170+00:00",
+  "fetched_at_est": "2026-08-12T00:24:09.765177-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2087030378196316544",
-      "timestamp_utc": "2026-08-11T04:16:31.000Z",
-      "timestamp_est": "2026-08-11T00:16:31-04:00",
-      "tweet_text": "@cole750 Everyday is a new day. Structure is constantly changing and evolving creating new channels and intersection points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market structure philosophy. No price levels named or actionable instructions given."
-    },
-    {
-      "tweet_id": "2087030420546134424",
-      "timestamp_utc": "2026-08-11T04:16:42.000Z",
-      "timestamp_est": "2026-08-11T00:16:42-04:00",
-      "tweet_text": "@EllenJippie @cole750 Yes exactly",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply with no prices or actionable levels mentioned."
-    },
     {
       "tweet_id": "2087145695920759081",
       "timestamp_utc": "2026-08-11T11:54:45.000Z",
