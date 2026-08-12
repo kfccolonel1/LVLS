@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T15:46:27.853591+00:00",
-  "fetched_at_est": "2026-08-12T11:46:27.853597-04:00",
+  "fetched_at_utc": "2026-08-12T15:56:34.676432+00:00",
+  "fetched_at_est": "2026-08-12T11:56:34.676438-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -239,6 +239,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary/opinion on divergences and direction; no actionable price level named or identified."
+    },
+    {
+      "tweet_id": "2087568716967850201",
+      "timestamp_utc": "2026-08-12T15:55:41.000Z",
+      "timestamp_est": "2026-08-12T11:55:41-04:00",
+      "tweet_text": "@CassiusTrades Has to meet the criteria from the newsletter. Needs to get to 7772 and needs to be pushing with speed. Can't just be grinding slowly and looking like its struggling",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7772 is a reply clarifying entry criteria with speed/momentum context, not a new named actionable level; also close to morning-plan 7767/7794 zone."
     }
   ]
 }
