@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T13:55:49.829219+00:00",
-  "fetched_at_est": "2026-08-12T09:55:49.829227-04:00",
+  "fetched_at_utc": "2026-08-12T14:05:55.570814+00:00",
+  "fetched_at_est": "2026-08-12T10:05:55.570820-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on seasonal volatility/volume conditions; no price level named or implied whatsoever."
+    },
+    {
+      "tweet_id": "2087538772200034480",
+      "timestamp_utc": "2026-08-12T13:56:42.000Z",
+      "timestamp_est": "2026-08-12T09:56:42-04:00",
+      "tweet_text": "Clean follow through in #ES_F and all of today's provided targets have been hit: 7775 (hit), 7783 (hit), 7794 (hit). 7794 is bull flag resistance as we continue to construct the macro flag. 0 to do now.\n\n7744 Failed Breakdown ystd was the last long. 7744 (watch traps)=support https://t.co/AKHK2tIBJd",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7775, 7783, 7794, 7744 all in morning plan or hindsight hit references; 'watch traps' at 7744 is reaffirmation not a new level."
     }
   ]
 }
