@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T11:54:50.922495+00:00",
-  "fetched_at_est": "2026-08-12T07:54:50.922500-04:00",
+  "fetched_at_utc": "2026-08-12T12:05:12.157848+00:00",
+  "fetched_at_est": "2026-08-12T08:05:12.157862-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2087146012410306883",
-      "timestamp_utc": "2026-08-11T11:56:01.000Z",
-      "timestamp_est": "2026-08-11T07:56:01-04:00",
-      "tweet_text": "Note: Again nothing to do here but just ride a runner. These conditions are *exactly* why I use runners. When vol drops, you want to be basically become a swing trader, and just spend most time just in a position, riding with the trend. When vol spikes, we can engage",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure strategy commentary about runners and volatility conditions; no price levels named or actionable entries/exits mentioned."
-    },
     {
       "tweet_id": "2087165772661436854",
       "timestamp_utc": "2026-08-11T13:14:32.000Z",
@@ -212,6 +203,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual reply referencing 7738 as observation of price location ('under the low'), no actionable naming language; also not in morning plan but fails criteria 2."
+    },
+    {
+      "tweet_id": "2087508547063976275",
+      "timestamp_utc": "2026-08-12T11:56:36.000Z",
+      "timestamp_est": "2026-08-12T07:56:36-04:00",
+      "tweet_text": "We remain bull flagging in #ES_F 7794-7800 to 7724. CPI 830am. 315pm ystd, after waiting *all day*, we got a long. Given here and in newsletter, 7744 reclaim was trigger. 7751, 7767 were targets, hit.\n\nPlan: Just ride runner. 7775, 7783, 7794, breakout next. 7744, 7726=supports https://t.co/Mk34NJ2rjl",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7775 and 7783 appear new but this reads as a directional list of near-term targets without explicit naming language; all other prices are morning-plan reaffirmations or trade management."
+    },
+    {
+      "tweet_id": "2087508880544633188",
+      "timestamp_utc": "2026-08-12T11:57:55.000Z",
+      "timestamp_est": "2026-08-12T07:57:55-04:00",
+      "tweet_text": "Note: Now there is nothing to do again but either 1) Ride runner for the macro breakout or 2) Wait for an elevator down sell which gives us another long. Last entry was the 7744 Failed Breakdown, given in newsletter https://t.co/EqW5dVYTkR",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7744 is a morning-plan level; tweet is trade management/status update (ride runner or wait for entry). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2087510054681350148",
+      "timestamp_utc": "2026-08-12T12:02:35.000Z",
+      "timestamp_est": "2026-08-12T08:02:35-04:00",
+      "tweet_text": "@DolphinWick Yes. In summer trading we may get one vol burst a day. We need to use that to get long, then sit in runners for 24+ hours until the next one. Even those vol bursts are often very slow though, so its important not to take profits for granted because the snap backs will also be",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about summer trading strategy and volatility behavior. No prices named, purely conceptual/strategic commentary with no actionable levels."
     }
   ]
 }
