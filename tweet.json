@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T15:56:34.676432+00:00",
-  "fetched_at_est": "2026-08-12T11:56:34.676438-04:00",
+  "fetched_at_utc": "2026-08-12T16:06:41.927161+00:00",
+  "fetched_at_est": "2026-08-12T12:06:41.927174-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -248,6 +248,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7772 is a reply clarifying entry criteria with speed/momentum context, not a new named actionable level; also close to morning-plan 7767/7794 zone."
+    },
+    {
+      "tweet_id": "2087570449907569059",
+      "timestamp_utc": "2026-08-12T16:02:35.000Z",
+      "timestamp_est": "2026-08-12T12:02:35-04:00",
+      "tweet_text": "@NerdRageDan Never assume any type of downside in an uptrend in ES. Always bullish, all the time. Will make your life far easier!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary/advice with no price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2087571349896114540",
+      "timestamp_utc": "2026-08-12T16:06:09.000Z",
+      "timestamp_est": "2026-08-12T12:06:09-04:00",
+      "tweet_text": "Today's targets are complete. We are now in mid-summer, no volatility chop. If you over-trade, you will get chopped up &amp; lose money. Just ride runner for flag break.\n\nToday's 8am targets were 7775, 7783, 7794 (exact high of day). 7767 reclaims with momentum are 1 low quality long https://t.co/ck4tXuxgJT",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new levels named. 7794/7767 are morning plan levels; 7775/7783 are hindsight target references. Tweet is trade management/commentary only."
     }
   ]
 }
