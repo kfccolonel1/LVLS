@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T17:26:57.952899+00:00",
-  "fetched_at_est": "2026-08-12T13:26:57.952905-04:00",
+  "fetched_at_utc": "2026-08-12T17:37:05.466150+00:00",
+  "fetched_at_est": "2026-08-12T13:37:05.466162-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2087230399281840421",
-      "timestamp_utc": "2026-08-11T17:31:20.000Z",
-      "timestamp_est": "2026-08-11T13:31:20-04:00",
-      "tweet_text": "@purplehippbh @tom_martin321 Same criteria discussed everyday, never changes. If recovering a level by 2-3 points was a \"reclaim\" it would just lead to getting trapped constantly. That is noise. Need a lot more than that to consider a level recovered.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet explaining reclaim criteria methodology \u2014 no price levels named, purely educational/conversational content."
-    },
-    {
-      "tweet_id": "2087230610666307631",
-      "timestamp_utc": "2026-08-11T17:32:11.000Z",
-      "timestamp_est": "2026-08-11T13:32:11-04:00",
-      "tweet_text": "@purplehippbh @tom_martin321 Can still get trapped with the criteria I use (5 points + a few minutes + momentum) but its far less likely especially if a proper significant low or shelf of lows",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining trade criteria methodology; no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2087233162468368557",
       "timestamp_utc": "2026-08-11T17:42:19.000Z",
@@ -230,6 +212,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Observation of prior day price action ('swept and recovered') at 3:15pm \u2014 no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2087591946986324146",
+      "timestamp_utc": "2026-08-12T17:28:00.000Z",
+      "timestamp_est": "2026-08-12T13:28:00-04:00",
+      "tweet_text": "Nothing to do now in #ES_F. 1) We hit all today's targets given at 8am. 7775, 7783, 7794 (exact high of day) 2) its mid-day, mid-summer chop. 3) We are bull flagging, prepping next swing leg. Outside of scope for day traders\n\n7767 reclaim was low quality long. At 7775 1st up now https://t.co/g6xKH0ogVO",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7775, 7783, 7794, 7767) are observations of targets hit or morning-plan reaffirmations. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2087592146169696568",
+      "timestamp_utc": "2026-08-12T17:28:47.000Z",
+      "timestamp_est": "2026-08-12T13:28:47-04:00",
+      "tweet_text": "@TheHealingTrade Nobody knows. The flag breaks up by default always in an uptrend unless interrupted by an unexpected catalyst. I always assume higher",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trend assumption; no price named, no actionable level introduced."
     }
   ]
 }
