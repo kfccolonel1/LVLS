@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T14:05:55.570814+00:00",
-  "fetched_at_est": "2026-08-12T10:05:55.570820-04:00",
+  "fetched_at_utc": "2026-08-12T14:26:02.497478+00:00",
+  "fetched_at_est": "2026-08-12T10:26:02.497487-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -239,6 +239,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7775, 7783, 7794, 7744 all in morning plan or hindsight hit references; 'watch traps' at 7744 is reaffirmation not a new level."
+    },
+    {
+      "tweet_id": "2087545939426718094",
+      "timestamp_utc": "2026-08-12T14:25:11.000Z",
+      "timestamp_est": "2026-08-12T10:25:11-04:00",
+      "tweet_text": "Note: Obviously 7767 from yesterday/earlier in the week remains a key support shelf also",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7767 is already in today's morning plan; this is a reaffirmation, not a new level."
     }
   ]
 }
