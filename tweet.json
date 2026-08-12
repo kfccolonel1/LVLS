@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T17:37:05.466150+00:00",
-  "fetched_at_est": "2026-08-12T13:37:05.466162-04:00",
+  "fetched_at_utc": "2026-08-12T17:47:07.981889+00:00",
+  "fetched_at_est": "2026-08-12T13:47:07.981897-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2087233162468368557",
-      "timestamp_utc": "2026-08-11T17:42:19.000Z",
-      "timestamp_est": "2026-08-11T13:42:19-04:00",
-      "tweet_text": "@EStrader33 @purplehippbh @tom_martin321 If its sitting there for hours not going anywhere no harm in cutting some",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trade management (cutting position); no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2087236113266094215",
       "timestamp_utc": "2026-08-11T17:54:03.000Z",
