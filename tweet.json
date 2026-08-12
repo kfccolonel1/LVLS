@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T12:15:24.329628+00:00",
-  "fetched_at_est": "2026-08-12T08:15:24.329642-04:00",
+  "fetched_at_utc": "2026-08-12T12:45:33.572518+00:00",
+  "fetched_at_est": "2026-08-12T08:45:33.572532-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -248,6 +248,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining entry mechanics near 7749-7750 and stop placement; 7751/7752 already in morning plan. No new actionable level introduced."
+    },
+    {
+      "tweet_id": "2087520207745024146",
+      "timestamp_utc": "2026-08-12T12:42:56.000Z",
+      "timestamp_est": "2026-08-12T08:42:56-04:00",
+      "tweet_text": "Today's targets were 7775 (hit), 7783 (hit), 7794. We are bull flagging for a macro breakout targeting 7820+. Last entry was the 7744 Failed Breakdown at 3:15PM ysterday. This was given 1) Live 2) In Monday's newsletter 3) In yesterday's 3pm newsletter.\n\nSlow CPI. Ride runner https://t.co/a24l6ED8XH",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7775, 7783, 7794, 7820, 7744) are either morning-plan levels or hindsight references to prior entries/targets. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2087520683471380817",
+      "timestamp_utc": "2026-08-12T12:44:49.000Z",
+      "timestamp_est": "2026-08-12T08:44:49-04:00",
+      "tweet_text": "@NYJets2017 I don't think that way. I just respect the trend. The trend is up, I always assume the next move will be up. I will be right 75-90% or so of the time and you can't guess what the 10-25% otherwise will be. If it breaks down, even better, it means more Failed Breakdowns and vol",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure philosophy/methodology commentary about trend-following; no price levels named or referenced at all."
     }
   ]
 }
