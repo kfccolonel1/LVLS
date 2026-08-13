@@ -1,29 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-12T20:07:43.901017+00:00",
-  "fetched_at_est": "2026-08-12T16:07:43.901023-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-13T11:59:41.056774+00:00",
+  "fetched_at_est": "2026-08-13T07:59:41.056783-04:00",
+  "last_new_level_added_at_est": "2026-08-13T07:56:46-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7800.0,
+      "side": "bull",
+      "added_at_est": "2026-08-13T07:56:46-04:00",
+      "expires_at_est": "2026-08-13T15:56:46-04:00",
+      "from_tweet_id": "2087870978797801900"
+    }
+  ],
   "updates": [
-    {
-      "tweet_id": "2087508547063976275",
-      "timestamp_utc": "2026-08-12T11:56:36.000Z",
-      "timestamp_est": "2026-08-12T07:56:36-04:00",
-      "tweet_text": "We remain bull flagging in #ES_F 7794-7800 to 7724. CPI 830am. 315pm ystd, after waiting *all day*, we got a long. Given here and in newsletter, 7744 reclaim was trigger. 7751, 7767 were targets, hit.\n\nPlan: Just ride runner. 7775, 7783, 7794, breakout next. 7744, 7726=supports https://t.co/Mk34NJ2rjl",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7775 and 7783 appear new but this reads as a directional list of near-term targets without explicit naming language; all other prices are morning-plan reaffirmations or trade management."
-    },
-    {
-      "tweet_id": "2087508880544633188",
-      "timestamp_utc": "2026-08-12T11:57:55.000Z",
-      "timestamp_est": "2026-08-12T07:57:55-04:00",
-      "tweet_text": "Note: Now there is nothing to do again but either 1) Ride runner for the macro breakout or 2) Wait for an elevator down sell which gives us another long. Last entry was the 7744 Failed Breakdown, given in newsletter https://t.co/EqW5dVYTkR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7744 is a morning-plan level; tweet is trade management/status update (ride runner or wait for entry). No new actionable levels named."
-    },
     {
       "tweet_id": "2087510054681350148",
       "timestamp_utc": "2026-08-12T12:02:35.000Z",
@@ -194,6 +184,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7767/7775/7783/7794 are observations of price action and reaffirmations of morning plan levels; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2087870978797801900",
+      "timestamp_utc": "2026-08-13T11:56:46.000Z",
+      "timestamp_est": "2026-08-13T07:56:46-04:00",
+      "tweet_text": "Ultra low vol summer trading continues in #ES_F. We get 1 entry per day. 7767 reclaim was last low quality long yesterday. Targets were 7775 (hit), 7783 (hit), 7794 (en route). We are bull flagging for a macro trend\n\nPlan: Just ride runner. 7800, 7820 if we break. 7767=support https://t.co/g3rC3BpeM1",
+      "added_bull_levels": [
+        7800.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7800 named as explicit bull target on breakout ('7800, 7820 if we break'); 7820 and 7767 are morning-plan levels. 7800 is new and actionable."
+    },
+    {
+      "tweet_id": "2087871268041142528",
+      "timestamp_utc": "2026-08-13T11:57:55.000Z",
+      "timestamp_est": "2026-08-13T07:57:55-04:00",
+      "tweet_text": "Note: Again, summer trading is 95% sitting on runner. Once per day, we get an elevator down dip. We can then long that via a Failed Breakdown per entries I give. From a swing perspective (not relevant to us day traders) we are flagging for what should be a macro trend leg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure strategy/commentary tweet about summer trading patterns and swing macro context. No specific price levels named or actioned."
     }
   ]
 }
