@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-13T15:10:59.405477+00:00",
-  "fetched_at_est": "2026-08-13T11:10:59.405481-04:00",
+  "fetched_at_utc": "2026-08-13T15:31:05.625408+00:00",
+  "fetched_at_est": "2026-08-13T11:31:05.625414-04:00",
   "last_new_level_added_at_est": "2026-08-13T07:56:46-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2087561456589955222",
-      "timestamp_utc": "2026-08-12T15:26:50.000Z",
-      "timestamp_est": "2026-08-12T11:26:50-04:00",
-      "tweet_text": "Today has been perfect. I gave 3 targets at 8am. 7775 (hit), 7783 (hit), 7794. The high of day is 7794 to the tick in #ES_F. Now, nothing to do as we continue to build the flag for the next swing leg.\n\n7767 reclaims with momentum are 1 low quality long. 7744 below (watch traps) https://t.co/MZvgtebPLP",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7775/7783 are hindsight hits; 7794/7767/7744 are all morning-plan levels. No new actionable price named for the first time."
-    },
-    {
-      "tweet_id": "2087561798463472120",
-      "timestamp_utc": "2026-08-12T15:28:12.000Z",
-      "timestamp_est": "2026-08-12T11:28:12-04:00",
-      "tweet_text": "@HagglundKirk Wouldn't call it insanely bearish. There are some ugly hidden divergences though created with today's high. Hopefully it can take us lower",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary/opinion on divergences and direction; no actionable price level named or identified."
-    },
     {
       "tweet_id": "2087568716967850201",
       "timestamp_utc": "2026-08-12T15:55:41.000Z",
@@ -222,6 +204,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7777 is mentioned conversationally as a reference point ('no significant lows until'), not named as an actionable level with naming language."
+    },
+    {
+      "tweet_id": "2087923819021238552",
+      "timestamp_utc": "2026-08-13T15:26:44.000Z",
+      "timestamp_est": "2026-08-13T11:26:44-04:00",
+      "tweet_text": "@T_Ngo_T Definitely 94",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply '94' with no actionable price, naming language, or explicit level context."
     }
   ]
 }
