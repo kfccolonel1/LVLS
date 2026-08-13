@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-13T14:00:15.944778+00:00",
-  "fetched_at_est": "2026-08-13T10:00:15.944784-04:00",
+  "fetched_at_utc": "2026-08-13T14:20:37.305646+00:00",
+  "fetched_at_est": "2026-08-13T10:20:37.305654-04:00",
   "last_new_level_added_at_est": "2026-08-13T07:56:46-04:00",
   "todays_new_levels": [
     {
@@ -177,6 +177,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply; '400-500 points' is vague distance commentary, no specific actionable price named."
+    },
+    {
+      "tweet_id": "2087905124207243745",
+      "timestamp_utc": "2026-08-13T14:12:27.000Z",
+      "timestamp_est": "2026-08-13T10:12:27-04:00",
+      "tweet_text": "Easy as it gets in #ES_F. 4-5x per day all week I've warned ES was bull flagging. Our job was just to take our entries, hold a runner for breakout. 7767 reclaim was last low qual entry. Targets were 7775, 7783, 7794 flag res. Then breakout to 7820 (hit).\n\n7835, 7845, 7868 next https://t.co/Y7ii1j7qCx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7767, 7775, 7783, 7794, 7820, 7835, 7845, 7868) are morning-plan levels or hindsight/observation references to targets already hit or listed."
+    },
+    {
+      "tweet_id": "2087905280021397935",
+      "timestamp_utc": "2026-08-13T14:13:04.000Z",
+      "timestamp_est": "2026-08-13T10:13:04-04:00",
+      "tweet_text": "Note: Now you can just close platform and let a runner go. This no longer an environment for day traders until or unless we return to 7767 again",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7767 is already in the morning plan. Tweet is trade management advice (close platform, let runner go), not a new actionable level."
+    },
+    {
+      "tweet_id": "2087905693135224893",
+      "timestamp_utc": "2026-08-13T14:14:43.000Z",
+      "timestamp_est": "2026-08-13T10:14:43-04:00",
+      "tweet_text": "@888MJ888 @NYJets2017 There are no strong resistances technically at all all time highs in a bull market. Price just rallies until or unless a headline hits. There is a little bit up towards 7960 or so then more at 8250ish, but it'll take sometime to get up there",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual conversational reply; '7960' and '8250' mentioned vaguely as loose resistance zones, no actionable naming language used."
+    },
+    {
+      "tweet_id": "2087906126511665483",
+      "timestamp_utc": "2026-08-13T14:16:26.000Z",
+      "timestamp_est": "2026-08-13T10:16:26-04:00",
+      "tweet_text": "@DCdude69 I tweet it once per hour all day, all week, hopefully people can see why!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned; purely conversational reply about tweeting frequency."
     }
   ]
 }
