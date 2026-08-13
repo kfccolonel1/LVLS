@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-13T17:31:30.698323+00:00",
-  "fetched_at_est": "2026-08-13T13:31:30.698331-04:00",
+  "fetched_at_utc": "2026-08-13T18:01:37.946927+00:00",
+  "fetched_at_est": "2026-08-13T14:01:37.946932-04:00",
   "last_new_level_added_at_est": "2026-08-13T07:56:46-04:00",
   "todays_new_levels": [
     {
@@ -168,6 +168,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7794, 7820, 7835, 7845, 7868, 7767) are morning-plan levels or observations of hits. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2087961201368019204",
+      "timestamp_utc": "2026-08-13T17:55:17.000Z",
+      "timestamp_est": "2026-08-13T13:55:17-04:00",
+      "tweet_text": "Work is done now in #ES_F. All week I've written ES was bull flagging (7794-7725). We got multiple longs, and job was just to hold for breakout. Today's targets were 7794 main (hit). 7820 (hit), 7835 (hit), 7845, 7868 bonus.\n\n7794 backtest zone, defending. Ride runner now https://t.co/3lcx8BD3gh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7794, 7820, 7835, 7845, 7868) are morning-plan levels or observations of targets hit; no new actionable levels introduced."
     }
   ]
 }
