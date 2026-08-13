@@ -1,17 +1,21 @@
 {
-  "session_date": "2026-08-12",
-  "daily_pivot": 7751.0,
-  "regime_hint": "C5",
+  "session_date": "2026-08-13",
+  "daily_pivot": 7767,
+  "regime_hint": "C2",
   "significant_lows": [
-    7744.0,
-    7726.0,
-    7695.0,
-    7649.0,
-    7632.0
+    7750,
+    7738,
+    7724,
+    7695,
+    7632
   ],
   "bull_levels": [
     {
       "price": 7767.0,
+      "major": true
+    },
+    {
+      "price": 7784.0,
       "major": true
     },
     {
@@ -23,41 +27,61 @@
       "major": true
     },
     {
-      "price": 7841.0,
+      "price": 7845.0,
       "major": true
     },
     {
-      "price": 7862.0,
+      "price": 7868.0,
       "major": true
     },
     {
-      "price": 7893.0,
+      "price": 7879.0,
       "major": true
     },
     {
-      "price": 7933.0,
+      "price": 7894.0,
       "major": true
     },
     {
-      "price": 7955.0,
+      "price": 7935.0,
       "major": true
     },
     {
-      "price": 7998.0,
+      "price": 7972.0,
       "major": true
     },
     {
-      "price": 8010.0,
+      "price": 7985.0,
+      "major": true
+    },
+    {
+      "price": 8000.0,
+      "major": true
+    },
+    {
+      "price": 8028.0,
+      "major": true
+    },
+    {
+      "price": 8047.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7752.0,
+      "price": 7767.0,
       "major": true
     },
     {
-      "price": 7726.0,
+      "price": 7750.0,
+      "major": true
+    },
+    {
+      "price": 7738.0,
+      "major": true
+    },
+    {
+      "price": 7724.0,
       "major": true
     },
     {
@@ -69,15 +93,11 @@
       "major": true
     },
     {
-      "price": 7611.0,
+      "price": 7629.0,
       "major": true
     },
     {
-      "price": 7570.0,
-      "major": true
-    },
-    {
-      "price": 7549.0,
+      "price": 7564.0,
       "major": true
     },
     {
@@ -85,18 +105,16 @@
       "major": true
     },
     {
-      "price": 7499.0,
+      "price": 7475.0,
       "major": true
     },
     {
-      "price": 7483.0,
+      "price": 7426.0,
       "major": true
     }
   ],
-  "event_times": [
-    1755042000000
-  ],
-  "event_day": true,
-  "notes": "CPI at 8:30 AM ET could break ES out of its week-long range (roughly 7726 to 7794). Trader leans bullish, holding a long runner, and plans to buy dips via failed-breakdown setups at 7744, 7726, or 7695 if price flushes those levels and snaps back. Breakout targets are 7820, 7840, 7893. The pivot is 7751: above it bulls are in control and a push toward 7794+ is favored; below it the range tilts bearish and 7726 becomes the key defense.",
-  "fetched_at": "2026-08-12T05:00:24.873893+00:00"
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES is in a low-volatility flag consolidation (roughly 7724-7794) after a 400+ point rally last week. Trader leans bullish, looking to buy dips via failed-breakdown setups at 7750, 7738, 7724, 7695, and 7632, then ride runners toward 7820, 7845, and 7879. The pivot is 7767: holding above it keeps the bull case intact; losing 7726 opens the door for bears.",
+  "fetched_at": "2026-08-13T05:00:17.162911+00:00"
 }
