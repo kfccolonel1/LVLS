@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-13T11:59:41.056774+00:00",
-  "fetched_at_est": "2026-08-13T07:59:41.056783-04:00",
+  "fetched_at_utc": "2026-08-13T12:09:43.512609+00:00",
+  "fetched_at_est": "2026-08-13T08:09:43.512616-04:00",
   "last_new_level_added_at_est": "2026-08-13T07:56:46-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2087510054681350148",
-      "timestamp_utc": "2026-08-12T12:02:35.000Z",
-      "timestamp_est": "2026-08-12T08:02:35-04:00",
-      "tweet_text": "@DolphinWick Yes. In summer trading we may get one vol burst a day. We need to use that to get long, then sit in runners for 24+ hours until the next one. Even those vol bursts are often very slow though, so its important not to take profits for granted because the snap backs will also be",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about summer trading strategy and volatility behavior. No prices named, purely conceptual/strategic commentary with no actionable levels."
-    },
-    {
-      "tweet_id": "2087511792738029803",
-      "timestamp_utc": "2026-08-12T12:09:30.000Z",
-      "timestamp_est": "2026-08-12T08:09:30-04:00",
-      "tweet_text": "@ES_Money_Print That's why I send them early days! Often we've got a trigger close that would be missed if I waited",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about timing of alerts; no price levels named or actionable signals present."
-    },
     {
       "tweet_id": "2087512237900451903",
       "timestamp_utc": "2026-08-12T12:11:16.000Z",
