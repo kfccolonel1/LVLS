@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-13T16:11:13.015442+00:00",
-  "fetched_at_est": "2026-08-13T12:11:13.015447-04:00",
+  "fetched_at_utc": "2026-08-13T16:21:19.874700+00:00",
+  "fetched_at_est": "2026-08-13T12:21:19.874704-04:00",
   "last_new_level_added_at_est": "2026-08-13T07:56:46-04:00",
   "todays_new_levels": [
     {
@@ -186,6 +186,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply '94' with no actionable price, naming language, or explicit level context."
+    },
+    {
+      "tweet_id": "2087936202854875171",
+      "timestamp_utc": "2026-08-13T16:15:57.000Z",
+      "timestamp_est": "2026-08-13T12:15:57-04:00",
+      "tweet_text": "Little to do now in #ES_F. All week we've bull flagged with 7794 resistance. Today's main targets were 7794 (hit) with breakout targeting 7820 (hit), 7835 (hit), 7845, 7868.\n\nNow, backtesting the 7794 zone. If bulls can't hold here, we retrace back to 7767 zone. https://t.co/rf9zOJoW04",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7794, 7820, 7835, 7845, 7868, 7767) are morning-plan levels or observations of hits. No new actionable levels introduced."
     }
   ]
 }
