@@ -1,13 +1,13 @@
 {
   "session_date": "2026-08-13",
-  "daily_pivot": 7767,
+  "daily_pivot": 7767.0,
   "regime_hint": "C2",
   "significant_lows": [
-    7750,
-    7738,
-    7724,
-    7695,
-    7632
+    7750.0,
+    7738.0,
+    7724.0,
+    7695.0,
+    7632.0
   ],
   "bull_levels": [
     {
@@ -115,6 +115,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES is in a low-volatility flag consolidation (roughly 7724-7794) after a 400+ point rally last week. Trader leans bullish, looking to buy dips via failed-breakdown setups at 7750, 7738, 7724, 7695, and 7632, then ride runners toward 7820, 7845, and 7879. The pivot is 7767: holding above it keeps the bull case intact; losing 7726 opens the door for bears.",
-  "fetched_at": "2026-08-13T05:00:17.162911+00:00"
+  "notes": "Trader holds a long runner from the July 29 low and is looking to buy dips within a flag consolidation range (7724-7795) that formed after a 400+ point rally. He leans bullish and expects the range to eventually break out toward 7820, 7845, and 7879. The pivot is 7767: above it the bull case is intact and ES could avoid even testing lower supports; below 7726 the bear case opens for a breakdown trade.",
+  "fetched_at": "2026-08-13T11:20:47.270859+00:00"
 }
