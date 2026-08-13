@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-13T17:21:28.260397+00:00",
-  "fetched_at_est": "2026-08-13T13:21:28.260403-04:00",
+  "fetched_at_utc": "2026-08-13T17:31:30.698323+00:00",
+  "fetched_at_est": "2026-08-13T13:31:30.698331-04:00",
   "last_new_level_added_at_est": "2026-08-13T07:56:46-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2087591946986324146",
-      "timestamp_utc": "2026-08-12T17:28:00.000Z",
-      "timestamp_est": "2026-08-12T13:28:00-04:00",
-      "tweet_text": "Nothing to do now in #ES_F. 1) We hit all today's targets given at 8am. 7775, 7783, 7794 (exact high of day) 2) its mid-day, mid-summer chop. 3) We are bull flagging, prepping next swing leg. Outside of scope for day traders\n\n7767 reclaim was low quality long. At 7775 1st up now https://t.co/g6xKH0ogVO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7775, 7783, 7794, 7767) are observations of targets hit or morning-plan reaffirmations. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2087592146169696568",
-      "timestamp_utc": "2026-08-12T17:28:47.000Z",
-      "timestamp_est": "2026-08-12T13:28:47-04:00",
-      "tweet_text": "@TheHealingTrade Nobody knows. The flag breaks up by default always in an uptrend unless interrupted by an unexpected catalyst. I always assume higher",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trend assumption; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2087617358118478089",
       "timestamp_utc": "2026-08-12T19:08:58.000Z",
