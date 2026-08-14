@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T14:43:22.661955+00:00",
-  "fetched_at_est": "2026-08-14T10:43:22.661959-04:00",
+  "fetched_at_utc": "2026-08-14T14:53:31.841110+00:00",
+  "fetched_at_est": "2026-08-14T10:53:31.841115-04:00",
   "last_new_level_added_at_est": "2026-08-14T07:57:48-04:00",
   "todays_new_levels": [
     {
@@ -116,6 +116,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7849 named explicitly as next target ('7836, 7849, 7856+ next') and is not in the morning plan. 7836, 7856, 7820, 7794 are all existing plan levels."
+    },
+    {
+      "tweet_id": "2088275901138063537",
+      "timestamp_utc": "2026-08-14T14:45:47.000Z",
+      "timestamp_est": "2026-08-14T10:45:47-04:00",
+      "tweet_text": "Volatility remains very low in #ES_F and nothing for day traders here as we push from the 7794-7724 flag breakout. 7820 was first weak support today and we dipped through. Recovery is a very low quality long to 7828, 7835+\n\n7794 remains support below here, then entries present https://t.co/2tnm2tqUHv",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7820, 7794, 7724 are morning-plan levels; 7828/7835 are casual recovery targets without clear naming language; no genuinely new actionable level introduced."
     }
   ]
 }
