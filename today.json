@@ -1,13 +1,13 @@
 {
   "session_date": "2026-08-14",
-  "daily_pivot": 7794,
+  "daily_pivot": 7794.0,
   "regime_hint": "C3",
   "significant_lows": [
-    7777,
-    7756,
-    7738,
-    7724,
-    7695
+    7777.0,
+    7758.0,
+    7738.0,
+    7724.0,
+    7695.0
   ],
   "bull_levels": [
     {
@@ -111,6 +111,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES broke out of a week-long bull flag on Aug 13 and hit 7820+. For Aug 14, the trader holds a long runner and is watching for dips to buy. He leans bullish and will look to add long only on a failed breakdown at 7777, 7756, or 7738. The pivot is 7794: above it bulls are in control and targets are 7836, 7856, and 7898; below 7726 shifts the picture bearish.",
-  "fetched_at": "2026-08-14T05:00:20.077452+00:00"
+  "notes": "ES broke out of a multi-day bull flag on Aug 13 and is now above 7820. The trader is holding a long runner and leaning bullish. He wants ES to hold 7794 (former flag resistance, now key pivot - bulls favored above it, structure weakens below) or at worst 7756, then continue higher toward 7836, 7856, and 7898. No new longs chased on strength; he waits for dips into flagged supports for Failed Breakdown entries.",
+  "fetched_at": "2026-08-14T11:39:14.587987+00:00"
 }
