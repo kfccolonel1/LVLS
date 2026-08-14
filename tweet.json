@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T15:03:35.363908+00:00",
-  "fetched_at_est": "2026-08-14T11:03:35.363913-04:00",
+  "fetched_at_utc": "2026-08-14T15:13:44.834801+00:00",
+  "fetched_at_est": "2026-08-14T11:13:44.834805-04:00",
   "last_new_level_added_at_est": "2026-08-14T07:57:48-04:00",
   "todays_new_levels": [
     {
@@ -107,6 +107,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7820, 7794, 7724 are morning-plan levels; 7828/7835 are casual recovery targets without clear naming language; no genuinely new actionable level introduced."
+    },
+    {
+      "tweet_id": "2088282341818966095",
+      "timestamp_utc": "2026-08-14T15:11:23.000Z",
+      "timestamp_est": "2026-08-14T11:11:23-04:00",
+      "tweet_text": "@Claudirxl It will just increase on its own, this is always a slow window in August",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels named; purely conversational comment about August volatility/volume patterns."
     }
   ]
 }
