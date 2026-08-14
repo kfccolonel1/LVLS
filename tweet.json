@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T18:44:57.909601+00:00",
-  "fetched_at_est": "2026-08-14T14:44:57.909611-04:00",
+  "fetched_at_utc": "2026-08-14T19:25:03.315926+00:00",
+  "fetched_at_est": "2026-08-14T15:25:03.315930-04:00",
   "last_new_level_added_at_est": "2026-08-14T13:25:08-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2087981411038875667",
-      "timestamp_utc": "2026-08-13T19:15:35.000Z",
-      "timestamp_est": "2026-08-13T15:15:35-04:00",
-      "tweet_text": "Closing update #ES_F: Trading doesn't get easier than we saw this week. All week, every hour, I posted we were bull flagging with 7794 res, and to hold runner. Today we brokeout and ran to 7820, 7835 targets. We then backtested ~7794, back up. Newsletter out soon with next entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7794, 7820, 7835) are morning-plan levels or prior targets. 'Ran to', 'backtested' are observations. No new actionable levels named."
-    },
     {
       "tweet_id": "2088233624868954228",
       "timestamp_utc": "2026-08-14T11:57:48.000Z",
