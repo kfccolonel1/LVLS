@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T15:13:44.834801+00:00",
-  "fetched_at_est": "2026-08-14T11:13:44.834805-04:00",
+  "fetched_at_utc": "2026-08-14T15:33:48.044969+00:00",
+  "fetched_at_est": "2026-08-14T11:33:48.044974-04:00",
   "last_new_level_added_at_est": "2026-08-14T07:57:48-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2087923819021238552",
-      "timestamp_utc": "2026-08-13T15:26:44.000Z",
-      "timestamp_est": "2026-08-13T11:26:44-04:00",
-      "tweet_text": "@T_Ngo_T Definitely 94",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply '94' with no actionable price, naming language, or explicit level context."
-    },
     {
       "tweet_id": "2087936202854875171",
       "timestamp_utc": "2026-08-13T16:15:57.000Z",
