@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T14:13:16.599438+00:00",
-  "fetched_at_est": "2026-08-14T10:13:16.599445-04:00",
+  "fetched_at_utc": "2026-08-14T14:23:19.263091+00:00",
+  "fetched_at_est": "2026-08-14T10:23:19.263096-04:00",
   "last_new_level_added_at_est": "2026-08-14T07:57:48-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2087905693135224893",
-      "timestamp_utc": "2026-08-13T14:14:43.000Z",
-      "timestamp_est": "2026-08-13T10:14:43-04:00",
-      "tweet_text": "@888MJ888 @NYJets2017 There are no strong resistances technically at all all time highs in a bull market. Price just rallies until or unless a headline hits. There is a little bit up towards 7960 or so then more at 8250ish, but it'll take sometime to get up there",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply; '7960' and '8250' mentioned vaguely as loose resistance zones, no actionable naming language used."
-    },
-    {
-      "tweet_id": "2087906126511665483",
-      "timestamp_utc": "2026-08-13T14:16:26.000Z",
-      "timestamp_est": "2026-08-13T10:16:26-04:00",
-      "tweet_text": "@DCdude69 I tweet it once per hour all day, all week, hopefully people can see why!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned; purely conversational reply about tweeting frequency."
-    },
     {
       "tweet_id": "2087910956760264874",
       "timestamp_utc": "2026-08-13T14:35:38.000Z",
