@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T18:34:46.507168+00:00",
-  "fetched_at_est": "2026-08-14T14:34:46.507173-04:00",
+  "fetched_at_utc": "2026-08-14T18:44:57.909601+00:00",
+  "fetched_at_est": "2026-08-14T14:44:57.909611-04:00",
   "last_new_level_added_at_est": "2026-08-14T13:25:08-04:00",
   "todays_new_levels": [
     {
@@ -161,6 +161,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7794/7820/7835 are morning-plan reaffirmations; 7828 is casual observation; no new actionable levels named with naming language."
+    },
+    {
+      "tweet_id": "2088335712282190318",
+      "timestamp_utc": "2026-08-14T18:43:27.000Z",
+      "timestamp_est": "2026-08-14T14:43:27-04:00",
+      "tweet_text": "@fiveinchhammer About 20 points off from yesterday's but other than that, no change!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing a distance ('20 points off'); no price explicitly named as actionable level."
+    },
+    {
+      "tweet_id": "2088335927089246255",
+      "timestamp_utc": "2026-08-14T18:44:19.000Z",
+      "timestamp_est": "2026-08-14T14:44:19-04:00",
+      "tweet_text": "CLosing update #ES_F: Newsletter was sent early today since markets aren't doing anything now. The key thing is that bulls need to defend the 7794 breakout (this was resistance early this week, broke, and is now support). Newsletter includes new entries if we get a pullback",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7794 is already in morning plan; reference to 'new entries on pullback' is vague with no specific price named."
     }
   ]
 }
