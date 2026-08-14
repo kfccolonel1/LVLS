@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T12:02:43.415653+00:00",
-  "fetched_at_est": "2026-08-14T08:02:43.415664-04:00",
+  "fetched_at_utc": "2026-08-14T12:12:48.891774+00:00",
+  "fetched_at_est": "2026-08-14T08:12:48.891779-04:00",
   "last_new_level_added_at_est": "2026-08-14T07:57:48-04:00",
   "todays_new_levels": [
     {
@@ -168,6 +168,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7794 is already in the morning plan; tweet is trade management/swing guidance with no new actionable prices named."
+    },
+    {
+      "tweet_id": "2088234880064712800",
+      "timestamp_utc": "2026-08-14T12:02:47.000Z",
+      "timestamp_est": "2026-08-14T08:02:47-04:00",
+      "tweet_text": "@OnTheHooch Plus we just broke out a major macro bull flag. Not a day traders market now. Just hold runner and do nothing",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely directional commentary about a macro bull flag pattern and trade management advice (hold runner)."
     }
   ]
 }
