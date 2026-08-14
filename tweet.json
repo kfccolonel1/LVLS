@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T15:53:55.651335+00:00",
-  "fetched_at_est": "2026-08-14T11:53:55.651340-04:00",
-  "last_new_level_added_at_est": "2026-08-14T07:57:48-04:00",
+  "fetched_at_utc": "2026-08-14T16:04:09.263952+00:00",
+  "fetched_at_est": "2026-08-14T12:04:09.263964-04:00",
+  "last_new_level_added_at_est": "2026-08-14T11:59:15-04:00",
   "todays_new_levels": [
     {
       "price": 7849.0,
@@ -11,6 +11,13 @@
       "added_at_est": "2026-08-14T07:57:48-04:00",
       "expires_at_est": "2026-08-14T15:57:48-04:00",
       "from_tweet_id": "2088233624868954228"
+    },
+    {
+      "price": 7797.0,
+      "side": "bull",
+      "added_at_est": "2026-08-14T11:59:15-04:00",
+      "expires_at_est": "2026-08-14T19:59:15-04:00",
+      "from_tweet_id": "2088294387872633130"
     }
   ],
   "updates": [
@@ -116,6 +123,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational commentary about volatility and seasonality; no price level named or actionable instruction given."
+    },
+    {
+      "tweet_id": "2088294387872633130",
+      "timestamp_utc": "2026-08-14T15:59:15.000Z",
+      "timestamp_est": "2026-08-14T11:59:15-04:00",
+      "tweet_text": "Snails pace grind in #ES_F and this is peak low volatility August trading. Not a day traders market. 7820 was 1st weak support today and we grinded through. 7794 remains bull flag backtest (watch tests here that recover 7797 to long).\n\n7820, 7828, 7835 above still. Bulls control https://t.co/V5P0nFA0r3",
+      "added_bull_levels": [
+        7797.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7797 is newly named as a recovery trigger for a long entry off 7794 backtest \u2014 not in morning plan. 7820/7828/7835 are reaffirmations or observations, not new."
+    },
+    {
+      "tweet_id": "2088294562636701789",
+      "timestamp_utc": "2026-08-14T15:59:57.000Z",
+      "timestamp_est": "2026-08-14T11:59:57-04:00",
+      "tweet_text": "@Jay_H_2 @NYJets2017 @Claudirxl This year we are also at ATHs and broken out. Much more bullish than it was last year, but last year was slow too",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market conditions vs last year; no actionable price level named or referenced."
     }
   ]
 }
