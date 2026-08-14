@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-14T13:23:06.988244+00:00",
-  "fetched_at_est": "2026-08-14T09:23:06.988249-04:00",
+  "fetched_at_utc": "2026-08-14T13:33:09.567249+00:00",
+  "fetched_at_est": "2026-08-14T09:33:09.567255-04:00",
   "last_new_level_added_at_est": "2026-08-14T07:57:48-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2087894073986134221",
-      "timestamp_utc": "2026-08-13T13:28:33.000Z",
-      "timestamp_est": "2026-08-13T09:28:33-04:00",
-      "tweet_text": "There's 7794 target hit in #ES_F exact, completing yesterday's slate. 7767 reclaim was last low quality long given ystd. Targets were 7775 (hit), 7783 (hit), 7794 (hit). Again, 0 to do now. When macro bull flag breaks, we trend for weeks. 7800, 7820 above.\n\n7767=support still https://t.co/zylQCglu6Z",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7794, 7767, 7775, 7783, 7800, 7820) are either morning-plan levels, hit-target observations, or casual directional references \u2014 no new actionable levels named."
-    },
-    {
-      "tweet_id": "2087894153422049451",
-      "timestamp_utc": "2026-08-13T13:28:52.000Z",
-      "timestamp_est": "2026-08-13T09:28:52-04:00",
-      "tweet_text": "Remember this post: https://t.co/BXNe6QLWi9",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is only a reference/link to a prior post with no price levels named or actionable language present."
-    },
-    {
-      "tweet_id": "2087894311345999924",
-      "timestamp_utc": "2026-08-13T13:29:29.000Z",
-      "timestamp_est": "2026-08-13T09:29:29-04:00",
-      "tweet_text": "@DavidBohn11 Was sent yesterday as always. Check your junk folder. If not in there, you can find the whole newsletter on my Substack page",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a customer support reply about newsletter delivery; no prices or actionable levels mentioned."
-    },
     {
       "tweet_id": "2087895663723814943",
       "timestamp_utc": "2026-08-13T13:34:52.000Z",
