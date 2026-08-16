@@ -1,9 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-16T04:06:18.136644+00:00",
-  "fetched_at_est": "2026-08-16T00:06:18.136648-04:00",
+  "fetched_at_utc": "2026-08-16T17:47:32.571265+00:00",
+  "fetched_at_est": "2026-08-16T13:47:32.571270-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
-  "updates": []
+  "updates": [
+    {
+      "tweet_id": "2089044306417881514",
+      "timestamp_utc": "2026-08-16T17:39:09.000Z",
+      "timestamp_est": "2026-08-16T13:39:09-04:00",
+      "tweet_text": "Forcing trades kills win rate and to avoid it, I always ask myself two questions before entry: 1) Was this entry/zone part of my trade plan? 2) Does it correspond to one of my 3 setup types I've drilled thousands of times? Yes on both eliminates impulse trades, ramps win rate",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is general trading philosophy/discipline advice with no price levels named whatsoever."
+    }
+  ]
 }
