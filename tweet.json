@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-17T16:39:15.191296+00:00",
-  "fetched_at_est": "2026-08-17T12:39:15.191301-04:00",
+  "fetched_at_utc": "2026-08-17T17:09:25.025194+00:00",
+  "fetched_at_est": "2026-08-17T13:09:25.025199-04:00",
   "last_new_level_added_at_est": "2026-08-17T09:48:37-04:00",
   "todays_new_levels": [
     {
@@ -176,6 +176,21 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining reclaim criteria; no price levels named or actionable levels referenced."
+    },
+    {
+      "tweet_id": "2089396846531633615",
+      "timestamp_utc": "2026-08-17T17:00:01.000Z",
+      "timestamp_est": "2026-08-17T13:00:01-04:00",
+      "tweet_text": "We remain in no volatility summer grind in #ES_F. This action is not currently tradable until we get some momentum. If you force trades in chop, you lose. 7797 must reclaim to trigger up to 7805, 7820, 7828+.\n\nNext notable support not until 7777 (watch traps there also) https://t.co/tIe8Lxj5pn",
+      "added_bull_levels": [
+        7797.0,
+        7805.0,
+        7828.0
+      ],
+      "added_bear_levels": [
+        7777.0
+      ],
+      "notes": "7797 trigger, 7805 and 7828 targets, and 7777 next notable support are all newly named actionable levels not in morning plan (7820 excluded as morning plan level)."
     }
   ]
 }
