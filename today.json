@@ -5,6 +5,7 @@
   "significant_lows": [
     7794,
     7756,
+    7749,
     7738,
     7725,
     7695
@@ -131,6 +132,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish after a 400+ point rally and a bull flag breakout. He expects ES to hold 7794 or 7756 (quick traps allowed) then push toward 7835, 7854, and 7903. He is already long with a runner and will look to add only on failed-breakdown dips at those support levels. The key pivot is 7794: above it bulls are in control and higher targets are in play; losing it cleanly opens a pullback toward 7756 or 7695.",
-  "fetched_at": "2026-08-17T05:00:22.262541+00:00"
+  "notes": "After a 400+ point rally, ES built a bull flag (7695-7794) and broke out Friday. Trader is holding a long runner from the July 29 7325 Failed Breakdown. For Monday, he leans bullish and will look to buy Failed Breakdowns at 7794 or 7756 (quick traps allowed). Upside targets are 7835, 7854, 7903. The pivot is 7794: bulls favor continuation above it; below 7726 opens a potential breakdown.",
+  "fetched_at": "2026-08-17T10:38:08.152464+00:00"
 }
