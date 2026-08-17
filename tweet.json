@@ -1,10 +1,39 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-16T23:58:10.419681+00:00",
-  "fetched_at_est": "2026-08-16T19:58:10.419686-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-17T11:57:57.327581+00:00",
+  "fetched_at_est": "2026-08-17T07:57:57.327586-04:00",
+  "last_new_level_added_at_est": "2026-08-17T07:55:51-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7797.0,
+      "side": "bull",
+      "added_at_est": "2026-08-17T07:55:51-04:00",
+      "expires_at_est": "2026-08-17T15:55:51-04:00",
+      "from_tweet_id": "2089320299887997127"
+    },
+    {
+      "price": 7828.0,
+      "side": "bull",
+      "added_at_est": "2026-08-17T07:55:51-04:00",
+      "expires_at_est": "2026-08-17T15:55:51-04:00",
+      "from_tweet_id": "2089320299887997127"
+    },
+    {
+      "price": 7835.0,
+      "side": "bull",
+      "added_at_est": "2026-08-17T07:55:51-04:00",
+      "expires_at_est": "2026-08-17T15:55:51-04:00",
+      "from_tweet_id": "2089320299887997127"
+    },
+    {
+      "price": 7845.0,
+      "side": "bull",
+      "added_at_est": "2026-08-17T07:55:51-04:00",
+      "expires_at_est": "2026-08-17T15:55:51-04:00",
+      "from_tweet_id": "2089320299887997127"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2089044306417881514",
@@ -23,6 +52,20 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user with directional commentary only; no actionable price levels named."
+    },
+    {
+      "tweet_id": "2089320299887997127",
+      "timestamp_utc": "2026-08-17T11:55:51.000Z",
+      "timestamp_est": "2026-08-17T07:55:51-04:00",
+      "tweet_text": "Summer grind continues, but we got a nice Sunday long. Last week, #ES_F broke out a week long bull flag with 7797-7794 res. We backtested, swept it late Friday, recovered, longed.\n\nPlan today: Too slow to trade. 7797=support (watch traps). 7828, 7835, 7845 if ES wants more. https://t.co/XFzQ8J6bs9",
+      "added_bull_levels": [
+        7797.0,
+        7828.0,
+        7835.0,
+        7845.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7797 named as support (watch traps), 7828/7835/7845 named as upside targets \u2014 all actionable and not in morning plan."
     }
   ]
 }
