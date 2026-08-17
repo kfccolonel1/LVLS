@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-17T13:18:27.755853+00:00",
-  "fetched_at_est": "2026-08-17T09:18:27.755858-04:00",
-  "last_new_level_added_at_est": "2026-08-17T09:09:53-04:00",
+  "fetched_at_utc": "2026-08-17T13:58:36.768182+00:00",
+  "fetched_at_est": "2026-08-17T09:58:36.768187-04:00",
+  "last_new_level_added_at_est": "2026-08-17T09:48:37-04:00",
   "todays_new_levels": [
     {
       "price": 7797.0,
@@ -39,6 +39,13 @@
       "added_at_est": "2026-08-17T09:09:53-04:00",
       "expires_at_est": "2026-08-17T17:09:53-04:00",
       "from_tweet_id": "2089338928687964393"
+    },
+    {
+      "price": 7805.0,
+      "side": "bull",
+      "added_at_est": "2026-08-17T09:48:37-04:00",
+      "expires_at_est": "2026-08-17T17:48:37-04:00",
+      "from_tweet_id": "2089348675864576468"
     }
   ],
   "updates": [
@@ -105,6 +112,20 @@
         7777.0
       ],
       "notes": "7828 and 7835 named as 'next' targets (actionable upside); 7777 named as support below \u2014 none of these are in the morning plan."
+    },
+    {
+      "tweet_id": "2089348675864576468",
+      "timestamp_utc": "2026-08-17T13:48:37.000Z",
+      "timestamp_est": "2026-08-17T09:48:37-04:00",
+      "tweet_text": "Nice mini-vol spike finally in #ES_F. We get one of these per day if we are lucky. We are backtesting the 7794-97 bull flag breakout from Thursday again. 7797 remains support and watch reclaims here. Take profits *aggressively* due the chop. 7805, 7820, 7828+ above.\n\n7777 below https://t.co/kdZM9KoCcQ",
+      "added_bull_levels": [
+        7805.0,
+        7828.0
+      ],
+      "added_bear_levels": [
+        7777.0
+      ],
+      "notes": "7805 and 7828 named as targets above with actionable framing; 7777 named as key level below. 7794/7820 are morning plan levels."
     }
   ]
 }
