@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-17T17:39:34.813249+00:00",
-  "fetched_at_est": "2026-08-17T13:39:34.813255-04:00",
-  "last_new_level_added_at_est": "2026-08-17T09:48:37-04:00",
+  "fetched_at_utc": "2026-08-17T18:19:46.888421+00:00",
+  "fetched_at_est": "2026-08-17T14:19:46.888431-04:00",
+  "last_new_level_added_at_est": "2026-08-17T14:15:06-04:00",
   "todays_new_levels": [
     {
       "price": 7797.0,
@@ -46,6 +46,13 @@
       "added_at_est": "2026-08-17T09:48:37-04:00",
       "expires_at_est": "2026-08-17T17:48:37-04:00",
       "from_tweet_id": "2089348675864576468"
+    },
+    {
+      "price": 7758.0,
+      "side": "bear",
+      "added_at_est": "2026-08-17T14:15:06-04:00",
+      "expires_at_est": "2026-08-17T22:15:06-04:00",
+      "from_tweet_id": "2089415738033398134"
     }
   ],
   "updates": [
@@ -191,6 +198,29 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about trading philosophy and volatility conditions; no actionable price level named or flagged."
+    },
+    {
+      "tweet_id": "2089415189229621749",
+      "timestamp_utc": "2026-08-17T18:12:55.000Z",
+      "timestamp_est": "2026-08-17T14:12:55-04:00",
+      "tweet_text": "@TheHealingTrade Its not a relevant question for day traders. Whether it fails or doesn't fail we just respond to setups and triggers. We just need volatility so we can take trades",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about trading philosophy and volatility; no price levels named or implied."
+    },
+    {
+      "tweet_id": "2089415738033398134",
+      "timestamp_utc": "2026-08-17T18:15:06.000Z",
+      "timestamp_est": "2026-08-17T14:15:06-04:00",
+      "tweet_text": "Volatility remains rock bottom low in #ES_F but we've arrived at next support at least at 7777. Watch traps here with recoveries taking us back to 7797. That must recover to resume upside from here.\n\nNext down is 7758 https://t.co/KSmWA8hwIx",
+      "added_bull_levels": [
+        7797.0
+      ],
+      "added_bear_levels": [
+        7777.0,
+        7758.0
+      ],
+      "notes": "7777 named as 'next support', 7797 as must-recover trigger for upside, 7758 as 'next down' \u2014 all actionable, none in morning plan."
     }
   ]
 }
