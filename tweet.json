@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-17T14:28:43.697992+00:00",
-  "fetched_at_est": "2026-08-17T10:28:43.697996-04:00",
+  "fetched_at_utc": "2026-08-17T14:38:49.041176+00:00",
+  "fetched_at_est": "2026-08-17T10:38:49.041181-04:00",
   "last_new_level_added_at_est": "2026-08-17T09:48:37-04:00",
   "todays_new_levels": [
     {
@@ -135,6 +135,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market conditions; no prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2089359149641437421",
+      "timestamp_utc": "2026-08-17T14:30:14.000Z",
+      "timestamp_est": "2026-08-17T10:30:14-04:00",
+      "tweet_text": "@Jrivera6767 Havnt been any longs yet today",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user; no price levels named, no actionable language, purely a status update about trade activity."
     }
   ]
 }
