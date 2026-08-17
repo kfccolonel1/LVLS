@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-17T18:19:46.888421+00:00",
-  "fetched_at_est": "2026-08-17T14:19:46.888431-04:00",
+  "fetched_at_utc": "2026-08-17T19:00:00.914980+00:00",
+  "fetched_at_est": "2026-08-17T15:00:00.914986-04:00",
   "last_new_level_added_at_est": "2026-08-17T14:15:06-04:00",
   "todays_new_levels": [
     {
@@ -221,6 +221,15 @@
         7758.0
       ],
       "notes": "7777 named as 'next support', 7797 as must-recover trigger for upside, 7758 as 'next down' \u2014 all actionable, none in morning plan."
+    },
+    {
+      "tweet_id": "2089426741278265780",
+      "timestamp_utc": "2026-08-17T18:58:49.000Z",
+      "timestamp_est": "2026-08-17T14:58:49-04:00",
+      "tweet_text": "@hari_7879 Its just obvious by how fast price is moving. If its taking price 2 hours to move 10 points or 20 points, we don't have good volatility",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure volatility commentary in reply to a user; no price level named, no actionable language, no entry/exit/watch signal."
     }
   ]
 }
