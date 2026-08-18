@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T14:23:19.793992+00:00",
-  "fetched_at_est": "2026-08-18T10:23:19.793998-04:00",
+  "fetched_at_utc": "2026-08-18T14:33:22.819579+00:00",
+  "fetched_at_est": "2026-08-18T10:33:22.819584-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2089358612002959387",
-      "timestamp_utc": "2026-08-17T14:28:06.000Z",
-      "timestamp_est": "2026-08-17T10:28:06-04:00",
-      "tweet_text": "@abbradwell Just normal summer trading! No triggers yet today so have to just sit and watch",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market conditions; no prices named, no actionable levels introduced."
-    },
-    {
-      "tweet_id": "2089359149641437421",
-      "timestamp_utc": "2026-08-17T14:30:14.000Z",
-      "timestamp_est": "2026-08-17T10:30:14-04:00",
-      "tweet_text": "@Jrivera6767 Havnt been any longs yet today",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user; no price levels named, no actionable language, purely a status update about trade activity."
-    },
     {
       "tweet_id": "2089372393730945507",
       "timestamp_utc": "2026-08-17T15:22:51.000Z",
