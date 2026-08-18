@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T18:24:48.440290+00:00",
-  "fetched_at_est": "2026-08-18T14:24:48.440294-04:00",
-  "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
+  "fetched_at_utc": "2026-08-18T18:54:59.125571+00:00",
+  "fetched_at_est": "2026-08-18T14:54:59.125585-04:00",
+  "last_new_level_added_at_est": "2026-08-18T14:52:40-04:00",
   "todays_new_levels": [
     {
       "price": 7753.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-08-18T07:49:56-04:00",
       "expires_at_est": "2026-08-18T15:49:56-04:00",
       "from_tweet_id": "2089681199409033439"
+    },
+    {
+      "price": 7716.0,
+      "side": "bear",
+      "added_at_est": "2026-08-18T14:52:40-04:00",
+      "expires_at_est": "2026-08-18T22:52:40-04:00",
+      "from_tweet_id": "2089787583488217575"
     }
   ],
   "updates": [
@@ -234,6 +241,28 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply with only a URL and no actionable price levels named."
+    },
+    {
+      "tweet_id": "2089786804534694184",
+      "timestamp_utc": "2026-08-18T18:49:35.000Z",
+      "timestamp_est": "2026-08-18T14:49:35-04:00",
+      "tweet_text": "@T_Ngo_T Happened on every backtest so far this year, so far 100% have backtested",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user, no price mentioned, pure conversational observation about backtesting frequency. No actionable level named."
+    },
+    {
+      "tweet_id": "2089787583488217575",
+      "timestamp_utc": "2026-08-18T18:52:40.000Z",
+      "timestamp_est": "2026-08-18T14:52:40-04:00",
+      "tweet_text": "Closing update #ES_F: We spent the entire session in a ~25 point range. Newsletter will be sent shortly with next batch of entries, but 7716 now support and bulls have to recover 7738 to begin a rally up the levels to the 7797 backtest. Until 7738 recovers, rally unlikely",
+      "added_bull_levels": [
+        7738.0
+      ],
+      "added_bear_levels": [
+        7716.0
+      ],
+      "notes": "7716 named explicitly as 'now support' (new, not in morning plan); 7738 is morning-plan level reaffirmed as trigger \u2014 flagging 7716 as new bear support only. Wait: 7738 is in plan, omit. 7716 is new."
     }
   ]
 }
