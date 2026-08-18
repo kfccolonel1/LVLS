@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T15:03:40.287125+00:00",
-  "fetched_at_est": "2026-08-18T11:03:40.287132-04:00",
+  "fetched_at_utc": "2026-08-18T15:13:47.160817+00:00",
+  "fetched_at_est": "2026-08-18T11:13:47.160823-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -228,6 +228,19 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7695 is a morning plan level; 7707 not named with actionable language \u2014 this is a reaffirmation/directional observation, not a new major level."
+    },
+    {
+      "tweet_id": "2089731529664504088",
+      "timestamp_utc": "2026-08-18T15:09:56.000Z",
+      "timestamp_est": "2026-08-18T11:09:56-04:00",
+      "tweet_text": "Extremely slow price action still in #ES_F. 7797 remains the bull/bear line and bulls need to backtest and recover that tom regain control. Until then, bounces will be less sustainable.\n\nFor today, 7738 must recover to start a rally to 7753, 7758, 7777+. 7707, 7695 below now https://t.co/mPevUw5QAG",
+      "added_bull_levels": [
+        7753.0
+      ],
+      "added_bear_levels": [
+        7707.0
+      ],
+      "notes": "7753 named as rally target (new, not in morning plan); 7707 named as support below (new, not in morning plan). 7738/7758/7777/7797/7695 are all morning-plan reaffirmations."
     }
   ]
 }
