@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T12:02:20.831654+00:00",
-  "fetched_at_est": "2026-08-18T08:02:20.831659-04:00",
+  "fetched_at_utc": "2026-08-18T12:12:31.907207+00:00",
+  "fetched_at_est": "2026-08-18T08:12:31.907219-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -216,6 +216,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing vague '38 shelf' and '38-41 zone' without explicit ES prices; no actionable named level introduced."
+    },
+    {
+      "tweet_id": "2089684927931441353",
+      "timestamp_utc": "2026-08-18T12:04:45.000Z",
+      "timestamp_est": "2026-08-18T08:04:45-04:00",
+      "tweet_text": "@mblcta1 @StephenJ223624 Yes usually, but my cost basis on this trade is unusually low with the largest profit cushion this year (from the 7325 Failed Breakdown after FOMC) so I am fine just holding this one. Even if it goes all the way back to break-even I am fine with it. I am quite flexible with",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade management/cost basis from a 7325 FBD; no new actionable level named with naming language."
+    },
+    {
+      "tweet_id": "2089685073394012639",
+      "timestamp_utc": "2026-08-18T12:05:20.000Z",
+      "timestamp_est": "2026-08-18T08:05:20-04:00",
+      "tweet_text": "@mblcta1 @StephenJ223624 Don't want to cut it and be without a runner when we are still firmly in breakout mode",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management commentary about holding a runner; no actionable price level named."
     }
   ]
 }
