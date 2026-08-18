@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T12:12:31.907207+00:00",
-  "fetched_at_est": "2026-08-18T08:12:31.907219-04:00",
+  "fetched_at_utc": "2026-08-18T12:22:39.354137+00:00",
+  "fetched_at_est": "2026-08-18T08:22:39.354142-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -234,6 +234,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management commentary about holding a runner; no actionable price level named."
+    },
+    {
+      "tweet_id": "2089689011161866338",
+      "timestamp_utc": "2026-08-18T12:20:59.000Z",
+      "timestamp_est": "2026-08-18T08:20:59-04:00",
+      "tweet_text": "@KhareedBech Yes, 7797 resistance, 7675 or so support as discussed in newsletter. The reason we sold is that we sold back into the structure",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7797 is a morning plan level; 7675 is a casual 'or so' approximation of 7676 (morning plan); both are reaffirmations, no new actionable levels."
     }
   ]
 }
