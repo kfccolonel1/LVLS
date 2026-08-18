@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T12:22:39.354137+00:00",
-  "fetched_at_est": "2026-08-18T08:22:39.354142-04:00",
+  "fetched_at_utc": "2026-08-18T12:52:44.362009+00:00",
+  "fetched_at_est": "2026-08-18T08:52:44.362017-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2089334077107143016",
-      "timestamp_utc": "2026-08-17T12:50:36.000Z",
-      "timestamp_est": "2026-08-17T08:50:36-04:00",
-      "tweet_text": "@repetak The 7797 Failed Breakdown. I attached the screen grab to the tweet. We swept 97 late Friday and one could have longed anytime after that",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7797 is near morning plan level 7794; tweet is hindsight explanation of a Friday FBD setup, not a new actionable level for today."
-    },
     {
       "tweet_id": "2089335813070885007",
       "timestamp_utc": "2026-08-17T12:57:30.000Z",
