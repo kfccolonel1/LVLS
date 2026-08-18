@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T15:53:55.151974+00:00",
-  "fetched_at_est": "2026-08-18T11:53:55.151979-04:00",
+  "fetched_at_utc": "2026-08-18T16:34:03.823794+00:00",
+  "fetched_at_est": "2026-08-18T12:34:03.823799-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2089389143839191299",
-      "timestamp_utc": "2026-08-17T16:29:25.000Z",
-      "timestamp_est": "2026-08-17T12:29:25-04:00",
-      "tweet_text": "@Mike79739104 Hasn't been any reclaims yet today. I am very clear about my criteria for a reclaim which I mention everyday in the newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining reclaim criteria; no price levels named or actionable levels referenced."
-    },
     {
       "tweet_id": "2089396846531633615",
       "timestamp_utc": "2026-08-17T17:00:01.000Z",
@@ -218,6 +209,15 @@
         7707.0
       ],
       "notes": "7753 named as rally target (new, not in morning plan); 7707 named as support below (new, not in morning plan). 7738/7758/7777/7797/7695 are all morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2089752448151740531",
+      "timestamp_utc": "2026-08-18T16:33:04.000Z",
+      "timestamp_est": "2026-08-18T12:33:04-04:00",
+      "tweet_text": "Price still not moving in #ES_F. 7797 is the bull/bear line. Its breakout took us to 7830s this week, and its failure took us back down. Bulls must back-test then recover to regain control.\n\nNo rally until 7738 reclaims which has held precisely as resistance all morning https://t.co/3ug2WpTWyR",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7797 and 7738 are both morning-plan levels; tweet reaffirms their roles with no new actionable prices introduced."
     }
   ]
 }
