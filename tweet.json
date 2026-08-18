@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T15:23:49.875945+00:00",
-  "fetched_at_est": "2026-08-18T11:23:49.875950-04:00",
+  "fetched_at_utc": "2026-08-18T15:53:55.151974+00:00",
+  "fetched_at_est": "2026-08-18T11:53:55.151979-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -21,20 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2089378328889192530",
-      "timestamp_utc": "2026-08-17T15:46:27.000Z",
-      "timestamp_est": "2026-08-17T11:46:27-04:00",
-      "tweet_text": "We remain in no volatility summer chop in #ES_F. Overtrade here, lose money. We continue to backtest last weeks 7794-97 breakout. In order to rally, 7797 must reclaim to see 7805, 7820, 7828+.\n\nNext support not until 7777. Do not force trades until we have real momentum https://t.co/XyTka6qvDe",
-      "added_bull_levels": [
-        7805.0,
-        7828.0
-      ],
-      "added_bear_levels": [
-        7777.0
-      ],
-      "notes": "7805 and 7828 named as rally targets above reclaim; 7777 explicitly named as 'next support' \u2014 all three are new, not in morning plan."
-    },
     {
       "tweet_id": "2089389143839191299",
       "timestamp_utc": "2026-08-17T16:29:25.000Z",
