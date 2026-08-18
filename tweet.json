@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T19:05:02.351683+00:00",
-  "fetched_at_est": "2026-08-18T15:05:02.351690-04:00",
+  "fetched_at_utc": "2026-08-18T19:35:07.309404+00:00",
+  "fetched_at_est": "2026-08-18T15:35:07.309409-04:00",
   "last_new_level_added_at_est": "2026-08-18T14:52:40-04:00",
   "todays_new_levels": [
     {
@@ -28,19 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2089434392888238214",
-      "timestamp_utc": "2026-08-17T19:29:13.000Z",
-      "timestamp_est": "2026-08-17T15:29:13-04:00",
-      "tweet_text": "CLosing update #ES_F: Slow day with no trades triggering. The 7777 Failed Breakdown is an evening entry, otherwise we just continue the grind down to 7758 next. Newsletter was just sent with the next batch of entries",
-      "added_bull_levels": [
-        7777.0
-      ],
-      "added_bear_levels": [
-        7758.0
-      ],
-      "notes": "7777 named as FBD entry (actionable, not in morning plan); 7758 named as next downside target 'grind down to' \u2014 directional target not in morning plan."
-    },
     {
       "tweet_id": "2089555053728211415",
       "timestamp_utc": "2026-08-18T03:28:41.000Z",
