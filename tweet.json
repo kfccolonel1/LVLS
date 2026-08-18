@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T17:04:19.759990+00:00",
-  "fetched_at_est": "2026-08-18T13:04:19.759997-04:00",
+  "fetched_at_utc": "2026-08-18T17:24:23.395163+00:00",
+  "fetched_at_est": "2026-08-18T13:24:23.395169-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2089401013534966035",
-      "timestamp_utc": "2026-08-17T17:16:35.000Z",
-      "timestamp_est": "2026-08-17T13:16:35-04:00",
-      "tweet_text": "@Trade1233288310 That's predicting (you are inferring what action might be based on something that has happened). I don't predict, I just respond to triggers. The risk with the 77 is just there's no momentum now and volatility is very low so that always needs to be a precondition",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading philosophy and volatility conditions; no actionable price level named or flagged."
-    },
     {
       "tweet_id": "2089415189229621749",
       "timestamp_utc": "2026-08-17T18:12:55.000Z",
