@@ -1,10 +1,25 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T03:31:16.511592+00:00",
-  "fetched_at_est": "2026-08-17T23:31:16.511597-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-18T11:52:08.216131+00:00",
+  "fetched_at_est": "2026-08-18T07:52:08.216135-04:00",
+  "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7753.0,
+      "side": "bull",
+      "added_at_est": "2026-08-18T07:49:56-04:00",
+      "expires_at_est": "2026-08-18T15:49:56-04:00",
+      "from_tweet_id": "2089681199409033439"
+    },
+    {
+      "price": 7707.0,
+      "side": "bear",
+      "added_at_est": "2026-08-18T07:49:56-04:00",
+      "expires_at_est": "2026-08-18T15:49:56-04:00",
+      "from_tweet_id": "2089681199409033439"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2089320299887997127",
@@ -193,6 +208,19 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about low volume and choppy price action in late August. No actionable price levels named."
+    },
+    {
+      "tweet_id": "2089681199409033439",
+      "timestamp_utc": "2026-08-18T11:49:56.000Z",
+      "timestamp_est": "2026-08-18T07:49:56-04:00",
+      "tweet_text": "Low volatility summer grind continues in #ES_F but we at least got some red to work with overnight. Take profits quick still in this environment. Bears have minor control now below 7797.\n\nPlan today: 7738 must reclaim to see 7753, 7758, 7777. 7724, 7707, 7695 (major) below https://t.co/OE7UhLtKJw",
+      "added_bull_levels": [
+        7753.0
+      ],
+      "added_bear_levels": [
+        7707.0
+      ],
+      "notes": "7753 and 7707 are explicitly named as actionable targets/supports not in the morning plan; all others (7738,7758,7777,7724,7695) are already-published levels."
     }
   ]
 }
