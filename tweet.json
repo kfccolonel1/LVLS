@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T16:34:03.823794+00:00",
-  "fetched_at_est": "2026-08-18T12:34:03.823799-04:00",
+  "fetched_at_utc": "2026-08-18T16:44:11.526077+00:00",
+  "fetched_at_est": "2026-08-18T12:44:11.526090-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -218,6 +218,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7797 and 7738 are both morning-plan levels; tweet reaffirms their roles with no new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2089752695737344319",
+      "timestamp_utc": "2026-08-18T16:34:03.000Z",
+      "timestamp_est": "2026-08-18T12:34:03-04:00",
+      "tweet_text": "@schwartzaman Last summer was slow too, but this is definitely slower! Agust is always the worst month of the year to trade though, unless there is some external headline shock to get things moving",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary about seasonal trading conditions; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2089752835558674801",
+      "timestamp_utc": "2026-08-18T16:34:36.000Z",
+      "timestamp_est": "2026-08-18T12:34:36-04:00",
+      "tweet_text": "@Wyzerowany Likely in the early phases of building out a pattern like that!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no prices, no actionable levels, purely conversational pattern commentary."
     }
   ]
 }
