@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T17:24:23.395163+00:00",
-  "fetched_at_est": "2026-08-18T13:24:23.395169-04:00",
+  "fetched_at_utc": "2026-08-18T18:04:38.860987+00:00",
+  "fetched_at_est": "2026-08-18T14:04:38.861001-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -221,6 +221,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on range/volatility conditions; no actionable price named, no naming language used."
+    },
+    {
+      "tweet_id": "2089773751084707973",
+      "timestamp_utc": "2026-08-18T17:57:43.000Z",
+      "timestamp_est": "2026-08-18T13:57:43-04:00",
+      "tweet_text": "@repetak Not actionable, just chop here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels named; purely conversational commentary about choppy price action with no actionable entry, support, or resistance."
+    },
+    {
+      "tweet_id": "2089774024444289028",
+      "timestamp_utc": "2026-08-18T17:58:48.000Z",
+      "timestamp_est": "2026-08-18T13:58:48-04:00",
+      "tweet_text": "This action not tradeable in #ES_F as we chop around 7724. Don't force action. 7797 remains the bull/bear line and bears maintain below. 7797 will backtest though, but to do so, we need a high momentum Failed Breakdown. 7738 remains the level that must recover.\n\n7707, 7695 below https://t.co/dRrcDxKj1k",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7724, 7797, 7738, 7707, 7695) are either morning-plan levels or observations of current price action; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2089775026446688390",
+      "timestamp_utc": "2026-08-18T18:02:47.000Z",
+      "timestamp_est": "2026-08-18T14:02:47-04:00",
+      "tweet_text": "@NYJets2017 @repetak Yes. 7648 also is a magnet on the downside. 7797 on upside, 7648 on downside. We'll see what backtests first!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7648 and 7797 are both in the morning plan (7649 and 7797). Conversational reply referencing existing levels as magnets, no new actionable levels named."
     }
   ]
 }
