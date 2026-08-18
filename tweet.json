@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T19:35:07.309404+00:00",
-  "fetched_at_est": "2026-08-18T15:35:07.309409-04:00",
+  "fetched_at_utc": "2026-08-18T19:45:16.229131+00:00",
+  "fetched_at_est": "2026-08-18T15:45:16.229140-04:00",
   "last_new_level_added_at_est": "2026-08-18T14:52:40-04:00",
   "todays_new_levels": [
     {
@@ -241,6 +241,24 @@
         7716.0
       ],
       "notes": "7716 named explicitly as 'now support' (new, not in morning plan); 7738 is morning-plan level reaffirmed as trigger \u2014 flagging 7716 as new bear support only. Wait: 7738 is in plan, omit. 7716 is new."
+    },
+    {
+      "tweet_id": "2089799990411403458",
+      "timestamp_utc": "2026-08-18T19:41:58.000Z",
+      "timestamp_est": "2026-08-18T15:41:58-04:00",
+      "tweet_text": "@upandown007 That assumes you have some edge that is more accurate than the simple trend. Since 99% or so of day traders are unprofitable, this is almost certainly not the case. Always just defer to the trend",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet offering trading advice about trend-following; no price levels named or actionable levels referenced."
+    },
+    {
+      "tweet_id": "2089800250391163228",
+      "timestamp_utc": "2026-08-18T19:43:00.000Z",
+      "timestamp_est": "2026-08-18T15:43:00-04:00",
+      "tweet_text": "@upandown007 (I've never personally found any edge or indicator that can generate a better predictive capacity than just trend following and neither has anyone you now. Highly advanced hedge funds may)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels named; purely conversational opinion about trend following and hedge funds."
     }
   ]
 }
