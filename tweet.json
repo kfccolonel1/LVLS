@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T02:21:06.194953+00:00",
-  "fetched_at_est": "2026-08-17T22:21:06.194961-04:00",
+  "fetched_at_utc": "2026-08-18T03:31:16.511592+00:00",
+  "fetched_at_est": "2026-08-17T23:31:16.511597-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -184,6 +184,15 @@
         7758.0
       ],
       "notes": "7777 named as FBD entry (actionable, not in morning plan); 7758 named as next downside target 'grind down to' \u2014 directional target not in morning plan."
+    },
+    {
+      "tweet_id": "2089555053728211415",
+      "timestamp_utc": "2026-08-18T03:28:41.000Z",
+      "timestamp_est": "2026-08-17T23:28:41-04:00",
+      "tweet_text": "@Webe27456 Lowest volume window of the year! Late August before September. Its why we've just had this slow, choppy grind up all month",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about low volume and choppy price action in late August. No actionable price levels named."
     }
   ]
 }
