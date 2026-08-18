@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T13:02:54.289123+00:00",
-  "fetched_at_est": "2026-08-18T09:02:54.289128-04:00",
+  "fetched_at_utc": "2026-08-18T13:12:57.023080+00:00",
+  "fetched_at_est": "2026-08-18T09:12:57.023085-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -21,20 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2089338928687964393",
-      "timestamp_utc": "2026-08-17T13:09:53.000Z",
-      "timestamp_est": "2026-08-17T09:09:53-04:00",
-      "tweet_text": "We remain in no-trade summer chop in #ES_F. Last week, we broke out another bull flag with 7797-94 res. Late Friday, we swept it/backtested, longs triggered again (could be taken anytime into Sunday per newsletter) &amp; back up.\n\n7820, 7828, 7835 next. 7797=support. 7777 below. https://t.co/gLxTwe4HKk",
-      "added_bull_levels": [
-        7828.0,
-        7835.0
-      ],
-      "added_bear_levels": [
-        7777.0
-      ],
-      "notes": "7828 and 7835 named as 'next' targets (actionable upside); 7777 named as support below \u2014 none of these are in the morning plan."
-    },
     {
       "tweet_id": "2089348675864576468",
       "timestamp_utc": "2026-08-17T13:48:37.000Z",
