@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T14:33:22.819579+00:00",
-  "fetched_at_est": "2026-08-18T10:33:22.819584-04:00",
+  "fetched_at_utc": "2026-08-18T15:03:40.287125+00:00",
+  "fetched_at_est": "2026-08-18T11:03:40.287132-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -219,6 +219,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7753 is named as a new target/resistance level not in the morning plan; all other prices (7797, 7738, 7758, 7777, 7724) are already-published morning levels."
+    },
+    {
+      "tweet_id": "2089729380314501305",
+      "timestamp_utc": "2026-08-18T15:01:24.000Z",
+      "timestamp_est": "2026-08-18T11:01:24-04:00",
+      "tweet_text": "Note: No change from morning post in that 7707, 7695 are next down",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7695 is a morning plan level; 7707 not named with actionable language \u2014 this is a reaffirmation/directional observation, not a new major level."
     }
   ]
 }
