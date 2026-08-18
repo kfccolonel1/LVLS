@@ -7,8 +7,7 @@
     7777.0,
     7758.0,
     7738.0,
-    7724.0,
-    7695.0
+    7724.0
   ],
   "bull_levels": [
     {
@@ -124,6 +123,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "After a 400+ point August rally, ES built a bull flag and broke out last Thursday. Today it pulled back. The trader leans bullish and is looking to buy dips: top priority is a recovery of 7797 (the key pivot - above it bulls stay in control targeting 7815-20 then 7844+; below it the flag structure is threatened). He will also watch for failed breakdown setups at 7777, 7758, and 7738 if selling continues.",
-  "fetched_at": "2026-08-18T05:00:19.953339+00:00"
+  "notes": "After a 400+ point August rally, ES spent last week building a bull flag (7724-7797) and broke out Thursday. Monday it pulled back. The trader leans bullish: he wants ES to hold or reclaim 7797 (the daily pivot - bulls favored above it, bears below) and will look for Failed Breakdown entries at 7797, 7777, 7758, or 7738 if price flushes those lows and recovers. Upside targets are 7815-20, 7844, then 7877. No shorts planned.",
+  "fetched_at": "2026-08-18T11:20:38.641617+00:00"
 }
