@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-18T13:53:10.822350+00:00",
-  "fetched_at_est": "2026-08-18T09:53:10.822355-04:00",
+  "fetched_at_utc": "2026-08-18T14:23:19.793992+00:00",
+  "fetched_at_est": "2026-08-18T10:23:19.793998-04:00",
   "last_new_level_added_at_est": "2026-08-18T07:49:56-04:00",
   "todays_new_levels": [
     {
@@ -226,6 +226,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply to user; no price levels named, no actionable language, purely commentary about timing."
+    },
+    {
+      "tweet_id": "2089718973956821119",
+      "timestamp_utc": "2026-08-18T14:20:03.000Z",
+      "timestamp_est": "2026-08-18T10:20:03-04:00",
+      "tweet_text": "We remain in very slow summer grind in #ES_F still, but vol should pickup in September. 7797 was the bull flag breakout point. It broke out, then failed. Now, it needs to backtest and recover for bulls to regain control.\n\n7738 must reclaim to see 7753, 7758, 7777. 7724=support https://t.co/Tkv03hTNVW",
+      "added_bull_levels": [
+        7753.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7753 is named as a new target/resistance level not in the morning plan; all other prices (7797, 7738, 7758, 7777, 7724) are already-published morning levels."
     }
   ]
 }
