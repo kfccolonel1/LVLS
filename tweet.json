@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T11:57:06.829817+00:00",
-  "fetched_at_est": "2026-08-19T07:57:06.829821-04:00",
+  "fetched_at_utc": "2026-08-19T12:07:14.649327+00:00",
+  "fetched_at_est": "2026-08-19T08:07:14.649336-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089684927931441353",
-      "timestamp_utc": "2026-08-18T12:04:45.000Z",
-      "timestamp_est": "2026-08-18T08:04:45-04:00",
-      "tweet_text": "@mblcta1 @StephenJ223624 Yes usually, but my cost basis on this trade is unusually low with the largest profit cushion this year (from the 7325 Failed Breakdown after FOMC) so I am fine just holding this one. Even if it goes all the way back to break-even I am fine with it. I am quite flexible with",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trade management/cost basis from a 7325 FBD; no new actionable level named with naming language."
-    },
-    {
-      "tweet_id": "2089685073394012639",
-      "timestamp_utc": "2026-08-18T12:05:20.000Z",
-      "timestamp_est": "2026-08-18T08:05:20-04:00",
-      "tweet_text": "@mblcta1 @StephenJ223624 Don't want to cut it and be without a runner when we are still firmly in breakout mode",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management commentary about holding a runner; no actionable price level named."
-    },
     {
       "tweet_id": "2089689011161866338",
       "timestamp_utc": "2026-08-18T12:20:59.000Z",
@@ -224,6 +206,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7716, 7706, 7724, 7738-42, 7758) are either morning-plan levels or observations/reaffirmations of existing levels. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2090045529971478549",
+      "timestamp_utc": "2026-08-19T11:57:40.000Z",
+      "timestamp_est": "2026-08-19T07:57:40-04:00",
+      "tweet_text": "Note: For those not subscribed to the newsletter, \"reclaim\" does not just mean price goes above the level (if you just long when price goes above a lvl, you will get trrapped). It is a very specific term that has exact criteria which I discuss in detail in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is purely educational/definitional about the term 'reclaim' \u2014 no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2090046869900529963",
+      "timestamp_utc": "2026-08-19T12:02:59.000Z",
+      "timestamp_est": "2026-08-19T08:02:59-04:00",
+      "tweet_text": "@Claudirxl That's a fine trade, its still active and hasn't done anything yet to invalidate. You should still be sitting in it. Remember we are in a low volatility summer grind market. If you trade expect trades to take hours to go anywhere. We sometimes spend 12hrs in a 15 point band",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply offering trade management advice and market context. No prices named, no actionable levels introduced."
     }
   ]
 }
