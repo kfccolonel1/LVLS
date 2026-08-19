@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T12:27:18.152449+00:00",
-  "fetched_at_est": "2026-08-19T08:27:18.152454-04:00",
+  "fetched_at_utc": "2026-08-19T13:09:12.017279+00:00",
+  "fetched_at_est": "2026-08-19T09:09:12.017284-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089698670677557679",
-      "timestamp_utc": "2026-08-18T12:59:22.000Z",
-      "timestamp_est": "2026-08-18T08:59:22-04:00",
-      "tweet_text": "Ultraslow summer trading continues in #ES_F. In these markets its key to not overtrade and to aggressively lock gains level to level. 7738 must reclaim (ideally with some momentum) to see 7753, 7758, 7777\n\nBears have minor control below 7797 which was the prior bull flag breakout https://t.co/hTaueLNGgz",
-      "added_bull_levels": [
-        7753.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7753 is named as a new target/watch level ('to see 7753') not in morning plan; 7738/7758/7777/7797 are all existing plan levels."
-    },
     {
       "tweet_id": "2089707369743646734",
       "timestamp_utc": "2026-08-18T13:33:56.000Z",
@@ -215,6 +204,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply offering trade management advice and market context. No prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2090063206010032612",
+      "timestamp_utc": "2026-08-19T13:07:54.000Z",
+      "timestamp_est": "2026-08-19T09:07:54-04:00",
+      "tweet_text": "Perfect action to start the day, and all targets complete. Todays entry was the 7716 recovery in #ES_F, given to newsletter readers ystd and live here. Targets were 7724, 7742, 7758. We hit 7758 exact. Work done\n\n7777 bonus, then the 7797 backtest which ive called for since ystd https://t.co/4vmKc1Lwjm",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7716, 7724, 7742, 7758, 7777, 7797) are morning-plan levels or hindsight trade recaps. No new actionable levels named."
     }
   ]
 }
