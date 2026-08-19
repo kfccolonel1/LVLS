@@ -1,33 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T03:36:14.330036+00:00",
-  "fetched_at_est": "2026-08-18T23:36:14.330039-04:00",
+  "fetched_at_utc": "2026-08-19T11:57:06.829817+00:00",
+  "fetched_at_est": "2026-08-19T07:57:06.829821-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089681199409033439",
-      "timestamp_utc": "2026-08-18T11:49:56.000Z",
-      "timestamp_est": "2026-08-18T07:49:56-04:00",
-      "tweet_text": "Low volatility summer grind continues in #ES_F but we at least got some red to work with overnight. Take profits quick still in this environment. Bears have minor control now below 7797.\n\nPlan today: 7738 must reclaim to see 7753, 7758, 7777. 7724, 7707, 7695 (major) below https://t.co/OE7UhLtKJw",
-      "added_bull_levels": [
-        7753.0
-      ],
-      "added_bear_levels": [
-        7707.0
-      ],
-      "notes": "7753 and 7707 are explicitly named as actionable targets/supports not in the morning plan; all others (7738,7758,7777,7724,7695) are already-published levels."
-    },
-    {
-      "tweet_id": "2089682077994148037",
-      "timestamp_utc": "2026-08-18T11:53:26.000Z",
-      "timestamp_est": "2026-08-18T07:53:26-04:00",
-      "tweet_text": "@Foddmann Because the 38 shelf is just above it and is also closer in time. You could take the 24 but then have to deal with the huge 38-41 zone just above",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing vague '38 shelf' and '38-41 zone' without explicit ES prices; no actionable named level introduced."
-    },
     {
       "tweet_id": "2089684927931441353",
       "timestamp_utc": "2026-08-18T12:04:45.000Z",
@@ -237,6 +215,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply with only a URL and user mentions; no price levels or actionable trading language present."
+    },
+    {
+      "tweet_id": "2090045191243649070",
+      "timestamp_utc": "2026-08-19T11:56:19.000Z",
+      "timestamp_est": "2026-08-19T07:56:19-04:00",
+      "tweet_text": "Volatility remains very low in #ES_F but levels continue to respect well. Per newsletter, 7716 and 7706 were key levels overnight. 7716 was support shelf all day, then we lost it, spent much the eve at 7706 with 16 res\n\nPlan: 16 must reclaim to see 7724, 7738-42, 7758. Sell&lt;7706 https://t.co/IwAwtFN4Up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7716, 7706, 7724, 7738-42, 7758) are either morning-plan levels or observations/reaffirmations of existing levels. No new actionable levels introduced."
     }
   ]
 }
