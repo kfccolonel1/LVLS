@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T13:39:22.168368+00:00",
-  "fetched_at_est": "2026-08-19T09:39:22.168373-04:00",
+  "fetched_at_utc": "2026-08-19T13:49:24.771744+00:00",
+  "fetched_at_est": "2026-08-19T09:49:24.771750-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089708851314458866",
-      "timestamp_utc": "2026-08-18T13:39:49.000Z",
-      "timestamp_est": "2026-08-18T09:39:49-04:00",
-      "tweet_text": "@NYJets2017 @JKavla It could, it usually takes a few days to a few weeks though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to user; no price levels named, no actionable language, purely commentary about timing."
-    },
     {
       "tweet_id": "2089718973956821119",
       "timestamp_utc": "2026-08-18T14:20:03.000Z",
