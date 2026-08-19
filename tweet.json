@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T18:51:11.403991+00:00",
-  "fetched_at_est": "2026-08-19T14:51:11.403999-04:00",
+  "fetched_at_utc": "2026-08-19T19:01:14.626400+00:00",
+  "fetched_at_est": "2026-08-19T15:01:14.626405-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089787583488217575",
-      "timestamp_utc": "2026-08-18T18:52:40.000Z",
-      "timestamp_est": "2026-08-18T14:52:40-04:00",
-      "tweet_text": "Closing update #ES_F: We spent the entire session in a ~25 point range. Newsletter will be sent shortly with next batch of entries, but 7716 now support and bulls have to recover 7738 to begin a rally up the levels to the 7797 backtest. Until 7738 recovers, rally unlikely",
-      "added_bull_levels": [
-        7738.0
-      ],
-      "added_bear_levels": [
-        7716.0
-      ],
-      "notes": "7716 named explicitly as 'now support' (new, not in morning plan); 7738 is morning-plan level reaffirmed as trigger \u2014 flagging 7716 as new bear support only. Wait: 7738 is in plan, omit. 7716 is new."
-    },
     {
       "tweet_id": "2089799990411403458",
       "timestamp_utc": "2026-08-18T19:41:58.000Z",
