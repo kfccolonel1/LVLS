@@ -1,13 +1,13 @@
 {
   "session_date": "2026-08-19",
-  "daily_pivot": 7797.0,
+  "daily_pivot": 7797,
   "regime_hint": "C4",
   "significant_lows": [
-    7716.0,
-    7738.0,
-    7665.0,
-    7638.0,
-    7650.0
+    7716,
+    7738,
+    7706,
+    7695,
+    7638
   ],
   "bull_levels": [
     {
@@ -123,6 +123,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans cautiously bullish but acknowledges bears have near-term control after the 7797-7800 support shelf broke down. He is waiting for a failed breakdown of the 7716 shelf (or 7706 below it) to trigger a long toward a backtest of 7797-7800. The key pivot is 7797-7800: bulls need to reclaim it to regain control; below it, drifting lower with no reliable support holding is the expected path.",
-  "fetched_at": "2026-08-19T05:00:18.484463+00:00"
+  "notes": "Trader leans that ES can attempt a bounce back up to 7797-7800 but bulls need to reclaim that level to regain control. He will wait for failed-breakdown setups at 7716 or 7706 area before going long. The daily pivot is 7797: above it bulls are back in charge and a push toward 7820+ is favored; below it bears retain control and supports are not expected to hold cleanly.",
+  "fetched_at": "2026-08-19T12:48:49.953995+00:00"
 }
