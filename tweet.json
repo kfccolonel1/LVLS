@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T18:10:43.484882+00:00",
-  "fetched_at_est": "2026-08-19T14:10:43.484891-04:00",
+  "fetched_at_utc": "2026-08-19T18:30:47.622232+00:00",
+  "fetched_at_est": "2026-08-19T14:30:47.622239-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089780438533312802",
-      "timestamp_utc": "2026-08-18T18:24:17.000Z",
-      "timestamp_est": "2026-08-18T14:24:17-04:00",
-      "tweet_text": "@upandown007 https://t.co/yrV9jRHLQh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply with only a URL and no actionable price levels named."
-    },
     {
       "tweet_id": "2089786804534694184",
       "timestamp_utc": "2026-08-18T18:49:35.000Z",
