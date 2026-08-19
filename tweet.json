@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T15:09:46.741898+00:00",
-  "fetched_at_est": "2026-08-19T11:09:46.741904-04:00",
+  "fetched_at_utc": "2026-08-19T15:19:49.581989+00:00",
+  "fetched_at_est": "2026-08-19T11:19:49.581993-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089731529664504088",
-      "timestamp_utc": "2026-08-18T15:09:56.000Z",
-      "timestamp_est": "2026-08-18T11:09:56-04:00",
-      "tweet_text": "Extremely slow price action still in #ES_F. 7797 remains the bull/bear line and bulls need to backtest and recover that tom regain control. Until then, bounces will be less sustainable.\n\nFor today, 7738 must recover to start a rally to 7753, 7758, 7777+. 7707, 7695 below now https://t.co/mPevUw5QAG",
-      "added_bull_levels": [
-        7753.0
-      ],
-      "added_bear_levels": [
-        7707.0
-      ],
-      "notes": "7753 named as rally target (new, not in morning plan); 7707 named as support below (new, not in morning plan). 7738/7758/7777/7797/7695 are all morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2089752448151740531",
       "timestamp_utc": "2026-08-18T16:33:04.000Z",
