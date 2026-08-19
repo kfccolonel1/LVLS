@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-19T16:40:12.175639+00:00",
-  "fetched_at_est": "2026-08-19T12:40:12.175663-04:00",
+  "fetched_at_utc": "2026-08-19T16:50:15.048799+00:00",
+  "fetched_at_est": "2026-08-19T12:50:15.048803-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2089755656437870766",
-      "timestamp_utc": "2026-08-18T16:45:48.000Z",
-      "timestamp_est": "2026-08-18T12:45:48-04:00",
-      "tweet_text": "@Lewisbeastt We have been in a 20 point range now for 12hrs. I began posting its slow at 8am. It literally cannot get slower unless we went down to a 10 point range.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on range/volatility conditions; no actionable price named, no naming language used."
-    },
     {
       "tweet_id": "2089773751084707973",
       "timestamp_utc": "2026-08-18T17:57:43.000Z",
