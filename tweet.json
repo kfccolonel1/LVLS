@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T17:45:12.474101+00:00",
-  "fetched_at_est": "2026-08-20T13:45:12.474114-04:00",
-  "last_new_level_added_at_est": "2026-08-20T08:46:37-04:00",
+  "fetched_at_utc": "2026-08-20T18:35:22.117265+00:00",
+  "fetched_at_est": "2026-08-20T14:35:22.117272-04:00",
+  "last_new_level_added_at_est": "2026-08-20T14:25:15-04:00",
   "todays_new_levels": [
     {
       "price": 7749.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-08-20T08:46:37-04:00",
       "expires_at_est": "2026-08-20T16:46:37-04:00",
       "from_tweet_id": "2090420239141855521"
+    },
+    {
+      "price": 7680.0,
+      "side": "bull",
+      "added_at_est": "2026-08-20T14:25:15-04:00",
+      "expires_at_est": "2026-08-20T22:25:15-04:00",
+      "from_tweet_id": "2090505457467023706"
     }
   ],
   "updates": [
@@ -213,6 +220,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about seasonal patterns; no price named, no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2090505457467023706",
+      "timestamp_utc": "2026-08-20T18:25:15.000Z",
+      "timestamp_est": "2026-08-20T14:25:15-04:00",
+      "tweet_text": "Note: Recoveries of 7680 are actionable now, but be sure to take profits level to level",
+      "added_bull_levels": [
+        7680.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7680 named explicitly as actionable recovery trigger with 'recoveries of 7680 are actionable now' \u2014 not in morning plan, clear action language."
     }
   ]
 }
