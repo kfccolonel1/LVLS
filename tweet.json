@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T02:32:15.698395+00:00",
-  "fetched_at_est": "2026-08-19T22:32:15.698401-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-20T11:53:22.977642+00:00",
+  "fetched_at_est": "2026-08-20T07:53:22.977648-04:00",
+  "last_new_level_added_at_est": "2026-08-20T07:51:37-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7749.0,
+      "side": "bull",
+      "added_at_est": "2026-08-20T07:51:37-04:00",
+      "expires_at_est": "2026-08-20T15:51:37-04:00",
+      "from_tweet_id": "2090406395535401062"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2090045191243649070",
@@ -185,6 +193,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a conversational reply about newsletter timing logistics; no prices or actionable levels mentioned."
+    },
+    {
+      "tweet_id": "2090406395535401062",
+      "timestamp_utc": "2026-08-20T11:51:37.000Z",
+      "timestamp_est": "2026-08-20T07:51:37-04:00",
+      "tweet_text": "Yesterday was straightforward. Failed Breakdown of the 7716 Tuesday low shelf was long trigger. Targets given were 7724, 7738, 7758 in #ES_F. We recovered 7716, and ~7758 were highs all day\n\nPlan today: 7716-22 must reclaim now to rally 7730, 7749, 7758+. 7709, 7695=weak supports https://t.co/CcV8U9Lghe",
+      "added_bull_levels": [
+        7749.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7749 named as a rally target ('reclaim now to rally 7730, 7749, 7758+') and not in morning plan. All others (7716,7722,7730,7758,7709,7695) are morning-plan levels."
     }
   ]
 }
