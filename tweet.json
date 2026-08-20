@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T17:34:52.681432+00:00",
-  "fetched_at_est": "2026-08-20T13:34:52.681439-04:00",
+  "fetched_at_utc": "2026-08-20T17:45:12.474101+00:00",
+  "fetched_at_est": "2026-08-20T13:45:12.474114-04:00",
   "last_new_level_added_at_est": "2026-08-20T08:46:37-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090130432796893505",
-      "timestamp_utc": "2026-08-19T17:35:02.000Z",
-      "timestamp_est": "2026-08-19T13:35:02-04:00",
-      "tweet_text": "@paintingcandles It almost always plays out as long as you actually wait for the proper trigger I talk about in newsletter, and make sure its an actual real significant low being trapped and recovered. Also need to wait for momentum. If those are present its rare that it fails. If it does, it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply explaining trade methodology/criteria for a setup. No specific price levels named or actionable triggers given."
-    },
     {
       "tweet_id": "2090145934193618976",
       "timestamp_utc": "2026-08-19T18:36:38.000Z",
@@ -195,6 +186,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual reply to users with no price levels or actionable language mentioned."
+    },
+    {
+      "tweet_id": "2090494307396391252",
+      "timestamp_utc": "2026-08-20T17:40:57.000Z",
+      "timestamp_est": "2026-08-20T13:40:57-04:00",
+      "tweet_text": "Bulls had one task today in order to change the momentum: They had to recover 7716-22 as posted in #ES_F. We rallied there, it held exactly, and they were unable to recover. Therefore, we continue down as we retrace the early August 530 point rally.\n\n7665 below. 7695 reclaim to https://t.co/lmlHVIuzgn",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7716-22\u21927719, 7665, 7695) are already in the morning plan. Tweet is reaffirmation/observation of existing levels, not new actionable ones."
+    },
+    {
+      "tweet_id": "2090494539773460830",
+      "timestamp_utc": "2026-08-20T17:41:52.000Z",
+      "timestamp_est": "2026-08-20T13:41:52-04:00",
+      "tweet_text": "@NoSpinRealist @StopLossHater Definitely not crashing. We are just putting in a so far very shallow retrace of the recent 530 point rally we had.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary about rally magnitude; no actionable price named, no naming language used."
+    },
+    {
+      "tweet_id": "2090494613249245408",
+      "timestamp_utc": "2026-08-20T17:42:09.000Z",
+      "timestamp_est": "2026-08-20T13:42:09-04:00",
+      "tweet_text": "@Adam694663 After labor day usually starts back up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about seasonal patterns; no price named, no actionable level of any kind."
     }
   ]
 }
