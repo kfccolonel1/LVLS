@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T11:53:22.977642+00:00",
-  "fetched_at_est": "2026-08-20T07:53:22.977648-04:00",
+  "fetched_at_utc": "2026-08-20T12:03:30.940150+00:00",
+  "fetched_at_est": "2026-08-20T08:03:30.940166-04:00",
   "last_new_level_added_at_est": "2026-08-20T07:51:37-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090045191243649070",
-      "timestamp_utc": "2026-08-19T11:56:19.000Z",
-      "timestamp_est": "2026-08-19T07:56:19-04:00",
-      "tweet_text": "Volatility remains very low in #ES_F but levels continue to respect well. Per newsletter, 7716 and 7706 were key levels overnight. 7716 was support shelf all day, then we lost it, spent much the eve at 7706 with 16 res\n\nPlan: 16 must reclaim to see 7724, 7738-42, 7758. Sell&lt;7706 https://t.co/IwAwtFN4Up",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7716, 7706, 7724, 7738-42, 7758) are either morning-plan levels or observations/reaffirmations of existing levels. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2090045529971478549",
-      "timestamp_utc": "2026-08-19T11:57:40.000Z",
-      "timestamp_est": "2026-08-19T07:57:40-04:00",
-      "tweet_text": "Note: For those not subscribed to the newsletter, \"reclaim\" does not just mean price goes above the level (if you just long when price goes above a lvl, you will get trrapped). It is a very specific term that has exact criteria which I discuss in detail in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is purely educational/definitional about the term 'reclaim' \u2014 no price levels named or actionable signals given."
-    },
-    {
-      "tweet_id": "2090046869900529963",
-      "timestamp_utc": "2026-08-19T12:02:59.000Z",
-      "timestamp_est": "2026-08-19T08:02:59-04:00",
-      "tweet_text": "@Claudirxl That's a fine trade, its still active and hasn't done anything yet to invalidate. You should still be sitting in it. Remember we are in a low volatility summer grind market. If you trade expect trades to take hours to go anywhere. We sometimes spend 12hrs in a 15 point band",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply offering trade management advice and market context. No prices named, no actionable levels introduced."
-    },
     {
       "tweet_id": "2090063206010032612",
       "timestamp_utc": "2026-08-19T13:07:54.000Z",
@@ -204,6 +177,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7749 named as a rally target ('reclaim now to rally 7730, 7749, 7758+') and not in morning plan. All others (7716,7722,7730,7758,7709,7695) are morning-plan levels."
+    },
+    {
+      "tweet_id": "2090407813583380706",
+      "timestamp_utc": "2026-08-20T11:57:15.000Z",
+      "timestamp_est": "2026-08-20T07:57:15-04:00",
+      "tweet_text": "@Brian_Keith_Pho Yes, I missed that one unfortunately as it was too early. Luckily we have some red so that means hopefully some trades today!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to a user; no prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2090408196775071766",
+      "timestamp_utc": "2026-08-20T11:58:46.000Z",
+      "timestamp_est": "2026-08-20T07:58:46-04:00",
+      "tweet_text": "@Foddmann Too much resistance immediately above at 7709",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7709 is already in the morning plan; this is a reaffirmation/observation about resistance there, not a new actionable level."
     }
   ]
 }
