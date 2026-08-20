@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T13:03:53.116165+00:00",
-  "fetched_at_est": "2026-08-20T09:03:53.116178-04:00",
+  "fetched_at_utc": "2026-08-20T13:13:58.563192+00:00",
+  "fetched_at_est": "2026-08-20T09:13:58.563199-04:00",
   "last_new_level_added_at_est": "2026-08-20T08:46:37-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090063206010032612",
-      "timestamp_utc": "2026-08-19T13:07:54.000Z",
-      "timestamp_est": "2026-08-19T09:07:54-04:00",
-      "tweet_text": "Perfect action to start the day, and all targets complete. Todays entry was the 7716 recovery in #ES_F, given to newsletter readers ystd and live here. Targets were 7724, 7742, 7758. We hit 7758 exact. Work done\n\n7777 bonus, then the 7797 backtest which ive called for since ystd https://t.co/4vmKc1Lwjm",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7716, 7724, 7742, 7758, 7777, 7797) are morning-plan levels or hindsight trade recaps. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2090063979229962471",
-      "timestamp_utc": "2026-08-19T13:10:58.000Z",
-      "timestamp_est": "2026-08-19T09:10:58-04:00",
-      "tweet_text": "@ES_Money_Print @Claudirxl Long at 22-21 then just hold and wait",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user mentioning a fill around 7521-22; trade management/entry reference, no actionable new level named with qualifying language."
-    },
     {
       "tweet_id": "2090082058429202916",
       "timestamp_utc": "2026-08-19T14:22:49.000Z",
@@ -240,6 +222,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply to users, no price levels mentioned or implied whatsoever."
+    },
+    {
+      "tweet_id": "2090424681899733381",
+      "timestamp_utc": "2026-08-20T13:04:17.000Z",
+      "timestamp_est": "2026-08-20T09:04:17-04:00",
+      "tweet_text": "@Chowder_Periodt @JollyTime1991 I've been on Twitter for 10 years, everytime I mention a magnet backtesting its the same drill, basically get 1,2,3 weeks of people obsessed with it because it doesn't happen right away (which it never does), then it backtests. They stop, then a few weeks later we break a new",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; tweet is a conversational meta-comment about Twitter behavior and magnet backtesting patterns, no actionable prices."
     }
   ]
 }
