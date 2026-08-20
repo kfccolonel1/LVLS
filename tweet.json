@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T16:04:38.576682+00:00",
-  "fetched_at_est": "2026-08-20T12:04:38.576694-04:00",
+  "fetched_at_utc": "2026-08-20T16:24:42.031615+00:00",
+  "fetched_at_est": "2026-08-20T12:24:42.031622-04:00",
   "last_new_level_added_at_est": "2026-08-20T08:46:37-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090110408111665152",
-      "timestamp_utc": "2026-08-19T16:15:28.000Z",
-      "timestamp_est": "2026-08-19T12:15:28-04:00",
-      "tweet_text": "Nothing to do but ride runner for the 7797 backtest which I've called for since we lost it yesterday. Today's long was the 7716 Failed Breakdown (yesterdays shelf of lows). This setup was given in newsletter yesterday + live today.\n\nTargets were 7724, 7742, 7758. All hit. Next, https://t.co/TKVgdXDFRq",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7797, 7716, 7724, 7742, 7758) are morning-plan levels or hindsight trade management references. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2090114461658947910",
       "timestamp_utc": "2026-08-19T16:31:34.000Z",
