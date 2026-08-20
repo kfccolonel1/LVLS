@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T16:44:46.941336+00:00",
-  "fetched_at_est": "2026-08-20T12:44:46.941342-04:00",
+  "fetched_at_utc": "2026-08-20T17:34:52.681432+00:00",
+  "fetched_at_est": "2026-08-20T13:34:52.681439-04:00",
   "last_new_level_added_at_est": "2026-08-20T08:46:37-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090129816057954439",
-      "timestamp_utc": "2026-08-19T17:32:35.000Z",
-      "timestamp_est": "2026-08-19T13:32:35-04:00",
-      "tweet_text": "@PeriHelion96002 I've never given out a magnet level that hasn't hit I don't think. It doesn't mean price goes there in a straight line, but it will get there.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about magnet levels in general; no specific price named or actionable level introduced."
-    },
-    {
-      "tweet_id": "2090130093435949259",
-      "timestamp_utc": "2026-08-19T17:33:41.000Z",
-      "timestamp_est": "2026-08-19T13:33:41-04:00",
-      "tweet_text": "Most of trading is knowin when *not* to trade in #ES_F. Most days should be 99% sitting on hands. Trade only during big vol expansions. We got that ystd. 7716 shelf recovery then triggered long given here + newsletter. Today's final target was 7758, we hit it, and done.\n\n7797 https://t.co/rMOnGvw6pu",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7716, 7758, 7797) are already in the morning plan. Tweet is hindsight recap/reaffirmation of existing levels, no new actionable levels introduced."
-    },
     {
       "tweet_id": "2090130432796893505",
       "timestamp_utc": "2026-08-19T17:35:02.000Z",
