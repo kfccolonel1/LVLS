@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T14:24:13.112340+00:00",
-  "fetched_at_est": "2026-08-20T10:24:13.112345-04:00",
+  "fetched_at_utc": "2026-08-20T14:34:15.538981+00:00",
+  "fetched_at_est": "2026-08-20T10:34:15.538988-04:00",
   "last_new_level_added_at_est": "2026-08-20T08:46:37-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090084881783013559",
-      "timestamp_utc": "2026-08-19T14:34:02.000Z",
-      "timestamp_est": "2026-08-19T10:34:02-04:00",
-      "tweet_text": "@T_Newbies_Unite Yes, its a choppy area though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply with no price named and no actionable language; just a qualitative comment about choppiness."
-    },
     {
       "tweet_id": "2090084993687036105",
       "timestamp_utc": "2026-08-19T14:34:29.000Z",
