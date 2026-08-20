@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T13:54:08.735539+00:00",
-  "fetched_at_est": "2026-08-20T09:54:08.735543-04:00",
+  "fetched_at_utc": "2026-08-20T14:24:13.112340+00:00",
+  "fetched_at_est": "2026-08-20T10:24:13.112345-04:00",
   "last_new_level_added_at_est": "2026-08-20T08:46:37-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090082058429202916",
-      "timestamp_utc": "2026-08-19T14:22:49.000Z",
-      "timestamp_est": "2026-08-19T10:22:49-04:00",
-      "tweet_text": "As I've said over and over, #ES_F trading is the same drill: We wait for the sell (yesterday), trade the Failed Breakdown/bear trap (7716 recovery today) then stop trading. Now nothing to do until next bear trap. Today's slate of targets were 7724, 7742, 7758, all hit.\n\n7797 https://t.co/XDe0kIlLlx",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7716, 7724, 7742, 7758, 7797) are morning-plan levels or observations of targets already hit; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2090084881783013559",
       "timestamp_utc": "2026-08-19T14:34:02.000Z",
