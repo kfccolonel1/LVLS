@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T18:49:44.725083+00:00",
-  "fetched_at_est": "2026-08-21T14:49:44.725089-04:00",
+  "fetched_at_utc": "2026-08-21T19:19:48.345904+00:00",
+  "fetched_at_est": "2026-08-21T15:19:48.345909-04:00",
   "last_new_level_added_at_est": "2026-08-21T11:43:12-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090518593200935175",
-      "timestamp_utc": "2026-08-20T19:17:27.000Z",
-      "timestamp_est": "2026-08-20T15:17:27-04:00",
-      "tweet_text": "CLosing update #ES_F: Bears remain in control. 7680 must reclaim now to take us back to 7716-22. That must recover to generate a rally to the full backtest of 7797. Many levels en route. Newsletter out soon with next set of entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680 reclaim and 7716-22 recovery are conditional rally triggers, but 7716/7721/7797 are all morning-plan levels; 7680 is conversational context, not explicitly named as a new actionable level."
-    },
     {
       "tweet_id": "2090767085831905411",
       "timestamp_utc": "2026-08-21T11:44:52.000Z",
