@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T12:58:17.662527+00:00",
-  "fetched_at_est": "2026-08-21T08:58:17.662532-04:00",
+  "fetched_at_utc": "2026-08-21T13:08:20.095360+00:00",
+  "fetched_at_est": "2026-08-21T09:08:20.095365-04:00",
   "last_new_level_added_at_est": "2026-08-21T07:44:52-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090424681899733381",
-      "timestamp_utc": "2026-08-20T13:04:17.000Z",
-      "timestamp_est": "2026-08-20T09:04:17-04:00",
-      "tweet_text": "@Chowder_Periodt @JollyTime1991 I've been on Twitter for 10 years, everytime I mention a magnet backtesting its the same drill, basically get 1,2,3 weeks of people obsessed with it because it doesn't happen right away (which it never does), then it backtests. They stop, then a few weeks later we break a new",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; tweet is a conversational meta-comment about Twitter behavior and magnet backtesting patterns, no actionable prices."
-    },
     {
       "tweet_id": "2090436751705665984",
       "timestamp_utc": "2026-08-20T13:52:14.000Z",
