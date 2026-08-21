@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T18:19:35.345713+00:00",
-  "fetched_at_est": "2026-08-21T14:19:35.345718-04:00",
+  "fetched_at_utc": "2026-08-21T18:29:37.830848+00:00",
+  "fetched_at_est": "2026-08-21T14:29:37.830854-04:00",
   "last_new_level_added_at_est": "2026-08-21T11:43:12-04:00",
   "todays_new_levels": [
     {
@@ -21,17 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090505457467023706",
-      "timestamp_utc": "2026-08-20T18:25:15.000Z",
-      "timestamp_est": "2026-08-20T14:25:15-04:00",
-      "tweet_text": "Note: Recoveries of 7680 are actionable now, but be sure to take profits level to level",
-      "added_bull_levels": [
-        7680.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7680 named explicitly as actionable recovery trigger with 'recoveries of 7680 are actionable now' \u2014 not in morning plan, clear action language."
-    },
     {
       "tweet_id": "2090518593200935175",
       "timestamp_utc": "2026-08-20T19:17:27.000Z",
