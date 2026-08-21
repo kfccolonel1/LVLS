@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T18:29:37.830848+00:00",
-  "fetched_at_est": "2026-08-21T14:29:37.830854-04:00",
+  "fetched_at_utc": "2026-08-21T18:49:44.725083+00:00",
+  "fetched_at_est": "2026-08-21T14:49:44.725089-04:00",
   "last_new_level_added_at_est": "2026-08-21T11:43:12-04:00",
   "todays_new_levels": [
     {
@@ -135,6 +135,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7680, 7706, 7716-22) are either morning-plan levels, observations of targets hit, or hindsight recaps. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2090873712987791460",
+      "timestamp_utc": "2026-08-21T18:48:34.000Z",
+      "timestamp_est": "2026-08-21T14:48:34-04:00",
+      "tweet_text": "Closing update #ES_F: Newsletter sent out early due to the 0 volatility. Bulls want to hold 7680 now and push upwards towards 7716-22",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7680, 7716, and 7722 are all already in the morning plan; this is a reaffirmation with directional commentary, not a new actionable level."
     }
   ]
 }
