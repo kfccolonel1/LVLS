@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T16:09:12.581104+00:00",
-  "fetched_at_est": "2026-08-21T12:09:12.581110-04:00",
+  "fetched_at_utc": "2026-08-21T16:59:21.918043+00:00",
+  "fetched_at_est": "2026-08-21T12:59:21.918048-04:00",
   "last_new_level_added_at_est": "2026-08-21T11:43:12-04:00",
   "todays_new_levels": [
     {
@@ -155,6 +155,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7734 named as next bull target above 7716-22 zone; not in morning plan. 7706, 7716-22, 7742, 7758 are all morning-plan levels or reaffirmations."
+    },
+    {
+      "tweet_id": "2090844279786602557",
+      "timestamp_utc": "2026-08-21T16:51:36.000Z",
+      "timestamp_est": "2026-08-21T12:51:36-04:00",
+      "tweet_text": "Action remains slow but we did get a target hit in #ES_F. All about 7680 today. We flushed it, recovered, longs triggered. Today's targets were 7706 (hit), 7716-22. 7716-22 must recover to give bulls momentum back and stop bounces from being sold. We can then work higher https://t.co/uZh4ncrFJF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7680, 7706, 7716-22 are all morning-plan levels or target reaffirmations; 7706 is a target hit observation, no new actionable levels introduced."
     }
   ]
 }
