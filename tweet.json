@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T13:58:34.007059+00:00",
-  "fetched_at_est": "2026-08-21T09:58:34.007071-04:00",
+  "fetched_at_utc": "2026-08-21T14:38:44.815831+00:00",
+  "fetched_at_est": "2026-08-21T10:38:44.815845-04:00",
   "last_new_level_added_at_est": "2026-08-21T07:44:52-04:00",
   "todays_new_levels": [
     {
@@ -119,6 +119,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with general market observation; no price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2090810018723512321",
+      "timestamp_utc": "2026-08-21T14:35:28.000Z",
+      "timestamp_est": "2026-08-21T10:35:28-04:00",
+      "tweet_text": "@Adam694663 @Catheri33841526 As I've explained its because bears control until a shelf recovers (7716-22 to gain part control, 7797 for full control)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7716, 7722, and 7797 are all in the morning plan; this is a reaffirmation in a reply, not a new actionable level."
+    },
+    {
+      "tweet_id": "2090810308600193524",
+      "timestamp_utc": "2026-08-21T14:36:37.000Z",
+      "timestamp_est": "2026-08-21T10:36:37-04:00",
+      "tweet_text": "This is not tradaeble now in #ES_F. 7680 remains support though, but its used up. The Failed Breakdown here gave us a 20 point morning pop. If we can flush this again and recover, its actionable. \n\nNo change: Bears have full control until 7716-22 recovers, at which point we rip https://t.co/mpsngfLeq4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7680, 7716, 7722) are morning-plan levels. Comments are observational/reaffirming, no new actionable level introduced."
     }
   ]
 }
