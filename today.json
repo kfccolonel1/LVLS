@@ -1,79 +1,19 @@
 {
-  "session_date": "2026-08-20",
+  "session_date": "2026-08-21",
   "daily_pivot": 7797.0,
   "regime_hint": "C4",
   "significant_lows": [
-    7716.0,
-    7721.0,
-    7709.0,
-    7695.0,
-    7638.0
+    7680.0,
+    7653.0,
+    7632.0,
+    7627.0,
+    7612.0,
+    7592.0,
+    7567.0
   ],
   "bull_levels": [
     {
-      "price": 7758.0,
-      "major": true
-    },
-    {
-      "price": 7772.0,
-      "major": true
-    },
-    {
-      "price": 7797.0,
-      "major": true
-    },
-    {
-      "price": 7828.0,
-      "major": true
-    },
-    {
-      "price": 7842.0,
-      "major": true
-    },
-    {
-      "price": 7868.0,
-      "major": true
-    },
-    {
-      "price": 7900.0,
-      "major": true
-    },
-    {
-      "price": 7910.0,
-      "major": true
-    },
-    {
-      "price": 7930.0,
-      "major": true
-    },
-    {
-      "price": 7958.0,
-      "major": true
-    },
-    {
-      "price": 7982.0,
-      "major": true
-    },
-    {
-      "price": 8013.0,
-      "major": true
-    },
-    {
-      "price": 8030.0,
-      "major": true
-    },
-    {
-      "price": 8040.0,
-      "major": true
-    },
-    {
-      "price": 8067.0,
-      "major": true
-    }
-  ],
-  "bear_levels": [
-    {
-      "price": 7730.0,
+      "price": 7695.0,
       "major": true
     },
     {
@@ -81,31 +21,101 @@
       "major": true
     },
     {
-      "price": 7709.0,
+      "price": 7722.0,
       "major": true
     },
     {
-      "price": 7695.0,
+      "price": 7742.0,
       "major": true
     },
     {
-      "price": 7665.0,
+      "price": 7758.0,
       "major": true
     },
     {
-      "price": 7650.0,
+      "price": 7771.0,
       "major": true
     },
     {
-      "price": 7628.0,
+      "price": 7794.0,
       "major": true
     },
     {
-      "price": 7568.0,
+      "price": 7797.0,
       "major": true
     },
     {
-      "price": 7548.0,
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7837.5,
+      "major": true
+    },
+    {
+      "price": 7862.0,
+      "major": true
+    },
+    {
+      "price": 7881.0,
+      "major": true
+    },
+    {
+      "price": 7896.0,
+      "major": true
+    },
+    {
+      "price": 7910.0,
+      "major": true
+    },
+    {
+      "price": 7929.0,
+      "major": true
+    },
+    {
+      "price": 7950.0,
+      "major": true
+    },
+    {
+      "price": 7976.0,
+      "major": true
+    },
+    {
+      "price": 8003.0,
+      "major": true
+    },
+    {
+      "price": 8057.0,
+      "major": true
+    },
+    {
+      "price": 8084.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7680.0,
+      "major": true
+    },
+    {
+      "price": 7652.5,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7612.0,
+      "major": true
+    },
+    {
+      "price": 7592.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
       "major": true
     },
     {
@@ -113,24 +123,12 @@
       "major": true
     },
     {
-      "price": 7500.0,
-      "major": true
-    },
-    {
-      "price": 7473.0,
-      "major": true
-    },
-    {
-      "price": 7458.0,
-      "major": true
-    },
-    {
-      "price": 7418.0,
+      "price": 7506.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is holding a 10% runner from the morning 7716 failed-breakdown long and expects ES to attempt a backtest of 7797-7800. He leans bullish but will react to whatever price does. Key pivot is 7797-7800: that zone was prior support that broke down Tuesday; bulls need to reclaim it to regain control and push toward 7828+. Below 7695 the bias flips bearish. No new trades unless the runner stops out and a fresh setup appears.",
-  "fetched_at": "2026-08-20T05:00:24.941399+00:00"
+  "notes": "Bears are in control after the 7797 shelf broke down Monday. Trader leans long but only on Failed Breakdowns: watch 7680 first, then 7716-22 as the key recovery zone. If 7716-22 reclaims, expect a rally toward 7742, 7758, then a backtest of 7794-97. The pivot is 7797: bulls need to recover it to regain control; until then, bounces tend to get sold and supports are loose.",
+  "fetched_at": "2026-08-21T12:08:41.021308+00:00"
 }
