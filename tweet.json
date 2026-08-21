@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T13:08:20.095360+00:00",
-  "fetched_at_est": "2026-08-21T09:08:20.095365-04:00",
+  "fetched_at_utc": "2026-08-21T13:28:29.773028+00:00",
+  "fetched_at_est": "2026-08-21T09:28:29.773041-04:00",
   "last_new_level_added_at_est": "2026-08-21T07:44:52-04:00",
   "todays_new_levels": [
     {
@@ -108,6 +108,26 @@
       ],
       "added_bear_levels": [],
       "notes": "7680 named as new support and 7706 named as next resistance target \u2014 both actionable, not in morning plan. 7719 midpoint of 7716-22 is morning plan level, skipped."
+    },
+    {
+      "tweet_id": "2090792007354474506",
+      "timestamp_utc": "2026-08-21T13:23:54.000Z",
+      "timestamp_est": "2026-08-21T09:23:54-04:00",
+      "tweet_text": "We are still in slow summer chop in #ES_F and less is far more in these conditions. 7680 Failed Breakdown was the last trigger up. 7680 now support. 7706, 7716-22 above. Bears have full intraday control until 7716-22 recovers (with bulls retaining full control on macro frames) https://t.co/CPEkfQ64OR",
+      "added_bull_levels": [
+        7706.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7706 named as resistance 'above' not in morning plan; 7680/7716-22 are morning plan reaffirmations."
+    },
+    {
+      "tweet_id": "2090792274858795396",
+      "timestamp_utc": "2026-08-21T13:24:58.000Z",
+      "timestamp_est": "2026-08-21T09:24:58-04:00",
+      "tweet_text": "@Catheri33841526 When ES closes near the lows it always rallies in the evening",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with general market observation; no price named, no actionable level, no naming language."
     }
   ]
 }
