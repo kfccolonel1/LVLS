@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T14:48:56.065222+00:00",
-  "fetched_at_est": "2026-08-21T10:48:56.065234-04:00",
+  "fetched_at_utc": "2026-08-21T14:58:58.626875+00:00",
+  "fetched_at_est": "2026-08-21T10:58:58.626883-04:00",
   "last_new_level_added_at_est": "2026-08-21T07:44:52-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090452191169458385",
-      "timestamp_utc": "2026-08-20T14:53:35.000Z",
-      "timestamp_est": "2026-08-20T10:53:35-04:00",
-      "tweet_text": "We're now back into that routine summer chop in #ES_F after some volatility expansion this morning. 7695 reclaim was low quality long trigger which took ES to 7716-22 target. 7716-22 remains the bull/bear line today and must recover to see any sustained rally to 7730+. https://t.co/CdHq6B2A3h",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7695, 7716-22, 7730) are in the morning plan. Tweet is observation/reaffirmation of existing levels, no new actionable levels named."
-    },
     {
       "tweet_id": "2090469161545715770",
       "timestamp_utc": "2026-08-20T16:01:01.000Z",
