@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T15:49:08.853308+00:00",
-  "fetched_at_est": "2026-08-21T11:49:08.853313-04:00",
+  "fetched_at_utc": "2026-08-21T16:09:12.581104+00:00",
+  "fetched_at_est": "2026-08-21T12:09:12.581110-04:00",
   "last_new_level_added_at_est": "2026-08-21T11:43:12-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090469161545715770",
-      "timestamp_utc": "2026-08-20T16:01:01.000Z",
-      "timestamp_est": "2026-08-20T12:01:01-04:00",
-      "tweet_text": "We are now just in chop/bearish grind in #ES_F as we've spent most days. As written, 7716-22 must recover today to give bulls any control back. 7695 reclaim took us to 7716-22, where we topped out. \n\nRecovery there takes us to 7730+. 7695-7716/20 remains a total chop region now. https://t.co/atIvmJYbJ1",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7716-22, 7695, 7730) are already in the morning plan. Commentary is reaffirmation of existing levels plus price action observation."
-    },
-    {
-      "tweet_id": "2090469823478153261",
-      "timestamp_utc": "2026-08-20T16:03:39.000Z",
-      "timestamp_est": "2026-08-20T12:03:39-04:00",
-      "tweet_text": "@DolphinWick @kevinc2114 I didn't take it. I probably should've though!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reply to users with no price levels or actionable language mentioned."
-    },
     {
       "tweet_id": "2090494307396391252",
       "timestamp_utc": "2026-08-20T17:40:57.000Z",
