@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T12:48:14.239922+00:00",
-  "fetched_at_est": "2026-08-21T08:48:14.239928-04:00",
+  "fetched_at_utc": "2026-08-21T12:58:17.662527+00:00",
+  "fetched_at_est": "2026-08-21T08:58:17.662532-04:00",
   "last_new_level_added_at_est": "2026-08-21T07:44:52-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090421870520647933",
-      "timestamp_utc": "2026-08-20T12:53:06.000Z",
-      "timestamp_est": "2026-08-20T08:53:06-04:00",
-      "tweet_text": "@JollyTime1991 I'm not sure what the confusion is - 7697 is a magnet, it will backtest. I've traded ES for 20 years and have never seen one that hasn't. As I've explained probably 200 times, it doesn't mean it will be in a straight line, its just a magnet level. Focus on the setups and triggers",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7697 mentioned conversationally as a magnet concept explanation to a user; no actionable naming language, and ~7695 already in morning plan."
-    },
-    {
-      "tweet_id": "2090421962073845797",
-      "timestamp_utc": "2026-08-20T12:53:28.000Z",
-      "timestamp_est": "2026-08-20T08:53:28-04:00",
-      "tweet_text": "@JollyTime1991 *7797",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7797 is already in the morning plan; this is a reaffirmation reply, not a new actionable level."
-    },
-    {
-      "tweet_id": "2090422392036217133",
-      "timestamp_utc": "2026-08-20T12:55:11.000Z",
-      "timestamp_est": "2026-08-20T08:55:11-04:00",
-      "tweet_text": "@kevinc2114 @JollyTime1991 Almost not even worth it to mention because I spend more time explaining that and then people don't pay attention to the actual trades (all of which have worked!)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply to users, no price levels mentioned or implied whatsoever."
-    },
     {
       "tweet_id": "2090424681899733381",
       "timestamp_utc": "2026-08-20T13:04:17.000Z",
