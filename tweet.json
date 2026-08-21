@@ -1,75 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-20T20:55:47.219608+00:00",
-  "fetched_at_est": "2026-08-20T16:55:47.219613-04:00",
-  "last_new_level_added_at_est": "2026-08-20T14:25:15-04:00",
+  "fetched_at_utc": "2026-08-21T12:08:08.737782+00:00",
+  "fetched_at_est": "2026-08-21T08:08:08.737786-04:00",
+  "last_new_level_added_at_est": "2026-08-21T07:44:52-04:00",
   "todays_new_levels": [
     {
-      "price": 7680.0,
+      "price": 7706.0,
       "side": "bull",
-      "added_at_est": "2026-08-20T14:25:15-04:00",
-      "expires_at_est": "2026-08-20T22:25:15-04:00",
-      "from_tweet_id": "2090505457467023706"
+      "added_at_est": "2026-08-21T07:44:52-04:00",
+      "expires_at_est": "2026-08-21T15:44:52-04:00",
+      "from_tweet_id": "2090767085831905411"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2090261289247338519",
-      "timestamp_utc": "2026-08-20T02:15:01.000Z",
-      "timestamp_est": "2026-08-19T22:15:01-04:00",
-      "tweet_text": "@KnightTrader999 It doesnt matter when I send it out because nothing happens between 2pm and 4pm in these low vol conditions. Hasn't been one time I've sent it out early where anything in the newsletter has had to be any different. On occasion, I send it early because I see something setting up",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about newsletter timing; no price levels named or actionable signals of any kind."
-    },
-    {
-      "tweet_id": "2090262113964949717",
-      "timestamp_utc": "2026-08-20T02:18:17.000Z",
-      "timestamp_est": "2026-08-19T22:18:17-04:00",
-      "tweet_text": "@KnightTrader999 Today for example ES was at 7733 when it was sent out abit after 2pm. It was at 7730 when it would normally be sent out at 4pm. Not one setup triggered in that time. No sense at all in waiting 2hrs for nothing!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet explaining newsletter timing with no actionable levels named; 7733/7730 are casual price observations, not named levels."
-    },
-    {
-      "tweet_id": "2090263440782684669",
-      "timestamp_utc": "2026-08-20T02:23:34.000Z",
-      "timestamp_est": "2026-08-19T22:23:34-04:00",
-      "tweet_text": "@NYJets2017 @KnightTrader999 In these markets there's more pro's to sending early than cons. Obviously if we are making 50+ point moves with ease then I need to send it after 4pm as most the newsletter could play out between 2pm and 4pm leaving nothing for next day.  But that hasn't happened once since I've",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply about newsletter timing logistics; no prices or actionable levels mentioned."
-    },
-    {
-      "tweet_id": "2090406395535401062",
-      "timestamp_utc": "2026-08-20T11:51:37.000Z",
-      "timestamp_est": "2026-08-20T07:51:37-04:00",
-      "tweet_text": "Yesterday was straightforward. Failed Breakdown of the 7716 Tuesday low shelf was long trigger. Targets given were 7724, 7738, 7758 in #ES_F. We recovered 7716, and ~7758 were highs all day\n\nPlan today: 7716-22 must reclaim now to rally 7730, 7749, 7758+. 7709, 7695=weak supports https://t.co/CcV8U9Lghe",
-      "added_bull_levels": [
-        7749.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7749 named as a rally target ('reclaim now to rally 7730, 7749, 7758+') and not in morning plan. All others (7716,7722,7730,7758,7709,7695) are morning-plan levels."
-    },
-    {
-      "tweet_id": "2090407813583380706",
-      "timestamp_utc": "2026-08-20T11:57:15.000Z",
-      "timestamp_est": "2026-08-20T07:57:15-04:00",
-      "tweet_text": "@Brian_Keith_Pho Yes, I missed that one unfortunately as it was too early. Luckily we have some red so that means hopefully some trades today!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user; no prices mentioned, no actionable levels named."
-    },
-    {
-      "tweet_id": "2090408196775071766",
-      "timestamp_utc": "2026-08-20T11:58:46.000Z",
-      "timestamp_est": "2026-08-20T07:58:46-04:00",
-      "tweet_text": "@Foddmann Too much resistance immediately above at 7709",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7709 is already in the morning plan; this is a reaffirmation/observation about resistance there, not a new actionable level."
-    },
     {
       "tweet_id": "2090420239141855521",
       "timestamp_utc": "2026-08-20T12:46:37.000Z",
@@ -199,6 +143,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7680 reclaim and 7716-22 recovery are conditional rally triggers, but 7716/7721/7797 are all morning-plan levels; 7680 is conversational context, not explicitly named as a new actionable level."
+    },
+    {
+      "tweet_id": "2090767085831905411",
+      "timestamp_utc": "2026-08-21T11:44:52.000Z",
+      "timestamp_est": "2026-08-21T07:44:52-04:00",
+      "tweet_text": "Volatility remains very low in #ES_F, but nice little night Failed Breakdown. Per newsletter yesterday's 7680 shelf of lows had to recover to rally. We reclaimed overnight, +17 now. \n\nPlan today: 7680 now support. 7706, 7716-22 next. 7716-22 must reclaim with momentum to rip https://t.co/UPZ9eiJJpd",
+      "added_bull_levels": [
+        7680.0,
+        7706.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7680 named as new support and 7706 named as next resistance target \u2014 both actionable, not in morning plan. 7719 midpoint of 7716-22 is morning plan level, skipped."
     }
   ]
 }
