@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-23T17:05:34.762632+00:00",
-  "fetched_at_est": "2026-08-23T13:05:34.762637-04:00",
+  "fetched_at_utc": "2026-08-23T19:35:50.931645+00:00",
+  "fetched_at_est": "2026-08-23T15:35:50.931650-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2091245957920997658",
-      "timestamp_utc": "2026-08-22T19:27:44.000Z",
-      "timestamp_est": "2026-08-22T15:27:44-04:00",
-      "tweet_text": "@LfHb4015 Been out of town!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Personal update tweet, no prices or actionable levels mentioned."
-    },
     {
       "tweet_id": "2091570436509151565",
       "timestamp_utc": "2026-08-23T16:57:06.000Z",
