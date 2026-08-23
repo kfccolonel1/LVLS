@@ -1,142 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-21T19:49:55.996708+00:00",
-  "fetched_at_est": "2026-08-21T15:49:55.996716-04:00",
-  "last_new_level_added_at_est": "2026-08-21T11:43:12-04:00",
-  "todays_new_levels": [
-    {
-      "price": 7734.0,
-      "side": "bull",
-      "added_at_est": "2026-08-21T11:43:12-04:00",
-      "expires_at_est": "2026-08-21T19:43:12-04:00",
-      "from_tweet_id": "2090827065553571937"
-    }
-  ],
+  "fetched_at_utc": "2026-08-23T04:04:15.914667+00:00",
+  "fetched_at_est": "2026-08-23T00:04:15.914672-04:00",
+  "last_new_level_added_at_est": "",
+  "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2090767085831905411",
-      "timestamp_utc": "2026-08-21T11:44:52.000Z",
-      "timestamp_est": "2026-08-21T07:44:52-04:00",
-      "tweet_text": "Volatility remains very low in #ES_F, but nice little night Failed Breakdown. Per newsletter yesterday's 7680 shelf of lows had to recover to rally. We reclaimed overnight, +17 now. \n\nPlan today: 7680 now support. 7706, 7716-22 next. 7716-22 must reclaim with momentum to rip https://t.co/UPZ9eiJJpd",
-      "added_bull_levels": [
-        7680.0,
-        7706.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7680 named as new support and 7706 named as next resistance target \u2014 both actionable, not in morning plan. 7719 midpoint of 7716-22 is morning plan level, skipped."
-    },
-    {
-      "tweet_id": "2090792007354474506",
-      "timestamp_utc": "2026-08-21T13:23:54.000Z",
-      "timestamp_est": "2026-08-21T09:23:54-04:00",
-      "tweet_text": "We are still in slow summer chop in #ES_F and less is far more in these conditions. 7680 Failed Breakdown was the last trigger up. 7680 now support. 7706, 7716-22 above. Bears have full intraday control until 7716-22 recovers (with bulls retaining full control on macro frames) https://t.co/CPEkfQ64OR",
-      "added_bull_levels": [
-        7706.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7706 named as resistance 'above' not in morning plan; 7680/7716-22 are morning plan reaffirmations."
-    },
-    {
-      "tweet_id": "2090792274858795396",
-      "timestamp_utc": "2026-08-21T13:24:58.000Z",
-      "timestamp_est": "2026-08-21T09:24:58-04:00",
-      "tweet_text": "@Catheri33841526 When ES closes near the lows it always rallies in the evening",
+      "tweet_id": "2091245957920997658",
+      "timestamp_utc": "2026-08-22T19:27:44.000Z",
+      "timestamp_est": "2026-08-22T15:27:44-04:00",
+      "tweet_text": "@LfHb4015 Been out of town!",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Conversational reply with general market observation; no price named, no actionable level, no naming language."
-    },
-    {
-      "tweet_id": "2090810018723512321",
-      "timestamp_utc": "2026-08-21T14:35:28.000Z",
-      "timestamp_est": "2026-08-21T10:35:28-04:00",
-      "tweet_text": "@Adam694663 @Catheri33841526 As I've explained its because bears control until a shelf recovers (7716-22 to gain part control, 7797 for full control)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7716, 7722, and 7797 are all in the morning plan; this is a reaffirmation in a reply, not a new actionable level."
-    },
-    {
-      "tweet_id": "2090810308600193524",
-      "timestamp_utc": "2026-08-21T14:36:37.000Z",
-      "timestamp_est": "2026-08-21T10:36:37-04:00",
-      "tweet_text": "This is not tradaeble now in #ES_F. 7680 remains support though, but its used up. The Failed Breakdown here gave us a 20 point morning pop. If we can flush this again and recover, its actionable. \n\nNo change: Bears have full control until 7716-22 recovers, at which point we rip https://t.co/mpsngfLeq4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7680, 7716, 7722) are morning-plan levels. Comments are observational/reaffirming, no new actionable level introduced."
-    },
-    {
-      "tweet_id": "2090810958574657711",
-      "timestamp_utc": "2026-08-21T14:39:12.000Z",
-      "timestamp_est": "2026-08-21T10:39:12-04:00",
-      "tweet_text": "@atlasbtcgrowth We are! Clinging to support",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price mentioned; purely conversational observation about price action near support. No actionable level named."
-    },
-    {
-      "tweet_id": "2090811359231406112",
-      "timestamp_utc": "2026-08-21T14:40:48.000Z",
-      "timestamp_est": "2026-08-21T10:40:48-04:00",
-      "tweet_text": "@abbradwell Its 95% non acceptance protocol for me. Acceptance usually only is present on deep failed breakdowns. If price loses a low by 20+ points, returns to it, sells off hard, returns again. Its very clear cut when it happens",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure methodology explanation reply to user; no price levels named, no actionable entries, supports, or resistances mentioned."
-    },
-    {
-      "tweet_id": "2090811635115921882",
-      "timestamp_utc": "2026-08-21T14:41:53.000Z",
-      "timestamp_est": "2026-08-21T10:41:53-04:00",
-      "tweet_text": "@luckycharmsyo Nothing remotely bearish on the chart now on a big picture basis. Couldn't even find a bearish technical narrative if I was looking for one",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary with no actionable price named; no levels of any kind mentioned."
-    },
-    {
-      "tweet_id": "2090827065553571937",
-      "timestamp_utc": "2026-08-21T15:43:12.000Z",
-      "timestamp_est": "2026-08-21T11:43:12-04:00",
-      "tweet_text": "We finally get a target hit in #ES_F but it took all morning. 7680 Failed Breakdown was the long trigger, and 7680 was support today. 7706 was first target (hit), 7716-22 2nd (en route now). Once that clears we can work up to 7734, 7742, 7758+. Just ride runner https://t.co/mpsngfLeq4",
-      "added_bull_levels": [
-        7734.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7734 named as next bull target above 7716-22 zone; not in morning plan. 7706, 7716-22, 7742, 7758 are all morning-plan levels or reaffirmations."
-    },
-    {
-      "tweet_id": "2090844279786602557",
-      "timestamp_utc": "2026-08-21T16:51:36.000Z",
-      "timestamp_est": "2026-08-21T12:51:36-04:00",
-      "tweet_text": "Action remains slow but we did get a target hit in #ES_F. All about 7680 today. We flushed it, recovered, longs triggered. Today's targets were 7706 (hit), 7716-22. 7716-22 must recover to give bulls momentum back and stop bounces from being sold. We can then work higher https://t.co/uZh4ncrFJF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680, 7706, 7716-22 are all morning-plan levels or target reaffirmations; 7706 is a target hit observation, no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2090863929077416403",
-      "timestamp_utc": "2026-08-21T18:09:41.000Z",
-      "timestamp_est": "2026-08-21T14:09:41-04:00",
-      "tweet_text": "Nothing to do now in #ES_F. Today was all about 7680. This was a big shelf of lows from yesterday which we recovered to trigger up (long was given in newsletter). Targets today were 7706 (hit), 7716-22. 7716-22 has to clear to stop bounces from being sold temporarily.\n\n7680 https://t.co/cWaMn6DJkR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7680, 7706, 7716-22) are either morning-plan levels, observations of targets hit, or hindsight recaps. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2090873712987791460",
-      "timestamp_utc": "2026-08-21T18:48:34.000Z",
-      "timestamp_est": "2026-08-21T14:48:34-04:00",
-      "tweet_text": "Closing update #ES_F: Newsletter sent out early due to the 0 volatility. Bulls want to hold 7680 now and push upwards towards 7716-22",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680, 7716, and 7722 are all already in the morning plan; this is a reaffirmation with directional commentary, not a new actionable level."
-    },
-    {
-      "tweet_id": "2090885417729982967",
-      "timestamp_utc": "2026-08-21T19:35:05.000Z",
-      "timestamp_est": "2026-08-21T15:35:05-04:00",
-      "tweet_text": "@tradivate Yes. Next one has a good chance of clearing",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply with no price named, no actionable level, no naming language. Pure commentary."
+      "notes": "Personal update tweet, no prices or actionable levels mentioned."
     }
   ]
 }
