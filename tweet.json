@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-24T17:32:09.749706+00:00",
-  "fetched_at_est": "2026-08-24T13:32:09.749714-04:00",
+  "fetched_at_utc": "2026-08-24T17:52:16.403051+00:00",
+  "fetched_at_est": "2026-08-24T13:52:16.403058-04:00",
   "last_new_level_added_at_est": "2026-08-24T08:18:26-04:00",
   "todays_new_levels": [
     {
@@ -203,6 +203,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; purely conversational reply about trading style/midday activity."
+    },
+    {
+      "tweet_id": "2091945895436681513",
+      "timestamp_utc": "2026-08-24T17:49:02.000Z",
+      "timestamp_est": "2026-08-24T13:49:02-04:00",
+      "tweet_text": "@Coach_Dee1 Im hoping we can sell to ~7500 to backtest that breakout.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply expressing a hope/opinion about ~7500; no actionable naming language, and 7506 already in morning plan."
     }
   ]
 }
