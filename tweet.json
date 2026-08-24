@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-24T13:51:02.924313+00:00",
-  "fetched_at_est": "2026-08-24T09:51:02.924324-04:00",
+  "fetched_at_utc": "2026-08-24T14:51:15.891708+00:00",
+  "fetched_at_est": "2026-08-24T10:51:15.891730-04:00",
   "last_new_level_added_at_est": "2026-08-24T08:18:26-04:00",
   "todays_new_levels": [
     {
@@ -122,6 +122,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing 8080 and 8058 contextually; no explicit actionable naming language used, and both approximate levels are already in morning plan."
+    },
+    {
+      "tweet_id": "2091899219132969121",
+      "timestamp_utc": "2026-08-24T14:43:34.000Z",
+      "timestamp_est": "2026-08-24T10:43:34-04:00",
+      "tweet_text": "@ProsperTradingU Because the structure is up at 80. No sense in trading a failed breakdown right into a huge resistance shelf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining rationale near 'resistance shelf' without naming any specific actionable price; purely conversational/structural commentary."
+    },
+    {
+      "tweet_id": "2091899432874762687",
+      "timestamp_utc": "2026-08-24T14:44:25.000Z",
+      "timestamp_est": "2026-08-24T10:44:25-04:00",
+      "tweet_text": "This is currently not tradable price action. If there is no volatility, don't trade. Very easy. 7680 remains the only level that matters in #ES_F. Reclaims there trigger up (but be sure to use the trigger protocol from newsletter or you'll get trapped). 7695, 7706, 7716 above https://t.co/oFZTgRdCIA",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7680, 7695, 7716 are morning-plan levels; 7706 is a directional list item with no new naming language. No new actionable levels introduced."
     }
   ]
 }
