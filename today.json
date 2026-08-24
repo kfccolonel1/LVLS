@@ -1,15 +1,15 @@
 {
   "session_date": "2026-08-24",
-  "daily_pivot": 7797.0,
+  "daily_pivot": 7797,
   "regime_hint": "C4",
   "significant_lows": [
-    7680.0,
-    7676.0,
-    7648.0,
-    7632.0,
-    7627.0,
-    7612.0,
-    7592.0
+    7680,
+    7676,
+    7650,
+    7632,
+    7612,
+    7592,
+    7567
   ],
   "bull_levels": [
     {
@@ -117,6 +117,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish after Friday's failed-breakdown bounce off 7680. He already holds a long runner from that trade and looks to add on a new failed-breakdown if 7676-7680 holds. Upside targets are 7720, 7745, 7758, then the key 7797 shelf. The pivot is 7797: above it bulls regain full control; below it bears remain in charge and bounces are suspect. No new shorts planned unless price drifts under 7650.",
-  "fetched_at": "2026-08-24T05:00:22.352575+00:00"
+  "notes": "After ES lost the 7797 shelf earlier this week, price sold off. Friday saw a recovery of the 7680 shelf (a failed breakdown), producing a bounce. The trader is holding a long runner from that trade and leans bullish toward 7720, 7745, 7758, and ultimately 7797. The pivot is 7797: above it bulls regain control; below it bears remain in charge. He will look to add on dips with failed breakdowns, particularly around 7680 and 7676.",
+  "fetched_at": "2026-08-24T11:51:46.279341+00:00"
 }
