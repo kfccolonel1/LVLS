@@ -6,10 +6,9 @@
     7680.0,
     7676.0,
     7650.0,
+    7637.0,
     7632.0,
-    7627.0,
-    7592.0,
-    7567.0
+    7627.0
   ],
   "bull_levels": [
     {
@@ -117,6 +116,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish after ES bounced off a failed breakdown at 7680 (Thursday's shelf of lows). He is holding a runner from that entry and plans to buy dips near 7680 or 7676 if they flush and recover. The key pivot is 7797: above it bulls fully regain control and the uptrend resumes; below it bears remain in charge and rallies are expected to stall. Near-term upside targets are 7720, 7745, 7758, then 7797.",
-  "fetched_at": "2026-08-24T11:56:25.871293+00:00"
+  "notes": "Trader leans bullish after Friday's bounce off 7680. He holds a runner from that long and looks to buy dips near 7680 or a failed breakdown of 7676 for a rally toward 7720, 7745, 7758, and ultimately 7797. The key pivot is 7797: that was last week's support shelf that broke down and triggered the selloff \u2014 bulls must reclaim it to regain control, while below it bears remain in charge and bounces may be sold.",
+  "fetched_at": "2026-08-24T11:57:14.441786+00:00"
 }
