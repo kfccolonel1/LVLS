@@ -1,15 +1,15 @@
 {
-  "session_date": "2026-08-21",
+  "session_date": "2026-08-24",
   "daily_pivot": 7797.0,
   "regime_hint": "C4",
   "significant_lows": [
     7680.0,
-    7653.0,
+    7676.0,
+    7648.0,
     7632.0,
     7627.0,
     7612.0,
-    7592.0,
-    7567.0
+    7592.0
   ],
   "bull_levels": [
     {
@@ -17,15 +17,11 @@
       "major": true
     },
     {
-      "price": 7716.0,
+      "price": 7720.0,
       "major": true
     },
     {
-      "price": 7722.0,
-      "major": true
-    },
-    {
-      "price": 7742.0,
+      "price": 7745.0,
       "major": true
     },
     {
@@ -37,7 +33,7 @@
       "major": true
     },
     {
-      "price": 7794.0,
+      "price": 7783.0,
       "major": true
     },
     {
@@ -49,47 +45,39 @@
       "major": true
     },
     {
-      "price": 7837.5,
+      "price": 7845.0,
       "major": true
     },
     {
-      "price": 7862.0,
+      "price": 7861.0,
       "major": true
     },
     {
-      "price": 7881.0,
+      "price": 7895.0,
       "major": true
     },
     {
-      "price": 7896.0,
+      "price": 7926.0,
       "major": true
     },
     {
-      "price": 7910.0,
+      "price": 7936.0,
       "major": true
     },
     {
-      "price": 7929.0,
+      "price": 7955.0,
       "major": true
     },
     {
-      "price": 7950.0,
+      "price": 8000.0,
       "major": true
     },
     {
-      "price": 7976.0,
+      "price": 8035.0,
       "major": true
     },
     {
-      "price": 8003.0,
-      "major": true
-    },
-    {
-      "price": 8057.0,
-      "major": true
-    },
-    {
-      "price": 8084.0,
+      "price": 8105.0,
       "major": true
     }
   ],
@@ -99,7 +87,7 @@
       "major": true
     },
     {
-      "price": 7652.5,
+      "price": 7647.5,
       "major": true
     },
     {
@@ -119,16 +107,16 @@
       "major": true
     },
     {
-      "price": 7518.0,
+      "price": 7548.0,
       "major": true
     },
     {
-      "price": 7506.0,
+      "price": 7518.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Bears are in control after the 7797 shelf broke down Monday. Trader leans long but only on Failed Breakdowns: watch 7680 first, then 7716-22 as the key recovery zone. If 7716-22 reclaims, expect a rally toward 7742, 7758, then a backtest of 7794-97. The pivot is 7797: bulls need to recover it to regain control; until then, bounces tend to get sold and supports are loose.",
-  "fetched_at": "2026-08-21T12:08:41.021308+00:00"
+  "notes": "Trader leans bullish after Friday's failed-breakdown of 7680 sparked a relief rally. He holds a runner from that trade and is watching for ES to hold 7680, then work up through 7720, 7745, 7758, and ultimately retest 7797. The key pivot is 7797: above it bulls regain full control; below it bears remain in charge and bounces are sold. No new long entries unless another failed-breakdown sets up near 7680 or 7648.",
+  "fetched_at": "2026-08-24T03:15:08.974926+00:00"
 }
