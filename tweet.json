@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-24T11:47:23.767807+00:00",
-  "fetched_at_est": "2026-08-24T07:47:23.767812-04:00",
-  "last_new_level_added_at_est": "2026-08-24T07:43:48-04:00",
+  "fetched_at_utc": "2026-08-24T12:20:12.896040+00:00",
+  "fetched_at_est": "2026-08-24T08:20:12.896050-04:00",
+  "last_new_level_added_at_est": "2026-08-24T08:18:26-04:00",
   "todays_new_levels": [
     {
       "price": 7707.0,
@@ -18,6 +18,20 @@
       "added_at_est": "2026-08-24T07:43:48-04:00",
       "expires_at_est": "2026-08-24T15:43:48-04:00",
       "from_tweet_id": "2091853979797860409"
+    },
+    {
+      "price": 7660.0,
+      "side": "bull",
+      "added_at_est": "2026-08-24T08:18:26-04:00",
+      "expires_at_est": "2026-08-24T16:18:26-04:00",
+      "from_tweet_id": "2091862697520267684"
+    },
+    {
+      "price": 7669.0,
+      "side": "bull",
+      "added_at_est": "2026-08-24T08:18:26-04:00",
+      "expires_at_est": "2026-08-24T16:18:26-04:00",
+      "from_tweet_id": "2091862697520267684"
     }
   ],
   "updates": [
@@ -42,6 +56,36 @@
         7647.5
       ],
       "notes": "7707 and 7645-50 (mid 7647.5) are newly named actionable levels not in morning plan; 7680/7695/7716 are reaffirmations."
+    },
+    {
+      "tweet_id": "2091860591216324635",
+      "timestamp_utc": "2026-08-24T12:10:04.000Z",
+      "timestamp_est": "2026-08-24T08:10:04-04:00",
+      "tweet_text": "@RobyArnoldi If we got the non-acceptance protocol trigger it would be actionable. Take profits aggressively though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price named; purely trade management/commentary advice about taking profits aggressively on a protocol trigger. No actionable level introduced."
+    },
+    {
+      "tweet_id": "2091862697520267684",
+      "timestamp_utc": "2026-08-24T12:18:26.000Z",
+      "timestamp_est": "2026-08-24T08:18:26-04:00",
+      "tweet_text": "@DavidDa41048475 There has not been a Failed Breakdown of 7680 yet today per my methodology. When it triggers though the stop goes under the lows. You can use Thursday's low at 7660 for a wide stop or the 7669 overnight shelf of lows for a tigher stop",
+      "added_bull_levels": [
+        7660.0,
+        7669.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7660 (Thu low) and 7669 (overnight shelf) explicitly named as actionable stop reference levels for the FBD of 7680 trade \u2014 new stop/entry context not in morning plan."
+    },
+    {
+      "tweet_id": "2091862898469445967",
+      "timestamp_utc": "2026-08-24T12:19:14.000Z",
+      "timestamp_est": "2026-08-24T08:19:14-04:00",
+      "tweet_text": "@ES_Money_Print @RobyArnoldi I'd want to use 80 because you can see the huge shelf there from Friday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing '80' (likely 7580) as a shelf observation, no actionable naming language; also a reply to another user, not a plan level announcement."
     }
   ]
 }
