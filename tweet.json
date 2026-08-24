@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-24T13:00:50.134123+00:00",
-  "fetched_at_est": "2026-08-24T09:00:50.134136-04:00",
+  "fetched_at_utc": "2026-08-24T13:51:02.924313+00:00",
+  "fetched_at_est": "2026-08-24T09:51:02.924324-04:00",
   "last_new_level_added_at_est": "2026-08-24T08:18:26-04:00",
   "todays_new_levels": [
     {
@@ -104,6 +104,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7680 is already in the morning plan; this is a reaffirmation/explanation of existing level, not a new actionable one."
+    },
+    {
+      "tweet_id": "2091884488137527430",
+      "timestamp_utc": "2026-08-24T13:45:01.000Z",
+      "timestamp_est": "2026-08-24T09:45:01-04:00",
+      "tweet_text": "Little to do now in #ES_F as we remain in a low volatility regime. Last trade was the 7680 Failed Breakdown Friday, which triggered and ran to 7706, 7716 targets. For today, 7680 must reclaim (trigger in newsletter), hasn't yet, so down we go.\n\n7645-50 remains below. 80+ to rally https://t.co/epgOpew54m",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7680, 7716 are morning-plan levels; 7645-50 is a reaffirmation reference not named with new-level language; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2091885121133584638",
+      "timestamp_utc": "2026-08-24T13:47:32.000Z",
+      "timestamp_est": "2026-08-24T09:47:32-04:00",
+      "tweet_text": "@abbradwell There is too much structure at 80, I wouldn't trust 58 as low. Almost irrelvent if it recovers unless 80 also recovers.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 8080 and 8058 contextually; no explicit actionable naming language used, and both approximate levels are already in morning plan."
     }
   ]
 }
