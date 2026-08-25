@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T16:05:26.526227+00:00",
-  "fetched_at_est": "2026-08-25T12:05:26.526232-04:00",
+  "fetched_at_utc": "2026-08-25T16:35:32.101658+00:00",
+  "fetched_at_est": "2026-08-25T12:35:32.101666-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2091925201848094953",
-      "timestamp_utc": "2026-08-24T16:26:48.000Z",
-      "timestamp_est": "2026-08-24T12:26:48-04:00",
-      "tweet_text": "@PermaFader It affects the win rate of the trade still. In this case it worked, but if there's a big resistance overhead after the recovery of the low, sokmetimes it doesn't even get that level to level move",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply discussing trade mechanics and win rates; no actionable price levels named."
-    },
-    {
-      "tweet_id": "2091925793865597410",
-      "timestamp_utc": "2026-08-24T16:29:10.000Z",
-      "timestamp_est": "2026-08-24T12:29:10-04:00",
-      "tweet_text": "We remain glued to 7680 in #ES_F and have been since Friday. Volatility remains extremely low, as we are now in the trappiest part of the day (mid-day chop). If we can get some momentum and recover here, 7695, 7706, 7716-20 remain above. Then bulls retake control above there https://t.co/VHAWdbc88P",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680, 7695, 7716 are morning plan levels; 7706 is mentioned conversationally in a directional list without explicit actionable naming language."
-    },
     {
       "tweet_id": "2091928311958016174",
       "timestamp_utc": "2026-08-24T16:39:10.000Z",
