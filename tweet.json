@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T14:55:13.802517+00:00",
-  "fetched_at_est": "2026-08-25T10:55:13.802525-04:00",
+  "fetched_at_utc": "2026-08-25T15:15:16.286801+00:00",
+  "fetched_at_est": "2026-08-25T11:15:16.286807-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -35,33 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2091904898497405400",
-      "timestamp_utc": "2026-08-24T15:06:08.000Z",
-      "timestamp_est": "2026-08-24T11:06:08-04:00",
-      "tweet_text": "@PermaFader https://t.co/my97Jk9DTW",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply with only a URL and a username mention \u2014 no price levels or actionable language present."
-    },
-    {
-      "tweet_id": "2091905097341026525",
-      "timestamp_utc": "2026-08-24T15:06:55.000Z",
-      "timestamp_est": "2026-08-24T11:06:55-04:00",
-      "tweet_text": "@PermaFader Its dangerous trading it with that 80 shelf just above. Can do it for a level to level move but the point of a failed breakdown is its supposed to give bulls control back. But when there is a big resistance just overhead, that control point is a little higher",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trade dynamics near '80 shelf' (7680 already in plan); no new actionable price named with qualifying language."
-    },
-    {
-      "tweet_id": "2091905366221029735",
-      "timestamp_utc": "2026-08-24T15:07:59.000Z",
-      "timestamp_est": "2026-08-24T11:07:59-04:00",
-      "tweet_text": "@PermaFader It did work so far for a level to level move, but you'll notice price is struggling and it will until we get over that 80",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reference to 'that 80' (7580?) with no explicit naming language; observation of price struggling, not an actionable new level."
-    },
     {
       "tweet_id": "2091925201848094953",
       "timestamp_utc": "2026-08-24T16:26:48.000Z",
