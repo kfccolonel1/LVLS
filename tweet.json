@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T19:06:08.933747+00:00",
-  "fetched_at_est": "2026-08-25T15:06:08.933753-04:00",
+  "fetched_at_utc": "2026-08-25T19:16:15.204620+00:00",
+  "fetched_at_est": "2026-08-25T15:16:15.204627-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -167,6 +167,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7710 named as next upside target ('head higher to 7710') not in morning plan; 7716 is morning-plan level, 7680 is morning-plan level reaffirmed."
+    },
+    {
+      "tweet_id": "2092327805010714685",
+      "timestamp_utc": "2026-08-25T19:06:36.000Z",
+      "timestamp_est": "2026-08-25T15:06:36-04:00",
+      "tweet_text": "@ForeRight26 Markets barely turned on here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply to user with no price named and no actionable level identified."
     }
   ]
 }
