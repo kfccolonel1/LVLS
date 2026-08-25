@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T15:15:16.286801+00:00",
-  "fetched_at_est": "2026-08-25T11:15:16.286807-04:00",
+  "fetched_at_utc": "2026-08-25T16:05:26.526227+00:00",
+  "fetched_at_est": "2026-08-25T12:05:26.526232-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -210,6 +210,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7659 named at tweet end as actionable watch level (not in morning plan); 7680/7716-20 are reaffirmations of existing plan levels."
+    },
+    {
+      "tweet_id": "2092281761254215821",
+      "timestamp_utc": "2026-08-25T16:03:39.000Z",
+      "timestamp_est": "2026-08-25T12:03:39-04:00",
+      "tweet_text": "7680 reclaims remain the long entry in #ES_F but as posted, take profits extremely aggressively here at newsletter targets (I don't include them here anymore). +10 on that now.\n\n7710 (hit), 7716-20 remain next. When 7716-20 clears, we can rip to the 7797 backtest https://t.co/Fa2hLyGC7Y",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7680, 7710, 7716, 7720, 7797) are morning-plan levels or observations of price action already hit; no new actionable levels introduced."
     }
   ]
 }
