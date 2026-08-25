@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T12:24:46.662883+00:00",
-  "fetched_at_est": "2026-08-25T08:24:46.662889-04:00",
+  "fetched_at_utc": "2026-08-25T12:54:49.769827+00:00",
+  "fetched_at_est": "2026-08-25T08:54:49.769832-04:00",
   "last_new_level_added_at_est": "2026-08-25T07:42:40-04:00",
   "todays_new_levels": [
     {
@@ -28,24 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2091871261953552526",
-      "timestamp_utc": "2026-08-24T12:52:28.000Z",
-      "timestamp_est": "2026-08-24T08:52:28-04:00",
-      "tweet_text": "Absolutely no volatility now in #ES_F. Last triggered entry (given in newsletter) was the 7680 Failed Breakdown Friday. Targets were 7760, ~7716 (hit).\n\nNow, 7680 must recover again (*be sure* to wait for newsletter trigger). It takes us back to 7695, 7706, 7717-20. Hard rally https://t.co/bgJj8OHwlD",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680/7695/7716/7760 are all morning-plan levels or prior references; 7706 and 7717-20 are directional targets listed without new naming language, not first-time actionable introductions."
-    },
-    {
-      "tweet_id": "2091871451645137005",
-      "timestamp_utc": "2026-08-24T12:53:13.000Z",
-      "timestamp_est": "2026-08-24T08:53:13-04:00",
-      "tweet_text": "@ES_Money_Print @RobyArnoldi Have to just look left to where the structure is. If there is lots of structure at 7680 (which there is) you want that to clear decisvely",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680 is already in the morning plan; this is a reaffirmation/explanation of existing level, not a new actionable one."
-    },
     {
       "tweet_id": "2091884488137527430",
       "timestamp_utc": "2026-08-24T13:45:01.000Z",
