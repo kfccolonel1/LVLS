@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T17:55:49.825292+00:00",
-  "fetched_at_est": "2026-08-25T13:55:49.825297-04:00",
+  "fetched_at_utc": "2026-08-25T18:05:51.412275+00:00",
+  "fetched_at_est": "2026-08-25T14:05:51.412281-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2091948926689533963",
-      "timestamp_utc": "2026-08-24T18:01:05.000Z",
-      "timestamp_est": "2026-08-24T14:01:05-04:00",
-      "tweet_text": "This action remains not tradeable in #ES_F. No volatility, and we need volatility to trade. No volatility means chop, traps, no follow through. 7680 must recover with momentum (triggers discussed in newsletter) to see 7695, 7706, 7716-20. We can sustain upside only above there https://t.co/RJgqUDOT4W",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680, 7695, 7716 are morning-plan levels; 7706 appears as a directional list item with no explicit naming language. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2091954879447142409",
       "timestamp_utc": "2026-08-24T18:24:44.000Z",
