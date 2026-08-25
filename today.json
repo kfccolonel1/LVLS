@@ -1,27 +1,21 @@
 {
-  "session_date": "2026-08-24",
-  "daily_pivot": 7797.0,
+  "session_date": "2026-08-25",
+  "daily_pivot": 7659,
   "regime_hint": "C4",
   "significant_lows": [
-    7680.0,
-    7676.0,
-    7650.0,
-    7645.0,
-    7632.0,
-    7612.0,
-    7592.0
+    7659,
+    7649,
+    7639,
+    7632,
+    7680
   ],
   "bull_levels": [
     {
-      "price": 7695.0,
+      "price": 7718.0,
       "major": true
     },
     {
-      "price": 7720.0,
-      "major": true
-    },
-    {
-      "price": 7745.0,
+      "price": 7746.0,
       "major": true
     },
     {
@@ -33,11 +27,7 @@
       "major": true
     },
     {
-      "price": 7783.0,
-      "major": true
-    },
-    {
-      "price": 7797.0,
+      "price": 7795.5,
       "major": true
     },
     {
@@ -45,39 +35,43 @@
       "major": true
     },
     {
-      "price": 7845.0,
+      "price": 7828.0,
       "major": true
     },
     {
-      "price": 7861.0,
+      "price": 7849.0,
       "major": true
     },
     {
-      "price": 7895.0,
+      "price": 7865.0,
       "major": true
     },
     {
-      "price": 7926.0,
+      "price": 7908.0,
       "major": true
     },
     {
-      "price": 7936.0,
+      "price": 7917.0,
       "major": true
     },
     {
-      "price": 7955.0,
+      "price": 7941.0,
       "major": true
     },
     {
-      "price": 8000.0,
+      "price": 7967.0,
       "major": true
     },
     {
-      "price": 8035.0,
+      "price": 8007.0,
       "major": true
     },
     {
-      "price": 8105.0,
+      "price": 8040.0,
+      "major": true
+    },
+    {
+      "price": 8079.0,
       "major": true
     }
   ],
@@ -87,11 +81,15 @@
       "major": true
     },
     {
-      "price": 7647.5,
+      "price": 7659.0,
       "major": true
     },
     {
-      "price": 7627.0,
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7639.0,
       "major": true
     },
     {
@@ -99,24 +97,20 @@
       "major": true
     },
     {
-      "price": 7592.0,
+      "price": 7568.0,
       "major": true
     },
     {
-      "price": 7567.0,
+      "price": 7538.0,
       "major": true
     },
     {
-      "price": 7548.0,
-      "major": true
-    },
-    {
-      "price": 7518.0,
+      "price": 7517.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish but cautiously. After ES lost the 7797 shelf earlier in the week and sold off, Friday's session saw a relief rally from a failed breakdown of 7680. The plan for Monday is to watch 7680 as key support: if it holds, the path opens toward 7720, 7745, 7758, and ultimately a backtest of 7797. The pivot is 7797 - bulls need to reclaim it to regain full control; below it bears remain in charge and bounces may be sold.",
-  "fetched_at": "2026-08-24T12:10:52.179468+00:00"
+  "notes": "Trader leans bullish but cautious. Plan is to watch 7659 as the key floor \u2014 if ES holds there (or dips briefly below and snaps back), recoveries above 7680 are the buy trigger, targeting 7698, then 7718, then 7746, and ultimately 7797. Below 7659 flips the session bearish. The pivot is 7659: bulls are in charge above it, bears take over below it. No trades are forced \u2014 waiting for price to come to planned levels first.",
+  "fetched_at": "2026-08-25T05:00:19.396974+00:00"
 }
