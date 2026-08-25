@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T12:54:49.769827+00:00",
-  "fetched_at_est": "2026-08-25T08:54:49.769832-04:00",
+  "fetched_at_utc": "2026-08-25T13:24:56.384234+00:00",
+  "fetched_at_est": "2026-08-25T09:24:56.384239-04:00",
   "last_new_level_added_at_est": "2026-08-25T07:42:40-04:00",
   "todays_new_levels": [
     {
@@ -238,6 +238,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user about trade setup methodology; no price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2092241141227790478",
+      "timestamp_utc": "2026-08-25T13:22:14.000Z",
+      "timestamp_est": "2026-08-25T09:22:14-04:00",
+      "tweet_text": "We are now settling into the daily low vol in #ES_F, just hold runners. 7680 reclaim was entry and I gave this 5x live yesterday + in newsletter. Targets were 7710 (hit), 7716-20. That must clear to start a hard squeeze up the levels to 7734, 7746, 7797+\n\n7680 remains support, https://t.co/g2BscYS34Y",
+      "added_bull_levels": [
+        7734.0,
+        7746.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7734 and 7746 are named as new squeeze targets not in morning plan; 7680/7716/7797 are reaffirmations of existing plan levels."
     }
   ]
 }
