@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T14:45:09.561240+00:00",
-  "fetched_at_est": "2026-08-25T10:45:09.561246-04:00",
+  "fetched_at_utc": "2026-08-25T14:55:13.802517+00:00",
+  "fetched_at_est": "2026-08-25T10:55:13.802525-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2091902016926667028",
-      "timestamp_utc": "2026-08-24T14:54:41.000Z",
-      "timestamp_est": "2026-08-24T10:54:41-04:00",
-      "tweet_text": "@StopLossHater That would be the most bullish situation into the fall. Bulls are in such strong control though we can't even get down there for that small retrace.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to a user; no price mentioned, no actionable level named, purely directional commentary."
-    },
     {
       "tweet_id": "2091904898497405400",
       "timestamp_utc": "2026-08-24T15:06:08.000Z",
@@ -235,6 +226,17 @@
         7659.0
       ],
       "notes": "7734/7746 named as new upside targets ('go vertical to'); 7659 named as new watch level below 7680 support ('watch traps'). 7680/7716/7797 are morning-plan levels."
+    },
+    {
+      "tweet_id": "2092262647915778368",
+      "timestamp_utc": "2026-08-25T14:47:42.000Z",
+      "timestamp_est": "2026-08-25T10:47:42-04:00",
+      "tweet_text": "Very slow action still in #ES_F and we are stuck in the same range for days. 7680 reclaim was last long trigger last evening. Targets were 7710 (hit), 7716-20 (not yet). 7716-20 must reclaim for bulls to regain control.\n\n7680 recoveries still actionable but lock gains fast. 7659 https://t.co/Ytv8N60dpr",
+      "added_bull_levels": [
+        7659.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7659 named at tweet end as actionable watch level (not in morning plan); 7680/7716-20 are reaffirmations of existing plan levels."
     }
   ]
 }
