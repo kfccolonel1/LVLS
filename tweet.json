@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T18:56:01.704913+00:00",
-  "fetched_at_est": "2026-08-25T14:56:01.704921-04:00",
+  "fetched_at_utc": "2026-08-25T19:06:08.933747+00:00",
+  "fetched_at_est": "2026-08-25T15:06:08.933753-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -156,6 +156,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7680/7716 are morning-plan levels; 7710 is a casual observation/target reference without new naming language; 7692 is a fill/profit-take, not a new actionable level."
+    },
+    {
+      "tweet_id": "2092325983097430197",
+      "timestamp_utc": "2026-08-25T18:59:22.000Z",
+      "timestamp_est": "2026-08-25T14:59:22-04:00",
+      "tweet_text": "Closing update #ES_F: Nothing happening today and markets are basically off. 7680 is all that matters. It reclaimed earlier and triggered long. Its now support. As long as it holds, we head higher to 7710, 7716-20, then rip. Newsletter out soon with next entries",
+      "added_bull_levels": [
+        7710.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7710 named as next upside target ('head higher to 7710') not in morning plan; 7716 is morning-plan level, 7680 is morning-plan level reaffirmed."
     }
   ]
 }
