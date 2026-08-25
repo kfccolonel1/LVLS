@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T16:45:33.869660+00:00",
-  "fetched_at_est": "2026-08-25T12:45:33.869667-04:00",
+  "fetched_at_utc": "2026-08-25T17:25:41.081291+00:00",
+  "fetched_at_est": "2026-08-25T13:25:41.081297-04:00",
   "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2091939928791826892",
-      "timestamp_utc": "2026-08-24T17:25:20.000Z",
-      "timestamp_est": "2026-08-24T13:25:20-04:00",
-      "tweet_text": "@ByShovelINC Yes, I've said this daily for years. As newsletter readers know I dont trade midday unless we have clear volatility. If things are moving fast and quickly I will obviously",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely conversational reply about trading style/midday activity."
-    },
     {
       "tweet_id": "2091945895436681513",
       "timestamp_utc": "2026-08-24T17:49:02.000Z",
