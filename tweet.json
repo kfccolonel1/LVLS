@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-25T13:54:59.700146+00:00",
-  "fetched_at_est": "2026-08-25T09:54:59.700152-04:00",
-  "last_new_level_added_at_est": "2026-08-25T07:42:40-04:00",
+  "fetched_at_utc": "2026-08-25T14:15:05.774441+00:00",
+  "fetched_at_est": "2026-08-25T10:15:05.774447-04:00",
+  "last_new_level_added_at_est": "2026-08-25T10:07:08-04:00",
   "todays_new_levels": [
     {
       "price": 7710.0,
@@ -25,6 +25,13 @@
       "added_at_est": "2026-08-25T07:42:40-04:00",
       "expires_at_est": "2026-08-25T15:42:40-04:00",
       "from_tweet_id": "2092216082241143255"
+    },
+    {
+      "price": 7659.0,
+      "side": "bear",
+      "added_at_est": "2026-08-25T10:07:08-04:00",
+      "expires_at_est": "2026-08-25T18:07:08-04:00",
+      "from_tweet_id": "2092252439231467751"
     }
   ],
   "updates": [
@@ -232,6 +239,20 @@
       ],
       "added_bear_levels": [],
       "notes": "7734 and 7746 are named as new squeeze targets not in morning plan; 7680/7716/7797 are reaffirmations of existing plan levels."
+    },
+    {
+      "tweet_id": "2092252439231467751",
+      "timestamp_utc": "2026-08-25T14:07:08.000Z",
+      "timestamp_est": "2026-08-25T10:07:08-04:00",
+      "tweet_text": "We've settled again into routine daily low vol in #ES_F. Just hold runner. 7680 reclaim was last good long for evening traders. Targets were 7710 (hit), 7716-20. When that clears, we can go vertical to 7734, 7746, 7797+.\n\n7680=support still, with 7659 (watch traps) below there https://t.co/BgDSgvsAPk",
+      "added_bull_levels": [
+        7734.0,
+        7746.0
+      ],
+      "added_bear_levels": [
+        7659.0
+      ],
+      "notes": "7734/7746 named as new upside targets ('go vertical to'); 7659 named as new watch level below 7680 support ('watch traps'). 7680/7716/7797 are morning-plan levels."
     }
   ]
 }
