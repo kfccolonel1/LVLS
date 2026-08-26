@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T21:09:45.482144+00:00",
-  "fetched_at_est": "2026-08-26T17:09:45.482150-04:00",
+  "fetched_at_utc": "2026-08-26T22:19:58.117383+00:00",
+  "fetched_at_est": "2026-08-26T18:19:58.117387-04:00",
   "last_new_level_added_at_est": "2026-08-26T10:41:48-04:00",
   "todays_new_levels": [
     {
@@ -183,6 +183,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply with no price levels mentioned at all \u2014 purely administrative/conversational content."
+    },
+    {
+      "tweet_id": "2092736438617903464",
+      "timestamp_utc": "2026-08-26T22:10:22.000Z",
+      "timestamp_est": "2026-08-26T18:10:22-04:00",
+      "tweet_text": "Excellent follow through post-Nvidia earnings. I've been clear all day with the targets as long as 7680 holds in #ES_F (and newsletter was sent early re-iterating them): 7691 (hit), 7698 (hit), 7716-21 (hit). Then we rip to 7733 (hit), 7745, 7771, then 7797.\n\nSimply ride runner https://t.co/EyiWiQoES0",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels cited (7680, 7716, 7771, 7797) are morning-plan levels or hindsight observations of hits; 7691/7698/7733/7745 are referenced as already-published targets, not newly named actionable levels."
     }
   ]
 }
