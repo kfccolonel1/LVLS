@@ -1,10 +1,25 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T11:47:50.970140+00:00",
-  "fetched_at_est": "2026-08-26T07:47:50.970145-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-26T11:57:55.445298+00:00",
+  "fetched_at_est": "2026-08-26T07:57:55.445303-04:00",
+  "last_new_level_added_at_est": "2026-08-26T07:57:25-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7691.0,
+      "side": "bull",
+      "added_at_est": "2026-08-26T07:57:25-04:00",
+      "expires_at_est": "2026-08-26T15:57:25-04:00",
+      "from_tweet_id": "2092582184057991339"
+    },
+    {
+      "price": 7698.0,
+      "side": "bull",
+      "added_at_est": "2026-08-26T07:57:25-04:00",
+      "expires_at_est": "2026-08-26T15:57:25-04:00",
+      "from_tweet_id": "2092582184057991339"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2092224430722130365",
@@ -89,6 +104,20 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply to user with no price named and no actionable level identified."
+    },
+    {
+      "tweet_id": "2092582184057991339",
+      "timestamp_utc": "2026-08-26T11:57:25.000Z",
+      "timestamp_est": "2026-08-26T07:57:25-04:00",
+      "tweet_text": "We remain in no volatility, no tradeable chop in #ES_F, glued to the 7680 magnet. Reclaims of 7680 are actionable and we've hit this trade over and over for scalps. Nothing to do here\n\nPlan today: 7691, 7698, 7716-21 next. No real rally until we recover that. 7659 below (watch https://t.co/Zf1jQ3N92g",
+      "added_bull_levels": [
+        7691.0,
+        7698.0
+      ],
+      "added_bear_levels": [
+        7659.0
+      ],
+      "notes": "7691 and 7698 named as next upside targets ('next'); 7659 flagged as bear watch below \u2014 none of these are in the morning plan."
     }
   ]
 }
