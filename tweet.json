@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T11:57:55.445298+00:00",
-  "fetched_at_est": "2026-08-26T07:57:55.445303-04:00",
+  "fetched_at_utc": "2026-08-26T12:17:58.078091+00:00",
+  "fetched_at_est": "2026-08-26T08:17:58.078097-04:00",
   "last_new_level_added_at_est": "2026-08-26T07:57:25-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092224430722130365",
-      "timestamp_utc": "2026-08-25T12:15:50.000Z",
-      "timestamp_est": "2026-08-25T08:15:50-04:00",
-      "tweet_text": "@hcooper0113 I didn't take it, but yes that would work. I do take those sometimes. More of a double bottom than an FBD with simiar entry principles",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user about trade setup methodology; no price level named or actionable trigger identified."
-    },
     {
       "tweet_id": "2092241141227790478",
       "timestamp_utc": "2026-08-25T13:22:14.000Z",
