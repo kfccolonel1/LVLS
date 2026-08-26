@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T12:28:03.395464+00:00",
-  "fetched_at_est": "2026-08-26T08:28:03.395469-04:00",
+  "fetched_at_utc": "2026-08-26T12:38:09.168539+00:00",
+  "fetched_at_est": "2026-08-26T08:38:09.168554-04:00",
   "last_new_level_added_at_est": "2026-08-26T07:57:25-04:00",
   "todays_new_levels": [
     {
@@ -118,6 +118,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on low-volatility conditions; no price levels named, no actionable triggers or entries mentioned."
+    },
+    {
+      "tweet_id": "2092591323278606455",
+      "timestamp_utc": "2026-08-26T12:33:44.000Z",
+      "timestamp_est": "2026-08-26T08:33:44-04:00",
+      "tweet_text": "@buddhabarsrock September is usually bearish seasonally (and I am biased because I am personally hoping for downside, as a day trader I always want volatility) but I don't think about it much. I just focus on my setups and level to level entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary about seasonal bias and trading philosophy. No actionable price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2092591586748055639",
+      "timestamp_utc": "2026-08-26T12:34:47.000Z",
+      "timestamp_est": "2026-08-26T08:34:47-04:00",
+      "tweet_text": "@buddhabarsrock I do not let my typically bearish preference/bias effect my trades though in any way. Market can do what it wants!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading psychology/bias \u2014 no price levels named or implied whatsoever."
     }
   ]
 }
