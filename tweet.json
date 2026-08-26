@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T12:38:09.168539+00:00",
-  "fetched_at_est": "2026-08-26T08:38:09.168554-04:00",
-  "last_new_level_added_at_est": "2026-08-26T07:57:25-04:00",
+  "fetched_at_utc": "2026-08-26T13:08:16.084733+00:00",
+  "fetched_at_est": "2026-08-26T09:08:16.084737-04:00",
+  "last_new_level_added_at_est": "2026-08-26T09:04:31-04:00",
   "todays_new_levels": [
     {
       "price": 7691.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-08-26T07:57:25-04:00",
       "expires_at_est": "2026-08-26T15:57:25-04:00",
       "from_tweet_id": "2092582184057991339"
+    },
+    {
+      "price": 7659.0,
+      "side": "bear",
+      "added_at_est": "2026-08-26T09:04:31-04:00",
+      "expires_at_est": "2026-08-26T17:04:31-04:00",
+      "from_tweet_id": "2092599071835853176"
     }
   ],
   "updates": [
@@ -136,6 +143,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about trading psychology/bias \u2014 no price levels named or implied whatsoever."
+    },
+    {
+      "tweet_id": "2092599071835853176",
+      "timestamp_utc": "2026-08-26T13:04:31.000Z",
+      "timestamp_est": "2026-08-26T09:04:31-04:00",
+      "tweet_text": "0 volatility in #ES_F and don't touch this until we get a spike of it. We are glued to 7680 magnet. 7680 reclaims remain long entries and its paid over and over for scalps. \n\nToday's targets were 7691 (hit), 7698, 7716-21. No rally until that clears. 7659=support (watch traps) https://t.co/ZjeR4TAT2e",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7659.0
+      ],
+      "notes": "7659 named explicitly as 'support (watch traps)' \u2014 actionable level not in morning plan. 7691/7698/7716-21 are today's targets (existing plan refs). 7680 is morning plan level."
     }
   ]
 }
