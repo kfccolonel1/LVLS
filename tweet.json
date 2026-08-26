@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T14:08:32.130363+00:00",
-  "fetched_at_est": "2026-08-26T10:08:32.130375-04:00",
-  "last_new_level_added_at_est": "2026-08-26T09:04:31-04:00",
+  "fetched_at_utc": "2026-08-26T14:48:40.020009+00:00",
+  "fetched_at_est": "2026-08-26T10:48:40.020014-04:00",
+  "last_new_level_added_at_est": "2026-08-26T10:41:48-04:00",
   "todays_new_levels": [
     {
       "price": 7691.0,
@@ -25,20 +25,23 @@
       "added_at_est": "2026-08-26T09:04:31-04:00",
       "expires_at_est": "2026-08-26T17:04:31-04:00",
       "from_tweet_id": "2092599071835853176"
+    },
+    {
+      "price": 7733.0,
+      "side": "bull",
+      "added_at_est": "2026-08-26T10:41:48-04:00",
+      "expires_at_est": "2026-08-26T18:41:48-04:00",
+      "from_tweet_id": "2092623550565715997"
+    },
+    {
+      "price": 7746.0,
+      "side": "bull",
+      "added_at_est": "2026-08-26T10:41:48-04:00",
+      "expires_at_est": "2026-08-26T18:41:48-04:00",
+      "from_tweet_id": "2092623550565715997"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092262647915778368",
-      "timestamp_utc": "2026-08-25T14:47:42.000Z",
-      "timestamp_est": "2026-08-25T10:47:42-04:00",
-      "tweet_text": "Very slow action still in #ES_F and we are stuck in the same range for days. 7680 reclaim was last long trigger last evening. Targets were 7710 (hit), 7716-20 (not yet). 7716-20 must reclaim for bulls to regain control.\n\n7680 recoveries still actionable but lock gains fast. 7659 https://t.co/Ytv8N60dpr",
-      "added_bull_levels": [
-        7659.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7659 named at tweet end as actionable watch level (not in morning plan); 7680/7716-20 are reaffirmations of existing plan levels."
-    },
     {
       "tweet_id": "2092281761254215821",
       "timestamp_utc": "2026-08-25T16:03:39.000Z",
@@ -155,6 +158,22 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with directional bias comment only; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2092623550565715997",
+      "timestamp_utc": "2026-08-26T14:41:48.000Z",
+      "timestamp_est": "2026-08-26T10:41:48-04:00",
+      "tweet_text": "Levels continue to respect extremely well, but there is no volatility in #ES_F. 7680 remains support and it continues to defend. Targets are 7691 (hit), 7698, 7716-21. From there we can rip to 7733, 7746, 7771+.\n\n7659 remains below and this is must hold range support. https://t.co/CkgAG1ryhW",
+      "added_bull_levels": [
+        7691.0,
+        7698.0,
+        7733.0,
+        7746.0
+      ],
+      "added_bear_levels": [
+        7659.0
+      ],
+      "notes": "7691, 7698, 7733, 7746 named as new upside targets; 7659 named as 'must hold range support' \u2014 none in morning plan."
     }
   ]
 }
