@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T17:19:02.198889+00:00",
-  "fetched_at_est": "2026-08-26T13:19:02.198896-04:00",
+  "fetched_at_utc": "2026-08-26T17:49:08.897531+00:00",
+  "fetched_at_est": "2026-08-26T13:49:08.897535-04:00",
   "last_new_level_added_at_est": "2026-08-26T10:41:48-04:00",
   "todays_new_levels": [
     {
@@ -42,15 +42,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092308302461804831",
-      "timestamp_utc": "2026-08-25T17:49:07.000Z",
-      "timestamp_est": "2026-08-25T13:49:07-04:00",
-      "tweet_text": "We are glued to the 7680 magnet. This action is not tradeable now in #ES_F, just hold runners. 7680 reclaims are the only entries. We triggered 1 overnight which got us to 7710+, and one today that went to 1st profit take at 7692.\n\n7710, 7716-20, then rip when ES gets momentum https://t.co/ejVHizDUM4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680/7716 are morning-plan levels; 7710 is a casual observation/target reference without new naming language; 7692 is a fill/profit-take, not a new actionable level."
-    },
     {
       "tweet_id": "2092325983097430197",
       "timestamp_utc": "2026-08-25T18:59:22.000Z",
@@ -183,6 +174,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7680 and 7716 are morning-plan levels; 7691/7698 are hit targets (observation); 7659 not named with actionable language, just listed as support in directional recap."
+    },
+    {
+      "tweet_id": "2092668528901906838",
+      "timestamp_utc": "2026-08-26T17:40:31.000Z",
+      "timestamp_est": "2026-08-26T13:40:31-04:00",
+      "tweet_text": "@pointbob2020 Do you know what targets mean?",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user asking a rhetorical question; no price levels named, no actionable content whatsoever."
     }
   ]
 }
