@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T01:26:55.585013+00:00",
-  "fetched_at_est": "2026-08-25T21:26:55.585020-04:00",
+  "fetched_at_utc": "2026-08-26T11:47:50.970140+00:00",
+  "fetched_at_est": "2026-08-26T07:47:50.970145-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2092216082241143255",
-      "timestamp_utc": "2026-08-25T11:42:40.000Z",
-      "timestamp_est": "2026-08-25T07:42:40-04:00",
-      "tweet_text": "Evening traders finally gifted the long in #ES_F. Per yesterday's newsletter + tweets all day, 7680 reclaims would trigger long. We triggered &amp; ripped. \n\nPlan today: 7710, 7716-20 next. Above there, we can really rip. 7734, 7746, 7794-97 next. 7680=support. Entries in newsletter https://t.co/sBaVkQ4k1a",
-      "added_bull_levels": [
-        7710.0,
-        7734.0,
-        7746.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7710, 7734, 7746 named as new sequential bull targets not in morning plan. 7716-20, 7794-97, 7680 are morning-plan levels (reaffirmations)."
-    },
     {
       "tweet_id": "2092224430722130365",
       "timestamp_utc": "2026-08-25T12:15:50.000Z",
