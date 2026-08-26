@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T13:58:25.566988+00:00",
-  "fetched_at_est": "2026-08-26T09:58:25.566993-04:00",
+  "fetched_at_utc": "2026-08-26T14:08:32.130363+00:00",
+  "fetched_at_est": "2026-08-26T10:08:32.130375-04:00",
   "last_new_level_added_at_est": "2026-08-26T09:04:31-04:00",
   "todays_new_levels": [
     {
@@ -28,20 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092252439231467751",
-      "timestamp_utc": "2026-08-25T14:07:08.000Z",
-      "timestamp_est": "2026-08-25T10:07:08-04:00",
-      "tweet_text": "We've settled again into routine daily low vol in #ES_F. Just hold runner. 7680 reclaim was last good long for evening traders. Targets were 7710 (hit), 7716-20. When that clears, we can go vertical to 7734, 7746, 7797+.\n\n7680=support still, with 7659 (watch traps) below there https://t.co/BgDSgvsAPk",
-      "added_bull_levels": [
-        7734.0,
-        7746.0
-      ],
-      "added_bear_levels": [
-        7659.0
-      ],
-      "notes": "7734/7746 named as new upside targets ('go vertical to'); 7659 named as new watch level below 7680 support ('watch traps'). 7680/7716/7797 are morning-plan levels."
-    },
     {
       "tweet_id": "2092262647915778368",
       "timestamp_utc": "2026-08-25T14:47:42.000Z",
@@ -151,6 +137,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7691/7698/7733/7746 appear but framed as targets-hit recap or directional list with no new naming language; 7680/7716/7771 are morning-plan levels. No qualifying new level."
+    },
+    {
+      "tweet_id": "2092614881052610653",
+      "timestamp_utc": "2026-08-26T14:07:21.000Z",
+      "timestamp_est": "2026-08-26T10:07:21-04:00",
+      "tweet_text": "@RSklash Not really relevant which is which! That would involve predicting",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned at all; purely conversational response about prediction."
+    },
+    {
+      "tweet_id": "2092614995477438506",
+      "timestamp_utc": "2026-08-26T14:07:48.000Z",
+      "timestamp_est": "2026-08-26T10:07:48-04:00",
+      "tweet_text": "@RSklash (I always assume up though if I have to make a guess and we are bull flagging)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with directional bias comment only; no price named, no actionable level introduced."
     }
   ]
 }
