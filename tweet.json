@@ -1,25 +1,33 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-26T22:50:01.541665+00:00",
-  "fetched_at_est": "2026-08-26T18:50:01.541672-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-08-27T12:01:22.568386+00:00",
+  "fetched_at_est": "2026-08-27T08:01:22.568391-04:00",
+  "last_new_level_added_at_est": "2026-08-27T07:54:18-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2092582184057991339",
-      "timestamp_utc": "2026-08-26T11:57:25.000Z",
-      "timestamp_est": "2026-08-26T07:57:25-04:00",
-      "tweet_text": "We remain in no volatility, no tradeable chop in #ES_F, glued to the 7680 magnet. Reclaims of 7680 are actionable and we've hit this trade over and over for scalps. Nothing to do here\n\nPlan today: 7691, 7698, 7716-21 next. No real rally until we recover that. 7659 below (watch https://t.co/Zf1jQ3N92g",
-      "added_bull_levels": [
-        7691.0,
-        7698.0
-      ],
-      "added_bear_levels": [
-        7659.0
-      ],
-      "notes": "7691 and 7698 named as next upside targets ('next'); 7659 flagged as bear watch below \u2014 none of these are in the morning plan."
+      "price": 7745.0,
+      "side": "bull",
+      "added_at_est": "2026-08-27T07:54:18-04:00",
+      "expires_at_est": "2026-08-27T15:54:18-04:00",
+      "from_tweet_id": "2092943789019050385"
     },
+    {
+      "price": 7764.0,
+      "side": "bull",
+      "added_at_est": "2026-08-27T07:54:18-04:00",
+      "expires_at_est": "2026-08-27T15:54:18-04:00",
+      "from_tweet_id": "2092943789019050385"
+    },
+    {
+      "price": 7714.0,
+      "side": "bear",
+      "added_at_est": "2026-08-27T07:54:18-04:00",
+      "expires_at_est": "2026-08-27T15:54:18-04:00",
+      "from_tweet_id": "2092943789019050385"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2092587336945021349",
       "timestamp_utc": "2026-08-26T12:17:54.000Z",
@@ -177,6 +185,21 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels cited (7680, 7716, 7771, 7797) are morning-plan levels or hindsight observations of hits; 7691/7698/7733/7745 are referenced as already-published targets, not newly named actionable levels."
+    },
+    {
+      "tweet_id": "2092943789019050385",
+      "timestamp_utc": "2026-08-27T11:54:18.000Z",
+      "timestamp_est": "2026-08-27T07:54:18-04:00",
+      "tweet_text": "It took all day but we finally got our rally in #ES_F. Every hour ystd, I repeated same targets: As long as 7680 held (it did) we rip to 7698, 7716-21 (hit). Then 7733 (hit)+.\n\nPlan: 7714=support now, but its heavily tested (watch traps). Keeps 7733, 7745, 7764 live. 7698, 7680 https://t.co/vArne8aqd8",
+      "added_bull_levels": [
+        7733.0,
+        7745.0,
+        7764.0
+      ],
+      "added_bear_levels": [
+        7714.0
+      ],
+      "notes": "7714 named as new support (watch traps), 7733/7745/7764 named as live bull targets \u2014 none of these are in today's morning plan."
     }
   ]
 }
