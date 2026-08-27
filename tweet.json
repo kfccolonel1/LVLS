@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T17:42:38.388144+00:00",
-  "fetched_at_est": "2026-08-27T13:42:38.388151-04:00",
+  "fetched_at_utc": "2026-08-27T18:32:43.510454+00:00",
+  "fetched_at_est": "2026-08-27T14:32:43.510461-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092681640736669934",
-      "timestamp_utc": "2026-08-26T18:32:37.000Z",
-      "timestamp_est": "2026-08-26T14:32:37-04:00",
-      "tweet_text": "@pointbob2020 There are no down targets anywhere. The targets are all higher. I'm not sure what is confusing about any of this, its extremely clear",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply to a user; no price named, no actionable level, no naming language. Nothing to extract."
-    },
     {
       "tweet_id": "2092681773482193059",
       "timestamp_utc": "2026-08-26T18:33:09.000Z",
