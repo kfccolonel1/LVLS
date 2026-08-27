@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T19:02:52.236632+00:00",
-  "fetched_at_est": "2026-08-27T15:02:52.236635-04:00",
+  "fetched_at_utc": "2026-08-27T19:22:57.252817+00:00",
+  "fetched_at_est": "2026-08-27T15:22:57.252824-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -138,6 +138,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7714 is mentioned as a 'zone' in a closing update referencing the newsletter, not explicitly named as a new actionable level with required naming language in the tweet itself."
+    },
+    {
+      "tweet_id": "2093054406321144103",
+      "timestamp_utc": "2026-08-27T19:13:52.000Z",
+      "timestamp_est": "2026-08-27T15:13:52-04:00",
+      "tweet_text": "@Mister_J_Weezy Probably no trades see no drawdown once I enter. Drawdown is part of trading. I enter all at once though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about trade management philosophy (drawdown, entry style). No prices mentioned, no actionable levels named."
     }
   ]
 }
