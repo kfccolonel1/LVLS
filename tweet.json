@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T13:11:33.903990+00:00",
-  "fetched_at_est": "2026-08-27T09:11:33.903996-04:00",
-  "last_new_level_added_at_est": "2026-08-27T07:54:18-04:00",
+  "fetched_at_utc": "2026-08-27T13:21:44.411579+00:00",
+  "fetched_at_est": "2026-08-27T09:21:44.411612-04:00",
+  "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
       "price": 7745.0,
@@ -25,6 +25,13 @@
       "added_at_est": "2026-08-27T07:54:18-04:00",
       "expires_at_est": "2026-08-27T15:54:18-04:00",
       "from_tweet_id": "2092943789019050385"
+    },
+    {
+      "price": 7733.0,
+      "side": "bull",
+      "added_at_est": "2026-08-27T09:12:37-04:00",
+      "expires_at_est": "2026-08-27T17:12:37-04:00",
+      "from_tweet_id": "2092963498158420156"
     }
   ],
   "updates": [
@@ -171,6 +178,28 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user noting 'clear S/R line' with no price named \u2014 pure conversational observation, no actionable level cited."
+    },
+    {
+      "tweet_id": "2092963498158420156",
+      "timestamp_utc": "2026-08-27T13:12:37.000Z",
+      "timestamp_est": "2026-08-27T09:12:37-04:00",
+      "tweet_text": "No volatility again now in #ES_F, same drill everyday. We had to wait 2 days for yesterday's simple Nvidia driven rally. Targets were 7716-21, 7733 (hit).\n\nFor today, 7714 is now support as posted and we've been here for hours. As long as we hold, 7733, 7745, 7764+ live today https://t.co/Y9c70SHI8M",
+      "added_bull_levels": [
+        7733.0,
+        7745.0,
+        7764.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7733, 7745, 7764 named as live upside targets conditioned on holding 7714 support \u2014 7745 and 7764 are not in morning plan; 7733 also not in plan."
+    },
+    {
+      "tweet_id": "2092964834010677707",
+      "timestamp_utc": "2026-08-27T13:17:56.000Z",
+      "timestamp_est": "2026-08-27T09:17:56-04:00",
+      "tweet_text": "@longshortmkts There's no volatility period",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about market conditions, no price named, no actionable level, no naming language."
     }
   ]
 }
