@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T17:32:37.225996+00:00",
-  "fetched_at_est": "2026-08-27T13:32:37.226002-04:00",
+  "fetched_at_utc": "2026-08-27T17:42:38.388144+00:00",
+  "fetched_at_est": "2026-08-27T13:42:38.388151-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092668528901906838",
-      "timestamp_utc": "2026-08-26T17:40:31.000Z",
-      "timestamp_est": "2026-08-26T13:40:31-04:00",
-      "tweet_text": "@pointbob2020 Do you know what targets mean?",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to a user asking a rhetorical question; no price levels named, no actionable content whatsoever."
-    },
     {
       "tweet_id": "2092681640736669934",
       "timestamp_utc": "2026-08-26T18:32:37.000Z",
