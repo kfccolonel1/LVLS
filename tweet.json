@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T15:12:09.009375+00:00",
-  "fetched_at_est": "2026-08-27T11:12:09.009380-04:00",
+  "fetched_at_utc": "2026-08-27T16:02:16.329594+00:00",
+  "fetched_at_est": "2026-08-27T12:02:16.329598-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092643063264940527",
-      "timestamp_utc": "2026-08-26T15:59:20.000Z",
-      "timestamp_est": "2026-08-26T11:59:20-04:00",
-      "tweet_text": "Levels continue to respect perfectly in #ES_F but we still have 0 vol, so just hold your runner. 7680 remans support and its defending over and over. Targets today were 7691 (hit), 7698 (hit), 7716-21. Above there, we can rip sustainably.\n\n7659 remains below and it must hold https://t.co/qVEgxZoI0n",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680 and 7716 are morning plan levels; 7691/7698 are hit targets (observation); 7659 lacks explicit naming language to qualify as a new major level."
-    },
     {
       "tweet_id": "2092663015334170683",
       "timestamp_utc": "2026-08-26T17:18:37.000Z",
