@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T17:22:29.320417+00:00",
-  "fetched_at_est": "2026-08-27T13:22:29.320423-04:00",
+  "fetched_at_utc": "2026-08-27T17:32:37.225996+00:00",
+  "fetched_at_est": "2026-08-27T13:32:37.226002-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -170,6 +170,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7714 support, 7733/7745/7764/7771/7797 targets) are observations of hits or reaffirmations of morning-plan levels; no new actionable level introduced."
+    },
+    {
+      "tweet_id": "2093028300129960177",
+      "timestamp_utc": "2026-08-27T17:30:07.000Z",
+      "timestamp_est": "2026-08-27T13:30:07-04:00",
+      "tweet_text": "We are stuck in grind up mode now in #ES_F. 7714 was key support today. Recall this zone was resistance all week (7714-20 region). It broke yesterday, flipped to support, and now up we go. Targets were 7733 (hit), 7745 (hit), 7764, 7771, then 7797 are next up https://t.co/NUj8Z7ZpUf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7714 is observation/hindsight support flip; 7733/7745 are hit targets; 7764, 7771, 7797 are morning-plan levels or reaffirmations. No new actionable levels."
     }
   ]
 }
