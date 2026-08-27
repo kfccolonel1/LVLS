@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T16:52:25.994329+00:00",
-  "fetched_at_est": "2026-08-27T12:52:25.994335-04:00",
+  "fetched_at_utc": "2026-08-27T17:22:29.320417+00:00",
+  "fetched_at_est": "2026-08-27T13:22:29.320423-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092663015334170683",
-      "timestamp_utc": "2026-08-26T17:18:37.000Z",
-      "timestamp_est": "2026-08-26T13:18:37-04:00",
-      "tweet_text": "We remain glued to the 7680 magnet and its respecting perfectly, testing, trapping, recovering over and over. Just hold a runnre now in #ES_F and do not over-trade. Targets today were 7691 (hit), 7698 (hit), 7716-21. Then we can rally.\n\n7680, 7659=supports https://t.co/bsY3PDbHVK",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7680 and 7716 are morning-plan levels; 7691/7698 are hit targets (observation); 7659 not named with actionable language, just listed as support in directional recap."
-    },
     {
       "tweet_id": "2092668528901906838",
       "timestamp_utc": "2026-08-26T17:40:31.000Z",
