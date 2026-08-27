@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T14:11:50.375525+00:00",
-  "fetched_at_est": "2026-08-27T10:11:50.375529-04:00",
+  "fetched_at_utc": "2026-08-27T14:21:59.997140+00:00",
+  "fetched_at_est": "2026-08-27T10:21:59.997146-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -173,6 +173,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about market conditions, no price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2092979440208712190",
+      "timestamp_utc": "2026-08-27T14:15:58.000Z",
+      "timestamp_est": "2026-08-27T10:15:58-04:00",
+      "tweet_text": "7714 is today's main support (it was resistance all week) and we continue to defend/trap it over and over. This keeps the next slate of targets live in #ES_F 7733, 7745, 7764+. Just ride a runner, don't over-trade here.\n\nThis squeeze was called for all week and we finally got it https://t.co/zQBOGhypUB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7714 framed as 'main support' but not in morning plan \u2014 however tweet reads as reaffirmation of ongoing context, not a new actionable call. 7733/7745/7764 are targets listed conversationally, no explicit new naming language."
     }
   ]
 }
