@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T18:32:43.510454+00:00",
-  "fetched_at_est": "2026-08-27T14:32:43.510461-04:00",
+  "fetched_at_utc": "2026-08-27T18:42:44.946633+00:00",
+  "fetched_at_est": "2026-08-27T14:42:44.946637-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -35,29 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092681773482193059",
-      "timestamp_utc": "2026-08-26T18:33:09.000Z",
-      "timestamp_est": "2026-08-26T14:33:09-04:00",
-      "tweet_text": "@pointbob2020 \"Targets are 7691 (hit), 7698, 7716-21. From there we can rip to 7733, 7746, 7771+.\"",
-      "added_bull_levels": [
-        7691.0,
-        7698.0,
-        7733.0,
-        7746.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7691, 7698, 7733, 7746 named as explicit upside targets not in morning plan; 7716-21 midpoint ~7718 and 7771 are morning plan levels, excluded."
-    },
-    {
-      "tweet_id": "2092682064935989311",
-      "timestamp_utc": "2026-08-26T18:34:19.000Z",
-      "timestamp_est": "2026-08-26T14:34:19-04:00",
-      "tweet_text": "Note: Newsletter was sent out early ahead of Nvidia earnings today. Targets remain 7691 (hit), 7698 (hit), 7716-21. Above there was can head to 7733, 7745, 7771, then 7797.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7691,7698,7716-21,7733,7745,7771,7797) are newsletter/morning-plan reaffirmations or hindsight 'hit' observations, not newly named actionable levels."
-    },
     {
       "tweet_id": "2092687368884994521",
       "timestamp_utc": "2026-08-26T18:55:23.000Z",
