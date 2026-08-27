@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T13:21:44.411579+00:00",
-  "fetched_at_est": "2026-08-27T09:21:44.411612-04:00",
+  "fetched_at_utc": "2026-08-27T14:01:49.033223+00:00",
+  "fetched_at_est": "2026-08-27T10:01:49.033230-04:00",
   "last_new_level_added_at_est": "2026-08-27T09:12:37-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092611352686645329",
-      "timestamp_utc": "2026-08-26T13:53:19.000Z",
-      "timestamp_est": "2026-08-26T09:53:19-04:00",
-      "tweet_text": "No volatility still in #ES_F but levels are respecting perfectly. Its all about 7680 which remains a magnet. It reclaimed, then held exact all morning.\n\nToday's targets are 7691 (hit), 7698, 7716-21. From there, we rip to 7733, 7746, 7771+. Just hold a runner now all day https://t.co/2uXLaXuYQv",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7691/7698/7733/7746 appear but framed as targets-hit recap or directional list with no new naming language; 7680/7716/7771 are morning-plan levels. No qualifying new level."
-    },
     {
       "tweet_id": "2092614881052610653",
       "timestamp_utc": "2026-08-26T14:07:21.000Z",
