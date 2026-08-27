@@ -1,22 +1,19 @@
 {
-  "session_date": "2026-08-26",
-  "daily_pivot": 7659,
-  "regime_hint": "C2",
+  "session_date": "2026-08-27",
+  "daily_pivot": 7659.0,
+  "regime_hint": "C5",
   "significant_lows": [
-    7659,
-    7649,
-    7637,
-    7632,
-    7592,
-    7567
+    7680.0,
+    7659.0,
+    7649.0,
+    7637.0,
+    7627.0,
+    7612.0,
+    7592.0
   ],
   "bull_levels": [
     {
-      "price": 7698.0,
-      "major": true
-    },
-    {
-      "price": 7721.0,
+      "price": 7714.0,
       "major": true
     },
     {
@@ -24,11 +21,11 @@
       "major": true
     },
     {
-      "price": 7746.0,
+      "price": 7745.0,
       "major": true
     },
     {
-      "price": 7771.0,
+      "price": 7764.0,
       "major": true
     },
     {
@@ -36,19 +33,15 @@
       "major": true
     },
     {
-      "price": 7819.0,
-      "major": true
-    },
-    {
       "price": 7828.0,
       "major": true
     },
     {
-      "price": 7854.0,
+      "price": 7858.0,
       "major": true
     },
     {
-      "price": 7870.0,
+      "price": 7871.0,
       "major": true
     },
     {
@@ -56,11 +49,15 @@
       "major": true
     },
     {
-      "price": 7924.0,
+      "price": 7926.0,
       "major": true
     },
     {
-      "price": 7950.0,
+      "price": 7968.0,
+      "major": true
+    },
+    {
+      "price": 7988.0,
       "major": true
     }
   ],
@@ -70,7 +67,11 @@
       "major": true
     },
     {
-      "price": 7659.0,
+      "price": 7665.0,
+      "major": true
+    },
+    {
+      "price": 7658.0,
       "major": true
     },
     {
@@ -78,11 +79,11 @@
       "major": true
     },
     {
-      "price": 7637.0,
+      "price": 7627.0,
       "major": true
     },
     {
-      "price": 7611.0,
+      "price": 7612.0,
       "major": true
     },
     {
@@ -98,12 +99,12 @@
       "major": true
     },
     {
-      "price": 7516.0,
+      "price": 7517.0,
       "major": true
     }
   ],
   "event_times": [],
-  "event_day": false,
-  "notes": "Trader is bullish above 7659, which is the key pivot: holding it opens a rally toward 7721, 7746, and eventually 7797. Below 7659 flips control to bears. He plans to buy a failed breakdown of 7659 (ideally tagging 7649 or 7637 first), or long a reclaim of 7680 using the non-acceptance protocol. Conditions are low-volatility summer chop, so he expects slow, choppy action and will take profits level by level.",
-  "fetched_at": "2026-08-26T05:00:18.198838+00:00"
+  "event_day": true,
+  "notes": "Nvidia earnings after the bell make this an event day \u2014 first moves often trap, so no chasing. Trader leans bullish as long as 7659 holds (the daily pivot): above it, the bias is to rally up through 7714, 7745, and eventually 7797. Below 7659 bears take control. He is holding a small long runner and will look to buy failed breakdowns at 7659 or 7680 if price flushes and recovers those levels.",
+  "fetched_at": "2026-08-27T05:00:17.425370+00:00"
 }
