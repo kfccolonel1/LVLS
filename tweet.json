@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T12:01:22.568386+00:00",
-  "fetched_at_est": "2026-08-27T08:01:22.568391-04:00",
+  "fetched_at_utc": "2026-08-27T12:21:24.844033+00:00",
+  "fetched_at_est": "2026-08-27T08:21:24.844036-04:00",
   "last_new_level_added_at_est": "2026-08-27T07:54:18-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092587336945021349",
-      "timestamp_utc": "2026-08-26T12:17:54.000Z",
-      "timestamp_est": "2026-08-26T08:17:54-04:00",
-      "tweet_text": "@StephenJ223624 This is just trading low volatility. Things just aren't going to move when price is locked around a magnet. There is no momentum. If you take a trade, need to be prepared to wait maybe even a day to get a level to level move, and take tons of whipsaw. ither that, or dont trade it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on low-volatility conditions; no price levels named, no actionable triggers or entries mentioned."
-    },
     {
       "tweet_id": "2092591323278606455",
       "timestamp_utc": "2026-08-26T12:33:44.000Z",
