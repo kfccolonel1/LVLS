@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T17:35:38.636683+00:00",
-  "fetched_at_est": "2026-08-28T13:35:38.636693-04:00",
+  "fetched_at_utc": "2026-08-28T17:45:43.135777+00:00",
+  "fetched_at_est": "2026-08-28T13:45:43.135782-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -151,6 +151,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to another user with no price mentioned and no actionable level named."
+    },
+    {
+      "tweet_id": "2093394379582931266",
+      "timestamp_utc": "2026-08-28T17:44:48.000Z",
+      "timestamp_est": "2026-08-28T13:44:48-04:00",
+      "tweet_text": "@repetak 7695 is in the newsletter also. Clear resistance shelf from Tuesday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7695 is already in today's morning plan. This is a reaffirmation/conversational reference, not a new actionable level."
     }
   ]
 }
