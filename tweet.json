@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T19:15:55.329374+00:00",
-  "fetched_at_est": "2026-08-28T15:15:55.329379-04:00",
+  "fetched_at_utc": "2026-08-28T19:26:01.528713+00:00",
+  "fetched_at_est": "2026-08-28T15:26:01.528718-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -142,6 +142,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7695 is already in today's morning plan. This is a reaffirmation/conversational reference, not a new actionable level."
+    },
+    {
+      "tweet_id": "2093418708148347299",
+      "timestamp_utc": "2026-08-28T19:21:28.000Z",
+      "timestamp_est": "2026-08-28T15:21:28-04:00",
+      "tweet_text": "CLosing update #ES_F: Newsletter was just sent out with entries for Monday. 7714 remains a key support that bulls want to hold to keep upside targets directly live. 7797 is the only outstanding target remaining that we came 16 points shy so far today.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7714 is close to morning-plan 7716 (reaffirmation); 7797 is an existing morning-plan level. No new actionable levels introduced."
     }
   ]
 }
