@@ -1,26 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-27T22:13:14.375011+00:00",
-  "fetched_at_est": "2026-08-27T18:13:14.375015-04:00",
+  "fetched_at_utc": "2026-08-28T11:54:26.743143+00:00",
+  "fetched_at_est": "2026-08-28T07:54:26.743147-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2092943789019050385",
-      "timestamp_utc": "2026-08-27T11:54:18.000Z",
-      "timestamp_est": "2026-08-27T07:54:18-04:00",
-      "tweet_text": "It took all day but we finally got our rally in #ES_F. Every hour ystd, I repeated same targets: As long as 7680 held (it did) we rip to 7698, 7716-21 (hit). Then 7733 (hit)+.\n\nPlan: 7714=support now, but its heavily tested (watch traps). Keeps 7733, 7745, 7764 live. 7698, 7680 https://t.co/vArne8aqd8",
-      "added_bull_levels": [
-        7733.0,
-        7745.0,
-        7764.0
-      ],
-      "added_bear_levels": [
-        7714.0
-      ],
-      "notes": "7714 named as new support (watch traps), 7733/7745/7764 named as live bull targets \u2014 none of these are in today's morning plan."
-    },
     {
       "tweet_id": "2092963145295732888",
       "timestamp_utc": "2026-08-27T13:11:13.000Z",
