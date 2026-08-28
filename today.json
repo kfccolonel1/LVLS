@@ -1,31 +1,23 @@
 {
-  "session_date": "2026-08-27",
-  "daily_pivot": 7659.0,
-  "regime_hint": "C5",
+  "session_date": "2026-08-28",
+  "daily_pivot": 7714.0,
+  "regime_hint": "C3",
   "significant_lows": [
-    7680.0,
-    7659.0,
+    7714.0,
+    7671.0,
+    7658.0,
     7649.0,
     7637.0,
     7627.0,
-    7612.0,
-    7592.0
+    7612.0
   ],
   "bull_levels": [
     {
-      "price": 7714.0,
+      "price": 7758.0,
       "major": true
     },
     {
-      "price": 7733.0,
-      "major": true
-    },
-    {
-      "price": 7745.0,
-      "major": true
-    },
-    {
-      "price": 7764.0,
+      "price": 7771.0,
       "major": true
     },
     {
@@ -33,41 +25,41 @@
       "major": true
     },
     {
-      "price": 7828.0,
+      "price": 7820.0,
       "major": true
     },
     {
-      "price": 7858.0,
+      "price": 7836.0,
       "major": true
     },
     {
-      "price": 7871.0,
+      "price": 7862.0,
       "major": true
     },
     {
-      "price": 7911.0,
+      "price": 7874.0,
       "major": true
     },
     {
-      "price": 7926.0,
+      "price": 7889.0,
       "major": true
     },
     {
-      "price": 7968.0,
-      "major": true
-    },
-    {
-      "price": 7988.0,
+      "price": 7930.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7680.0,
+      "price": 7714.0,
       "major": true
     },
     {
-      "price": 7665.0,
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7671.0,
       "major": true
     },
     {
@@ -91,20 +83,36 @@
       "major": true
     },
     {
-      "price": 7567.0,
+      "price": 7566.0,
       "major": true
     },
     {
-      "price": 7548.0,
+      "price": 7516.0,
       "major": true
     },
     {
-      "price": 7517.0,
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7444.0,
+      "major": true
+    },
+    {
+      "price": 7428.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
       "major": true
     }
   ],
   "event_times": [],
-  "event_day": true,
-  "notes": "Nvidia earnings after the bell make this an event day \u2014 first moves often trap, so no chasing. Trader leans bullish as long as 7659 holds (the daily pivot): above it, the bias is to rally up through 7714, 7745, and eventually 7797. Below 7659 bears take control. He is holding a small long runner and will look to buy failed breakdowns at 7659 or 7680 if price flushes and recovers those levels.",
-  "fetched_at": "2026-08-27T05:00:17.425370+00:00"
+  "event_day": false,
+  "notes": "Trader leans bullish after ES broke above the 7659-7714 range following Nvidia earnings. He is holding a long runner and looking to add only on failed breakdowns at lower levels (7671, 7658, 7649). The key level is 7714: above it, bulls stay in control and targets are 7758, 7771, 7797; below 7659, bears take over and a breakdown short toward 7648 becomes possible.",
+  "fetched_at": "2026-08-28T05:00:21.934280+00:00"
 }
