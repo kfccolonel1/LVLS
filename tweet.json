@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T15:04:07.824085+00:00",
-  "fetched_at_est": "2026-08-28T11:04:07.824089-04:00",
+  "fetched_at_utc": "2026-08-28T15:15:07.455899+00:00",
+  "fetched_at_est": "2026-08-28T11:15:07.455903-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -28,19 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092991871064621222",
-      "timestamp_utc": "2026-08-27T15:05:22.000Z",
-      "timestamp_est": "2026-08-27T11:05:22-04:00",
-      "tweet_text": "We are pushing nicely in #ES_F. 7714 shelf remains support today and its held after numerous traps below (as posted, traps of 7714 are longable). Targets for today are 7733 (hit), 7745 is next, then 7764 today. Then we head to 7771, 7797, which remains a magnet.\n\nRide runner https://t.co/92wy1srLhn",
-      "added_bull_levels": [
-        7733.0,
-        7745.0,
-        7764.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7733, 7745, 7764 named explicitly as today's targets (actionable bull levels); not in morning plan. 7771/7797 are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2093016444539658278",
       "timestamp_utc": "2026-08-27T16:43:01.000Z",
