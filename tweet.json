@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T16:35:24.158884+00:00",
-  "fetched_at_est": "2026-08-28T12:35:24.158890-04:00",
+  "fetched_at_utc": "2026-08-28T16:45:25.679258+00:00",
+  "fetched_at_est": "2026-08-28T12:45:25.679262-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2093016444539658278",
-      "timestamp_utc": "2026-08-27T16:43:01.000Z",
-      "timestamp_est": "2026-08-27T12:43:01-04:00",
-      "tweet_text": "We are working up targets in #ES_F. Support today was 7714 and I posted watch for traps. We trapped many. Today's slate of targets were 7733 (hit), 7745 (hit), 7764 next. Then we head to 7771, 7797. It took a few days of patience to get this move, but we are finally getting paid https://t.co/mJWoi4oHA0",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7714 support, 7733/7745/7764/7771/7797 targets) are observations of hits or reaffirmations of morning-plan levels; no new actionable level introduced."
-    },
     {
       "tweet_id": "2093028300129960177",
       "timestamp_utc": "2026-08-27T17:30:07.000Z",
