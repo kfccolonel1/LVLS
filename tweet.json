@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T15:15:07.455899+00:00",
-  "fetched_at_est": "2026-08-28T11:15:07.455903-04:00",
+  "fetched_at_utc": "2026-08-28T16:15:17.797108+00:00",
+  "fetched_at_est": "2026-08-28T12:15:17.797113-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -124,6 +124,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a casual thank-you reply with no price levels, no actionable language, and no named levels of any kind."
+    },
+    {
+      "tweet_id": "2093370720474566844",
+      "timestamp_utc": "2026-08-28T16:10:47.000Z",
+      "timestamp_est": "2026-08-28T12:10:47-04:00",
+      "tweet_text": "Hyper precise levels today in #ES_F. 7734 = support. We swept it, recovered, longs triggered as posted. Targts were 7745, 7758, 7771 (all hit).\n\nWe then sold back down to 7737 and defended just now. Only 7797 target remaining on the upside now. Same supports https://t.co/cgkY0u5Csa",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7734 is observation/recap of prior action; 7745/7758/7771/7797 are morning-plan hits or reaffirmations; 7737 defense is price action commentary. No new actionable levels named."
     }
   ]
 }
