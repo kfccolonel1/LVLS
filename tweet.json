@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T14:14:53.452845+00:00",
-  "fetched_at_est": "2026-08-28T10:14:53.452852-04:00",
+  "fetched_at_utc": "2026-08-28T14:24:58.107778+00:00",
+  "fetched_at_est": "2026-08-28T10:24:58.107783-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2092979440208712190",
-      "timestamp_utc": "2026-08-27T14:15:58.000Z",
-      "timestamp_est": "2026-08-27T10:15:58-04:00",
-      "tweet_text": "7714 is today's main support (it was resistance all week) and we continue to defend/trap it over and over. This keeps the next slate of targets live in #ES_F 7733, 7745, 7764+. Just ride a runner, don't over-trade here.\n\nThis squeeze was called for all week and we finally got it https://t.co/zQBOGhypUB",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7714 framed as 'main support' but not in morning plan \u2014 however tweet reads as reaffirmation of ongoing context, not a new actionable call. 7733/7745/7764 are targets listed conversationally, no explicit new naming language."
-    },
     {
       "tweet_id": "2092991871064621222",
       "timestamp_utc": "2026-08-27T15:05:22.000Z",
@@ -119,6 +110,15 @@
         7714.0
       ],
       "notes": "7734 and 7714 explicitly named as supports to 'watch traps of both' \u2014 actionable new bear/support levels not in morning plan."
+    },
+    {
+      "tweet_id": "2093343833614418017",
+      "timestamp_utc": "2026-08-28T14:23:57.000Z",
+      "timestamp_est": "2026-08-28T10:23:57-04:00",
+      "tweet_text": "Very nice vol expansion there in #ES_F but if you took the long *protect your gains aggressively now and let a runner do the work*. After running to 7758 next target exact, I posted watch traps of 7734. We swept it, recovered, ripped to 7745 1st up. 7758, 7771, 7797 above https://t.co/Y64EEtrlXx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7758, 7771, 7797, 7734, 7745) are trade management, observations, or morning-plan reaffirmations; no new actionable levels named."
     }
   ]
 }
