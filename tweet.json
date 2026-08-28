@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T11:54:26.743143+00:00",
-  "fetched_at_est": "2026-08-28T07:54:26.743147-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-28T12:04:31.687109+00:00",
+  "fetched_at_est": "2026-08-28T08:04:31.687114-04:00",
+  "last_new_level_added_at_est": "2026-08-28T07:56:35-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7779.0,
+      "side": "bull",
+      "added_at_est": "2026-08-28T07:56:35-04:00",
+      "expires_at_est": "2026-08-28T15:56:35-04:00",
+      "from_tweet_id": "2093306750149517489"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2092963145295732888",
@@ -94,6 +102,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply about trade management philosophy (drawdown, entry style). No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2093306750149517489",
+      "timestamp_utc": "2026-08-28T11:56:35.000Z",
+      "timestamp_est": "2026-08-28T07:56:35-04:00",
+      "tweet_text": "Yesterday we got rally I've waited on all week in #ES_F. As long as 7680 held (or quick trap below) I was looking to 7714 res (hit). We broke it, running to 7733, 7745 next targets.\n\nPlan today: Ride runner, vol still low. 7758, 7771, 7779 next. 7734 (weak), 7714 (watch https://t.co/kNDfrEsSey",
+      "added_bull_levels": [
+        7779.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7779 named explicitly as 'next' target not in morning plan. 7758, 7771, 7714 are morning plan levels; 7733/7745 are prior-day observations."
     }
   ]
 }
