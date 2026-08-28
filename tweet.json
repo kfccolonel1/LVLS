@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T16:15:17.797108+00:00",
-  "fetched_at_est": "2026-08-28T12:15:17.797113-04:00",
+  "fetched_at_utc": "2026-08-28T16:35:24.158884+00:00",
+  "fetched_at_est": "2026-08-28T12:35:24.158890-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -133,6 +133,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7734 is observation/recap of prior action; 7745/7758/7771/7797 are morning-plan hits or reaffirmations; 7737 defense is price action commentary. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2093374393099423752",
+      "timestamp_utc": "2026-08-28T16:25:22.000Z",
+      "timestamp_est": "2026-08-28T12:25:22-04:00",
+      "tweet_text": "@jwregnier Just the same cycles over and over in ES. Elevator down, trap, squeeze. ES is extremely boring for that reason because it never changes the script and does anything different (and nothing interesting ever happens), but easy to make money with",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary on ES price behavior patterns; no price levels named, no actionable triggers, no naming language whatsoever."
     }
   ]
 }
