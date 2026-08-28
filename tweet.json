@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T14:24:58.107778+00:00",
-  "fetched_at_est": "2026-08-28T10:24:58.107783-04:00",
+  "fetched_at_utc": "2026-08-28T14:55:05.045935+00:00",
+  "fetched_at_est": "2026-08-28T10:55:05.045941-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -119,6 +119,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7758, 7771, 7797, 7734, 7745) are trade management, observations, or morning-plan reaffirmations; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2093350222529200401",
+      "timestamp_utc": "2026-08-28T14:49:20.000Z",
+      "timestamp_est": "2026-08-28T10:49:20-04:00",
+      "tweet_text": "We are ripping nicely now in #ES_F and excellent trade so far. I posted to watch traps of 7734. We swept it down to 7728, then up the targets we went. Targets were 7745 (hit), 7758 (hit). 7771, 7797 remain next.\n\nSame drill daily: Wait for vol expansion/elevator down. Long a trap https://t.co/kNtDKMwXrx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7734, 7745, 7758, 7771, 7797) are observations of hits or reaffirmations of morning-plan levels. No new actionable levels named."
     }
   ]
 }
