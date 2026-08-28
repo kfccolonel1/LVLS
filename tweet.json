@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T16:45:25.679258+00:00",
-  "fetched_at_est": "2026-08-28T12:45:25.679262-04:00",
+  "fetched_at_utc": "2026-08-28T17:35:38.636683+00:00",
+  "fetched_at_est": "2026-08-28T13:35:38.636693-04:00",
   "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2093028300129960177",
-      "timestamp_utc": "2026-08-27T17:30:07.000Z",
-      "timestamp_est": "2026-08-27T13:30:07-04:00",
-      "tweet_text": "We are stuck in grind up mode now in #ES_F. 7714 was key support today. Recall this zone was resistance all week (7714-20 region). It broke yesterday, flipped to support, and now up we go. Targets were 7733 (hit), 7745 (hit), 7764, 7771, then 7797 are next up https://t.co/NUj8Z7ZpUf",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7714 is observation/hindsight support flip; 7733/7745 are hit targets; 7764, 7771, 7797 are morning-plan levels or reaffirmations. No new actionable levels."
-    },
     {
       "tweet_id": "2093051032838295900",
       "timestamp_utc": "2026-08-27T19:00:27.000Z",
@@ -133,6 +124,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary on ES price behavior patterns; no price levels named, no actionable triggers, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2093390051451260942",
+      "timestamp_utc": "2026-08-28T17:27:36.000Z",
+      "timestamp_est": "2026-08-28T13:27:36-04:00",
+      "tweet_text": "Today's been very straightforward as we've finally had vol to work with in #ES_F. 7734 traps were the long trigger. Targets were 7745, 7758, 7771 (all hit). Just 7797 still that has to hit to complete the sequence.\n\nAt 7714 support now. 7734 reclaims to work back up. 95 below https://t.co/noc9UiPB5i",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7734/7745/7758/7771/7797/7714 are observations of price action, hit targets, or reaffirmations of morning plan levels. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2093390210562150793",
+      "timestamp_utc": "2026-08-28T17:28:14.000Z",
+      "timestamp_est": "2026-08-28T13:28:14-04:00",
+      "tweet_text": "@NQtrader11 I don't think you know what any of those words mean",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a sarcastic reply to another user; no price levels, no actionable language, no trading content whatsoever."
+    },
+    {
+      "tweet_id": "2093390861987987553",
+      "timestamp_utc": "2026-08-28T17:30:49.000Z",
+      "timestamp_est": "2026-08-28T13:30:49-04:00",
+      "tweet_text": "@NQtrader11 Makes no sense at all",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to another user with no price mentioned and no actionable level named."
     }
   ]
 }
