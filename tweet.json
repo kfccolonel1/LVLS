@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-28T13:24:44.390325+00:00",
-  "fetched_at_est": "2026-08-28T09:24:44.390328-04:00",
-  "last_new_level_added_at_est": "2026-08-28T09:03:46-04:00",
+  "fetched_at_utc": "2026-08-28T14:14:53.452845+00:00",
+  "fetched_at_est": "2026-08-28T10:14:53.452852-04:00",
+  "last_new_level_added_at_est": "2026-08-28T10:05:11-04:00",
   "todays_new_levels": [
     {
       "price": 7779.0,
@@ -18,6 +18,13 @@
       "added_at_est": "2026-08-28T09:03:46-04:00",
       "expires_at_est": "2026-08-28T17:03:46-04:00",
       "from_tweet_id": "2093323657334382742"
+    },
+    {
+      "price": 7714.0,
+      "side": "bear",
+      "added_at_est": "2026-08-28T10:05:11-04:00",
+      "expires_at_est": "2026-08-28T18:05:11-04:00",
+      "from_tweet_id": "2093339111067131926"
     }
   ],
   "updates": [
@@ -100,6 +107,18 @@
       ],
       "added_bear_levels": [],
       "notes": "7734 named explicitly as support \u2014 not in morning plan. 7714, 7758, 7771, 7797 are all morning-plan levels; 7733/7745 are observed hits, not new levels."
+    },
+    {
+      "tweet_id": "2093339111067131926",
+      "timestamp_utc": "2026-08-28T14:05:11.000Z",
+      "timestamp_est": "2026-08-28T10:05:11-04:00",
+      "tweet_text": "High precision technicals today in #ES_F: 7714 broke out and that means charting 101, we just rally. Targets were 7733 (hit), 7745 (hit), 7758 (just hit, and dipped). 7771, then 7797 remain above still.\n\n7734, 7714 (watch traps of both) are supports https://t.co/UHwzWGUtfm",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7734.0,
+        7714.0
+      ],
+      "notes": "7734 and 7714 explicitly named as supports to 'watch traps of both' \u2014 actionable new bear/support levels not in morning plan."
     }
   ]
 }
