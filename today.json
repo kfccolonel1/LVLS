@@ -1,17 +1,24 @@
 {
-  "session_date": "2026-08-28",
+  "session_date": "2026-08-31",
   "daily_pivot": 7714.0,
-  "regime_hint": "C3",
+  "regime_hint": "C1",
   "significant_lows": [
     7714.0,
+    7704.0,
     7671.0,
     7658.0,
-    7649.0,
     7637.0,
-    7627.0,
-    7612.0
+    7627.0
   ],
   "bull_levels": [
+    {
+      "price": 7736.0,
+      "major": true
+    },
+    {
+      "price": 7745.0,
+      "major": true
+    },
     {
       "price": 7758.0,
       "major": true
@@ -29,7 +36,7 @@
       "major": true
     },
     {
-      "price": 7836.0,
+      "price": 7828.0,
       "major": true
     },
     {
@@ -37,15 +44,19 @@
       "major": true
     },
     {
-      "price": 7874.0,
+      "price": 7877.0,
       "major": true
     },
     {
-      "price": 7889.0,
+      "price": 7917.0,
       "major": true
     },
     {
-      "price": 7930.0,
+      "price": 7932.0,
+      "major": true
+    },
+    {
+      "price": 7987.0,
       "major": true
     }
   ],
@@ -67,10 +78,6 @@
       "major": true
     },
     {
-      "price": 7649.0,
-      "major": true
-    },
-    {
       "price": 7627.0,
       "major": true
     },
@@ -79,15 +86,15 @@
       "major": true
     },
     {
-      "price": 7592.0,
+      "price": 7567.0,
       "major": true
     },
     {
-      "price": 7566.0,
+      "price": 7548.0,
       "major": true
     },
     {
-      "price": 7516.0,
+      "price": 7518.0,
       "major": true
     },
     {
@@ -99,7 +106,7 @@
       "major": true
     },
     {
-      "price": 7444.0,
+      "price": 7458.0,
       "major": true
     },
     {
@@ -107,12 +114,16 @@
       "major": true
     },
     {
-      "price": 7398.0,
+      "price": 7401.0,
+      "major": true
+    },
+    {
+      "price": 7382.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish after Nvidia earnings broke ES out of the 7659-7714 range. He plans to buy dips, focusing on failed breakdowns at key supports below. The key pivot is 7714: above it, bulls stay in control and the targets are 7758, 7771, and 7797; below 7659, bears take over and a breakdown short becomes possible. He holds a runner from earlier in the week and sees few quality new entries from current levels.",
-  "fetched_at": "2026-08-28T15:05:07.036705+00:00"
+  "notes": "Trader leans bullish after a post-Nvidia breakout above the 7659-7714 range. He is holding a runner from Friday and will look to buy dips via failed-breakdown setups, targeting 7758, 7771, and 7797. The key pivot is 7714: above it the bull case stays intact and higher targets are in play; below 7659 the bear case opens for a potential breakdown short toward lower supports.",
+  "fetched_at": "2026-08-31T02:19:31.895606+00:00"
 }
