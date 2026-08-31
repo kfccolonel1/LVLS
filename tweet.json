@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T14:30:26.714603+00:00",
-  "fetched_at_est": "2026-08-31T10:30:26.714609-04:00",
-  "last_new_level_added_at_est": "2026-08-31T07:58:07-04:00",
+  "fetched_at_utc": "2026-08-31T14:36:15.783640+00:00",
+  "fetched_at_est": "2026-08-31T10:36:15.783645-04:00",
+  "last_new_level_added_at_est": "2026-08-31T10:31:52-04:00",
   "todays_new_levels": [
     {
       "price": 7728.0,
@@ -11,6 +11,13 @@
       "added_at_est": "2026-08-31T07:58:07-04:00",
       "expires_at_est": "2026-08-31T15:58:07-04:00",
       "from_tweet_id": "2094394299718775209"
+    },
+    {
+      "price": 7684.0,
+      "side": "bull",
+      "added_at_est": "2026-08-31T10:31:52-04:00",
+      "expires_at_est": "2026-08-31T18:31:52-04:00",
+      "from_tweet_id": "2094432993242702098"
     }
   ],
   "updates": [
@@ -97,6 +104,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with no explicit price named; 'around here' is vague, no actionable level with naming language."
+    },
+    {
+      "tweet_id": "2094432993242702098",
+      "timestamp_utc": "2026-08-31T14:31:52.000Z",
+      "timestamp_est": "2026-08-31T10:31:52-04:00",
+      "tweet_text": "Note: Recoveries of 7684 overnight low are also actionable now but make sure we have some momentum. Rest of newsletter entries still apply and there are many in this region",
+      "added_bull_levels": [
+        7684.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7684 named as actionable recovery level (overnight low) with explicit entry guidance \u2014 not in morning plan; qualifies as new actionable bull level."
     }
   ]
 }
