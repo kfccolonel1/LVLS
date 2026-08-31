@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T18:01:13.740245+00:00",
-  "fetched_at_est": "2026-08-31T14:01:13.740309-04:00",
+  "fetched_at_utc": "2026-08-31T18:51:27.840086+00:00",
+  "fetched_at_est": "2026-08-31T14:51:27.840096-04:00",
   "last_new_level_added_at_est": "2026-08-31T10:31:52-04:00",
   "todays_new_levels": [
     {
@@ -162,6 +162,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7685, 7704, 7714, 7695) are morning-plan levels or casual refs; 7695 lock-gains is trade management, not a new actionable level."
+    },
+    {
+      "tweet_id": "2094498017826984065",
+      "timestamp_utc": "2026-08-31T18:50:15.000Z",
+      "timestamp_est": "2026-08-31T14:50:15-04:00",
+      "tweet_text": "Closing Update/Note: Newsletter was sent out early due to the low volatility. We got to 7695 1st profit take (where I warned to lock gains) then rejected. 7704 is next if ES wants more, then 7714. 7671 is below",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7695, 7704, 7714, 7671) are in the morning plan. Tweet is a reaffirmation/closing update with no newly named actionable levels."
+    },
+    {
+      "tweet_id": "2094498147187691821",
+      "timestamp_utc": "2026-08-31T18:50:46.000Z",
+      "timestamp_est": "2026-08-31T14:50:46-04:00",
+      "tweet_text": "@schwartzaman @tradivate Likely after Labor Day weekend. Usually we get bearish September seasonality which should bring back volatility",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about seasonal volatility expectations; no price levels named or actionable entries/exits mentioned."
     }
   ]
 }
