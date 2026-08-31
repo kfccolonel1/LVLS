@@ -1,10 +1,32 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T04:10:47.270348+00:00",
-  "fetched_at_est": "2026-08-31T00:10:47.270352-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-08-31T12:01:39.858399+00:00",
+  "fetched_at_est": "2026-08-31T08:01:39.858405-04:00",
+  "last_new_level_added_at_est": "2026-08-31T07:58:07-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7728.0,
+      "side": "bull",
+      "added_at_est": "2026-08-31T07:58:07-04:00",
+      "expires_at_est": "2026-08-31T15:58:07-04:00",
+      "from_tweet_id": "2094394299718775209"
+    },
+    {
+      "price": 7736.0,
+      "side": "bull",
+      "added_at_est": "2026-08-31T07:58:07-04:00",
+      "expires_at_est": "2026-08-31T15:58:07-04:00",
+      "from_tweet_id": "2094394299718775209"
+    },
+    {
+      "price": 7671.0,
+      "side": "bear",
+      "added_at_est": "2026-08-31T07:58:07-04:00",
+      "expires_at_est": "2026-08-31T15:58:07-04:00",
+      "from_tweet_id": "2094394299718775209"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2094144157543510276",
@@ -23,6 +45,20 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price levels mentioned; pure conversational response, nothing actionable."
+    },
+    {
+      "tweet_id": "2094394299718775209",
+      "timestamp_utc": "2026-08-31T11:58:07.000Z",
+      "timestamp_est": "2026-08-31T07:58:07-04:00",
+      "tweet_text": "We remain in slow, rangebound chop in #ES_F and its all about 7704/7714 per newsletter. Last evening, we lost 7704 down 7685. We recovered 7704 (Failed Breakdown), ripped to 7714+, dipped\n\nPlan: 7704=weak support. 7714 reclaim now sees 7728, 7736+. 7695, 7671 are supports below https://t.co/KI8Bh47qm0",
+      "added_bull_levels": [
+        7728.0,
+        7736.0
+      ],
+      "added_bear_levels": [
+        7671.0
+      ],
+      "notes": "7728 and 7736 named as explicit upside targets on 7714 reclaim; 7671 named as support below \u2014 none of these are in today's morning plan."
     }
   ]
 }
