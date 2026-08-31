@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T12:11:44.538951+00:00",
-  "fetched_at_est": "2026-08-31T08:11:44.538955-04:00",
+  "fetched_at_utc": "2026-08-31T12:31:49.790816+00:00",
+  "fetched_at_est": "2026-08-31T08:31:49.790820-04:00",
   "last_new_level_added_at_est": "2026-08-31T07:58:07-04:00",
   "todays_new_levels": [
     {
@@ -68,6 +68,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7704 is a clarification/reaffirmation of a newsletter FBD trade already active; no new actionable level introduced for the first time here."
+    },
+    {
+      "tweet_id": "2094400516298018934",
+      "timestamp_utc": "2026-08-31T12:22:49.000Z",
+      "timestamp_est": "2026-08-31T08:22:49-04:00",
+      "tweet_text": "@mblcta1 @DavidDa41048475 Yes, or can tighten up the stop too, as long as the stop goes below a nearby low and isnt randomly placed",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about stop placement strategy only; no price named, purely trade management advice."
     }
   ]
 }
