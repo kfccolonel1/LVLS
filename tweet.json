@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T13:21:08.451248+00:00",
-  "fetched_at_est": "2026-08-31T09:21:08.451251-04:00",
-  "last_new_level_added_at_est": "2026-08-31T09:19:26-04:00",
+  "fetched_at_utc": "2026-08-31T14:20:18.556274+00:00",
+  "fetched_at_est": "2026-08-31T10:20:18.556278-04:00",
+  "last_new_level_added_at_est": "2026-08-31T07:58:07-04:00",
   "todays_new_levels": [
     {
       "price": 7728.0,
@@ -11,34 +11,6 @@
       "added_at_est": "2026-08-31T07:58:07-04:00",
       "expires_at_est": "2026-08-31T15:58:07-04:00",
       "from_tweet_id": "2094394299718775209"
-    },
-    {
-      "price": 7736.0,
-      "side": "bull",
-      "added_at_est": "2026-08-31T07:58:07-04:00",
-      "expires_at_est": "2026-08-31T15:58:07-04:00",
-      "from_tweet_id": "2094394299718775209"
-    },
-    {
-      "price": 7671.0,
-      "side": "bear",
-      "added_at_est": "2026-08-31T07:58:07-04:00",
-      "expires_at_est": "2026-08-31T15:58:07-04:00",
-      "from_tweet_id": "2094394299718775209"
-    },
-    {
-      "price": 7704.0,
-      "side": "bull",
-      "added_at_est": "2026-08-31T09:19:26-04:00",
-      "expires_at_est": "2026-08-31T17:19:26-04:00",
-      "from_tweet_id": "2094414763853836578"
-    },
-    {
-      "price": 7714.0,
-      "side": "bull",
-      "added_at_est": "2026-08-31T09:19:26-04:00",
-      "expires_at_est": "2026-08-31T17:19:26-04:00",
-      "from_tweet_id": "2094414763853836578"
     }
   ],
   "updates": [
@@ -107,6 +79,15 @@
         7671.0
       ],
       "notes": "7704 recovery trigger, 7714 key reclaim, 7728/7736 targets, and 7671 support are newly named actionable levels not in morning plan."
+    },
+    {
+      "tweet_id": "2094429335566316022",
+      "timestamp_utc": "2026-08-31T14:17:20.000Z",
+      "timestamp_est": "2026-08-31T10:17:20-04:00",
+      "tweet_text": "Slow, grinding action in #ES_F again. In order to rally today bulls need to two things as posted: 1) Recover 7704 which takes us to the 7714 bull/bear line (we already got this trade once) 2) 7714 must recover to squeeze.\n\n7695 was weak as posted, and we dipped below. 7671 under https://t.co/ueflpwMghF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7704, 7714, 7695, 7671) are in the morning plan. Tweet is a reaffirmation of existing levels with trade observation, no new actionable levels."
     }
   ]
 }
