@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T18:51:27.840086+00:00",
-  "fetched_at_est": "2026-08-31T14:51:27.840096-04:00",
+  "fetched_at_utc": "2026-08-31T19:01:36.332756+00:00",
+  "fetched_at_est": "2026-08-31T15:01:36.332775-04:00",
   "last_new_level_added_at_est": "2026-08-31T10:31:52-04:00",
   "todays_new_levels": [
     {
@@ -180,6 +180,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about seasonal volatility expectations; no price levels named or actionable entries/exits mentioned."
+    },
+    {
+      "tweet_id": "2094499301095285042",
+      "timestamp_utc": "2026-08-31T18:55:21.000Z",
+      "timestamp_est": "2026-08-31T14:55:21-04:00",
+      "tweet_text": "@kpsardar That's fine - there's no rule saying it has to backtest in a given time period. We just know it will backtest",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user with general commentary about backtesting timing; no price level named or actionable instruction given."
+    },
+    {
+      "tweet_id": "2094499527596089695",
+      "timestamp_utc": "2026-08-31T18:56:15.000Z",
+      "timestamp_est": "2026-08-31T14:56:15-04:00",
+      "tweet_text": "@tradivate @ForeRight26 @RobyArnoldi The non-acceptance protocol is what gauges momentum, but momentum just means price moving. You should feel like you are chasing in the best trades. But in this environment its very slow so we will rarely see that",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading methodology and market environment; no prices or actionable levels mentioned at all."
     }
   ]
 }
