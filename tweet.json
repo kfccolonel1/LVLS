@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T19:11:42.505535+00:00",
-  "fetched_at_est": "2026-08-31T15:11:42.505538-04:00",
+  "fetched_at_utc": "2026-08-31T19:31:46.156707+00:00",
+  "fetched_at_est": "2026-08-31T15:31:46.156713-04:00",
   "last_new_level_added_at_est": "2026-08-31T10:31:52-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094144157543510276",
-      "timestamp_utc": "2026-08-30T19:24:09.000Z",
-      "timestamp_est": "2026-08-30T15:24:09-04:00",
-      "tweet_text": "Your ability to profit as a day trader &amp; exploit an edge is directly proportionate to your ability to ignore noise.  For me it means waiting on and reacting to 1 pattern, 1 market (nothing on my watch list), 1 trade mgmt system, total blinders to all else. No macro, no predicting",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure philosophical/motivational commentary on trading discipline. No prices, levels, or actionable setups mentioned whatsoever."
-    },
     {
       "tweet_id": "2094208438943592649",
       "timestamp_utc": "2026-08-30T23:39:35.000Z",
