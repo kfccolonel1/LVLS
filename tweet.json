@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T12:31:49.790816+00:00",
-  "fetched_at_est": "2026-08-31T08:31:49.790820-04:00",
-  "last_new_level_added_at_est": "2026-08-31T07:58:07-04:00",
+  "fetched_at_utc": "2026-08-31T13:21:07.647830+00:00",
+  "fetched_at_est": "2026-08-31T09:21:07.647834-04:00",
+  "last_new_level_added_at_est": "2026-08-31T09:19:26-04:00",
   "todays_new_levels": [
     {
       "price": 7728.0,
@@ -25,6 +25,20 @@
       "added_at_est": "2026-08-31T07:58:07-04:00",
       "expires_at_est": "2026-08-31T15:58:07-04:00",
       "from_tweet_id": "2094394299718775209"
+    },
+    {
+      "price": 7704.0,
+      "side": "bull",
+      "added_at_est": "2026-08-31T09:19:26-04:00",
+      "expires_at_est": "2026-08-31T17:19:26-04:00",
+      "from_tweet_id": "2094414763853836578"
+    },
+    {
+      "price": 7714.0,
+      "side": "bull",
+      "added_at_est": "2026-08-31T09:19:26-04:00",
+      "expires_at_est": "2026-08-31T17:19:26-04:00",
+      "from_tweet_id": "2094414763853836578"
     }
   ],
   "updates": [
@@ -77,6 +91,22 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply about stop placement strategy only; no price named, purely trade management advice."
+    },
+    {
+      "tweet_id": "2094414763853836578",
+      "timestamp_utc": "2026-08-31T13:19:26.000Z",
+      "timestamp_est": "2026-08-31T09:19:26-04:00",
+      "tweet_text": "No volatility now in #ES_F (do not over-trade or force trades when there is chop) but levels respecting well. Today is all about 7714 which has to recover to rally to 7728, 7736+. \n\n7695 support and we keep defending, but its weak now. 7704 recover now takes us to 7714. 7671 https://t.co/OPJvfg7QwP",
+      "added_bull_levels": [
+        7704.0,
+        7714.0,
+        7728.0,
+        7736.0
+      ],
+      "added_bear_levels": [
+        7671.0
+      ],
+      "notes": "7704 recovery trigger, 7714 key reclaim, 7728/7736 rally targets, and 7671 bear level all named as actionable for first time; not in morning plan."
     }
   ]
 }
