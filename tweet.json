@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-08-31T13:21:07.647830+00:00",
-  "fetched_at_est": "2026-08-31T09:21:07.647834-04:00",
+  "fetched_at_utc": "2026-08-31T13:21:08.451248+00:00",
+  "fetched_at_est": "2026-08-31T09:21:08.451251-04:00",
   "last_new_level_added_at_est": "2026-08-31T09:19:26-04:00",
   "todays_new_levels": [
     {
@@ -106,7 +106,7 @@
       "added_bear_levels": [
         7671.0
       ],
-      "notes": "7704 recovery trigger, 7714 key reclaim, 7728/7736 rally targets, and 7671 bear level all named as actionable for first time; not in morning plan."
+      "notes": "7704 recovery trigger, 7714 key reclaim, 7728/7736 targets, and 7671 support are newly named actionable levels not in morning plan."
     }
   ]
 }
