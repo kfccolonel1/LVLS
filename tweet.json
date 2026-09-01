@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T17:45:43.130872+00:00",
-  "fetched_at_est": "2026-09-01T13:45:43.130883-04:00",
+  "fetched_at_utc": "2026-09-01T17:55:45.814156+00:00",
+  "fetched_at_est": "2026-09-01T13:55:45.814163-04:00",
   "last_new_level_added_at_est": "2026-09-01T13:07:14-04:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094483724163260577",
-      "timestamp_utc": "2026-08-31T17:53:28.000Z",
-      "timestamp_est": "2026-08-31T13:53:28-04:00",
-      "tweet_text": "@tradivate Have to just get used to sitting in trades sometimes for 12hrs to have it go one level then fail. Justt he reality of it!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trade management psychology; no price levels named or actionable signals given."
-    },
-    {
-      "tweet_id": "2094484007522021841",
-      "timestamp_utc": "2026-08-31T17:54:35.000Z",
-      "timestamp_est": "2026-08-31T13:54:35-04:00",
-      "tweet_text": "Ungluing a little from 7685 in #ES_F but volatility remains very low. As posted, recoveries of 7685 take us to 7704, 7714+. Given the total lack of volatility though, I would lock some gains here at 7695 if you have them to be safe.\n\n7714 must recover to sustain any proper rally https://t.co/OjKZ6Idt98",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7685, 7704, 7714, 7695) are morning-plan levels or casual refs; 7695 lock-gains is trade management, not a new actionable level."
-    },
     {
       "tweet_id": "2094498017826984065",
       "timestamp_utc": "2026-08-31T18:50:15.000Z",
