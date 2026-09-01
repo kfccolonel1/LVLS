@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T18:56:14.962911+00:00",
-  "fetched_at_est": "2026-09-01T14:56:14.962914-04:00",
+  "fetched_at_utc": "2026-09-01T19:06:24.643518+00:00",
+  "fetched_at_est": "2026-09-01T15:06:24.643527-04:00",
   "last_new_level_added_at_est": "2026-09-01T13:07:14-04:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094499527596089695",
-      "timestamp_utc": "2026-08-31T18:56:15.000Z",
-      "timestamp_est": "2026-08-31T14:56:15-04:00",
-      "tweet_text": "@tradivate @ForeRight26 @RobyArnoldi The non-acceptance protocol is what gauges momentum, but momentum just means price moving. You should feel like you are chasing in the best trades. But in this environment its very slow so we will rarely see that",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading methodology and market environment; no prices or actionable levels mentioned at all."
-    },
-    {
-      "tweet_id": "2094501308820566526",
-      "timestamp_utc": "2026-08-31T19:03:20.000Z",
-      "timestamp_est": "2026-08-31T15:03:20-04:00",
-      "tweet_text": "@amorem23 We'll see if we can make it back to 7704! In normal volatility would be basically a certainty off something like that 84 failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7704 is already in morning plan; comment is conversational speculation about a retest, not a new actionable level declaration."
-    },
     {
       "tweet_id": "2094510999231467774",
       "timestamp_utc": "2026-08-31T19:41:51.000Z",
@@ -293,6 +275,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply pointing to a newsletter link with no price levels named or actionable language present."
+    },
+    {
+      "tweet_id": "2094862178989855041",
+      "timestamp_utc": "2026-09-01T18:57:18.000Z",
+      "timestamp_est": "2026-09-01T14:57:18-04:00",
+      "tweet_text": "Closing update #ES_F: Newsletter was sent early as numerous entries are available in this 7634/37 zone. Bulls need to recover this to rally to 7649, 7659+ again. Bears control &lt;7714 (this means bounces will typically go 1-2 or levels for multiple trades, before a big 100+ point",
+      "added_bull_levels": [
+        7649.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7649 is named as a new rally target not in the morning plan; 7634/37, 7659, 7714 are all existing morning-plan levels."
+    },
+    {
+      "tweet_id": "2094862727369949565",
+      "timestamp_utc": "2026-09-01T18:59:29.000Z",
+      "timestamp_est": "2026-09-01T14:59:29-04:00",
+      "tweet_text": "@305HRHitter @TheHealingTrade Many of my levels are trendlines so they change day to day. A declining trendline support will be lower the following day",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trendline mechanics; no specific price named, no actionable level, purely educational/conversational."
     }
   ]
 }
