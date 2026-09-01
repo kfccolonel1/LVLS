@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T18:46:06.707659+00:00",
-  "fetched_at_est": "2026-09-01T14:46:06.707671-04:00",
+  "fetched_at_utc": "2026-09-01T18:56:14.962911+00:00",
+  "fetched_at_est": "2026-09-01T14:56:14.962914-04:00",
   "last_new_level_added_at_est": "2026-09-01T13:07:14-04:00",
   "todays_new_levels": [
     {
@@ -35,33 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094498017826984065",
-      "timestamp_utc": "2026-08-31T18:50:15.000Z",
-      "timestamp_est": "2026-08-31T14:50:15-04:00",
-      "tweet_text": "Closing Update/Note: Newsletter was sent out early due to the low volatility. We got to 7695 1st profit take (where I warned to lock gains) then rejected. 7704 is next if ES wants more, then 7714. 7671 is below",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7695, 7704, 7714, 7671) are in the morning plan. Tweet is a reaffirmation/closing update with no newly named actionable levels."
-    },
-    {
-      "tweet_id": "2094498147187691821",
-      "timestamp_utc": "2026-08-31T18:50:46.000Z",
-      "timestamp_est": "2026-08-31T14:50:46-04:00",
-      "tweet_text": "@schwartzaman @tradivate Likely after Labor Day weekend. Usually we get bearish September seasonality which should bring back volatility",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about seasonal volatility expectations; no price levels named or actionable entries/exits mentioned."
-    },
-    {
-      "tweet_id": "2094499301095285042",
-      "timestamp_utc": "2026-08-31T18:55:21.000Z",
-      "timestamp_est": "2026-08-31T14:55:21-04:00",
-      "tweet_text": "@kpsardar That's fine - there's no rule saying it has to backtest in a given time period. We just know it will backtest",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user with general commentary about backtesting timing; no price level named or actionable instruction given."
-    },
     {
       "tweet_id": "2094499527596089695",
       "timestamp_utc": "2026-08-31T18:56:15.000Z",
@@ -311,6 +284,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management explanation (entry, runner, stops below recent low). No price cited, no actionable level named."
+    },
+    {
+      "tweet_id": "2094860198716297313",
+      "timestamp_utc": "2026-09-01T18:49:26.000Z",
+      "timestamp_est": "2026-09-01T14:49:26-04:00",
+      "tweet_text": "@TheHealingTrade That was discussed in the newsletter that was just sent out: https://t.co/Ee2jn6SHTa",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply pointing to a newsletter link with no price levels named or actionable language present."
     }
   ]
 }
