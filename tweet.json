@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T16:15:16.946840+00:00",
-  "fetched_at_est": "2026-09-01T12:15:16.946852-04:00",
+  "fetched_at_utc": "2026-09-01T16:55:22.460415+00:00",
+  "fetched_at_est": "2026-09-01T12:55:22.460421-04:00",
   "last_new_level_added_at_est": "2026-09-01T10:33:26-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094469088646996433",
-      "timestamp_utc": "2026-08-31T16:55:18.000Z",
-      "timestamp_est": "2026-08-31T12:55:18-04:00",
-      "tweet_text": "No volatility at all in #ES_F and little to do here. We are glued to 7684 now for 2+hrs which is the major low from last evening. Recoveries here take us to 7704, 7714+. Bears control below 7714 which means bounces will struggle. Aggressively take profits at the lvls in https://t.co/DuMahnDsq0",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7684 is an observation of price action (major low from last evening), and 7704/7714 are morning plan levels. No genuinely new actionable levels introduced."
-    },
     {
       "tweet_id": "2094483724163260577",
       "timestamp_utc": "2026-08-31T17:53:28.000Z",
