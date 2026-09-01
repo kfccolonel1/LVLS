@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T14:24:36.298236+00:00",
-  "fetched_at_est": "2026-09-01T10:24:36.298242-04:00",
-  "last_new_level_added_at_est": "2026-09-01T07:59:55-04:00",
+  "fetched_at_utc": "2026-09-01T14:34:43.468364+00:00",
+  "fetched_at_est": "2026-09-01T10:34:43.468370-04:00",
+  "last_new_level_added_at_est": "2026-09-01T10:33:26-04:00",
   "todays_new_levels": [
     {
       "price": 7695.0,
@@ -18,20 +18,16 @@
       "added_at_est": "2026-09-01T07:59:55-04:00",
       "expires_at_est": "2026-09-01T15:59:55-04:00",
       "from_tweet_id": "2094757138291700095"
+    },
+    {
+      "price": 7704.0,
+      "side": "bull",
+      "added_at_est": "2026-09-01T10:33:26-04:00",
+      "expires_at_est": "2026-09-01T18:33:26-04:00",
+      "from_tweet_id": "2094795774701793430"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094432993242702098",
-      "timestamp_utc": "2026-08-31T14:31:52.000Z",
-      "timestamp_est": "2026-08-31T10:31:52-04:00",
-      "tweet_text": "Note: Recoveries of 7684 overnight low are also actionable now but make sure we have some momentum. Rest of newsletter entries still apply and there are many in this region",
-      "added_bull_levels": [
-        7684.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7684 named as actionable recovery level (overnight low) with explicit entry guidance \u2014 not in morning plan; qualifies as new actionable bull level."
-    },
     {
       "tweet_id": "2094444104268624213",
       "timestamp_utc": "2026-08-31T15:16:02.000Z",
@@ -221,6 +217,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7714, 7659, 7671, 7684, 7637, 7628) are in the morning plan or are observations/reaffirmations. 7695 is directional extension commentary, not explicitly named as a new actionable level."
+    },
+    {
+      "tweet_id": "2094795774701793430",
+      "timestamp_utc": "2026-09-01T14:33:26.000Z",
+      "timestamp_est": "2026-09-01T10:33:26-04:00",
+      "tweet_text": "Good level to level move in #ES_F. Today, bulls had to recover 7659 to see a pop to 7671. We recovered 7659, and ran to 7671 just now. Protect your gains aggressively here. 7684, 7695, then 7704+ next.\n\n7714 must recover for bulls to regain full control. Same supports https://t.co/mHuWsU6W2z",
+      "added_bull_levels": [
+        7695.0,
+        7704.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7695 and 7704 named as next upside targets not in morning plan; 7659/7671/7684/7714 are reaffirmations of existing plan levels."
     }
   ]
 }
