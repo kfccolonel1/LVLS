@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T14:34:43.468364+00:00",
-  "fetched_at_est": "2026-09-01T10:34:43.468370-04:00",
+  "fetched_at_utc": "2026-09-01T15:04:52.405540+00:00",
+  "fetched_at_est": "2026-09-01T11:04:52.405546-04:00",
   "last_new_level_added_at_est": "2026-09-01T10:33:26-04:00",
   "todays_new_levels": [
     {
@@ -229,6 +229,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7695 and 7704 named as next upside targets not in morning plan; 7659/7671/7684/7714 are reaffirmations of existing plan levels."
+    },
+    {
+      "tweet_id": "2094802823917527417",
+      "timestamp_utc": "2026-09-01T15:01:27.000Z",
+      "timestamp_est": "2026-09-01T11:01:27-04:00",
+      "tweet_text": "@Brian_Keith_Pho Waited for 59 to recover. That si where the shelf of lows is",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual reply referencing '59' (likely 7459 or similar) as an observation of price action/shelf of lows \u2014 no explicit actionable naming language, no new level introduced."
     }
   ]
 }
