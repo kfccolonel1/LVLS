@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T12:13:50.132285+00:00",
-  "fetched_at_est": "2026-09-01T08:13:50.132297-04:00",
+  "fetched_at_utc": "2026-09-01T12:23:52.754024+00:00",
+  "fetched_at_est": "2026-09-01T08:23:52.754030-04:00",
   "last_new_level_added_at_est": "2026-09-01T07:59:55-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094400516298018934",
-      "timestamp_utc": "2026-08-31T12:22:49.000Z",
-      "timestamp_est": "2026-08-31T08:22:49-04:00",
-      "tweet_text": "@mblcta1 @DavidDa41048475 Yes, or can tighten up the stop too, as long as the stop goes below a nearby low and isnt randomly placed",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about stop placement strategy only; no price named, purely trade management advice."
-    },
     {
       "tweet_id": "2094414763853836578",
       "timestamp_utc": "2026-08-31T13:19:26.000Z",
