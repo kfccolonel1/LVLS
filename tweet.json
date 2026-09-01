@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T19:06:24.643518+00:00",
-  "fetched_at_est": "2026-09-01T15:06:24.643527-04:00",
+  "fetched_at_utc": "2026-09-01T19:46:29.794377+00:00",
+  "fetched_at_est": "2026-09-01T15:46:29.794383-04:00",
   "last_new_level_added_at_est": "2026-09-01T13:07:14-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094510999231467774",
-      "timestamp_utc": "2026-08-31T19:41:51.000Z",
-      "timestamp_est": "2026-08-31T15:41:51-04:00",
-      "tweet_text": "@ES_Money_Print @tradivate The 84 failed breakdown was a good trade and never invalidated by losing the low. Its just been slow. Should see 7704 hopefully",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7704 is already in the morning plan; reference to 84 failed breakdown is trade management/observation, no new actionable levels named."
-    },
     {
       "tweet_id": "2094757138291700095",
       "timestamp_utc": "2026-09-01T11:59:55.000Z",
