@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T13:34:18.726491+00:00",
-  "fetched_at_est": "2026-09-01T09:34:18.726497-04:00",
+  "fetched_at_utc": "2026-09-01T13:54:31.043601+00:00",
+  "fetched_at_est": "2026-09-01T09:54:31.043616-04:00",
   "last_new_level_added_at_est": "2026-09-01T07:59:55-04:00",
   "todays_new_levels": [
     {
@@ -221,6 +221,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a conversational reply with no price levels, no actionable language, and no market content whatsoever."
+    },
+    {
+      "tweet_id": "2094784326495879353",
+      "timestamp_utc": "2026-09-01T13:47:57.000Z",
+      "timestamp_est": "2026-09-01T09:47:57-04:00",
+      "tweet_text": "@OnTheHooch @atlasbtcgrowth Have to just seperate all those thoughts from execution. When I am trading I am not thinking of seasonality or bear cases or anything but my next entry. Nothing else is relevant",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading psychology/mindset. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2094785010515460317",
+      "timestamp_utc": "2026-09-01T13:50:40.000Z",
+      "timestamp_est": "2026-09-01T09:50:40-04:00",
+      "tweet_text": "Action slowing again in #ES_F as we are stuck around 7649 support. As posted, bears retain control &lt;7714 so bounces will typically struggle until that clears. No change: 7659 must reclaim now to run to 7671, 7684, 7695+\n\n7637, 7628 below if the grind down continues https://t.co/ARQxfbPqHh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7714, 7659, 7671, 7684, 7637, 7628) are in the morning plan or are observations/reaffirmations. 7695 is directional extension commentary, not explicitly named as a new actionable level."
     }
   ]
 }
