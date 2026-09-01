@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T17:55:45.814156+00:00",
-  "fetched_at_est": "2026-09-01T13:55:45.814163-04:00",
+  "fetched_at_utc": "2026-09-01T18:46:06.707659+00:00",
+  "fetched_at_est": "2026-09-01T14:46:06.707671-04:00",
   "last_new_level_added_at_est": "2026-09-01T13:07:14-04:00",
   "todays_new_levels": [
     {
@@ -275,6 +275,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7659, 7671, 7637) are morning-plan levels. Tweet is trade recap and observation of price action, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2094857754473046147",
+      "timestamp_utc": "2026-09-01T18:39:43.000Z",
+      "timestamp_est": "2026-09-01T14:39:43-04:00",
+      "tweet_text": "@Trevormiles16 It got to 49 first up, but when bears control thats fairly normal. One or two levels follow through, then a big squeeze",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining normal bear-market price action; '49' is a casual reference to morning-plan level 7499, no actionable new level named."
+    },
+    {
+      "tweet_id": "2094858022556155964",
+      "timestamp_utc": "2026-09-01T18:40:47.000Z",
+      "timestamp_est": "2026-09-01T14:40:47-04:00",
+      "tweet_text": "Volatility slightly better today but still slow. 2 trades so far: 7659 reclaim this morning. 7671 was target where I warned take profits aggressively. We dipped there. 7637 trap was 2nd. This only got to 7649 1st up, before dipping. Bears retain control&lt;7714\n\n37 reclaims to rally https://t.co/hqq5y9tX3G",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7659, 7671, 7637, 7649, 7714) are either morning-plan levels or observations of price action/trade outcomes. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2094858560249180552",
+      "timestamp_utc": "2026-09-01T18:42:56.000Z",
+      "timestamp_est": "2026-09-01T14:42:56-04:00",
+      "tweet_text": "@DavidDa41048475 Been a good session! Still slow but at least range expansion",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about session quality and range expansion; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2094859065838936539",
+      "timestamp_utc": "2026-09-01T18:44:56.000Z",
+      "timestamp_est": "2026-09-01T14:44:56-04:00",
+      "tweet_text": "@TheHealingTrade Its always the same for me so never changes. Take entry, manage level to level, leave runner. All runners stop out by definition, and stops go below the recent low as of entry.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management explanation (entry, runner, stops below recent low). No price cited, no actionable level named."
     }
   ]
 }
