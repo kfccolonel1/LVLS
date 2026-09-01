@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T15:14:58.320601+00:00",
-  "fetched_at_est": "2026-09-01T11:14:58.320606-04:00",
+  "fetched_at_utc": "2026-09-01T15:25:01.089561+00:00",
+  "fetched_at_est": "2026-09-01T11:25:01.089565-04:00",
   "last_new_level_added_at_est": "2026-09-01T10:33:26-04:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094444104268624213",
-      "timestamp_utc": "2026-08-31T15:16:02.000Z",
-      "timestamp_est": "2026-08-31T11:16:02-04:00",
-      "tweet_text": "We are glued around the 7684 low in #ES_F. Recoveries here (be sure to use the entry criteria explained in newsletter) can take us back to 7704, 7714. Bears control below 7714 and until that recovers bounces will struggle and fizzle.\n\n7671 below (watch traps) https://t.co/DqK6ZgbF8x",
-      "added_bull_levels": [
-        7684.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7684 named as a new actionable support/watch level ('glued around the 7684 low', recoveries here as entry trigger); not in morning plan."
-    },
     {
       "tweet_id": "2094457448392172027",
       "timestamp_utc": "2026-08-31T16:09:03.000Z",
