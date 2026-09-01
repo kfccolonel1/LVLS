@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-01T12:23:52.754024+00:00",
-  "fetched_at_est": "2026-09-01T08:23:52.754030-04:00",
+  "fetched_at_utc": "2026-09-01T12:33:58.790289+00:00",
+  "fetched_at_est": "2026-09-01T08:33:58.790295-04:00",
   "last_new_level_added_at_est": "2026-09-01T07:59:55-04:00",
   "todays_new_levels": [
     {
@@ -197,6 +197,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user; no prices named, no actionable levels introduced. Commentary about trade style only."
+    },
+    {
+      "tweet_id": "2094764892079133002",
+      "timestamp_utc": "2026-09-01T12:30:43.000Z",
+      "timestamp_est": "2026-09-01T08:30:43-04:00",
+      "tweet_text": "@atlasbtcgrowth SUpport is down at 7610 now. Bears have been so weak though we can have test support of it yet",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7610 rounds to 7611 which is already in the morning plan; also phrased as casual observation ('support is down at'), not explicit actionable naming language."
     }
   ]
 }
