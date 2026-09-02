@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T18:42:34.867737+00:00",
-  "fetched_at_est": "2026-09-02T14:42:34.867743-04:00",
+  "fetched_at_utc": "2026-09-02T18:52:37.614253+00:00",
+  "fetched_at_est": "2026-09-02T14:52:37.614260-04:00",
   "last_new_level_added_at_est": "2026-09-02T10:22:14-04:00",
   "todays_new_levels": [
     {
@@ -21,33 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094858560249180552",
-      "timestamp_utc": "2026-09-01T18:42:56.000Z",
-      "timestamp_est": "2026-09-01T14:42:56-04:00",
-      "tweet_text": "@DavidDa41048475 Been a good session! Still slow but at least range expansion",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about session quality and range expansion; no price levels named or actionable signals given."
-    },
-    {
-      "tweet_id": "2094859065838936539",
-      "timestamp_utc": "2026-09-01T18:44:56.000Z",
-      "timestamp_est": "2026-09-01T14:44:56-04:00",
-      "tweet_text": "@TheHealingTrade Its always the same for me so never changes. Take entry, manage level to level, leave runner. All runners stop out by definition, and stops go below the recent low as of entry.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management explanation (entry, runner, stops below recent low). No price cited, no actionable level named."
-    },
-    {
-      "tweet_id": "2094860198716297313",
-      "timestamp_utc": "2026-09-01T18:49:26.000Z",
-      "timestamp_est": "2026-09-01T14:49:26-04:00",
-      "tweet_text": "@TheHealingTrade That was discussed in the newsletter that was just sent out: https://t.co/Ee2jn6SHTa",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply pointing to a newsletter link with no price levels named or actionable language present."
-    },
     {
       "tweet_id": "2094862178989855041",
       "timestamp_utc": "2026-09-01T18:57:18.000Z",
