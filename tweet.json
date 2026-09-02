@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T09:09:30.415298+00:00",
-  "fetched_at_est": "2026-09-02T05:09:30.415306-04:00",
+  "fetched_at_utc": "2026-09-02T11:59:51.701922+00:00",
+  "fetched_at_est": "2026-09-02T07:59:51.701927-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -257,6 +257,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trendline mechanics; no specific price named, no actionable level, purely educational/conversational."
+    },
+    {
+      "tweet_id": "2095119277372104742",
+      "timestamp_utc": "2026-09-02T11:58:55.000Z",
+      "timestamp_est": "2026-09-02T07:58:55-04:00",
+      "tweet_text": "Low still volatility in #ES_F with bears controlling under 7714 (meaning we get bounces, but most will go 1-2 levels then fail, then after several, we rip 100+ points). 7637 has been key support, here 24hrs\n\nPlan: 7637=support (just trapped). 7649, 7659, 7671+ next. 7629 fails, https://t.co/1pYdjtYjwD",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7714, 7637, 7649, 7659, 7671, 7629) are either morning-plan levels or observations of price action; 7649 is the only non-plan price but lacks explicit actionable naming language."
     }
   ]
 }
