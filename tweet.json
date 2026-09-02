@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T17:52:21.074692+00:00",
-  "fetched_at_est": "2026-09-02T13:52:21.074697-04:00",
+  "fetched_at_utc": "2026-09-02T18:12:30.411280+00:00",
+  "fetched_at_est": "2026-09-02T14:12:30.411291-04:00",
   "last_new_level_added_at_est": "2026-09-02T10:22:14-04:00",
   "todays_new_levels": [
     {
@@ -299,6 +299,26 @@
       ],
       "added_bear_levels": [],
       "notes": "7704 named as 'next stretch' target not in morning plan; 7714/7735-45 are morning plan levels; 7671/7649 are reaffirmations or observations."
+    },
+    {
+      "tweet_id": "2095212191355969882",
+      "timestamp_utc": "2026-09-02T18:08:08.000Z",
+      "timestamp_est": "2026-09-02T14:08:08-04:00",
+      "tweet_text": "@LUCIFERVALE Bull flag",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price mentioned; 'Bull flag' is a pattern observation only, no actionable level named."
+    },
+    {
+      "tweet_id": "2095212534349332978",
+      "timestamp_utc": "2026-09-02T18:09:30.000Z",
+      "timestamp_est": "2026-09-02T14:09:30-04:00",
+      "tweet_text": "Levels respecting well but volatility now gone again in #ES_F. 7637 recovery started us up with 7649, 7659, 7671, 7681 targets (all hit).\n\n7671 then became support, just defended. 7704, 7714 are next set of targets up. In order to see new lows, 7649 must fail from here https://t.co/JJYess6uJY",
+      "added_bull_levels": [
+        7704.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7704 named as next target up alongside morning-plan 7714; 7704 is not in the morning plan and is explicitly listed as a next target, qualifying as new."
     }
   ]
 }
