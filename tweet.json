@@ -1,33 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T12:50:50.714074+00:00",
-  "fetched_at_est": "2026-09-02T08:50:50.714083-04:00",
+  "fetched_at_utc": "2026-09-02T13:00:53.349273+00:00",
+  "fetched_at_est": "2026-09-02T09:00:53.349279-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2094770725911421313",
-      "timestamp_utc": "2026-09-01T12:53:54.000Z",
-      "timestamp_est": "2026-09-01T08:53:54-04:00",
-      "tweet_text": "@atlasbtcgrowth We are nowhere even remotely close to starting a downtrend in any medium term sense. We are just off all time highs, still in a 8 or 9 of 10 strength uptrend",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trend commentary, no actionable price named. No naming language, no specific level referenced."
-    },
-    {
-      "tweet_id": "2094771966511096245",
-      "timestamp_utc": "2026-09-01T12:58:50.000Z",
-      "timestamp_est": "2026-09-01T08:58:50-04:00",
-      "tweet_text": "Slight volatility pickup meant we got some trades in #ES_F. As always, more volatility=better. 7684 recovery was last entry which hit 7695, 7704 targets exact, then cycle restarts.\n\n7649=support bears control still &lt;7714. 7659 reclaim now sees 7671, 7684, 7695+. 37, 28 below https://t.co/wNjKwV9W7v",
-      "added_bull_levels": [
-        7695.0
-      ],
-      "added_bear_levels": [
-        7649.0
-      ],
-      "notes": "7695 named as a target (actionable exit level, not in morning plan); 7649 explicitly named as support. 7704 is a target but also new; however borderline\u20147695 clearest new level."
-    },
     {
       "tweet_id": "2094779560675938661",
       "timestamp_utc": "2026-09-01T13:29:01.000Z",
