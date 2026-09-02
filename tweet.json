@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T13:51:01.347136+00:00",
-  "fetched_at_est": "2026-09-02T09:51:01.347141-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-09-02T14:21:15.444210+00:00",
+  "fetched_at_est": "2026-09-02T10:21:15.444221-04:00",
+  "last_new_level_added_at_est": "2026-09-02T10:13:44-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7685.0,
+      "side": "bull",
+      "added_at_est": "2026-09-02T10:13:44-04:00",
+      "expires_at_est": "2026-09-02T18:13:44-04:00",
+      "from_tweet_id": "2095153205428515194"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2094795774701793430",
@@ -276,6 +284,36 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7637, 7649, 7659, 7671, 7629) are morning-plan levels or observations of hits/targets already published. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2095153205428515194",
+      "timestamp_utc": "2026-09-02T14:13:44.000Z",
+      "timestamp_est": "2026-09-02T10:13:44-04:00",
+      "tweet_text": "Straightforward session today in #ES_F. Traps of 37 were actionable per tweets here + newsletter yesterday. Today's targets were 7649 (hit), 7659 (hit), 7671 (3 points shy).\n\n7685 next, above which we should rip to 7704 then 7714. Above there bulls can retake control https://t.co/fHOA3y8yNc",
+      "added_bull_levels": [
+        7685.0,
+        7704.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7685 named as 'next' actionable resistance with explicit trigger logic; 7704 named as next target above it. Both are new, not in morning plan."
+    },
+    {
+      "tweet_id": "2095153460924579983",
+      "timestamp_utc": "2026-09-02T14:14:45.000Z",
+      "timestamp_est": "2026-09-02T10:14:45-04:00",
+      "tweet_text": "@upandown007 Yes I always cut 25% runners a little below break-even so I keep my profit. Then I just re-enter on the  next Failed Breakdown. Failed Breakdown's in bearish control/low volatility is a lot of price going 1 or 2 levels, then runner trailing out, then repeating as points stack up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management explanation only \u2014 describes general FBD strategy, trailing stops, and partial exits. No specific price level named or implied."
+    },
+    {
+      "tweet_id": "2095153760980914337",
+      "timestamp_utc": "2026-09-02T14:15:57.000Z",
+      "timestamp_est": "2026-09-02T10:15:57-04:00",
+      "tweet_text": "@Mcloud4004 I have a large audience but I post about something very specialized. It means a good chunk unfortunately just don't really understand what day trading is",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply about audience comprehension; no price levels mentioned or implied."
     }
   ]
 }
