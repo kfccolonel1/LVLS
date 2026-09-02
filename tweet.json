@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T16:01:54.678296+00:00",
-  "fetched_at_est": "2026-09-02T12:01:54.678302-04:00",
+  "fetched_at_utc": "2026-09-02T16:11:57.420170+00:00",
+  "fetched_at_est": "2026-09-02T12:11:57.420176-04:00",
   "last_new_level_added_at_est": "2026-09-02T10:22:14-04:00",
   "todays_new_levels": [
     {
@@ -21,18 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094819255631970617",
-      "timestamp_utc": "2026-09-01T16:06:45.000Z",
-      "timestamp_est": "2026-09-01T12:06:45-04:00",
-      "tweet_text": "Levels continue to respect. 7659 had to reclaim to trigger a rally today. We reclaimed it, and ran. Targets were 7671 (hit exact, holding so far). Next up is 7684, 7695, then 7704. 7714 must recover to ignite a sustained rip in #ES_F\n\n7659 now support https://t.co/t8AX8TLsyU",
-      "added_bull_levels": [
-        7695.0,
-        7704.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7695 and 7704 named as 'next up' targets not in morning plan; 7659/7671/7684/7714 are all existing plan levels."
-    },
     {
       "tweet_id": "2094820769372995861",
       "timestamp_utc": "2026-09-01T16:12:45.000Z",
