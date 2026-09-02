@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T17:12:15.351134+00:00",
-  "fetched_at_est": "2026-09-02T13:12:15.351141-04:00",
+  "fetched_at_utc": "2026-09-02T17:52:21.074692+00:00",
+  "fetched_at_est": "2026-09-02T13:52:21.074697-04:00",
   "last_new_level_added_at_est": "2026-09-02T10:22:14-04:00",
   "todays_new_levels": [
     {
@@ -21,33 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094843599661781343",
-      "timestamp_utc": "2026-09-01T17:43:29.000Z",
-      "timestamp_est": "2026-09-01T13:43:29-04:00",
-      "tweet_text": "@ooxx_bilibala Thats what it says in the tweet",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply to a user, no price levels named or actionable information present."
-    },
-    {
-      "tweet_id": "2094843674572038385",
-      "timestamp_utc": "2026-09-01T17:43:46.000Z",
-      "timestamp_est": "2026-09-01T13:43:46-04:00",
-      "tweet_text": "Today's targets for the 7659 reclaim were 7671, where I warned to lock in profits aggressively. We've topped out there in #ES_F so far. Bears retain control &lt;7714.\n\nWatch for recoveries of 7659 again. 7637=support (watch traps), 7628, 7611 below now https://t.co/qlL0cCWhYh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7659, 7671, 7714, 7637, 7628, 7611) are already in today's morning plan; tweet is a reaffirmation with trade management commentary."
-    },
-    {
-      "tweet_id": "2094843919464829124",
-      "timestamp_utc": "2026-09-01T17:44:45.000Z",
-      "timestamp_est": "2026-09-01T13:44:45-04:00",
-      "tweet_text": "Volatility slightly better today so we've had good trades. 1st trade was the 7659 reclaim. Target was 7671 where I warned to aggressively protect gains. We hit it, and dipped in #ES_F.\n\n7637 (low of day) was support where I posted watch traps. We just swept it. 7659, 7671+ above https://t.co/iOBfiCr9qU",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7659, 7671, 7637) are morning-plan levels. Tweet is trade recap and observation of price action, no new actionable levels named."
-    },
     {
       "tweet_id": "2094857754473046147",
       "timestamp_utc": "2026-09-01T18:39:43.000Z",
