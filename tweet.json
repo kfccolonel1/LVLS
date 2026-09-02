@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T12:40:45.014086+00:00",
-  "fetched_at_est": "2026-09-02T08:40:45.014103-04:00",
+  "fetched_at_utc": "2026-09-02T12:50:50.714074+00:00",
+  "fetched_at_est": "2026-09-02T08:50:50.714083-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -316,6 +316,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet clarifying precision of an existing level; no new actionable price named, no naming language, pure conversational context."
+    },
+    {
+      "tweet_id": "2095132250421510433",
+      "timestamp_utc": "2026-09-02T12:50:28.000Z",
+      "timestamp_est": "2026-09-02T08:50:28-04:00",
+      "tweet_text": "Good pop higher in #ES_F but volatility remains very low still. As posted, when vol is low + bearish control expect longs to go 1-2 levels, then fail for several trades. Then we typically get a 100+ point rip.\n\n7637 trapped. Targets were 7649 (hit), 7659 (hit), 7671+. Dip&lt;7629 https://t.co/A8EhsSnrHo",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7637, 7649, 7659, 7671, 7629) are morning-plan levels or observations of hits/targets already published. No new actionable levels named."
     }
   ]
 }
