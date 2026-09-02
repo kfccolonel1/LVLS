@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T13:00:53.349273+00:00",
-  "fetched_at_est": "2026-09-02T09:00:53.349279-04:00",
+  "fetched_at_utc": "2026-09-02T13:30:57.823478+00:00",
+  "fetched_at_est": "2026-09-02T09:30:57.823481-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2094779560675938661",
-      "timestamp_utc": "2026-09-01T13:29:01.000Z",
-      "timestamp_est": "2026-09-01T09:29:01-04:00",
-      "tweet_text": "@lepitapl That's not what it says, at all",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply with no price levels, no actionable language, and no market content whatsoever."
-    },
     {
       "tweet_id": "2094784326495879353",
       "timestamp_utc": "2026-09-01T13:47:57.000Z",
