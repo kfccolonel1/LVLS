@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T18:52:37.614253+00:00",
-  "fetched_at_est": "2026-09-02T14:52:37.614260-04:00",
+  "fetched_at_utc": "2026-09-02T19:02:40.194512+00:00",
+  "fetched_at_est": "2026-09-02T15:02:40.194517-04:00",
   "last_new_level_added_at_est": "2026-09-02T10:22:14-04:00",
   "todays_new_levels": [
     {
@@ -21,26 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2094862178989855041",
-      "timestamp_utc": "2026-09-01T18:57:18.000Z",
-      "timestamp_est": "2026-09-01T14:57:18-04:00",
-      "tweet_text": "Closing update #ES_F: Newsletter was sent early as numerous entries are available in this 7634/37 zone. Bulls need to recover this to rally to 7649, 7659+ again. Bears control &lt;7714 (this means bounces will typically go 1-2 or levels for multiple trades, before a big 100+ point",
-      "added_bull_levels": [
-        7649.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7649 is named as a new rally target not in the morning plan; 7634/37, 7659, 7714 are all existing morning-plan levels."
-    },
-    {
-      "tweet_id": "2094862727369949565",
-      "timestamp_utc": "2026-09-01T18:59:29.000Z",
-      "timestamp_est": "2026-09-01T14:59:29-04:00",
-      "tweet_text": "@305HRHitter @TheHealingTrade Many of my levels are trendlines so they change day to day. A declining trendline support will be lower the following day",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trendline mechanics; no specific price named, no actionable level, purely educational/conversational."
-    },
     {
       "tweet_id": "2095119277372104742",
       "timestamp_utc": "2026-09-02T11:58:55.000Z",
