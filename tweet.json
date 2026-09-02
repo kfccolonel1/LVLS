@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-02T15:11:44.667997+00:00",
-  "fetched_at_est": "2026-09-02T11:11:44.668004-04:00",
+  "fetched_at_utc": "2026-09-02T16:01:54.678296+00:00",
+  "fetched_at_est": "2026-09-02T12:01:54.678302-04:00",
   "last_new_level_added_at_est": "2026-09-02T10:22:14-04:00",
   "todays_new_levels": [
     {
@@ -338,6 +338,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7637, 7649, 7659, 7671, 7681, 7704, 7714) are morning-plan levels or hit observations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2095179743742042357",
+      "timestamp_utc": "2026-09-02T15:59:12.000Z",
+      "timestamp_est": "2026-09-02T11:59:12-04:00",
+      "tweet_text": "We are now settling into slower action in #ES_F but we got a good run. 7637 traps/recoveries were the long trigger. Targets were 7649 (hit), 7659 (hit), 7671 (hit), 7681 (hit). \n\nIdeally, bulls want to hold 7671 now. 7704, 7714 next, above which we can rally to 7735-45 https://t.co/ZpOLGaFjIx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7704 is the only non-morning-plan price mentioned, but it appears in a casual directional list ('7704, 7714 next') without explicit naming language; all other prices are morning-plan reaffirmations or target observations."
     }
   ]
 }
