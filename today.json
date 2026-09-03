@@ -1,15 +1,14 @@
 {
   "session_date": "2026-09-03",
-  "daily_pivot": 7659.0,
-  "regime_hint": "C4",
+  "daily_pivot": 7659,
+  "regime_hint": "C2",
   "significant_lows": [
-    7618.0,
-    7622.0,
-    7638.0,
-    7659.0,
-    7587.0,
-    7544.0,
-    7569.0
+    7618,
+    7622,
+    7638,
+    7659,
+    7587,
+    7544
   ],
   "bull_levels": [
     {
@@ -113,6 +112,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish and holding a 10% long runner from Wednesday's 7622 failed-breakdown entry. He expects ES to continue filling the 7659-7733 range upward, targeting 7704, 7714, and 7733, then a potential breakout toward 7797. The key pivot is 7659: above it the bull case stays intact and the range can fill higher; below it (especially under 7618) the setup weakens and bears could press lower.",
-  "fetched_at": "2026-09-03T05:00:25.102955+00:00"
+  "notes": "Trader leans bullish, expecting ES to continue filling the 7659-7733 range toward 7704 and 7733, then potentially break out to 7797+. He already holds a 10% runner from the morning's 7622 failed-breakdown long. He will look to add on recoveries of 7704. The key pivot is 7659: above it the bull case stays intact and higher targets are in play; below it (especially below 7618) the bear case opens up.",
+  "fetched_at": "2026-09-03T11:27:34.144742+00:00"
 }
