@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T19:06:42.816334+00:00",
-  "fetched_at_est": "2026-09-03T15:06:42.816346-04:00",
+  "fetched_at_utc": "2026-09-03T19:16:45.405889+00:00",
+  "fetched_at_est": "2026-09-03T15:16:45.405895-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2095227225113002458",
-      "timestamp_utc": "2026-09-02T19:07:52.000Z",
-      "timestamp_est": "2026-09-02T15:07:52-04:00",
-      "tweet_text": "CLosing update #ES_F: We continue to defend 7671 precisely. We've hit all today's targets also (7649, 7659, 7671, 7681 targets - off the 7637 recovery long). 7704 then 7714+ are next. We only see new lows &lt;7649. Newsletter out soon with next set of entries from here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7704 is a new number but lacks explicit naming language (no 'key','major','target','watching', etc.) and reads as casual directional commentary. All others are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2095480113613685194",
       "timestamp_utc": "2026-09-03T11:52:45.000Z",
