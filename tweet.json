@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T13:05:15.170861+00:00",
-  "fetched_at_est": "2026-09-03T09:05:15.170872-04:00",
+  "fetched_at_utc": "2026-09-03T13:35:25.211036+00:00",
+  "fetched_at_est": "2026-09-03T09:35:25.211050-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -233,6 +233,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7704, 7733 are morning plan levels; 7714 is mentioned but as casual 'next' reference without explicit naming language qualifying it as a new actionable level."
+    },
+    {
+      "tweet_id": "2095505561160683636",
+      "timestamp_utc": "2026-09-03T13:33:53.000Z",
+      "timestamp_est": "2026-09-03T09:33:53-04:00",
+      "tweet_text": "Incredible follow through in #ES_F and now +90 points on the long. Today's 8am target slate (as long as 7671 held) was 7681 (hit), 7695 (hit), 7704 (hit), 7714 (hit). These were given in yesterday's newsletter also. We are now done for the day and likely, the week.\n\n7733 bonus https://t.co/af5vTJyBsB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7681, 7695, 7704, 7714, 7733) are either morning-plan levels, hindsight hit references, or newsletter targets \u2014 no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2095505775711940827",
+      "timestamp_utc": "2026-09-03T13:34:44.000Z",
+      "timestamp_est": "2026-09-03T09:34:44-04:00",
+      "tweet_text": "Note: Newsletter readers know the importance of 7733. Macro breakout incoming depending on reaction there",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7733 is already in the morning plan. Tweet is a reaffirmation of an existing level, not a new actionable one."
     }
   ]
 }
