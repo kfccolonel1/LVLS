@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T13:35:25.211036+00:00",
-  "fetched_at_est": "2026-09-03T09:35:25.211050-04:00",
+  "fetched_at_utc": "2026-09-03T13:55:31.412794+00:00",
+  "fetched_at_est": "2026-09-03T09:55:31.412798-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -251,6 +251,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7733 is already in the morning plan. Tweet is a reaffirmation of an existing level, not a new actionable one."
+    },
+    {
+      "tweet_id": "2095510206033641931",
+      "timestamp_utc": "2026-09-03T13:52:20.000Z",
+      "timestamp_est": "2026-09-03T09:52:20-04:00",
+      "tweet_text": "@D5star_general Good illustration of the bears control FBD cycle I've been talking about the past few days. Multiple 1-2 level failed breakdowns then we get a 100+ pointer (which we're getting now)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational commentary on FBD cycle pattern; no specific price named or actionable level introduced."
     }
   ]
 }
