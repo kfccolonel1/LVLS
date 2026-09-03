@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T11:54:33.810854+00:00",
-  "fetched_at_est": "2026-09-03T07:54:33.810858-04:00",
+  "fetched_at_utc": "2026-09-03T12:04:36.167951+00:00",
+  "fetched_at_est": "2026-09-03T08:04:36.167955-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -28,33 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2095119277372104742",
-      "timestamp_utc": "2026-09-02T11:58:55.000Z",
-      "timestamp_est": "2026-09-02T07:58:55-04:00",
-      "tweet_text": "Low still volatility in #ES_F with bears controlling under 7714 (meaning we get bounces, but most will go 1-2 levels then fail, then after several, we rip 100+ points). 7637 has been key support, here 24hrs\n\nPlan: 7637=support (just trapped). 7649, 7659, 7671+ next. 7629 fails, https://t.co/1pYdjtYjwD",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7714, 7637, 7649, 7659, 7671, 7629) are either morning-plan levels or observations of price action; 7649 is the only non-plan price but lacks explicit actionable naming language."
-    },
-    {
-      "tweet_id": "2095120160654762062",
-      "timestamp_utc": "2026-09-02T12:02:26.000Z",
-      "timestamp_est": "2026-09-02T08:02:26-04:00",
-      "tweet_text": "@NYJets2017 We are in sell bounces mode as I made clear (on intraday basis), but my lean (which is the least important part of the newsletter - I only keep it because people ask, otherwise I'd cut it) always defers to the trend. The reason they are right 80-90% of the time is because I don't",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; tweet is meta-commentary about newsletter methodology and lean accuracy. No actionable levels of any kind."
-    },
-    {
-      "tweet_id": "2095120562515321109",
-      "timestamp_utc": "2026-09-02T12:04:02.000Z",
-      "timestamp_est": "2026-09-02T08:04:02-04:00",
-      "tweet_text": "@NYJets2017 Right now we are in an extremely bullish uptrend context with 0 signs of any trend weakening, so no serious traders can have a bearish lean. There isn't one technical rational yet for one",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary with no price levels named; no actionable entry, support, resistance, or trigger mentioned."
-    },
     {
       "tweet_id": "2095122781255950642",
       "timestamp_utc": "2026-09-02T12:12:51.000Z",
