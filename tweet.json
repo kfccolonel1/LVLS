@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T12:45:00.673127+00:00",
-  "fetched_at_est": "2026-09-03T08:45:00.673132-04:00",
+  "fetched_at_utc": "2026-09-03T12:55:06.794858+00:00",
+  "fetched_at_est": "2026-09-03T08:55:06.794864-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2095132250421510433",
-      "timestamp_utc": "2026-09-02T12:50:28.000Z",
-      "timestamp_est": "2026-09-02T08:50:28-04:00",
-      "tweet_text": "Good pop higher in #ES_F but volatility remains very low still. As posted, when vol is low + bearish control expect longs to go 1-2 levels, then fail for several trades. Then we typically get a 100+ point rip.\n\n7637 trapped. Targets were 7649 (hit), 7659 (hit), 7671+. Dip&lt;7629 https://t.co/A8EhsSnrHo",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7637, 7649, 7659, 7671, 7629) are morning-plan levels or observations of hits/targets already published. No new actionable levels named."
-    },
     {
       "tweet_id": "2095153205428515194",
       "timestamp_utc": "2026-09-02T14:13:44.000Z",
@@ -212,6 +203,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reaffirmation of newsletter level (7559 or similar already-known level); no new actionable price introduced, and phrasing is a reply, not a new call."
+    },
+    {
+      "tweet_id": "2095495145974059075",
+      "timestamp_utc": "2026-09-03T12:52:29.000Z",
+      "timestamp_est": "2026-09-03T08:52:29-04:00",
+      "tweet_text": "We are working the targets nicely so far in #ES_F as the long from yesterday's 7637 recovery continues to pay. 7671 has been support as posted since yesterday to keep this running. Today's 8am slate of targets were 7681 (hit), 7695 (hit). 7704, 7714 next, then onto bonus set https://t.co/kqPdMi1UF3",
+      "added_bull_levels": [
+        7695.0,
+        7714.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7695 and 7714 named as sequential upside targets ('next') not in morning plan; 7681/7704 are morning-plan levels, 7671 is a prior post \u2014 excluded."
     }
   ]
 }
