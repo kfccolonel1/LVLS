@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T16:46:16.924863+00:00",
-  "fetched_at_est": "2026-09-03T12:46:16.924868-04:00",
+  "fetched_at_utc": "2026-09-03T18:16:32.527122+00:00",
+  "fetched_at_est": "2026-09-03T14:16:32.527127-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -28,26 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2095212191355969882",
-      "timestamp_utc": "2026-09-02T18:08:08.000Z",
-      "timestamp_est": "2026-09-02T14:08:08-04:00",
-      "tweet_text": "@LUCIFERVALE Bull flag",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price mentioned; 'Bull flag' is a pattern observation only, no actionable level named."
-    },
-    {
-      "tweet_id": "2095212534349332978",
-      "timestamp_utc": "2026-09-02T18:09:30.000Z",
-      "timestamp_est": "2026-09-02T14:09:30-04:00",
-      "tweet_text": "Levels respecting well but volatility now gone again in #ES_F. 7637 recovery started us up with 7649, 7659, 7671, 7681 targets (all hit).\n\n7671 then became support, just defended. 7704, 7714 are next set of targets up. In order to see new lows, 7649 must fail from here https://t.co/JJYess6uJY",
-      "added_bull_levels": [
-        7704.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7704 named as next target up alongside morning-plan 7714; 7704 is not in the morning plan and is explicitly listed as a next target, qualifying as new."
-    },
     {
       "tweet_id": "2095227225113002458",
       "timestamp_utc": "2026-09-02T19:07:52.000Z",
@@ -208,6 +188,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure social commentary about market sentiment and social media; no price levels named or referenced at all."
+    },
+    {
+      "tweet_id": "2095575950809288843",
+      "timestamp_utc": "2026-09-03T18:13:35.000Z",
+      "timestamp_est": "2026-09-03T14:13:35-04:00",
+      "tweet_text": "We continue to run the targets in #ES_F and as warned since yesterday, a 100+ point rip was coming. 7637/7622 Failed Breakdowns were long entries given here/newsletter. Today's targets given 8am were 7681, 7695, 7714 (hit). Bonus were 7733, 7771 (almost), then 7797\n\nRide runner https://t.co/oQY1E9xjZ2",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7681, 7733, 7771, 7797, 7622, 7637) are morning-plan reaffirmations or hindsight trade recaps; 7695/7714 are observations of targets hit, not new actionable levels."
     }
   ]
 }
