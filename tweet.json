@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T12:24:55.405641+00:00",
-  "fetched_at_est": "2026-09-03T08:24:55.405647-04:00",
+  "fetched_at_utc": "2026-09-03T12:34:58.008264+00:00",
+  "fetched_at_est": "2026-09-03T08:34:58.008269-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2095125947582181645",
-      "timestamp_utc": "2026-09-02T12:25:26.000Z",
-      "timestamp_est": "2026-09-02T08:25:26-04:00",
-      "tweet_text": "@OnTheHooch Two good trades. One right into the close yesterday where we recovered that 34/37 shelf and got to 49, then another early one of yesterdays low. No big follow through but thats bearish control + low volatility",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply describing past trades and price action observations (34/37 shelf, 49). No actionable new levels named with naming language."
-    },
     {
       "tweet_id": "2095128351534952485",
       "timestamp_utc": "2026-09-02T12:34:59.000Z",
