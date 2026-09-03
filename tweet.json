@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T14:15:34.832658+00:00",
-  "fetched_at_est": "2026-09-03T10:15:34.832662-04:00",
+  "fetched_at_utc": "2026-09-03T14:25:37.623985+00:00",
+  "fetched_at_est": "2026-09-03T10:25:37.623990-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -28,53 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2095153760980914337",
-      "timestamp_utc": "2026-09-02T14:15:57.000Z",
-      "timestamp_est": "2026-09-02T10:15:57-04:00",
-      "tweet_text": "@Mcloud4004 I have a large audience but I post about something very specialized. It means a good chunk unfortunately just don't really understand what day trading is",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply about audience comprehension; no price levels mentioned or implied."
-    },
-    {
-      "tweet_id": "2095155340849418433",
-      "timestamp_utc": "2026-09-02T14:22:14.000Z",
-      "timestamp_est": "2026-09-02T10:22:14-04:00",
-      "tweet_text": "Straightforward session today in #ES_F. Traps of 37 were actionable per tweets here + newsletter yesterday. Today's targets were 7649 (hit), 7659 (hit), 7671 (3 points shy).\n\n7681 next, above which we should rip to 7704 then 7714. Above there bulls can retake control https://t.co/fHOA3y8yNc",
-      "added_bull_levels": [
-        7704.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7704 named as next target above 7681 with 'rip to 7704' \u2014 not in morning plan. 7681 and 7714 are morning plan levels; 7704 is genuinely new."
-    },
-    {
-      "tweet_id": "2095155369790124270",
-      "timestamp_utc": "2026-09-02T14:22:20.000Z",
-      "timestamp_est": "2026-09-02T10:22:20-04:00",
-      "tweet_text": "@GlynHudson1 Typo, its 81",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply correcting a typo ('its 81'), no actionable price level named with any naming language."
-    },
-    {
-      "tweet_id": "2095155395366941098",
-      "timestamp_utc": "2026-09-02T14:22:27.000Z",
-      "timestamp_est": "2026-09-02T10:22:27-04:00",
-      "tweet_text": "@longdanielc Typo, its 81",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply correcting a typo ('its 81'), no actionable price named with naming language."
-    },
-    {
-      "tweet_id": "2095155574195282105",
-      "timestamp_utc": "2026-09-02T14:23:09.000Z",
-      "timestamp_est": "2026-09-02T10:23:09-04:00",
-      "tweet_text": "@grahammclennan Just use the non-acceptance protocol. Wait for price to clear the low by 5 points, and never any rush. Its almost better to feel lke you are chasing abit as that means there is momentum",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade methodology advice to a user \u2014 no price level named, no actionable trigger or target, just protocol guidance."
-    },
     {
       "tweet_id": "2095164391016571382",
       "timestamp_utc": "2026-09-02T14:58:11.000Z",
