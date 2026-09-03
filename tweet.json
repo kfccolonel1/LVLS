@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T14:45:47.700983+00:00",
-  "fetched_at_est": "2026-09-03T10:45:47.700995-04:00",
+  "fetched_at_utc": "2026-09-03T15:05:54.884764+00:00",
+  "fetched_at_est": "2026-09-03T11:05:54.884767-04:00",
   "last_new_level_added_at_est": "2026-09-03T07:52:45-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2095164391016571382",
-      "timestamp_utc": "2026-09-02T14:58:11.000Z",
-      "timestamp_est": "2026-09-02T10:58:11-04:00",
-      "tweet_text": "There's 7681 tagged in #ES_F. Today's targets (after the 7637 trap) were 7649 (hit), 7659 (hit), 7671 (hit). Bonus were 7681 (hit). 7704, 7714 next. When bears control - as posted - we typically get 4-5 Failed Breakdowns that go 1-2 levels then fail. Then a big, multi-lvl run https://t.co/qk6T3FLeWg",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7637, 7649, 7659, 7671, 7681, 7704, 7714) are morning-plan levels or hit observations; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2095179743742042357",
       "timestamp_utc": "2026-09-02T15:59:12.000Z",
@@ -210,6 +201,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned levels (7681, 7695, 7704, 7714, 7733) are either morning-plan levels or hindsight trade recaps. 7695/7714 not in plan but framed as already-hit targets, not new actionable levels."
+    },
+    {
+      "tweet_id": "2095527356077117526",
+      "timestamp_utc": "2026-09-03T15:00:29.000Z",
+      "timestamp_est": "2026-09-03T11:00:29-04:00",
+      "tweet_text": "@noonelikeme81 @D5star_general I am always bullish in an uptrend. I have never called nor will ever call for a downward breakout. First thing you learn when you start trading is respect the trend and should ignore anyone who doesn't do that.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure philosophy/commentary tweet about trend respect; no price levels named or actionable instructions given."
     }
   ]
 }
