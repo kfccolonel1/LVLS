@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T12:18:37.224746+00:00",
-  "fetched_at_est": "2026-09-04T08:18:37.224753-04:00",
+  "fetched_at_utc": "2026-09-04T12:48:44.721463+00:00",
+  "fetched_at_est": "2026-09-04T08:48:44.721468-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -161,6 +161,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining price action context; no price named, no actionable level, purely conversational."
+    },
+    {
+      "tweet_id": "2095855936669618414",
+      "timestamp_utc": "2026-09-04T12:46:09.000Z",
+      "timestamp_est": "2026-09-04T08:46:09-04:00",
+      "tweet_text": "With the 100+ point rip in the books in #ES_F from the 7622/7637 Failed Breakdown's,  there is little to do now but hold runner and let ES digest the move. 7745 reclaims are a low quality long.\n\nPer newsletter, 7722 and 7695 are the supports of interest today. Watch traps https://t.co/9fyPNNoVSA",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7622, 7637, 7745, 7722, 7695) are either morning-plan levels, hindsight FBD references, or trade management. No new actionable levels introduced."
     }
   ]
 }
