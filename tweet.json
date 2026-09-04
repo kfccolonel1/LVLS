@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T13:59:03.862973+00:00",
-  "fetched_at_est": "2026-09-04T09:59:03.862979-04:00",
+  "fetched_at_utc": "2026-09-04T14:09:09.551857+00:00",
+  "fetched_at_est": "2026-09-04T10:09:09.551863-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -131,6 +131,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply mentioning 7695/7700 area (morning plan levels); no explicit actionable naming language for a new level."
+    },
+    {
+      "tweet_id": "2095875000683086336",
+      "timestamp_utc": "2026-09-04T14:01:54.000Z",
+      "timestamp_est": "2026-09-04T10:01:54-04:00",
+      "tweet_text": "Poor volatility now. As posted, after the 100+ point leg up from the 7622/7637 Failed Breakdown there is little to do but hold runner. #ES_F needs to begin the process of re-flagging and digesting the leg.\n\n7745 recoveries remain low quality long to 7758, 7771, 7797+. 22=support https://t.co/y8JWQ8vRDF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7745/7758/7771/7797 are morning-plan levels or observations of price action; 7758 and 7771 are targets not newly named actionable levels; no new major level introduced."
     }
   ]
 }
