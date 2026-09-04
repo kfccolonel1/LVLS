@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T14:49:22.230784+00:00",
-  "fetched_at_est": "2026-09-04T10:49:22.230789-04:00",
+  "fetched_at_utc": "2026-09-04T14:59:30.483799+00:00",
+  "fetched_at_est": "2026-09-04T10:59:30.483831-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels mentioned (7745, 7722, 7695) are in the morning plan. 7758 is a casual '+' target, not explicitly named as a new actionable level."
+    },
+    {
+      "tweet_id": "2095887547125686310",
+      "timestamp_utc": "2026-09-04T14:51:45.000Z",
+      "timestamp_est": "2026-09-04T10:51:45-04:00",
+      "tweet_text": "@investmentguy19 The flag resistance is at 7722 now since its downsloping. It doesn't matter for day traders though. For swing traders it does! They would start adding tranches as we morph the structure to setup the next macro leg higher to the megaphone resistance",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7722 is already in the morning plan. Rest is swing-trade commentary/structure observation with no new actionable price named."
+    },
+    {
+      "tweet_id": "2095887826688647433",
+      "timestamp_utc": "2026-09-04T14:52:52.000Z",
+      "timestamp_est": "2026-09-04T10:52:52-04:00",
+      "tweet_text": "@investmentguy19 For day traders we just hope for red so we can get more level to level moves",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user expressing a general directional preference for volatility; no actionable price level named."
     }
   ]
 }
