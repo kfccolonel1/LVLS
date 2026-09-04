@@ -1,25 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-03T22:27:09.169335+00:00",
-  "fetched_at_est": "2026-09-03T18:27:09.169341-04:00",
+  "fetched_at_utc": "2026-09-04T11:58:28.762127+00:00",
+  "fetched_at_est": "2026-09-04T07:58:28.762132-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2095480113613685194",
-      "timestamp_utc": "2026-09-03T11:52:45.000Z",
-      "timestamp_est": "2026-09-03T07:52:45-04:00",
-      "tweet_text": "Levels still ultra precise in #ES_F but still no volatility. 7637 reclaim yesterday triggered long. Targets were 7671, 7681 (hit). As posted 71 then flipped to support -  held all night\n\nPlan: 7671=support. Weak now, watch traps. 7681, 7695, 7704, 7714 next. 7650, 7618 below https://t.co/vdCCSsvcKO",
-      "added_bull_levels": [
-        7695.0,
-        7714.0
-      ],
-      "added_bear_levels": [
-        7671.0
-      ],
-      "notes": "7695 and 7714 named as next resistance targets; 7671 named as current support to watch for traps \u2014 none of these are in morning plan."
-    },
     {
       "tweet_id": "2095483517022986346",
       "timestamp_utc": "2026-09-03T12:06:17.000Z",
@@ -184,6 +170,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply about market predictability; no price levels named or actionable information present."
+    },
+    {
+      "tweet_id": "2095842114407936095",
+      "timestamp_utc": "2026-09-04T11:51:13.000Z",
+      "timestamp_est": "2026-09-04T07:51:13-04:00",
+      "tweet_text": "All week - as posted daily - we were setting up for a 100+ point rip. We finally got it on the 7637/22 Failed Breakdowns in #ES_F. Targets were 7733, 7771 (almost). Now there is little to do, since we got the move\n\nPlan: Ride runner. 7771, 7782, 7797 next. 7745 (watch traps), https://t.co/1p4huXEgMQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7782 is only new price mentioned, but context is a directional target list alongside morning-plan levels (7771,7797,7745); no explicit naming language singles 7782 as a new actionable level."
     }
   ]
 }
