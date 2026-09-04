@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T12:58:49.825682+00:00",
-  "fetched_at_est": "2026-09-04T08:58:49.825688-04:00",
+  "fetched_at_utc": "2026-09-04T13:08:55.621515+00:00",
+  "fetched_at_est": "2026-09-04T09:08:55.621522-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2095497180714803318",
-      "timestamp_utc": "2026-09-03T13:00:34.000Z",
-      "timestamp_est": "2026-09-03T09:00:34-04:00",
-      "tweet_text": "There's 7704 next target tagged, and this has been a perfect session in #ES_F. Per ystds newsletter and tweets here, two Failed Breakdowns began this rally. The 7622 recovery and 7637 recovery. We are +80\n\nProtect gains here. 7714 next, then into 7733 which is the bonus https://t.co/zAufp4bYo5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7704, 7733 are morning plan levels; 7714 is mentioned but as casual 'next' reference without explicit naming language qualifying it as a new actionable level."
-    },
     {
       "tweet_id": "2095505561160683636",
       "timestamp_utc": "2026-09-03T13:33:53.000Z",
@@ -158,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned; purely a conversational reply about trading methodology."
+    },
+    {
+      "tweet_id": "2095859105340576006",
+      "timestamp_utc": "2026-09-04T12:58:44.000Z",
+      "timestamp_est": "2026-09-04T08:58:44-04:00",
+      "tweet_text": "@guns_samuel Could trade the test of 95 and recovery of 7700. Its a significant low but its very hard to spot (I like big clear lows, shouldnt need to zoom in much to see it)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply mentioning 7695/7700 area (morning plan levels); no explicit actionable naming language for a new level."
     }
   ]
 }
