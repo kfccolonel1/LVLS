@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T18:20:25.250373+00:00",
-  "fetched_at_est": "2026-09-04T14:20:25.250380-04:00",
+  "fetched_at_utc": "2026-09-04T18:40:31.457612+00:00",
+  "fetched_at_est": "2026-09-04T14:40:31.457618-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -176,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7722, 7745, 7771/7770, 7797) are already in the morning plan. No new actionable levels introduced; tweet is trade management and reaffirmation."
+    },
+    {
+      "tweet_id": "2095944046522913022",
+      "timestamp_utc": "2026-09-04T18:36:16.000Z",
+      "timestamp_est": "2026-09-04T14:36:16-04:00",
+      "tweet_text": "@FloorsntileJose It is literally right here in this tweet. And its right here in the newsletter. https://t.co/BuWe9zlPgT https://t.co/X2uEyUAK87",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply pointing to external links with no price levels named or actionable language present."
     }
   ]
 }
