@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T15:19:38.425357+00:00",
-  "fetched_at_est": "2026-09-04T11:19:38.425364-04:00",
+  "fetched_at_utc": "2026-09-04T15:29:45.692088+00:00",
+  "fetched_at_est": "2026-09-04T11:29:45.692107-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -158,6 +158,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market cycle commentary with no actionable price named; no new level introduced."
+    },
+    {
+      "tweet_id": "2095896221302829513",
+      "timestamp_utc": "2026-09-04T15:26:13.000Z",
+      "timestamp_est": "2026-09-04T11:26:13-04:00",
+      "tweet_text": "@draftypog Ive never done it, but its likely similar to ES. NQ is more volatile and random though, and likely trappier",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply comparing ES and NQ volatility; no price levels named or actionable context whatsoever."
+    },
+    {
+      "tweet_id": "2095896395685183844",
+      "timestamp_utc": "2026-09-04T15:26:55.000Z",
+      "timestamp_est": "2026-09-04T11:26:55-04:00",
+      "tweet_text": "@draftypog I am not sure what the 5 point equivalent I use in ES would be in NQ for reclaims though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about NQ/ES equivalents; no price named, no actionable level introduced."
     }
   ]
 }
