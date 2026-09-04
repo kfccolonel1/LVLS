@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T14:39:16.541771+00:00",
-  "fetched_at_est": "2026-09-04T10:39:16.541779-04:00",
+  "fetched_at_utc": "2026-09-04T14:49:22.230784+00:00",
+  "fetched_at_est": "2026-09-04T10:49:22.230789-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -131,6 +131,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining support/resistance flip concept; no price named, purely conceptual commentary."
+    },
+    {
+      "tweet_id": "2095885319170031734",
+      "timestamp_utc": "2026-09-04T14:42:54.000Z",
+      "timestamp_est": "2026-09-04T10:42:54-04:00",
+      "tweet_text": "Action slow as we head into long weekend in #ES_F. We got our 100+ point leg up from the 7622/7637 long, and now price needs to digest the move, back-test, setup next leg up. Don't force trades\n\nNo change: 7745 reclaims=low quality long to 7758+. 7722 (watch traps), 7695= https://t.co/WQZ4HijONy",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7745, 7722, 7695) are in the morning plan. 7758 is a casual '+' target, not explicitly named as a new actionable level."
     }
   ]
 }
