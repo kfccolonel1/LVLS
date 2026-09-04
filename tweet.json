@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T14:09:09.551857+00:00",
-  "fetched_at_est": "2026-09-04T10:09:09.551863-04:00",
+  "fetched_at_utc": "2026-09-04T14:39:16.541771+00:00",
+  "fetched_at_est": "2026-09-04T10:39:16.541779-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2095521340241408309",
-      "timestamp_utc": "2026-09-03T14:36:35.000Z",
-      "timestamp_est": "2026-09-03T10:36:35-04:00",
-      "tweet_text": "@noonelikeme81 @D5star_general We've already begun the move, I was writing about this yesterday, we are +90 already and have run into the bull flag res. Regroup then macro breakout likely but that will be for the swing traders",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific price levels named; purely directional commentary about bull flag resistance and macro breakout without any actionable price cited."
-    },
-    {
-      "tweet_id": "2095521631783342165",
-      "timestamp_utc": "2026-09-03T14:37:44.000Z",
-      "timestamp_est": "2026-09-03T10:37:44-04:00",
-      "tweet_text": "Work is done and today went perfect in #ES_F. 7671 was support. Targets given at 8am were 7681 (hit), 7695 (hit), 7704 (hit), 7714 (hit). Now there is nothing to do - we've waited days for this move.\n\n7733 remains next. Newsletter readers know this is the bull flag resistance https://t.co/pGfainnfRU",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7681, 7695, 7704, 7714, 7733) are either morning-plan levels or hindsight trade recaps. 7695/7714 not in plan but framed as already-hit targets, not new actionable levels."
-    },
     {
       "tweet_id": "2095527356077117526",
       "timestamp_utc": "2026-09-03T15:00:29.000Z",
@@ -140,6 +122,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7745/7758/7771/7797 are morning-plan levels or observations of price action; 7758 and 7771 are targets not newly named actionable levels; no new major level introduced."
+    },
+    {
+      "tweet_id": "2095884204852531400",
+      "timestamp_utc": "2026-09-04T14:38:28.000Z",
+      "timestamp_est": "2026-09-04T10:38:28-04:00",
+      "tweet_text": "@Tiquisito Yes. Supports flip into resistance when lost",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining support/resistance flip concept; no price named, purely conceptual commentary."
     }
   ]
 }
