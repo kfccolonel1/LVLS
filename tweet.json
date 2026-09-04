@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T19:00:38.261757+00:00",
-  "fetched_at_est": "2026-09-04T15:00:38.261763-04:00",
+  "fetched_at_utc": "2026-09-04T19:10:40.660741+00:00",
+  "fetched_at_est": "2026-09-04T15:10:40.660748-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2095588512351269144",
-      "timestamp_utc": "2026-09-03T19:03:30.000Z",
-      "timestamp_est": "2026-09-03T15:03:30-04:00",
-      "tweet_text": "CLosing update: Patience paid. As I warned all week, ES follows a predictable cycle when drifting lower. We get multiple 1-2 lvl Failed Breakdowns,then a 100+ pointer. We take every one, which guarantees catching the 100+ pointer. Newsletter was just sent talking what comes next",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Closing commentary on trade methodology and cycle behavior; no specific actionable price levels named or introduced."
-    },
     {
       "tweet_id": "2095638043575070725",
       "timestamp_utc": "2026-09-03T22:20:19.000Z",
