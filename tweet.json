@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T12:08:31.597269+00:00",
-  "fetched_at_est": "2026-09-04T08:08:31.597275-04:00",
+  "fetched_at_utc": "2026-09-04T12:18:37.224746+00:00",
+  "fetched_at_est": "2026-09-04T08:18:37.224753-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2095484936333545866",
-      "timestamp_utc": "2026-09-03T12:11:55.000Z",
-      "timestamp_est": "2026-09-03T08:11:55-04:00",
-      "tweet_text": "@HagglundKirk We're bull flagging now above 71 so below there I wouldn't trust supports to hold. Best to just see us run from here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply referencing 7471 area with no actionable naming language; 7472 is already in morning plan. No new level introduced."
-    },
-    {
-      "tweet_id": "2095486309070504134",
-      "timestamp_utc": "2026-09-03T12:17:22.000Z",
-      "timestamp_est": "2026-09-03T08:17:22-04:00",
-      "tweet_text": "@HagglundKirk 59 is still a level as written in the newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reaffirmation of newsletter level (7559 or similar already-known level); no new actionable price introduced, and phrasing is a reply, not a new call."
-    },
     {
       "tweet_id": "2095495145974059075",
       "timestamp_utc": "2026-09-03T12:52:29.000Z",
@@ -170,6 +152,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7782 is only new price mentioned, but context is a directional target list alongside morning-plan levels (7771,7797,7745); no explicit naming language singles 7782 as a new actionable level."
+    },
+    {
+      "tweet_id": "2095847515459391932",
+      "timestamp_utc": "2026-09-04T12:12:41.000Z",
+      "timestamp_est": "2026-09-04T08:12:41-04:00",
+      "tweet_text": "@Redden843 It was fully used up (thats why we flushed it and recovered it)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining price action context; no price named, no actionable level, purely conversational."
     }
   ]
 }
