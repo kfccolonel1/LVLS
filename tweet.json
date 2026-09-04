@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-04T16:20:08.612049+00:00",
-  "fetched_at_est": "2026-09-04T12:20:08.612065-04:00",
+  "fetched_at_utc": "2026-09-04T17:00:16.460657+00:00",
+  "fetched_at_est": "2026-09-04T13:00:16.460664-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -176,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary reply \u2014 no price named, no actionable level, no naming language. Just opinion on volatility and a vague directional view."
+    },
+    {
+      "tweet_id": "2095919262728618025",
+      "timestamp_utc": "2026-09-04T16:57:47.000Z",
+      "timestamp_est": "2026-09-04T12:57:47-04:00",
+      "tweet_text": "Very slow action still in #ES_F, but we got a good pop there. I posted 7722 reclaims trigger long and we went +10. Protect gains aggressively. 7745 next which is now heavy resistance above which we can head to 7771, then 7797. 7722 backtests a bull flag that we broke out ystd https://t.co/jy1sOKAwS4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7722, 7745, 7771/7770, 7797) are already in the morning plan. No new actionable levels introduced; tweet is trade management and reaffirmation."
     }
   ]
 }
