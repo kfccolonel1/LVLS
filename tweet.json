@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-08T12:02:16.695610+00:00",
-  "fetched_at_est": "2026-09-08T08:02:16.695626-04:00",
+  "fetched_at_utc": "2026-09-08T12:12:22.564267+00:00",
+  "fetched_at_est": "2026-09-08T08:12:22.564272-04:00",
   "last_new_level_added_at_est": "2026-09-08T07:56:07-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2096932979108880771",
-      "timestamp_utc": "2026-09-07T12:05:56.000Z",
-      "timestamp_est": "2026-09-07T08:05:56-04:00",
-      "tweet_text": "Holiday session for #ES_F and little to do (pay attention to newsletter entries still) but do not overtrqde as there is no volatility and most setups will trap and go nowhere unless we get a headine.\n\nPlan: 7695=support (watch traps), 7671=below. 7722 must reclaim to rally https://t.co/BqOFDm1zFC",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All named levels (7695, 7671, 7722) are reaffirmations of morning plan levels or near-exact matches; no new actionable prices introduced."
-    },
     {
       "tweet_id": "2097292897984880947",
       "timestamp_utc": "2026-09-08T11:56:07.000Z",
@@ -42,6 +33,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Trade management/hindsight recap of existing 7722 target and FBD setup; no new actionable levels named for the first time."
+    },
+    {
+      "tweet_id": "2097296877674811621",
+      "timestamp_utc": "2026-09-08T12:11:56.000Z",
+      "timestamp_est": "2026-09-08T08:11:56-04:00",
+      "tweet_text": "@Taylor8xeno8 @upandown007 His lower channel line is very valid, but his upper isn't (which is what we are talking about). When it comes to trendlines you have to be extremely strict in terms of rules for how you draw them. Most people just draw a line by eyeball and do it slightly differently every time.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about trendline drawing methodology; no price levels named, no actionable entries, targets, or triggers of any kind."
     }
   ]
 }
