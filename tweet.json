@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-08T15:03:26.725133+00:00",
-  "fetched_at_est": "2026-09-08T11:03:26.725139-04:00",
+  "fetched_at_utc": "2026-09-08T15:43:36.069644+00:00",
+  "fetched_at_est": "2026-09-08T11:43:36.069649-04:00",
   "last_new_level_added_at_est": "2026-09-08T07:56:07-04:00",
   "todays_new_levels": [
     {
@@ -134,6 +134,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on volatility and typical move ranges; no actionable price level named, just general distance math (7-12, 20-30, 50-70, 70-200 points)."
+    },
+    {
+      "tweet_id": "2097348919571136763",
+      "timestamp_utc": "2026-09-08T15:38:43.000Z",
+      "timestamp_est": "2026-09-08T11:38:43-04:00",
+      "tweet_text": "We still have no volatility in #ES_F and if you force trades no volatility, almost no trade will work. Markets need volatility to run multiple levels. We already had two good trades that went to 7722 then 7714 targets. \n\n7695-7700 must clear with strength to see 7714, 7722, 7745+ https://t.co/RoPOnrqWqw",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7722 is a new mention but framed as a past target already hit; 7695-7700/7714/7745 are all morning-plan levels; no new actionable level named."
     }
   ]
 }
