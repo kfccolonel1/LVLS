@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-08T18:14:09.449162+00:00",
-  "fetched_at_est": "2026-09-08T14:14:09.449175-04:00",
+  "fetched_at_utc": "2026-09-08T19:04:20.068655+00:00",
+  "fetched_at_est": "2026-09-08T15:04:20.068661-04:00",
   "last_new_level_added_at_est": "2026-09-08T07:56:07-04:00",
   "todays_new_levels": [
     {
@@ -181,6 +181,17 @@
       ],
       "added_bear_levels": [],
       "notes": "7722 named as a target not in morning plan; 7714, 7745, 7695, 7700 are all morning-plan levels or reaffirmations."
+    },
+    {
+      "tweet_id": "2097400587855819084",
+      "timestamp_utc": "2026-09-08T19:04:02.000Z",
+      "timestamp_est": "2026-09-08T15:04:02-04:00",
+      "tweet_text": "Closing update #ES_F: No volatility. 7695-7700 remains a firm ceiling. We are coiled tight though and once it clears we can rip to 7714, 7722, 7745. We have already hit 2-3. Newsletter was sent a little early as there are some setups in this region",
+      "added_bull_levels": [
+        7722.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7722 named as a new upside target ('rip to 7714, 7722, 7745'); 7714 and 7745 are morning-plan levels, but 7722 is not and is listed as an actionable target."
     }
   ]
 }
