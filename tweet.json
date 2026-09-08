@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-08T14:33:07.787201+00:00",
-  "fetched_at_est": "2026-09-08T10:33:07.787206-04:00",
+  "fetched_at_utc": "2026-09-08T14:43:17.180218+00:00",
+  "fetched_at_est": "2026-09-08T10:43:17.180238-04:00",
   "last_new_level_added_at_est": "2026-09-08T07:56:07-04:00",
   "todays_new_levels": [
     {
@@ -107,6 +107,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No actionable price named; tweet is a meta-comment about level distribution between Twitter and newsletter, not a new level signal."
+    },
+    {
+      "tweet_id": "2097333302197661766",
+      "timestamp_utc": "2026-09-08T14:36:40.000Z",
+      "timestamp_est": "2026-09-08T10:36:40-04:00",
+      "tweet_text": "@timvgp @Alvi72220 Its not a level I'd bid direct. I only trade Failed Breakdowns",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trade methodology (only trades Failed Breakdowns), no actionable price level named."
+    },
+    {
+      "tweet_id": "2097334673596723671",
+      "timestamp_utc": "2026-09-08T14:42:07.000Z",
+      "timestamp_est": "2026-09-08T10:42:07-04:00",
+      "tweet_text": "We still don't have volatility in #ES_F and this is mostly not-tradeable noise. Price is choppy, random, with no clear conviction. We already had two good trades today to 7722/7714 targets. Wait for the 7695-7700 zone to recover with some momentum to take that for a 3rd time https://t.co/5nZZN70HRB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7722, 7714, 7695, 7700 are all morning-plan levels or observations of prior trades; no new actionable levels named."
     }
   ]
 }
