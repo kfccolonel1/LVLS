@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-07T20:10:45.222725+00:00",
-  "fetched_at_est": "2026-09-07T16:10:45.222736-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-09-08T12:02:16.695610+00:00",
+  "fetched_at_est": "2026-09-08T08:02:16.695626-04:00",
+  "last_new_level_added_at_est": "2026-09-08T07:56:07-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7722.0,
+      "side": "bull",
+      "added_at_est": "2026-09-08T07:56:07-04:00",
+      "expires_at_est": "2026-09-08T15:56:07-04:00",
+      "from_tweet_id": "2097292897984880947"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2096932979108880771",
@@ -14,6 +22,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All named levels (7695, 7671, 7722) are reaffirmations of morning plan levels or near-exact matches; no new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2097292897984880947",
+      "timestamp_utc": "2026-09-08T11:56:07.000Z",
+      "timestamp_est": "2026-09-08T07:56:07-04:00",
+      "tweet_text": "Perfect scalping to start September in #ES_F. Per newsletter, 7695 was key support, with 7700 Failed Breakdowns triggering us long. We triggered 745pm, ran +20, and again 6am. Still active\n\nPlan: 7695=weak now. 7714, 7722, 7745 next. 95 fails, dip to 7671 (watch traps) https://t.co/UELHb4ExEl",
+      "added_bull_levels": [
+        7722.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7722 named explicitly as 'next' target resistance alongside morning-plan levels 7714/7745; it is not in today's published plan and carries actionable naming language."
+    },
+    {
+      "tweet_id": "2097293664804344160",
+      "timestamp_utc": "2026-09-08T11:59:10.000Z",
+      "timestamp_est": "2026-09-08T07:59:10-04:00",
+      "tweet_text": "Note: For those who took the 745PM Failed Breakdown, we ran to 7722 target. Runner would've trailed out as always, then back in for the double dip FBD. This is all very textbook so far, but make sure you are locking gains level to level still",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management/hindsight recap of existing 7722 target and FBD setup; no new actionable levels named for the first time."
     }
   ]
 }
