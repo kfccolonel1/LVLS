@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T12:46:43.427251+00:00",
-  "fetched_at_est": "2026-09-09T08:46:43.427256-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-09-09T12:56:52.546536+00:00",
+  "fetched_at_est": "2026-09-09T08:56:52.546549-04:00",
+  "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7649.0,
+      "side": "bull",
+      "added_at_est": "2026-09-09T08:49:07-04:00",
+      "expires_at_est": "2026-09-09T16:49:07-04:00",
+      "from_tweet_id": "2097668623779152021"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2097312886460723408",
@@ -191,6 +199,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary/opinion about range and trend. No price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2097668212720595230",
+      "timestamp_utc": "2026-09-09T12:47:29.000Z",
+      "timestamp_est": "2026-09-09T08:47:29-04:00",
+      "tweet_text": "@NYJets2017 @tradivate That would be my guess as well. We got an elevator down, so that means we get a squeeze",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply/market commentary about a squeeze expectation; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2097668623779152021",
+      "timestamp_utc": "2026-09-09T12:49:07.000Z",
+      "timestamp_est": "2026-09-09T08:49:07-04:00",
+      "tweet_text": "7649 is weak support today but still defending to (as typical) weakness from bears. Volatility slowing again in #ES_F. 7662/7671 must reclaim today to start the rally. We will need some momentum for this. It targets 7680, 7692, 7714+\n\nSame downside supports from here https://t.co/LLVE2cN5i6",
+      "added_bull_levels": [
+        7649.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7649 named as 'weak support today' \u2014 actionable support language, not in morning plan. All other prices (7662, 7671, 7680, 7692, 7714) are existing morning levels."
     }
   ]
 }
