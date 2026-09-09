@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T14:37:41.993448+00:00",
-  "fetched_at_est": "2026-09-09T10:37:41.993452-04:00",
+  "fetched_at_utc": "2026-09-09T14:47:44.484380+00:00",
+  "fetched_at_est": "2026-09-09T10:47:44.484386-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097334673596723671",
-      "timestamp_utc": "2026-09-08T14:42:07.000Z",
-      "timestamp_est": "2026-09-08T10:42:07-04:00",
-      "tweet_text": "We still don't have volatility in #ES_F and this is mostly not-tradeable noise. Price is choppy, random, with no clear conviction. We already had two good trades today to 7722/7714 targets. Wait for the 7695-7700 zone to recover with some momentum to take that for a 3rd time https://t.co/5nZZN70HRB",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7722, 7714, 7695, 7700 are all morning-plan levels or observations of prior trades; no new actionable levels named."
-    },
     {
       "tweet_id": "2097339591690707410",
       "timestamp_utc": "2026-09-08T15:01:40.000Z",
