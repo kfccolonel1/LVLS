@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T14:47:44.484380+00:00",
-  "fetched_at_est": "2026-09-09T10:47:44.484386-04:00",
+  "fetched_at_utc": "2026-09-09T15:07:48.184613+00:00",
+  "fetched_at_est": "2026-09-09T11:07:48.184618-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097339591690707410",
-      "timestamp_utc": "2026-09-08T15:01:40.000Z",
-      "timestamp_est": "2026-09-08T11:01:40-04:00",
-      "tweet_text": "@octoptionist @MattLaTurnKnow Yes almost all my first profit takes are in that 7-12 point range. 20-30 point moves though is very small for ES. When we have even normal volatility we are making 50-70 point moves easily and on a higher volatility day it is 70-200 point moves",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on volatility and typical move ranges; no actionable price level named, just general distance math (7-12, 20-30, 50-70, 70-200 points)."
-    },
     {
       "tweet_id": "2097348919571136763",
       "timestamp_utc": "2026-09-08T15:38:43.000Z",
