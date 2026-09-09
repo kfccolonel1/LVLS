@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T14:07:21.729764+00:00",
-  "fetched_at_est": "2026-09-09T10:07:21.729769-04:00",
+  "fetched_at_utc": "2026-09-09T14:17:24.384818+00:00",
+  "fetched_at_est": "2026-09-09T10:17:24.384824-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097327388937839083",
-      "timestamp_utc": "2026-09-08T14:13:10.000Z",
-      "timestamp_est": "2026-09-08T10:13:10-04:00",
-      "tweet_text": "@MattLaTurnKnow Yes, low volatility. These are very small, slow moves.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about low volatility; no price named, no actionable level of any kind."
-    },
-    {
-      "tweet_id": "2097327536317309237",
-      "timestamp_utc": "2026-09-08T14:13:45.000Z",
-      "timestamp_est": "2026-09-08T10:13:45-04:00",
-      "tweet_text": "@MattLaTurnKnow I think people have forgotten what volatility looks like and means!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about volatility, no price level named or implied whatsoever."
-    },
     {
       "tweet_id": "2097330919560425479",
       "timestamp_utc": "2026-09-08T14:27:12.000Z",
