@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T17:58:36.490115+00:00",
-  "fetched_at_est": "2026-09-09T13:58:36.490122-04:00",
+  "fetched_at_utc": "2026-09-09T18:08:38.976444+00:00",
+  "fetched_at_est": "2026-09-09T14:08:38.976449-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,17 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097385936879251961",
-      "timestamp_utc": "2026-09-08T18:05:49.000Z",
-      "timestamp_est": "2026-09-08T14:05:49-04:00",
-      "tweet_text": "We are glued to 7695 with 0 volatility in #ES_F and there is just nothing to do here. We are coiled very tight though, so a move should be coming shortly. Targets are 7714 (hit 2x), 7722 (hit once), 7745, then 7763.\n\nWe must recover 7695-7700 with momentum to get going on this https://t.co/fYtXY43dGy",
-      "added_bull_levels": [
-        7722.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7722 named as a target not in morning plan; 7714, 7745, 7695, 7700 are all morning-plan levels or reaffirmations."
-    },
     {
       "tweet_id": "2097400587855819084",
       "timestamp_utc": "2026-09-08T19:04:02.000Z",
