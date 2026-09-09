@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T16:18:08.905087+00:00",
-  "fetched_at_est": "2026-09-09T12:18:08.905095-04:00",
+  "fetched_at_utc": "2026-09-09T16:28:14.746040+00:00",
+  "fetched_at_est": "2026-09-09T12:28:14.746045-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -199,6 +199,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trading philosophy/methodology; no prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2097721922389717228",
+      "timestamp_utc": "2026-09-09T16:20:54.000Z",
+      "timestamp_est": "2026-09-09T12:20:54-04:00",
+      "tweet_text": "@schwartzaman @lohaloha123 If thats what the market gives, thats enough. In low volatility 5 points may be all the market has. In high vol often can squeeze 10+ points out of a first profit take since things are moving fast",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/volatility commentary reply. No actionable price named, no naming language, no new level introduced."
     }
   ]
 }
