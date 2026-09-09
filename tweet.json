@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T15:07:48.184613+00:00",
-  "fetched_at_est": "2026-09-09T11:07:48.184618-04:00",
+  "fetched_at_utc": "2026-09-09T15:47:59.777668+00:00",
+  "fetched_at_est": "2026-09-09T11:47:59.777681-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097348919571136763",
-      "timestamp_utc": "2026-09-08T15:38:43.000Z",
-      "timestamp_est": "2026-09-08T11:38:43-04:00",
-      "tweet_text": "We still have no volatility in #ES_F and if you force trades no volatility, almost no trade will work. Markets need volatility to run multiple levels. We already had two good trades that went to 7722 then 7714 targets. \n\n7695-7700 must clear with strength to see 7714, 7722, 7745+ https://t.co/RoPOnrqWqw",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7722 is a new mention but framed as a past target already hit; 7695-7700/7714/7745 are all morning-plan levels; no new actionable level named."
-    },
     {
       "tweet_id": "2097364967355760929",
       "timestamp_utc": "2026-09-08T16:42:30.000Z",
@@ -181,6 +172,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7649 is a hindsight reference to earlier post; 7671/7680/7692/7714 are all morning-plan levels. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2097711596717985937",
+      "timestamp_utc": "2026-09-09T15:39:52.000Z",
+      "timestamp_est": "2026-09-09T11:39:52-04:00",
+      "tweet_text": "@Brian_Keith_Pho Important in any system. Cant day trade without volatility",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about volatility; no price named, no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2097712059286732886",
+      "timestamp_utc": "2026-09-09T15:41:43.000Z",
+      "timestamp_est": "2026-09-09T11:41:43-04:00",
+      "tweet_text": "Volatility remains low in #Es_F but finally probing under the 7649 support which has been todays key level, and a weak support as warned. 7638 was next down, just hit.\n\n7649 must reclaim to pop to 7659. 7671 must still recover to see any proper rally, no change. 7618 below https://t.co/hQALmMRWnr",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7649, 7638, 7659, 7671, 7618 are all observations/reaffirmations or morning-plan levels; no newly named actionable level introduced."
     }
   ]
 }
