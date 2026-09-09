@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T14:27:32.791400+00:00",
-  "fetched_at_est": "2026-09-09T10:27:32.791405-04:00",
+  "fetched_at_utc": "2026-09-09T14:37:41.993448+00:00",
+  "fetched_at_est": "2026-09-09T10:37:41.993452-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097333302197661766",
-      "timestamp_utc": "2026-09-08T14:36:40.000Z",
-      "timestamp_est": "2026-09-08T10:36:40-04:00",
-      "tweet_text": "@timvgp @Alvi72220 Its not a level I'd bid direct. I only trade Failed Breakdowns",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trade methodology (only trades Failed Breakdowns), no actionable price level named."
-    },
     {
       "tweet_id": "2097334673596723671",
       "timestamp_utc": "2026-09-08T14:42:07.000Z",
@@ -199,6 +190,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7659 is already in the morning plan. Comment is trade management/placement advice in reply to a user, not a new actionable level."
+    },
+    {
+      "tweet_id": "2097693346068140273",
+      "timestamp_utc": "2026-09-09T14:27:21.000Z",
+      "timestamp_est": "2026-09-09T10:27:21-04:00",
+      "tweet_text": "We are still glued to 7649 support mentioned here at 8am and in newsletter yesterday. #ES_F has no volatility again and once again, no volatility=very poor trading. Trading is easy when market makes fast, smooth moves\n\n7671 must reclaim to see any upside to 7680, 7692, 7714+ https://t.co/LfTrlrBkU3",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7649 is a hindsight reference to earlier post; 7671/7680/7692/7714 are all morning-plan levels. No new actionable levels introduced."
     }
   ]
 }
