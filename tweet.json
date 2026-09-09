@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T19:08:54.540748+00:00",
-  "fetched_at_est": "2026-09-09T15:08:54.540753-04:00",
+  "fetched_at_utc": "2026-09-09T19:18:57.125879+00:00",
+  "fetched_at_est": "2026-09-09T15:18:57.125885-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097402474013593838",
-      "timestamp_utc": "2026-09-08T19:11:32.000Z",
-      "timestamp_est": "2026-09-08T15:11:32-04:00",
-      "tweet_text": "@wakeupnow777x Good to see!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply, no price levels mentioned or implied."
-    },
     {
       "tweet_id": "2097486445430673742",
       "timestamp_utc": "2026-09-09T00:45:12.000Z",
