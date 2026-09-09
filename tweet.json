@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T00:55:06.680815+00:00",
-  "fetched_at_est": "2026-09-08T20:55:06.680821-04:00",
+  "fetched_at_utc": "2026-09-09T11:56:13.797537+00:00",
+  "fetched_at_est": "2026-09-09T07:56:13.797543-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2097292897984880947",
-      "timestamp_utc": "2026-09-08T11:56:07.000Z",
-      "timestamp_est": "2026-09-08T07:56:07-04:00",
-      "tweet_text": "Perfect scalping to start September in #ES_F. Per newsletter, 7695 was key support, with 7700 Failed Breakdowns triggering us long. We triggered 745pm, ran +20, and again 6am. Still active\n\nPlan: 7695=weak now. 7714, 7722, 7745 next. 95 fails, dip to 7671 (watch traps) https://t.co/UELHb4ExEl",
-      "added_bull_levels": [
-        7722.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7722 named explicitly as 'next' target resistance alongside morning-plan levels 7714/7745; it is not in today's published plan and carries actionable naming language."
-    },
     {
       "tweet_id": "2097293664804344160",
       "timestamp_utc": "2026-09-08T11:59:10.000Z",
@@ -202,6 +191,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about market conditions; no price levels named or actionable triggers of any kind."
+    },
+    {
+      "tweet_id": "2097654012594077897",
+      "timestamp_utc": "2026-09-09T11:51:03.000Z",
+      "timestamp_est": "2026-09-09T07:51:03-04:00",
+      "tweet_text": "Finally a tiny volatility pickup in #ES_F, the last few weeks have been slowest in years and no vol (as warned) means most trades chop. Overtrade &amp; lose.\n\nPlan today: 7649= weak support per newsletter. 7662/7671 must reclaim to see any rally today to 7680, 7692+.\n\n37, 18 below https://t.co/EDajmO1Vkp",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7649 is new but phrased as 'weak support per newsletter' reaffirmation context; 7662/7671/7680/7692 all in morning plan. No genuinely new actionable levels."
     }
   ]
 }
