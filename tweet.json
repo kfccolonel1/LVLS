@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T16:48:27.616083+00:00",
-  "fetched_at_est": "2026-09-09T12:48:27.616087-04:00",
+  "fetched_at_utc": "2026-09-09T17:58:36.490115+00:00",
+  "fetched_at_est": "2026-09-09T13:58:36.490122-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097381685058818261",
-      "timestamp_utc": "2026-09-08T17:48:55.000Z",
-      "timestamp_est": "2026-09-08T13:48:55-04:00",
-      "tweet_text": "@octoptionist @MattLaTurnKnow Yes. Just because price moves 200 points doesn't mean I trade the whole 200. I catch maybe 15 then runners, but the fact the market is producing that size of  move means theres more setups, they work better, they work quickly",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading style and move size; no actionable price level named or implied."
-    },
     {
       "tweet_id": "2097385936879251961",
       "timestamp_utc": "2026-09-08T18:05:49.000Z",
