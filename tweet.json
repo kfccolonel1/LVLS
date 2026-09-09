@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T12:56:52.546536+00:00",
-  "fetched_at_est": "2026-09-09T08:56:52.546549-04:00",
+  "fetched_at_utc": "2026-09-09T13:16:56.475894+00:00",
+  "fetched_at_est": "2026-09-09T09:16:56.475898-04:00",
   "last_new_level_added_at_est": "2026-09-09T08:49:07-04:00",
   "todays_new_levels": [
     {
@@ -14,17 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097312886460723408",
-      "timestamp_utc": "2026-09-08T13:15:32.000Z",
-      "timestamp_est": "2026-09-08T09:15:32-04:00",
-      "tweet_text": "Good start in #ES_F as the active Failed Breakdown continues to pay. Recoveries of the 7700 shelf from Thursday were the long triggers for today. First target given at 8am was 7714 (just hit). 7722, 7745 are next.\n\n7695 is now weak support, with 7671 below (watch traps there) https://t.co/3HGpZHmcEE",
-      "added_bull_levels": [
-        7722.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7722 named explicitly as 'next' target \u2014 not in morning plan. 7714, 7745, 7695, 7671 are all morning-plan levels (reaffirmations)."
-    },
     {
       "tweet_id": "2097325916657492065",
       "timestamp_utc": "2026-09-08T14:07:19.000Z",
