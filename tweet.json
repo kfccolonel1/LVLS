@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-09T20:49:07.471933+00:00",
-  "fetched_at_est": "2026-09-09T16:49:07.471937-04:00",
+  "fetched_at_utc": "2026-09-10T11:47:04.715254+00:00",
+  "fetched_at_est": "2026-09-10T07:47:04.715259-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2097486445430673742",
-      "timestamp_utc": "2026-09-09T00:45:12.000Z",
-      "timestamp_est": "2026-09-08T20:45:12-04:00",
-      "tweet_text": "@TuscanTrader Worst conditions in a few years for sure. Nothing worse than choppy/uptrending markets",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about market conditions; no price levels named or actionable triggers of any kind."
-    },
     {
       "tweet_id": "2097654012594077897",
       "timestamp_utc": "2026-09-09T11:51:03.000Z",
