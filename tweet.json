@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T11:47:04.715254+00:00",
-  "fetched_at_est": "2026-09-10T07:47:04.715259-04:00",
+  "fetched_at_utc": "2026-09-10T11:49:20.709309+00:00",
+  "fetched_at_est": "2026-09-10T07:49:20.709313-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -160,6 +160,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7649 is a passing observation of price action (glued to), not named as actionable. 7659/7671 are morning plan reaffirmations. No new levels."
+    },
+    {
+      "tweet_id": "2098015846064886001",
+      "timestamp_utc": "2026-09-10T11:48:51.000Z",
+      "timestamp_est": "2026-09-10T07:48:51-04:00",
+      "tweet_text": "Volatility remains rock bottom in #ES_F. As discussed non-stop, trading low vol means never over-trade &amp; always aggressively lock gains. Per newsletter, 7649 reclaims were our long &amp; we got to 7658 1st up\n\nPlan: 7649 reclaims still trigger to 7658, 7671+. 7622 (watch traps) below https://t.co/D5hLW4ZtzS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7649 and 7658 are newsletter/prior references; 7671 is a morning plan level; 7622 'watch traps' is observational commentary, not a named actionable level meeting all three criteria."
     }
   ]
 }
