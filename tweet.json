@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T18:09:58.853207+00:00",
-  "fetched_at_est": "2026-09-10T14:09:58.853212-04:00",
+  "fetched_at_utc": "2026-09-10T18:20:06.920829+00:00",
+  "fetched_at_est": "2026-09-10T14:20:06.920835-04:00",
   "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097749440702378068",
-      "timestamp_utc": "2026-09-09T18:10:15.000Z",
-      "timestamp_est": "2026-09-09T14:10:15-04:00",
-      "tweet_text": "We have returned to 7649 in #ES_F and volatility still remains low. 7649 is precise. 7649 was key support as posted this morning. We spent much of the morning there, then lost it. Now, we are back. This must recover to see 7659, 7671. Rip above there to.\n\nSame supports https://t.co/1BbKJqZ7oH",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7649 referenced as 'key support as posted this morning' \u2014 reaffirmation of existing context; 7659/7671 are morning-plan levels. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2097762260298964998",
       "timestamp_utc": "2026-09-09T19:01:12.000Z",
@@ -331,6 +322,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about risk management strategy; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2098111774281073088",
+      "timestamp_utc": "2026-09-10T18:10:02.000Z",
+      "timestamp_est": "2026-09-10T14:10:02-04:00",
+      "tweet_text": "@OnTheHooch I don't really have any thought or preference either way to be honest! We havn't recovered 7630 yet though, so bounces should all be seen as suspect until we do.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7630 is already in the morning plan; tweet is conversational commentary on price action, not naming a new actionable level."
     }
   ]
 }
