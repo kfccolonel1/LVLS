@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T21:10:55.008039+00:00",
-  "fetched_at_est": "2026-09-10T17:10:55.008043-04:00",
+  "fetched_at_utc": "2026-09-10T22:41:09.217948+00:00",
+  "fetched_at_est": "2026-09-10T18:41:09.217952-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -322,6 +322,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Purely philosophical/conversational reply about trading mindset. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2098177984331194794",
+      "timestamp_utc": "2026-09-10T22:33:08.000Z",
+      "timestamp_est": "2026-09-10T18:33:08-04:00",
+      "tweet_text": "@landers_je94283 Entry was 7608. I didnt enter at 7585 today. I took the 7603 reclaim long..7603+5=7608",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining a personal fill at 7608 and reclaim of 7603 \u2014 trade management/hindsight, no new actionable level named."
     }
   ]
 }
