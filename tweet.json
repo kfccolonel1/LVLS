@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T11:49:20.709309+00:00",
-  "fetched_at_est": "2026-09-10T07:49:20.709313-04:00",
+  "fetched_at_utc": "2026-09-10T11:57:18.165810+00:00",
+  "fetched_at_est": "2026-09-10T07:57:18.165824-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2097654012594077897",
-      "timestamp_utc": "2026-09-09T11:51:03.000Z",
-      "timestamp_est": "2026-09-09T07:51:03-04:00",
-      "tweet_text": "Finally a tiny volatility pickup in #ES_F, the last few weeks have been slowest in years and no vol (as warned) means most trades chop. Overtrade &amp; lose.\n\nPlan today: 7649= weak support per newsletter. 7662/7671 must reclaim to see any rally today to 7680, 7692+.\n\n37, 18 below https://t.co/EDajmO1Vkp",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7649 is new but phrased as 'weak support per newsletter' reaffirmation context; 7662/7671/7680/7692 all in morning plan. No genuinely new actionable levels."
-    },
     {
       "tweet_id": "2097656885822308462",
       "timestamp_utc": "2026-09-09T12:02:28.000Z",
@@ -169,6 +160,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7649 and 7658 are newsletter/prior references; 7671 is a morning plan level; 7622 'watch traps' is observational commentary, not a named actionable level meeting all three criteria."
+    },
+    {
+      "tweet_id": "2098017229581214011",
+      "timestamp_utc": "2026-09-10T11:54:21.000Z",
+      "timestamp_est": "2026-09-10T07:54:21-04:00",
+      "tweet_text": "Volatility remains rock bottom in #ES_F. As discussed non-stop, trading low vol means never over-trade &amp; always aggressively lock gains. Per newsletter, 7649 reclaims were our long &amp; we got to 7658 1st up\n\nPlan: 7649 reclaims still trigger to 7658, 7671+. 7630=support (watch https://t.co/D5hLW4ZtzS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7649, 7630, 7658, 7671 all reaffirmations of morning plan or previously mentioned targets; 7658 is an observation of price hit, not a new level."
+    },
+    {
+      "tweet_id": "2098017282903478546",
+      "timestamp_utc": "2026-09-10T11:54:34.000Z",
+      "timestamp_est": "2026-09-10T07:54:34-04:00",
+      "tweet_text": "@hypnotraders_ Typo in my tweet. Corrected it",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a typo correction notice with no price levels named or any actionable content."
+    },
+    {
+      "tweet_id": "2098017458489606242",
+      "timestamp_utc": "2026-09-10T11:55:16.000Z",
+      "timestamp_est": "2026-09-10T07:55:16-04:00",
+      "tweet_text": "@TechReview68063 Hopefully can get some red! We won't get good trading conditions back until ES gets a very deep sell.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary/opinion about market conditions; no actionable price level named."
+    },
+    {
+      "tweet_id": "2098017552307818904",
+      "timestamp_utc": "2026-09-10T11:55:38.000Z",
+      "timestamp_est": "2026-09-10T07:55:38-04:00",
+      "tweet_text": "@TechReview68063 Sells create volatility",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about market dynamics, no actionable price level named."
     }
   ]
 }
