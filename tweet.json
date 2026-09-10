@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T19:10:25.217263+00:00",
-  "fetched_at_est": "2026-09-10T15:10:25.217269-04:00",
+  "fetched_at_utc": "2026-09-10T19:20:30.574327+00:00",
+  "fetched_at_est": "2026-09-10T15:20:30.574332-04:00",
   "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
@@ -331,6 +331,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual reply referencing 7611 as an observation of price action ('did also to 7611'), no actionable naming language used."
+    },
+    {
+      "tweet_id": "2098128852673241512",
+      "timestamp_utc": "2026-09-10T19:17:54.000Z",
+      "timestamp_est": "2026-09-10T15:17:54-04:00",
+      "tweet_text": "Closing update #ES_F: All the action happened in the morning as we chopped the afternoon. 7603 must reclaim this evening to return to that ~7630 region, above which we can see a proper squeeze. Newsletter out soon talking the downside entries from here",
+      "added_bull_levels": [
+        7603.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7603 named as a must-reclaim trigger level (new, not in morning plan); 7630 is a morning plan reaffirmation, ignored."
     }
   ]
 }
