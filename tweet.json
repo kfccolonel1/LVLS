@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T11:57:18.165810+00:00",
-  "fetched_at_est": "2026-09-10T07:57:18.165824-04:00",
+  "fetched_at_utc": "2026-09-10T12:07:28.763102+00:00",
+  "fetched_at_est": "2026-09-10T08:07:28.763117-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2097656885822308462",
-      "timestamp_utc": "2026-09-09T12:02:28.000Z",
-      "timestamp_est": "2026-09-09T08:02:28-04:00",
-      "tweet_text": "@house2k6 There was a breakdown short under 71 but thats already played out.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reply referencing a past trade ('already played out'); no actionable naming language, just hindsight observation of a breakdown under 7471."
-    },
     {
       "tweet_id": "2097660275054772459",
       "timestamp_utc": "2026-09-09T12:15:56.000Z",
@@ -196,6 +187,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about market dynamics, no actionable price level named."
+    },
+    {
+      "tweet_id": "2098018407962571236",
+      "timestamp_utc": "2026-09-10T11:59:02.000Z",
+      "timestamp_est": "2026-09-10T07:59:02-04:00",
+      "tweet_text": "@danny_samimi We've been in the same range for 24hrs. That's not volatile and ES is also making very small 20-30 points moves. This is the lowest possible volatility configuration for ES. In normal vol ES is making 50-70 points fairly easily and in high vol that expands to 100-300 points",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure volatility commentary; no prices named, no actionable levels introduced. Just describing range-bound, low-vol conditions with no entry/target/support/resistance."
+    },
+    {
+      "tweet_id": "2098018567480377350",
+      "timestamp_utc": "2026-09-10T11:59:40.000Z",
+      "timestamp_est": "2026-09-10T07:59:40-04:00",
+      "tweet_text": "@danny_samimi *same 35 point range",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely observational commentary about range size."
+    },
+    {
+      "tweet_id": "2098018750846886051",
+      "timestamp_utc": "2026-09-10T12:00:24.000Z",
+      "timestamp_est": "2026-09-10T08:00:24-04:00",
+      "tweet_text": "@danny_samimi If we sell 50-70 points from here I'd call that a return to more normal volatility and that would also create larger rips back the other way",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on volatility and hypothetical price movement; no specific actionable price named with naming language."
     }
   ]
 }
