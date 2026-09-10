@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T16:49:41.143463+00:00",
-  "fetched_at_est": "2026-09-10T12:49:41.143476-04:00",
+  "fetched_at_utc": "2026-09-10T17:59:53.314889+00:00",
+  "fetched_at_est": "2026-09-10T13:59:53.314896-04:00",
   "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
@@ -313,6 +313,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about bear market rally frequency; no price levels named, no actionable entries, targets, or triggers mentioned."
+    },
+    {
+      "tweet_id": "2098106912885661927",
+      "timestamp_utc": "2026-09-10T17:50:43.000Z",
+      "timestamp_est": "2026-09-10T13:50:43-04:00",
+      "tweet_text": "We are now settling into chop in #ES_F but levels working well today. 7589 remains support. It was today's final sell target and we held, swept quickly, and ran ~30 points. Next major leg down begins when that fails now.\n\n7630 must recover to see any sustained bounces from here https://t.co/SykgIDgiFB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7589 and 7630 are both in today's morning plan. Tweet reaffirms existing levels with observation of price action. No new actionable levels introduced."
     }
   ]
 }
