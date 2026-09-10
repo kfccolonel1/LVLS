@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T15:18:48.669840+00:00",
-  "fetched_at_est": "2026-09-10T11:18:48.669845-04:00",
+  "fetched_at_utc": "2026-09-10T15:48:53.374189+00:00",
+  "fetched_at_est": "2026-09-10T11:48:53.374194-04:00",
   "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097711596717985937",
-      "timestamp_utc": "2026-09-09T15:39:52.000Z",
-      "timestamp_est": "2026-09-09T11:39:52-04:00",
-      "tweet_text": "@Brian_Keith_Pho Important in any system. Cant day trade without volatility",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about volatility; no price named, no actionable level of any kind."
-    },
-    {
-      "tweet_id": "2097712059286732886",
-      "timestamp_utc": "2026-09-09T15:41:43.000Z",
-      "timestamp_est": "2026-09-09T11:41:43-04:00",
-      "tweet_text": "Volatility remains low in #Es_F but finally probing under the 7649 support which has been todays key level, and a weak support as warned. 7638 was next down, just hit.\n\n7649 must reclaim to pop to 7659. 7671 must still recover to see any proper rally, no change. 7618 below https://t.co/hQALmMRWnr",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7649, 7638, 7659, 7671, 7618 are all observations/reaffirmations or morning-plan levels; no newly named actionable level introduced."
-    },
     {
       "tweet_id": "2097720040443277609",
       "timestamp_utc": "2026-09-09T16:13:26.000Z",
