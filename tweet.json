@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T15:08:43.040768+00:00",
-  "fetched_at_est": "2026-09-10T11:08:43.040781-04:00",
+  "fetched_at_utc": "2026-09-10T15:18:48.669840+00:00",
+  "fetched_at_est": "2026-09-10T11:18:48.669845-04:00",
   "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
@@ -268,6 +268,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trading methodology; no specific price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2098068116643225772",
+      "timestamp_utc": "2026-09-10T15:16:33.000Z",
+      "timestamp_est": "2026-09-10T11:16:33-04:00",
+      "tweet_text": "@octoptionist I'd use the non-acceptance protocol. 7603+5=7608 entry. 7603 wouldve been a level reclaim not a Failed Breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining a protocol/entry math for 7608; conversational instruction to another user, not a standalone new major level announcement."
     }
   ]
 }
