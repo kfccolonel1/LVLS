@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T13:08:12.982954+00:00",
-  "fetched_at_est": "2026-09-10T09:08:12.982959-04:00",
+  "fetched_at_utc": "2026-09-10T13:38:20.771012+00:00",
+  "fetched_at_est": "2026-09-10T09:38:20.771019-04:00",
   "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
@@ -268,6 +268,15 @@
         7659.0
       ],
       "notes": "7603 and 7611 named as sub-levels below 7630; 7659 named as rip target above 7649; 7589 already in morning plan. All are actionable references not in the published plan."
+    },
+    {
+      "tweet_id": "2098041181896663357",
+      "timestamp_utc": "2026-09-10T13:29:32.000Z",
+      "timestamp_est": "2026-09-10T09:29:32-04:00",
+      "tweet_text": "@ArcherCaptial The bear case and short from newsletter triggered, but that doesn't mean we just sell forever. ES cycles between elevator down and short squeezes, so now we will need to have a large squeeze",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary about bear case and expected squeeze cycle; no actionable price level named or implied."
     }
   ]
 }
