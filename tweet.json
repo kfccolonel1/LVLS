@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T12:58:06.602169+00:00",
-  "fetched_at_est": "2026-09-10T08:58:06.602176-04:00",
-  "last_new_level_added_at_est": "2026-09-10T08:33:06-04:00",
+  "fetched_at_utc": "2026-09-10T13:08:12.982954+00:00",
+  "fetched_at_est": "2026-09-10T09:08:12.982959-04:00",
+  "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
       "price": 7658.0,
@@ -25,6 +25,13 @@
       "added_at_est": "2026-09-10T08:33:06-04:00",
       "expires_at_est": "2026-09-10T16:33:06-04:00",
       "from_tweet_id": "2098026979433783758"
+    },
+    {
+      "price": 7659.0,
+      "side": "bear",
+      "added_at_est": "2026-09-10T09:05:31-04:00",
+      "expires_at_est": "2026-09-10T17:05:31-04:00",
+      "from_tweet_id": "2098035141041848535"
     }
   ],
   "updates": [
@@ -248,6 +255,19 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a simple reply with no prices, no actionable levels, and no trading content whatsoever."
+    },
+    {
+      "tweet_id": "2098035141041848535",
+      "timestamp_utc": "2026-09-10T13:05:31.000Z",
+      "timestamp_est": "2026-09-10T09:05:31-04:00",
+      "tweet_text": "Finally a nice \"elevator down\" sell in #ES_F and this means trading conditions open back up. 7611, 7603 were below 7630 and we just tagged 7603. ~7630 must recover to see any large rip today back to 7649, 7659, 7671+.\n\n7589 is next major level below 7603 from here https://t.co/1uk7zHqFeK",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7603.0,
+        7611.0,
+        7659.0
+      ],
+      "notes": "7603 and 7611 named as sub-levels below 7630; 7659 named as rip target above 7649; 7589 already in morning plan. All are actionable references not in the published plan."
     }
   ]
 }
