@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T13:58:27.532675+00:00",
-  "fetched_at_est": "2026-09-10T09:58:27.532681-04:00",
+  "fetched_at_utc": "2026-09-10T14:28:31.908966+00:00",
+  "fetched_at_est": "2026-09-10T10:28:31.908972-04:00",
   "last_new_level_added_at_est": "2026-09-10T09:05:31-04:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2097692786736648351",
-      "timestamp_utc": "2026-09-09T14:25:08.000Z",
-      "timestamp_est": "2026-09-09T10:25:08-04:00",
-      "tweet_text": "@mikedrop67 In that case I'd likely stick it abit under 7659 which is the first big level down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7659 is already in the morning plan. Comment is trade management/placement advice in reply to a user, not a new actionable level."
-    },
-    {
-      "tweet_id": "2097693346068140273",
-      "timestamp_utc": "2026-09-09T14:27:21.000Z",
-      "timestamp_est": "2026-09-09T10:27:21-04:00",
-      "tweet_text": "We are still glued to 7649 support mentioned here at 8am and in newsletter yesterday. #ES_F has no volatility again and once again, no volatility=very poor trading. Trading is easy when market makes fast, smooth moves\n\n7671 must reclaim to see any upside to 7680, 7692, 7714+ https://t.co/LfTrlrBkU3",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7649 is a hindsight reference to earlier post; 7671/7680/7692/7714 are all morning-plan levels. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2097711596717985937",
       "timestamp_utc": "2026-09-09T15:39:52.000Z",
