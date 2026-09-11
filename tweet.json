@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T14:43:58.133239+00:00",
-  "fetched_at_est": "2026-09-11T10:43:58.133244-04:00",
+  "fetched_at_utc": "2026-09-11T15:04:01.872050+00:00",
+  "fetched_at_est": "2026-09-11T11:04:01.872056-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2098064226543697951",
-      "timestamp_utc": "2026-09-10T15:01:06.000Z",
-      "timestamp_est": "2026-09-10T11:01:06-04:00",
-      "tweet_text": "Precise action so far today in #ES_F. 7589 was support and sell target after we lost 7630. It held Newsletter readers know this is macro bull flag support. 7603 reclaim then triggers long as posted, and we just ran +18. No real rally until 7630 recovers now. Bull/bear line https://t.co/QFEFn1n0H7",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7589, 7630, 7603 all referenced as prior newsletter/morning levels or observations of price action already taken; no new actionable levels named."
-    },
-    {
-      "tweet_id": "2098064347427700893",
-      "timestamp_utc": "2026-09-10T15:01:35.000Z",
-      "timestamp_est": "2026-09-10T11:01:35-04:00",
-      "tweet_text": "@beddiecustomer1 Thats not how any of this works. There has to be triggers and profit takes are level to level",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trading methodology; no specific price levels named or actionable triggers identified."
-    },
     {
       "tweet_id": "2098068116643225772",
       "timestamp_utc": "2026-09-10T15:16:33.000Z",
