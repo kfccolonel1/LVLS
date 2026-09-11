@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T11:32:27.422667+00:00",
-  "fetched_at_est": "2026-09-11T07:32:27.422673-04:00",
+  "fetched_at_utc": "2026-09-11T11:42:32.898065+00:00",
+  "fetched_at_est": "2026-09-11T07:42:32.898079-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -340,6 +340,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels mentioned (7603, 7622/27, 7649, 7662, 7671) are in the morning plan or are trade management/hindsight references. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2098374566217236703",
+      "timestamp_utc": "2026-09-11T11:34:17.000Z",
+      "timestamp_est": "2026-09-11T07:34:17-04:00",
+      "tweet_text": "@kpsardar All in newsletter. Structure extremely bullish now but CPI can invalidate so just ride runner now and watch for newsletter entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; pure trade management and directional commentary with no actionable new level introduced."
     }
   ]
 }
