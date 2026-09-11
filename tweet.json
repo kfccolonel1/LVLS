@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-10T22:41:09.217948+00:00",
-  "fetched_at_est": "2026-09-10T18:41:09.217952-04:00",
+  "fetched_at_utc": "2026-09-11T11:32:27.422667+00:00",
+  "fetched_at_est": "2026-09-11T07:32:27.422673-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -331,6 +331,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining a personal fill at 7608 and reclaim of 7603 \u2014 trade management/hindsight, no new actionable level named."
+    },
+    {
+      "tweet_id": "2098373326242463945",
+      "timestamp_utc": "2026-09-11T11:29:21.000Z",
+      "timestamp_est": "2026-09-11T07:29:21-04:00",
+      "tweet_text": "Big follow through in #ES_F. Yesterday's major support was 7589 (bull flag support). It held. Two long triggers were given here + in newsletter. 7603 reclaim &amp; 7622/27 reclaim. Both triggered last eve\n\nPlan: Lock gains here before CPI, ride runner. 7649, 7662, 7671+ next. https://t.co/QsC5rYO7f9",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7603, 7622/27, 7649, 7662, 7671) are in the morning plan or are trade management/hindsight references. No new actionable levels introduced."
     }
   ]
 }
