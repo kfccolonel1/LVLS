@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T15:34:14.340756+00:00",
-  "fetched_at_est": "2026-09-11T11:34:14.340764-04:00",
+  "fetched_at_utc": "2026-09-11T15:44:21.566131+00:00",
+  "fetched_at_est": "2026-09-11T11:44:21.566136-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -323,6 +323,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price mentioned, purely conversational, no actionable level named."
+    },
+    {
+      "tweet_id": "2098435346677534903",
+      "timestamp_utc": "2026-09-11T15:35:48.000Z",
+      "timestamp_est": "2026-09-11T11:35:48-04:00",
+      "tweet_text": "With breakout underway, now is easy part: Ride runner. Entries were given explictly here + in newsletter. The 7603 reclaim or the 7622/27 reclaim. I warned many times we ripped hard and sustainably above 27.\n\nTodays targets were 7649, 7662, 7672 (all hit). 7694, 7704, 7745 next https://t.co/KVkWHXSJsD",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7603, 7622/27, 7649, 7662, 7672, 7694, 7704, 7745) are morning-plan levels or hindsight references to entries/targets already hit. No new actionable level introduced."
     }
   ]
 }
