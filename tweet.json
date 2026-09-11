@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T14:03:47.834034+00:00",
-  "fetched_at_est": "2026-09-11T10:03:47.834039-04:00",
+  "fetched_at_utc": "2026-09-11T14:43:58.133239+00:00",
+  "fetched_at_est": "2026-09-11T10:43:58.133244-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -323,6 +323,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7650 named as support intraday, not in morning plan; actionable level explicitly stated."
+    },
+    {
+      "tweet_id": "2098421443218243876",
+      "timestamp_utc": "2026-09-11T14:40:33.000Z",
+      "timestamp_est": "2026-09-11T10:40:33-04:00",
+      "tweet_text": "Today's session over by 830AM in #ES_F, but we waited all yesterday for this. Per 8 tweets + newsletter, longs were twofold: 1) 7603 reclaim 2) 7622/7627 reclaim which would trigger a massive rip. Today's targets  was 7649, 7662, 7671. All hit.\n\n7694, 7704 bonus. 49, 27=supports https://t.co/Fsnm2GWXp4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7603, 7622, 7627, 7649, 7662, 7671, 7694, 7704) are morning plan levels or hindsight target-hit references; no new actionable levels introduced."
     }
   ]
 }
