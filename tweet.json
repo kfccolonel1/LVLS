@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T17:54:54.268408+00:00",
-  "fetched_at_est": "2026-09-11T13:54:54.268415-04:00",
+  "fetched_at_utc": "2026-09-11T18:04:56.788662+00:00",
+  "fetched_at_est": "2026-09-11T14:04:56.788668-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2098110227237236896",
-      "timestamp_utc": "2026-09-10T18:03:53.000Z",
-      "timestamp_est": "2026-09-10T14:03:53-04:00",
-      "tweet_text": "@turtle_trad3r @octoptionist They are fine as long as they are fresh levels and there is good volatility. Obviously if you take it during a chop window, where there is no elevator down to snap price back they are riskier",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about risk management strategy; no price levels named or actionable triggers given."
-    },
     {
       "tweet_id": "2098111774281073088",
       "timestamp_utc": "2026-09-10T18:10:02.000Z",
