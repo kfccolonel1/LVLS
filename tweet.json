@@ -1,74 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T11:52:38.405038+00:00",
-  "fetched_at_est": "2026-09-11T07:52:38.405043-04:00",
+  "fetched_at_utc": "2026-09-11T12:02:40.985228+00:00",
+  "fetched_at_est": "2026-09-11T08:02:40.985232-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2098017229581214011",
-      "timestamp_utc": "2026-09-10T11:54:21.000Z",
-      "timestamp_est": "2026-09-10T07:54:21-04:00",
-      "tweet_text": "Volatility remains rock bottom in #ES_F. As discussed non-stop, trading low vol means never over-trade &amp; always aggressively lock gains. Per newsletter, 7649 reclaims were our long &amp; we got to 7658 1st up\n\nPlan: 7649 reclaims still trigger to 7658, 7671+. 7630=support (watch https://t.co/D5hLW4ZtzS",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7649, 7630, 7658, 7671 all reaffirmations of morning plan or previously mentioned targets; 7658 is an observation of price hit, not a new level."
-    },
-    {
-      "tweet_id": "2098017282903478546",
-      "timestamp_utc": "2026-09-10T11:54:34.000Z",
-      "timestamp_est": "2026-09-10T07:54:34-04:00",
-      "tweet_text": "@hypnotraders_ Typo in my tweet. Corrected it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a typo correction notice with no price levels named or any actionable content."
-    },
-    {
-      "tweet_id": "2098017458489606242",
-      "timestamp_utc": "2026-09-10T11:55:16.000Z",
-      "timestamp_est": "2026-09-10T07:55:16-04:00",
-      "tweet_text": "@TechReview68063 Hopefully can get some red! We won't get good trading conditions back until ES gets a very deep sell.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary/opinion about market conditions; no actionable price level named."
-    },
-    {
-      "tweet_id": "2098017552307818904",
-      "timestamp_utc": "2026-09-10T11:55:38.000Z",
-      "timestamp_est": "2026-09-10T07:55:38-04:00",
-      "tweet_text": "@TechReview68063 Sells create volatility",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about market dynamics, no actionable price level named."
-    },
-    {
-      "tweet_id": "2098018407962571236",
-      "timestamp_utc": "2026-09-10T11:59:02.000Z",
-      "timestamp_est": "2026-09-10T07:59:02-04:00",
-      "tweet_text": "@danny_samimi We've been in the same range for 24hrs. That's not volatile and ES is also making very small 20-30 points moves. This is the lowest possible volatility configuration for ES. In normal vol ES is making 50-70 points fairly easily and in high vol that expands to 100-300 points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure volatility commentary; no prices named, no actionable levels introduced. Just describing range-bound, low-vol conditions with no entry/target/support/resistance."
-    },
-    {
-      "tweet_id": "2098018567480377350",
-      "timestamp_utc": "2026-09-10T11:59:40.000Z",
-      "timestamp_est": "2026-09-10T07:59:40-04:00",
-      "tweet_text": "@danny_samimi *same 35 point range",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely observational commentary about range size."
-    },
-    {
-      "tweet_id": "2098018750846886051",
-      "timestamp_utc": "2026-09-10T12:00:24.000Z",
-      "timestamp_est": "2026-09-10T08:00:24-04:00",
-      "tweet_text": "@danny_samimi If we sell 50-70 points from here I'd call that a return to more normal volatility and that would also create larger rips back the other way",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on volatility and hypothetical price movement; no specific actionable price named with naming language."
-    },
     {
       "tweet_id": "2098020770479788288",
       "timestamp_utc": "2026-09-10T12:08:25.000Z",
