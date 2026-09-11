@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T16:34:33.702452+00:00",
-  "fetched_at_est": "2026-09-11T12:34:33.702455-04:00",
+  "fetched_at_utc": "2026-09-11T16:44:36.051115+00:00",
+  "fetched_at_est": "2026-09-11T12:44:36.051125-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2098089202982216044",
-      "timestamp_utc": "2026-09-10T16:40:21.000Z",
-      "timestamp_est": "2026-09-10T12:40:21-04:00",
-      "tweet_text": "@paigeclay0 Its always bullish, hasn't changed for 100+ years. We'll see a squeeze from this back up the levels",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no specific price named; 'back up the levels' is vague directional commentary, not an actionable level."
-    },
-    {
-      "tweet_id": "2098089278412632081",
-      "timestamp_utc": "2026-09-10T16:40:39.000Z",
-      "timestamp_est": "2026-09-10T12:40:39-04:00",
-      "tweet_text": "@paigeclay0 (when we get a trigger)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to a user with no price named, no actionable level, no naming language \u2014 purely conversational."
-    },
     {
       "tweet_id": "2098090477241139541",
       "timestamp_utc": "2026-09-10T16:45:25.000Z",
