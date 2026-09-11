@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T13:33:26.092540+00:00",
-  "fetched_at_est": "2026-09-11T09:33:26.092546-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-09-11T13:43:43.841034+00:00",
+  "fetched_at_est": "2026-09-11T09:43:43.841048-04:00",
+  "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7650.0,
+      "side": "bull",
+      "added_at_est": "2026-09-11T09:37:06-04:00",
+      "expires_at_est": "2026-09-11T17:37:06-04:00",
+      "from_tweet_id": "2098405475654021484"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2098048371973890504",
@@ -295,6 +303,35 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7622/27 are morning-plan levels; tweet is a clarification/reaffirmation of existing plan, no new actionable price named."
+    },
+    {
+      "tweet_id": "2098405374407659627",
+      "timestamp_utc": "2026-09-11T13:36:42.000Z",
+      "timestamp_est": "2026-09-11T09:36:42-04:00",
+      "tweet_text": "We continue to run nicely &amp; waited all day yesterday for this trade (tweeted hourly). 7622/27 recovery would give bulls control back, and rip (per newsletter, 7603 reclaim was a long in advance in #ES_F). Today's 730am targets were 7649, 7662, 7671. All hit.\n\n7692, 7704 next https://t.co/UoK1zPxixI",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7622, 7627, 7603, 7649, 7662, 7671, 7692, 7704) are in the morning plan or are hindsight/reaffirmation references. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2098405404711542899",
+      "timestamp_utc": "2026-09-11T13:36:49.000Z",
+      "timestamp_est": "2026-09-11T09:36:49-04:00",
+      "tweet_text": "7650 now support",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7650 is close to but not exactly 7649 from morning plan \u2014 however 'now support' is an observation of price action, not explicit actionable naming language; conservative bias applied."
+    },
+    {
+      "tweet_id": "2098405475654021484",
+      "timestamp_utc": "2026-09-11T13:37:06.000Z",
+      "timestamp_est": "2026-09-11T09:37:06-04:00",
+      "tweet_text": "7650 now support",
+      "added_bull_levels": [
+        7650.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7650 named as support intraday, not in morning plan; actionable level explicitly stated."
     }
   ]
 }
