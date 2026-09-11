@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T13:23:23.359230+00:00",
-  "fetched_at_est": "2026-09-11T09:23:23.359247-04:00",
+  "fetched_at_utc": "2026-09-11T13:33:26.092540+00:00",
+  "fetched_at_est": "2026-09-11T09:33:26.092546-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2098041181896663357",
-      "timestamp_utc": "2026-09-10T13:29:32.000Z",
-      "timestamp_est": "2026-09-10T09:29:32-04:00",
-      "tweet_text": "@ArcherCaptial The bear case and short from newsletter triggered, but that doesn't mean we just sell forever. ES cycles between elevator down and short squeezes, so now we will need to have a large squeeze",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary about bear case and expected squeeze cycle; no actionable price level named or implied."
-    },
     {
       "tweet_id": "2098048371973890504",
       "timestamp_utc": "2026-09-10T13:58:06.000Z",
