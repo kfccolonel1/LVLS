@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T18:14:59.162252+00:00",
-  "fetched_at_est": "2026-09-11T14:14:59.162256-04:00",
+  "fetched_at_utc": "2026-09-11T18:25:04.700767+00:00",
+  "fetched_at_est": "2026-09-11T14:25:04.700772-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -251,6 +251,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels mentioned (7622/27, 7649, 7662, 7672, 7694) are in the morning plan or are hindsight/trade-management references. No new actionable level named."
+    },
+    {
+      "tweet_id": "2098475749997003005",
+      "timestamp_utc": "2026-09-11T18:16:21.000Z",
+      "timestamp_est": "2026-09-11T14:16:21-04:00",
+      "tweet_text": "Closing update #ES_F: Barring some big headline, the session was over at 830AM today after CPI. Now just ride runner for upside targets. Newsletter was sent early today as there are several quality entries to the downside if we luck out and get some volatility later/Sunday/Monday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific prices named; purely trade management (ride runner) and general commentary about newsletter entries with no actionable levels explicitly stated."
     }
   ]
 }
