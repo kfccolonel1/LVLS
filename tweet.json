@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T18:45:08.318460+00:00",
-  "fetched_at_est": "2026-09-11T14:45:08.318465-04:00",
+  "fetched_at_utc": "2026-09-11T19:25:13.266571+00:00",
+  "fetched_at_est": "2026-09-11T15:25:13.266577-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -14,26 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2098128852673241512",
-      "timestamp_utc": "2026-09-10T19:17:54.000Z",
-      "timestamp_est": "2026-09-10T15:17:54-04:00",
-      "tweet_text": "Closing update #ES_F: All the action happened in the morning as we chopped the afternoon. 7603 must reclaim this evening to return to that ~7630 region, above which we can see a proper squeeze. Newsletter out soon talking the downside entries from here",
-      "added_bull_levels": [
-        7603.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7603 named as a must-reclaim trigger level (new, not in morning plan); 7630 is a morning plan reaffirmation, ignored."
-    },
-    {
-      "tweet_id": "2098130625169371592",
-      "timestamp_utc": "2026-09-10T19:24:57.000Z",
-      "timestamp_est": "2026-09-10T15:24:57-04:00",
-      "tweet_text": "@SewnaW18515 Yes for sure. Eventually though goal is just not to expect anything. Just watch price and react to triggers. Don't need price to do anything or have any opinion on it. I don't even think about what price might do during the session anymore",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Purely philosophical/conversational reply about trading mindset. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2098177984331194794",
       "timestamp_utc": "2026-09-10T22:33:08.000Z",
