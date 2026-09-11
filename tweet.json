@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T18:04:56.788662+00:00",
-  "fetched_at_est": "2026-09-11T14:04:56.788668-04:00",
+  "fetched_at_utc": "2026-09-11T18:14:59.162252+00:00",
+  "fetched_at_est": "2026-09-11T14:14:59.162256-04:00",
   "last_new_level_added_at_est": "2026-09-11T09:37:06-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2098111774281073088",
-      "timestamp_utc": "2026-09-10T18:10:02.000Z",
-      "timestamp_est": "2026-09-10T14:10:02-04:00",
-      "tweet_text": "@OnTheHooch I don't really have any thought or preference either way to be honest! We havn't recovered 7630 yet though, so bounces should all be seen as suspect until we do.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7630 is already in the morning plan; tweet is conversational commentary on price action, not naming a new actionable level."
-    },
     {
       "tweet_id": "2098118731423441171",
       "timestamp_utc": "2026-09-10T18:37:41.000Z",
