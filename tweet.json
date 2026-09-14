@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T11:59:47.018490+00:00",
-  "fetched_at_est": "2026-09-14T07:59:47.018504-04:00",
+  "fetched_at_utc": "2026-09-14T12:09:56.765921+00:00",
+  "fetched_at_est": "2026-09-14T08:09:56.765931-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -77,6 +77,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7620, 7627, 7637, 7650, 7595) are morning-plan levels or reaffirmations; 7627 is a target derived from existing levels, not newly named as actionable."
+    },
+    {
+      "tweet_id": "2099468520023052700",
+      "timestamp_utc": "2026-09-14T12:01:16.000Z",
+      "timestamp_est": "2026-09-14T08:01:16-04:00",
+      "tweet_text": "@tradivate Because we set a totally new low from last week. Last weeks structure was on the Saturday before, and we set a major new low on Thursday. If you didn't draw new lines as new price forms you wouldn't have a chart! It doesn't invalidate the old pattern but it does create a new one",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining charting methodology; no actionable price levels named, just conceptual discussion of redrawing lines as new lows form."
+    },
+    {
+      "tweet_id": "2099468860554424330",
+      "timestamp_utc": "2026-09-14T12:02:37.000Z",
+      "timestamp_est": "2026-09-14T08:02:37-04:00",
+      "tweet_text": "@RaoTrader Roughly, I'll be rolling when tradingview does at 6pm",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about contract rolling schedule at 6pm \u2014 no price level named, purely administrative/conversational."
+    },
+    {
+      "tweet_id": "2099469236326261225",
+      "timestamp_utc": "2026-09-14T12:04:06.000Z",
+      "timestamp_est": "2026-09-14T08:04:06-04:00",
+      "tweet_text": "@upandown007 @Essniper11 This bull flag I drew did not exist until Thursday when we set the new recent low. it did not exist the Saturday before. When price sets a major low like that though it creates a new valid channel that I then have to draw",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; tweet is purely educational commentary about chart pattern construction, not actionable level identification."
     }
   ]
 }
