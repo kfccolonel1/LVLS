@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T15:11:20.936627+00:00",
-  "fetched_at_est": "2026-09-14T11:11:20.936634-04:00",
+  "fetched_at_utc": "2026-09-14T15:21:26.928403+00:00",
+  "fetched_at_est": "2026-09-14T11:21:26.928408-04:00",
   "last_new_level_added_at_est": "2026-09-14T09:22:19-04:00",
   "todays_new_levels": [
     {
@@ -240,6 +240,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about volatility and day trading direction; no price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2099516610658635914",
+      "timestamp_utc": "2026-09-14T15:12:21.000Z",
+      "timestamp_est": "2026-09-14T11:12:21-04:00",
+      "tweet_text": "Levels are respecting well today but we again just have no volatility with ES Stuck in a 25 point range with all range excursions trapping. 7595 was support and it just held exact as posted. 7620 resistance. If we can clear, we see 7627 (Hit already), 7637, then 7650 gap fill https://t.co/fEGcs2mr4k",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7595, 7620, 7637, 7650 all in morning plan; 7627 mentioned as already hit with no actionable naming language \u2014 observation only."
     }
   ]
 }
