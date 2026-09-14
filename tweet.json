@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T18:32:17.368928+00:00",
-  "fetched_at_est": "2026-09-14T14:32:17.368933-04:00",
+  "fetched_at_utc": "2026-09-14T19:02:24.608629+00:00",
+  "fetched_at_est": "2026-09-14T15:02:24.608636-04:00",
   "last_new_level_added_at_est": "2026-09-14T14:22:28-04:00",
   "todays_new_levels": [
     {
@@ -275,6 +275,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7663 and 7680 are newly named bonus resistance targets not in morning plan; 7714 is already published. 7595/7637/7650 are morning plan reaffirmations."
+    },
+    {
+      "tweet_id": "2099574364790305079",
+      "timestamp_utc": "2026-09-14T19:01:51.000Z",
+      "timestamp_est": "2026-09-14T15:01:51-04:00",
+      "tweet_text": "Closing update #ES_F: Day is done. Newsletter will be sent out shortly with the plan for tomorrow. Note that this will be the last update using the old September levels. At 6pm, I will roll to December (z contract) and all levels will be December for the next 3 months",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Closing administrative update about contract roll to December; no actionable prices named, no new levels introduced."
     }
   ]
 }
