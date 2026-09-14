@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T13:50:44.894341+00:00",
-  "fetched_at_est": "2026-09-14T09:50:44.894347-04:00",
+  "fetched_at_utc": "2026-09-14T14:31:01.341753+00:00",
+  "fetched_at_est": "2026-09-14T10:31:01.341766-04:00",
   "last_new_level_added_at_est": "2026-09-14T09:22:19-04:00",
   "todays_new_levels": [
     {
@@ -186,6 +186,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply about a schedule/timing question, no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2099504383939559663",
+      "timestamp_utc": "2026-09-14T14:23:46.000Z",
+      "timestamp_est": "2026-09-14T10:23:46-04:00",
+      "tweet_text": "@DarkBeforeGreen Appreciate it, and thanks for the subscribe!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a social reply with no price levels, no actionable language, and no market content whatsoever."
+    },
+    {
+      "tweet_id": "2099504556702925057",
+      "timestamp_utc": "2026-09-14T14:24:27.000Z",
+      "timestamp_est": "2026-09-14T10:24:27-04:00",
+      "tweet_text": "@gmzel Its very unlikely to last that long, getting fairly old already and extended to the right. Probably resolves upward or downward this month",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary about a pattern resolving; no price named, no actionable level, no naming language used."
+    },
+    {
+      "tweet_id": "2099504625527169475",
+      "timestamp_utc": "2026-09-14T14:24:44.000Z",
+      "timestamp_est": "2026-09-14T10:24:44-04:00",
+      "tweet_text": "@gmzel (or both!)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply with no price levels, no actionable language, and no naming of any level whatsoever."
+    },
+    {
+      "tweet_id": "2099505283206615286",
+      "timestamp_utc": "2026-09-14T14:27:21.000Z",
+      "timestamp_est": "2026-09-14T10:27:21-04:00",
+      "tweet_text": "We had volatility last night but we have returned to rangebound chop this morning with #ES_F stuck in a 25point range. 7620 resistance and 7595 roughly support. We just recovered 7620, ran to 7627 1st target up, and dipped into range.\n\n7595=support (watch traps). 7588, 7568 https://t.co/GIt3bHEeXL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7620, 7627 observation, 7595, 7588, 7568) are either morning-plan levels or price-action observations. No genuinely new actionable levels introduced."
     }
   ]
 }
