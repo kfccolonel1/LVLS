@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T12:50:27.618007+00:00",
-  "fetched_at_est": "2026-09-14T08:50:27.618012-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-09-14T13:30:38.826102+00:00",
+  "fetched_at_est": "2026-09-14T09:30:38.826105-04:00",
+  "last_new_level_added_at_est": "2026-09-14T09:22:19-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7627.0,
+      "side": "bull",
+      "added_at_est": "2026-09-14T09:22:19-04:00",
+      "expires_at_est": "2026-09-14T17:22:19-04:00",
+      "from_tweet_id": "2099488919767159137"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2099166690172977510",
@@ -158,6 +166,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet discussing chart pattern theory (bull flag definition); no actionable price level named whatsoever."
+    },
+    {
+      "tweet_id": "2099488919767159137",
+      "timestamp_utc": "2026-09-14T13:22:19.000Z",
+      "timestamp_est": "2026-09-14T09:22:19-04:00",
+      "tweet_text": "Last nights open started with some volatility in #ES_F but now we've slowed down to nothing again. Per newsletter, 7595 was support and that held so far exact. Watch traps of that if we retest it.\n\n7620 must reclaim now to rally today to 7627, 7637, then 7650+ for the gap fill https://t.co/pIOfUyg3B9",
+      "added_bull_levels": [
+        7627.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7627 is named as a new intermediate rally target not in the morning plan; 7595/7620/7637/7650 are all morning-plan reaffirmations."
     }
   ]
 }
