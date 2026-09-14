@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T17:01:59.802461+00:00",
-  "fetched_at_est": "2026-09-14T13:01:59.802467-04:00",
-  "last_new_level_added_at_est": "2026-09-14T09:22:19-04:00",
+  "fetched_at_utc": "2026-09-14T18:32:17.368928+00:00",
+  "fetched_at_est": "2026-09-14T14:32:17.368933-04:00",
+  "last_new_level_added_at_est": "2026-09-14T14:22:28-04:00",
   "todays_new_levels": [
     {
       "price": 7627.0,
@@ -11,6 +11,20 @@
       "added_at_est": "2026-09-14T09:22:19-04:00",
       "expires_at_est": "2026-09-14T17:22:19-04:00",
       "from_tweet_id": "2099488919767159137"
+    },
+    {
+      "price": 7663.0,
+      "side": "bull",
+      "added_at_est": "2026-09-14T14:22:28-04:00",
+      "expires_at_est": "2026-09-14T22:22:28-04:00",
+      "from_tweet_id": "2099564453201129751"
+    },
+    {
+      "price": 7680.0,
+      "side": "bull",
+      "added_at_est": "2026-09-14T14:22:28-04:00",
+      "expires_at_est": "2026-09-14T22:22:28-04:00",
+      "from_tweet_id": "2099564453201129751"
     }
   ],
   "updates": [
@@ -249,6 +263,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels mentioned (7595, 7627, 7637, 7650) are morning-plan levels or observations of hits; 7627 is new numerically but framed as hindsight ('hit'), not actionable going forward."
+    },
+    {
+      "tweet_id": "2099564453201129751",
+      "timestamp_utc": "2026-09-14T18:22:28.000Z",
+      "timestamp_est": "2026-09-14T14:22:28-04:00",
+      "tweet_text": "Today is done. 7595 was support given at 8am + in newsletter. It held exact. Targets for the day were 7627 (hit), 7637 (hit), 7650 (hit). Gap is almost filled in #ES_F and there is nothing to do now.\n\nBonus slate 7663, 7680, 7714 now. No changes to supports https://t.co/Zxp675h8OG",
+      "added_bull_levels": [
+        7663.0,
+        7680.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7663 and 7680 are newly named bonus resistance targets not in morning plan; 7714 is already published. 7595/7637/7650 are morning plan reaffirmations."
     }
   ]
 }
