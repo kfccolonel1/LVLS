@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T15:21:26.928403+00:00",
-  "fetched_at_est": "2026-09-14T11:21:26.928408-04:00",
+  "fetched_at_utc": "2026-09-14T15:41:40.696639+00:00",
+  "fetched_at_est": "2026-09-14T11:41:40.696647-04:00",
   "last_new_level_added_at_est": "2026-09-14T09:22:19-04:00",
   "todays_new_levels": [
     {
@@ -249,6 +249,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7595, 7620, 7637, 7650 all in morning plan; 7627 mentioned as already hit with no actionable naming language \u2014 observation only."
+    },
+    {
+      "tweet_id": "2099521784911405121",
+      "timestamp_utc": "2026-09-14T15:32:55.000Z",
+      "timestamp_est": "2026-09-14T11:32:55-04:00",
+      "tweet_text": "We remain stuck in a tight range in #ES_F, but it is precise. 7595 was range support. This level was given in Friday's newsletter and 8am today. Its held exact. 7620 is range resistance. Its trapped above once today to 7627 1st up.\n\n7627 (hit), 7637, 7650 gap fill still targets https://t.co/wz5UvG2ubg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7595, 7620, 7627, 7637, 7650 are all morning-plan levels or prior targets; tweet is reaffirmation + observation of price action, no new actionable levels named."
     }
   ]
 }
