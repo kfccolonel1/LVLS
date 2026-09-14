@@ -1,219 +1,73 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-11T22:35:32.902830+00:00",
-  "fetched_at_est": "2026-09-11T18:35:32.902835-04:00",
+  "fetched_at_utc": "2026-09-14T11:19:37.896518+00:00",
+  "fetched_at_est": "2026-09-14T07:19:37.896525-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2098373326242463945",
-      "timestamp_utc": "2026-09-11T11:29:21.000Z",
-      "timestamp_est": "2026-09-11T07:29:21-04:00",
-      "tweet_text": "Big follow through in #ES_F. Yesterday's major support was 7589 (bull flag support). It held. Two long triggers were given here + in newsletter. 7603 reclaim &amp; 7622/27 reclaim. Both triggered last eve\n\nPlan: Lock gains here before CPI, ride runner. 7649, 7662, 7671+ next. https://t.co/QsC5rYO7f9",
+      "tweet_id": "2099166690172977510",
+      "timestamp_utc": "2026-09-13T16:01:54.000Z",
+      "timestamp_est": "2026-09-13T12:01:54-04:00",
+      "tweet_text": "The cure for FOMO is recognizing the reality that no edge/setup can catch 100% of the action. If you can catch 20% of a days action on average, you are in great shape. As a Failed Breakdown trader, I only trade that slice. Some days its 5%, some days its 100%. Rest is sidelined",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All levels mentioned (7603, 7622/27, 7649, 7662, 7671) are in the morning plan or are trade management/hindsight references. No new actionable levels introduced."
+      "notes": "No prices mentioned at all. Tweet is philosophical commentary on trading psychology and FOMO \u2014 no actionable levels named."
     },
     {
-      "tweet_id": "2098374566217236703",
-      "timestamp_utc": "2026-09-11T11:34:17.000Z",
-      "timestamp_est": "2026-09-11T07:34:17-04:00",
-      "tweet_text": "@kpsardar All in newsletter. Structure extremely bullish now but CPI can invalidate so just ride runner now and watch for newsletter entries",
+      "tweet_id": "2099169279958528506",
+      "timestamp_utc": "2026-09-13T16:12:11.000Z",
+      "timestamp_est": "2026-09-13T12:12:11-04:00",
+      "tweet_text": "@fctchk Depends on how volatile we are! If we are volatile I trade everyday, somestimes 3x a day. If its slow sometimes its once or twice a week. I only catch a small piece of each days action full size",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "No prices named at all; pure trade management and directional commentary with no actionable new level introduced."
+      "notes": "Conversational reply about trading frequency/style; no price levels named or implied."
     },
     {
-      "tweet_id": "2098377950710104148",
-      "timestamp_utc": "2026-09-11T11:47:44.000Z",
-      "timestamp_est": "2026-09-11T07:47:44-04:00",
-      "tweet_text": "@mt56281 Yes. Recoveries of 7622/27 is still actionable. Big success for bulls to get over this though, if it weren't CPI today would be almost certainly a big green day!",
+      "tweet_id": "2099255201236762931",
+      "timestamp_utc": "2026-09-13T21:53:36.000Z",
+      "timestamp_est": "2026-09-13T17:53:36-04:00",
+      "tweet_text": "@MrBlonde Thats the main benefit? I dont make much on them",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "7622/27 are morning-plan levels (reaffirmation). Commentary about CPI and 'big green day' is observational with no new actionable price named."
+      "notes": "Tweet is a casual reply to a user about options P&L \u2014 no price levels named, no actionable content whatsoever."
     },
     {
-      "tweet_id": "2098382723073151303",
-      "timestamp_utc": "2026-09-11T12:06:41.000Z",
-      "timestamp_est": "2026-09-11T08:06:41-04:00",
-      "tweet_text": "@OnTheHooch Up to CPI now!",
+      "tweet_id": "2099260640439529747",
+      "timestamp_utc": "2026-09-13T22:15:13.000Z",
+      "timestamp_est": "2026-09-13T18:15:13-04:00",
+      "tweet_text": "@DavidDa41048475 @FBDroom Wait for price to hold above the 5 points for a few mins. Ideal is if it feels like you are chasing in abit. Means theres momentum",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Pure commentary referencing CPI event; no price levels named or actionable signals given."
+      "notes": "Reply tweet giving trade execution advice (wait for hold above 5pts, chasing feeling = momentum). No specific price level named or flagged as actionable."
     },
     {
-      "tweet_id": "2098385869073772665",
-      "timestamp_utc": "2026-09-11T12:19:11.000Z",
-      "timestamp_est": "2026-09-11T08:19:11-04:00",
-      "tweet_text": "Note: Remember the entire goal for yesterday's session was for bulls to recover the ~7627 shelf. They've done it, now it must defend through CPI. Ride runner",
+      "tweet_id": "2099280754874159240",
+      "timestamp_utc": "2026-09-13T23:35:09.000Z",
+      "timestamp_est": "2026-09-13T19:35:09-04:00",
+      "tweet_text": "@DavidDa41048475 @MrBlonde Yes - but those dont happen often!",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "7627 is already in morning plan. 'Ride runner' is trade management. No new actionable levels introduced."
+      "notes": "Pure conversational reply to users, no price levels named or actionable context whatsoever."
     },
     {
-      "tweet_id": "2098397232072413567",
-      "timestamp_utc": "2026-09-11T13:04:21.000Z",
-      "timestamp_est": "2026-09-11T09:04:21-04:00",
-      "tweet_text": "Perfection in #ES_F and this was all spelled out all day yesterday+ newsletter. 7622/27 had to reclaim to give bulls control back and rip us. We reclaimed last eve. We backtested 7622 exact after CPI, held. Today's targets? 7649, 7662, 7671. All hit.\n\nWork done. 92, 7704 bonus https://t.co/4oUypJXuhq",
+      "tweet_id": "2099289877263106455",
+      "timestamp_utc": "2026-09-14T00:11:24.000Z",
+      "timestamp_est": "2026-09-13T20:11:24-04:00",
+      "tweet_text": "@jonathant324 @cwstuff1 Great to hear, and thanks for the subscribe!",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All prices mentioned (7622, 7627, 7649, 7662, 7671, 7692, 7704) are already in the morning plan or are hindsight observations of targets hit. No new actionable levels introduced."
+      "notes": "Pure social reply/acknowledgment with no prices, levels, or actionable content whatsoever."
     },
     {
-      "tweet_id": "2098397775566078203",
-      "timestamp_utc": "2026-09-11T13:06:30.000Z",
-      "timestamp_est": "2026-09-11T09:06:30-04:00",
-      "tweet_text": "@BlobReport I underestimated. 71 was my final target and we are 78",
+      "tweet_id": "2099315248289153380",
+      "timestamp_utc": "2026-09-14T01:52:13.000Z",
+      "timestamp_est": "2026-09-13T21:52:13-04:00",
+      "tweet_text": "@ashwagamma Long time since we've had one! Used to get one every Sunday was basically free money",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Conversational reply referencing 7671 and 7678 as price observations/hindsight, no actionable naming language used."
-    },
-    {
-      "tweet_id": "2098397947008319761",
-      "timestamp_utc": "2026-09-11T13:07:11.000Z",
-      "timestamp_est": "2026-09-11T09:07:11-04:00",
-      "tweet_text": "@Michel__87 I don't even check what the inflation data says (nothing to do with price). I trade the price action.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading philosophy; no price levels named or actionable levels referenced."
-    },
-    {
-      "tweet_id": "2098399918301835697",
-      "timestamp_utc": "2026-09-11T13:15:01.000Z",
-      "timestamp_est": "2026-09-11T09:15:01-04:00",
-      "tweet_text": "@twaymond Definitely close platform! Going to be lots of people who still try to trade all day now and get chopped to death",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational advice to a user about platform risk; no price levels named or implied."
-    },
-    {
-      "tweet_id": "2098401515576697061",
-      "timestamp_utc": "2026-09-11T13:21:22.000Z",
-      "timestamp_est": "2026-09-11T09:21:22-04:00",
-      "tweet_text": "@toroosters Had this flag in the newsletter for a couple weeks",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing prior newsletter content; no price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2098401574464721183",
-      "timestamp_utc": "2026-09-11T13:21:36.000Z",
-      "timestamp_est": "2026-09-11T09:21:36-04:00",
-      "tweet_text": "@BigZapperB Too far up, would be longing into a big resistance",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply comment about price being 'too far up' near resistance \u2014 conversational observation, no specific price named or actionable level introduced."
-    },
-    {
-      "tweet_id": "2098401789812854796",
-      "timestamp_utc": "2026-09-11T13:22:27.000Z",
-      "timestamp_est": "2026-09-11T09:22:27-04:00",
-      "tweet_text": "@alexvegaaa Never called for a rip. I called for a rip when we get a long trigger to generate a rip which I made clear in every tweet yesterday was 7622/27 recovering. We recovered, and ripped",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7622/27 are morning-plan levels; tweet is a clarification/reaffirmation of existing plan, no new actionable price named."
-    },
-    {
-      "tweet_id": "2098405374407659627",
-      "timestamp_utc": "2026-09-11T13:36:42.000Z",
-      "timestamp_est": "2026-09-11T09:36:42-04:00",
-      "tweet_text": "We continue to run nicely &amp; waited all day yesterday for this trade (tweeted hourly). 7622/27 recovery would give bulls control back, and rip (per newsletter, 7603 reclaim was a long in advance in #ES_F). Today's 730am targets were 7649, 7662, 7671. All hit.\n\n7692, 7704 next https://t.co/UoK1zPxixI",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7622, 7627, 7603, 7649, 7662, 7671, 7692, 7704) are in the morning plan or are hindsight/reaffirmation references. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2098405404711542899",
-      "timestamp_utc": "2026-09-11T13:36:49.000Z",
-      "timestamp_est": "2026-09-11T09:36:49-04:00",
-      "tweet_text": "7650 now support",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7650 is close to but not exactly 7649 from morning plan \u2014 however 'now support' is an observation of price action, not explicit actionable naming language; conservative bias applied."
-    },
-    {
-      "tweet_id": "2098405475654021484",
-      "timestamp_utc": "2026-09-11T13:37:06.000Z",
-      "timestamp_est": "2026-09-11T09:37:06-04:00",
-      "tweet_text": "7650 now support",
-      "added_bull_levels": [
-        7650.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7650 named as support intraday, not in morning plan; actionable level explicitly stated."
-    },
-    {
-      "tweet_id": "2098421443218243876",
-      "timestamp_utc": "2026-09-11T14:40:33.000Z",
-      "timestamp_est": "2026-09-11T10:40:33-04:00",
-      "tweet_text": "Today's session over by 830AM in #ES_F, but we waited all yesterday for this. Per 8 tweets + newsletter, longs were twofold: 1) 7603 reclaim 2) 7622/7627 reclaim which would trigger a massive rip. Today's targets  was 7649, 7662, 7671. All hit.\n\n7694, 7704 bonus. 49, 27=supports https://t.co/Fsnm2GWXp4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7603, 7622, 7627, 7649, 7662, 7671, 7694, 7704) are morning plan levels or hindsight target-hit references; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2098434485658271965",
-      "timestamp_utc": "2026-09-11T15:32:23.000Z",
-      "timestamp_est": "2026-09-11T11:32:23-04:00",
-      "tweet_text": "@BrianMelcher24 Posted abkut it in last Saturdays chart!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels named; purely conversational reference to a past chart post."
-    },
-    {
-      "tweet_id": "2098434525600637093",
-      "timestamp_utc": "2026-09-11T15:32:32.000Z",
-      "timestamp_est": "2026-09-11T11:32:32-04:00",
-      "tweet_text": "@tenantfit Still up there!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price mentioned, purely conversational, no actionable level named."
-    },
-    {
-      "tweet_id": "2098435346677534903",
-      "timestamp_utc": "2026-09-11T15:35:48.000Z",
-      "timestamp_est": "2026-09-11T11:35:48-04:00",
-      "tweet_text": "With breakout underway, now is easy part: Ride runner. Entries were given explictly here + in newsletter. The 7603 reclaim or the 7622/27 reclaim. I warned many times we ripped hard and sustainably above 27.\n\nTodays targets were 7649, 7662, 7672 (all hit). 7694, 7704, 7745 next https://t.co/KVkWHXSJsD",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7603, 7622/27, 7649, 7662, 7672, 7694, 7704, 7745) are morning-plan levels or hindsight references to entries/targets already hit. No new actionable level introduced."
-    },
-    {
-      "tweet_id": "2098437916066287955",
-      "timestamp_utc": "2026-09-11T15:46:00.000Z",
-      "timestamp_est": "2026-09-11T11:46:00-04:00",
-      "tweet_text": "@OnTheHooch It was yesterdays red day that gave us this one!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply attributing today's move to yesterday's red day. No price named, no actionable level, no naming language."
-    },
-    {
-      "tweet_id": "2098456293706989974",
-      "timestamp_utc": "2026-09-11T16:59:02.000Z",
-      "timestamp_est": "2026-09-11T12:59:02-04:00",
-      "tweet_text": "Nothing to do today now but ride the runner as we've broken out in #ES_F. As I warned 8x yesterday + in newsletter, 7622/27 recoveries would start a sustained rally (as opposed to one that is sold). Today's targets were 7649, 7662, 7672 (all hit). 7694, 7704, 7745 next. https://t.co/4CwA23Nm9G",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7622/27, 7649, 7662, 7672, 7694, 7704, 7745) are morning-plan levels or hindsight reaffirmations; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2098467985862390266",
-      "timestamp_utc": "2026-09-11T17:45:30.000Z",
-      "timestamp_est": "2026-09-11T13:45:30-04:00",
-      "tweet_text": "Just ride runner now in #ES_F as we have broken out. As I warned 8x yesterday + newsletter, the recovery of the 7622/27 shelf (Wednesday lows + last weeks lows) would constitute a major Failed Breakdown and lead to a sustained rally. 7649, 7662, 7672 were todays targets.\n\n7694, https://t.co/btlw2qsZqa",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7622/27, 7649, 7662, 7672, 7694) are in the morning plan or are hindsight/trade-management references. No new actionable level named."
-    },
-    {
-      "tweet_id": "2098475749997003005",
-      "timestamp_utc": "2026-09-11T18:16:21.000Z",
-      "timestamp_est": "2026-09-11T14:16:21-04:00",
-      "tweet_text": "Closing update #ES_F: Barring some big headline, the session was over at 830AM today after CPI. Now just ride runner for upside targets. Newsletter was sent early today as there are several quality entries to the downside if we luck out and get some volatility later/Sunday/Monday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific prices named; purely trade management (ride runner) and general commentary about newsletter entries with no actionable levels explicitly stated."
+      "notes": "Casual conversational reply to a user, no price levels mentioned at all."
     }
   ]
 }
