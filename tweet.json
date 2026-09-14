@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T12:09:56.765921+00:00",
-  "fetched_at_est": "2026-09-14T08:09:56.765931-04:00",
+  "fetched_at_utc": "2026-09-14T12:20:07.668916+00:00",
+  "fetched_at_est": "2026-09-14T08:20:07.668928-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -104,6 +104,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named at all; tweet is purely educational commentary about chart pattern construction, not actionable level identification."
+    },
+    {
+      "tweet_id": "2099471020780294605",
+      "timestamp_utc": "2026-09-14T12:11:12.000Z",
+      "timestamp_est": "2026-09-14T08:11:12-04:00",
+      "tweet_text": "@OnTheHooch That was the right way to manage it, I did fairly similar. Took it at 27 or so, then seeing it stall out at 33 I cut it at 27 (my break-even) to a 25% runner which I held until bed then cut the rest at 23 or so before as it wasn't working. Overnight traders got a much better",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management/recap tweet describing fills and stop management at 7427, 7433, 7423 \u2014 no new actionable levels named, all are execution references."
+    },
+    {
+      "tweet_id": "2099472133768229146",
+      "timestamp_utc": "2026-09-14T12:15:37.000Z",
+      "timestamp_est": "2026-09-14T08:15:37-04:00",
+      "tweet_text": "@OnTheHooch I would've waited for 7603 to clear + 5 and taken it at 7608 or so",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply describing a hypothetical entry technique near 7603/7608; no naming language, not explicitly actionable as a new major level."
+    },
+    {
+      "tweet_id": "2099472243847790979",
+      "timestamp_utc": "2026-09-14T12:16:03.000Z",
+      "timestamp_est": "2026-09-14T08:16:03-04:00",
+      "tweet_text": "@OnTheHooch I'm typically more conservative though, taking it while pushing off 95 would've worked too",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with trade management commentary; no new actionable price levels named, just a casual reference to '95' in conversational context."
     }
   ]
 }
