@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T11:19:37.896518+00:00",
-  "fetched_at_est": "2026-09-14T07:19:37.896525-04:00",
+  "fetched_at_utc": "2026-09-14T11:59:47.018490+00:00",
+  "fetched_at_est": "2026-09-14T07:59:47.018504-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -68,6 +68,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply to a user, no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2099467163291496634",
+      "timestamp_utc": "2026-09-14T11:55:52.000Z",
+      "timestamp_est": "2026-09-14T07:55:52-04:00",
+      "tweet_text": "Gap down open for #ES_F but we've gone nowhere since. Per newsletter/tweets Failed Breakdown's of Friday's 7620 low were actionable. We swept it after 6pm, went +15, now back under\n\nPlan: 7620 must reclaim to see 7627, 7637, 7650+ (then gap fill). 7595=support below (watch traps) https://t.co/aMeTBjuvxB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7620, 7627, 7637, 7650, 7595) are morning-plan levels or reaffirmations; 7627 is a target derived from existing levels, not newly named as actionable."
     }
   ]
 }
