@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T16:11:45.609246+00:00",
-  "fetched_at_est": "2026-09-14T12:11:45.609250-04:00",
+  "fetched_at_utc": "2026-09-14T16:21:48.242981+00:00",
+  "fetched_at_est": "2026-09-14T12:21:48.242986-04:00",
   "last_new_level_added_at_est": "2026-09-14T09:22:19-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099169279958528506",
-      "timestamp_utc": "2026-09-13T16:12:11.000Z",
-      "timestamp_est": "2026-09-13T12:12:11-04:00",
-      "tweet_text": "@fctchk Depends on how volatile we are! If we are volatile I trade everyday, somestimes 3x a day. If its slow sometimes its once or twice a week. I only catch a small piece of each days action full size",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading frequency/style; no price levels named or implied."
-    },
     {
       "tweet_id": "2099255201236762931",
       "timestamp_utc": "2026-09-13T21:53:36.000Z",
