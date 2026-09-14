@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-14T15:41:40.696639+00:00",
-  "fetched_at_est": "2026-09-14T11:41:40.696647-04:00",
+  "fetched_at_utc": "2026-09-14T16:11:45.609246+00:00",
+  "fetched_at_est": "2026-09-14T12:11:45.609250-04:00",
   "last_new_level_added_at_est": "2026-09-14T09:22:19-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099166690172977510",
-      "timestamp_utc": "2026-09-13T16:01:54.000Z",
-      "timestamp_est": "2026-09-13T12:01:54-04:00",
-      "tweet_text": "The cure for FOMO is recognizing the reality that no edge/setup can catch 100% of the action. If you can catch 20% of a days action on average, you are in great shape. As a Failed Breakdown trader, I only trade that slice. Some days its 5%, some days its 100%. Rest is sidelined",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all. Tweet is philosophical commentary on trading psychology and FOMO \u2014 no actionable levels named."
-    },
     {
       "tweet_id": "2099169279958528506",
       "timestamp_utc": "2026-09-13T16:12:11.000Z",
