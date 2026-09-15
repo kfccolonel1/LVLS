@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T12:34:42.927377+00:00",
-  "fetched_at_est": "2026-09-15T08:34:42.927380-04:00",
+  "fetched_at_utc": "2026-09-15T12:54:46.508189+00:00",
+  "fetched_at_est": "2026-09-15T08:54:46.508194-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099479689945387274",
-      "timestamp_utc": "2026-09-14T12:45:39.000Z",
-      "timestamp_est": "2026-09-14T08:45:39-04:00",
-      "tweet_text": "@LUCIFERVALE A \"downward\" channel after a 500 point rally that retraces part of it is quite literally what a bull flag is. Not a new concept, first recorded around 1930 or so and definition is universally agreed on",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet discussing chart pattern theory (bull flag definition); no actionable price level named whatsoever."
-    },
     {
       "tweet_id": "2099488919767159137",
       "timestamp_utc": "2026-09-14T13:22:19.000Z",
