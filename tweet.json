@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T13:24:57.942996+00:00",
-  "fetched_at_est": "2026-09-15T09:24:57.943000-04:00",
+  "fetched_at_utc": "2026-09-15T13:55:02.311975+00:00",
+  "fetched_at_est": "2026-09-15T09:55:02.311980-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099495294559834468",
-      "timestamp_utc": "2026-09-14T13:47:39.000Z",
-      "timestamp_est": "2026-09-14T09:47:39-04:00",
-      "tweet_text": "@Space_Robot1 6pm tonight. I'll roll when tradingview does",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about a schedule/timing question, no price levels mentioned at all."
-    },
     {
       "tweet_id": "2099504383939559663",
       "timestamp_utc": "2026-09-14T14:23:46.000Z",
