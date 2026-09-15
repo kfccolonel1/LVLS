@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T13:14:52.754410+00:00",
-  "fetched_at_est": "2026-09-15T09:14:52.754416-04:00",
+  "fetched_at_utc": "2026-09-15T13:24:57.942996+00:00",
+  "fetched_at_est": "2026-09-15T09:24:57.943000-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099488919767159137",
-      "timestamp_utc": "2026-09-14T13:22:19.000Z",
-      "timestamp_est": "2026-09-14T09:22:19-04:00",
-      "tweet_text": "Last nights open started with some volatility in #ES_F but now we've slowed down to nothing again. Per newsletter, 7595 was support and that held so far exact. Watch traps of that if we retest it.\n\n7620 must reclaim now to rally today to 7627, 7637, then 7650+ for the gap fill https://t.co/pIOfUyg3B9",
-      "added_bull_levels": [
-        7627.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7627 is named as a new intermediate rally target not in the morning plan; 7595/7620/7637/7650 are all morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2099495294559834468",
       "timestamp_utc": "2026-09-14T13:47:39.000Z",
@@ -199,6 +188,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7662, 7686, 7704, 7726) are morning-plan levels or observations of price action already hit; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2099849758743405013",
+      "timestamp_utc": "2026-09-15T13:16:10.000Z",
+      "timestamp_est": "2026-09-15T09:16:10-04:00",
+      "tweet_text": "@JeffsTrades69 Take them in the morning. I do that very often as long as price hasn't ran too far from where the normal entry would be. If its 10-15 points its fine as long as its a planned, high quality Failed Breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user about trade management philosophy; no price levels named or actionable triggers mentioned."
     }
   ]
 }
