@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T12:14:34.293090+00:00",
-  "fetched_at_est": "2026-09-15T08:14:34.293094-04:00",
+  "fetched_at_utc": "2026-09-15T12:24:40.431747+00:00",
+  "fetched_at_est": "2026-09-15T08:24:40.431752-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099472133768229146",
-      "timestamp_utc": "2026-09-14T12:15:37.000Z",
-      "timestamp_est": "2026-09-14T08:15:37-04:00",
-      "tweet_text": "@OnTheHooch I would've waited for 7603 to clear + 5 and taken it at 7608 or so",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply describing a hypothetical entry technique near 7603/7608; no naming language, not explicitly actionable as a new major level."
-    },
-    {
-      "tweet_id": "2099472243847790979",
-      "timestamp_utc": "2026-09-14T12:16:03.000Z",
-      "timestamp_est": "2026-09-14T08:16:03-04:00",
-      "tweet_text": "@OnTheHooch I'm typically more conservative though, taking it while pushing off 95 would've worked too",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with trade management commentary; no new actionable price levels named, just a casual reference to '95' in conversational context."
-    },
     {
       "tweet_id": "2099475587026784739",
       "timestamp_utc": "2026-09-14T12:29:20.000Z",
@@ -226,6 +208,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with no explicit price named; 'macro bull flag support' is commentary only, no actionable level stated."
+    },
+    {
+      "tweet_id": "2099834373449118083",
+      "timestamp_utc": "2026-09-15T12:15:02.000Z",
+      "timestamp_est": "2026-09-15T08:15:02-04:00",
+      "tweet_text": "@RaoTrader Too big of a pattern for day traders to care about but the swing traders/position traders out there, that is all they are watching now in preparation for the next multi-month leg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels named at all; pure commentary about swing/position traders watching a pattern, no actionable price cited."
     }
   ]
 }
