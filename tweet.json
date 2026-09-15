@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T00:13:09.219756+00:00",
-  "fetched_at_est": "2026-09-14T20:13:09.219764-04:00",
+  "fetched_at_utc": "2026-09-15T01:53:21.438100+00:00",
+  "fetched_at_est": "2026-09-14T21:53:21.438106-04:00",
   "last_new_level_added_at_est": "2026-09-14T14:22:28-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099315248289153380",
-      "timestamp_utc": "2026-09-14T01:52:13.000Z",
-      "timestamp_est": "2026-09-13T21:52:13-04:00",
-      "tweet_text": "@ashwagamma Long time since we've had one! Used to get one every Sunday was basically free money",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply to a user, no price levels mentioned at all."
-    },
     {
       "tweet_id": "2099467163291496634",
       "timestamp_utc": "2026-09-14T11:55:52.000Z",
