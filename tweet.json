@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T13:55:02.311975+00:00",
-  "fetched_at_est": "2026-09-15T09:55:02.311980-04:00",
+  "fetched_at_utc": "2026-09-15T14:15:11.311527+00:00",
+  "fetched_at_est": "2026-09-15T10:15:11.311538-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -188,6 +188,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user about trade management philosophy; no price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2099864191150526645",
+      "timestamp_utc": "2026-09-15T14:13:31.000Z",
+      "timestamp_est": "2026-09-15T10:13:31-04:00",
+      "tweet_text": "@PermaFader @OnTheHooch We were only 10 points above the regular NAP protocol entry at 730am. I've got no issues with taking that at all and I almost always do, it was a very high quality Failed Breakdown (of the prior days lows *and* a shelf of lows). It was planned",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining a past trade entry; no new actionable price level named, only vague reference to 'NAP protocol entry' without a specific price."
+    },
+    {
+      "tweet_id": "2099864511993848289",
+      "timestamp_utc": "2026-09-15T14:14:47.000Z",
+      "timestamp_est": "2026-09-15T10:14:47-04:00",
+      "tweet_text": "Its been good trading today in #ES_F. Per newsletter, 7662 Failed breakdowns were actionable in #ES_F. Targets were 7686 (hit), 7704, 7726. Newsletter readers got the 7694 level also for a profit take, which is the exact current high.\n\n7662 is support, here now, watch traps https://t.co/9XKkJipGxc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7662, 7686, 7704, 7726, 7694) are either morning-plan levels or hindsight references to newsletter calls; no genuinely new actionable level introduced."
     }
   ]
 }
