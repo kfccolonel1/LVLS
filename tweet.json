@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T12:54:46.508189+00:00",
-  "fetched_at_est": "2026-09-15T08:54:46.508194-04:00",
+  "fetched_at_utc": "2026-09-15T13:14:52.754410+00:00",
+  "fetched_at_est": "2026-09-15T09:14:52.754416-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -190,6 +190,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels named at all; pure commentary about swing/position traders watching a pattern, no actionable price cited."
+    },
+    {
+      "tweet_id": "2099847837743821271",
+      "timestamp_utc": "2026-09-15T13:08:32.000Z",
+      "timestamp_est": "2026-09-15T09:08:32-04:00",
+      "tweet_text": "Strong continued push in #ES_F. The cause is the same as always: A Failed Breakdown. Per newsletter, flushes and recoveries of the 7662 shelf of lows from ystd trigger a rip. We sold to 45 overnight, recovered 62, ran.\n\nTargets today were 7686 (hit), 7704, 7726 to fill the gap https://t.co/P9UY2H1nBQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7662, 7686, 7704, 7726) are morning-plan levels or observations of price action already hit; no new actionable levels named."
     }
   ]
 }
