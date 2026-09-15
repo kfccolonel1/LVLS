@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T14:25:19.483821+00:00",
-  "fetched_at_est": "2026-09-15T10:25:19.483836-04:00",
+  "fetched_at_utc": "2026-09-15T14:35:22.211708+00:00",
+  "fetched_at_est": "2026-09-15T10:35:22.211712-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099505283206615286",
-      "timestamp_utc": "2026-09-14T14:27:21.000Z",
-      "timestamp_est": "2026-09-14T10:27:21-04:00",
-      "tweet_text": "We had volatility last night but we have returned to rangebound chop this morning with #ES_F stuck in a 25point range. 7620 resistance and 7595 roughly support. We just recovered 7620, ran to 7627 1st target up, and dipped into range.\n\n7595=support (watch traps). 7588, 7568 https://t.co/GIt3bHEeXL",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7620, 7627 observation, 7595, 7588, 7568) are either morning-plan levels or price-action observations. No genuinely new actionable levels introduced."
-    },
     {
       "tweet_id": "2099511388372705701",
       "timestamp_utc": "2026-09-14T14:51:36.000Z",
