@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T18:06:07.351854+00:00",
-  "fetched_at_est": "2026-09-15T14:06:07.351860-04:00",
+  "fetched_at_utc": "2026-09-15T18:16:12.803836+00:00",
+  "fetched_at_est": "2026-09-15T14:16:12.803843-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -188,6 +188,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet referencing yesterday's newsletter. No price levels named, no actionable language, pure conversational response."
+    },
+    {
+      "tweet_id": "2099923271047131326",
+      "timestamp_utc": "2026-09-15T18:08:17.000Z",
+      "timestamp_est": "2026-09-15T14:08:17-04:00",
+      "tweet_text": "Many setups today in #ES_F. 7643-45 was flag support (macro structure to setup the next multi-week swing move). It held (quick Failed Breakdown of the 7645 4am low). Back up now. 7663 next. Targets given at 8am remain 7686 (hit), 7694 (hit), 7704, 7726 are still coming next https://t.co/gnBJPrVRxK",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7643-45 is observation/reaffirmation, 7663 lacks explicit naming language, 7686/7694/7704/7726 are existing morning-plan targets or hindsight references."
     }
   ]
 }
