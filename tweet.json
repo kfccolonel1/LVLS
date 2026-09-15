@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T15:45:48.574526+00:00",
-  "fetched_at_est": "2026-09-15T11:45:48.574533-04:00",
+  "fetched_at_utc": "2026-09-15T17:05:58.098744+00:00",
+  "fetched_at_est": "2026-09-15T13:05:58.098749-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099542734910500922",
-      "timestamp_utc": "2026-09-14T16:56:10.000Z",
-      "timestamp_est": "2026-09-14T12:56:10-04:00",
-      "tweet_text": "Precision technicals today in #ES_F and there's all 3 targets for today complete. 7595 was today's support. It held exact. Three targets were then provided for the session: 7627 (hit), 7637 (Hit), then 7650 \"to fill, the gap\". Hit. Now we simply, just ride the runner all day https://t.co/2dsNvqnouX",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7595, 7627, 7637, 7650) are morning-plan levels or observations of hits; 7627 is new numerically but framed as hindsight ('hit'), not actionable going forward."
-    },
     {
       "tweet_id": "2099564453201129751",
       "timestamp_utc": "2026-09-14T18:22:28.000Z",
