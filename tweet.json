@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T12:24:40.431747+00:00",
-  "fetched_at_est": "2026-09-15T08:24:40.431752-04:00",
+  "fetched_at_utc": "2026-09-15T12:34:42.927377+00:00",
+  "fetched_at_est": "2026-09-15T08:34:42.927380-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099475587026784739",
-      "timestamp_utc": "2026-09-14T12:29:20.000Z",
-      "timestamp_est": "2026-09-14T08:29:20-04:00",
-      "tweet_text": "@305HRHitter @OnTheHooch There was a major significant low set off the 6pm open at 7603. The Failed breakdown of that low would've been actionable for overnight traders. We held 95 support, then recovered that low.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7603 is mentioned as a historical overnight low/FBD observation in hindsight reply context, not a forward-looking actionable level named for readers to act on."
-    },
-    {
-      "tweet_id": "2099476567860584504",
-      "timestamp_utc": "2026-09-14T12:33:14.000Z",
-      "timestamp_est": "2026-09-14T08:33:14-04:00",
-      "tweet_text": "@LUCIFERVALE This isn't a controversial bull flag. If you showed it to 1000 serious technical analysts not one would disagree",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet discussing a chart pattern with no price levels named, no actionable entry/exit/watch/target language used."
-    },
     {
       "tweet_id": "2099479689945387274",
       "timestamp_utc": "2026-09-14T12:45:39.000Z",
