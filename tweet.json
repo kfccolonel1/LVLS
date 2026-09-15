@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T12:04:29.210436+00:00",
-  "fetched_at_est": "2026-09-15T08:04:29.210440-04:00",
+  "fetched_at_utc": "2026-09-15T12:14:34.293090+00:00",
+  "fetched_at_est": "2026-09-15T08:14:34.293094-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2099471020780294605",
-      "timestamp_utc": "2026-09-14T12:11:12.000Z",
-      "timestamp_est": "2026-09-14T08:11:12-04:00",
-      "tweet_text": "@OnTheHooch That was the right way to manage it, I did fairly similar. Took it at 27 or so, then seeing it stall out at 33 I cut it at 27 (my break-even) to a 25% runner which I held until bed then cut the rest at 23 or so before as it wasn't working. Overnight traders got a much better",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management/recap tweet describing fills and stop management at 7427, 7433, 7423 \u2014 no new actionable levels named, all are execution references."
-    },
     {
       "tweet_id": "2099472133768229146",
       "timestamp_utc": "2026-09-14T12:15:37.000Z",
@@ -226,6 +217,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is an administrative note about contract roll (Sep to Dec), no actionable price levels named."
+    },
+    {
+      "tweet_id": "2099834180800516327",
+      "timestamp_utc": "2026-09-15T12:14:16.000Z",
+      "timestamp_est": "2026-09-15T08:14:16-04:00",
+      "tweet_text": "@RaoTrader I discuss why in the newsletter, its macro bull flag support",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no explicit price named; 'macro bull flag support' is commentary only, no actionable level stated."
     }
   ]
 }
