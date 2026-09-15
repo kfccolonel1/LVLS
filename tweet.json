@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-15T02:53:32.704043+00:00",
-  "fetched_at_est": "2026-09-14T22:53:32.704048-04:00",
+  "fetched_at_utc": "2026-09-15T11:54:23.973855+00:00",
+  "fetched_at_est": "2026-09-15T07:54:23.973860-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -244,6 +244,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining trading methodology; no specific price levels named or actionable entries/targets/triggers identified."
+    },
+    {
+      "tweet_id": "2099828262260064496",
+      "timestamp_utc": "2026-09-15T11:50:45.000Z",
+      "timestamp_est": "2026-09-15T07:50:45-04:00",
+      "tweet_text": "Yesterday's final target for the long was 7678. We hit it, but for those who missed it (and trade early) we got a fantastic Failed Breakdown 6am. Per newsletter, traps of the 7662 shelf trigger up. We triggered, +20 now\n\nPlan: 7686, 7704, 7726 to fill the gap next. 62=support https://t.co/i1V37gygHc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned levels (7662, 7686, 7704/7703, 7726) are morning-plan levels or reaffirmations; 7678 is a hindsight target reference, not a new actionable level."
     }
   ]
 }
