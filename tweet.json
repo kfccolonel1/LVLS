@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T15:39:19.148296+00:00",
-  "fetched_at_est": "2026-09-16T11:39:19.148303-04:00",
+  "fetched_at_utc": "2026-09-16T15:49:22.261491+00:00",
+  "fetched_at_est": "2026-09-16T11:49:22.261497-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099887190708797458",
-      "timestamp_utc": "2026-09-15T15:44:54.000Z",
-      "timestamp_est": "2026-09-15T11:44:54-04:00",
-      "tweet_text": "Good two way action continues in #ES_F. Many entries. Entry 1 was the 7662 Failed Breakdown given in newsletter. 8am targets were 7686 (hit), 7694 (hit), 7704, 7726 still coming.\n\nWe then sold to 7643 flag support (quick sweep of 4am low) and back up. 63 reclaim to resume up https://t.co/guZml5ZJYg",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7662, 7686, 7694, 7704, 7726, 7643) are morning-plan levels or observations of price action hitting existing targets. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2099921613449994453",
       "timestamp_utc": "2026-09-15T18:01:41.000Z",
