@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T14:28:52.767225+00:00",
-  "fetched_at_est": "2026-09-16T10:28:52.767230-04:00",
+  "fetched_at_utc": "2026-09-16T14:59:05.800073+00:00",
+  "fetched_at_est": "2026-09-16T10:59:05.800079-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099875049549267372",
-      "timestamp_utc": "2026-09-15T14:56:40.000Z",
-      "timestamp_est": "2026-09-15T10:56:40-04:00",
-      "tweet_text": "Action has been good today in #ES_F with decent volatility for once. 7662 Failed Breakdowns was first entry. Targets were 7686 (hit), 7694 (given in newsletter), 7704, 7726 still above. \n\n7643 flag support per newsletter, just hit. 63 must reclaim to rally again. 35, 15 below https://t.co/BTXbJleo8B",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7662, 7686, 7694, 7704, 7726, 7643, 7635, 7615) are morning-plan levels or observations of price action/targets already hit. No newly named actionable levels."
-    },
-    {
-      "tweet_id": "2099875509790269700",
-      "timestamp_utc": "2026-09-15T14:58:29.000Z",
-      "timestamp_est": "2026-09-15T10:58:29-04:00",
-      "tweet_text": "@eldnitj @JeffsTrades69 All I ever look for is 2 levels (thats a successful trade), everything is else is the runner which I make barely nothing on. Most failed breakdowns go more than one level though, but depends on the regime. In the summer most were going 100-400 points. Average something like 20-50",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading philosophy and historical move distances. No specific actionable price levels named."
-    },
     {
       "tweet_id": "2099876675190165798",
       "timestamp_utc": "2026-09-15T15:03:07.000Z",
@@ -143,6 +125,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7645, 7702, 7728) are morning-plan levels; 7689 is an observation of a hit target; 7663/7645 reaffirmed supports. No new actionable levels."
+    },
+    {
+      "tweet_id": "2100236786299470069",
+      "timestamp_utc": "2026-09-16T14:54:05.000Z",
+      "timestamp_est": "2026-09-16T10:54:05-04:00",
+      "tweet_text": "Just hold runner now into FOMC in #ES_F. We got a major long trigger yesterday: The 7645 Tuesday 4am low Failed Breakdown (at macro bull flag support) AND the 7663 reclaim given in newsletter. Targets for today are 7689 (hit), 7702, then 7728 to fill the Sunday gap\n\nSame supports https://t.co/OKiPj0EWCL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All referenced levels (7645, 7663, 7702, 7728) are either in the morning plan or prior newsletter triggers. 7689 is an observation of a hit target. No new actionable levels named."
     }
   ]
 }
