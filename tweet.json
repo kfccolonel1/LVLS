@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T19:00:52.120331+00:00",
-  "fetched_at_est": "2026-09-16T15:00:52.120347-04:00",
+  "fetched_at_utc": "2026-09-16T19:11:03.430620+00:00",
+  "fetched_at_est": "2026-09-16T15:11:03.430632-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -14,17 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099938634967204198",
-      "timestamp_utc": "2026-09-15T19:09:20.000Z",
-      "timestamp_est": "2026-09-15T15:09:20-04:00",
-      "tweet_text": "CLosing update #ES_F: FOMC tomorrow. We just put in a big Failed Breakdown of the 7645 4am low, and then ran to 7663 resistance/target. Above there, we can resume up the targets again to 7686 (hit), 7694, 7704, 7726+. Newsletter out shortly with next set of entries",
-      "added_bull_levels": [
-        7694.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7694 is named explicitly as a bull target in an actionable sequence; not in morning plan. 7645, 7663, 7686, 7704, 7726 are morning-plan levels or observations."
-    },
     {
       "tweet_id": "2100191983587225680",
       "timestamp_utc": "2026-09-16T11:56:03.000Z",
@@ -208,6 +197,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7645, 7634, 7616, 7604) are in the morning plan. 'Reclaims resume up' is trade management/reaffirmation, not a new level."
+    },
+    {
+      "tweet_id": "2100299594424836170",
+      "timestamp_utc": "2026-09-16T19:03:39.000Z",
+      "timestamp_est": "2026-09-16T15:03:39-04:00",
+      "tweet_text": "@sstrange05 Last few have been slower but finally get some volatility now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about market volatility; no price level named or actionable instruction given."
+    },
+    {
+      "tweet_id": "2100299680596766823",
+      "timestamp_utc": "2026-09-16T19:04:00.000Z",
+      "timestamp_est": "2026-09-16T15:04:00-04:00",
+      "tweet_text": "@Nighthawkk5 We'll see if ES can squeeze in one more Failed Breakdown today!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual rhetorical comment about a possible Failed Breakdown pattern; no specific price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2100301217096139252",
+      "timestamp_utc": "2026-09-16T19:10:06.000Z",
+      "timestamp_est": "2026-09-16T15:10:06-04:00",
+      "tweet_text": "@ndxtrader9 It was a fantastic Failed Breakdown. We went 40 points with 0 drawdown in a very short period of time. Multi-level run. It was about as textbook and high quality as the setup gets and we don't see those everyday.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade recap/commentary on a completed Failed Breakdown move; no new actionable price levels named."
     }
   ]
 }
