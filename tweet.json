@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T19:21:14.203330+00:00",
-  "fetched_at_est": "2026-09-16T15:21:14.203350-04:00",
+  "fetched_at_utc": "2026-09-16T19:31:20.231117+00:00",
+  "fetched_at_est": "2026-09-16T15:31:20.231122-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -251,6 +251,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7645 is in morning plan; 7635 sell trigger appears new but is framed as a past trade already given in newsletter, not a forward-looking actionable level for readers now."
+    },
+    {
+      "tweet_id": "2100304705918271718",
+      "timestamp_utc": "2026-09-16T19:23:58.000Z",
+      "timestamp_est": "2026-09-16T15:23:58-04:00",
+      "tweet_text": "@tanay1210 It'll probably try to recover tomorrow though, bears will need to defend the backtest",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no specific price named; 'backtest' is vague directional commentary, not an actionable level."
     }
   ]
 }
