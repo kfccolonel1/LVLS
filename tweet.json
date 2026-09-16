@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T18:10:09.212052+00:00",
-  "fetched_at_est": "2026-09-16T14:10:09.212057-04:00",
+  "fetched_at_utc": "2026-09-16T18:20:15.561797+00:00",
+  "fetched_at_est": "2026-09-16T14:20:15.561802-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -163,6 +163,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7645, 7663, 7689, 7702, 7728) are either morning-plan levels, prior-day references, or observations of targets hit \u2014 no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2100286761553309913",
+      "timestamp_utc": "2026-09-16T18:12:40.000Z",
+      "timestamp_est": "2026-09-16T14:12:40-04:00",
+      "tweet_text": "Note: Remember press conference is still at 230pm, so even though vol is low now, it may not remain so.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about press conference timing and volatility expectation. No price level named or actionable instruction given."
     }
   ]
 }
