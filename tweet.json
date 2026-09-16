@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T14:59:05.800073+00:00",
-  "fetched_at_est": "2026-09-16T10:59:05.800079-04:00",
+  "fetched_at_utc": "2026-09-16T15:09:09.637785+00:00",
+  "fetched_at_est": "2026-09-16T11:09:09.637790-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099876675190165798",
-      "timestamp_utc": "2026-09-15T15:03:07.000Z",
-      "timestamp_est": "2026-09-15T11:03:07-04:00",
-      "tweet_text": "@upandown007 Flag support, good FBD, needs above 63 now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing flag support and '63' (7563 or 7663 likely reaffirmation of morning plan); no explicit new actionable price named for first time."
-    },
     {
       "tweet_id": "2099887190708797458",
       "timestamp_utc": "2026-09-15T15:44:54.000Z",
