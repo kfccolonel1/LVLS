@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T14:18:50.327591+00:00",
-  "fetched_at_est": "2026-09-16T10:18:50.327598-04:00",
+  "fetched_at_utc": "2026-09-16T14:28:52.767225+00:00",
+  "fetched_at_est": "2026-09-16T10:28:52.767230-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099865610976981083",
-      "timestamp_utc": "2026-09-15T14:19:09.000Z",
-      "timestamp_est": "2026-09-15T10:19:09-04:00",
-      "tweet_text": "@PermaFader @OnTheHooch Also if we were 30 points above *the trigger* that would be a different issue. But 9-10 points above is no big deal",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about distance above 'the trigger' \u2014 no explicit price named, just relative distance commentary. No actionable level introduced."
-    },
     {
       "tweet_id": "2099875049549267372",
       "timestamp_utc": "2026-09-15T14:56:40.000Z",
