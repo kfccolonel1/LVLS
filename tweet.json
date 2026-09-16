@@ -1,29 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T03:17:17.903074+00:00",
-  "fetched_at_est": "2026-09-15T23:17:17.903079-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-09-16T11:58:11.419572+00:00",
+  "fetched_at_est": "2026-09-16T07:58:11.419579-04:00",
+  "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7689.0,
+      "side": "bull",
+      "added_at_est": "2026-09-16T07:56:03-04:00",
+      "expires_at_est": "2026-09-16T15:56:03-04:00",
+      "from_tweet_id": "2100191983587225680"
+    }
+  ],
   "updates": [
-    {
-      "tweet_id": "2099828262260064496",
-      "timestamp_utc": "2026-09-15T11:50:45.000Z",
-      "timestamp_est": "2026-09-15T07:50:45-04:00",
-      "tweet_text": "Yesterday's final target for the long was 7678. We hit it, but for those who missed it (and trade early) we got a fantastic Failed Breakdown 6am. Per newsletter, traps of the 7662 shelf trigger up. We triggered, +20 now\n\nPlan: 7686, 7704, 7726 to fill the gap next. 62=support https://t.co/i1V37gygHc",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7662, 7686, 7704/7703, 7726) are morning-plan levels or reaffirmations; 7678 is a hindsight target reference, not a new actionable level."
-    },
-    {
-      "tweet_id": "2099829989134712965",
-      "timestamp_utc": "2026-09-15T11:57:37.000Z",
-      "timestamp_est": "2026-09-15T07:57:37-04:00",
-      "tweet_text": "Note: These are now December contract levels, I have rolled from September to December",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is an administrative note about contract roll (Sep to Dec), no actionable price levels named."
-    },
     {
       "tweet_id": "2099834180800516327",
       "timestamp_utc": "2026-09-15T12:14:16.000Z",
@@ -178,6 +168,17 @@
       ],
       "added_bear_levels": [],
       "notes": "7694 is named explicitly as a bull target in an actionable sequence; not in morning plan. 7645, 7663, 7686, 7704, 7726 are morning-plan levels or observations."
+    },
+    {
+      "tweet_id": "2100191983587225680",
+      "timestamp_utc": "2026-09-16T11:56:03.000Z",
+      "timestamp_est": "2026-09-16T07:56:03-04:00",
+      "tweet_text": "Good follow through in #ES_F. FOMC day. Yesterdays Failed Breakdown of 7645 (4am Tuesday low) was last long entry. 7663 reclaim was a second long given to newsletter readers/here.\n\nPlan: Ride runner. 7689 1st target (almost here), 7702 2nd, then 7728 to fill gap. 63, 45=supports https://t.co/VbtzCxJowL",
+      "added_bull_levels": [
+        7689.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7689 named as '1st target' \u2014 actionable, not in morning plan. 7702/7728 are morning-plan levels. 7663/7645 are entry references, not new levels."
     }
   ]
 }
