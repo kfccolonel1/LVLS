@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T18:00:02.805244+00:00",
-  "fetched_at_est": "2026-09-16T14:00:02.805264-04:00",
+  "fetched_at_utc": "2026-09-16T18:10:09.212052+00:00",
+  "fetched_at_est": "2026-09-16T14:10:09.212057-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099921613449994453",
-      "timestamp_utc": "2026-09-15T18:01:41.000Z",
-      "timestamp_est": "2026-09-15T14:01:41-04:00",
-      "tweet_text": "@Foddmann @OnTheHooch I discussed that trade in yesterdays newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing yesterday's newsletter. No price levels named, no actionable language, pure conversational response."
-    },
-    {
-      "tweet_id": "2099923271047131326",
-      "timestamp_utc": "2026-09-15T18:08:17.000Z",
-      "timestamp_est": "2026-09-15T14:08:17-04:00",
-      "tweet_text": "Many setups today in #ES_F. 7643-45 was flag support (macro structure to setup the next multi-week swing move). It held (quick Failed Breakdown of the 7645 4am low). Back up now. 7663 next. Targets given at 8am remain 7686 (hit), 7694 (hit), 7704, 7726 are still coming next https://t.co/gnBJPrVRxK",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7643-45 is observation/reaffirmation, 7663 lacks explicit naming language, 7686/7694/7704/7726 are existing morning-plan targets or hindsight references."
-    },
     {
       "tweet_id": "2099928557514260913",
       "timestamp_utc": "2026-09-15T18:29:17.000Z",
@@ -172,6 +154,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary/opinion about FOMC and bull flag \u2014 no actionable price named, no naming language, no new level introduced."
+    },
+    {
+      "tweet_id": "2100285930913300981",
+      "timestamp_utc": "2026-09-16T18:09:22.000Z",
+      "timestamp_est": "2026-09-16T14:09:22-04:00",
+      "tweet_text": "Good continued post FOMC follow through in #ES_F and today's plan was a simple one: Just ride long runner from the 7645 Failed Breakdown yesterday OR the 7663 reclaim yesterday.\n\nToday's targets were 7689 (hit), 7702, 7728 gap fill still above. 7663, 7645=supports (watch traps) https://t.co/17uM7yCY08",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7645, 7663, 7689, 7702, 7728) are either morning-plan levels, prior-day references, or observations of targets hit \u2014 no new actionable levels introduced."
     }
   ]
 }
