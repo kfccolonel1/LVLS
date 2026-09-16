@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T13:08:35.678715+00:00",
-  "fetched_at_est": "2026-09-16T09:08:35.678720-04:00",
+  "fetched_at_utc": "2026-09-16T13:18:38.219249+00:00",
+  "fetched_at_est": "2026-09-16T09:18:38.219255-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2099849758743405013",
-      "timestamp_utc": "2026-09-15T13:16:10.000Z",
-      "timestamp_est": "2026-09-15T09:16:10-04:00",
-      "tweet_text": "@JeffsTrades69 Take them in the morning. I do that very often as long as price hasn't ran too far from where the normal entry would be. If its 10-15 points its fine as long as its a planned, high quality Failed Breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user about trade management philosophy; no price levels named or actionable triggers mentioned."
-    },
     {
       "tweet_id": "2099864191150526645",
       "timestamp_utc": "2026-09-15T14:13:31.000Z",
