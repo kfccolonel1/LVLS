@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T19:11:03.430620+00:00",
-  "fetched_at_est": "2026-09-16T15:11:03.430632-04:00",
+  "fetched_at_utc": "2026-09-16T19:21:14.203330+00:00",
+  "fetched_at_est": "2026-09-16T15:21:14.203350-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -224,6 +224,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade recap/commentary on a completed Failed Breakdown move; no new actionable price levels named."
+    },
+    {
+      "tweet_id": "2100301618273026274",
+      "timestamp_utc": "2026-09-16T19:11:42.000Z",
+      "timestamp_est": "2026-09-16T15:11:42-04:00",
+      "tweet_text": "@Shallobowed Lots of setups today!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user with no price levels named, no actionable language, purely conversational comment about market activity."
+    },
+    {
+      "tweet_id": "2100302239940169791",
+      "timestamp_utc": "2026-09-16T19:14:10.000Z",
+      "timestamp_est": "2026-09-16T15:14:10-04:00",
+      "tweet_text": "FOMC continuing to provide excellent volatility in #ES_F. 7645 Failed Breakdown was the first post FOMC setup. We swept it by 2 points, rallied 40 points, then lost it to go \"elevator down\" again.\n\nLittle do do here but wait for next one. Recoveries of 7616 now trigger back to 45 https://t.co/gZcYqecKj6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7645 and 7616 are morning-plan levels; 'recoveries of 7616 trigger back to 45' is a reaffirmation of existing levels, not new actionable prices."
+    },
+    {
+      "tweet_id": "2100303816293761299",
+      "timestamp_utc": "2026-09-16T19:20:26.000Z",
+      "timestamp_est": "2026-09-16T15:20:26-04:00",
+      "tweet_text": "Closing update #ES_F: Lots of action post FOMC from newsletter. THe 7645 long for those trading Failed Breakdowns, and I also gave the short (7635 sell trigger) for those who like those. Newsletter out after 4 with the next squeeze trigger for tonight/tomorrow's squeeze",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7645 is in morning plan; 7635 sell trigger appears new but is framed as a past trade already given in newsletter, not a forward-looking actionable level for readers now."
     }
   ]
 }
