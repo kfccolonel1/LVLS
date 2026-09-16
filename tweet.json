@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-16T18:40:33.192273+00:00",
-  "fetched_at_est": "2026-09-16T14:40:33.192281-04:00",
+  "fetched_at_utc": "2026-09-16T18:50:40.776071+00:00",
+  "fetched_at_est": "2026-09-16T14:50:40.776087-04:00",
   "last_new_level_added_at_est": "2026-09-16T07:56:03-04:00",
   "todays_new_levels": [
     {
@@ -172,6 +172,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7645, 7663, 7634) are in the morning plan or are hindsight/observation references; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2100294125123731620",
+      "timestamp_utc": "2026-09-16T18:41:55.000Z",
+      "timestamp_est": "2026-09-16T14:41:55-04:00",
+      "tweet_text": "That was easy and there's the post-FOMC Failed Breakdown in #ES_F. Newsletter readers were fully prepared for this but I also tweeted it live 4mins ago here: 7645 Failed Breakdowns were the long, with 7663 target. We reclaimed 45, hit 63\n\nLock gains, leave runner. Same upsides https://t.co/EbJlJ217Bk",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7645 and 7663 are morning-plan levels; tweet describes completed trade outcome and trade management (lock gains, runner). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2100295086739247271",
+      "timestamp_utc": "2026-09-16T18:45:44.000Z",
+      "timestamp_est": "2026-09-16T14:45:44-04:00",
+      "tweet_text": "Note: Here is the excerpt from yesterday's 3pm newsletter providing this setup https://t.co/vSifDIgYXL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reference to yesterday's newsletter with a link \u2014 no price levels named, no actionable language, purely a citation."
     }
   ]
 }
