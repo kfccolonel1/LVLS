@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T23:26:04.261356+00:00",
-  "fetched_at_est": "2026-09-17T19:26:04.261360-04:00",
+  "fetched_at_utc": "2026-09-17T23:56:09.560559+00:00",
+  "fetched_at_est": "2026-09-17T19:56:09.560564-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100371527325593931",
-      "timestamp_utc": "2026-09-16T23:49:29.000Z",
-      "timestamp_est": "2026-09-16T19:49:29-04:00",
-      "tweet_text": "@KareemKhalil Newsletter plan for tomorrow already played out!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely a conversational remark referencing the newsletter plan with no actionable new level named."
-    },
     {
       "tweet_id": "2100548885684887662",
       "timestamp_utc": "2026-09-17T11:34:15.000Z",
