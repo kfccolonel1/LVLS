@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T12:03:24.513339+00:00",
-  "fetched_at_est": "2026-09-17T08:03:24.513342-04:00",
+  "fetched_at_utc": "2026-09-17T12:13:27.072388+00:00",
+  "fetched_at_est": "2026-09-17T08:13:27.072393-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100194306317320289",
-      "timestamp_utc": "2026-09-16T12:05:17.000Z",
-      "timestamp_est": "2026-09-16T08:05:17-04:00",
-      "tweet_text": "@atlasbtcgrowth I'm personally hoping it breaks down! Another upside breakout would mean weeks or even months of low volatility and poor day trading/fewer good longs",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply expressing personal hope about market direction; no price named, no actionable level, no naming language."
-    },
     {
       "tweet_id": "2100200354012946612",
       "timestamp_utc": "2026-09-16T12:29:18.000Z",
