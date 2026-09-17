@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T14:03:57.095862+00:00",
-  "fetched_at_est": "2026-09-17T10:03:57.095868-04:00",
+  "fetched_at_utc": "2026-09-17T14:14:02.608923+00:00",
+  "fetched_at_est": "2026-09-17T10:14:02.608931-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -286,6 +286,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7695/7714/7728 are morning-plan levels; 7616 is hindsight FBD reference; 87/63 are ambiguous fragments, not clearly new actionable levels with naming language."
+    },
+    {
+      "tweet_id": "2100589041389379931",
+      "timestamp_utc": "2026-09-17T14:13:49.000Z",
+      "timestamp_est": "2026-09-17T10:13:49-04:00",
+      "tweet_text": "@OnTheHooch Red is bullish though, always want to see red after a squeeze like that",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about price action color/character after a squeeze. No price levels named or actionable triggers mentioned."
     }
   ]
 }
