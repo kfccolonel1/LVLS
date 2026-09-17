@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T14:14:02.608923+00:00",
-  "fetched_at_est": "2026-09-17T10:14:02.608931-04:00",
+  "fetched_at_utc": "2026-09-17T14:24:09.608348+00:00",
+  "fetched_at_est": "2026-09-17T10:24:09.608354-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -295,6 +295,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about price action color/character after a squeeze. No price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2100589582068625531",
+      "timestamp_utc": "2026-09-17T14:15:58.000Z",
+      "timestamp_est": "2026-09-17T10:15:58-04:00",
+      "tweet_text": "1st retrace after a 100+ point leg up in #ES_F from the 7616 Failed Breakdown given live here + newsletter. As always, there has never been nor ever will be an elevator down like yesterday that doesn't squeeze after.7695, 7714, 7728 today's targets (2/3 hit)\n\n87=support (tested) https://t.co/lQyvnH0oAH",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7695/7714/7728 are morning-plan levels; 7687 (implied '87=support') is also in morning plan. All references are reaffirmations or observations, no new actionable levels."
     }
   ]
 }
