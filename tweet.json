@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T11:53:22.064753+00:00",
-  "fetched_at_est": "2026-09-17T07:53:22.064769-04:00",
+  "fetched_at_utc": "2026-09-17T12:03:24.513339+00:00",
+  "fetched_at_est": "2026-09-17T08:03:24.513342-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100191983587225680",
-      "timestamp_utc": "2026-09-16T11:56:03.000Z",
-      "timestamp_est": "2026-09-16T07:56:03-04:00",
-      "tweet_text": "Good follow through in #ES_F. FOMC day. Yesterdays Failed Breakdown of 7645 (4am Tuesday low) was last long entry. 7663 reclaim was a second long given to newsletter readers/here.\n\nPlan: Ride runner. 7689 1st target (almost here), 7702 2nd, then 7728 to fill gap. 63, 45=supports https://t.co/VbtzCxJowL",
-      "added_bull_levels": [
-        7689.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7689 named as '1st target' \u2014 actionable, not in morning plan. 7702/7728 are morning-plan levels. 7663/7645 are entry references, not new levels."
-    },
     {
       "tweet_id": "2100194306317320289",
       "timestamp_utc": "2026-09-16T12:05:17.000Z",
