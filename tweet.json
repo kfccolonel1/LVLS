@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T18:24:57.830021+00:00",
-  "fetched_at_est": "2026-09-17T14:24:57.830027-04:00",
+  "fetched_at_utc": "2026-09-17T18:45:08.007323+00:00",
+  "fetched_at_est": "2026-09-17T14:45:08.007345-04:00",
   "last_new_level_added_at_est": "2026-09-17T11:24:33-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2100292965734224198",
-      "timestamp_utc": "2026-09-16T18:37:19.000Z",
-      "timestamp_est": "2026-09-16T14:37:19-04:00",
-      "tweet_text": "Finally a little pickup in volatility in #ES_F post 2:30PM. Last quality entries were all yesterday: The 7645 Failed Breakdown or 7663 reclaim which gave us a 53 point rip into today.\n\nWatch reclaims of 7645 now to resume back up to 7663+ (same targets). 7634 below, then sell https://t.co/SP24TrOXgy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7645, 7663, 7634) are in the morning plan or are hindsight/observation references; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2100294125123731620",
-      "timestamp_utc": "2026-09-16T18:41:55.000Z",
-      "timestamp_est": "2026-09-16T14:41:55-04:00",
-      "tweet_text": "That was easy and there's the post-FOMC Failed Breakdown in #ES_F. Newsletter readers were fully prepared for this but I also tweeted it live 4mins ago here: 7645 Failed Breakdowns were the long, with 7663 target. We reclaimed 45, hit 63\n\nLock gains, leave runner. Same upsides https://t.co/EbJlJ217Bk",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7645 and 7663 are morning-plan levels; tweet describes completed trade outcome and trade management (lock gains, runner). No new actionable levels named."
-    },
     {
       "tweet_id": "2100295086739247271",
       "timestamp_utc": "2026-09-16T18:45:44.000Z",
@@ -258,6 +240,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7616 is an observation/hindsight reference to a prior setup; 7687, 7695, 7714, 7728 are all reaffirmations of morning-plan levels. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2100654933447974990",
+      "timestamp_utc": "2026-09-17T18:35:39.000Z",
+      "timestamp_est": "2026-09-17T14:35:39-04:00",
+      "tweet_text": "@spx0dteES As I discuss in newsletter it is a structure with the majority of the structure at 16 and a wick down to 11",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply discussing candle structure with price references (16/11 as partial prices) in conversational context; no actionable naming language, no explicit ES futures level introduced."
+    },
+    {
+      "tweet_id": "2100655188121919911",
+      "timestamp_utc": "2026-09-17T18:36:39.000Z",
+      "timestamp_est": "2026-09-17T14:36:39-04:00",
+      "tweet_text": "Note: Due to the slow action newsletter will be sent out early today. Entries will apply for both later in today's session and tomorrow. Volatility has totally stalled out now and we will need a dip to restart it again. Ride runner until then",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; pure trade management/commentary about low volatility and holding a runner. Nothing actionable or new."
     }
   ]
 }
