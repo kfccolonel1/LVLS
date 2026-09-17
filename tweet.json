@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T17:54:52.062964+00:00",
-  "fetched_at_est": "2026-09-17T13:54:52.062971-04:00",
+  "fetched_at_utc": "2026-09-17T18:14:55.384671+00:00",
+  "fetched_at_est": "2026-09-17T14:14:55.384677-04:00",
   "last_new_level_added_at_est": "2026-09-17T11:24:33-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2100285930913300981",
-      "timestamp_utc": "2026-09-16T18:09:22.000Z",
-      "timestamp_est": "2026-09-16T14:09:22-04:00",
-      "tweet_text": "Good continued post FOMC follow through in #ES_F and today's plan was a simple one: Just ride long runner from the 7645 Failed Breakdown yesterday OR the 7663 reclaim yesterday.\n\nToday's targets were 7689 (hit), 7702, 7728 gap fill still above. 7663, 7645=supports (watch traps) https://t.co/17uM7yCY08",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7645, 7663, 7689, 7702, 7728) are either morning-plan levels, prior-day references, or observations of targets hit \u2014 no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2100286761553309913",
-      "timestamp_utc": "2026-09-16T18:12:40.000Z",
-      "timestamp_est": "2026-09-16T14:12:40-04:00",
-      "tweet_text": "Note: Remember press conference is still at 230pm, so even though vol is low now, it may not remain so.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about press conference timing and volatility expectation. No price level named or actionable instruction given."
-    },
     {
       "tweet_id": "2100289335098499106",
       "timestamp_utc": "2026-09-16T18:22:53.000Z",
