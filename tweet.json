@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T17:34:45.860758+00:00",
-  "fetched_at_est": "2026-09-17T13:34:45.860764-04:00",
+  "fetched_at_utc": "2026-09-17T17:54:52.062964+00:00",
+  "fetched_at_est": "2026-09-17T13:54:52.062971-04:00",
   "last_new_level_added_at_est": "2026-09-17T11:24:33-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2100281388272361781",
-      "timestamp_utc": "2026-09-16T17:51:18.000Z",
-      "timestamp_est": "2026-09-16T13:51:18-04:00",
-      "tweet_text": "@Ranman50765090 I dont have a group, and I don't trade options. And we are up from all entries so its impossible anyone is red",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels mentioned; purely conversational response about group/options/P&L status."
-    },
-    {
-      "tweet_id": "2100281864246214789",
-      "timestamp_utc": "2026-09-16T17:53:12.000Z",
-      "timestamp_est": "2026-09-16T13:53:12-04:00",
-      "tweet_text": "@ArcherCaptial @atlasbtcgrowth It is a bull flag so always need to defer to the trend. FOMC introduces lots of randomness though. I'd just prefer it breaks down since its easier trading/more setups, but my \"lean\" is always higher as I discuss in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary/opinion about FOMC and bull flag \u2014 no actionable price named, no naming language, no new level introduced."
-    },
     {
       "tweet_id": "2100285930913300981",
       "timestamp_utc": "2026-09-16T18:09:22.000Z",
@@ -294,6 +276,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7616 is a hindsight reference to yesterday's FBD; 7695/7714/7728/7687 are all morning-plan reaffirmations. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2100642373038403862",
+      "timestamp_utc": "2026-09-17T17:45:44.000Z",
+      "timestamp_est": "2026-09-17T13:45:44-04:00",
+      "tweet_text": "We have stalled out in #ES_F but levels respecting well. This moved was caused by the Failed Breakdown of the 7616 August 3rd low - this setup was given here and in newsletter beforehand. 7687 was support today, defended.\n\nRide runner for upside. 7695, 7714, 7728 targets today https://t.co/cdso8RRYTS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7616 is an observation/hindsight reference to a prior setup; 7687, 7695, 7714, 7728 are all reaffirmations of morning-plan levels. No new actionable levels named."
     }
   ]
 }
