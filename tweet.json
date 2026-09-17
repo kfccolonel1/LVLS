@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T13:43:53.393240+00:00",
-  "fetched_at_est": "2026-09-17T09:43:53.393249-04:00",
+  "fetched_at_utc": "2026-09-17T14:03:57.095862+00:00",
+  "fetched_at_est": "2026-09-17T10:03:57.095868-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100223108980285519",
-      "timestamp_utc": "2026-09-16T13:59:44.000Z",
-      "timestamp_est": "2026-09-16T09:59:44-04:00",
-      "tweet_text": "No volatility as we await FOMC in #ES_F. Longs still working from the 7645 Failed Breakdown yesterday around 11am (of Tuesday's 4am low). This ocurred at macro bull flag support per newsletter.\n\nTargets today were 7689 (hit), 7702 next, then 7728 to fill the gap. 63, 45=supports https://t.co/mwLI1UGPSI",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7645, 7702, 7728) are morning-plan levels; 7689 is an observation of a hit target; 7663/7645 reaffirmed supports. No new actionable levels."
-    },
     {
       "tweet_id": "2100236786299470069",
       "timestamp_utc": "2026-09-16T14:54:05.000Z",
