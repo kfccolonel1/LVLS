@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T18:45:08.007323+00:00",
-  "fetched_at_est": "2026-09-17T14:45:08.007345-04:00",
+  "fetched_at_utc": "2026-09-17T18:55:10.504199+00:00",
+  "fetched_at_est": "2026-09-17T14:55:10.504205-04:00",
   "last_new_level_added_at_est": "2026-09-17T11:24:33-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2100295086739247271",
-      "timestamp_utc": "2026-09-16T18:45:44.000Z",
-      "timestamp_est": "2026-09-16T14:45:44-04:00",
-      "tweet_text": "Note: Here is the excerpt from yesterday's 3pm newsletter providing this setup https://t.co/vSifDIgYXL",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reference to yesterday's newsletter with a link \u2014 no price levels named, no actionable language, purely a citation."
-    },
-    {
-      "tweet_id": "2100296765396176938",
-      "timestamp_utc": "2026-09-16T18:52:25.000Z",
-      "timestamp_est": "2026-09-16T14:52:25-04:00",
-      "tweet_text": "@Ant_Tonio Thats how they typically look when we get volatility! Easy work",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply with no price mentioned and no actionable level named."
-    },
     {
       "tweet_id": "2100297817189183556",
       "timestamp_utc": "2026-09-16T18:56:35.000Z",
