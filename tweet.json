@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T19:15:32.936023+00:00",
-  "fetched_at_est": "2026-09-17T15:15:32.936028-04:00",
+  "fetched_at_utc": "2026-09-17T19:25:35.586258+00:00",
+  "fetched_at_est": "2026-09-17T15:25:35.586264-04:00",
   "last_new_level_added_at_est": "2026-09-17T11:24:33-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2100303816293761299",
-      "timestamp_utc": "2026-09-16T19:20:26.000Z",
-      "timestamp_est": "2026-09-16T15:20:26-04:00",
-      "tweet_text": "Closing update #ES_F: Lots of action post FOMC from newsletter. THe 7645 long for those trading Failed Breakdowns, and I also gave the short (7635 sell trigger) for those who like those. Newsletter out after 4 with the next squeeze trigger for tonight/tomorrow's squeeze",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7645 is in morning plan; 7635 sell trigger appears new but is framed as a past trade already given in newsletter, not a forward-looking actionable level for readers now."
-    },
-    {
-      "tweet_id": "2100304705918271718",
-      "timestamp_utc": "2026-09-16T19:23:58.000Z",
-      "timestamp_est": "2026-09-16T15:23:58-04:00",
-      "tweet_text": "@tanay1210 It'll probably try to recover tomorrow though, bears will need to defend the backtest",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no specific price named; 'backtest' is vague directional commentary, not an actionable level."
-    },
     {
       "tweet_id": "2100309174533882219",
       "timestamp_utc": "2026-09-16T19:41:43.000Z",
