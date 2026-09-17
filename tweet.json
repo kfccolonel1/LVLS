@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T12:13:27.072388+00:00",
-  "fetched_at_est": "2026-09-17T08:13:27.072393-04:00",
+  "fetched_at_utc": "2026-09-17T12:33:30.895096+00:00",
+  "fetched_at_est": "2026-09-17T08:33:30.895101-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100200354012946612",
-      "timestamp_utc": "2026-09-16T12:29:18.000Z",
-      "timestamp_est": "2026-09-16T08:29:18-04:00",
-      "tweet_text": "@tradivate Lots of accumulation but will depend on fomc now. Well see if we can hit those upside targets",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named; purely conversational commentary about FOMC and accumulation with no actionable level introduced."
-    },
     {
       "tweet_id": "2100206913430396971",
       "timestamp_utc": "2026-09-16T12:55:22.000Z",
