@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T12:33:30.895096+00:00",
-  "fetched_at_est": "2026-09-17T08:33:30.895101-04:00",
+  "fetched_at_utc": "2026-09-17T12:53:42.060740+00:00",
+  "fetched_at_est": "2026-09-17T08:53:42.060752-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -277,6 +277,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary on market behavior; no specific price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2100566929916174438",
+      "timestamp_utc": "2026-09-17T12:45:57.000Z",
+      "timestamp_est": "2026-09-17T08:45:57-04:00",
+      "tweet_text": "Absolutely massive payout on the long in #ES_F. The entry was the 7616 Failed Breakdown. This was given here live yesterday AND in the 4pm newsletter. We are now +100 on this long.\n\nToday's 730am targets?7695, 7714, 7728. 2/3 hit. 7739, 7759 will be bonus targets for today https://t.co/Lt4DYFOwXf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7695/7714/7728 are morning plan levels; 7739 is new number but framed as 'bonus target' referencing prior plan flow, not explicit new actionable naming; 7759 is morning plan."
+    },
+    {
+      "tweet_id": "2100568632690446446",
+      "timestamp_utc": "2026-09-17T12:52:43.000Z",
+      "timestamp_est": "2026-09-17T08:52:43-04:00",
+      "tweet_text": "@investingpro12 That's just how Twitter works - everytime we get the elevator down, trolling increases, then they get squeezed out. Been on here 10 years now posting, always the same",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about Twitter dynamics; no price levels mentioned or implied."
     }
   ]
 }
