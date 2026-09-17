@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T14:24:09.608348+00:00",
-  "fetched_at_est": "2026-09-17T10:24:09.608354-04:00",
+  "fetched_at_utc": "2026-09-17T14:54:13.914382+00:00",
+  "fetched_at_est": "2026-09-17T10:54:13.914389-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100236786299470069",
-      "timestamp_utc": "2026-09-16T14:54:05.000Z",
-      "timestamp_est": "2026-09-16T10:54:05-04:00",
-      "tweet_text": "Just hold runner now into FOMC in #ES_F. We got a major long trigger yesterday: The 7645 Tuesday 4am low Failed Breakdown (at macro bull flag support) AND the 7663 reclaim given in newsletter. Targets for today are 7689 (hit), 7702, then 7728 to fill the Sunday gap\n\nSame supports https://t.co/OKiPj0EWCL",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All referenced levels (7645, 7663, 7702, 7728) are either in the morning plan or prior newsletter triggers. 7689 is an observation of a hit target. No new actionable levels named."
-    },
     {
       "tweet_id": "2100247356633432146",
       "timestamp_utc": "2026-09-16T15:36:05.000Z",
