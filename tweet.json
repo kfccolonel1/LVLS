@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T18:55:10.504199+00:00",
-  "fetched_at_est": "2026-09-17T14:55:10.504205-04:00",
+  "fetched_at_utc": "2026-09-17T19:15:32.936023+00:00",
+  "fetched_at_est": "2026-09-17T15:15:32.936028-04:00",
   "last_new_level_added_at_est": "2026-09-17T11:24:33-04:00",
   "todays_new_levels": [
     {
@@ -14,60 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2100297817189183556",
-      "timestamp_utc": "2026-09-16T18:56:35.000Z",
-      "timestamp_est": "2026-09-16T14:56:35-04:00",
-      "tweet_text": "FOMC providing fantastic volatility in #ES_F for once. 7645 Failed Breakdown was actionable post FOMC. We swept it by 2-3 points, recovered, triggered long, ran 40. I then warned to lock gains and leave runner.\n\nJust arrived at 7634 support. 45 reclaims resume up. 16, 04 below https://t.co/Quhx4798Y4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7645, 7634, 7616, 7604) are in the morning plan. 'Reclaims resume up' is trade management/reaffirmation, not a new level."
-    },
-    {
-      "tweet_id": "2100299594424836170",
-      "timestamp_utc": "2026-09-16T19:03:39.000Z",
-      "timestamp_est": "2026-09-16T15:03:39-04:00",
-      "tweet_text": "@sstrange05 Last few have been slower but finally get some volatility now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about market volatility; no price level named or actionable instruction given."
-    },
-    {
-      "tweet_id": "2100299680596766823",
-      "timestamp_utc": "2026-09-16T19:04:00.000Z",
-      "timestamp_est": "2026-09-16T15:04:00-04:00",
-      "tweet_text": "@Nighthawkk5 We'll see if ES can squeeze in one more Failed Breakdown today!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual rhetorical comment about a possible Failed Breakdown pattern; no specific price level named or actionable trigger identified."
-    },
-    {
-      "tweet_id": "2100301217096139252",
-      "timestamp_utc": "2026-09-16T19:10:06.000Z",
-      "timestamp_est": "2026-09-16T15:10:06-04:00",
-      "tweet_text": "@ndxtrader9 It was a fantastic Failed Breakdown. We went 40 points with 0 drawdown in a very short period of time. Multi-level run. It was about as textbook and high quality as the setup gets and we don't see those everyday.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade recap/commentary on a completed Failed Breakdown move; no new actionable price levels named."
-    },
-    {
-      "tweet_id": "2100301618273026274",
-      "timestamp_utc": "2026-09-16T19:11:42.000Z",
-      "timestamp_est": "2026-09-16T15:11:42-04:00",
-      "tweet_text": "@Shallobowed Lots of setups today!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user with no price levels named, no actionable language, purely conversational comment about market activity."
-    },
-    {
-      "tweet_id": "2100302239940169791",
-      "timestamp_utc": "2026-09-16T19:14:10.000Z",
-      "timestamp_est": "2026-09-16T15:14:10-04:00",
-      "tweet_text": "FOMC continuing to provide excellent volatility in #ES_F. 7645 Failed Breakdown was the first post FOMC setup. We swept it by 2 points, rallied 40 points, then lost it to go \"elevator down\" again.\n\nLittle do do here but wait for next one. Recoveries of 7616 now trigger back to 45 https://t.co/gZcYqecKj6",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7645 and 7616 are morning-plan levels; 'recoveries of 7616 trigger back to 45' is a reaffirmation of existing levels, not new actionable prices."
-    },
     {
       "tweet_id": "2100303816293761299",
       "timestamp_utc": "2026-09-16T19:20:26.000Z",
