@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T16:44:36.525041+00:00",
-  "fetched_at_est": "2026-09-17T12:44:36.525059-04:00",
+  "fetched_at_utc": "2026-09-17T16:54:39.141160+00:00",
+  "fetched_at_est": "2026-09-17T12:54:39.141167-04:00",
   "last_new_level_added_at_est": "2026-09-17T11:24:33-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2100264978343227563",
-      "timestamp_utc": "2026-09-16T16:46:06.000Z",
-      "timestamp_est": "2026-09-16T12:46:06-04:00",
-      "tweet_text": "Today's plan was fairly simple: Just ride runner. We got the triggers for the long ystd last evening in #ES_F (given here and newsletter): The 7645 Failed Breakdown at macro bull flag support OR the 7663 reclaim.\n\nToday's targets were 7689 (hit), 7702 (4 points shy), 7728 https://t.co/CLdgIto3cd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7645, 7663, 7689, 7702, 7728) are morning-plan levels or hindsight references to already-published targets; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2100267742980903271",
       "timestamp_utc": "2026-09-16T16:57:05.000Z",
