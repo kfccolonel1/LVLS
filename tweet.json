@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T13:37:53.019923+00:00",
-  "fetched_at_est": "2026-09-18T09:37:53.019930-04:00",
+  "fetched_at_utc": "2026-09-18T14:18:08.436988+00:00",
+  "fetched_at_est": "2026-09-18T10:18:08.437003-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100589041389379931",
-      "timestamp_utc": "2026-09-17T14:13:49.000Z",
-      "timestamp_est": "2026-09-17T10:13:49-04:00",
-      "tweet_text": "@OnTheHooch Red is bullish though, always want to see red after a squeeze like that",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about price action color/character after a squeeze. No price levels named or actionable triggers mentioned."
-    },
-    {
-      "tweet_id": "2100589582068625531",
-      "timestamp_utc": "2026-09-17T14:15:58.000Z",
-      "timestamp_est": "2026-09-17T10:15:58-04:00",
-      "tweet_text": "1st retrace after a 100+ point leg up in #ES_F from the 7616 Failed Breakdown given live here + newsletter. As always, there has never been nor ever will be an elevator down like yesterday that doesn't squeeze after.7695, 7714, 7728 today's targets (2/3 hit)\n\n87=support (tested) https://t.co/lQyvnH0oAH",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7695/7714/7728 are morning-plan levels; 7687 (implied '87=support') is also in morning plan. All references are reaffirmations or observations, no new actionable levels."
-    },
     {
       "tweet_id": "2100606841919037769",
       "timestamp_utc": "2026-09-17T15:24:33.000Z",
@@ -133,6 +115,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about normal price action; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2100951295137829252",
+      "timestamp_utc": "2026-09-18T14:13:17.000Z",
+      "timestamp_est": "2026-09-18T10:13:17-04:00",
+      "tweet_text": "@ForeRight26 Still very OPEX trading. Choppy",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about OPEX chop; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2100951718104121658",
+      "timestamp_utc": "2026-09-18T14:14:58.000Z",
+      "timestamp_est": "2026-09-18T10:14:58-04:00",
+      "tweet_text": "OPEX chop in #ES_F. I don't trade this especially after a +125 point long. 7616 Wednesday Failed Breakdown was the long, 7728 Sunday gap fill was the target, we are done.\n\n7685 was support today. Just held exact. 97 reclaims now could see a pop to 7707, 7716+. 72, 57 below https://t.co/AGOhVaSrpV",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7616,7728,7685,7697,7707,7716,7672,7657 are all observations/reaffirmations of morning-plan levels or casual price action references; 7707/7716 mentioned without clear naming language."
+    },
+    {
+      "tweet_id": "2100952246166974727",
+      "timestamp_utc": "2026-09-18T14:17:03.000Z",
+      "timestamp_est": "2026-09-18T10:17:03-04:00",
+      "tweet_text": "@vikidave @ForeRight26 I'd probably guess 85!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual conversational reply to users with no actionable price level named; '85' is not a full ES price and context is speculative chatter, not a trade signal."
     }
   ]
 }
