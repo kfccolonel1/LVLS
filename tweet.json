@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T12:57:38.941543+00:00",
-  "fetched_at_est": "2026-09-18T08:57:38.941550-04:00",
+  "fetched_at_utc": "2026-09-18T13:27:50.379988+00:00",
+  "fetched_at_est": "2026-09-18T09:27:50.380011-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -115,6 +115,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Vague reference to unspecified 'lower levels' and 'one sub 85' without naming an explicit actionable price; conversational reply, no new level disclosed."
+    },
+    {
+      "tweet_id": "2100939216494485793",
+      "timestamp_utc": "2026-09-18T13:25:17.000Z",
+      "timestamp_est": "2026-09-18T09:25:17-04:00",
+      "tweet_text": "@PermaFader @PierScalamandre Yes but its a very shallow retrace of the recent move, those are lower win rate failedbreakdowns. Position of the low in the retrace matters as well",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply discussing retrace characteristics and win rates \u2014 no price level named or actionable signal given."
+    },
+    {
+      "tweet_id": "2100939496401342768",
+      "timestamp_utc": "2026-09-18T13:26:24.000Z",
+      "timestamp_est": "2026-09-18T09:26:24-04:00",
+      "tweet_text": "OPEX day underway in #ES_F and little to do now. All targets were completed. The 7616 Wednesday Failed Breakdown was our trigger. Target was the Sunday gap fill ~7728. We filled it, and now we need to wait. I won't trade OPEX chop\n\n7685 remains support (watch traps). Same upsides https://t.co/flpQXS0WoM",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7616, 7728, and 7685 are all morning-plan levels; tweet is a reaffirmation/summary with no new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2100939691398660538",
+      "timestamp_utc": "2026-09-18T13:27:10.000Z",
+      "timestamp_est": "2026-09-18T09:27:10-04:00",
+      "tweet_text": "@avalon198098 That's just normal price action though. Price rallies, retraces. Wouldn't expect anything different",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about normal price action; no price named, no actionable level introduced."
     }
   ]
 }
