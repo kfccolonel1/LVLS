@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T12:47:36.568653+00:00",
-  "fetched_at_est": "2026-09-18T08:47:36.568660-04:00",
+  "fetched_at_utc": "2026-09-18T12:57:38.941543+00:00",
+  "fetched_at_est": "2026-09-18T08:57:38.941550-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100568632690446446",
-      "timestamp_utc": "2026-09-17T12:52:43.000Z",
-      "timestamp_est": "2026-09-17T08:52:43-04:00",
-      "tweet_text": "@investingpro12 That's just how Twitter works - everytime we get the elevator down, trolling increases, then they get squeezed out. Been on here 10 years now posting, always the same",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about Twitter dynamics; no price levels mentioned or implied."
-    },
     {
       "tweet_id": "2100579285358571675",
       "timestamp_utc": "2026-09-17T13:35:03.000Z",
