@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T12:07:26.670397+00:00",
-  "fetched_at_est": "2026-09-18T08:07:26.670416-04:00",
+  "fetched_at_utc": "2026-09-18T12:17:32.358761+00:00",
+  "fetched_at_est": "2026-09-18T08:17:32.358766-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -124,6 +124,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No specific prices named; tweet is general commentary about OPEX conditions and trade selectivity with no actionable level introduced."
+    },
+    {
+      "tweet_id": "2100920219304616315",
+      "timestamp_utc": "2026-09-18T12:09:48.000Z",
+      "timestamp_est": "2026-09-18T08:09:48-04:00",
+      "tweet_text": "@PierScalamandre 96 isn't bad, I'd much prefer the lower levels from newsletter though. Won't mention them here since its for subscribers but the one sub 85 is the the highest quality",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Vague reference to unspecified 'lower levels' and 'one sub 85' without naming an explicit actionable price; conversational reply, no new level disclosed."
     }
   ]
 }
