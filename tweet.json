@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-17T23:56:09.560559+00:00",
-  "fetched_at_est": "2026-09-17T19:56:09.560564-04:00",
+  "fetched_at_utc": "2026-09-18T11:37:13.065628+00:00",
+  "fetched_at_est": "2026-09-18T07:37:13.065635-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100548885684887662",
-      "timestamp_utc": "2026-09-17T11:34:15.000Z",
-      "timestamp_est": "2026-09-17T07:34:15-04:00",
-      "tweet_text": "Incredible follow through. In my last tweet yesterday (and 4pm newsletter), I wrote about an evening squeeze. It is the *law* in #ES_F that every \"elevator down\" sell sees a squeeze. Trigger was the 7611-16 reclaim. We are +75\n\nPlan: Ride runner. 7695, 7714, 7728 next. 63=support https://t.co/lOF7ojCXUV",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7695, 7714, 7728) are morning-plan reaffirmations; 7611-16 is a hindsight trigger reference; 63=support is too vague/conversational."
-    },
     {
       "tweet_id": "2100551475994783904",
       "timestamp_utc": "2026-09-17T11:44:32.000Z",
