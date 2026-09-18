@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T11:57:21.758767+00:00",
-  "fetched_at_est": "2026-09-18T07:57:21.758772-04:00",
+  "fetched_at_utc": "2026-09-18T12:07:26.670397+00:00",
+  "fetched_at_est": "2026-09-18T08:07:26.670416-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -115,6 +115,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All referenced prices (7616, 7695, 7714, 7728, 7785) are either morning-plan levels, hindsight trade recaps, or prior targets. '85=support' likely 7785\u2014already in plan. No new actionable levels."
+    },
+    {
+      "tweet_id": "2100917325096423739",
+      "timestamp_utc": "2026-09-18T11:58:18.000Z",
+      "timestamp_est": "2026-09-18T07:58:18-04:00",
+      "tweet_text": "Note: OPEX day and these are notoriously bad to trade. We also just had a big macro Failed Breakdown. I will only trade IF we get the specific entries mentioned in the newsletter, but we would need to luck out and get an \"elevator down\" sell for those.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific prices named; tweet is general commentary about OPEX conditions and trade selectivity with no actionable level introduced."
     }
   ]
 }
