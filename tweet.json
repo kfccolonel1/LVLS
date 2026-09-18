@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T11:47:15.811047+00:00",
-  "fetched_at_est": "2026-09-18T07:47:15.811054-04:00",
+  "fetched_at_utc": "2026-09-18T11:57:21.758767+00:00",
+  "fetched_at_est": "2026-09-18T07:57:21.758772-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100552822299271588",
-      "timestamp_utc": "2026-09-17T11:49:53.000Z",
-      "timestamp_est": "2026-09-17T07:49:53-04:00",
-      "tweet_text": "@Kamil70154936 Hopefully people can see why I like downside now! Its the law in ES that every elevator down sell sees a squeeze in proportion to the sell, but can't get those squeezes without the sells!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary on market behavior; no specific price level named or actionable trigger identified."
-    },
     {
       "tweet_id": "2100566929916174438",
       "timestamp_utc": "2026-09-17T12:45:57.000Z",
@@ -115,6 +106,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named at all; pure trade management/commentary about low volatility and holding a runner. Nothing actionable or new."
+    },
+    {
+      "tweet_id": "2100915294331928691",
+      "timestamp_utc": "2026-09-18T11:50:13.000Z",
+      "timestamp_est": "2026-09-18T07:50:13-04:00",
+      "tweet_text": "All targets done in #ES_F. 7616 Wednesday was our long, given here *and* in Wed 4pm newsletter. We went +125. Yesterday's targets were 7695, 7714, 7728 to fill Sunday's gap. We filled it.\n\nPlan: Ride tiny lotto runner, OPEX day. I won't trade. 85=support (watch traps). 7728, https://t.co/DTdddPrFd0",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All referenced prices (7616, 7695, 7714, 7728, 7785) are either morning-plan levels, hindsight trade recaps, or prior targets. '85=support' likely 7785\u2014already in plan. No new actionable levels."
     }
   ]
 }
