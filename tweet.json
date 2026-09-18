@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T16:28:31.718941+00:00",
-  "fetched_at_est": "2026-09-18T12:28:31.718948-04:00",
+  "fetched_at_utc": "2026-09-18T16:38:39.553444+00:00",
+  "fetched_at_est": "2026-09-18T12:38:39.553459-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100624442523095427",
-      "timestamp_utc": "2026-09-17T16:34:29.000Z",
-      "timestamp_est": "2026-09-17T12:34:29-04:00",
-      "tweet_text": "@Autostico It moves when we have catalysts like fomc - otherwise we are in a low vol regime",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational commentary about volatility regime; no price level named or actionable instruction given."
-    },
     {
       "tweet_id": "2100626026308968847",
       "timestamp_utc": "2026-09-17T16:40:47.000Z",
@@ -149,6 +140,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7616, 7728) are morning-plan levels; '85 magnet' is vague commentary; 'high risk long' lacks a precise actionable ES price."
+    },
+    {
+      "tweet_id": "2100985914793066774",
+      "timestamp_utc": "2026-09-18T16:30:51.000Z",
+      "timestamp_est": "2026-09-18T12:30:51-04:00",
+      "tweet_text": "Non-tradable OPEX chop in #ES_F. As I warned at 8am, I do not trade this. It is \"trappy, slow, with minimum follow through that glues to a magnet (85 magnet today). Long runners still working from 7616 Failed breakdown which hit 7728 gap fill target\n\n85 reclaim is a high risk https://t.co/ntat2Aw8cI",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new actionable levels named. References to 7616, 7728 are morning-plan levels; '85 magnet' is commentary; '85 reclaim is high risk' lacks a full ES price and is a caution note, not a named level."
+    },
+    {
+      "tweet_id": "2100986618228117798",
+      "timestamp_utc": "2026-09-18T16:33:38.000Z",
+      "timestamp_est": "2026-09-18T12:33:38-04:00",
+      "tweet_text": "@MtgRatesDaily Same entry still but odds of gettng trapped very high on OPEX. Magnet 85 so price will struggle to stay far from it for long",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No explicit actionable price named; '85' appears to reference 7585 as a magnet/commentary observation, not a new named level with actionable language."
     }
   ]
 }
