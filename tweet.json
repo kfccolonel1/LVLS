@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T17:58:53.642056+00:00",
-  "fetched_at_est": "2026-09-18T13:58:53.642063-04:00",
+  "fetched_at_utc": "2026-09-18T18:29:02.935733+00:00",
+  "fetched_at_est": "2026-09-18T14:29:02.935746-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -149,6 +149,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about OPEX behavior and Monday outlook; no price levels named or actionable entries/triggers mentioned."
+    },
+    {
+      "tweet_id": "2101014954241663244",
+      "timestamp_utc": "2026-09-18T18:26:14.000Z",
+      "timestamp_est": "2026-09-18T14:26:14-04:00",
+      "tweet_text": "Slow opex chop continues in #ES_F and long runners keep paying from the Wednesday 7616 Failed Breakdown given here + newsletter. 7728 was target to fill the Sunday gap, filled.\n\n7685 was support today (watch traps as posted). We trapped it and back up. 7716, 7728, 7750 next week https://t.co/yv7xD0HENL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7616, 7728, 7685, 7716, 7750) are morning-plan levels or observations of price action/targets already hit. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2101015272916172948",
+      "timestamp_utc": "2026-09-18T18:27:30.000Z",
+      "timestamp_est": "2026-09-18T14:27:30-04:00",
+      "tweet_text": "Note: Due to the slow action newsletter will be out early today with entries for Monday. We are likely getting close to a very significant trend leg probably early to mid next week",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; purely commentary about slow action and anticipated trend leg next week. No actionable levels introduced."
     }
   ]
 }
