@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T16:38:39.553444+00:00",
-  "fetched_at_est": "2026-09-18T12:38:39.553459-04:00",
+  "fetched_at_utc": "2026-09-18T16:48:42.124643+00:00",
+  "fetched_at_est": "2026-09-18T12:48:42.124650-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100626026308968847",
-      "timestamp_utc": "2026-09-17T16:40:47.000Z",
-      "timestamp_est": "2026-09-17T12:40:47-04:00",
-      "tweet_text": "Volatility drying up in #ES_F but levels respecting well. Last quality entry was the 7616 Failed Breakdown yesterday, after which we went +100. Today's targets were 7695, 7714, 7728 (2/3 hit).\n\nSupport for today was 7687, which keeps defending. Still, 7728 outstanding for today https://t.co/0jcwKwV4nn",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7616 is a hindsight reference to yesterday's FBD; 7695/7714/7728/7687 are all morning-plan reaffirmations. No new actionable levels named."
-    },
     {
       "tweet_id": "2100642373038403862",
       "timestamp_utc": "2026-09-17T17:45:44.000Z",
