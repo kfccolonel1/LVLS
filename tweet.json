@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T15:28:21.503289+00:00",
-  "fetched_at_est": "2026-09-18T11:28:21.503296-04:00",
+  "fetched_at_utc": "2026-09-18T16:28:31.718941+00:00",
+  "fetched_at_est": "2026-09-18T12:28:31.718948-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7685 (85) and 7697 (97) are reaffirmations/observations of existing levels; no new actionable level introduced with naming language."
+    },
+    {
+      "tweet_id": "2100984465702932501",
+      "timestamp_utc": "2026-09-18T16:25:05.000Z",
+      "timestamp_est": "2026-09-18T12:25:05-04:00",
+      "tweet_text": "Non-tradable OPEX chop in #ES_F. As I warned at 8am, I do not trade this. It is \"trappy, slow, with minimum follow through that glues to a magnet (85 magnet today). Long runners stilling from 7616 Failed breakdown which hit 7728 gap fill target\n\n85 reclaim is a high risk long https://t.co/ntat2Aw8cI",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7616, 7728) are morning-plan levels; '85 magnet' is vague commentary; 'high risk long' lacks a precise actionable ES price."
     }
   ]
 }
