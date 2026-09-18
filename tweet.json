@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T17:08:48.212572+00:00",
-  "fetched_at_est": "2026-09-18T13:08:48.212578-04:00",
+  "fetched_at_utc": "2026-09-18T17:58:53.642056+00:00",
+  "fetched_at_est": "2026-09-18T13:58:53.642063-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100642373038403862",
-      "timestamp_utc": "2026-09-17T17:45:44.000Z",
-      "timestamp_est": "2026-09-17T13:45:44-04:00",
-      "tweet_text": "We have stalled out in #ES_F but levels respecting well. This moved was caused by the Failed Breakdown of the 7616 August 3rd low - this setup was given here and in newsletter beforehand. 7687 was support today, defended.\n\nRide runner for upside. 7695, 7714, 7728 targets today https://t.co/cdso8RRYTS",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7616 is an observation/hindsight reference to a prior setup; 7687, 7695, 7714, 7728 are all reaffirmations of morning-plan levels. No new actionable levels named."
-    },
     {
       "tweet_id": "2100654933447974990",
       "timestamp_utc": "2026-09-17T18:35:39.000Z",
