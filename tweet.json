@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T16:48:42.124643+00:00",
-  "fetched_at_est": "2026-09-18T12:48:42.124650-04:00",
+  "fetched_at_utc": "2026-09-18T17:08:48.212572+00:00",
+  "fetched_at_est": "2026-09-18T13:08:48.212578-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -149,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No explicit actionable price named; '85' appears to reference 7585 as a magnet/commentary observation, not a new named level with actionable language."
+    },
+    {
+      "tweet_id": "2100995196049564111",
+      "timestamp_utc": "2026-09-18T17:07:43.000Z",
+      "timestamp_est": "2026-09-18T13:07:43-04:00",
+      "tweet_text": "@KevinJagiah Thats what will happen. Always does with OPEX. Real move will begin Monday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about OPEX behavior and Monday outlook; no price levels named or actionable entries/triggers mentioned."
     }
   ]
 }
