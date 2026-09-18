@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T18:29:02.935733+00:00",
-  "fetched_at_est": "2026-09-18T14:29:02.935746-04:00",
+  "fetched_at_utc": "2026-09-18T18:39:05.587421+00:00",
+  "fetched_at_est": "2026-09-18T14:39:05.587427-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100654933447974990",
-      "timestamp_utc": "2026-09-17T18:35:39.000Z",
-      "timestamp_est": "2026-09-17T14:35:39-04:00",
-      "tweet_text": "@spx0dteES As I discuss in newsletter it is a structure with the majority of the structure at 16 and a wick down to 11",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply discussing candle structure with price references (16/11 as partial prices) in conversational context; no actionable naming language, no explicit ES futures level introduced."
-    },
-    {
-      "tweet_id": "2100655188121919911",
-      "timestamp_utc": "2026-09-17T18:36:39.000Z",
-      "timestamp_est": "2026-09-17T14:36:39-04:00",
-      "tweet_text": "Note: Due to the slow action newsletter will be sent out early today. Entries will apply for both later in today's session and tomorrow. Volatility has totally stalled out now and we will need a dip to restart it again. Ride runner until then",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named at all; pure trade management/commentary about low volatility and holding a runner. Nothing actionable or new."
-    },
     {
       "tweet_id": "2100915294331928691",
       "timestamp_utc": "2026-09-18T11:50:13.000Z",
