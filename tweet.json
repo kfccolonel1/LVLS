@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T13:27:50.379988+00:00",
-  "fetched_at_est": "2026-09-18T09:27:50.380011-04:00",
+  "fetched_at_utc": "2026-09-18T13:37:53.019923+00:00",
+  "fetched_at_est": "2026-09-18T09:37:53.019930-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2100579285358571675",
-      "timestamp_utc": "2026-09-17T13:35:03.000Z",
-      "timestamp_est": "2026-09-17T09:35:03-04:00",
-      "tweet_text": "We got 100+ points on the 7616 Failed Breakdown long and this was given both live here AND in 4pm newsletter. It is the law in #ES_F: Every elevator down sell is followed by a proportionately violent rip, on a Failed Breakdown. 7695, 7714, 7728 todays targets\n\n87, 63=supports https://t.co/PPZr9WMg8H",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7695/7714/7728 are morning-plan levels; 7616 is hindsight FBD reference; 87/63 are ambiguous fragments, not clearly new actionable levels with naming language."
-    },
     {
       "tweet_id": "2100589041389379931",
       "timestamp_utc": "2026-09-17T14:13:49.000Z",
