@@ -1,22 +1,21 @@
 {
-  "session_date": "2026-09-18",
+  "session_date": "2026-09-21",
   "daily_pivot": 7628.0,
   "regime_hint": "C4",
   "significant_lows": [
-    7681.0,
+    7675.0,
     7657.0,
-    7645.0,
     7628.0,
     7616.0,
     7574.0
   ],
   "bull_levels": [
     {
-      "price": 7709.0,
+      "price": 7714.0,
       "major": true
     },
     {
-      "price": 7728.0,
+      "price": 7729.0,
       "major": true
     },
     {
@@ -24,7 +23,7 @@
       "major": true
     },
     {
-      "price": 7789.0,
+      "price": 7780.0,
       "major": true
     },
     {
@@ -36,29 +35,29 @@
       "major": true
     },
     {
-      "price": 7850.0,
+      "price": 7867.0,
       "major": true
     },
     {
-      "price": 7864.0,
+      "price": 7879.0,
       "major": true
     },
     {
-      "price": 7887.0,
+      "price": 7886.0,
       "major": true
     },
     {
-      "price": 7926.0,
+      "price": 7895.0,
+      "major": true
+    },
+    {
+      "price": 7953.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7685.0,
-      "major": true
-    },
-    {
-      "price": 7672.0,
+      "price": 7681.0,
       "major": true
     },
     {
@@ -82,19 +81,11 @@
       "major": true
     },
     {
-      "price": 7574.0,
-      "major": true
-    },
-    {
-      "price": 7567.0,
+      "price": 7566.0,
       "major": true
     },
     {
       "price": 7542.0,
-      "major": true
-    },
-    {
-      "price": 7527.0,
       "major": true
     },
     {
@@ -104,6 +95,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "After a massive post-FOMC flush and recovery of the Aug 3 low at 7616, ES ripped 100+ points. The trader is holding a long runner and leaning bullish. He wants to see ES hold 7657 (or briefly dip and recover) on any pullback, then grind up toward 7750 and 7789 flag resistance. The key pivot is 7628: above it bulls are in control and the uptrend continues; below it the bull case weakens and breakdown shorts become possible.",
-  "fetched_at": "2026-09-18T05:00:20.851132+00:00"
+  "notes": "Trader is holding a 10% long runner from the 7616 Failed Breakdown and is not chasing. He leans bullish and wants bulls to hold 7657 (ideally 7687) on any pullback. If dips hold, he targets 7714, 7750, then 7780 flag resistance. The key pivot is 7628 (bull flag support): above it the bull case stays intact and the rally can continue; below it the bear case opens up for a potential breakdown trade.",
+  "fetched_at": "2026-09-20T19:21:31.596662+00:00"
 }
