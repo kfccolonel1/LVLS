@@ -1,163 +1,28 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-18T18:49:11.081582+00:00",
-  "fetched_at_est": "2026-09-18T14:49:11.081589-04:00",
+  "fetched_at_utc": "2026-09-20T19:19:53.207549+00:00",
+  "fetched_at_est": "2026-09-20T15:19:53.207558-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2100915294331928691",
-      "timestamp_utc": "2026-09-18T11:50:13.000Z",
-      "timestamp_est": "2026-09-18T07:50:13-04:00",
-      "tweet_text": "All targets done in #ES_F. 7616 Wednesday was our long, given here *and* in Wed 4pm newsletter. We went +125. Yesterday's targets were 7695, 7714, 7728 to fill Sunday's gap. We filled it.\n\nPlan: Ride tiny lotto runner, OPEX day. I won't trade. 85=support (watch traps). 7728, https://t.co/DTdddPrFd0",
+      "tweet_id": "2101659961541419313",
+      "timestamp_utc": "2026-09-20T13:09:16.000Z",
+      "timestamp_est": "2026-09-20T09:09:16-04:00",
+      "tweet_text": "@thekhomish Just a guess obviously but not sure we'll see it this year. Going to have to override some very powerful bullish technicals.",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All referenced prices (7616, 7695, 7714, 7728, 7785) are either morning-plan levels, hindsight trade recaps, or prior targets. '85=support' likely 7785\u2014already in plan. No new actionable levels."
+      "notes": "Pure conversational reply/opinion about market outlook; no price levels named or actionable triggers of any kind."
     },
     {
-      "tweet_id": "2100917325096423739",
-      "timestamp_utc": "2026-09-18T11:58:18.000Z",
-      "timestamp_est": "2026-09-18T07:58:18-04:00",
-      "tweet_text": "Note: OPEX day and these are notoriously bad to trade. We also just had a big macro Failed Breakdown. I will only trade IF we get the specific entries mentioned in the newsletter, but we would need to luck out and get an \"elevator down\" sell for those.",
+      "tweet_id": "2101733657647972760",
+      "timestamp_utc": "2026-09-20T18:02:06.000Z",
+      "timestamp_est": "2026-09-20T14:02:06-04:00",
+      "tweet_text": "Trying to \"get rich\" in one day or 1 trade is what prevents most from ever doing so. There's 250 trading days a year. Wealth day trading is built taking a piece out via an edge daily &amp; compounding it. Even 5 points *avg* daily on 1 ES contract is more than the average US salary",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "No specific prices named; tweet is general commentary about OPEX conditions and trade selectivity with no actionable level introduced."
-    },
-    {
-      "tweet_id": "2100920219304616315",
-      "timestamp_utc": "2026-09-18T12:09:48.000Z",
-      "timestamp_est": "2026-09-18T08:09:48-04:00",
-      "tweet_text": "@PierScalamandre 96 isn't bad, I'd much prefer the lower levels from newsletter though. Won't mention them here since its for subscribers but the one sub 85 is the the highest quality",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Vague reference to unspecified 'lower levels' and 'one sub 85' without naming an explicit actionable price; conversational reply, no new level disclosed."
-    },
-    {
-      "tweet_id": "2100939216494485793",
-      "timestamp_utc": "2026-09-18T13:25:17.000Z",
-      "timestamp_est": "2026-09-18T09:25:17-04:00",
-      "tweet_text": "@PermaFader @PierScalamandre Yes but its a very shallow retrace of the recent move, those are lower win rate failedbreakdowns. Position of the low in the retrace matters as well",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply discussing retrace characteristics and win rates \u2014 no price level named or actionable signal given."
-    },
-    {
-      "tweet_id": "2100939496401342768",
-      "timestamp_utc": "2026-09-18T13:26:24.000Z",
-      "timestamp_est": "2026-09-18T09:26:24-04:00",
-      "tweet_text": "OPEX day underway in #ES_F and little to do now. All targets were completed. The 7616 Wednesday Failed Breakdown was our trigger. Target was the Sunday gap fill ~7728. We filled it, and now we need to wait. I won't trade OPEX chop\n\n7685 remains support (watch traps). Same upsides https://t.co/flpQXS0WoM",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7616, 7728, and 7685 are all morning-plan levels; tweet is a reaffirmation/summary with no new actionable prices introduced."
-    },
-    {
-      "tweet_id": "2100939691398660538",
-      "timestamp_utc": "2026-09-18T13:27:10.000Z",
-      "timestamp_est": "2026-09-18T09:27:10-04:00",
-      "tweet_text": "@avalon198098 That's just normal price action though. Price rallies, retraces. Wouldn't expect anything different",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about normal price action; no price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2100951295137829252",
-      "timestamp_utc": "2026-09-18T14:13:17.000Z",
-      "timestamp_est": "2026-09-18T10:13:17-04:00",
-      "tweet_text": "@ForeRight26 Still very OPEX trading. Choppy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about OPEX chop; no price levels named or actionable signals given."
-    },
-    {
-      "tweet_id": "2100951718104121658",
-      "timestamp_utc": "2026-09-18T14:14:58.000Z",
-      "timestamp_est": "2026-09-18T10:14:58-04:00",
-      "tweet_text": "OPEX chop in #ES_F. I don't trade this especially after a +125 point long. 7616 Wednesday Failed Breakdown was the long, 7728 Sunday gap fill was the target, we are done.\n\n7685 was support today. Just held exact. 97 reclaims now could see a pop to 7707, 7716+. 72, 57 below https://t.co/AGOhVaSrpV",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7616,7728,7685,7697,7707,7716,7672,7657 are all observations/reaffirmations of morning-plan levels or casual price action references; 7707/7716 mentioned without clear naming language."
-    },
-    {
-      "tweet_id": "2100952246166974727",
-      "timestamp_utc": "2026-09-18T14:17:03.000Z",
-      "timestamp_est": "2026-09-18T10:17:03-04:00",
-      "tweet_text": "@vikidave @ForeRight26 I'd probably guess 85!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply to users with no actionable price level named; '85' is not a full ES price and context is speculative chatter, not a trade signal."
-    },
-    {
-      "tweet_id": "2100963009233305708",
-      "timestamp_utc": "2026-09-18T14:59:50.000Z",
-      "timestamp_est": "2026-09-18T10:59:50-04:00",
-      "tweet_text": "We are still stuck in OPEX chop and as warned, I do not trade OPEX action like this. It is trappy, slow, with minimum follow through that glues to a magnet (likely 85). Long runners still working from the 7616 Failed Breakdown yesterday.\n\n85 support still, 97 reclaims to rally https://t.co/dNtFlmj5KP",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7685 (85) and 7697 (97) are reaffirmations/observations of existing levels; no new actionable level introduced with naming language."
-    },
-    {
-      "tweet_id": "2100984465702932501",
-      "timestamp_utc": "2026-09-18T16:25:05.000Z",
-      "timestamp_est": "2026-09-18T12:25:05-04:00",
-      "tweet_text": "Non-tradable OPEX chop in #ES_F. As I warned at 8am, I do not trade this. It is \"trappy, slow, with minimum follow through that glues to a magnet (85 magnet today). Long runners stilling from 7616 Failed breakdown which hit 7728 gap fill target\n\n85 reclaim is a high risk long https://t.co/ntat2Aw8cI",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7616, 7728) are morning-plan levels; '85 magnet' is vague commentary; 'high risk long' lacks a precise actionable ES price."
-    },
-    {
-      "tweet_id": "2100985914793066774",
-      "timestamp_utc": "2026-09-18T16:30:51.000Z",
-      "timestamp_est": "2026-09-18T12:30:51-04:00",
-      "tweet_text": "Non-tradable OPEX chop in #ES_F. As I warned at 8am, I do not trade this. It is \"trappy, slow, with minimum follow through that glues to a magnet (85 magnet today). Long runners still working from 7616 Failed breakdown which hit 7728 gap fill target\n\n85 reclaim is a high risk https://t.co/ntat2Aw8cI",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No new actionable levels named. References to 7616, 7728 are morning-plan levels; '85 magnet' is commentary; '85 reclaim is high risk' lacks a full ES price and is a caution note, not a named level."
-    },
-    {
-      "tweet_id": "2100986618228117798",
-      "timestamp_utc": "2026-09-18T16:33:38.000Z",
-      "timestamp_est": "2026-09-18T12:33:38-04:00",
-      "tweet_text": "@MtgRatesDaily Same entry still but odds of gettng trapped very high on OPEX. Magnet 85 so price will struggle to stay far from it for long",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No explicit actionable price named; '85' appears to reference 7585 as a magnet/commentary observation, not a new named level with actionable language."
-    },
-    {
-      "tweet_id": "2100995196049564111",
-      "timestamp_utc": "2026-09-18T17:07:43.000Z",
-      "timestamp_est": "2026-09-18T13:07:43-04:00",
-      "tweet_text": "@KevinJagiah Thats what will happen. Always does with OPEX. Real move will begin Monday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about OPEX behavior and Monday outlook; no price levels named or actionable entries/triggers mentioned."
-    },
-    {
-      "tweet_id": "2101014954241663244",
-      "timestamp_utc": "2026-09-18T18:26:14.000Z",
-      "timestamp_est": "2026-09-18T14:26:14-04:00",
-      "tweet_text": "Slow opex chop continues in #ES_F and long runners keep paying from the Wednesday 7616 Failed Breakdown given here + newsletter. 7728 was target to fill the Sunday gap, filled.\n\n7685 was support today (watch traps as posted). We trapped it and back up. 7716, 7728, 7750 next week https://t.co/yv7xD0HENL",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7616, 7728, 7685, 7716, 7750) are morning-plan levels or observations of price action/targets already hit. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2101015272916172948",
-      "timestamp_utc": "2026-09-18T18:27:30.000Z",
-      "timestamp_est": "2026-09-18T14:27:30-04:00",
-      "tweet_text": "Note: Due to the slow action newsletter will be out early today with entries for Monday. We are likely getting close to a very significant trend leg probably early to mid next week",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named at all; purely commentary about slow action and anticipated trend leg next week. No actionable levels introduced."
-    },
-    {
-      "tweet_id": "2101020530488816066",
-      "timestamp_utc": "2026-09-18T18:48:24.000Z",
-      "timestamp_est": "2026-09-18T14:48:24-04:00",
-      "tweet_text": "@eifers1 For me its never a question - always higher in an uptrend and we are bull flagging. I never project downside and never will since 70-80% of moves resolve higher.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trend commentary/philosophy, no actionable price levels named whatsoever."
+      "notes": "Pure motivational/philosophical commentary about trading psychology and compounding. No price levels named or referenced whatsoever."
     }
   ]
 }
