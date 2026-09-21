@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T19:04:18.196454+00:00",
-  "fetched_at_est": "2026-09-21T15:04:18.196471-04:00",
+  "fetched_at_utc": "2026-09-21T19:34:22.673020+00:00",
+  "fetched_at_est": "2026-09-21T15:34:22.673027-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2101754591884759400",
-      "timestamp_utc": "2026-09-20T19:25:18.000Z",
-      "timestamp_est": "2026-09-20T15:25:18-04:00",
-      "tweet_text": "@305HRHitter 5 points is a good day for me!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual reply to a user, no price levels mentioned at all."
-    },
     {
       "tweet_id": "2101800355851891166",
       "timestamp_utc": "2026-09-20T22:27:09.000Z",
