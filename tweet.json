@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T18:54:10.532752+00:00",
-  "fetched_at_est": "2026-09-21T14:54:10.532757-04:00",
+  "fetched_at_utc": "2026-09-21T19:04:18.196454+00:00",
+  "fetched_at_est": "2026-09-21T15:04:18.196471-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -311,6 +311,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7616, 7780, 7812, 7831, 7865) are morning-plan levels or hindsight references to prior trades/targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2102109108090363949",
+      "timestamp_utc": "2026-09-21T18:54:01.000Z",
+      "timestamp_est": "2026-09-21T14:54:01-04:00",
+      "tweet_text": "@NQtrader11 You yourself said many times I am a perma-bull and constantly touting longs - hope you listened! https://t.co/VZWWow18p7",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels named; purely conversational/self-referential comment, no actionable levels."
+    },
+    {
+      "tweet_id": "2102109389729509524",
+      "timestamp_utc": "2026-09-21T18:55:08.000Z",
+      "timestamp_est": "2026-09-21T14:55:08-04:00",
+      "tweet_text": "@CorlukaDejan From a day trading perspective the breakout already succeeded its a been a huge move. Anything can happen from here, but typically Failed Breakouts have less momentum than this",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about breakout momentum; no specific price named or actionable level introduced."
     }
   ]
 }
