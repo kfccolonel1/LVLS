@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T13:21:59.483548+00:00",
-  "fetched_at_est": "2026-09-21T09:21:59.483554-04:00",
+  "fetched_at_utc": "2026-09-21T14:12:11.881780+00:00",
+  "fetched_at_est": "2026-09-21T10:12:11.881860-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -77,6 +77,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7616, 7714, 7728, 7750, 7780-87) are morning-plan levels or reaffirmations; no new actionable level introduced."
+    },
+    {
+      "tweet_id": "2102036639547584751",
+      "timestamp_utc": "2026-09-21T14:06:03.000Z",
+      "timestamp_est": "2026-09-21T10:06:03-04:00",
+      "tweet_text": "Long paying massively in #ES_F. We had it all for this one: After FOMC we got an *elevator down* sell into 7616 Aug 3rd low Failed Breakdown. This occurred inside a massive, macro bull flag.  We are +160 now\n\nToday's targets were 7714, 7728, 7750, 7780-87 (flag res). Almost here, https://t.co/AbDYY24gJa",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned levels (7616, 7714, 7728, 7750, 7780-87) are morning plan levels or observations of price action/trade results. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2102037319452701126",
+      "timestamp_utc": "2026-09-21T14:08:45.000Z",
+      "timestamp_est": "2026-09-21T10:08:45-04:00",
+      "tweet_text": "@Hardrock623 Probably need another 2000-3000 points of straight upside before you can start talking about that! Still in an early-middle aged bull market",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 2000-3000 points as distance commentary, no actionable price named with naming language."
     }
   ]
 }
