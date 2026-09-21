@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T12:11:46.328419+00:00",
-  "fetched_at_est": "2026-09-21T08:11:46.328439-04:00",
+  "fetched_at_utc": "2026-09-21T13:11:54.262650+00:00",
+  "fetched_at_est": "2026-09-21T09:11:54.262657-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2101659961541419313",
-      "timestamp_utc": "2026-09-20T13:09:16.000Z",
-      "timestamp_est": "2026-09-20T09:09:16-04:00",
-      "tweet_text": "@thekhomish Just a guess obviously but not sure we'll see it this year. Going to have to override some very powerful bullish technicals.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply/opinion about market outlook; no price levels named or actionable triggers of any kind."
-    },
     {
       "tweet_id": "2101733657647972760",
       "timestamp_utc": "2026-09-20T18:02:06.000Z",
