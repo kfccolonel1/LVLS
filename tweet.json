@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-20T22:30:19.342807+00:00",
-  "fetched_at_est": "2026-09-20T18:30:19.342812-04:00",
+  "fetched_at_utc": "2026-09-21T12:01:36.087975+00:00",
+  "fetched_at_est": "2026-09-21T08:01:36.087981-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -41,6 +41,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply to users about contract size; no price levels named or actionable information."
+    },
+    {
+      "tweet_id": "2102004393126027686",
+      "timestamp_utc": "2026-09-21T11:57:55.000Z",
+      "timestamp_est": "2026-09-21T07:57:55-04:00",
+      "tweet_text": "Huge follow through in #ES_F and this long was given in advance and targets tweeted non-stop. 7616 Wednesday Failed Breakdown got us long. Slate for today (from Friday newsletter) were 7714, 7728, 7750 (all hit).\n\nPlan: Just ride runner 7787 flag res next, then macro breakout. https://t.co/WMJL2RNzhi",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7787 mentioned as 'flag res next' but lacks explicit naming language (no 'key','major','watching','target' etc) and reads as casual directional commentary, not an actionable new level."
     }
   ]
 }
