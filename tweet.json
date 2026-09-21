@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T16:23:25.833685+00:00",
-  "fetched_at_est": "2026-09-21T12:23:25.833690-04:00",
+  "fetched_at_utc": "2026-09-21T17:43:37.972620+00:00",
+  "fetched_at_est": "2026-09-21T13:43:37.972626-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -239,6 +239,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7714, 7728, 7750, 7780-87, 7812) are already in the morning plan. Tweet is a hindsight recap of targets hit, not new actionable levels."
+    },
+    {
+      "tweet_id": "2102091212396044582",
+      "timestamp_utc": "2026-09-21T17:42:54.000Z",
+      "timestamp_est": "2026-09-21T13:42:54-04:00",
+      "tweet_text": "This has been one of the best longs of 2026 and it was all Charting 101, given step by step in advance: 7616 Failed Breakdown last Wednesday long trigger. Macro bull flag target (7780-87, hit this morning).\n\nBonus slate today was 7812 (hit). 7831, 7865 remain next. Ride runner https://t.co/f0e1W97fOb",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7616, 7780-87, 7812, 7831, 7865) are in the morning plan or hindsight references to already-hit targets. No new actionable levels introduced."
     }
   ]
 }
