@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T18:14:02.163345+00:00",
-  "fetched_at_est": "2026-09-21T14:14:02.163372-04:00",
+  "fetched_at_utc": "2026-09-21T18:54:10.532752+00:00",
+  "fetched_at_est": "2026-09-21T14:54:10.532757-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -302,6 +302,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7616, 7780, 7812, 7831) are morning-plan levels or hindsight references to prior setups; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2102108635841110257",
+      "timestamp_utc": "2026-09-21T18:52:08.000Z",
+      "timestamp_est": "2026-09-21T14:52:08-04:00",
+      "tweet_text": "Closing update #ES_F: We are now +200 points from last Wednesday's 7616 Failed Breakdown, given live, in advance, with hourly reminders to hold runners. We also broke out the macro bull flag at 7780. Bonus targets today were 7812, 7831, 7865. Newsletter just sent talking next",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7616, 7780, 7812, 7831, 7865) are morning-plan levels or hindsight references to prior trades/targets. No new actionable levels introduced."
     }
   ]
 }
