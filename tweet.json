@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T16:03:19.135836+00:00",
-  "fetched_at_est": "2026-09-21T12:03:19.135853-04:00",
+  "fetched_at_utc": "2026-09-21T16:23:25.833685+00:00",
+  "fetched_at_est": "2026-09-21T12:23:25.833690-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price levels named; purely conversational response with no actionable levels."
+    },
+    {
+      "tweet_id": "2102069514447757554",
+      "timestamp_utc": "2026-09-21T16:16:41.000Z",
+      "timestamp_est": "2026-09-21T12:16:41-04:00",
+      "tweet_text": "The main targets today weren't enough for this incredible long - all bonus targets hit too. Per newsletter + tweets, today's targets (given Friday) were 7714, 7728, 7750, 7780-87 (bull flag res). Then comes the macro breakout for the next swing leg.\n\nBonus target was 7812 (hit). https://t.co/phzaZvFprx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7714, 7728, 7750, 7780-87, 7812) are already in the morning plan. Tweet is a hindsight recap of targets hit, not new actionable levels."
     }
   ]
 }
