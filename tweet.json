@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T14:12:11.881780+00:00",
-  "fetched_at_est": "2026-09-21T10:12:11.881860-04:00",
+  "fetched_at_utc": "2026-09-21T14:22:20.483235+00:00",
+  "fetched_at_est": "2026-09-21T10:22:20.483250-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -95,6 +95,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing 2000-3000 points as distance commentary, no actionable price named with naming language."
+    },
+    {
+      "tweet_id": "2102039533202166010",
+      "timestamp_utc": "2026-09-21T14:17:33.000Z",
+      "timestamp_est": "2026-09-21T10:17:33-04:00",
+      "tweet_text": "We've arrived at 7780-87 target in #ES_F. This target was called for specifically in Friday's newsletter/last week and was final target for the 7616 Failed Breakdown last Wednesday. Macro bull flag resistance. Take any excess gains now, close platform, ride runner\n\n7789, 7803, https://t.co/gtOgU9v8AS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7780/7812 are morning-plan levels; 7789/7803 appear as bare numbers with no naming/actionable language \u2014 trade management (take gains, ride runner) only."
+    },
+    {
+      "tweet_id": "2102040018311159994",
+      "timestamp_utc": "2026-09-21T14:19:29.000Z",
+      "timestamp_est": "2026-09-21T10:19:29-04:00",
+      "tweet_text": "Note: For swing traders, this is macro bull flag resistance, to take us to the large megaphone structure resistance. This is outside of the scope of interest for day traders like myself",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price named; purely macro structural commentary about bull flag and megaphone resistance with no actionable level introduced."
     }
   ]
 }
