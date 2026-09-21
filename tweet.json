@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T12:01:36.087975+00:00",
-  "fetched_at_est": "2026-09-21T08:01:36.087981-04:00",
+  "fetched_at_utc": "2026-09-21T12:11:46.328419+00:00",
+  "fetched_at_est": "2026-09-21T08:11:46.328439-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -50,6 +50,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7787 mentioned as 'flag res next' but lacks explicit naming language (no 'key','major','watching','target' etc) and reads as casual directional commentary, not an actionable new level."
+    },
+    {
+      "tweet_id": "2102005338459304224",
+      "timestamp_utc": "2026-09-21T12:01:40.000Z",
+      "timestamp_est": "2026-09-21T08:01:40-04:00",
+      "tweet_text": "Note: This there is just nothing to do up here. We had numerous opps to get on board for this long (with original entry on Wednesday on the 7616 Failed Breakdown) and now just enjoy it and ride runner. No new entries until we get a very deep sell to newsletter triggers",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management commentary; no new actionable price named. 7616 is a morning-plan level. 'Very deep sell to newsletter triggers' names no specific price."
+    },
+    {
+      "tweet_id": "2102005690600419421",
+      "timestamp_utc": "2026-09-21T12:03:04.000Z",
+      "timestamp_est": "2026-09-21T08:03:04-04:00",
+      "tweet_text": "@OnTheHooch I didn't trade the 14 reclaim, it was there though for those who wanted it!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual reply referencing a past reclaim trade; no new actionable price named, no naming language, pure hindsight observation."
+    },
+    {
+      "tweet_id": "2102007680495714793",
+      "timestamp_utc": "2026-09-21T12:10:59.000Z",
+      "timestamp_est": "2026-09-21T08:10:59-04:00",
+      "tweet_text": "@OnTheHooch I almost never take those reclaims after significant strength. They are low win rate, I prefer to trade on days like last Wednesday when we get a big elevator down, people are panicking, top calling etc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading philosophy/methodology. No prices mentioned, no actionable levels named."
     }
   ]
 }
