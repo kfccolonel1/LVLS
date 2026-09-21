@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T19:34:22.673020+00:00",
-  "fetched_at_est": "2026-09-21T15:34:22.673027-04:00",
+  "fetched_at_utc": "2026-09-21T22:34:39.473609+00:00",
+  "fetched_at_est": "2026-09-21T18:34:39.473614-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2101800355851891166",
-      "timestamp_utc": "2026-09-20T22:27:09.000Z",
-      "timestamp_est": "2026-09-20T18:27:09-04:00",
-      "tweet_text": "@JackRFrankII @carlmcmull @305HRHitter No private trader (not managing money) is trading 250 contracts",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply to users about contract size; no price levels named or actionable information."
-    },
     {
       "tweet_id": "2102004393126027686",
       "timestamp_utc": "2026-09-21T11:57:55.000Z",
