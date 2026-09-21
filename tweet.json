@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T15:12:42.645556+00:00",
-  "fetched_at_est": "2026-09-21T11:12:42.645571-04:00",
+  "fetched_at_utc": "2026-09-21T15:22:52.581833+00:00",
+  "fetched_at_est": "2026-09-21T11:22:52.581851-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -158,6 +158,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about a slingshot reaction; no actionable price named, no naming language, no new level introduced."
+    },
+    {
+      "tweet_id": "2102053763842273365",
+      "timestamp_utc": "2026-09-21T15:14:06.000Z",
+      "timestamp_est": "2026-09-21T11:14:06-04:00",
+      "tweet_text": "@jonatha50462369 I don't short ES. I only trade on the long side and do not recommend anyone short ES even in downtrends",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; tweet is a conversational statement about trading philosophy/methodology with zero actionable prices."
+    },
+    {
+      "tweet_id": "2102054018998563169",
+      "timestamp_utc": "2026-09-21T15:15:07.000Z",
+      "timestamp_est": "2026-09-21T11:15:07-04:00",
+      "tweet_text": "@jonatha50462369 (unless you are a sophisticated fund/money manager etc). Retail traders have almost no chance making money shorting ES consistently because of its elevator down/squeeze dynamic",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational commentary about retail shorting dynamics; no price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2102054251526529482",
+      "timestamp_utc": "2026-09-21T15:16:02.000Z",
+      "timestamp_est": "2026-09-21T11:16:02-04:00",
+      "tweet_text": "Note: For those who want the free visualization of the macro flag structure it was given in Saturday's post here: https://t.co/2wdsedyShC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reference to a prior post with a link; no price levels named or actionable entries/exits mentioned."
     }
   ]
 }
