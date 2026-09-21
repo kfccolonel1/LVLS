@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T14:32:29.854386+00:00",
-  "fetched_at_est": "2026-09-21T10:32:29.854402-04:00",
+  "fetched_at_utc": "2026-09-21T15:12:42.645556+00:00",
+  "fetched_at_est": "2026-09-21T11:12:42.645571-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trading philosophy/methodology commentary. No prices named, no actionable levels of any kind."
+    },
+    {
+      "tweet_id": "2102052918425727134",
+      "timestamp_utc": "2026-09-21T15:10:44.000Z",
+      "timestamp_est": "2026-09-21T11:10:44-04:00",
+      "tweet_text": "Now is the easy part - just ride the runner and get paid. Entry was the 7616 Failed Breakdown last Wednesday, and I warned hourly since to ride runner. Today's targets given in newsletter were 7714, 7728, 7750, 7780-87 (flag res). All hit.\n\nBonus targets were 7789 (hit), 7802, https://t.co/iZdbFuVdQJ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7616, 7714, 7728, 7750, 7780-87, 7789, 7802) are hindsight references to prior newsletter targets already hit \u2014 no new actionable levels named."
+    },
+    {
+      "tweet_id": "2102053093722427595",
+      "timestamp_utc": "2026-09-21T15:11:26.000Z",
+      "timestamp_est": "2026-09-21T11:11:26-04:00",
+      "tweet_text": "@dj_cremebrulee Just the slingshot reaction from Wednesday's \"elevator down\". Bears aren't allowed to get anything for free in ES",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about a slingshot reaction; no actionable price named, no naming language, no new level introduced."
     }
   ]
 }
