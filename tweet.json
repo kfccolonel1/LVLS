@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T17:43:37.972620+00:00",
-  "fetched_at_est": "2026-09-21T13:43:37.972626-04:00",
+  "fetched_at_utc": "2026-09-21T17:53:51.792351+00:00",
+  "fetched_at_est": "2026-09-21T13:53:51.792371-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -248,6 +248,51 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7616, 7780-87, 7812, 7831, 7865) are in the morning plan or hindsight references to already-hit targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2102091425860980810",
+      "timestamp_utc": "2026-09-21T17:43:45.000Z",
+      "timestamp_est": "2026-09-21T13:43:45-04:00",
+      "tweet_text": "@badfutures40 For sure! Those people will be back though on the next \"elevator down\" sell, and then they'll get trapped again and the process will just repeat for years and years. Never changes",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trader behavior patterns; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2102091894389944719",
+      "timestamp_utc": "2026-09-21T17:45:37.000Z",
+      "timestamp_est": "2026-09-21T13:45:37-04:00",
+      "tweet_text": "Note: The macro flag was shown here in Friday's chart. Keep riding runners, swing traders would have entered on the breakout today as next leg up begins https://t.co/2wdsedyShC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price levels named; tweet is trade management guidance (ride runners) and directional commentary referencing a prior chart with no new actionable prices."
+    },
+    {
+      "tweet_id": "2102092313572901181",
+      "timestamp_utc": "2026-09-21T17:47:17.000Z",
+      "timestamp_est": "2026-09-21T13:47:17-04:00",
+      "tweet_text": "@NYJets2017 @badfutures40 I don't pay attention to macro at all - just technicals and time durations for cycles. I'll get bearish when the technicals suggest we do, but now we are still likely a few years from even having the conditions for a top.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure macro/methodology commentary with no price levels named, no actionable triggers or targets mentioned."
+    },
+    {
+      "tweet_id": "2102092467017249159",
+      "timestamp_utc": "2026-09-21T17:47:53.000Z",
+      "timestamp_est": "2026-09-21T13:47:53-04:00",
+      "tweet_text": "@goldmund22 Here at 30ish or at 65",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet referencing '30ish' and '65' \u2014 casual shorthand, no naming language, no actionable context, likely abbreviations of morning-plan levels."
+    },
+    {
+      "tweet_id": "2102093154560155713",
+      "timestamp_utc": "2026-09-21T17:50:37.000Z",
+      "timestamp_est": "2026-09-21T13:50:37-04:00",
+      "tweet_text": "@JeffsTrades69 Always will be another pullback! Market needs to continually trap shorts to fuel each subsequent leg up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about short trapping and pullbacks; no price named, no actionable level introduced."
     }
   ]
 }
