@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T17:53:51.792351+00:00",
-  "fetched_at_est": "2026-09-21T13:53:51.792371-04:00",
+  "fetched_at_utc": "2026-09-21T18:03:54.277403+00:00",
+  "fetched_at_est": "2026-09-21T14:03:54.277411-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2101733657647972760",
-      "timestamp_utc": "2026-09-20T18:02:06.000Z",
-      "timestamp_est": "2026-09-20T14:02:06-04:00",
-      "tweet_text": "Trying to \"get rich\" in one day or 1 trade is what prevents most from ever doing so. There's 250 trading days a year. Wealth day trading is built taking a piece out via an edge daily &amp; compounding it. Even 5 points *avg* daily on 1 ES contract is more than the average US salary",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure motivational/philosophical commentary about trading psychology and compounding. No price levels named or referenced whatsoever."
-    },
     {
       "tweet_id": "2101754591884759400",
       "timestamp_utc": "2026-09-20T19:25:18.000Z",
