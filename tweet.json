@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-21T15:42:59.005001+00:00",
-  "fetched_at_est": "2026-09-21T11:42:59.005007-04:00",
+  "fetched_at_utc": "2026-09-21T15:53:06.049706+00:00",
+  "fetched_at_est": "2026-09-21T11:53:06.049715-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -194,6 +194,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on FOMC reaction and direction; no price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2102062305022251235",
+      "timestamp_utc": "2026-09-21T15:48:02.000Z",
+      "timestamp_est": "2026-09-21T11:48:02-04:00",
+      "tweet_text": "@tradivate Yes, still needs to be fully backtested. Should get there on this leg, though macro targets are far, far higher",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about backtesting and macro targets; no specific price named or actionable level introduced."
     }
   ]
 }
