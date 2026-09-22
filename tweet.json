@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T18:17:52.691392+00:00",
-  "fetched_at_est": "2026-09-22T14:17:52.691399-04:00",
+  "fetched_at_utc": "2026-09-22T18:58:00.811453+00:00",
+  "fetched_at_est": "2026-09-22T14:58:00.811462-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102108635841110257",
-      "timestamp_utc": "2026-09-21T18:52:08.000Z",
-      "timestamp_est": "2026-09-21T14:52:08-04:00",
-      "tweet_text": "Closing update #ES_F: We are now +200 points from last Wednesday's 7616 Failed Breakdown, given live, in advance, with hourly reminders to hold runners. We also broke out the macro bull flag at 7780. Bonus targets today were 7812, 7831, 7865. Newsletter just sent talking next",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7616, 7780, 7812, 7831, 7865) are morning-plan levels or hindsight references to prior trades/targets. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2102109108090363949",
-      "timestamp_utc": "2026-09-21T18:54:01.000Z",
-      "timestamp_est": "2026-09-21T14:54:01-04:00",
-      "tweet_text": "@NQtrader11 You yourself said many times I am a perma-bull and constantly touting longs - hope you listened! https://t.co/VZWWow18p7",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels named; purely conversational/self-referential comment, no actionable levels."
-    },
-    {
-      "tweet_id": "2102109389729509524",
-      "timestamp_utc": "2026-09-21T18:55:08.000Z",
-      "timestamp_est": "2026-09-21T14:55:08-04:00",
-      "tweet_text": "@CorlukaDejan From a day trading perspective the breakout already succeeded its a been a huge move. Anything can happen from here, but typically Failed Breakouts have less momentum than this",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about breakout momentum; no specific price named or actionable level introduced."
-    },
     {
       "tweet_id": "2102365739642499078",
       "timestamp_utc": "2026-09-22T11:53:47.000Z",
@@ -149,6 +122,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7830 is trade management/observation; 7850 and 7864 are close to morning plan levels (7851, 7867); 7770 breakout is reaffirmation. No genuinely new actionable levels named."
+    },
+    {
+      "tweet_id": "2102470277753897395",
+      "timestamp_utc": "2026-09-22T18:49:10.000Z",
+      "timestamp_est": "2026-09-22T14:49:10-04:00",
+      "tweet_text": "Closing update #ES_F: No volatility. Newsletter sent out early with next set of entries. We did get a nice 7830 reclaim long tweeted out earlier. We are coiling yet again for another monster leg. Ride the runner",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure closing commentary/trade management ('ride the runner'). 7830 is a morning-plan level reaffirmation. No new actionable levels named."
     }
   ]
 }
