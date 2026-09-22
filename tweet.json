@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T17:47:42.206810+00:00",
-  "fetched_at_est": "2026-09-22T13:47:42.206817-04:00",
+  "fetched_at_utc": "2026-09-22T17:57:44.745329+00:00",
+  "fetched_at_est": "2026-09-22T13:57:44.745335-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102092467017249159",
-      "timestamp_utc": "2026-09-21T17:47:53.000Z",
-      "timestamp_est": "2026-09-21T13:47:53-04:00",
-      "tweet_text": "@goldmund22 Here at 30ish or at 65",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing '30ish' and '65' \u2014 casual shorthand, no naming language, no actionable context, likely abbreviations of morning-plan levels."
-    },
-    {
-      "tweet_id": "2102093154560155713",
-      "timestamp_utc": "2026-09-21T17:50:37.000Z",
-      "timestamp_est": "2026-09-21T13:50:37-04:00",
-      "tweet_text": "@JeffsTrades69 Always will be another pullback! Market needs to continually trap shorts to fuel each subsequent leg up",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about short trapping and pullbacks; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2102097241452286460",
       "timestamp_utc": "2026-09-21T18:06:52.000Z",
