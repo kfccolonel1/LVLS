@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T15:27:12.399611+00:00",
-  "fetched_at_est": "2026-09-22T11:27:12.399617-04:00",
+  "fetched_at_utc": "2026-09-22T15:47:15.995392+00:00",
+  "fetched_at_est": "2026-09-22T11:47:15.995397-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102059967142355266",
-      "timestamp_utc": "2026-09-21T15:38:45.000Z",
-      "timestamp_est": "2026-09-21T11:38:45-04:00",
-      "tweet_text": "@DCdude69 Quite the bear trap after FOMC. Only one way to go after that!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on FOMC reaction and direction; no price levels named or actionable triggers identified."
-    },
     {
       "tweet_id": "2102062305022251235",
       "timestamp_utc": "2026-09-21T15:48:02.000Z",
