@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T12:16:04.331352+00:00",
-  "fetched_at_est": "2026-09-22T08:16:04.331361-04:00",
+  "fetched_at_utc": "2026-09-22T13:16:11.597574+00:00",
+  "fetched_at_est": "2026-09-22T09:16:11.597581-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102023093895991564",
-      "timestamp_utc": "2026-09-21T13:12:13.000Z",
-      "timestamp_est": "2026-09-21T09:12:13-04:00",
-      "tweet_text": "Very poor configuration to start today in #ES_F and 0 to do but ride a runner. The 7616 Failed Breakdown got us long on Wednesday and now +150. Today's targets were 7714, 7728, 7750, 7780-87 (this is macro bull flag resistance discussed here/newsletter). Then breakout https://t.co/FNbZI4luJo",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7616, 7714, 7728, 7750, 7780-87) are morning-plan levels or reaffirmations; no new actionable level introduced."
-    },
     {
       "tweet_id": "2102036639547584751",
       "timestamp_utc": "2026-09-21T14:06:03.000Z",
