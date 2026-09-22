@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T17:57:44.745329+00:00",
-  "fetched_at_est": "2026-09-22T13:57:44.745335-04:00",
+  "fetched_at_utc": "2026-09-22T18:07:47.157547+00:00",
+  "fetched_at_est": "2026-09-22T14:07:47.157554-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102097241452286460",
-      "timestamp_utc": "2026-09-21T18:06:52.000Z",
-      "timestamp_est": "2026-09-21T14:06:52-04:00",
-      "tweet_text": "@VBaeuerle I don't ever cut the runner until ES loses the prior days low. So I'll be holding onto this one for a while",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management comment about holding a runner; no new actionable price level named."
-    },
     {
       "tweet_id": "2102097514371440775",
       "timestamp_utc": "2026-09-21T18:07:57.000Z",
