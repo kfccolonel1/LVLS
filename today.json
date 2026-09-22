@@ -1,37 +1,20 @@
 {
-  "session_date": "2026-09-21",
-  "daily_pivot": 7628.0,
-  "regime_hint": "C4",
+  "session_date": "2026-09-22",
+  "daily_pivot": 7770,
+  "regime_hint": "C1",
   "significant_lows": [
-    7675.0,
-    7657.0,
-    7628.0,
-    7616.0,
-    7574.0
+    7760,
+    7715,
+    7674,
+    7628
   ],
   "bull_levels": [
     {
-      "price": 7714.0,
+      "price": 7831.0,
       "major": true
     },
     {
-      "price": 7729.0,
-      "major": true
-    },
-    {
-      "price": 7750.0,
-      "major": true
-    },
-    {
-      "price": 7780.0,
-      "major": true
-    },
-    {
-      "price": 7812.0,
-      "major": true
-    },
-    {
-      "price": 7830.0,
+      "price": 7851.0,
       "major": true
     },
     {
@@ -39,33 +22,49 @@
       "major": true
     },
     {
-      "price": 7879.0,
+      "price": 7887.0,
       "major": true
     },
     {
-      "price": 7886.0,
-      "major": true
-    },
-    {
-      "price": 7895.0,
-      "major": true
-    },
-    {
-      "price": 7953.0,
+      "price": 7903.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7681.0,
+      "price": 7812.0,
       "major": true
     },
     {
-      "price": 7657.0,
+      "price": 7790.0,
       "major": true
     },
     {
-      "price": 7645.0,
+      "price": 7770.0,
+      "major": true
+    },
+    {
+      "price": 7741.0,
+      "major": true
+    },
+    {
+      "price": 7715.0,
+      "major": true
+    },
+    {
+      "price": 7698.0,
+      "major": true
+    },
+    {
+      "price": 7687.0,
+      "major": true
+    },
+    {
+      "price": 7674.0,
+      "major": true
+    },
+    {
+      "price": 7655.0,
       "major": true
     },
     {
@@ -73,28 +72,28 @@
       "major": true
     },
     {
-      "price": 7616.0,
-      "major": true
-    },
-    {
       "price": 7584.0,
       "major": true
     },
     {
-      "price": 7566.0,
+      "price": 7567.0,
       "major": true
     },
     {
-      "price": 7542.0,
+      "price": 7541.0,
       "major": true
     },
     {
-      "price": 7492.0,
+      "price": 7503.0,
+      "major": true
+    },
+    {
+      "price": 7495.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish, holding a runner from the big Wednesday bounce off 7616. He is waiting for pullbacks to set up buy opportunities rather than chasing strength. Key pivot is 7628 (bull flag support): above it, he expects a grind toward 7750 then 7780-7789 flag resistance; below it, the bull case weakens. He will look to buy failed breakdowns of 7675, 7657, 7628, and 7616 if price dips and recovers those levels.",
-  "fetched_at": "2026-09-21T05:00:21.110551+00:00"
+  "notes": "Trader is bullish and leaning long but has nothing to buy right now - the big rally already played out. He wants to wait for a dip back to 7770 or 7760 before considering new longs. The key pivot is 7770 (the top of the old bull flag that just broke out): holding above it keeps bulls in control targeting 7831 then 7867; losing it opens the door for more downside. No new entries on strength - only on pullbacks to those support levels.",
+  "fetched_at": "2026-09-22T05:00:20.483720+00:00"
 }
