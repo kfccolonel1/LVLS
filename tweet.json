@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T12:06:01.634677+00:00",
-  "fetched_at_est": "2026-09-22T08:06:01.634685-04:00",
+  "fetched_at_utc": "2026-09-22T12:16:04.331352+00:00",
+  "fetched_at_est": "2026-09-22T08:16:04.331361-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102007680495714793",
-      "timestamp_utc": "2026-09-21T12:10:59.000Z",
-      "timestamp_est": "2026-09-21T08:10:59-04:00",
-      "tweet_text": "@OnTheHooch I almost never take those reclaims after significant strength. They are low win rate, I prefer to trade on days like last Wednesday when we get a big elevator down, people are panicking, top calling etc",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading philosophy/methodology. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2102023093895991564",
       "timestamp_utc": "2026-09-21T13:12:13.000Z",
