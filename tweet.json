@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T16:27:28.312658+00:00",
-  "fetched_at_est": "2026-09-22T12:27:28.312667-04:00",
+  "fetched_at_utc": "2026-09-22T16:47:34.900765+00:00",
+  "fetched_at_est": "2026-09-22T12:47:34.900772-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -203,6 +203,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary on breakout-consolidation pattern; no price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2102438728866173407",
+      "timestamp_utc": "2026-09-22T16:43:49.000Z",
+      "timestamp_est": "2026-09-22T12:43:49-04:00",
+      "tweet_text": "No volatility. Longs working from the 7616 Failed Breakdown last Wednesday that took #ES_F +230 (given live here + in newsletter), and broke us out of a multi-week bull flag at 7770 (which was target)\n\nRide runner. 7850, 7864 next up. 7830 reclaims high risk long, 7812 (watch https://t.co/OiTBlEl6hS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7850/7864 are directional targets listed without new naming language; 7830/7812 are morning-plan levels (7831/7812 already published). No genuinely new actionable levels."
     }
   ]
 }
