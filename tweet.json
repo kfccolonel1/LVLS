@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T15:17:03.513086+00:00",
-  "fetched_at_est": "2026-09-22T11:17:03.513094-04:00",
+  "fetched_at_utc": "2026-09-22T15:27:12.399611+00:00",
+  "fetched_at_est": "2026-09-22T11:27:12.399617-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -239,6 +239,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7830 rounds to morning-plan level 7831; commentary is speculative/observational with no clear actionable trigger language."
+    },
+    {
+      "tweet_id": "2102417069299974202",
+      "timestamp_utc": "2026-09-22T15:17:44.000Z",
+      "timestamp_est": "2026-09-22T11:17:44-04:00",
+      "tweet_text": "Price is resting after what was a monster 230+ point rally from last Wednesday's Failed Breakdown long. This long broke #ES_F out of a multi-week bull flag with 7770 resistance (now support). 0 to do but ride runner\n\n7830=support. 7812 (watch traps), 7770 below. 7850, 7864 next https://t.co/tWwvdPKtJS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7830, 7812, 7770, 7850, 7864 are all reaffirmations or morning-plan levels; no new actionable prices named."
     }
   ]
 }
