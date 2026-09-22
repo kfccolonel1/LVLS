@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-22T18:07:47.157547+00:00",
-  "fetched_at_est": "2026-09-22T14:07:47.157554-04:00",
+  "fetched_at_utc": "2026-09-22T18:17:52.691392+00:00",
+  "fetched_at_est": "2026-09-22T14:17:52.691399-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102097514371440775",
-      "timestamp_utc": "2026-09-21T18:07:57.000Z",
-      "timestamp_est": "2026-09-21T14:07:57-04:00",
-      "tweet_text": "Points just keep stacking in #ES_F. We see the combined effect of 1) A massive Failed Breakdown of the August 3rd 7611/16 low Wednesday. This got us long originally, given in advance here/newsletter. 2) Macro bull flag breakout at 7780.\n\nBonus targets today were 7812 (hit), 7831 https://t.co/83yer37yfO",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7616, 7780, 7812, 7831) are morning-plan levels or hindsight references to prior setups; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2102108635841110257",
       "timestamp_utc": "2026-09-21T18:52:08.000Z",
@@ -149,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7850/7864 are directional targets listed without new naming language; 7830/7812 are morning-plan levels (7831/7812 already published). No genuinely new actionable levels."
+    },
+    {
+      "tweet_id": "2102459956473540810",
+      "timestamp_utc": "2026-09-22T18:08:10.000Z",
+      "timestamp_est": "2026-09-22T14:08:10-04:00",
+      "tweet_text": "Nice pop on the reclaim of 7830 in #ES_F, but little to do here but ride runner still as it keeps working from the 7616 Failed Breakdown last Wednesday. We have broken out a massive, macro bull flag at 7770, so up we go.\n\n7850, 7864 remain next. 7830 reclaims high risk long as https://t.co/lSkvFHGmdJ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7830 is trade management/observation; 7850 and 7864 are close to morning plan levels (7851, 7867); 7770 breakout is reaffirmation. No genuinely new actionable levels named."
     }
   ]
 }
