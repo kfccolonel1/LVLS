@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T18:01:47.965715+00:00",
-  "fetched_at_est": "2026-09-23T14:01:47.965721-04:00",
+  "fetched_at_utc": "2026-09-23T18:11:55.298692+00:00",
+  "fetched_at_est": "2026-09-23T14:11:55.298697-04:00",
   "last_new_level_added_at_est": "2026-09-23T11:21:23-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102459956473540810",
-      "timestamp_utc": "2026-09-22T18:08:10.000Z",
-      "timestamp_est": "2026-09-22T14:08:10-04:00",
-      "tweet_text": "Nice pop on the reclaim of 7830 in #ES_F, but little to do here but ride runner still as it keeps working from the 7616 Failed Breakdown last Wednesday. We have broken out a massive, macro bull flag at 7770, so up we go.\n\n7850, 7864 remain next. 7830 reclaims high risk long as https://t.co/lSkvFHGmdJ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7830 is trade management/observation; 7850 and 7864 are close to morning plan levels (7851, 7867); 7770 breakout is reaffirmation. No genuinely new actionable levels named."
-    },
     {
       "tweet_id": "2102470277753897395",
       "timestamp_utc": "2026-09-22T18:49:10.000Z",
@@ -222,6 +213,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply declining to share paid content; no price levels named or referenced at all."
+    },
+    {
+      "tweet_id": "2102821433789300832",
+      "timestamp_utc": "2026-09-23T18:04:33.000Z",
+      "timestamp_est": "2026-09-23T14:04:33-04:00",
+      "tweet_text": "Bulls defending where they have to so far in #ES_F. 7770 was the macro bull flag backtest as posted. I posted that bulls want to watch traps of 7760/7770. We swept 7760, recovered, and popped ~15 points. Protect gains if you have them.\n\nBulls must recover 7812 to rally heavily https://t.co/zThjCacRlW",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7770, 7760, 7812 all in morning plan; 'swept 7760, recovered, popped ~15pts' is price action observation; 'protect gains' is trade management \u2014 no new levels."
     }
   ]
 }
