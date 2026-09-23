@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T17:11:38.011774+00:00",
-  "fetched_at_est": "2026-09-23T13:11:38.011792-04:00",
+  "fetched_at_utc": "2026-09-23T18:01:47.965715+00:00",
+  "fetched_at_est": "2026-09-23T14:01:47.965721-04:00",
   "last_new_level_added_at_est": "2026-09-23T11:21:23-04:00",
   "todays_new_levels": [
     {
@@ -213,6 +213,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market character (slow/bullish control). No price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2102820277168009328",
+      "timestamp_utc": "2026-09-23T17:59:57.000Z",
+      "timestamp_est": "2026-09-23T13:59:57-04:00",
+      "tweet_text": "@AJualmila I'm not going to give out content that people pay for free here, would not be fair to those people. If you don't find the things I post useful here unfollow",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply declining to share paid content; no price levels named or referenced at all."
     }
   ]
 }
