@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T11:49:46.977671+00:00",
-  "fetched_at_est": "2026-09-23T07:49:46.977688-04:00",
+  "fetched_at_utc": "2026-09-23T11:59:49.379763+00:00",
+  "fetched_at_est": "2026-09-23T07:59:49.379772-04:00",
   "last_new_level_added_at_est": "2026-09-23T07:41:49-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102365739642499078",
-      "timestamp_utc": "2026-09-22T11:53:47.000Z",
-      "timestamp_est": "2026-09-22T07:53:47-04:00",
-      "tweet_text": "The long keeps paying in #ES_F. 0 to still but ride runner. We had 2 big things happen: 1) Last Wed a Failed Breakdown of Aug 3rd 7611 low. This got us long, updated non-stop 2) We broke out a macro bull flag at 7770. Up we go\n\nPlan: 7850, 7860, 7864 next. 7812 (watch traps), https://t.co/sLAh1ZkZU2",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7850/7860/7864 not in morning plan but framed as casual targets in a directional recap, not explicit new major level naming language. 7812 is already in morning plan."
-    },
     {
       "tweet_id": "2102368550652637218",
       "timestamp_utc": "2026-09-22T12:04:57.000Z",
