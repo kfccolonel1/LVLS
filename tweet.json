@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T14:40:35.543965+00:00",
-  "fetched_at_est": "2026-09-23T10:40:35.543975-04:00",
+  "fetched_at_utc": "2026-09-23T15:00:48.630746+00:00",
+  "fetched_at_est": "2026-09-23T11:00:48.630752-04:00",
   "last_new_level_added_at_est": "2026-09-23T10:39:42-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102410897465745592",
-      "timestamp_utc": "2026-09-22T14:53:13.000Z",
-      "timestamp_est": "2026-09-22T10:53:13-04:00",
-      "tweet_text": "@MtgRatesDaily Yes its more like a 2 point zone 7810-12. My level is at 12 but the low was at 10",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7810-12 zone midpoint ~7811 and 7812 are already in the morning plan; tweet is a clarification/reaffirmation of existing level, not a new actionable level."
-    },
-    {
-      "tweet_id": "2102411571594985613",
-      "timestamp_utc": "2026-09-22T14:55:54.000Z",
-      "timestamp_est": "2026-09-22T10:55:54-04:00",
-      "tweet_text": "Note: Per newsletter/tweets yesterday, 7830 level is a very key spot also. Nothing I'd engage here, but if we can recover/keep pushing here it may be a higher risk long",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7830 rounds to morning-plan level 7831; commentary is speculative/observational with no clear actionable trigger language."
-    },
     {
       "tweet_id": "2102417069299974202",
       "timestamp_utc": "2026-09-22T15:17:44.000Z",
@@ -164,6 +146,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7770 is already in the morning plan; 'just below 7770' is vague directional commentary, not a specific new actionable price level."
+    },
+    {
+      "tweet_id": "2102772753161973877",
+      "timestamp_utc": "2026-09-23T14:51:06.000Z",
+      "timestamp_est": "2026-09-23T10:51:06-04:00",
+      "tweet_text": "@OnTheHooch Deeper it goes, higher the next leg goes",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary reply; no price named, no actionable level introduced."
     }
   ]
 }
