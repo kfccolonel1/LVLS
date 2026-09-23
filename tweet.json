@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T11:59:49.379763+00:00",
-  "fetched_at_est": "2026-09-23T07:59:49.379772-04:00",
+  "fetched_at_utc": "2026-09-23T12:09:51.698727+00:00",
+  "fetched_at_est": "2026-09-23T08:09:51.698732-04:00",
   "last_new_level_added_at_est": "2026-09-23T07:41:49-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102368550652637218",
-      "timestamp_utc": "2026-09-22T12:04:57.000Z",
-      "timestamp_est": "2026-09-22T08:04:57-04:00",
-      "tweet_text": "@atlasbtcgrowth We'd need a catalyst to get it, otherwise we will just keep ripping now. This is a major breakout",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price named; tweet is directional commentary about a breakout with no actionable level cited."
-    },
     {
       "tweet_id": "2102388074332504542",
       "timestamp_utc": "2026-09-22T13:22:32.000Z",
