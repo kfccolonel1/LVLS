@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T13:20:02.590085+00:00",
-  "fetched_at_est": "2026-09-23T09:20:02.590091-04:00",
+  "fetched_at_utc": "2026-09-23T13:30:05.461155+00:00",
+  "fetched_at_est": "2026-09-23T09:30:05.461161-04:00",
   "last_new_level_added_at_est": "2026-09-23T07:41:49-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102388074332504542",
-      "timestamp_utc": "2026-09-22T13:22:32.000Z",
-      "timestamp_est": "2026-09-22T09:22:32-04:00",
-      "tweet_text": "There is nothing to do now at all, but ride runner in #ES_F. Longs still working from last Wednesday's 7616 Aug3rd low Failed Breakdown. My target was ~7770 macro bull flag resistance. We broke it out, and we are off now.\n\n7850, 7860, 7864 next. 7812 (watch traps), 7770=supports https://t.co/LcueeXFBsD",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7850/7860/7864 are new prices but stated as casual directional targets in a list; 7812 and 7770 are morning-plan levels. No explicit naming language (key, added, watching, major) for the new prices."
-    },
     {
       "tweet_id": "2102404017728926060",
       "timestamp_utc": "2026-09-22T14:25:53.000Z",
