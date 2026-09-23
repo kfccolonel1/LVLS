@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T14:00:17.330595+00:00",
-  "fetched_at_est": "2026-09-23T10:00:17.330601-04:00",
+  "fetched_at_utc": "2026-09-23T14:30:25.493709+00:00",
+  "fetched_at_est": "2026-09-23T10:30:25.493719-04:00",
   "last_new_level_added_at_est": "2026-09-23T07:41:49-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102404017728926060",
-      "timestamp_utc": "2026-09-22T14:25:53.000Z",
-      "timestamp_est": "2026-09-22T10:25:53-04:00",
-      "tweet_text": "Again, nothing to do in #ES_F: We are +230 points from last Wednesday's monster Failed Breakdown of 7616 August 3rd low. My target was the breakout of the multi-week bull flag with 7770 resistance. Now, just ride runner.\n\n7850, 7860, 7864 above. 7812 (watch traps), 7770=supports https://t.co/tWwvdPKtJS",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7850\u22487851, 7860\u2248reaffirm, 7864\u2248reaffirm, 7812, 7770) are morning-plan levels or observations; no new actionable levels named."
-    },
-    {
-      "tweet_id": "2102404447083356179",
-      "timestamp_utc": "2026-09-22T14:27:35.000Z",
-      "timestamp_est": "2026-09-22T10:27:35-04:00",
-      "tweet_text": "@PaoploRossi Its because we are in a very, very strong bull market and just broke out structure. In these markets we get a failed breakdown then price runs for days without any setups. Failed Breakdowns work best in downtrends or sideways markets",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/educational reply about bull market behavior and failed breakdowns; no actionable price level named."
-    },
-    {
-      "tweet_id": "2102404908532273242",
-      "timestamp_utc": "2026-09-22T14:29:25.000Z",
-      "timestamp_est": "2026-09-22T10:29:25-04:00",
-      "tweet_text": "@Dutch_Fisher Once we hit the ATH it could morph into a larger descending triangle. That would be even more bullish though since it would allow another accumulation cycle to restart",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about a pattern hypothesis at ATH \u2014 no specific price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2102405781228286370",
       "timestamp_utc": "2026-09-22T14:32:53.000Z",
