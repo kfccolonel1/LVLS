@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T18:11:55.298692+00:00",
-  "fetched_at_est": "2026-09-23T14:11:55.298697-04:00",
+  "fetched_at_utc": "2026-09-23T18:52:00.566187+00:00",
+  "fetched_at_est": "2026-09-23T14:52:00.566193-04:00",
   "last_new_level_added_at_est": "2026-09-23T11:21:23-04:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102470277753897395",
-      "timestamp_utc": "2026-09-22T18:49:10.000Z",
-      "timestamp_est": "2026-09-22T14:49:10-04:00",
-      "tweet_text": "Closing update #ES_F: No volatility. Newsletter sent out early with next set of entries. We did get a nice 7830 reclaim long tweeted out earlier. We are coiling yet again for another monster leg. Ride the runner",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure closing commentary/trade management ('ride the runner'). 7830 is a morning-plan level reaffirmation. No new actionable levels named."
-    },
     {
       "tweet_id": "2102476974601978127",
       "timestamp_utc": "2026-09-22T19:15:47.000Z",
