@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T16:51:16.972931+00:00",
-  "fetched_at_est": "2026-09-23T12:51:16.972937-04:00",
+  "fetched_at_utc": "2026-09-23T17:01:26.971269+00:00",
+  "fetched_at_est": "2026-09-23T13:01:26.971275-04:00",
   "last_new_level_added_at_est": "2026-09-23T11:21:23-04:00",
   "todays_new_levels": [
     {
@@ -168,6 +168,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price levels named; purely conversational advice to wait for a breakout, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2102804720465424393",
+      "timestamp_utc": "2026-09-23T16:58:08.000Z",
+      "timestamp_est": "2026-09-23T12:58:08-04:00",
+      "tweet_text": "Took forever but we finally tagged the 7770 backtest in #ES_F. 7616 Failed breakdown last Wednesday was long trigger. My target was 7770 to breakout a 2 week bull flag. We broke out Monday, andn now backtesting.\n\nWatching traps here/7760 per newsletter. Same upsides. 7740 below https://t.co/uLPaHbkdXR",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7770, 7616, 7760, 7740) are in the morning plan. Tweet is reaffirmation/hindsight observation, no new actionable levels."
     }
   ]
 }
