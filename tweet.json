@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-23T14:30:25.493709+00:00",
-  "fetched_at_est": "2026-09-23T10:30:25.493719-04:00",
-  "last_new_level_added_at_est": "2026-09-23T07:41:49-04:00",
+  "fetched_at_utc": "2026-09-23T14:40:35.543965+00:00",
+  "fetched_at_est": "2026-09-23T10:40:35.543975-04:00",
+  "last_new_level_added_at_est": "2026-09-23T10:39:42-04:00",
   "todays_new_levels": [
     {
       "price": 7848.0,
@@ -11,18 +11,16 @@
       "added_at_est": "2026-09-23T07:41:49-04:00",
       "expires_at_est": "2026-09-23T15:41:49-04:00",
       "from_tweet_id": "2102725115809276087"
+    },
+    {
+      "price": 7823.0,
+      "side": "bull",
+      "added_at_est": "2026-09-23T10:39:42-04:00",
+      "expires_at_est": "2026-09-23T18:39:42-04:00",
+      "from_tweet_id": "2102769882861285428"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2102405781228286370",
-      "timestamp_utc": "2026-09-22T14:32:53.000Z",
-      "timestamp_est": "2026-09-22T10:32:53-04:00",
-      "tweet_text": "@tradivate Almost there!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a casual reply with no price levels, no actionable language, and no naming of support/resistance."
-    },
     {
       "tweet_id": "2102410897465745592",
       "timestamp_utc": "2026-09-22T14:53:13.000Z",
@@ -145,6 +143,27 @@
       ],
       "added_bear_levels": [],
       "notes": "7848 named as a new target on 7812 reclaim; not in morning plan. 7812/7830/7770 are morning plan levels (reaffirmations). 7823 is a minor reference but lacks naming language."
+    },
+    {
+      "tweet_id": "2102769882861285428",
+      "timestamp_utc": "2026-09-23T14:39:42.000Z",
+      "timestamp_est": "2026-09-23T10:39:42-04:00",
+      "tweet_text": "Good little volatility pick up in #ES_F as we continue to digest the recent 230 point long from last Wednesday's 7616 Failed Breakdown. 7770 backtests the macro bull flag we broke out on Monday. A few points shy of the zone now.\n\n7812 must reclaim to rally to 7823, 7830, 7848+ https://t.co/BZYnVMt6Im",
+      "added_bull_levels": [
+        7823.0,
+        7848.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7823 and 7848 are new actionable bull targets named explicitly in a rally sequence; 7812/7830/7770 are morning-plan levels. 7848 uses '+' implying extension target."
+    },
+    {
+      "tweet_id": "2102770023270125923",
+      "timestamp_utc": "2026-09-23T14:40:15.000Z",
+      "timestamp_est": "2026-09-23T10:40:15-04:00",
+      "tweet_text": "Note: There are numerous great entries just below 7770 that I will be watching for, discussed in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7770 is already in the morning plan; 'just below 7770' is vague directional commentary, not a specific new actionable price level."
     }
   ]
 }
