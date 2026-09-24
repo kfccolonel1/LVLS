@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T17:05:30.437571+00:00",
-  "fetched_at_est": "2026-09-24T13:05:30.437576-04:00",
+  "fetched_at_utc": "2026-09-24T17:15:32.897595+00:00",
+  "fetched_at_est": "2026-09-24T13:15:32.897603-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102807220387774905",
-      "timestamp_utc": "2026-09-23T17:08:04.000Z",
-      "timestamp_est": "2026-09-23T13:08:04-04:00",
-      "tweet_text": "@CanesKL The market has done the same thing for 100 years and everyone surprised everytime it happens. Elevator down (every support fails), failed breakdown, short squeeze.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about price behavior patterns; no specific price levels named or actionable triggers identified."
-    },
-    {
-      "tweet_id": "2102807553516454318",
-      "timestamp_utc": "2026-09-23T17:09:23.000Z",
-      "timestamp_est": "2026-09-23T13:09:23-04:00",
-      "tweet_text": "@CanesKL Then we'll short squeeze like the last few days, everyone will post about where they can get in long because they missed it, then we'll go elevator down again, lose every support, and it will repeat indefinitely!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/prediction with no specific price levels named or actionable triggers mentioned."
-    },
-    {
-      "tweet_id": "2102807966768394556",
-      "timestamp_utc": "2026-09-23T17:11:02.000Z",
-      "timestamp_est": "2026-09-23T13:11:02-04:00",
-      "tweet_text": "@kingzeeeet Very slow, but its because of the strong bullish control",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market character (slow/bullish control). No price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2102820277168009328",
       "timestamp_utc": "2026-09-23T17:59:57.000Z",
