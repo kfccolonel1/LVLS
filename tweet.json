@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T14:04:27.460327+00:00",
-  "fetched_at_est": "2026-09-24T10:04:27.460333-04:00",
+  "fetched_at_utc": "2026-09-24T14:14:33.386168+00:00",
+  "fetched_at_est": "2026-09-24T10:14:33.386173-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -212,6 +212,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7716\u22487715, 7740, 7758-60\u22487759) are morning-plan levels or observations of hits; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2103124878895247691",
+      "timestamp_utc": "2026-09-24T14:10:19.000Z",
+      "timestamp_est": "2026-09-24T10:10:19-04:00",
+      "tweet_text": "@Ethoswrath I usually say it in the newsletter. Generally if its a big previous days low its high quality. Often ill also say this is lower quality/risky or illl say i wouldnt take this personally but its available for those who want it",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading philosophy/quality ratings. No price levels named, no actionable entries, purely conversational."
     }
   ]
 }
