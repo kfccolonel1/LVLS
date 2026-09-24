@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T11:43:36.486842+00:00",
-  "fetched_at_est": "2026-09-24T07:43:36.486847-04:00",
+  "fetched_at_utc": "2026-09-24T11:53:44.075677+00:00",
+  "fetched_at_est": "2026-09-24T07:53:44.075686-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102725987792232496",
-      "timestamp_utc": "2026-09-23T11:45:16.000Z",
-      "timestamp_est": "2026-09-23T07:45:16-04:00",
-      "tweet_text": "@PermaFader @OnTheHooch When its moves of this magnitude the runner provides the equivalent of a normal day trade without having to do anything!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about runner trade management philosophy; no price level named or implied."
-    },
     {
       "tweet_id": "2102748664959811608",
       "timestamp_utc": "2026-09-23T13:15:23.000Z",
@@ -162,6 +153,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7770, 7760, 7812 all in morning plan; 'swept 7760, recovered, popped ~15pts' is price action observation; 'protect gains' is trade management \u2014 no new levels."
+    },
+    {
+      "tweet_id": "2103089093798216020",
+      "timestamp_utc": "2026-09-24T11:48:08.000Z",
+      "timestamp_est": "2026-09-24T07:48:08-04:00",
+      "tweet_text": "Excellent volatility pickup which should give us something to work with today. After last weeks 230+ point long from the 7616 Failed Breakdown #ES_F getting its 1st retrace\n\nPlan: 7716=support (per newsletter, sweeps were longable). 7740, 7758-60 above. 7758-60 must reclaim to https://t.co/FU6hdKxDSd",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7716 is close to morning plan 7715 (reaffirmation); 7740/7758-60 are morning plan levels. 7616 is hindsight reference. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2103089483751244270",
+      "timestamp_utc": "2026-09-24T11:49:41.000Z",
+      "timestamp_est": "2026-09-24T07:49:41-04:00",
+      "tweet_text": "Note: No change to entries below 7716 from newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reaffirmation note about existing newsletter levels below 7716; no new actionable price is named or introduced."
     }
   ]
 }
