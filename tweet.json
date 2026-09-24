@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T16:55:27.921633+00:00",
-  "fetched_at_est": "2026-09-24T12:55:27.921646-04:00",
+  "fetched_at_utc": "2026-09-24T17:05:30.437571+00:00",
+  "fetched_at_est": "2026-09-24T13:05:30.437576-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102804720465424393",
-      "timestamp_utc": "2026-09-23T16:58:08.000Z",
-      "timestamp_est": "2026-09-23T12:58:08-04:00",
-      "tweet_text": "Took forever but we finally tagged the 7770 backtest in #ES_F. 7616 Failed breakdown last Wednesday was long trigger. My target was 7770 to breakout a 2 week bull flag. We broke out Monday, andn now backtesting.\n\nWatching traps here/7760 per newsletter. Same upsides. 7740 below https://t.co/uLPaHbkdXR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7770, 7616, 7760, 7740) are in the morning plan. Tweet is reaffirmation/hindsight observation, no new actionable levels."
-    },
-    {
-      "tweet_id": "2102806326569042164",
-      "timestamp_utc": "2026-09-23T17:04:31.000Z",
-      "timestamp_est": "2026-09-23T13:04:31-04:00",
-      "tweet_text": "@Ethoswrath I don't post quality entries here on Twitter, only in newsletter.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user directing them to newsletter; no price levels named or actionable information given."
-    },
     {
       "tweet_id": "2102807220387774905",
       "timestamp_utc": "2026-09-23T17:08:04.000Z",
