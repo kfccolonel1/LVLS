@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T14:44:45.900290+00:00",
-  "fetched_at_est": "2026-09-24T10:44:45.900295-04:00",
+  "fetched_at_utc": "2026-09-24T14:54:49.300304+00:00",
+  "fetched_at_est": "2026-09-24T10:54:49.300309-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102772753161973877",
-      "timestamp_utc": "2026-09-23T14:51:06.000Z",
-      "timestamp_est": "2026-09-23T10:51:06-04:00",
-      "tweet_text": "@OnTheHooch Deeper it goes, higher the next leg goes",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary reply; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2102780375026241624",
       "timestamp_utc": "2026-09-23T15:21:23.000Z",
