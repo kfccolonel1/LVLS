@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T16:15:14.837225+00:00",
-  "fetched_at_est": "2026-09-24T12:15:14.837230-04:00",
+  "fetched_at_utc": "2026-09-24T16:55:27.921633+00:00",
+  "fetched_at_est": "2026-09-24T12:55:27.921646-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7822 and 7867 are reaffirmations of morning-plan levels (7823, 7866); tweet is observational commentary on expected backtests, not new actionable levels."
+    },
+    {
+      "tweet_id": "2103164137140609350",
+      "timestamp_utc": "2026-09-24T16:46:19.000Z",
+      "timestamp_est": "2026-09-24T12:46:19-04:00",
+      "tweet_text": "Perfect trading today in #ES_F, all given in advance. The 7716 Failed Breakdown was long trigger. I gave this in ystd's newsletter, and this morning here. Targets for today? 7740, 7758-60. We hit 60, dipped. I then posted its reclaim sees 7770+. Hit\n\nRide runner. 7782, 7812 above https://t.co/qAvMZxxoTT",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7716, 7740, 7758-60, 7770, 7782, 7812) are morning-plan levels or hindsight recaps of already-published targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2103165674361135536",
+      "timestamp_utc": "2026-09-24T16:52:26.000Z",
+      "timestamp_est": "2026-09-24T12:52:26-04:00",
+      "tweet_text": "@kingzeeeet As I said yesterday when we were selling and everyone was panicking (as usual), this as about as surprising as the sun rising. Happens without exception, every single time, for 100 years.\n\nhttps://t.co/3JQkiVn8we",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary/historical observation about market behavior. No price levels named, no actionable triggers, no naming language present."
+    },
+    {
+      "tweet_id": "2103165933774668110",
+      "timestamp_utc": "2026-09-24T16:53:28.000Z",
+      "timestamp_est": "2026-09-24T12:53:28-04:00",
+      "tweet_text": "@kingzeeeet (and that doesn't mean ES will always go up, but it does mean that after every elevator down, we do squeeze to at least do some backtesting)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about post-drop squeezes/backtesting behavior. No price named, no actionable level introduced."
     }
   ]
 }
