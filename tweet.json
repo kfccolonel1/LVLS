@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T17:15:32.897595+00:00",
-  "fetched_at_est": "2026-09-24T13:15:32.897603-04:00",
+  "fetched_at_utc": "2026-09-24T17:25:38.534693+00:00",
+  "fetched_at_est": "2026-09-24T13:25:38.534699-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -167,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about post-drop squeezes/backtesting behavior. No price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2103173688732606589",
+      "timestamp_utc": "2026-09-24T17:24:17.000Z",
+      "timestamp_est": "2026-09-24T13:24:17-04:00",
+      "tweet_text": "@repetak Anywhere around where the non-acceptance entry would be. I got in at 7730 or so",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply mentioning 7730 as a fill price ('got in at 7730') \u2014 trade management/entry observation, not a named actionable level."
     }
   ]
 }
