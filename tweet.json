@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T12:03:51.425009+00:00",
-  "fetched_at_est": "2026-09-24T08:03:51.425021-04:00",
+  "fetched_at_utc": "2026-09-24T13:14:06.514577+00:00",
+  "fetched_at_est": "2026-09-24T09:14:06.514591-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -189,6 +189,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply; no price named, no actionable level, just commentary on volatility and directional hope."
+    },
+    {
+      "tweet_id": "2103109486399324613",
+      "timestamp_utc": "2026-09-24T13:09:10.000Z",
+      "timestamp_est": "2026-09-24T09:09:10-04:00",
+      "tweet_text": "@OnTheHooch I'd count that as a double bottom technically, but I take those sometimes. Its effectively the same entry via the non acceptance protocol. Whether it double bottoms exact or flushes by a tick usually leads to same outcome",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade mechanics (double bottom pattern/non-acceptance protocol). No specific price level named or flagged as actionable."
+    },
+    {
+      "tweet_id": "2103109814444511624",
+      "timestamp_utc": "2026-09-24T13:10:28.000Z",
+      "timestamp_est": "2026-09-24T09:10:28-04:00",
+      "tweet_text": "Good push in #ES_F. 7716 Failed Breakdowns actionable per newsletter and we went +24 so far. 7740 1st target up, hit. 7758-60 is above and in order to rally today, that has to recover. Until then, rallies will struggle with risk of failing. We can rip above there to 7770, 7782+ https://t.co/EAy3T7h0Yd",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7716, 7740, 7758, 7770, 7782) are already in the morning plan or are observations/reaffirmations of existing levels, not new actionable signals."
+    },
+    {
+      "tweet_id": "2103109980698157558",
+      "timestamp_utc": "2026-09-24T13:11:07.000Z",
+      "timestamp_est": "2026-09-24T09:11:07-04:00",
+      "tweet_text": "Excerpt from newsletter https://t.co/UiPuTZ75RF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet contains only a newsletter link with no actionable price levels named."
     }
   ]
 }
