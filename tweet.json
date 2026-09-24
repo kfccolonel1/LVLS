@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-24T17:35:43.913416+00:00",
-  "fetched_at_est": "2026-09-24T13:35:43.913422-04:00",
+  "fetched_at_utc": "2026-09-24T18:05:48.267414+00:00",
+  "fetched_at_est": "2026-09-24T14:05:48.267419-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2102820277168009328",
-      "timestamp_utc": "2026-09-23T17:59:57.000Z",
-      "timestamp_est": "2026-09-23T13:59:57-04:00",
-      "tweet_text": "@AJualmila I'm not going to give out content that people pay for free here, would not be fair to those people. If you don't find the things I post useful here unfollow",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply declining to share paid content; no price levels named or referenced at all."
-    },
-    {
-      "tweet_id": "2102821433789300832",
-      "timestamp_utc": "2026-09-23T18:04:33.000Z",
-      "timestamp_est": "2026-09-23T14:04:33-04:00",
-      "tweet_text": "Bulls defending where they have to so far in #ES_F. 7770 was the macro bull flag backtest as posted. I posted that bulls want to watch traps of 7760/7770. We swept 7760, recovered, and popped ~15 points. Protect gains if you have them.\n\nBulls must recover 7812 to rally heavily https://t.co/zThjCacRlW",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7770, 7760, 7812 all in morning plan; 'swept 7760, recovered, popped ~15pts' is price action observation; 'protect gains' is trade management \u2014 no new levels."
-    },
     {
       "tweet_id": "2103089093798216020",
       "timestamp_utc": "2026-09-24T11:48:08.000Z",
