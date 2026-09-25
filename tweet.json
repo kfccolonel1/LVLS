@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-25T03:26:46.483986+00:00",
-  "fetched_at_est": "2026-09-24T23:26:46.483992-04:00",
+  "fetched_at_utc": "2026-09-25T11:47:33.533611+00:00",
+  "fetched_at_est": "2026-09-25T07:47:33.533616-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user mentioning 'Sunday low' \u2014 no explicit price named, no actionable naming language, purely conversational/observational."
+    },
+    {
+      "tweet_id": "2103450619285758169",
+      "timestamp_utc": "2026-09-25T11:44:42.000Z",
+      "timestamp_est": "2026-09-25T07:44:42-04:00",
+      "tweet_text": "Incredible follow through in #ES_F. Per newsletter on Wednesday (and tweets here) 7716 reclaim was long trigger. My target was 7758-60. Hit. Then, we squeeze above as posted. Next was 70 (hit), 82 (hit), 7812\n\nPlan: Ride runner. 7802, 7812, 7822 (huge test) next. 7770=support https://t.co/n35OBROWQr",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7716, 7758, 7770, 7802\u22487803, 7812, 7822) are morning plan levels or reaffirmations/hindsight refs; 7812 nearest plan level 7803/7822. No genuinely new actionable level introduced."
     }
   ]
 }
