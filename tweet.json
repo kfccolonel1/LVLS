@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-25T11:47:33.533611+00:00",
-  "fetched_at_est": "2026-09-25T07:47:33.533616-04:00",
+  "fetched_at_utc": "2026-09-25T11:57:39.229251+00:00",
+  "fetched_at_est": "2026-09-25T07:57:39.229258-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2103089093798216020",
-      "timestamp_utc": "2026-09-24T11:48:08.000Z",
-      "timestamp_est": "2026-09-24T07:48:08-04:00",
-      "tweet_text": "Excellent volatility pickup which should give us something to work with today. After last weeks 230+ point long from the 7616 Failed Breakdown #ES_F getting its 1st retrace\n\nPlan: 7716=support (per newsletter, sweeps were longable). 7740, 7758-60 above. 7758-60 must reclaim to https://t.co/FU6hdKxDSd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7716 is close to morning plan 7715 (reaffirmation); 7740/7758-60 are morning plan levels. 7616 is hindsight reference. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2103089483751244270",
-      "timestamp_utc": "2026-09-24T11:49:41.000Z",
-      "timestamp_est": "2026-09-24T07:49:41-04:00",
-      "tweet_text": "Note: No change to entries below 7716 from newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reaffirmation note about existing newsletter levels below 7716; no new actionable price is named or introduced."
-    },
-    {
-      "tweet_id": "2103090992383410346",
-      "timestamp_utc": "2026-09-24T11:55:40.000Z",
-      "timestamp_est": "2026-09-24T07:55:40-04:00",
-      "tweet_text": "@tradivate Just normal price action! Nothing unusual, 270 point rally last week, now digestion/retrace",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on price action/market context, no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2103091562326417510",
       "timestamp_utc": "2026-09-24T11:57:56.000Z",
@@ -194,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7716, 7758, 7770, 7802\u22487803, 7812, 7822) are morning plan levels or reaffirmations/hindsight refs; 7812 nearest plan level 7803/7822. No genuinely new actionable level introduced."
+    },
+    {
+      "tweet_id": "2103453513334267975",
+      "timestamp_utc": "2026-09-25T11:56:12.000Z",
+      "timestamp_est": "2026-09-25T07:56:12-04:00",
+      "tweet_text": "@poker848768148 It was only 10 points or so above (I talk about this in newsletter if you read the whole section) but there is nothing wrong with that. If its a planned, high quality Failed Breakdown (as this was) and we have an elevator down sell I very frequently enter 10, or 15 points above",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trade entry mechanics (10-15pts above FBD); no new price level named, purely educational/conversational context."
     }
   ]
 }
