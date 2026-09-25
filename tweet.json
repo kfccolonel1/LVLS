@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-25T12:47:53.278365+00:00",
-  "fetched_at_est": "2026-09-25T08:47:53.278371-04:00",
+  "fetched_at_utc": "2026-09-25T13:07:59.575540+00:00",
+  "fetched_at_est": "2026-09-25T09:07:59.575546-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply to users; no price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2103471363088580614",
+      "timestamp_utc": "2026-09-25T13:07:08.000Z",
+      "timestamp_est": "2026-09-25T09:07:08-04:00",
+      "tweet_text": "Not much to do now &amp; #ES_F still drifting up from the 7716 Failed Breakdown ystd morning.  Yesterday's main target was 7758-60 to backtest the macro bull flag, with reclaims ripping us higher to 7770 (hit), 7782 (hit), 7812.\n\nBulls want to hold 7770/7758 today. 7812, 7822 next https://t.co/F9VVk2RN0T",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7716, 7758, 7770, 7782, 7812, 7822) are morning-plan levels or observations of prior price action; no new actionable levels named."
     }
   ]
 }
