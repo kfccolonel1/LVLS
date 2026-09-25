@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-25T17:59:30.773161+00:00",
-  "fetched_at_est": "2026-09-25T13:59:30.773168-04:00",
+  "fetched_at_utc": "2026-09-25T18:59:37.741734+00:00",
+  "fetched_at_est": "2026-09-25T14:59:37.741741-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2103195743309689299",
-      "timestamp_utc": "2026-09-24T18:51:55.000Z",
-      "timestamp_est": "2026-09-24T14:51:55-04:00",
-      "tweet_text": "Closing update #ES_F: Longs working still. 7782, 7812 are next. Last good entry was the 7716 Failed Breakdown given in newsletter OR the 7758 reclaim. Bulls want to hold 58 now. Newsletter is out soon with next entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7782, 7812, 7716, 7758) are either morning-plan levels or hindsight trade references; no genuinely new actionable levels named."
-    },
     {
       "tweet_id": "2103323720714736002",
       "timestamp_utc": "2026-09-25T03:20:27.000Z",
