@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-25T13:28:05.163001+00:00",
-  "fetched_at_est": "2026-09-25T09:28:05.163008-04:00",
+  "fetched_at_utc": "2026-09-25T14:08:10.805999+00:00",
+  "fetched_at_est": "2026-09-25T10:08:10.806003-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2103122782846357914",
-      "timestamp_utc": "2026-09-24T14:02:00.000Z",
-      "timestamp_est": "2026-09-24T10:02:00-04:00",
-      "tweet_text": "Clean push in #ES_F. Per newsletter/tweets, the Failed Breakdown of 7716 was the first high quality long. This was a Failed Breakdown of Sunday's opening low. We are ripping off it. Targets for today were 7740 (hit), 7758-60 (next). 7758-60 needs to recover to bottom this to https://t.co/ijw75NaqCj",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7716\u22487715, 7740, 7758-60\u22487759) are morning-plan levels or observations of hits; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2103124878895247691",
       "timestamp_utc": "2026-09-24T14:10:19.000Z",
