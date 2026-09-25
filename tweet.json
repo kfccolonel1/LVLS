@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-25T16:08:48.949299+00:00",
-  "fetched_at_est": "2026-09-25T12:08:48.949305-04:00",
+  "fetched_at_utc": "2026-09-25T16:19:02.652658+00:00",
+  "fetched_at_est": "2026-09-25T12:19:02.652676-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -158,6 +158,51 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7716, 7758, 7770, 7782, 7812) are morning-plan levels or observations of targets hit; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2103517276292977102",
+      "timestamp_utc": "2026-09-25T16:09:34.000Z",
+      "timestamp_est": "2026-09-25T12:09:34-04:00",
+      "tweet_text": "Note: Here was the target slate from last nights newsletter, but this was ultimately all propelled by Wednesday's 135 point sell, into 7716 Failed Breakdown. Newsletter readers know it is a *law* in ES that after a sell like that, we rip. 0 exceptions in 100 years of SPX trading https://t.co/1SeYlgIn7e",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Hindsight/newsletter reference to 7716 FBD (already in morning plan) and historical commentary. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2103517382191047017",
+      "timestamp_utc": "2026-09-25T16:10:00.000Z",
+      "timestamp_est": "2026-09-25T12:10:00-04:00",
+      "tweet_text": "https://t.co/Wxmqi3X8La",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a URL with no extractable text or price levels to analyze."
+    },
+    {
+      "tweet_id": "2103518514648621201",
+      "timestamp_utc": "2026-09-25T16:14:30.000Z",
+      "timestamp_est": "2026-09-25T12:14:30-04:00",
+      "tweet_text": "@timvgp I personally only take high quality Failed Breakdowns that meet my criteria which I discuss in newsletter. I strive for a 90% win rate. Most traders don't want to wait like I do for trades though, so I include many lower quality reclaims for those who want to be more active",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet discussing trading philosophy and criteria; no price levels named or referenced whatsoever."
+    },
+    {
+      "tweet_id": "2103518761084948865",
+      "timestamp_utc": "2026-09-25T16:15:28.000Z",
+      "timestamp_est": "2026-09-25T12:15:28-04:00",
+      "tweet_text": "@timvgp WE did for a nice significant low at 58 though at 1230am after newsletter came out so that wouldve constituted a high quality Failed Breakdown, but since its Friday I was good just riding my runner for that 7812/22 backtest",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7812/22 backtest (morning plan levels) and trade management (riding runner). No new actionable level named."
+    },
+    {
+      "tweet_id": "2103518928039452984",
+      "timestamp_utc": "2026-09-25T16:16:08.000Z",
+      "timestamp_est": "2026-09-25T12:16:08-04:00",
+      "tweet_text": "@tradivate Hopefully, no guarantees though.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a casual conversational reply with no price levels, no actionable language, and no named levels of any kind."
     }
   ]
 }
