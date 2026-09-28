@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T15:34:26.225457+00:00",
-  "fetched_at_est": "2026-09-28T11:34:26.225463-04:00",
+  "fetched_at_utc": "2026-09-28T16:54:38.540866+00:00",
+  "fetched_at_est": "2026-09-28T12:54:38.540873-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -95,6 +95,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining FBD mechanics referencing 7653/7658 from newsletter; no new actionable level named, purely educational clarification of existing plan levels."
+    },
+    {
+      "tweet_id": "2104614415450492975",
+      "timestamp_utc": "2026-09-28T16:49:13.000Z",
+      "timestamp_est": "2026-09-28T12:49:13-04:00",
+      "tweet_text": "Simple, routine trapping today in #ES_F and levels are ultra precise. 7758 remains the main pivot. Held this morning, ran to 7781 1st target. We then sold down to 7725 support, held exact.\n\n7753/58 reclaims triggered back up as posted, and we hit 7781 again. 7794, 7812/22 above https://t.co/Tf9jHg8WQh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7758, 7781, 7725, 7753, 7794, 7812/22) are morning-plan levels or observations of price action hitting existing targets. No new actionable levels introduced."
     }
   ]
 }
