@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-27T19:01:56.000431+00:00",
-  "fetched_at_est": "2026-09-27T15:01:56.000437-04:00",
+  "fetched_at_utc": "2026-09-28T11:53:28.565495+00:00",
+  "fetched_at_est": "2026-09-28T07:53:28.565501-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -14,6 +14,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trading philosophy commentary. No prices, no levels, no actionable content whatsoever."
+    },
+    {
+      "tweet_id": "2104539624521757127",
+      "timestamp_utc": "2026-09-28T11:52:01.000Z",
+      "timestamp_est": "2026-09-28T07:52:01-04:00",
+      "tweet_text": "Last Thurs, #ES_F got the last quality long: Failed Breakdown of the Sunday Sept 20th low. That took us +100 to 7815 Friday (and broke us out a macro bull flag with 7758 res).\n\nPlan: Low vol chop now. 7758=support per newsletter. Held. 7781, 7792, 7812-20 next. 7748, 7725 below https://t.co/1jYdrweQIO",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7758, 7781, 7812-20, 7748, 7725) are reaffirmations of morning-plan levels; 7792 is a directional list reference, no new naming language used."
     }
   ]
 }
