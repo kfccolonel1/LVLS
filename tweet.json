@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T19:05:14.072011+00:00",
-  "fetched_at_est": "2026-09-28T15:05:14.072020-04:00",
+  "fetched_at_utc": "2026-09-28T19:15:30.715495+00:00",
+  "fetched_at_est": "2026-09-28T15:15:30.715507-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,51 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market behavior patterns; no price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2104649211841225186",
+      "timestamp_utc": "2026-09-28T19:07:29.000Z",
+      "timestamp_est": "2026-09-28T15:07:29-04:00",
+      "tweet_text": "@KevinSPYtrader I am always bullish I never post about any type of downward movement",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user with no price levels named, no actionable language, purely conversational/sarcastic comment about posting style."
+    },
+    {
+      "tweet_id": "2104649324420571246",
+      "timestamp_utc": "2026-09-28T19:07:56.000Z",
+      "timestamp_est": "2026-09-28T15:07:56-04:00",
+      "tweet_text": "@EyeMordor Worked well! Still glued to the 7758 magnet though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7758 is already in the morning plan; comment is a casual observation about price magnetism, not a new actionable level."
+    },
+    {
+      "tweet_id": "2104649420520501522",
+      "timestamp_utc": "2026-09-28T19:08:19.000Z",
+      "timestamp_est": "2026-09-28T15:08:19-04:00",
+      "tweet_text": "@VBaeuerle The failed breakdown was of 7753/58 now of 7725",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Observation of price action ('failed breakdown of 7753/58 now of 7725'); all prices (7753, 7758, 7725) are morning-plan levels. No new actionable level named."
+    },
+    {
+      "tweet_id": "2104649439377805570",
+      "timestamp_utc": "2026-09-28T19:08:23.000Z",
+      "timestamp_est": "2026-09-28T15:08:23-04:00",
+      "tweet_text": "@VBaeuerle *not",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a single-word correction ('*not'), contains no price, no actionable level, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2104649784078287061",
+      "timestamp_utc": "2026-09-28T19:09:45.000Z",
+      "timestamp_est": "2026-09-28T15:09:45-04:00",
+      "tweet_text": "@_sKiwi @DavidDa41048475 Yes exactly. In this case the actual low at ~7725 was too far. I stuck it under that little higher low at 7740. Even that is quite wide so would have to size it down a little",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply explaining stop placement logic near 7740; no actionable naming language, and 7725 is already in morning plan."
     }
   ]
 }
