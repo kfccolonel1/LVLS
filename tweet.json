@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T12:03:34.352224+00:00",
-  "fetched_at_est": "2026-09-28T08:03:34.352229-04:00",
+  "fetched_at_utc": "2026-09-28T13:03:44.845645+00:00",
+  "fetched_at_est": "2026-09-28T09:03:44.845651-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -32,6 +32,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices mentioned at all; tweet is general trading philosophy/advice about niche strategies vs AI macro funds. No actionable levels."
+    },
+    {
+      "tweet_id": "2104556954408353863",
+      "timestamp_utc": "2026-09-28T13:00:53.000Z",
+      "timestamp_est": "2026-09-28T09:00:53-04:00",
+      "tweet_text": "There's 7781 1st target hit. Per tweets last week/newsletter today's basic plan is simple: 7758 has to hold in #ES_F as it defends the macro bull flag backtest. It held exact and we hit target #1. 58 is now weak and likely to fail/trap if re-tested again\n\n7794, 7812/22 above https://t.co/8NGDvdblSx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7781, 7758, 7812 are morning-plan levels; 7794 appears as a casual directional reference without explicit naming/actionable language; 7822 is within morning-plan range of 7820."
     }
   ]
 }
