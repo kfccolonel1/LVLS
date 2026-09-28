@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T14:23:56.774360+00:00",
-  "fetched_at_est": "2026-09-28T10:23:56.774367-04:00",
+  "fetched_at_utc": "2026-09-28T14:54:07.419469+00:00",
+  "fetched_at_est": "2026-09-28T10:54:07.419482-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -50,6 +50,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7758, 7781) are already in the morning plan. Tweet is a reaffirmation of existing levels with trade observation, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2104582985999598056",
+      "timestamp_utc": "2026-09-28T14:44:19.000Z",
+      "timestamp_est": "2026-09-28T10:44:19-04:00",
+      "tweet_text": "Levels working perfectly today in #ES_F and its all about 7758 per tweets/newsletter. It held exact and we rallied to 7781 1st profit take, then dipped. I then warned 7758 was very weak, and we swept below it\n\n7753/58 must recover to resume up again. 7748, 7725 (watch traps) https://t.co/Qu646nvRL6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7758, 7781, 7753, 7748, 7725) are in the morning plan. Tweet is trade recap/reaffirmation with no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2104583635265273867",
+      "timestamp_utc": "2026-09-28T14:46:54.000Z",
+      "timestamp_est": "2026-09-28T10:46:54-04:00",
+      "tweet_text": "@1MDec2030 Not necessarily for good, but it gives the vol for an elevator down then to setup the  next short squeeze as always.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary about volatility and market structure; no price levels named or actionable triggers identified."
     }
   ]
 }
