@@ -1,7 +1,7 @@
 {
   "session_date": "2026-09-28",
   "daily_pivot": 7758,
-  "regime_hint": "C4",
+  "regime_hint": "C1",
   "significant_lows": [
     7758,
     7753,
@@ -101,6 +101,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish and already holding a long runner from Thursday's 7716 failed-breakdown trade. He expects ES to hold 7758 (now support after being resistance). If price dips and recovers that zone he targets 7822 next, then a breakout push to 7867, 7887, and 7904 on the way to all-time highs. The key pivot is 7758: staying above it favors further upside; losing it cleanly would be a warning sign for bulls.",
-  "fetched_at": "2026-09-27T16:13:10.711339+00:00"
+  "notes": "Trader is bullish and holding a small runner from Thursday's 7716 failed-breakdown trade. He expects ES to stay above 7758 \u2014 the key pivot: above it bulls are in control and the path leads to 7822, then 7867, then all-time highs; below it bears have a chance. He will only add new longs if ES dips and triggers a failed-breakdown at 7753, 7748, or 7725. No new trades unless price sells off sharply first.",
+  "fetched_at": "2026-09-28T05:00:20.559077+00:00"
 }
