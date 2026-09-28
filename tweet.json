@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T18:55:08.255879+00:00",
-  "fetched_at_est": "2026-09-28T14:55:08.255886-04:00",
+  "fetched_at_utc": "2026-09-28T19:05:14.072011+00:00",
+  "fetched_at_est": "2026-09-28T15:05:14.072020-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104285128298045706",
-      "timestamp_utc": "2026-09-27T19:00:44.000Z",
-      "timestamp_est": "2026-09-27T15:00:44-04:00",
-      "tweet_text": "Hard to overestimate the importance of specialization day trading. My watchlist has 1 price on it: ES, I look at nothing else. In ES, I trade one setup that I've workshopped &amp; drilled 10s of thousands of times. You won't beat the algo's being a jack of all trades, master of none",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trading philosophy commentary. No prices, no levels, no actionable content whatsoever."
-    },
     {
       "tweet_id": "2104539624521757127",
       "timestamp_utc": "2026-09-28T11:52:01.000Z",
@@ -140,6 +131,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7758 and 7812 are morning-plan levels; 7822 is within range of 7820 (morning plan); 7794 lacks explicit naming/actionable language \u2014 directional list, no 'key'/'added'/'watching' etc."
+    },
+    {
+      "tweet_id": "2104646665470672905",
+      "timestamp_utc": "2026-09-28T18:57:22.000Z",
+      "timestamp_est": "2026-09-28T14:57:22-04:00",
+      "tweet_text": "@AStendorr Always another elevator down! Only time there isnt is on those 10% or so of days that are Mode 1 green days",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about market behavior patterns; no price named, no actionable level, no naming language."
     }
   ]
 }
