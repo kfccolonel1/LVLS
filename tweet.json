@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T15:24:20.331104+00:00",
-  "fetched_at_est": "2026-09-28T11:24:20.331110-04:00",
+  "fetched_at_utc": "2026-09-28T15:34:26.225457+00:00",
+  "fetched_at_est": "2026-09-28T11:34:26.225463-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -86,6 +86,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual reply mentioning '58' (likely 7658) without explicit naming language; no actionable level introduced, just a conversational trade idea in a reply."
+    },
+    {
+      "tweet_id": "2104593093374992615",
+      "timestamp_utc": "2026-09-28T15:24:29.000Z",
+      "timestamp_est": "2026-09-28T11:24:29-04:00",
+      "tweet_text": "@AnotherX2802 @EStrader33 We didn't get a Failed Breakdown yet of 58 today. We just held it 2x and bounced. For a Failed Breakdown we'd have to sweep 53 and recover both 53 and 58 per newsletter instructions. 58 was a direct bid though as also stated in newsletter but I don't take those",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining FBD mechanics referencing 7653/7658 from newsletter; no new actionable level named, purely educational clarification of existing plan levels."
     }
   ]
 }
