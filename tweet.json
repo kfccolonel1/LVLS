@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T11:53:28.565495+00:00",
-  "fetched_at_est": "2026-09-28T07:53:28.565501-04:00",
+  "fetched_at_utc": "2026-09-28T12:03:34.352224+00:00",
+  "fetched_at_est": "2026-09-28T08:03:34.352229-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -23,6 +23,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7758, 7781, 7812-20, 7748, 7725) are reaffirmations of morning-plan levels; 7792 is a directional list reference, no new naming language used."
+    },
+    {
+      "tweet_id": "2104541170604920903",
+      "timestamp_utc": "2026-09-28T11:58:10.000Z",
+      "timestamp_est": "2026-09-28T07:58:10-04:00",
+      "tweet_text": "@Soonapaana999 Just failed Breakdowns and just ES. Absolutely no need to even know what a bond yield is and the average retail trader is going to lose accounts quickly trying to beat sophisticated funds now using superintelligent AI trading macro. Need to find a tiny micro niche and exploit",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is general trading philosophy/advice about niche strategies vs AI macro funds. No actionable levels."
     }
   ]
 }
