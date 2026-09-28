@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-28T14:54:07.419469+00:00",
-  "fetched_at_est": "2026-09-28T10:54:07.419482-04:00",
+  "fetched_at_utc": "2026-09-28T15:14:14.261458+00:00",
+  "fetched_at_est": "2026-09-28T11:14:14.261465-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -68,6 +68,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary about volatility and market structure; no price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2104589873764069376",
+      "timestamp_utc": "2026-09-28T15:11:41.000Z",
+      "timestamp_est": "2026-09-28T11:11:41-04:00",
+      "tweet_text": "Levels remain precise today in #ES_F. Its all about 7758 still and bulls must recover that to resume up the targets. 7758 support held, ran to 7781 1st target. I said it was then weak, and it failed.\n\n7725 was lowest support and just held. 58 must reclaim to rally. Sell hard&lt;7725 https://t.co/GRZ6KPmpUg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7758, 7781, 7725) are in the morning plan. Tweet is a reaffirmation/recap of existing levels with no new actionable prices introduced."
     }
   ]
 }
