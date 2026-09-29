@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T16:58:44.715918+00:00",
-  "fetched_at_est": "2026-09-29T12:58:44.715925-04:00",
+  "fetched_at_utc": "2026-09-29T17:08:50.172780+00:00",
+  "fetched_at_est": "2026-09-29T13:08:50.172785-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -235,6 +235,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on range/trend leg concept; no actionable price named, no naming language, no new level introduced."
+    },
+    {
+      "tweet_id": "2104981344325378335",
+      "timestamp_utc": "2026-09-29T17:07:15.000Z",
+      "timestamp_est": "2026-09-29T13:07:15-04:00",
+      "tweet_text": "@patharborescent @tradivate I typically post them in my Saturday chart. We're in a huge bull flag though, but the structure is morphing now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 'bull flag' and 'structure morphing' \u2014 no actionable price named, no naming language used."
     }
   ]
 }
