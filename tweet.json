@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T12:57:42.071389+00:00",
-  "fetched_at_est": "2026-09-29T08:57:42.071394-04:00",
+  "fetched_at_utc": "2026-09-29T13:07:44.920235+00:00",
+  "fetched_at_est": "2026-09-29T09:07:44.920240-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2104556954408353863",
-      "timestamp_utc": "2026-09-28T13:00:53.000Z",
-      "timestamp_est": "2026-09-28T09:00:53-04:00",
-      "tweet_text": "There's 7781 1st target hit. Per tweets last week/newsletter today's basic plan is simple: 7758 has to hold in #ES_F as it defends the macro bull flag backtest. It held exact and we hit target #1. 58 is now weak and likely to fail/trap if re-tested again\n\n7794, 7812/22 above https://t.co/8NGDvdblSx",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7781, 7758, 7812 are morning-plan levels; 7794 appears as a casual directional reference without explicit naming/actionable language; 7822 is within morning-plan range of 7820."
-    },
     {
       "tweet_id": "2104575650472267906",
       "timestamp_utc": "2026-09-28T14:15:10.000Z",
