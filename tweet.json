@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T15:28:30.442484+00:00",
-  "fetched_at_est": "2026-09-29T11:28:30.442504-04:00",
+  "fetched_at_utc": "2026-09-29T16:38:41.202917+00:00",
+  "fetched_at_est": "2026-09-29T12:38:41.202922-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -244,6 +244,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply with no price levels named, no actionable language, and no new information beyond referencing a newsletter."
+    },
+    {
+      "tweet_id": "2104972806572159119",
+      "timestamp_utc": "2026-09-29T16:33:20.000Z",
+      "timestamp_est": "2026-09-29T12:33:20-04:00",
+      "tweet_text": "@tradivate This isn't a trend leg yet, we're still just in the same range. Trend leg will break us from the range dramatically (will be 200+ points easily). Not really our concern as day traders but swing traders should be positioning",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on range/trend leg concept; no actionable price named, no naming language, no new level introduced."
     }
   ]
 }
