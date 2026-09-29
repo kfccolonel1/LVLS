@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T18:59:19.418736+00:00",
-  "fetched_at_est": "2026-09-29T14:59:19.418740-04:00",
+  "fetched_at_utc": "2026-09-29T19:09:28.244092+00:00",
+  "fetched_at_est": "2026-09-29T15:09:28.244105-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -14,42 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2104649211841225186",
-      "timestamp_utc": "2026-09-28T19:07:29.000Z",
-      "timestamp_est": "2026-09-28T15:07:29-04:00",
-      "tweet_text": "@KevinSPYtrader I am always bullish I never post about any type of downward movement",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user with no price levels named, no actionable language, purely conversational/sarcastic comment about posting style."
-    },
-    {
-      "tweet_id": "2104649324420571246",
-      "timestamp_utc": "2026-09-28T19:07:56.000Z",
-      "timestamp_est": "2026-09-28T15:07:56-04:00",
-      "tweet_text": "@EyeMordor Worked well! Still glued to the 7758 magnet though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7758 is already in the morning plan; comment is a casual observation about price magnetism, not a new actionable level."
-    },
-    {
-      "tweet_id": "2104649420520501522",
-      "timestamp_utc": "2026-09-28T19:08:19.000Z",
-      "timestamp_est": "2026-09-28T15:08:19-04:00",
-      "tweet_text": "@VBaeuerle The failed breakdown was of 7753/58 now of 7725",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Observation of price action ('failed breakdown of 7753/58 now of 7725'); all prices (7753, 7758, 7725) are morning-plan levels. No new actionable level named."
-    },
-    {
-      "tweet_id": "2104649439377805570",
-      "timestamp_utc": "2026-09-28T19:08:23.000Z",
-      "timestamp_est": "2026-09-28T15:08:23-04:00",
-      "tweet_text": "@VBaeuerle *not",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a single-word correction ('*not'), contains no price, no actionable level, no naming language whatsoever."
-    },
     {
       "tweet_id": "2104649784078287061",
       "timestamp_utc": "2026-09-28T19:09:45.000Z",
@@ -244,6 +208,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price named; purely conversational commentary, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2105010066197741953",
+      "timestamp_utc": "2026-09-29T19:01:23.000Z",
+      "timestamp_est": "2026-09-29T15:01:23-04:00",
+      "tweet_text": "@noonelikeme81 @OnTheHooch I've said this everytime when asked for years, but we are in a bull market. Trend is firmly up, we are above the 50dma's, 200dmas, those averages are above each other, we have lost no structures. There is no reason to be anything but 100% bullish until those things change. Within",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary on bull market conditions; no specific price level named or made actionable."
+    },
+    {
+      "tweet_id": "2105010263531352486",
+      "timestamp_utc": "2026-09-29T19:02:10.000Z",
+      "timestamp_est": "2026-09-29T15:02:10-04:00",
+      "tweet_text": "@noonelikeme81 @OnTheHooch Don't need to overcomplicate the trend!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply with no price named and no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2105011299633787246",
+      "timestamp_utc": "2026-09-29T19:06:17.000Z",
+      "timestamp_est": "2026-09-29T15:06:17-04:00",
+      "tweet_text": "CLosing update #ES_F: Bulls recovered 7725 as they had to. 7748, 7758 next above which we can rip. 7716 must hold now. Newsletter just sent with next set of entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7725, 7748, 7758, 7716) are already in the morning plan. Observations of price action and reaffirmations only."
     }
   ]
 }
