@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T17:59:03.305995+00:00",
-  "fetched_at_est": "2026-09-29T13:59:03.306000-04:00",
+  "fetched_at_utc": "2026-09-29T18:49:16.789462+00:00",
+  "fetched_at_est": "2026-09-29T14:49:16.789475-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -244,6 +244,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary with no price named; no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2105004678249357553",
+      "timestamp_utc": "2026-09-29T18:39:59.000Z",
+      "timestamp_est": "2026-09-29T14:39:59-04:00",
+      "tweet_text": "@noonelikeme81 @OnTheHooch I don't make predictions like that. I just trade level to level, and I know the market will continue higher on a swing/position time frame. The path it takes is random and anyones guess",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure philosophical/methodology commentary with no actionable price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2105006111950885223",
+      "timestamp_utc": "2026-09-29T18:45:40.000Z",
+      "timestamp_est": "2026-09-29T14:45:40-04:00",
+      "tweet_text": "@investingpro12 Called a magnet for a reason!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price named; purely conversational commentary, no actionable level introduced."
     }
   ]
 }
