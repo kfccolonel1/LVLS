@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T13:07:44.920235+00:00",
-  "fetched_at_est": "2026-09-29T09:07:44.920240-04:00",
+  "fetched_at_utc": "2026-09-29T14:17:58.102005+00:00",
+  "fetched_at_est": "2026-09-29T10:17:58.102011-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2104575650472267906",
-      "timestamp_utc": "2026-09-28T14:15:10.000Z",
-      "timestamp_est": "2026-09-28T10:15:10-04:00",
-      "tweet_text": "Hyper precise levels today and #ES_F holding on by a thread here. Its all about 7758 as posted here/in newsletter. Held exact early this morning and ran to 7781 1st profit take. We are now back again, and it held a 2nd time.\n\nThis is very weak. Watch traps per newsletter. Same https://t.co/T1OhWvKiQJ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7758, 7781) are already in the morning plan. Tweet is a reaffirmation of existing levels with trade observation, no new actionable levels named."
-    },
     {
       "tweet_id": "2104582985999598056",
       "timestamp_utc": "2026-09-28T14:44:19.000Z",
@@ -251,6 +242,17 @@
       ],
       "added_bear_levels": [],
       "notes": "7802 is named as a new bull target ('see 7782, 7802, 7812'); 7782 and 7812 are morning-plan levels. 7802 is not in the morning plan and is explicitly listed as an upside target."
+    },
+    {
+      "tweet_id": "2104937173908869599",
+      "timestamp_utc": "2026-09-29T14:11:44.000Z",
+      "timestamp_est": "2026-09-29T10:11:44-04:00",
+      "tweet_text": "This market remains all about the 7758 magnet zone #ES_F. As readers know, magnets *always* precede large trend legs when they unpin. 7725 Failed Breakdown triggered for overnight traders per newsletter, taking us to 7758.\n\n7758 must recover to rally 7782, 7802, 7812. 25 below https://t.co/7bdPoPFamn",
+      "added_bull_levels": [
+        7802.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7802 named as a rally target between 7782 and 7812 \u2014 not in morning plan. All other levels (7758, 7725, 7782, 7812) are existing morning-plan levels."
     }
   ]
 }
