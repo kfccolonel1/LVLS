@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T17:08:50.172780+00:00",
-  "fetched_at_est": "2026-09-29T13:08:50.172785-04:00",
+  "fetched_at_utc": "2026-09-29T17:18:57.409707+00:00",
+  "fetched_at_est": "2026-09-29T13:18:57.409721-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2104620736220672432",
-      "timestamp_utc": "2026-09-28T17:14:20.000Z",
-      "timestamp_est": "2026-09-28T13:14:20-04:00",
-      "tweet_text": "@avanatrader We get those fairly often during tight ranges. Means there is accumulation for a big trend move up typically",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with pure directional commentary about accumulation; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2104630807784538203",
       "timestamp_utc": "2026-09-28T17:54:21.000Z",
@@ -244,6 +235,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing 'bull flag' and 'structure morphing' \u2014 no actionable price named, no naming language used."
+    },
+    {
+      "tweet_id": "2104982737413112029",
+      "timestamp_utc": "2026-09-29T17:12:47.000Z",
+      "timestamp_est": "2026-09-29T13:12:47-04:00",
+      "tweet_text": "No volatility in #ES_F and overnight traders got all the action. 7725 Failed Breakdown overnight took us to the 7758 magnet, which we trapped above &amp; rejected. We are now stuck in this 7725-7716 zone.\n\nBulls must recover 7725 to rally back to 7748, 7758. 7758 must clear to rally https://t.co/TgqsDZrUZl",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7725, 7716, 7748, 7758) are in the morning plan or observational references to prior action. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2104984129549009385",
+      "timestamp_utc": "2026-09-29T17:18:19.000Z",
+      "timestamp_est": "2026-09-29T13:18:19-04:00",
+      "tweet_text": "@OnTheHooch If we can keep grinding down into the close though, will probably get a rally this evening",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary with no price named; no actionable level of any kind."
     }
   ]
 }
