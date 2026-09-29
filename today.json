@@ -1,27 +1,31 @@
 {
-  "session_date": "2026-09-28",
-  "daily_pivot": 7758,
-  "regime_hint": "C1",
+  "session_date": "2026-09-29",
+  "daily_pivot": 7758.0,
+  "regime_hint": "C2",
   "significant_lows": [
-    7758,
-    7753,
-    7748,
-    7725,
-    7707,
-    7698,
-    7674
+    7758.0,
+    7755.0,
+    7725.0,
+    7707.0,
+    7674.0,
+    7656.0,
+    7716.0
   ],
   "bull_levels": [
+    {
+      "price": 7782.0,
+      "major": true
+    },
     {
       "price": 7812.0,
       "major": true
     },
     {
-      "price": 7820.0,
+      "price": 7822.0,
       "major": true
     },
     {
-      "price": 7849.0,
+      "price": 7846.0,
       "major": true
     },
     {
@@ -29,39 +33,43 @@
       "major": true
     },
     {
-      "price": 7887.0,
+      "price": 7886.0,
       "major": true
     },
     {
-      "price": 7904.0,
+      "price": 7902.0,
       "major": true
     },
     {
-      "price": 7924.0,
+      "price": 7912.0,
       "major": true
     },
     {
-      "price": 7942.0,
+      "price": 7947.0,
       "major": true
     },
     {
-      "price": 7968.0,
+      "price": 7959.0,
       "major": true
     },
     {
-      "price": 7998.0,
+      "price": 7986.0,
       "major": true
     },
     {
-      "price": 8010.0,
+      "price": 8014.0,
+      "major": true
+    },
+    {
+      "price": 8038.0,
+      "major": true
+    },
+    {
+      "price": 8093.0,
       "major": true
     }
   ],
   "bear_levels": [
-    {
-      "price": 7781.0,
-      "major": true
-    },
     {
       "price": 7758.0,
       "major": true
@@ -71,7 +79,7 @@
       "major": true
     },
     {
-      "price": 7725.0,
+      "price": 7728.0,
       "major": true
     },
     {
@@ -79,28 +87,32 @@
       "major": true
     },
     {
-      "price": 7692.0,
+      "price": 7696.0,
       "major": true
     },
     {
-      "price": 7681.0,
+      "price": 7680.0,
       "major": true
     },
     {
-      "price": 7655.0,
+      "price": 7656.0,
       "major": true
     },
     {
-      "price": 7634.0,
+      "price": 7644.0,
       "major": true
     },
     {
-      "price": 7617.0,
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish and holding a small runner from Thursday's 7716 failed-breakdown trade. He expects ES to stay above 7758 \u2014 the key pivot: above it bulls are in control and the path leads to 7822, then 7867, then all-time highs; below it bears have a chance. He will only add new longs if ES dips and triggers a failed-breakdown at 7753, 7748, or 7725. No new trades unless price sells off sharply first.",
-  "fetched_at": "2026-09-28T05:00:20.559077+00:00"
+  "notes": "Trader leans bullish but ES is coiling in a multi-week bull flag near 7758 resistance. He will wait for dips and Failed Breakdowns before entering longs. Key pivot is 7758: above it bulls target 7822, then 7867, 7886, 7902, and eventually all-time highs near 7947. Below 7758 (especially below 7725) the bull case weakens. No new shorts planned; only long entries on failed breakdown setups.",
+  "fetched_at": "2026-09-29T05:00:21.302642+00:00"
 }
