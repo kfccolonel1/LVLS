@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T16:38:41.202917+00:00",
-  "fetched_at_est": "2026-09-29T12:38:41.202922-04:00",
+  "fetched_at_utc": "2026-09-29T16:58:44.715918+00:00",
+  "fetched_at_est": "2026-09-29T12:58:44.715925-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2104614415450492975",
-      "timestamp_utc": "2026-09-28T16:49:13.000Z",
-      "timestamp_est": "2026-09-28T12:49:13-04:00",
-      "tweet_text": "Simple, routine trapping today in #ES_F and levels are ultra precise. 7758 remains the main pivot. Held this morning, ran to 7781 1st target. We then sold down to 7725 support, held exact.\n\n7753/58 reclaims triggered back up as posted, and we hit 7781 again. 7794, 7812/22 above https://t.co/Tf9jHg8WQh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7758, 7781, 7725, 7753, 7794, 7812/22) are morning-plan levels or observations of price action hitting existing targets. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2104616288051982618",
-      "timestamp_utc": "2026-09-28T16:56:39.000Z",
-      "timestamp_est": "2026-09-28T12:56:39-04:00",
-      "tweet_text": "@Jbuehler777 Typical trap. Nobody panicking in my comments during the micro-dip this morning either - people likely learning!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trader behavior; no price levels named or actionable context whatsoever."
-    },
     {
       "tweet_id": "2104620736220672432",
       "timestamp_utc": "2026-09-28T17:14:20.000Z",
