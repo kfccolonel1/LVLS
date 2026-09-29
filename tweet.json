@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T18:49:16.789462+00:00",
-  "fetched_at_est": "2026-09-29T14:49:16.789475-04:00",
+  "fetched_at_utc": "2026-09-29T18:59:19.418736+00:00",
+  "fetched_at_est": "2026-09-29T14:59:19.418740-04:00",
   "last_new_level_added_at_est": "2026-09-29T07:59:16-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2104645362208170483",
-      "timestamp_utc": "2026-09-28T18:52:11.000Z",
-      "timestamp_est": "2026-09-28T14:52:11-04:00",
-      "tweet_text": "Closing update #ES_F: Action slowing as we near the close. Newsletter out shortly with next entries but we remain glued to the 7758 magnet and this level has provided numerous trades. Whenever we see a magnet like this, a deep trend move almost always follows. 7794, 7812/22 next",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7758 and 7812 are morning-plan levels; 7822 is within range of 7820 (morning plan); 7794 lacks explicit naming/actionable language \u2014 directional list, no 'key'/'added'/'watching' etc."
-    },
-    {
-      "tweet_id": "2104646665470672905",
-      "timestamp_utc": "2026-09-28T18:57:22.000Z",
-      "timestamp_est": "2026-09-28T14:57:22-04:00",
-      "tweet_text": "@AStendorr Always another elevator down! Only time there isnt is on those 10% or so of days that are Mode 1 green days",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market behavior patterns; no price named, no actionable level, no naming language."
-    },
     {
       "tweet_id": "2104649211841225186",
       "timestamp_utc": "2026-09-28T19:07:29.000Z",
