@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T14:12:03.689094+00:00",
-  "fetched_at_est": "2026-09-30T10:12:03.689100-04:00",
+  "fetched_at_utc": "2026-09-30T15:02:10.409002+00:00",
+  "fetched_at_est": "2026-09-30T11:02:10.409010-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104948804466479200",
-      "timestamp_utc": "2026-09-29T14:57:57.000Z",
-      "timestamp_est": "2026-09-29T10:57:57-04:00",
-      "tweet_text": "No volatility in #ES_F and overnight traders got all the action. 7758 remains a magnet &amp; trappy region. It must clear with strong conviction and momentum. 7725 Failed Breakdown was last long from newsletter triggering us to 7758 magnet\n\nLeg to 7782, 7802, 7812 begins above 7758 https://t.co/UAzDQ1od3I",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7758, 7782, 7812 are all morning-plan levels; 7725 FBD is a hindsight reference; 7802 is near 7802 but context is directional list, not a new actionable level."
-    },
     {
       "tweet_id": "2104954215361806460",
       "timestamp_utc": "2026-09-29T15:19:27.000Z",
