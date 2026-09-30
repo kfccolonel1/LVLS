@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T19:43:18.570354+00:00",
-  "fetched_at_est": "2026-09-30T15:43:18.570360-04:00",
+  "fetched_at_utc": "2026-09-30T20:23:26.516836+00:00",
+  "fetched_at_est": "2026-09-30T16:23:26.516841-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -158,6 +158,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7748, 7758, 7781 are morning-plan levels; 7771 and 7802 appear as targets hit/referenced in hindsight/closing summary, not newly named actionable levels."
+    },
+    {
+      "tweet_id": "2105392593152413941",
+      "timestamp_utc": "2026-09-30T20:21:25.000Z",
+      "timestamp_est": "2026-09-30T16:21:25-04:00",
+      "tweet_text": "@NYJets2017 Discussed that setup in newsletter!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user referencing newsletter content; no price levels named, no actionable language, purely conversational."
     }
   ]
 }
