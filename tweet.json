@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T13:52:00.138450+00:00",
-  "fetched_at_est": "2026-09-30T09:52:00.138457-04:00",
+  "fetched_at_utc": "2026-09-30T14:12:03.689094+00:00",
+  "fetched_at_est": "2026-09-30T10:12:03.689100-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104937173908869599",
-      "timestamp_utc": "2026-09-29T14:11:44.000Z",
-      "timestamp_est": "2026-09-29T10:11:44-04:00",
-      "tweet_text": "This market remains all about the 7758 magnet zone #ES_F. As readers know, magnets *always* precede large trend legs when they unpin. 7725 Failed Breakdown triggered for overnight traders per newsletter, taking us to 7758.\n\n7758 must recover to rally 7782, 7802, 7812. 25 below https://t.co/7bdPoPFamn",
-      "added_bull_levels": [
-        7802.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7802 named as a rally target between 7782 and 7812 \u2014 not in morning plan. All other levels (7758, 7725, 7782, 7812) are existing morning-plan levels."
-    },
     {
       "tweet_id": "2104948804466479200",
       "timestamp_utc": "2026-09-29T14:57:57.000Z",
