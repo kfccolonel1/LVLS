@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T11:51:25.913965+00:00",
-  "fetched_at_est": "2026-09-30T07:51:25.913974-04:00",
+  "fetched_at_utc": "2026-09-30T12:01:33.057062+00:00",
+  "fetched_at_est": "2026-09-30T08:01:33.057075-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104903834472522218",
-      "timestamp_utc": "2026-09-29T11:59:16.000Z",
-      "timestamp_est": "2026-09-29T07:59:16-04:00",
-      "tweet_text": "Overnight traders were gifted with a textbook, A+, planned Failed Breakdown long from newsletter in #ES_F. 7725 trap was the entry. We swept it 7716, trapped bears as always, ran to 7758 magnet/target\n\nPlan: 7758/55=support. Keeps 7782, 7802, 7812 live. 7725 remains below https://t.co/cSuQmqi9p4",
-      "added_bull_levels": [
-        7802.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7802 named as a live bull target/resistance alongside morning-plan levels; it is NOT in the published morning plan and is presented as actionable."
-    },
     {
       "tweet_id": "2104905123432411210",
       "timestamp_utc": "2026-09-29T12:04:23.000Z",
@@ -263,6 +252,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about volatility preferences; no price mentioned, no actionable level named."
+    },
+    {
+      "tweet_id": "2105264745251000790",
+      "timestamp_utc": "2026-09-30T11:53:23.000Z",
+      "timestamp_est": "2026-09-30T07:53:23-04:00",
+      "tweet_text": "@AStendorr Not for day traders. A couple hundred point move up would mean very few setups. The initial Failed Breakdown to trigger it, then probably only one setup every couple days",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user discussing hypothetical multi-day move; no actionable price named, only conceptual commentary about trade frequency."
+    },
+    {
+      "tweet_id": "2105264930073239738",
+      "timestamp_utc": "2026-09-30T11:54:07.000Z",
+      "timestamp_est": "2026-09-30T07:54:07-04:00",
+      "tweet_text": "@AStendorr Runners do contribute and are nice, but doesn't replace having to go a few days at a time with no setups.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading psychology/runners; no price levels named or implied."
     }
   ]
 }
