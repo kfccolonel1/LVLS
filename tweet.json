@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T17:52:49.621662+00:00",
-  "fetched_at_est": "2026-09-30T13:52:49.621667-04:00",
+  "fetched_at_utc": "2026-09-30T18:12:55.993256+00:00",
+  "fetched_at_est": "2026-09-30T14:12:55.993262-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -176,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7770 is only mentioned as 'hit' (observation); 7802/7822/7867 are all in the morning plan or directional list reaffirmations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2105359588002328597",
+      "timestamp_utc": "2026-09-30T18:10:16.000Z",
+      "timestamp_est": "2026-09-30T14:10:16-04:00",
+      "tweet_text": "@KrisKrosTrading Its just a backtest point. Price will get there when it gets there we don't predict pathways. Just hold runner until the next deep *elevator down* and then repeat the process. Same thing everyday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/process commentary; no price named, no actionable level introduced."
     }
   ]
 }
