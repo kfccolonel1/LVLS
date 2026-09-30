@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T12:11:35.553844+00:00",
-  "fetched_at_est": "2026-09-30T08:11:35.553848-04:00",
+  "fetched_at_utc": "2026-09-30T12:31:39.091045+00:00",
+  "fetched_at_est": "2026-09-30T08:31:39.091049-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104911767558135929",
-      "timestamp_utc": "2026-09-29T12:30:47.000Z",
-      "timestamp_est": "2026-09-29T08:30:47-04:00",
-      "tweet_text": "@lamarroemer Variety of reasons, in that case though it was right in the middle of the night, no volatility at all and few people trading (that 10pm to 1am window is very slow, before London opens). Only a tiny 2 tick loss of the low too. Compare that with what we had a 2am",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply explaining market conditions at night; no price levels named or actionable signals given."
-    },
     {
       "tweet_id": "2104912520578322798",
       "timestamp_utc": "2026-09-29T12:33:46.000Z",
