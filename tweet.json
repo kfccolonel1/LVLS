@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T12:51:47.505819+00:00",
-  "fetched_at_est": "2026-09-30T08:51:47.505825-04:00",
+  "fetched_at_utc": "2026-09-30T13:01:50.166279+00:00",
+  "fetched_at_est": "2026-09-30T09:01:50.166284-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104918274433531923",
-      "timestamp_utc": "2026-09-29T12:56:38.000Z",
-      "timestamp_est": "2026-09-29T08:56:38-04:00",
-      "tweet_text": "Overnight traders got all the action in #ES_F and now we are glued back to the 7758 magnet. Per newsletter, Failed Breakdowns of 7725 Monday daily low triggered up. We swept it to 7716, recovered, ran to 7758 magnet.\n\nWatch for reclaims here with momentum to see 7782, 7802, 7812 https://t.co/emF57WeRiG",
-      "added_bull_levels": [
-        7802.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7802 is named as a new bull target ('see 7782, 7802, 7812'); 7782 and 7812 are morning-plan levels. 7802 is not in the morning plan and is explicitly listed as an upside target."
-    },
     {
       "tweet_id": "2104937173908869599",
       "timestamp_utc": "2026-09-29T14:11:44.000Z",
