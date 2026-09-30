@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T19:03:08.400305+00:00",
-  "fetched_at_est": "2026-09-30T15:03:08.400310-04:00",
+  "fetched_at_utc": "2026-09-30T19:13:10.991057+00:00",
+  "fetched_at_est": "2026-09-30T15:13:10.991064-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105011299633787246",
-      "timestamp_utc": "2026-09-29T19:06:17.000Z",
-      "timestamp_est": "2026-09-29T15:06:17-04:00",
-      "tweet_text": "CLosing update #ES_F: Bulls recovered 7725 as they had to. 7748, 7758 next above which we can rip. 7716 must hold now. Newsletter just sent with next set of entries",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7725, 7748, 7758, 7716) are already in the morning plan. Observations of price action and reaffirmations only."
-    },
     {
       "tweet_id": "2105052789885825509",
       "timestamp_utc": "2026-09-29T21:51:09.000Z",
