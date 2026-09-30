@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T15:02:10.409002+00:00",
-  "fetched_at_est": "2026-09-30T11:02:10.409010-04:00",
+  "fetched_at_utc": "2026-09-30T15:22:17.682605+00:00",
+  "fetched_at_est": "2026-09-30T11:22:17.682611-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104954215361806460",
-      "timestamp_utc": "2026-09-29T15:19:27.000Z",
-      "timestamp_est": "2026-09-29T11:19:27-04:00",
-      "tweet_text": "Levels working well today in #ES_F but no volatility still as we remain stuck in the same range with 7758 being main magnet. 7725 Failed Breakdown overnight ran us to 7758 magnet, where we dipped, now back to 7725 again.\n\nWatch traps here/overnight low. 58 must reclaim to rally https://t.co/ZcPA6ywYD4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7758, 7725) are morning-plan levels; '58 must reclaim' is a reaffirmation. Rest is price-action observation and trade commentary."
-    },
-    {
-      "tweet_id": "2104954863339933846",
-      "timestamp_utc": "2026-09-29T15:22:02.000Z",
-      "timestamp_est": "2026-09-29T11:22:02-04:00",
-      "tweet_text": "Note: No change to levels below from newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet explicitly states no change to levels; pure reaffirmation of existing morning plan, no new actionable prices introduced."
-    },
     {
       "tweet_id": "2104956154300309656",
       "timestamp_utc": "2026-09-29T15:27:10.000Z",
@@ -212,6 +194,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All levels mentioned (7758, 7736, 7725, 7748, 7770, 7781, 7803) are morning-plan levels or observations of price action/trade management. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2105317170565480743",
+      "timestamp_utc": "2026-09-30T15:21:43.000Z",
+      "timestamp_est": "2026-09-30T11:21:43-04:00",
+      "tweet_text": "We are running the targets nicely in #ES_F. 7736 reclaim was last long trigger given (newsletter readers got lower entries). Targets for the day were given at 8am: 7748 (hit), 7758 (hit), 7770 (hit), 7781 (exact high of day so far).\n\n7803 is next, then 7822. Just ride your runner https://t.co/wb0Qea3eoh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7748, 7758, 7781, 7803, 7822) are in the morning plan or observations of hits. 7770 not in plan but framed as already-given target, not newly named here."
     }
   ]
 }
