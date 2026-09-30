@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T20:23:26.516836+00:00",
-  "fetched_at_est": "2026-09-30T16:23:26.516841-04:00",
+  "fetched_at_utc": "2026-09-30T21:53:36.208932+00:00",
+  "fetched_at_est": "2026-09-30T17:53:36.208937-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105052789885825509",
-      "timestamp_utc": "2026-09-29T21:51:09.000Z",
-      "timestamp_est": "2026-09-29T17:51:09-04:00",
-      "tweet_text": "@305HRHitter Don't need to wait for it to cool off back down there. Just get in wherever price is at the time. I actually prefer chasing into Failed Breakdowns. I've found failed failed breakdowns are the ones that are just slowly chopping around the entry trigger. The ones that are pushing",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; tweet is a conversational reply about trade entry methodology for Failed Breakdowns, with no actionable prices named."
-    },
     {
       "tweet_id": "2105110667485225097",
       "timestamp_utc": "2026-09-30T01:41:08.000Z",
