@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T17:12:37.725457+00:00",
-  "fetched_at_est": "2026-09-30T13:12:37.725464-04:00",
+  "fetched_at_utc": "2026-09-30T17:22:42.249851+00:00",
+  "fetched_at_est": "2026-09-30T13:22:42.249858-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104982737413112029",
-      "timestamp_utc": "2026-09-29T17:12:47.000Z",
-      "timestamp_est": "2026-09-29T13:12:47-04:00",
-      "tweet_text": "No volatility in #ES_F and overnight traders got all the action. 7725 Failed Breakdown overnight took us to the 7758 magnet, which we trapped above &amp; rejected. We are now stuck in this 7725-7716 zone.\n\nBulls must recover 7725 to rally back to 7748, 7758. 7758 must clear to rally https://t.co/TgqsDZrUZl",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7725, 7716, 7748, 7758) are in the morning plan or observational references to prior action. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2104984129549009385",
-      "timestamp_utc": "2026-09-29T17:18:19.000Z",
-      "timestamp_est": "2026-09-29T13:18:19-04:00",
-      "tweet_text": "@OnTheHooch If we can keep grinding down into the close though, will probably get a rally this evening",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary with no price named; no actionable level of any kind."
-    },
     {
       "tweet_id": "2105004678249357553",
       "timestamp_utc": "2026-09-29T18:39:59.000Z",
