@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T15:22:17.682605+00:00",
-  "fetched_at_est": "2026-09-30T11:22:17.682611-04:00",
+  "fetched_at_utc": "2026-09-30T15:32:20.438390+00:00",
+  "fetched_at_est": "2026-09-30T11:32:20.438396-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104956154300309656",
-      "timestamp_utc": "2026-09-29T15:27:10.000Z",
-      "timestamp_est": "2026-09-29T11:27:10-04:00",
-      "tweet_text": "@JeffsTrades69 Listed in newsletter!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply with no price levels named, no actionable language, and no new information beyond referencing a newsletter."
-    },
     {
       "tweet_id": "2104972806572159119",
       "timestamp_utc": "2026-09-29T16:33:20.000Z",
