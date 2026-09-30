@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T01:50:18.001509+00:00",
-  "fetched_at_est": "2026-09-29T21:50:18.001513-04:00",
+  "fetched_at_utc": "2026-09-30T03:20:27.455685+00:00",
+  "fetched_at_est": "2026-09-29T23:20:27.455691-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2104772018231279832",
-      "timestamp_utc": "2026-09-29T03:15:28.000Z",
-      "timestamp_est": "2026-09-28T23:15:28-04:00",
-      "tweet_text": "@NYJets2017 @KevinSPYtrader I don't have opinions on trend, just always bullish in an uptrend/bull market. Been consistently bullish since May 2025 and will stay so probably for a few more years until we get trend change indications. From a day trading perspective though, can trade both sides obviously",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about trading philosophy and trend outlook. No prices named, no actionable levels introduced."
-    },
-    {
-      "tweet_id": "2104772223433347473",
-      "timestamp_utc": "2026-09-29T03:16:17.000Z",
-      "timestamp_est": "2026-09-28T23:16:17-04:00",
-      "tweet_text": "@NYJets2017 @KevinSPYtrader (though I don't - I just long)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels mentioned; purely conversational comment about trading style."
-    },
     {
       "tweet_id": "2104903834472522218",
       "timestamp_utc": "2026-09-29T11:59:16.000Z",
