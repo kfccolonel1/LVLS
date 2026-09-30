@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T18:12:55.993256+00:00",
-  "fetched_at_est": "2026-09-30T14:12:55.993262-04:00",
+  "fetched_at_utc": "2026-09-30T18:43:00.387459+00:00",
+  "fetched_at_est": "2026-09-30T14:43:00.387478-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105004678249357553",
-      "timestamp_utc": "2026-09-29T18:39:59.000Z",
-      "timestamp_est": "2026-09-29T14:39:59-04:00",
-      "tweet_text": "@noonelikeme81 @OnTheHooch I don't make predictions like that. I just trade level to level, and I know the market will continue higher on a swing/position time frame. The path it takes is random and anyones guess",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure philosophical/methodology commentary with no actionable price levels named whatsoever."
-    },
     {
       "tweet_id": "2105006111950885223",
       "timestamp_utc": "2026-09-29T18:45:40.000Z",
