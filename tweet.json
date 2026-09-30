@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T12:41:41.717228+00:00",
-  "fetched_at_est": "2026-09-30T08:41:41.717232-04:00",
+  "fetched_at_utc": "2026-09-30T12:51:47.505819+00:00",
+  "fetched_at_est": "2026-09-30T08:51:47.505825-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -225,6 +225,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about trading psychology/runners; no price levels named or implied."
+    },
+    {
+      "tweet_id": "2105278058798420007",
+      "timestamp_utc": "2026-09-30T12:46:18.000Z",
+      "timestamp_est": "2026-09-30T08:46:18-04:00",
+      "tweet_text": "Quick work today and we are back to the 7758 magnet in #ES_F. 7725 recoveries were yesterday's long trigger with 7758 target. Hit. Today (as written 1hr ago), 7736 reclaims see 7748 (hit), 7758 (hit again). This keeps paying over, and over.\n\n7770, 7781, 7803 next. Ride runner https://t.co/ZkfIVpNVOp",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7758, 7781, 7803 are morning-plan levels; 7748 is a hit observation; 7770 appears as next target but lacks explicit naming language to qualify as a new major level\u2014conservative bias applied."
     }
   ]
 }
