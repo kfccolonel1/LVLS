@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-29T21:59:51.340462+00:00",
-  "fetched_at_est": "2026-09-29T17:59:51.340466-04:00",
+  "fetched_at_utc": "2026-09-30T01:50:18.001509+00:00",
+  "fetched_at_est": "2026-09-29T21:50:18.001513-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -227,6 +227,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; tweet is a conversational reply about trade entry methodology for Failed Breakdowns, with no actionable prices named."
+    },
+    {
+      "tweet_id": "2105110667485225097",
+      "timestamp_utc": "2026-09-30T01:41:08.000Z",
+      "timestamp_est": "2026-09-29T21:41:08-04:00",
+      "tweet_text": "@octoptionist A Failed Breakdown is based on a significant low being there. A major level is a support (big horizontal level, channel support etc). They don't always line up exactly. Sometimes we will bounce at a major like 7725, sweep it to set a major low at 7715, then that 7715 low will be",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Explanatory reply defining FBD concept; 7725 is a morning plan level, 7715 is used as a hypothetical example, not an actionable new level."
     }
   ]
 }
