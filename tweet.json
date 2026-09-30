@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T18:53:03.216316+00:00",
-  "fetched_at_est": "2026-09-30T14:53:03.216322-04:00",
+  "fetched_at_utc": "2026-09-30T19:03:08.400305+00:00",
+  "fetched_at_est": "2026-09-30T15:03:08.400310-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105010066197741953",
-      "timestamp_utc": "2026-09-29T19:01:23.000Z",
-      "timestamp_est": "2026-09-29T15:01:23-04:00",
-      "tweet_text": "@noonelikeme81 @OnTheHooch I've said this everytime when asked for years, but we are in a bull market. Trend is firmly up, we are above the 50dma's, 200dmas, those averages are above each other, we have lost no structures. There is no reason to be anything but 100% bullish until those things change. Within",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary on bull market conditions; no specific price level named or made actionable."
-    },
-    {
-      "tweet_id": "2105010263531352486",
-      "timestamp_utc": "2026-09-29T19:02:10.000Z",
-      "timestamp_est": "2026-09-29T15:02:10-04:00",
-      "tweet_text": "@noonelikeme81 @OnTheHooch Don't need to overcomplicate the trend!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply with no price named and no actionable level of any kind."
-    },
     {
       "tweet_id": "2105011299633787246",
       "timestamp_utc": "2026-09-29T19:06:17.000Z",
@@ -167,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management/process commentary; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2105370407931097170",
+      "timestamp_utc": "2026-09-30T18:53:15.000Z",
+      "timestamp_est": "2026-09-30T14:53:15-04:00",
+      "tweet_text": "@AStendorr For bulls the best situation is always a selloff. In the context we are in every elevator down adds points to the next leg up which is already in the hundreds of points",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market context and general bull thesis; no specific actionable price level named or implied."
     }
   ]
 }
