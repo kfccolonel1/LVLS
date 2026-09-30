@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-09-30T11:41:16.576396+00:00",
-  "fetched_at_est": "2026-09-30T07:41:16.576404-04:00",
+  "fetched_at_utc": "2026-09-30T11:51:25.913965+00:00",
+  "fetched_at_est": "2026-09-30T07:51:25.913974-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -236,6 +236,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named at all; tweet is a meta-comment about newsletter vs. public detail. Zero actionable levels mentioned."
+    },
+    {
+      "tweet_id": "2105261796710125825",
+      "timestamp_utc": "2026-09-30T11:41:40.000Z",
+      "timestamp_est": "2026-09-30T07:41:40-04:00",
+      "tweet_text": "@305HRHitter Not a problem!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a casual social reply with no price levels, no actionable language, and no market content whatsoever."
+    },
+    {
+      "tweet_id": "2105263445704847636",
+      "timestamp_utc": "2026-09-30T11:48:14.000Z",
+      "timestamp_est": "2026-09-30T07:48:14-04:00",
+      "tweet_text": "@JanHammer82 Its all very used up now. Ideal would be to see (as usual) a big *elevator down* to give us volatility for another move.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary about volatility/price action; no specific price level named or labeled as actionable."
+    },
+    {
+      "tweet_id": "2105263624646430771",
+      "timestamp_utc": "2026-09-30T11:48:56.000Z",
+      "timestamp_est": "2026-09-30T07:48:56-04:00",
+      "tweet_text": "@AStendorr We always hope for downward moves and volatlity (since thats what generates trades) but can't predict",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about volatility preferences; no price mentioned, no actionable level named."
     }
   ]
 }
