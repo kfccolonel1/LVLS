@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T22:47:30.158543+00:00",
-  "fetched_at_est": "2026-10-01T18:47:30.158549-04:00",
+  "fetched_at_utc": "2026-10-01T23:47:39.248359+00:00",
+  "fetched_at_est": "2026-10-01T19:47:39.248364-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -203,6 +203,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named; purely conversational reply about trade management style and point ranges. No actionable level introduced."
+    },
+    {
+      "tweet_id": "2105806631652995547",
+      "timestamp_utc": "2026-10-01T23:46:39.000Z",
+      "timestamp_est": "2026-10-01T19:46:39-04:00",
+      "tweet_text": "@EStrader33 I missed it!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to another user expressing regret; no price, no actionable level, no naming language whatsoever."
     }
   ]
 }
