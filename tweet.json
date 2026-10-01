@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T17:46:54.119259+00:00",
-  "fetched_at_est": "2026-10-01T13:46:54.119264-04:00",
+  "fetched_at_utc": "2026-10-01T18:16:58.568241+00:00",
+  "fetched_at_est": "2026-10-01T14:16:58.568247-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105359588002328597",
-      "timestamp_utc": "2026-09-30T18:10:16.000Z",
-      "timestamp_est": "2026-09-30T14:10:16-04:00",
-      "tweet_text": "@KrisKrosTrading Its just a backtest point. Price will get there when it gets there we don't predict pathways. Just hold runner until the next deep *elevator down* and then repeat the process. Same thing everyday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management/process commentary; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2105370407931097170",
       "timestamp_utc": "2026-09-30T18:53:15.000Z",
