@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T15:26:17.290469+00:00",
-  "fetched_at_est": "2026-10-01T11:26:17.290475-04:00",
+  "fetched_at_utc": "2026-10-01T16:06:22.152929+00:00",
+  "fetched_at_est": "2026-10-01T12:06:22.152934-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105326524467728590",
-      "timestamp_utc": "2026-09-30T15:58:53.000Z",
-      "timestamp_est": "2026-09-30T11:58:53-04:00",
-      "tweet_text": "We are entering the no volatility chop window now in #ES_F - do nothing here but ride runner. Today's target set off the 7736 reclaim or the 7725 reclaim were 7748, 7758, 7770, 7781 (exact high of day).\n\n7802 is next, then 7822. 7867 remains the next magnet per newsletter https://t.co/lfEz2eNnJP",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7748, 7758, 7781, 7802\u22487803, 7822, 7867) are morning-plan levels or hindsight recaps. 7770 is a casual observation of HOD, not newly named."
-    },
     {
       "tweet_id": "2105353447457648853",
       "timestamp_utc": "2026-09-30T17:45:52.000Z",
