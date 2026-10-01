@@ -1,47 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T11:44:55.297281+00:00",
-  "fetched_at_est": "2026-10-01T07:44:55.297288-04:00",
+  "fetched_at_utc": "2026-10-01T11:55:02.728238+00:00",
+  "fetched_at_est": "2026-10-01T07:55:02.728283-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105263445704847636",
-      "timestamp_utc": "2026-09-30T11:48:14.000Z",
-      "timestamp_est": "2026-09-30T07:48:14-04:00",
-      "tweet_text": "@JanHammer82 Its all very used up now. Ideal would be to see (as usual) a big *elevator down* to give us volatility for another move.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary about volatility/price action; no specific price level named or labeled as actionable."
-    },
-    {
-      "tweet_id": "2105263624646430771",
-      "timestamp_utc": "2026-09-30T11:48:56.000Z",
-      "timestamp_est": "2026-09-30T07:48:56-04:00",
-      "tweet_text": "@AStendorr We always hope for downward moves and volatlity (since thats what generates trades) but can't predict",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about volatility preferences; no price mentioned, no actionable level named."
-    },
-    {
-      "tweet_id": "2105264745251000790",
-      "timestamp_utc": "2026-09-30T11:53:23.000Z",
-      "timestamp_est": "2026-09-30T07:53:23-04:00",
-      "tweet_text": "@AStendorr Not for day traders. A couple hundred point move up would mean very few setups. The initial Failed Breakdown to trigger it, then probably only one setup every couple days",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user discussing hypothetical multi-day move; no actionable price named, only conceptual commentary about trade frequency."
-    },
-    {
-      "tweet_id": "2105264930073239738",
-      "timestamp_utc": "2026-09-30T11:54:07.000Z",
-      "timestamp_est": "2026-09-30T07:54:07-04:00",
-      "tweet_text": "@AStendorr Runners do contribute and are nice, but doesn't replace having to go a few days at a time with no setups.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading psychology/runners; no price levels named or implied."
-    },
     {
       "tweet_id": "2105278058798420007",
       "timestamp_utc": "2026-09-30T12:46:18.000Z",
@@ -140,6 +104,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user commenting on a Failed Breakdown \u2014 no price named, purely conversational observation with no actionable level."
+    },
+    {
+      "tweet_id": "2105626353756156077",
+      "timestamp_utc": "2026-10-01T11:50:18.000Z",
+      "timestamp_est": "2026-10-01T07:50:18-04:00",
+      "tweet_text": "We've been getting a goldmine of Failed Breakdown longs in #ES_F. Per newsletter (sent at 3pm yesterday). Reclaims of 7720 triggered us up. We sold at 4pm to 7704 at 4pm, trapped bears, reclaimed 20, went to 7768. Just got it again\n\nPlan: Ride runner now. 7748, 7758, 7782 next https://t.co/Omycu6AtSi",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7748 and 7782 are morning-plan levels; 7758 is a target but not named with qualifying language as a new major level; rest is trade recap/management."
+    },
+    {
+      "tweet_id": "2105626589145010431",
+      "timestamp_utc": "2026-10-01T11:51:14.000Z",
+      "timestamp_est": "2026-10-01T07:51:14-04:00",
+      "tweet_text": "@justjay_s @TheHealingTrade Yes some have complained about me sending it early but makes no difference and often times we get good setups before the close that people would miss if I didn't send early!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Purely conversational reply about newsletter timing; no price levels named or actionable context whatsoever."
     }
   ]
 }
