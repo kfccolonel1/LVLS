@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T17:26:42.420764+00:00",
-  "fetched_at_est": "2026-10-01T13:26:42.420770-04:00",
+  "fetched_at_utc": "2026-10-01T17:36:51.781727+00:00",
+  "fetched_at_est": "2026-10-01T13:36:51.781737-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -239,6 +239,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary describing price action pattern; no specific price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2105710987680563558",
+      "timestamp_utc": "2026-10-01T17:26:36.000Z",
+      "timestamp_est": "2026-10-01T13:26:36-04:00",
+      "tweet_text": "Great follow through and its been routine trading last 24hrs. #ES_F follows the same cycle that newsletter readers know well: Elevator down, bear trap, Failed Breakdown, squeeze. Never changes\n\n7681 was support. Held. 7707 was res that had to reclaim. We did. Targets were 7725 https://t.co/IxQiDH2ITL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7681, 7707, 7725) are in the morning plan. Tweet is hindsight narration of how plan played out, no new actionable levels named."
+    },
+    {
+      "tweet_id": "2105711697256210575",
+      "timestamp_utc": "2026-10-01T17:29:25.000Z",
+      "timestamp_est": "2026-10-01T13:29:25-04:00",
+      "tweet_text": "@kevinc2114 For the last 24hrs at least! Still been slowish",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market pace, no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2105712189050884370",
+      "timestamp_utc": "2026-10-01T17:31:22.000Z",
+      "timestamp_est": "2026-10-01T13:31:22-04:00",
+      "tweet_text": "@DBKrypto I long them all and keep the runner. When volatility is good though most of them squeeze a good 30-70 points",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named; purely conversational reply about trade management style and point ranges. No actionable level introduced."
     }
   ]
 }
