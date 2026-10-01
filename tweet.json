@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T19:47:09.682574+00:00",
-  "fetched_at_est": "2026-10-01T15:47:09.682579-04:00",
+  "fetched_at_utc": "2026-10-01T20:27:14.596424+00:00",
+  "fetched_at_est": "2026-10-01T16:27:14.596431-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105392593152413941",
-      "timestamp_utc": "2026-09-30T20:21:25.000Z",
-      "timestamp_est": "2026-09-30T16:21:25-04:00",
-      "tweet_text": "@NYJets2017 Discussed that setup in newsletter!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to a user referencing newsletter content; no price levels named, no actionable language, purely conversational."
-    },
     {
       "tweet_id": "2105427839780622562",
       "timestamp_utc": "2026-09-30T22:41:28.000Z",
