@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T20:27:14.596424+00:00",
-  "fetched_at_est": "2026-10-01T16:27:14.596431-04:00",
+  "fetched_at_utc": "2026-10-01T22:47:30.158543+00:00",
+  "fetched_at_est": "2026-10-01T18:47:30.158549-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105427839780622562",
-      "timestamp_utc": "2026-09-30T22:41:28.000Z",
-      "timestamp_est": "2026-09-30T18:41:28-04:00",
-      "tweet_text": "@TheHealingTrade It aged well - we hit 4/5 targets for the day. Work was done for the day early this morning and nothing to do but hold a runner for higher targets. We even got another long per newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named at all; purely a hindsight recap of hitting targets and holding a runner. No actionable levels introduced."
-    },
-    {
-      "tweet_id": "2105427967656546496",
-      "timestamp_utc": "2026-09-30T22:41:59.000Z",
-      "timestamp_est": "2026-09-30T18:41:59-04:00",
-      "tweet_text": "@OnTheHooch Good Failed Breakdown!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user commenting on a Failed Breakdown \u2014 no price named, purely conversational observation with no actionable level."
-    },
     {
       "tweet_id": "2105626353756156077",
       "timestamp_utc": "2026-10-01T11:50:18.000Z",
