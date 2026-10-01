@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T18:16:58.568241+00:00",
-  "fetched_at_est": "2026-10-01T14:16:58.568247-04:00",
+  "fetched_at_utc": "2026-10-01T18:57:03.725305+00:00",
+  "fetched_at_est": "2026-10-01T14:57:03.725311-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105370407931097170",
-      "timestamp_utc": "2026-09-30T18:53:15.000Z",
-      "timestamp_est": "2026-09-30T14:53:15-04:00",
-      "tweet_text": "@AStendorr For bulls the best situation is always a selloff. In the context we are in every elevator down adds points to the next leg up which is already in the hundreds of points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about market context and general bull thesis; no specific actionable price level named or implied."
-    },
     {
       "tweet_id": "2105382874362913185",
       "timestamp_utc": "2026-09-30T19:42:48.000Z",
