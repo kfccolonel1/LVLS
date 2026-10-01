@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T13:55:38.223598+00:00",
-  "fetched_at_est": "2026-10-01T09:55:38.223603-04:00",
+  "fetched_at_utc": "2026-10-01T14:15:46.317770+00:00",
+  "fetched_at_est": "2026-10-01T10:15:46.317785-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -158,6 +158,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Hindsight reference to 7720 reclaim from newsletter; 7720 is already a morning-plan level. No new actionable level named."
+    },
+    {
+      "tweet_id": "2105661083394437439",
+      "timestamp_utc": "2026-10-01T14:08:18.000Z",
+      "timestamp_est": "2026-10-01T10:08:18-04:00",
+      "tweet_text": "The past 24hrs have been a goldmine for Failed Breakdowns as that 7720 zone pays over and over. Per newsletter 3pm, reclaims trigger up and we went to 7768+. Same cycle, \"elevator down\", failed breakdown, squeeze.\n\n7707 reclaims now to rally again to 7725, 7736, 7748+ https://t.co/g4CfRXLm4Z",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7720, 7707, 7725, 7736, 7748) are in the morning plan or are observations/reaffirmations of existing levels. 7768 is a hindsight reference."
+    },
+    {
+      "tweet_id": "2105661260821913932",
+      "timestamp_utc": "2026-10-01T14:09:00.000Z",
+      "timestamp_est": "2026-10-01T10:09:00-04:00",
+      "tweet_text": "@alexvegaaa Was a big one!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned, purely conversational."
     }
   ]
 }
