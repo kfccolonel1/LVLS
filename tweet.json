@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T14:25:53.343561+00:00",
-  "fetched_at_est": "2026-10-01T10:25:53.343567-04:00",
+  "fetched_at_utc": "2026-10-01T14:35:58.698262+00:00",
+  "fetched_at_est": "2026-10-01T10:35:58.698269-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user with no price levels mentioned; purely conversational commentary about a trade hold."
+    },
+    {
+      "tweet_id": "2105666506713342036",
+      "timestamp_utc": "2026-10-01T14:29:51.000Z",
+      "timestamp_est": "2026-10-01T10:29:51-04:00",
+      "tweet_text": "Note: Per newsletter - 7681 is support which held nicely. Watch for other nearby triggers. I will not be including supports here on Twitter as much as engagement is too low relative to amount of people viewing and its not fair for people who pay for newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7681 is a morning-plan level (reaffirmation). No new actionable prices named; tweet is commentary about support holding and a policy note about Twitter sharing."
     }
   ]
 }
