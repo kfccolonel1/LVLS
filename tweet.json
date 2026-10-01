@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T01:44:03.572415+00:00",
-  "fetched_at_est": "2026-09-30T21:44:03.572422-04:00",
+  "fetched_at_utc": "2026-10-01T11:44:55.297281+00:00",
+  "fetched_at_est": "2026-10-01T07:44:55.297288-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105260242548482294",
-      "timestamp_utc": "2026-09-30T11:35:30.000Z",
-      "timestamp_est": "2026-09-30T07:35:30-04:00",
-      "tweet_text": "Chop remains in #ES_F, don't force action in this low volatility noise. We got a great late day trade though. Per final tweet/newsletter, 7725 recoveries target 7748, 7758 magnet. We hit 7748, 7757 last eve, dipped\n\nPlan: 7725/7716=supports. 36 reclaims with force see 48, 58, 70+ https://t.co/I9ofRdi9oh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7725, 7716, 7736, 7748, 7758, 7770) are in morning plan or reaffirmations of existing levels; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2105261352277418328",
-      "timestamp_utc": "2026-09-30T11:39:54.000Z",
-      "timestamp_est": "2026-09-30T07:39:54-04:00",
-      "tweet_text": "@atlasbtcgrowth I discuss in newsletter. I'm not providing as much detail here anymore. Just the basic initial levels and all the lower targets/sell triggers/core long triggers are in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named at all; tweet is a meta-comment about newsletter vs. public detail. Zero actionable levels mentioned."
-    },
-    {
-      "tweet_id": "2105261796710125825",
-      "timestamp_utc": "2026-09-30T11:41:40.000Z",
-      "timestamp_est": "2026-09-30T07:41:40-04:00",
-      "tweet_text": "@305HRHitter Not a problem!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a casual social reply with no price levels, no actionable language, and no market content whatsoever."
-    },
     {
       "tweet_id": "2105263445704847636",
       "timestamp_utc": "2026-09-30T11:48:14.000Z",
