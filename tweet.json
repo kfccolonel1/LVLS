@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T13:15:30.242306+00:00",
-  "fetched_at_est": "2026-10-01T09:15:30.242311-04:00",
+  "fetched_at_utc": "2026-10-01T13:55:38.223598+00:00",
+  "fetched_at_est": "2026-10-01T09:55:38.223603-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105294181866295551",
-      "timestamp_utc": "2026-09-30T13:50:22.000Z",
-      "timestamp_est": "2026-09-30T09:50:22-04:00",
-      "tweet_text": "We are back to the 7758 magnet in #ES_F and nothing to do now but ride runner for more upside. 7736 reclaim was long entry given at 8am though longs were still working from the 7725 reclaim yesterday.\n\nTargets were 7748 (hit), 7758 (hit). 7770, 7781, 7803 are next up. Same https://t.co/wb0Qea3eoh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7758, 7736, 7725, 7748, 7770, 7781, 7803) are morning-plan levels or observations of price action/trade management. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2105317170565480743",
       "timestamp_utc": "2026-09-30T15:21:43.000Z",
@@ -158,6 +149,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7720 is morning plan level; 7748/7782 are morning plan levels; 7758 is a reaffirmation/directional list with no new naming language. 7704 is an observation of price action."
+    },
+    {
+      "tweet_id": "2105657238022959157",
+      "timestamp_utc": "2026-10-01T13:53:01.000Z",
+      "timestamp_est": "2026-10-01T09:53:01-04:00",
+      "tweet_text": "@Simone220585331 The 7720 reclaim was in the newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Hindsight reference to 7720 reclaim from newsletter; 7720 is already a morning-plan level. No new actionable level named."
     }
   ]
 }
