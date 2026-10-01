@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T14:56:10.993612+00:00",
-  "fetched_at_est": "2026-10-01T10:56:10.993627-04:00",
+  "fetched_at_utc": "2026-10-01T15:26:17.290469+00:00",
+  "fetched_at_est": "2026-10-01T11:26:17.290475-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105317170565480743",
-      "timestamp_utc": "2026-09-30T15:21:43.000Z",
-      "timestamp_est": "2026-09-30T11:21:43-04:00",
-      "tweet_text": "We are running the targets nicely in #ES_F. 7736 reclaim was last long trigger given (newsletter readers got lower entries). Targets for the day were given at 8am: 7748 (hit), 7758 (hit), 7770 (hit), 7781 (exact high of day so far).\n\n7803 is next, then 7822. Just ride your runner https://t.co/wb0Qea3eoh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7748, 7758, 7781, 7803, 7822) are in the morning plan or observations of hits. 7770 not in plan but framed as already-given target, not newly named here."
-    },
     {
       "tweet_id": "2105326524467728590",
       "timestamp_utc": "2026-09-30T15:58:53.000Z",
@@ -221,6 +212,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7681, 7707, 7725, 7736, 7748, 7782+) are already in the morning plan; tweet is reaffirmation of existing levels with trade observation."
+    },
+    {
+      "tweet_id": "2105678363138408454",
+      "timestamp_utc": "2026-10-01T15:16:58.000Z",
+      "timestamp_est": "2026-10-01T11:16:58-04:00",
+      "tweet_text": "@Alvi72220 Elevator down, then squeeze. Its how ES operates",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market behavior commentary ('elevator down, then squeeze') with no actionable price level named."
     }
   ]
 }
