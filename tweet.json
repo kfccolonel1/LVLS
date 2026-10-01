@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T18:57:03.725305+00:00",
-  "fetched_at_est": "2026-10-01T14:57:03.725311-04:00",
+  "fetched_at_utc": "2026-10-01T19:47:09.682574+00:00",
+  "fetched_at_est": "2026-10-01T15:47:09.682579-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2105382874362913185",
-      "timestamp_utc": "2026-09-30T19:42:48.000Z",
-      "timestamp_est": "2026-09-30T15:42:48-04:00",
-      "tweet_text": "Closing update ##ES_F: Straightforward session. Targets were 7748, 7758, 7771, 7781 (all hit). Just 7802 above then onto next slate of Targets. Newsletter sent earlier with next entries for any \"elevator down\" moves tonight or tomorrow",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7748, 7758, 7781 are morning-plan levels; 7771 and 7802 appear as targets hit/referenced in hindsight/closing summary, not newly named actionable levels."
-    },
     {
       "tweet_id": "2105392593152413941",
       "timestamp_utc": "2026-09-30T20:21:25.000Z",
