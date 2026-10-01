@@ -3,13 +3,13 @@
   "daily_pivot": 7716.0,
   "regime_hint": "C2",
   "significant_lows": [
-    7748.0,
-    7736.0,
-    7720.0,
     7716.0,
+    7720.0,
     7707.0,
     7681.0,
-    7674.0
+    7674.0,
+    7655.0,
+    7616.0
   ],
   "bull_levels": [
     {
@@ -97,6 +97,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish, holding a runner from the 7716 failed-breakdown long set Tuesday. He leans toward a push up to 7795, then 7822, then 7867 as the main magnet. He will wait for dips and failed-breakdown setups rather than chasing. Key pivot is 7716: above it bulls are in control and the upside targets are in play; below it the bull case breaks down and a short setup opens up.",
-  "fetched_at": "2026-09-30T21:26:34.475299+00:00"
+  "notes": "Trader leans bullish, holding a runner from Tuesday's 7716 failed-breakdown long. The plan is to wait for dips and buy failed breakdowns at key supports \u2014 ideally 7736-7748 area \u2014 targeting 7795 first, then 7822 and ultimately 7867. The key pivot is 7716: above it bulls are in control and a push higher is expected; below it the trend turns bearish and breakdown shorts become possible.",
+  "fetched_at": "2026-10-01T01:00:21.221144+00:00"
 }
