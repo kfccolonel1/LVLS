@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T14:59:34.931648+00:00",
-  "fetched_at_est": "2026-10-02T10:59:34.931665-04:00",
+  "fetched_at_utc": "2026-10-02T15:19:44.339303+00:00",
+  "fetched_at_est": "2026-10-02T11:19:44.339316-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105678363138408454",
-      "timestamp_utc": "2026-10-01T15:16:58.000Z",
-      "timestamp_est": "2026-10-01T11:16:58-04:00",
-      "tweet_text": "@Alvi72220 Elevator down, then squeeze. Its how ES operates",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market behavior commentary ('elevator down, then squeeze') with no actionable price level named."
-    },
     {
       "tweet_id": "2105696598625783988",
       "timestamp_utc": "2026-10-01T16:29:25.000Z",
@@ -150,6 +141,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7707, 7668, 7780, 7792, 7823, 7768, 7748) are morning-plan levels or trade management/hindsight references. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2106039829783830977",
+      "timestamp_utc": "2026-10-02T15:13:18.000Z",
+      "timestamp_est": "2026-10-02T11:13:18-04:00",
+      "tweet_text": "Little do now in #ES_F and we went +100 cleanly from yesterday's 7707 Failed Breakdown long. ES follows the same cycle, for 100 years: Elevator down, Failed Breakdown/bear trap/short squeeze. Today's targets were 7768 (hit), 7780 (hit), 7792 (hit), 7823.\n\n7768, 7749=supports https://t.co/I6SNXOMmZW",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7768 and 7749 listed as 'supports' but 7768 is already in morning plan and 7749 is a reaffirmation/observation post-move, no new actionable naming language for novel levels."
+    },
+    {
+      "tweet_id": "2106040683618254983",
+      "timestamp_utc": "2026-10-02T15:16:41.000Z",
+      "timestamp_est": "2026-10-02T11:16:41-04:00",
+      "tweet_text": "@DCdude69 Its not bad but nothing id personally take until we get a deep elevator down",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no price named; 'deep elevator down' is directional commentary only, not an actionable level."
     }
   ]
 }
