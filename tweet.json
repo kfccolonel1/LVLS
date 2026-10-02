@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T12:08:51.992325+00:00",
-  "fetched_at_est": "2026-10-02T08:08:51.992330-04:00",
+  "fetched_at_utc": "2026-10-02T12:18:54.396475+00:00",
+  "fetched_at_est": "2026-10-02T08:18:54.396482-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105632078733722093",
-      "timestamp_utc": "2026-10-01T12:13:02.000Z",
-      "timestamp_est": "2026-10-01T08:13:02-04:00",
-      "tweet_text": "@305HRHitter @TimePriceAction I don't! If it flushes a significant low, recovers, hits the entry trigger one can just react with a long. No predicting needed. I also never short under any circumstance so I don't need to worry about being trapped short",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading methodology; no specific price levels named or actionable triggers identified."
-    },
     {
       "tweet_id": "2105634232743743773",
       "timestamp_utc": "2026-10-01T12:21:36.000Z",
