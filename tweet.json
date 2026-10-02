@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T12:28:56.863417+00:00",
-  "fetched_at_est": "2026-10-02T08:28:56.863423-04:00",
+  "fetched_at_utc": "2026-10-02T12:39:03.984607+00:00",
+  "fetched_at_est": "2026-10-02T08:39:03.984616-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -195,6 +195,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply; no price levels named, just commentary about market behavior and trade opportunities."
+    },
+    {
+      "tweet_id": "2106000118574878794",
+      "timestamp_utc": "2026-10-02T12:35:30.000Z",
+      "timestamp_est": "2026-10-02T08:35:30-04:00",
+      "tweet_text": "All targets almost done. Hopefully the cycle in #ES_F is now clear. Yesterday we went \"elevator down\" to 7674. When this happens - 100% of the time - we squeeze on Failed Breakdown &amp; trap bears. 7707 reclaim was our long trigger ystd\n\nToday's targets were 7668 (hit), 7780 (hit), https://t.co/1XrDvyhzqG",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7674, 7707, 7668, 7780) are morning-plan levels or hindsight references to yesterday's action; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2106000720449450457",
+      "timestamp_utc": "2026-10-02T12:37:54.000Z",
+      "timestamp_est": "2026-10-02T08:37:54-04:00",
+      "tweet_text": "As I noted in numerous comments yesterday and in my tweets and in newsletter, it is a *law* in ES that whenever there is a vertical elevator down sell where all supports melt, we get a proportionate squeeze on an FBD https://t.co/sJdW19LNnG",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels named at all; tweet is general commentary about ES market behavior (FBD squeeze after vertical sell-off) with no actionable prices."
     }
   ]
 }
