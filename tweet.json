@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T18:50:25.234796+00:00",
-  "fetched_at_est": "2026-10-02T14:50:25.234801-04:00",
+  "fetched_at_utc": "2026-10-02T19:00:50.817471+00:00",
+  "fetched_at_est": "2026-10-02T15:00:50.817482-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -132,6 +132,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about bull market dynamics; no specific price level named or actionable signal given."
+    },
+    {
+      "tweet_id": "2106094651409342646",
+      "timestamp_utc": "2026-10-02T18:51:08.000Z",
+      "timestamp_est": "2026-10-02T14:51:08-04:00",
+      "tweet_text": "Work has been done since this morning but levels working well in #ES_F. We ran 100 points from the 7707 Failed Breakdown yesterday, hitting 3/4 targets today (7768, 7780, 7792, 7823).\n\n7768 was support and we've been here for hours. Bulls want to hold this ideally https://t.co/QdtDQ3Y2Wq",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7707, 7768, 7780, 7792, 7823 are all observations of prior targets hit or morning-plan levels; 7768 support mention is reaffirmation, not a new actionable level."
+    },
+    {
+      "tweet_id": "2106094878132166912",
+      "timestamp_utc": "2026-10-02T18:52:02.000Z",
+      "timestamp_est": "2026-10-02T14:52:02-04:00",
+      "tweet_text": "@coleridge8264 Would be a dangerous \"level reclaim\" because 7707 was just above there. Would be longing right into a resistance. 7674 Failed Breakdown was the best entry hyesterday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7707 and 7674 are both morning-plan levels; tweet is hindsight commentary on yesterday's FBD entry, not a new actionable level."
     }
   ]
 }
