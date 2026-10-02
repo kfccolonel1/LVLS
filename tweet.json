@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T13:09:10.507835+00:00",
-  "fetched_at_est": "2026-10-02T09:09:10.507841-04:00",
+  "fetched_at_utc": "2026-10-02T13:19:13.003623+00:00",
+  "fetched_at_est": "2026-10-02T09:19:13.003631-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105647085798474044",
-      "timestamp_utc": "2026-10-01T13:12:40.000Z",
-      "timestamp_est": "2026-10-01T09:12:40-04:00",
-      "tweet_text": "Its been incredible trading in #ES_F. 7720 Failed Breakdown was sent at 3pm yesterday in newsletter. We went \"elevator down* at 345PM to 7704, trapped bears under the 7720 low, recovered, and ran. Same thing everyday in ES. Now, just ride runner\n\n7748, 7758, 7782 next https://t.co/2xxiKczgvb",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7720 is morning plan level; 7748/7782 are morning plan levels; 7758 is a reaffirmation/directional list with no new naming language. 7704 is an observation of price action."
-    },
     {
       "tweet_id": "2105657238022959157",
       "timestamp_utc": "2026-10-01T13:53:01.000Z",
