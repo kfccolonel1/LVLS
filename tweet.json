@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T17:30:10.198401+00:00",
-  "fetched_at_est": "2026-10-02T13:30:10.198407-04:00",
+  "fetched_at_utc": "2026-10-02T17:40:13.138189+00:00",
+  "fetched_at_est": "2026-10-02T13:40:13.138196-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105712189050884370",
-      "timestamp_utc": "2026-10-01T17:31:22.000Z",
-      "timestamp_est": "2026-10-01T13:31:22-04:00",
-      "tweet_text": "@DBKrypto I long them all and keep the runner. When volatility is good though most of them squeeze a good 30-70 points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named; purely conversational reply about trade management style and point ranges. No actionable level introduced."
-    },
     {
       "tweet_id": "2105806631652995547",
       "timestamp_utc": "2026-10-01T23:46:39.000Z",
