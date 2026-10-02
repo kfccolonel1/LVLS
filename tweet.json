@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T16:09:57.639385+00:00",
-  "fetched_at_est": "2026-10-02T12:09:57.639391-04:00",
+  "fetched_at_utc": "2026-10-02T16:30:00.848882+00:00",
+  "fetched_at_est": "2026-10-02T12:30:00.848888-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105696598625783988",
-      "timestamp_utc": "2026-10-01T16:29:25.000Z",
-      "timestamp_est": "2026-10-01T12:29:25-04:00",
-      "tweet_text": "Levels respecting well in #ES_F but we are now into low vol mid day chop. 7681 was support and weve held it for nearly 2hrs now. 7707 is resistance as posted (held exact) and that needs to recover to rip us back to 7725, 7736, 7748+.\n\n7681 remains support https://t.co/DQe8jdTCSL",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7681, 7707, 7725, 7736, 7748) are in today's morning plan. Tweet is a reaffirmation of existing levels, not new ones."
-    },
     {
       "tweet_id": "2105707298266235152",
       "timestamp_utc": "2026-10-01T17:11:56.000Z",
