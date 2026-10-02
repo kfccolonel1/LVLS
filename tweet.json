@@ -1,38 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-01T23:47:39.248359+00:00",
-  "fetched_at_est": "2026-10-01T19:47:39.248364-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-10-02T11:58:46.951278+00:00",
+  "fetched_at_est": "2026-10-02T07:58:46.951290-04:00",
+  "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7780.0,
+      "side": "bull",
+      "added_at_est": "2026-10-02T07:53:17-04:00",
+      "expires_at_est": "2026-10-02T15:53:17-04:00",
+      "from_tweet_id": "2105989496080576514"
+    }
+  ],
   "updates": [
-    {
-      "tweet_id": "2105626353756156077",
-      "timestamp_utc": "2026-10-01T11:50:18.000Z",
-      "timestamp_est": "2026-10-01T07:50:18-04:00",
-      "tweet_text": "We've been getting a goldmine of Failed Breakdown longs in #ES_F. Per newsletter (sent at 3pm yesterday). Reclaims of 7720 triggered us up. We sold at 4pm to 7704 at 4pm, trapped bears, reclaimed 20, went to 7768. Just got it again\n\nPlan: Ride runner now. 7748, 7758, 7782 next https://t.co/Omycu6AtSi",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7748 and 7782 are morning-plan levels; 7758 is a target but not named with qualifying language as a new major level; rest is trade recap/management."
-    },
-    {
-      "tweet_id": "2105626589145010431",
-      "timestamp_utc": "2026-10-01T11:51:14.000Z",
-      "timestamp_est": "2026-10-01T07:51:14-04:00",
-      "tweet_text": "@justjay_s @TheHealingTrade Yes some have complained about me sending it early but makes no difference and often times we get good setups before the close that people would miss if I didn't send early!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Purely conversational reply about newsletter timing; no price levels named or actionable context whatsoever."
-    },
-    {
-      "tweet_id": "2105627511220736426",
-      "timestamp_utc": "2026-10-01T11:54:53.000Z",
-      "timestamp_est": "2026-10-01T07:54:53-04:00",
-      "tweet_text": "@Mcloud4004 The ~4pm yesterday one was available!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user about yesterday's timing \u2014 no price named, no actionable level, pure conversational response."
-    },
     {
       "tweet_id": "2105630471170175405",
       "timestamp_utc": "2026-10-01T12:06:39.000Z",
@@ -212,6 +193,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to another user expressing regret; no price, no actionable level, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2105989496080576514",
+      "timestamp_utc": "2026-10-02T11:53:17.000Z",
+      "timestamp_est": "2026-10-02T07:53:17-04:00",
+      "tweet_text": "Perfect follow through. Per many tweets here + newsletter, 7707 recovery was our long trigger ystd. Targets were 7725 (hit), 7736 (hit), 7748 (hit). Same daily in ES: Elevator down, trap bears, failed breakdown, squeeze\n\nPlan now: Ride runner. 7768, react, 7780, 7792, 7823 next. https://t.co/yDMlVnwuPs",
+      "added_bull_levels": [
+        7780.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7780 named as next reaction target in sequence ('7780' between published 7768 and 7792) \u2014 not in morning plan. All others (7768, 7792, 7823) are reaffirmations."
+    },
+    {
+      "tweet_id": "2105989747969802671",
+      "timestamp_utc": "2026-10-02T11:54:17.000Z",
+      "timestamp_est": "2026-10-02T07:54:17-04:00",
+      "tweet_text": "Note: Its the same routine daily in ES. Now that we got our squeeze, we just ride runner. If we get another elevator down, then we engage the next Failed Breakdown (given in newsletter) for another squeeze and bear trap. If not, we just hold our runner all day",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/routine commentary. No new price levels named; references 'next FBD' generically without specifying a price."
     }
   ]
 }
