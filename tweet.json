@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T14:09:23.450859+00:00",
-  "fetched_at_est": "2026-10-02T10:09:23.450864-04:00",
+  "fetched_at_utc": "2026-10-02T14:29:27.016707+00:00",
+  "fetched_at_est": "2026-10-02T10:29:27.016713-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105664065678832054",
-      "timestamp_utc": "2026-10-01T14:20:09.000Z",
-      "timestamp_est": "2026-10-01T10:20:09-04:00",
-      "tweet_text": "@upandown007 I dont direct buy like that but held nicely!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user with no price levels mentioned; purely conversational commentary about a trade hold."
-    },
     {
       "tweet_id": "2105666506713342036",
       "timestamp_utc": "2026-10-01T14:29:51.000Z",
