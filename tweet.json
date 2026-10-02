@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T13:19:13.003623+00:00",
-  "fetched_at_est": "2026-10-02T09:19:13.003631-04:00",
+  "fetched_at_utc": "2026-10-02T13:59:17.838365+00:00",
+  "fetched_at_est": "2026-10-02T09:59:17.838371-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105657238022959157",
-      "timestamp_utc": "2026-10-01T13:53:01.000Z",
-      "timestamp_est": "2026-10-01T09:53:01-04:00",
-      "tweet_text": "@Simone220585331 The 7720 reclaim was in the newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Hindsight reference to 7720 reclaim from newsletter; 7720 is already a morning-plan level. No new actionable level named."
-    },
     {
       "tweet_id": "2105661083394437439",
       "timestamp_utc": "2026-10-01T14:08:18.000Z",
