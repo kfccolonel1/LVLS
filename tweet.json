@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T14:49:32.549591+00:00",
-  "fetched_at_est": "2026-10-02T10:49:32.549596-04:00",
+  "fetched_at_utc": "2026-10-02T14:59:34.931648+00:00",
+  "fetched_at_est": "2026-10-02T10:59:34.931665-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105671554679832576",
-      "timestamp_utc": "2026-10-01T14:49:54.000Z",
-      "timestamp_est": "2026-10-01T10:49:54-04:00",
-      "tweet_text": "@InstinctTrades Thats what it is! Supports become resistances when they are lost. Then we rip when it recovers",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "General market commentary about support/resistance dynamics; no specific price level named or actionable trigger identified."
-    },
-    {
-      "tweet_id": "2105673027354497232",
-      "timestamp_utc": "2026-10-01T14:55:45.000Z",
-      "timestamp_est": "2026-10-01T10:55:45-04:00",
-      "tweet_text": "Levels respecting well today in #ES_F and we are getting good two way volatility. 7681 support held. As posted 7707 had to reclaim to rally and we backtested it and dipped.\n\nThat must recover to ignite the next squeeze to 7725, 7736, 7748+ then ultimately to 780p+. Sell, &lt;7681 https://t.co/oP4EFtMZsQ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7681, 7707, 7725, 7736, 7748, 7782+) are already in the morning plan; tweet is reaffirmation of existing levels with trade observation."
-    },
     {
       "tweet_id": "2105678363138408454",
       "timestamp_utc": "2026-10-01T15:16:58.000Z",
