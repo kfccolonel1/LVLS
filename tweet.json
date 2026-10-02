@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T14:39:29.999461+00:00",
-  "fetched_at_est": "2026-10-02T10:39:29.999467-04:00",
+  "fetched_at_utc": "2026-10-02T14:49:32.549591+00:00",
+  "fetched_at_est": "2026-10-02T10:49:32.549596-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105669428763369925",
-      "timestamp_utc": "2026-10-01T14:41:27.000Z",
-      "timestamp_est": "2026-10-01T10:41:27-04:00",
-      "tweet_text": "@OnTheHooch Yes thats a good balance I think. Ill stick the core range/some reclaims levels",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply; no actionable price named, just a comment about sticking to existing range/reclaim levels."
-    },
     {
       "tweet_id": "2105671554679832576",
       "timestamp_utc": "2026-10-01T14:49:54.000Z",
