@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T12:18:54.396475+00:00",
-  "fetched_at_est": "2026-10-02T08:18:54.396482-04:00",
+  "fetched_at_utc": "2026-10-02T12:28:56.863417+00:00",
+  "fetched_at_est": "2026-10-02T08:28:56.863423-04:00",
   "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2105634232743743773",
-      "timestamp_utc": "2026-10-01T12:21:36.000Z",
-      "timestamp_est": "2026-10-01T08:21:36-04:00",
-      "tweet_text": "@OnTheHooch Very coiled now. Definitely have a large move loading likely to those magnets",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels named; purely observational commentary about coiling price action with no actionable number cited."
-    },
     {
       "tweet_id": "2105647085798474044",
       "timestamp_utc": "2026-10-01T13:12:40.000Z",
