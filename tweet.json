@@ -1,155 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-02T19:00:50.817471+00:00",
-  "fetched_at_est": "2026-10-02T15:00:50.817482-04:00",
-  "last_new_level_added_at_est": "2026-10-02T07:53:17-04:00",
-  "todays_new_levels": [
-    {
-      "price": 7780.0,
-      "side": "bull",
-      "added_at_est": "2026-10-02T07:53:17-04:00",
-      "expires_at_est": "2026-10-02T15:53:17-04:00",
-      "from_tweet_id": "2105989496080576514"
-    }
-  ],
+  "fetched_at_utc": "2026-10-04T13:57:40.534323+00:00",
+  "fetched_at_est": "2026-10-04T09:57:40.534332-04:00",
+  "last_new_level_added_at_est": "",
+  "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2105806631652995547",
-      "timestamp_utc": "2026-10-01T23:46:39.000Z",
-      "timestamp_est": "2026-10-01T19:46:39-04:00",
-      "tweet_text": "@EStrader33 I missed it!",
+      "tweet_id": "2106421711012815221",
+      "timestamp_utc": "2026-10-03T16:30:45.000Z",
+      "timestamp_est": "2026-10-03T12:30:45-04:00",
+      "tweet_text": "@noonelikeme81 @coleridge8264 Wednesday low of day and last Thursday low of day. I talk about it in newsletter",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Reply to another user expressing regret; no price, no actionable level, no naming language whatsoever."
-    },
-    {
-      "tweet_id": "2105989496080576514",
-      "timestamp_utc": "2026-10-02T11:53:17.000Z",
-      "timestamp_est": "2026-10-02T07:53:17-04:00",
-      "tweet_text": "Perfect follow through. Per many tweets here + newsletter, 7707 recovery was our long trigger ystd. Targets were 7725 (hit), 7736 (hit), 7748 (hit). Same daily in ES: Elevator down, trap bears, failed breakdown, squeeze\n\nPlan now: Ride runner. 7768, react, 7780, 7792, 7823 next. https://t.co/yDMlVnwuPs",
-      "added_bull_levels": [
-        7780.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7780 named as next reaction target in sequence ('7780' between published 7768 and 7792) \u2014 not in morning plan. All others (7768, 7792, 7823) are reaffirmations."
-    },
-    {
-      "tweet_id": "2105989747969802671",
-      "timestamp_utc": "2026-10-02T11:54:17.000Z",
-      "timestamp_est": "2026-10-02T07:54:17-04:00",
-      "tweet_text": "Note: Its the same routine daily in ES. Now that we got our squeeze, we just ride runner. If we get another elevator down, then we engage the next Failed Breakdown (given in newsletter) for another squeeze and bear trap. If not, we just hold our runner all day",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management/routine commentary. No new price levels named; references 'next FBD' generically without specifying a price."
-    },
-    {
-      "tweet_id": "2105992803339706692",
-      "timestamp_utc": "2026-10-02T12:06:26.000Z",
-      "timestamp_est": "2026-10-02T08:06:26-04:00",
-      "tweet_text": "@guns_samuel Yes that was fine. There were tons of good trades yesterday and ltos of options. Its because we went \"elevator down\". Whenever that happens there is a 100% chance we squeeze and we typically get a range of entry opportunities. Now though nothing to do!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply; no price levels named, just commentary about market behavior and trade opportunities."
-    },
-    {
-      "tweet_id": "2106000118574878794",
-      "timestamp_utc": "2026-10-02T12:35:30.000Z",
-      "timestamp_est": "2026-10-02T08:35:30-04:00",
-      "tweet_text": "All targets almost done. Hopefully the cycle in #ES_F is now clear. Yesterday we went \"elevator down\" to 7674. When this happens - 100% of the time - we squeeze on Failed Breakdown &amp; trap bears. 7707 reclaim was our long trigger ystd\n\nToday's targets were 7668 (hit), 7780 (hit), https://t.co/1XrDvyhzqG",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7674, 7707, 7668, 7780) are morning-plan levels or hindsight references to yesterday's action; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2106000720449450457",
-      "timestamp_utc": "2026-10-02T12:37:54.000Z",
-      "timestamp_est": "2026-10-02T08:37:54-04:00",
-      "tweet_text": "As I noted in numerous comments yesterday and in my tweets and in newsletter, it is a *law* in ES that whenever there is a vertical elevator down sell where all supports melt, we get a proportionate squeeze on an FBD https://t.co/sJdW19LNnG",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels named at all; tweet is general commentary about ES market behavior (FBD squeeze after vertical sell-off) with no actionable prices."
-    },
-    {
-      "tweet_id": "2106006611777163613",
-      "timestamp_utc": "2026-10-02T13:01:18.000Z",
-      "timestamp_est": "2026-10-02T09:01:18-04:00",
-      "tweet_text": "@tradivate Its why I trade ES, its the most predictable asset in the world. Literally just does the same sequences over and over and never changes except during rare once in every 5 year black swan events. Elevator down, trap bears, short squeeze on a Failed Breakdown. Evening rips typicaly",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure methodology commentary about ES trading patterns (FBD, evening rips). No price levels named, no actionable entries or targets mentioned."
-    },
-    {
-      "tweet_id": "2106021959016567007",
-      "timestamp_utc": "2026-10-02T14:02:17.000Z",
-      "timestamp_est": "2026-10-02T10:02:17-04:00",
-      "tweet_text": "Unfortunately nothing to do now in #ES_F but ride runner until or unless we go \"elevator down\" to trap bears again. 7707 reclaim was our last long ystd given live + in newsletter. Today's targets were 7668 (hit), 7780 (hit), 7792 (hit), 7823 final.\n\n7768, 7748 are supports https://t.co/ADD9JCYYVN",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7707, 7668, 7780, 7792, 7823, 7768, 7748) are morning-plan levels or trade management/hindsight references. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2106039829783830977",
-      "timestamp_utc": "2026-10-02T15:13:18.000Z",
-      "timestamp_est": "2026-10-02T11:13:18-04:00",
-      "tweet_text": "Little do now in #ES_F and we went +100 cleanly from yesterday's 7707 Failed Breakdown long. ES follows the same cycle, for 100 years: Elevator down, Failed Breakdown/bear trap/short squeeze. Today's targets were 7768 (hit), 7780 (hit), 7792 (hit), 7823.\n\n7768, 7749=supports https://t.co/I6SNXOMmZW",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7768 and 7749 listed as 'supports' but 7768 is already in morning plan and 7749 is a reaffirmation/observation post-move, no new actionable naming language for novel levels."
-    },
-    {
-      "tweet_id": "2106040683618254983",
-      "timestamp_utc": "2026-10-02T15:16:41.000Z",
-      "timestamp_est": "2026-10-02T11:16:41-04:00",
-      "tweet_text": "@DCdude69 Its not bad but nothing id personally take until we get a deep elevator down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no price named; 'deep elevator down' is directional commentary only, not an actionable level."
-    },
-    {
-      "tweet_id": "2106047163616670029",
-      "timestamp_utc": "2026-10-02T15:42:26.000Z",
-      "timestamp_est": "2026-10-02T11:42:26-04:00",
-      "tweet_text": "@SprinklerRs Its the same cycle as always - elevator down, failed breakdown, short squeeze. I get comments like every time we see any red and people dont seem to learn the pattern",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market pattern commentary, no price levels named or actionable instructions given."
-    },
-    {
-      "tweet_id": "2106053477587677683",
-      "timestamp_utc": "2026-10-02T16:07:32.000Z",
-      "timestamp_est": "2026-10-02T12:07:32-04:00",
-      "tweet_text": "Little to do as posted but ride runner, we went +100 from yesterday's 7707 Failed Breakdown long. Today's targets were 7768, 7780, 7792, 7823. All hit except for final.\n\n7768 was then support and we just backtested (this has been range resistance all week). Same upsides in #ES_F https://t.co/DT7MxCFiCj",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7707, 7768, 7792, 7823) are morning-plan levels or trade management/hindsight references. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2106092358148219213",
-      "timestamp_utc": "2026-10-02T18:42:02.000Z",
-      "timestamp_est": "2026-10-02T14:42:02-04:00",
-      "tweet_text": "@ArcherCapitall @SprinklerRs In ES in a bull market its always look out above. Dips just provide fuel for  new highs",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about bull market dynamics; no specific price level named or actionable signal given."
-    },
-    {
-      "tweet_id": "2106094651409342646",
-      "timestamp_utc": "2026-10-02T18:51:08.000Z",
-      "timestamp_est": "2026-10-02T14:51:08-04:00",
-      "tweet_text": "Work has been done since this morning but levels working well in #ES_F. We ran 100 points from the 7707 Failed Breakdown yesterday, hitting 3/4 targets today (7768, 7780, 7792, 7823).\n\n7768 was support and we've been here for hours. Bulls want to hold this ideally https://t.co/QdtDQ3Y2Wq",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7707, 7768, 7780, 7792, 7823 are all observations of prior targets hit or morning-plan levels; 7768 support mention is reaffirmation, not a new actionable level."
-    },
-    {
-      "tweet_id": "2106094878132166912",
-      "timestamp_utc": "2026-10-02T18:52:02.000Z",
-      "timestamp_est": "2026-10-02T14:52:02-04:00",
-      "tweet_text": "@coleridge8264 Would be a dangerous \"level reclaim\" because 7707 was just above there. Would be longing right into a resistance. 7674 Failed Breakdown was the best entry hyesterday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7707 and 7674 are both morning-plan levels; tweet is hindsight commentary on yesterday's FBD entry, not a new actionable level."
+      "notes": "Conversational reply referencing prior newsletter content with no explicit price named or actionable level introduced."
     }
   ]
 }
