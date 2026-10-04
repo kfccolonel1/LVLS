@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-04T15:37:54.092551+00:00",
-  "fetched_at_est": "2026-10-04T11:37:54.092557-04:00",
+  "fetched_at_utc": "2026-10-04T16:38:00.296102+00:00",
+  "fetched_at_est": "2026-10-04T12:38:00.296109-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2106421711012815221",
-      "timestamp_utc": "2026-10-03T16:30:45.000Z",
-      "timestamp_est": "2026-10-03T12:30:45-04:00",
-      "tweet_text": "@noonelikeme81 @coleridge8264 Wednesday low of day and last Thursday low of day. I talk about it in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing prior newsletter content with no explicit price named or actionable level introduced."
-    },
     {
       "tweet_id": "2106770569702031365",
       "timestamp_utc": "2026-10-04T15:37:00.000Z",
