@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-05T15:40:59.550758+00:00",
-  "fetched_at_est": "2026-10-05T11:40:59.550763-04:00",
+  "fetched_at_utc": "2026-10-05T16:01:06.346771+00:00",
+  "fetched_at_est": "2026-10-05T12:01:06.346775-04:00",
   "last_new_level_added_at_est": "2026-10-05T07:28:57-04:00",
   "todays_new_levels": [
     {
@@ -86,6 +86,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7768, 7749, 7782, 7792, 7811, 7823) are morning-plan levels or hit-target observations. 'Watch traps' at 7749 is reaffirmation, not a new level."
+    },
+    {
+      "tweet_id": "2107138129442537753",
+      "timestamp_utc": "2026-10-05T15:57:33.000Z",
+      "timestamp_est": "2026-10-05T11:57:33-04:00",
+      "tweet_text": "We are nicely ripping the targets and as always, these targets were given in advance at 8am, and on Friday, and in Friday's 3pm newsletter: 7782, 7792, 7811, 7823, as long as 7768 held (it did).\n\nOnly 7823 left. Reaction zone, then we head to 7845 next. Just ride your runner now https://t.co/B9NiCVLVq0",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7782, 7792, 7811, 7823, 7768, 7845) are either morning-plan levels or hindsight references to pre-published targets; no new actionable levels introduced."
     }
   ]
 }
