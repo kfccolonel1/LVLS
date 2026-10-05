@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-05T14:40:52.686526+00:00",
-  "fetched_at_est": "2026-10-05T10:40:52.686530-04:00",
+  "fetched_at_utc": "2026-10-05T15:40:59.550758+00:00",
+  "fetched_at_est": "2026-10-05T11:40:59.550763-04:00",
   "last_new_level_added_at_est": "2026-10-05T07:28:57-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2106770569702031365",
-      "timestamp_utc": "2026-10-04T15:37:00.000Z",
-      "timestamp_est": "2026-10-04T11:37:00-04:00",
-      "tweet_text": "My job is 99% planning, 1% trading. Before I start day I know: 1) What zones I want to engage 2) What setup at those zones 3) How I'll manage the trades. The actual day is just waiting on triggers/executing. It takes 15 mins per day, is emotionless. Repeat daily to stack points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Philosophical/process tweet only. No prices, levels, or actionable references of any kind mentioned."
-    },
     {
       "tweet_id": "2107070535129797049",
       "timestamp_utc": "2026-10-05T11:28:57.000Z",
