@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-05T16:01:06.346771+00:00",
-  "fetched_at_est": "2026-10-05T12:01:06.346775-04:00",
+  "fetched_at_utc": "2026-10-05T17:51:23.720388+00:00",
+  "fetched_at_est": "2026-10-05T13:51:23.720394-04:00",
   "last_new_level_added_at_est": "2026-10-05T07:28:57-04:00",
   "todays_new_levels": [
     {
@@ -95,6 +95,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7782, 7792, 7811, 7823, 7768, 7845) are either morning-plan levels or hindsight references to pre-published targets; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2107165206447333815",
+      "timestamp_utc": "2026-10-05T17:45:09.000Z",
+      "timestamp_est": "2026-10-05T13:45:09-04:00",
+      "tweet_text": "Its hard to get a more perfect day in #ES_F and there is all targets for the session completed. We are still long from the 7707 Failed Breakdown Thursday given here/in newsletter. Today's targets as long as 7768 held (it did) were 7782, 7792, 7811, 7823 final.\n\n7823 hit. 7845 https://t.co/zXtrcxpVBQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7707, 7768, 7782, 7792, 7811, 7823, 7845) are either morning-plan levels or hindsight/completion references. No new actionable levels named."
     }
   ]
 }
