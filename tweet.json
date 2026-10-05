@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-05T18:01:33.909467+00:00",
-  "fetched_at_est": "2026-10-05T14:01:33.909483-04:00",
+  "fetched_at_utc": "2026-10-05T18:11:38.913592+00:00",
+  "fetched_at_est": "2026-10-05T14:11:38.913599-04:00",
   "last_new_level_added_at_est": "2026-10-05T07:28:57-04:00",
   "todays_new_levels": [
     {
@@ -131,6 +131,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing '68 shelf' as a past example of a trade type, not naming a new actionable level."
+    },
+    {
+      "tweet_id": "2107169955838087583",
+      "timestamp_utc": "2026-10-05T18:04:01.000Z",
+      "timestamp_est": "2026-10-05T14:04:01-04:00",
+      "tweet_text": "Note: These targets and the plan were given in the newsletter sent out at 3pm on Friday. https://t.co/SVt7J23PPD",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reference to a prior newsletter with no new price levels named or actionable language present."
     }
   ]
 }
