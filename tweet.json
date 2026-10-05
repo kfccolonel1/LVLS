@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-05T12:50:21.534870+00:00",
-  "fetched_at_est": "2026-10-05T08:50:21.534873-04:00",
+  "fetched_at_utc": "2026-10-05T13:00:30.207331+00:00",
+  "fetched_at_est": "2026-10-05T09:00:30.207337-04:00",
   "last_new_level_added_at_est": "2026-10-05T07:28:57-04:00",
   "todays_new_levels": [
     {
@@ -50,6 +50,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply referencing '49' (7549?) as a vague threshold, no explicit actionable naming language; also likely a reaffirmation of 7545 morning plan level."
+    },
+    {
+      "tweet_id": "2107092866921119887",
+      "timestamp_utc": "2026-10-05T12:57:42.000Z",
+      "timestamp_est": "2026-10-05T08:57:42-04:00",
+      "tweet_text": "No volatility chop now in #ES_F. I do not trade this, I only hold my runner. I only trade after an elevator down sell, into a Failed Breakdown. 7707 Failed Breakdown was the last long on Thursday, given here + newsletter.\n\n7768=support, weak, glued here for hours. 7782, 7792, https://t.co/GsfzbJClc8",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7707, 7768, 7782, 7792) are either morning-plan levels or observations/hindsight references. No new actionable levels introduced."
     }
   ]
 }
