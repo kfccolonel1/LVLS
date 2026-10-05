@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-05T13:00:30.207331+00:00",
-  "fetched_at_est": "2026-10-05T09:00:30.207337-04:00",
+  "fetched_at_utc": "2026-10-05T14:00:44.607225+00:00",
+  "fetched_at_est": "2026-10-05T10:00:44.607234-04:00",
   "last_new_level_added_at_est": "2026-10-05T07:28:57-04:00",
   "todays_new_levels": [
     {
@@ -59,6 +59,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7707, 7768, 7782, 7792) are either morning-plan levels or observations/hindsight references. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2107107299974086806",
+      "timestamp_utc": "2026-10-05T13:55:03.000Z",
+      "timestamp_est": "2026-10-05T09:55:03-04:00",
+      "tweet_text": "Bulls held exactly where they had to hold: 7768. This was support for today as posted and we held it, and started running today's targets in #ES_F. Target 1 was 7782 (hit). Target 2 for today was ~7792 (hit). 7811, 7823 are next.\n\n7768 remains support, 7749 is below (watch traps) https://t.co/qa7MK0he2S",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7768, 7749, 7782, 7792, 7811, 7823) are either morning-plan levels, hit-target observations, or reaffirmations. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2107107802342650326",
+      "timestamp_utc": "2026-10-05T13:57:02.000Z",
+      "timestamp_est": "2026-10-05T09:57:02-04:00",
+      "tweet_text": "@axecapaxelrod We're just in a low volatility bull market. If you look at the macro ES chart its about as bullish as a chart can be and in this context volatility is usually low as we continue heading higher. We get brief bursts though of good trading when  news hits etc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure macro commentary on low volatility bull market trend. No price levels named, no actionable entries, targets, or triggers of any kind."
+    },
+    {
+      "tweet_id": "2107107951630516232",
+      "timestamp_utc": "2026-10-05T13:57:38.000Z",
+      "timestamp_est": "2026-10-05T09:57:38-04:00",
+      "tweet_text": "@creditriskVP I usually answer questions here in the comments. You can reference levels etc here and I usually answer most questions if I can get to them",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply explaining how to interact; no prices, no actionable levels, purely conversational."
     }
   ]
 }
