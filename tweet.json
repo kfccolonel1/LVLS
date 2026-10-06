@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T16:44:47.448522+00:00",
-  "fetched_at_est": "2026-10-06T12:44:47.448529-04:00",
+  "fetched_at_utc": "2026-10-06T17:04:59.188903+00:00",
+  "fetched_at_est": "2026-10-06T13:04:59.188915-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing '45' and '67' as shorthand \u2014 no full ES prices given, no explicit actionable naming language, and context is newsletter teaser not a trade signal."
+    },
+    {
+      "tweet_id": "2107515243039514813",
+      "timestamp_utc": "2026-10-06T16:56:04.000Z",
+      "timestamp_est": "2026-10-06T12:56:04-04:00",
+      "tweet_text": "Little do now, we are +190 from last Thursday's textbook Failed Breakdown in #ES_F. Targets were 7845 (shelf of highs from Sept 21-23) then 7867 (backtest of the August 7th breakdown). Today's slate of targets were then 7886, 7895 (high of day).\n\n7867/7845 are now supports. Much https://t.co/PSsjXPYWs6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7895 mentioned as 'high of day' observation, not a named actionable level. 7845/7867 are morning-plan levels reaffirmed as supports. No new major levels introduced."
+    },
+    {
+      "tweet_id": "2107515355346379236",
+      "timestamp_utc": "2026-10-06T16:56:31.000Z",
+      "timestamp_est": "2026-10-06T12:56:31-04:00",
+      "tweet_text": "@OnTheHooch @Noel45953026771 Impossible to guess that - it is basically random and just depends when we get hit with a relevant headline/or data point",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about market randomness/headlines; no price levels named or actionable setup mentioned."
+    },
+    {
+      "tweet_id": "2107515494940946944",
+      "timestamp_utc": "2026-10-06T16:57:04.000Z",
+      "timestamp_est": "2026-10-06T12:57:04-04:00",
+      "tweet_text": "@OnTheHooch @Noel45953026771 Can typically only get a piece of it if it we get a breakdown short around when the headline hits",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade mechanics/timing; no price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2107515930573959336",
+      "timestamp_utc": "2026-10-06T16:58:48.000Z",
+      "timestamp_est": "2026-10-06T12:58:48-04:00",
+      "tweet_text": "@aciertrempe More upside is coming. I know its obvious but just want to make sure people don't fall for the same error we get everytime we set a red candle. Been trying to prevent people from falling for it for 10 years on Twitter with varying success!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary/encouragement with no price level named or actionable trigger referenced."
     }
   ]
 }
