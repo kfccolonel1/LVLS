@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T16:34:41.948166+00:00",
-  "fetched_at_est": "2026-10-06T12:34:41.948170-04:00",
+  "fetched_at_utc": "2026-10-06T16:44:47.448522+00:00",
+  "fetched_at_est": "2026-10-06T12:44:47.448529-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -176,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with no specific price named; 'megaphone' reference is vague directional commentary, not an actionable level."
+    },
+    {
+      "tweet_id": "2107511409533681874",
+      "timestamp_utc": "2026-10-06T16:40:50.000Z",
+      "timestamp_est": "2026-10-06T12:40:50-04:00",
+      "tweet_text": "@NYJets2017 @OnTheHooch 45 is a little more important than 67 now, but 67 is important as well. Those will be the two big levels for the rest of the week that I'll discuss in newsletter today",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing '45' and '67' as shorthand \u2014 no full ES prices given, no explicit actionable naming language, and context is newsletter teaser not a trade signal."
     }
   ]
 }
