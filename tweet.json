@@ -1,23 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-05T21:12:01.246799+00:00",
-  "fetched_at_est": "2026-10-05T17:12:01.246804-04:00",
+  "fetched_at_utc": "2026-10-06T11:33:12.656234+00:00",
+  "fetched_at_est": "2026-10-06T07:33:12.656238-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107070535129797049",
-      "timestamp_utc": "2026-10-05T11:28:57.000Z",
-      "timestamp_est": "2026-10-05T07:28:57-04:00",
-      "tweet_text": "Last Thursday, we saw our last quality long trigger on the 7707 shelf Failed Breakdown, and we rallied +100. 7768 was then support, and we've defended since Friday.\n\nPlan: Keep riding runner. 7768=support(given here + newsletter). Weak now. 7781, 7792, 7811, 7823 next. 49 below https://t.co/A7afP0oCiI",
-      "added_bull_levels": [
-        7792.0,
-        7811.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7792 and 7811 are named as 'next' targets not in morning plan; 7768/7781/7823 are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2107089468465299655",
       "timestamp_utc": "2026-10-05T12:44:11.000Z",
