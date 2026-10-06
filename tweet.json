@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T18:05:19.656262+00:00",
-  "fetched_at_est": "2026-10-06T14:05:19.656268-04:00",
+  "fetched_at_utc": "2026-10-06T18:35:30.429001+00:00",
+  "fetched_at_est": "2026-10-06T14:35:30.429095-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -203,6 +203,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary/opinion about bull market and trader psychology. No price levels named, no actionable entries, exits, or triggers of any kind."
+    },
+    {
+      "tweet_id": "2107538536102539713",
+      "timestamp_utc": "2026-10-06T18:28:37.000Z",
+      "timestamp_est": "2026-10-06T14:28:37-04:00",
+      "tweet_text": "The rip continues in #ES_F and keep riding runner from Thursdays 7707 Failed Breakdown. Todays 8am targets were 7882 (hit), 7895 (hit, high of day). Now, we build structure and setup the next leg.\n\n7867 (just tested), 7845 (sept 21-23 shelf backtest) must hold as we setup ATHs https://t.co/dIYXHxs8rM",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7707, 7882, 7895, 7867, 7845) are either morning-plan levels, trade management references, or hit-target observations. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2107538827204059385",
+      "timestamp_utc": "2026-10-06T18:29:47.000Z",
+      "timestamp_est": "2026-10-06T14:29:47-04:00",
+      "tweet_text": "Newsletter will be sent in 30mins or so with the next slate of entries from here. The next dip (if we get one) may be the last before we see the big leg to macro megaphone resistance at 7800+ - it is key to be prepared for it https://t.co/FskKvuiiOi",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific actionable price named; '7800+' is vague/approximate and references macro megaphone resistance without explicit naming language for a new level."
     }
   ]
 }
