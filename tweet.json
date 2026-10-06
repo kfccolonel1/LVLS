@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T16:04:33.639008+00:00",
-  "fetched_at_est": "2026-10-06T12:04:33.639013-04:00",
+  "fetched_at_utc": "2026-10-06T16:34:41.948166+00:00",
+  "fetched_at_est": "2026-10-06T12:34:41.948170-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -167,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No explicit price named; 'megaphone resistance' is a vague directional observation with no actionable number cited."
+    },
+    {
+      "tweet_id": "2107509429847351751",
+      "timestamp_utc": "2026-10-06T16:32:58.000Z",
+      "timestamp_est": "2026-10-06T12:32:58-04:00",
+      "tweet_text": "@Noel45953026771 I'd say so, it will get far more parabolic though especially after the next 'elevator down'. Typically momentum compounds and we have a huge magnet at the megaphone.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no specific price named; 'megaphone' reference is vague directional commentary, not an actionable level."
     }
   ]
 }
