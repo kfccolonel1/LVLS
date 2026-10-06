@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T17:45:14.689631+00:00",
-  "fetched_at_est": "2026-10-06T13:45:14.689636-04:00",
+  "fetched_at_utc": "2026-10-06T17:55:17.373204+00:00",
+  "fetched_at_est": "2026-10-06T13:55:17.373210-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107166897259303173",
-      "timestamp_utc": "2026-10-05T17:51:52.000Z",
-      "timestamp_est": "2026-10-05T13:51:52-04:00",
-      "tweet_text": "@NYJets2017 I gave 4 targets, we hit all 4 targets. Runners working and compounding points with no risk taking required for me. Can't complain about risk free money!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management/celebration tweet. No new prices named. References hitting prior targets and managing runners with no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2107167287753027715",
-      "timestamp_utc": "2026-10-05T17:53:25.000Z",
-      "timestamp_est": "2026-10-05T13:53:25-04:00",
-      "tweet_text": "@Tyler_Durden77 I don't short and I explicitly recommend nobody short ES - even in a bear market. Those who want to should see it as a form of gambling with a very low win rate, and not a sustainable way to profit as I state explicitly in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; purely a commentary reply about shorting strategy. No actionable level of any kind."
-    },
-    {
-      "tweet_id": "2107167478816092572",
-      "timestamp_utc": "2026-10-05T17:54:10.000Z",
-      "timestamp_est": "2026-10-05T13:54:10-04:00",
-      "tweet_text": "@FuturesDt Would have to take a low quality reclaim. Something like when we flushed and recovered that big 68 shelf",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing '68 shelf' as a past example of a trade type, not naming a new actionable level."
-    },
     {
       "tweet_id": "2107169955838087583",
       "timestamp_utc": "2026-10-05T18:04:01.000Z",
