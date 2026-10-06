@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T18:35:30.429001+00:00",
-  "fetched_at_est": "2026-10-06T14:35:30.429095-04:00",
+  "fetched_at_utc": "2026-10-06T18:55:39.363987+00:00",
+  "fetched_at_est": "2026-10-06T14:55:39.363998-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -221,6 +221,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No specific actionable price named; '7800+' is vague/approximate and references macro megaphone resistance without explicit naming language for a new level."
+    },
+    {
+      "tweet_id": "2107544090287988817",
+      "timestamp_utc": "2026-10-06T18:50:42.000Z",
+      "timestamp_est": "2026-10-06T14:50:42-04:00",
+      "tweet_text": "@OnTheHooch @elfgonewilde Yes - just one runner. Just keep trailing the stop up under prior days low until we sell",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management reply \u2014 trailing stop instruction on existing runner, no new actionable price level named."
+    },
+    {
+      "tweet_id": "2107544267074003336",
+      "timestamp_utc": "2026-10-06T18:51:24.000Z",
+      "timestamp_est": "2026-10-06T14:51:24-04:00",
+      "tweet_text": "@ghoshdd Yes",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Single-word reply '@ghoshdd Yes' \u2014 no price, no actionable level, no naming language whatsoever."
     }
   ]
 }
