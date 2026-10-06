@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T17:55:17.373204+00:00",
-  "fetched_at_est": "2026-10-06T13:55:17.373210-04:00",
+  "fetched_at_utc": "2026-10-06T18:05:19.656262+00:00",
+  "fetched_at_est": "2026-10-06T14:05:19.656268-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107169955838087583",
-      "timestamp_utc": "2026-10-05T18:04:01.000Z",
-      "timestamp_est": "2026-10-05T14:04:01-04:00",
-      "tweet_text": "Note: These targets and the plan were given in the newsletter sent out at 3pm on Friday. https://t.co/SVt7J23PPD",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reference to a prior newsletter with no new price levels named or actionable language present."
-    },
     {
       "tweet_id": "2107214879270588541",
       "timestamp_utc": "2026-10-05T21:02:32.000Z",
