@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T17:15:04.311421+00:00",
-  "fetched_at_est": "2026-10-06T13:15:04.311428-04:00",
+  "fetched_at_utc": "2026-10-06T17:25:11.224457+00:00",
+  "fetched_at_est": "2026-10-06T13:25:11.224474-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conceptual commentary about uptrend psychology; no price levels named or actionable triggers referenced."
+    },
+    {
+      "tweet_id": "2107521871801643279",
+      "timestamp_utc": "2026-10-06T17:22:24.000Z",
+      "timestamp_est": "2026-10-06T13:22:24-04:00",
+      "tweet_text": "@QgY76221 @aciertrempe It says the opposite - as I discuss in newsletter ES follows a repetitive cycle where we go \"elevator down\", put in a Failed Breakdown, then squeeze again as we progress higher",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining ES cycle concept (elevator down, FBD, squeeze). No specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2107522096364441808",
+      "timestamp_utc": "2026-10-06T17:23:18.000Z",
+      "timestamp_est": "2026-10-06T13:23:18-04:00",
+      "tweet_text": "@QgY76221 @aciertrempe We are in a bull market so we will obviously continue higher but people need to stop thinking every red candle is a \"top\" and instead look for the long. But I've been saying this for years and doesn't seem to change",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary/opinion about bull market and trader psychology. No price levels named, no actionable entries, exits, or triggers of any kind."
     }
   ]
 }
