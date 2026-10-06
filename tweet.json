@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T11:33:12.656234+00:00",
-  "fetched_at_est": "2026-10-06T07:33:12.656238-04:00",
+  "fetched_at_utc": "2026-10-06T12:03:22.775006+00:00",
+  "fetched_at_est": "2026-10-06T08:03:22.775015-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -122,6 +122,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All referenced prices (7768, 7782, 7792, 7811, 7823, 7845) are hindsight target completions or morning-plan reaffirmations; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2107439337289785603",
+      "timestamp_utc": "2026-10-06T11:54:26.000Z",
+      "timestamp_est": "2026-10-06T07:54:26-04:00",
+      "tweet_text": "The long is paying massively in #ES_F. We got long last Thursday on the 7707 Failed Breakdown (given live + newsletter). 7768 was support to generate next leg up (held). Targets were 7823, 7845. All hit. I've been looking for 7867 after for weeks, just hit\n\nPlan: Just ride https://t.co/jYw6jMEe4U",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7707, 7768, 7823, 7845, 7867) are morning-plan levels or hindsight trade recap; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2107439918708293643",
+      "timestamp_utc": "2026-10-06T11:56:45.000Z",
+      "timestamp_est": "2026-10-06T07:56:45-04:00",
+      "tweet_text": "Main targets from last nights newsletter already hit in #ES_F. There is nothing to do at all today until we get an \"elevator down\" to Failed Breakdowns levels discussed in newsletter, where we trap bears yet again, and then start the next leg https://t.co/QXyL9uODN3",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific prices named; references prior newsletter levels (not cited) and describes a scenario without actionable new prices."
     }
   ]
 }
