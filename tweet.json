@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-06T21:56:00.485214+00:00",
-  "fetched_at_est": "2026-10-06T17:56:00.485222-04:00",
+  "fetched_at_utc": "2026-10-07T11:47:18.866096+00:00",
+  "fetched_at_est": "2026-10-07T07:47:18.866109-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -239,6 +239,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a conversational reply thanking a subscriber \u2014 no price levels mentioned whatsoever."
+    },
+    {
+      "tweet_id": "2107797976898740234",
+      "timestamp_utc": "2026-10-07T11:39:33.000Z",
+      "timestamp_est": "2026-10-07T07:39:33-04:00",
+      "tweet_text": "@1CardsFanatic @QgY76221 @aciertrempe We are a very, very long time from that (literally none of the probably 10 things I look at gauge trend show any signs of weakness) but I always point out when we lose major structural supports",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply; no price named, no actionable level, purely commentary about trend strength and structural supports in general."
+    },
+    {
+      "tweet_id": "2107798750030647732",
+      "timestamp_utc": "2026-10-07T11:42:37.000Z",
+      "timestamp_est": "2026-10-07T07:42:37-04:00",
+      "tweet_text": "Its been a massive long in #ES_F: 7707 Failed Breakdown last Thursday got us long and we got to 7895 final daily target yesterday for 190 points. Now, getting the first retrace to setup again\n\nPlan: 7845=key (sept 21-23 shelf backtest). Reclaim sees 7859, 7867+. 7811, 7782 below https://t.co/a9490tP479",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7859 is the only non-morning-plan price mentioned, but it appears as a chained target off 7845 reclaim, not named independently as a new major actionable level."
+    },
+    {
+      "tweet_id": "2107799031527407898",
+      "timestamp_utc": "2026-10-07T11:43:44.000Z",
+      "timestamp_est": "2026-10-07T07:43:44-04:00",
+      "tweet_text": "@NYJets2017 @1CardsFanatic @QgY76221 @aciertrempe @HenrikZeberg Bull markets always climb a wall of worry - there's been a rationale for a \"top\" since the day we bottomed in April 2022",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary/reply about bull market sentiment. No price levels named, no actionable language, no new levels introduced."
     }
   ]
 }
