@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T18:29:20.017147+00:00",
-  "fetched_at_est": "2026-10-07T14:29:20.017153-04:00",
+  "fetched_at_utc": "2026-10-07T18:39:25.747216+00:00",
+  "fetched_at_est": "2026-10-07T14:39:25.747222-04:00",
   "last_new_level_added_at_est": "2026-10-07T11:43:21-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107538827204059385",
-      "timestamp_utc": "2026-10-06T18:29:47.000Z",
-      "timestamp_est": "2026-10-06T14:29:47-04:00",
-      "tweet_text": "Newsletter will be sent in 30mins or so with the next slate of entries from here. The next dip (if we get one) may be the last before we see the big leg to macro megaphone resistance at 7800+ - it is key to be prepared for it https://t.co/FskKvuiiOi",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific actionable price named; '7800+' is vague/approximate and references macro megaphone resistance without explicit naming language for a new level."
-    },
     {
       "tweet_id": "2107544090287988817",
       "timestamp_utc": "2026-10-06T18:50:42.000Z",
@@ -206,6 +197,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply about trade management (sizing, runners, partial exits). No price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2107901204550361570",
+      "timestamp_utc": "2026-10-07T18:29:44.000Z",
+      "timestamp_est": "2026-10-07T14:29:44-04:00",
+      "tweet_text": "@RipellinoTom We go to 59, 67 per above tweets",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply referencing '59, 67' (likely 7759/7767) as shorthand for prior tweets \u2014 reaffirmation/reference, not a new actionable level introduction."
     }
   ]
 }
