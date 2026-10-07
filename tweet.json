@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T13:57:57.995102+00:00",
-  "fetched_at_est": "2026-10-07T09:57:57.995122-04:00",
+  "fetched_at_utc": "2026-10-07T14:18:04.555949+00:00",
+  "fetched_at_est": "2026-10-07T10:18:04.555958-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107473646042202177",
-      "timestamp_utc": "2026-10-06T14:10:46.000Z",
-      "timestamp_est": "2026-10-06T10:10:46-04:00",
-      "tweet_text": "Plan is tracking to total perfection in #ES_F and every part of this was called in advance. 7707 Failed Breakdown got us long last Thursday. We are +177. Target was 7867, hit (this has been my magnet for weeks).\n\nToday's targets were 7886 (hit), 7895. Ride runner for all time https://t.co/sV4JefOPdi",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7707, 7867, 7886, 7895) are morning plan levels or hindsight trade recap references. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2107494427908522129",
       "timestamp_utc": "2026-10-06T15:33:21.000Z",
@@ -257,6 +248,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure sentiment commentary; '190 points' and '1% off all time highs' are math/distance references, not actionable price levels."
+    },
+    {
+      "tweet_id": "2107836050127393203",
+      "timestamp_utc": "2026-10-07T14:10:50.000Z",
+      "timestamp_est": "2026-10-07T10:10:50-04:00",
+      "tweet_text": "@upandown007 We never triggered any recovery of 7845. Entry would be at 7850 as always",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7845 is a morning-plan level; 7850 is a fill/entry reference tied to it, not a newly named actionable level in its own right."
     }
   ]
 }
