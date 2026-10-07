@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T15:58:38.023201+00:00",
-  "fetched_at_est": "2026-10-07T11:58:38.023207-04:00",
+  "fetched_at_utc": "2026-10-07T16:38:43.764132+00:00",
+  "fetched_at_est": "2026-10-07T12:38:43.764136-04:00",
   "last_new_level_added_at_est": "2026-10-07T11:43:21-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107509429847351751",
-      "timestamp_utc": "2026-10-06T16:32:58.000Z",
-      "timestamp_est": "2026-10-06T12:32:58-04:00",
-      "tweet_text": "@Noel45953026771 I'd say so, it will get far more parabolic though especially after the next 'elevator down'. Typically momentum compounds and we have a huge magnet at the megaphone.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no specific price named; 'megaphone' reference is vague directional commentary, not an actionable level."
-    },
     {
       "tweet_id": "2107511409533681874",
       "timestamp_utc": "2026-10-06T16:40:50.000Z",
