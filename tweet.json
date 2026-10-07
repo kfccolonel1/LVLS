@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T18:39:25.747216+00:00",
-  "fetched_at_est": "2026-10-07T14:39:25.747222-04:00",
+  "fetched_at_utc": "2026-10-07T18:59:32.046283+00:00",
+  "fetched_at_est": "2026-10-07T14:59:32.046288-04:00",
   "last_new_level_added_at_est": "2026-10-07T11:43:21-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107544090287988817",
-      "timestamp_utc": "2026-10-06T18:50:42.000Z",
-      "timestamp_est": "2026-10-06T14:50:42-04:00",
-      "tweet_text": "@OnTheHooch @elfgonewilde Yes - just one runner. Just keep trailing the stop up under prior days low until we sell",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management reply \u2014 trailing stop instruction on existing runner, no new actionable price level named."
-    },
-    {
-      "tweet_id": "2107544267074003336",
-      "timestamp_utc": "2026-10-06T18:51:24.000Z",
-      "timestamp_est": "2026-10-06T14:51:24-04:00",
-      "tweet_text": "@ghoshdd Yes",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Single-word reply '@ghoshdd Yes' \u2014 no price, no actionable level, no naming language whatsoever."
-    },
     {
       "tweet_id": "2107589317447282903",
       "timestamp_utc": "2026-10-06T21:50:25.000Z",
@@ -206,6 +188,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply referencing '59, 67' (likely 7759/7767) as shorthand for prior tweets \u2014 reaffirmation/reference, not a new actionable level introduction."
+    },
+    {
+      "tweet_id": "2107907717574648088",
+      "timestamp_utc": "2026-10-07T18:55:37.000Z",
+      "timestamp_est": "2026-10-07T14:55:37-04:00",
+      "tweet_text": "Closing update #ES_F: Action slowing as we enter the final hour, but ES recovered 7845 which was the goal. It remains a magnet for us to charge up around to setup the next leg up. 7859 1st target, 7867 remain next. Newsletter was just sent with next entries from here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7845, 7867 are morning-plan levels; 7859 is a target reference but lacks explicit naming language qualifying it as a new major level."
     }
   ]
 }
