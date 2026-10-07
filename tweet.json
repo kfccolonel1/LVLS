@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T12:57:36.146068+00:00",
-  "fetched_at_est": "2026-10-07T08:57:36.146075-04:00",
+  "fetched_at_utc": "2026-10-07T13:37:43.068182+00:00",
+  "fetched_at_est": "2026-10-07T09:37:43.068188-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107464142269358175",
-      "timestamp_utc": "2026-10-06T13:33:00.000Z",
-      "timestamp_est": "2026-10-06T09:33:00-04:00",
-      "tweet_text": "0 to do but ride runner in #ES_F. Readers here and in the newsletter know I've been looking for 7867 for weeks. This has been a magnet of spoken of non-stop. We hit finally - backtest of Aug 27 Breakdown.\n\nLongs still working from 7707 FBD Thursday. 7845, 7823=micro supports https://t.co/kTH2YuRH0O",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7867, 7707, 7845, 7823) are morning-plan levels or trade management refs. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2107464397413134667",
-      "timestamp_utc": "2026-10-06T13:34:01.000Z",
-      "timestamp_est": "2026-10-06T09:34:01-04:00",
-      "tweet_text": "@tradivate As I said, they always hit!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned; purely a conversational reply with no actionable or named level."
-    },
     {
       "tweet_id": "2107467686481477898",
       "timestamp_utc": "2026-10-06T13:47:05.000Z",
