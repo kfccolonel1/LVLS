@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T11:47:18.866096+00:00",
-  "fetched_at_est": "2026-10-07T07:47:18.866109-04:00",
+  "fetched_at_utc": "2026-10-07T11:57:24.001804+00:00",
+  "fetched_at_est": "2026-10-07T07:57:24.001809-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107439337289785603",
-      "timestamp_utc": "2026-10-06T11:54:26.000Z",
-      "timestamp_est": "2026-10-06T07:54:26-04:00",
-      "tweet_text": "The long is paying massively in #ES_F. We got long last Thursday on the 7707 Failed Breakdown (given live + newsletter). 7768 was support to generate next leg up (held). Targets were 7823, 7845. All hit. I've been looking for 7867 after for weeks, just hit\n\nPlan: Just ride https://t.co/jYw6jMEe4U",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7707, 7768, 7823, 7845, 7867) are morning-plan levels or hindsight trade recap; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2107439918708293643",
-      "timestamp_utc": "2026-10-06T11:56:45.000Z",
-      "timestamp_est": "2026-10-06T07:56:45-04:00",
-      "tweet_text": "Main targets from last nights newsletter already hit in #ES_F. There is nothing to do at all today until we get an \"elevator down\" to Failed Breakdowns levels discussed in newsletter, where we trap bears yet again, and then start the next leg https://t.co/QXyL9uODN3",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific prices named; references prior newsletter levels (not cited) and describes a scenario without actionable new prices."
-    },
     {
       "tweet_id": "2107442157313491455",
       "timestamp_utc": "2026-10-06T12:05:39.000Z",
@@ -266,6 +248,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary/reply about bull market sentiment. No price levels named, no actionable language, no new levels introduced."
+    },
+    {
+      "tweet_id": "2107800326946353480",
+      "timestamp_utc": "2026-10-07T11:48:53.000Z",
+      "timestamp_est": "2026-10-07T07:48:53-04:00",
+      "tweet_text": "@NYJets2017 @1CardsFanatic @QgY76221 @aciertrempe I just follow the price action, price actually makes it quite clear when trend is actually changing. Takes many weeks or months to setup but the market isnt usually subtle. You get big moving average cross overs, long-term trend channel failures, big support shelf losses etc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet about trend-reading methodology; no specific price levels named, purely conversational/educational content."
     }
   ]
 }
