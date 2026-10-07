@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T16:48:47.146644+00:00",
-  "fetched_at_est": "2026-10-07T12:48:47.146648-04:00",
+  "fetched_at_utc": "2026-10-07T16:58:54.747723+00:00",
+  "fetched_at_est": "2026-10-07T12:58:54.747733-04:00",
   "last_new_level_added_at_est": "2026-10-07T11:43:21-04:00",
   "todays_new_levels": [
     {
@@ -14,42 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107515243039514813",
-      "timestamp_utc": "2026-10-06T16:56:04.000Z",
-      "timestamp_est": "2026-10-06T12:56:04-04:00",
-      "tweet_text": "Little do now, we are +190 from last Thursday's textbook Failed Breakdown in #ES_F. Targets were 7845 (shelf of highs from Sept 21-23) then 7867 (backtest of the August 7th breakdown). Today's slate of targets were then 7886, 7895 (high of day).\n\n7867/7845 are now supports. Much https://t.co/PSsjXPYWs6",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7895 mentioned as 'high of day' observation, not a named actionable level. 7845/7867 are morning-plan levels reaffirmed as supports. No new major levels introduced."
-    },
-    {
-      "tweet_id": "2107515355346379236",
-      "timestamp_utc": "2026-10-06T16:56:31.000Z",
-      "timestamp_est": "2026-10-06T12:56:31-04:00",
-      "tweet_text": "@OnTheHooch @Noel45953026771 Impossible to guess that - it is basically random and just depends when we get hit with a relevant headline/or data point",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market randomness/headlines; no price levels named or actionable setup mentioned."
-    },
-    {
-      "tweet_id": "2107515494940946944",
-      "timestamp_utc": "2026-10-06T16:57:04.000Z",
-      "timestamp_est": "2026-10-06T12:57:04-04:00",
-      "tweet_text": "@OnTheHooch @Noel45953026771 Can typically only get a piece of it if it we get a breakdown short around when the headline hits",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trade mechanics/timing; no price level named or actionable trigger identified."
-    },
-    {
-      "tweet_id": "2107515930573959336",
-      "timestamp_utc": "2026-10-06T16:58:48.000Z",
-      "timestamp_est": "2026-10-06T12:58:48-04:00",
-      "tweet_text": "@aciertrempe More upside is coming. I know its obvious but just want to make sure people don't fall for the same error we get everytime we set a red candle. Been trying to prevent people from falling for it for 10 years on Twitter with varying success!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary/encouragement with no price level named or actionable trigger referenced."
-    },
     {
       "tweet_id": "2107519701534273601",
       "timestamp_utc": "2026-10-06T17:13:47.000Z",
@@ -240,6 +204,26 @@
       ],
       "added_bear_levels": [],
       "notes": "7859 is named as a new actionable target ('Must reclaim to see 7859') not in morning plan; all other prices (7822,7845,7867,7811,7782) are reaffirmations."
+    },
+    {
+      "tweet_id": "2107877250297192947",
+      "timestamp_utc": "2026-10-07T16:54:33.000Z",
+      "timestamp_est": "2026-10-07T12:54:33-04:00",
+      "tweet_text": "@OnTheHooch If you can't be bullish when the market is in a clear uptrend and not far from all time highs, it means theres a very, very serious bias",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary/rebuke about bias; no price level named, no actionable trigger, support, or resistance mentioned."
+    },
+    {
+      "tweet_id": "2107877584809984475",
+      "timestamp_utc": "2026-10-07T16:55:53.000Z",
+      "timestamp_est": "2026-10-07T12:55:53-04:00",
+      "tweet_text": "No volatility but levels respecting well in #ES_F. After a 190 point leg up from Thursday's 7707 Failed Breakdown, we are digesting the move. 7822 support and 7845 res and as posted, 7845 (Sept 21-23rd highs) is now the magnet. Chop region.\n\nReclaim with force sees 7859, 7867+ https://t.co/ck9vVh2Je9",
+      "added_bull_levels": [
+        7859.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7859 named as a new actionable target on reclaim with force \u2014 not in morning plan. 7822, 7845, 7867 are all morning-plan reaffirmations."
     }
   ]
 }
