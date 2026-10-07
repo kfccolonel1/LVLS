@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T18:09:12.203872+00:00",
-  "fetched_at_est": "2026-10-07T14:09:12.203877-04:00",
+  "fetched_at_utc": "2026-10-07T18:19:17.634045+00:00",
+  "fetched_at_est": "2026-10-07T14:19:17.634050-04:00",
   "last_new_level_added_at_est": "2026-10-07T11:43:21-04:00",
   "todays_new_levels": [
     {
@@ -206,6 +206,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7845, 7707, 7859, 7867) are either morning-plan levels or reaffirmations of posted targets; 7859 is close to 7867 but no explicit new-level naming language used."
+    },
+    {
+      "tweet_id": "2107896384452231257",
+      "timestamp_utc": "2026-10-07T18:10:35.000Z",
+      "timestamp_est": "2026-10-07T14:10:35-04:00",
+      "tweet_text": "@BrunnerTrades No wrong answer, can take some off and just leave a 25% runner if price is moving slow. I don't fuss over a point or two",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply about trade management (sizing, runners, partial exits). No price named, no actionable level introduced."
     }
   ]
 }
