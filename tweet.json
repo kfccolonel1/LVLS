@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T12:07:26.578605+00:00",
-  "fetched_at_est": "2026-10-07T08:07:26.578611-04:00",
+  "fetched_at_utc": "2026-10-07T12:57:36.146068+00:00",
+  "fetched_at_est": "2026-10-07T08:57:36.146075-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -248,6 +248,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet about trend-reading methodology; no specific price levels named, purely conversational/educational content."
+    },
+    {
+      "tweet_id": "2107815852057772162",
+      "timestamp_utc": "2026-10-07T12:50:35.000Z",
+      "timestamp_est": "2026-10-07T08:50:35-04:00",
+      "tweet_text": "Volatility is now dropping in #ES_F. We had a monster 190 point leg up from last Thursday's 7707 Failed Breakdown. This took us to 7895 target yesterday. Then, we got the 1st healthy, mini-retrace. Today is all about 7845. Glued here\n\nReclaim sees 7859, 7867+. 7811, then 7782 https://t.co/ktweGMYiY6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7859 is only new price but framed as a downstream target observation, not named with actionable language. All other prices (7845, 7867, 7811, 7782) are morning-plan levels."
     }
   ]
 }
