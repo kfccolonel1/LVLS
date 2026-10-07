@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-07T11:57:24.001804+00:00",
-  "fetched_at_est": "2026-10-07T07:57:24.001809-04:00",
+  "fetched_at_utc": "2026-10-07T12:07:26.578605+00:00",
+  "fetched_at_est": "2026-10-07T08:07:26.578611-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107442157313491455",
-      "timestamp_utc": "2026-10-06T12:05:39.000Z",
-      "timestamp_est": "2026-10-06T08:05:39-04:00",
-      "tweet_text": "@TexDoggie They keep falling for it though! Every \"elevator down\" day like last Thursday I still get dozens of troll-type comments calling a top etc. They just don't learn the cycle in a bull market",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market psychology and bull market cycles. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2107464142269358175",
       "timestamp_utc": "2026-10-06T13:33:00.000Z",
