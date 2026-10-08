@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T11:41:12.130646+00:00",
-  "fetched_at_est": "2026-10-08T07:41:12.130650-04:00",
+  "fetched_at_utc": "2026-10-08T11:51:19.103282+00:00",
+  "fetched_at_est": "2026-10-08T07:51:19.103292-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107798750030647732",
-      "timestamp_utc": "2026-10-07T11:42:37.000Z",
-      "timestamp_est": "2026-10-07T07:42:37-04:00",
-      "tweet_text": "Its been a massive long in #ES_F: 7707 Failed Breakdown last Thursday got us long and we got to 7895 final daily target yesterday for 190 points. Now, getting the first retrace to setup again\n\nPlan: 7845=key (sept 21-23 shelf backtest). Reclaim sees 7859, 7867+. 7811, 7782 below https://t.co/a9490tP479",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7859 is the only non-morning-plan price mentioned, but it appears as a chained target off 7845 reclaim, not named independently as a new major actionable level."
-    },
-    {
-      "tweet_id": "2107799031527407898",
-      "timestamp_utc": "2026-10-07T11:43:44.000Z",
-      "timestamp_est": "2026-10-07T07:43:44-04:00",
-      "tweet_text": "@NYJets2017 @1CardsFanatic @QgY76221 @aciertrempe @HenrikZeberg Bull markets always climb a wall of worry - there's been a rationale for a \"top\" since the day we bottomed in April 2022",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/reply about bull market sentiment. No price levels named, no actionable language, no new levels introduced."
-    },
-    {
-      "tweet_id": "2107800326946353480",
-      "timestamp_utc": "2026-10-07T11:48:53.000Z",
-      "timestamp_est": "2026-10-07T07:48:53-04:00",
-      "tweet_text": "@NYJets2017 @1CardsFanatic @QgY76221 @aciertrempe I just follow the price action, price actually makes it quite clear when trend is actually changing. Takes many weeks or months to setup but the market isnt usually subtle. You get big moving average cross overs, long-term trend channel failures, big support shelf losses etc",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet about trend-reading methodology; no specific price levels named, purely conversational/educational content."
-    },
     {
       "tweet_id": "2107815852057772162",
       "timestamp_utc": "2026-10-07T12:50:35.000Z",
@@ -171,6 +144,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7845, 7867 are morning-plan levels; 7859 is a target reference but lacks explicit naming language qualifying it as a new major level."
+    },
+    {
+      "tweet_id": "2108161114093519026",
+      "timestamp_utc": "2026-10-08T11:42:31.000Z",
+      "timestamp_est": "2026-10-08T07:42:31-04:00",
+      "tweet_text": "Nice overnight burst of volatility in #ES_F after spending all yesterday glued to the 7845 magnet. We are digesting and retracing after the 190 point leg up, to build structure to setup next leg\n\nPlan today: 7816-20=key. Must reclaim to see 7839, 7845 magnet. 7803 fails, dip https://t.co/6mzTfttDjR",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7816-20, 7839, 7845, 7803) are reaffirmations or observations; 7803 not in morning plan but framed as conditional observation, not a named actionable level."
+    },
+    {
+      "tweet_id": "2108161297900622032",
+      "timestamp_utc": "2026-10-08T11:43:15.000Z",
+      "timestamp_est": "2026-10-08T07:43:15-04:00",
+      "tweet_text": "@KhareedBech Resistance of the big megaphone pattern (red in newsletter) is the obvious magnet now. Its a conservative one though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No explicit price named; vague reference to 'megaphone pattern resistance' with no actionable number given."
     }
   ]
 }
