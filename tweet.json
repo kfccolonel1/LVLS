@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T12:51:26.011269+00:00",
-  "fetched_at_est": "2026-10-08T08:51:26.011273-04:00",
+  "fetched_at_utc": "2026-10-08T13:11:32.377340+00:00",
+  "fetched_at_est": "2026-10-08T09:11:32.377346-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -153,6 +153,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No explicit price named; vague reference to 'megaphone pattern resistance' with no actionable number given."
+    },
+    {
+      "tweet_id": "2108182648329806214",
+      "timestamp_utc": "2026-10-08T13:08:06.000Z",
+      "timestamp_est": "2026-10-08T09:08:06-04:00",
+      "tweet_text": "After a good overnight dip in #ES_F but now things are slowing. We are retracing the recent 190 point leg up, building structure, and setting up the next macro leg. Make sure to take profits level to level\n\nNo change: 7816-20=key. Must reclaim to see 7839, 7845 magnet.Sell&lt;7802 https://t.co/BVOEUO3QhP",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7816-20, 7839, 7845, 7802) are either morning-plan levels or reaffirmations; no new actionable levels introduced."
     }
   ]
 }
