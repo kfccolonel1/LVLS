@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T13:11:32.377340+00:00",
-  "fetched_at_est": "2026-10-08T09:11:32.377346-04:00",
+  "fetched_at_utc": "2026-10-08T14:01:38.433923+00:00",
+  "fetched_at_est": "2026-10-08T10:01:38.433926-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2107831708896878607",
-      "timestamp_utc": "2026-10-07T13:53:35.000Z",
-      "timestamp_est": "2026-10-07T09:53:35-04:00",
-      "tweet_text": "@Michel__87 Can't even have 1/4 of a red day now after a 190+ rally without getting these kinds of comments. https://t.co/QshDT84OSS",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational/commentary reply to a user; no price levels named or actionable signals of any kind."
-    },
-    {
-      "tweet_id": "2107832195050090966",
-      "timestamp_utc": "2026-10-07T13:55:31.000Z",
-      "timestamp_est": "2026-10-07T09:55:31-04:00",
-      "tweet_text": "Slow grind lower in #ES_F as we begin the first healthy, mini retrace of the 190 point recent leg up from the 7707 Failed Breakdown last Thursday. We hit 7895 final target yesterday, and dipped.\n\n7845 must reclaim today to rally to 7859, 7867+.\n\n7811 next support of any note https://t.co/WQv3kpybIr",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7845, 7867, 7811 are all morning-plan levels; 7895 is a prior target observation; 7859 not named with actionable naming language, just a rally destination reference."
-    },
-    {
-      "tweet_id": "2107832596025536810",
-      "timestamp_utc": "2026-10-07T13:57:07.000Z",
-      "timestamp_est": "2026-10-07T09:57:07-04:00",
-      "tweet_text": "@NYJets2017 @Michel__87 The sentiment is very bizarre though and unlike I've seen in 11 years on Twitter. We can rally 190 points, be not even 1% off all time highs, and put in a routine retrace and people call tops. pre covid we'd sell for 2 weeks and people wouldn't be top calling",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure sentiment commentary; '190 points' and '1% off all time highs' are math/distance references, not actionable price levels."
-    },
     {
       "tweet_id": "2107836050127393203",
       "timestamp_utc": "2026-10-07T14:10:50.000Z",
