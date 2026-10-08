@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T18:13:14.783568+00:00",
-  "fetched_at_est": "2026-10-08T14:13:14.783572-04:00",
+  "fetched_at_utc": "2026-10-08T18:33:18.188378+00:00",
+  "fetched_at_est": "2026-10-08T14:33:18.188382-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107901204550361570",
-      "timestamp_utc": "2026-10-07T18:29:44.000Z",
-      "timestamp_est": "2026-10-07T14:29:44-04:00",
-      "tweet_text": "@RipellinoTom We go to 59, 67 per above tweets",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply referencing '59, 67' (likely 7759/7767) as shorthand for prior tweets \u2014 reaffirmation/reference, not a new actionable level introduction."
-    },
     {
       "tweet_id": "2107907717574648088",
       "timestamp_utc": "2026-10-07T18:55:37.000Z",
