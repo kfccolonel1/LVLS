@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T18:33:18.188378+00:00",
-  "fetched_at_est": "2026-10-08T14:33:18.188382-04:00",
+  "fetched_at_utc": "2026-10-08T19:03:22.898976+00:00",
+  "fetched_at_est": "2026-10-08T15:03:22.898982-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107907717574648088",
-      "timestamp_utc": "2026-10-07T18:55:37.000Z",
-      "timestamp_est": "2026-10-07T14:55:37-04:00",
-      "tweet_text": "Closing update #ES_F: Action slowing as we enter the final hour, but ES recovered 7845 which was the goal. It remains a magnet for us to charge up around to setup the next leg up. 7859 1st target, 7867 remain next. Newsletter was just sent with next entries from here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7845, 7867 are morning-plan levels; 7859 is a target reference but lacks explicit naming language qualifying it as a new major level."
-    },
     {
       "tweet_id": "2108161114093519026",
       "timestamp_utc": "2026-10-08T11:42:31.000Z",
