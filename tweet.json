@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T17:32:38.595001+00:00",
-  "fetched_at_est": "2026-10-08T13:32:38.595010-04:00",
+  "fetched_at_utc": "2026-10-08T17:42:56.815730+00:00",
+  "fetched_at_est": "2026-10-08T13:42:56.815755-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -150,6 +150,60 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7816-20, 7839, 7845, 7811, 7803) are either morning-plan levels or reaffirmations/observations of already-hit targets. 7803 reclaim reference lacks new naming language."
+    },
+    {
+      "tweet_id": "2108249337675280858",
+      "timestamp_utc": "2026-10-08T17:33:06.000Z",
+      "timestamp_est": "2026-10-08T13:33:06-04:00",
+      "tweet_text": "@TheHealingTrade Not sure what this means - the targets for today were for the 7816-20 Failed Breakdown that I gave live at 730am and in newsletter. The targets were 7839 and 7845 also given live. Both hit. The 7845 reclaim was a different trade from yesterday that got to ~7859 1st up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7816-20, 7839, 7845, 7859) are either morning-plan levels or hindsight references to already-published trades and targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2108249585579946439",
+      "timestamp_utc": "2026-10-08T17:34:05.000Z",
+      "timestamp_est": "2026-10-08T13:34:05-04:00",
+      "tweet_text": "@TheHealingTrade Here is the original tweet. It is all very clear and transparent https://t.co/L44bzSYJFL",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply with a URL link and no price levels named or actionable language present."
+    },
+    {
+      "tweet_id": "2108249734603518206",
+      "timestamp_utc": "2026-10-08T17:34:40.000Z",
+      "timestamp_est": "2026-10-08T13:34:40-04:00",
+      "tweet_text": "@TheHealingTrade Here is the excerpt from yesterdays newsletter, also very clear https://t.co/5A6DurUT8V",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply sharing a newsletter excerpt link with no price levels named or actionable language present."
+    },
+    {
+      "tweet_id": "2108249977247957194",
+      "timestamp_utc": "2026-10-08T17:35:38.000Z",
+      "timestamp_est": "2026-10-08T13:35:38-04:00",
+      "tweet_text": "@TheHealingTrade Here is the statement addressing yesterday's 7845 reclaim long, which a successful trade that got to 1st target up, runner trails out as always. https://t.co/wmIoWYoFlt",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7845 is already in morning plan; tweet is hindsight trade recap with no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2108250671682326781",
+      "timestamp_utc": "2026-10-08T17:38:24.000Z",
+      "timestamp_est": "2026-10-08T13:38:24-04:00",
+      "tweet_text": "@Trade1233288310 I didn't post about the 7803 Failed Breakdown until 7mins ago and it wasn't in newsletter either",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Defensive reply clarifying timing of a prior post; 7803 is referenced in past-tense context, not named as a new actionable level."
+    },
+    {
+      "tweet_id": "2108251536002548164",
+      "timestamp_utc": "2026-10-08T17:41:50.000Z",
+      "timestamp_est": "2026-10-08T13:41:50-04:00",
+      "tweet_text": "@PeriHelion96002 @TheHealingTrade Yes, also from the morning tweet!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply referencing existing morning levels; no new actionable price named."
     }
   ]
 }
