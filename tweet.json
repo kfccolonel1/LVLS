@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T19:03:22.898976+00:00",
-  "fetched_at_est": "2026-10-08T15:03:22.898982-04:00",
+  "fetched_at_utc": "2026-10-08T19:23:29.426938+00:00",
+  "fetched_at_est": "2026-10-08T15:23:29.426944-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -204,6 +204,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is hindsight commentary on morning-plan levels (7845, 7782 already published). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2108275859094151604",
+      "timestamp_utc": "2026-10-08T19:18:29.000Z",
+      "timestamp_est": "2026-10-08T15:18:29-04:00",
+      "tweet_text": "Closing update #ES_F: Today is printing trade after trade. The 7816-20 reclaim long was the 1st trade this morning with 7839, 7845 targets. We hit both. The 7803 reclaim was second with 7816 target. Hit. 7845 is next now. Newsletter out soon with next entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7816, 7820, 7839, 7845, 7803) are observations of trades/hits or morning-plan levels; no new actionable levels introduced."
     }
   ]
 }
