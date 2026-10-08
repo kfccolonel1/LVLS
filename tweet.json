@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T17:53:06.838796+00:00",
-  "fetched_at_est": "2026-10-08T13:53:06.838816-04:00",
+  "fetched_at_utc": "2026-10-08T18:03:12.157288+00:00",
+  "fetched_at_est": "2026-10-08T14:03:12.157294-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -231,6 +231,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Trade management commentary about runner discretion; no actionable price level named."
+    },
+    {
+      "tweet_id": "2108254817604755875",
+      "timestamp_utc": "2026-10-08T17:54:52.000Z",
+      "timestamp_est": "2026-10-08T13:54:52-04:00",
+      "tweet_text": "@NQtrader11 They've quite literally worked perfectly today. 7845 was the final target. The highs for this mornings rally were 7845-50. 7782 was support, it held exact.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is hindsight commentary on morning-plan levels (7845, 7782 already published). No new actionable levels named."
     }
   ]
 }
