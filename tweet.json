@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T17:02:30.893358+00:00",
-  "fetched_at_est": "2026-10-08T13:02:30.893364-04:00",
+  "fetched_at_utc": "2026-10-08T17:32:38.595001+00:00",
+  "fetched_at_est": "2026-10-08T13:32:38.595010-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -141,6 +141,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2108249049019068487",
+      "timestamp_utc": "2026-10-08T17:31:57.000Z",
+      "timestamp_est": "2026-10-08T13:31:57-04:00",
+      "tweet_text": "Its been a clean session today in #ES_F. All about 7816-20. Per newsletter and tweeted live here at 730AM: 7816-20 reclaim triggers long. Today had two targets: 7839 (hit), 7845 (hit). We hit the final, and dipped. Now, we do it over again\n\n7803 reclaim to see 7811, 7816-20+ https://t.co/lcWxHVRNG1",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7816-20, 7839, 7845, 7811, 7803) are either morning-plan levels or reaffirmations/observations of already-hit targets. 7803 reclaim reference lacks new naming language."
     }
   ]
 }
