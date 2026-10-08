@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T16:12:24.218974+00:00",
-  "fetched_at_est": "2026-10-08T12:12:24.218986-04:00",
+  "fetched_at_utc": "2026-10-08T17:02:30.893358+00:00",
+  "fetched_at_est": "2026-10-08T13:02:30.893364-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -14,26 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107877250297192947",
-      "timestamp_utc": "2026-10-07T16:54:33.000Z",
-      "timestamp_est": "2026-10-07T12:54:33-04:00",
-      "tweet_text": "@OnTheHooch If you can't be bullish when the market is in a clear uptrend and not far from all time highs, it means theres a very, very serious bias",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary/rebuke about bias; no price level named, no actionable trigger, support, or resistance mentioned."
-    },
-    {
-      "tweet_id": "2107877584809984475",
-      "timestamp_utc": "2026-10-07T16:55:53.000Z",
-      "timestamp_est": "2026-10-07T12:55:53-04:00",
-      "tweet_text": "No volatility but levels respecting well in #ES_F. After a 190 point leg up from Thursday's 7707 Failed Breakdown, we are digesting the move. 7822 support and 7845 res and as posted, 7845 (Sept 21-23rd highs) is now the magnet. Chop region.\n\nReclaim with force sees 7859, 7867+ https://t.co/ck9vVh2Je9",
-      "added_bull_levels": [
-        7859.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7859 named as a new actionable target on reclaim with force \u2014 not in morning plan. 7822, 7845, 7867 are all morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2107895284181176629",
       "timestamp_utc": "2026-10-07T18:06:13.000Z",
