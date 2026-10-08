@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T14:41:57.814039+00:00",
-  "fetched_at_est": "2026-10-08T10:41:57.814056-04:00",
+  "fetched_at_utc": "2026-10-08T14:52:00.468746+00:00",
+  "fetched_at_est": "2026-10-08T10:52:00.468752-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2107844294694613221",
-      "timestamp_utc": "2026-10-07T14:43:36.000Z",
-      "timestamp_est": "2026-10-07T10:43:36-04:00",
-      "tweet_text": "Volatility is drying up here in #ES_F as we undergo the first retrace after the 190 point recent rally from the 7707 Failed Breakdown on Thursday.\n\nPer newsletter, 7822 is major support, stuck here. 7811 is below then nothing until 7782. 7845 must reclaim today to start a rally https://t.co/hO8fjtvHmE",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7822, 7811, 7782, 7845, 7707) are already in today's morning plan. Reaffirmations only, no new levels."
-    },
-    {
-      "tweet_id": "2107845247862780367",
-      "timestamp_utc": "2026-10-07T14:47:23.000Z",
-      "timestamp_est": "2026-10-07T10:47:23-04:00",
-      "tweet_text": "@jdgarber9 Thats typical on retrace days, afternoon strength. No volatility now though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market character; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2107848917480354111",
       "timestamp_utc": "2026-10-07T15:01:58.000Z",
