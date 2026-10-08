@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T17:42:56.815730+00:00",
-  "fetched_at_est": "2026-10-08T13:42:56.815755-04:00",
+  "fetched_at_utc": "2026-10-08T17:53:06.838796+00:00",
+  "fetched_at_est": "2026-10-08T13:53:06.838816-04:00",
   "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
   "todays_new_levels": [
     {
@@ -204,6 +204,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a conversational reply referencing existing morning levels; no new actionable price named."
+    },
+    {
+      "tweet_id": "2108252144759386362",
+      "timestamp_utc": "2026-10-08T17:44:15.000Z",
+      "timestamp_est": "2026-10-08T13:44:15-04:00",
+      "tweet_text": "@NYJets2017 @PeriHelion96002 @TheHealingTrade I didn't take that - it did hold   nicely though! That would've been a knife catch for sure",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about a trade not taken; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2108253468943065357",
+      "timestamp_utc": "2026-10-08T17:49:31.000Z",
+      "timestamp_est": "2026-10-08T13:49:31-04:00",
+      "tweet_text": "@TheHealingTrade I don't state in the newsletter what happens with every runner as it becomes redundant since they are always handled the same way. All runners end up stopped out by design. The 10% runner trails out under the prior days low and for the 25% runners since I don't want to go green",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply explaining runner/trailing stop methodology with no actionable price levels named."
+    },
+    {
+      "tweet_id": "2108253700724797534",
+      "timestamp_utc": "2026-10-08T17:50:26.000Z",
+      "timestamp_est": "2026-10-08T13:50:26-04:00",
+      "tweet_text": "@TheHealingTrade On rare occasions where a runner goes hundreds of points sometimes I'll be a little more discretionary with when I exit it and will let it go below the prior days low if I like the overall structure, but those are only for those extreme cases",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management commentary about runner discretion; no actionable price level named."
     }
   ]
 }
