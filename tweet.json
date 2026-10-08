@@ -1,20 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T14:01:38.433923+00:00",
-  "fetched_at_est": "2026-10-08T10:01:38.433926-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-10-08T14:11:44.524688+00:00",
+  "fetched_at_est": "2026-10-08T10:11:44.524693-04:00",
+  "last_new_level_added_at_est": "2026-10-08T10:10:11-04:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2107836050127393203",
-      "timestamp_utc": "2026-10-07T14:10:50.000Z",
-      "timestamp_est": "2026-10-07T10:10:50-04:00",
-      "tweet_text": "@upandown007 We never triggered any recovery of 7845. Entry would be at 7850 as always",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7845 is a morning-plan level; 7850 is a fill/entry reference tied to it, not a newly named actionable level in its own right."
-    },
+      "price": 7858.0,
+      "side": "bull",
+      "added_at_est": "2026-10-08T10:10:11-04:00",
+      "expires_at_est": "2026-10-08T18:10:11-04:00",
+      "from_tweet_id": "2108198274079539262"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2107844294694613221",
       "timestamp_utc": "2026-10-07T14:43:36.000Z",
@@ -135,6 +134,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7816-20, 7839, 7845, 7802) are either morning-plan levels or reaffirmations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2108198274079539262",
+      "timestamp_utc": "2026-10-08T14:10:11.000Z",
+      "timestamp_est": "2026-10-08T10:10:11-04:00",
+      "tweet_text": "Good follow through in #ES_F though volatility remains low and action is slow. Today's entry was on the 7816-20 Failed Breakdown. It was given live here at 730AM and in yesterday's newsletter. 7839 was first target, arriving now. *Lock Gains Here*\n\n7845 next, then 7858+ https://t.co/fm6E1Sozzl",
+      "added_bull_levels": [
+        7858.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7858 named as next upside target beyond 7845 with '+' indicating extension; not in morning plan. 7839/7845 are morning-plan reaffirmations."
     }
   ]
 }
