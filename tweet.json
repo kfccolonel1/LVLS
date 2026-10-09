@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T17:36:41.653356+00:00",
-  "fetched_at_est": "2026-10-09T13:36:41.653366-04:00",
+  "fetched_at_utc": "2026-10-09T17:46:44.096826+00:00",
+  "fetched_at_est": "2026-10-09T13:46:44.096833-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2108250671682326781",
-      "timestamp_utc": "2026-10-08T17:38:24.000Z",
-      "timestamp_est": "2026-10-08T13:38:24-04:00",
-      "tweet_text": "@Trade1233288310 I didn't post about the 7803 Failed Breakdown until 7mins ago and it wasn't in newsletter either",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Defensive reply clarifying timing of a prior post; 7803 is referenced in past-tense context, not named as a new actionable level."
-    },
-    {
-      "tweet_id": "2108251536002548164",
-      "timestamp_utc": "2026-10-08T17:41:50.000Z",
-      "timestamp_est": "2026-10-08T13:41:50-04:00",
-      "tweet_text": "@PeriHelion96002 @TheHealingTrade Yes, also from the morning tweet!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply referencing existing morning levels; no new actionable price named."
-    },
-    {
-      "tweet_id": "2108252144759386362",
-      "timestamp_utc": "2026-10-08T17:44:15.000Z",
-      "timestamp_est": "2026-10-08T13:44:15-04:00",
-      "tweet_text": "@NYJets2017 @PeriHelion96002 @TheHealingTrade I didn't take that - it did hold   nicely though! That would've been a knife catch for sure",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about a trade not taken; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2108253468943065357",
       "timestamp_utc": "2026-10-08T17:49:31.000Z",
