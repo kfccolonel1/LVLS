@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T14:45:56.763919+00:00",
-  "fetched_at_est": "2026-10-09T10:45:56.763925-04:00",
+  "fetched_at_utc": "2026-10-09T15:26:06.803640+00:00",
+  "fetched_at_est": "2026-10-09T11:26:06.803656-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -221,6 +221,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7803, 7839, 7845) are morning-plan levels or hindsight references to trades already taken; '40 reclaim to pop to 52, 57+' are vague partial prices, not new actionable levels."
+    },
+    {
+      "tweet_id": "2108577893521727768",
+      "timestamp_utc": "2026-10-09T15:18:39.000Z",
+      "timestamp_est": "2026-10-09T11:18:39-04:00",
+      "tweet_text": "This is very low vol chop in #ES_F around 7840 which is a magnet. We are still running from yesterday's 7803 Failed Breakdown long given live here. We are charging up for an enormous trend leg soon\n\n7840 reclaim was new trigger just posted. 7852 1st target (hit). 7857, 7871 next https://t.co/nb0a0Sf2IW",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7840 framed as 'just posted' trigger but is a reclaim/observation reference; 7852/7857/7871 are hits or morning-plan levels. No genuinely new actionable level introduced."
+    },
+    {
+      "tweet_id": "2108579458932166668",
+      "timestamp_utc": "2026-10-09T15:24:53.000Z",
+      "timestamp_est": "2026-10-09T11:24:53-04:00",
+      "tweet_text": "Note: Plan from last nights newsletter is still tracking perfectly, 7871 remains a magnet and once that recovers, we should be clear for all time highs. We've had numerous entries since yesterday - let your runners work https://t.co/BRoqZMQVmp",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7871 is already in morning plan; tweet is a reaffirmation/trade management comment with no new actionable levels introduced."
     }
   ]
 }
