@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T14:25:53.233149+00:00",
-  "fetched_at_est": "2026-10-09T10:25:53.233160-04:00",
+  "fetched_at_utc": "2026-10-09T14:45:56.763919+00:00",
+  "fetched_at_est": "2026-10-09T10:45:56.763925-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2108205685204816224",
-      "timestamp_utc": "2026-10-08T14:39:38.000Z",
-      "timestamp_est": "2026-10-08T10:39:38-04:00",
-      "tweet_text": "Easy session in #ES_F. Today's long was the 7816-20 recovery/Failed Breakdown, given here live at 730AM and in yesterday's newsletter. Targets for this long were 7839 (hit), 7845 (hit). Now just let a runner work.\n\n7858 next, then 7867-72 to backtest yesterday's breakdown. Magnet https://t.co/mWE5g5wfSF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7816-20 entry and 7839/7845 targets are morning-plan levels; 7858 and 7867-72 mentioned as 'next' targets but without explicit naming language qualifying them as NEW major levels."
-    },
-    {
-      "tweet_id": "2108205777232023563",
-      "timestamp_utc": "2026-10-08T14:40:00.000Z",
-      "timestamp_est": "2026-10-08T10:40:00-04:00",
-      "tweet_text": "@NerdRageDan I don't ever expect downside. I am always bullish in an uptrend.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary/reply with no price level named whatsoever."
-    },
     {
       "tweet_id": "2108218969211523242",
       "timestamp_utc": "2026-10-08T15:32:25.000Z",
