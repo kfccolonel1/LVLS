@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T15:26:06.803640+00:00",
-  "fetched_at_est": "2026-10-09T11:26:06.803656-04:00",
+  "fetched_at_utc": "2026-10-09T15:36:15.834424+00:00",
+  "fetched_at_est": "2026-10-09T11:36:15.834447-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2108218969211523242",
-      "timestamp_utc": "2026-10-08T15:32:25.000Z",
-      "timestamp_est": "2026-10-08T11:32:25-04:00",
-      "tweet_text": "Straightforward session today in #ES_F. The long entry given was the 7816-20 recovery given live at 730am and in newsletter. 2 targets were given for today: 7839 (hit), and 7845 (hit). Thats it for today, we dipped there.\n\n7816-20=support, same upsides and downsides otherwise https://t.co/LaXIrIgZW4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices (7816-20, 7839, 7845) are morning-plan levels. Tweet is a hindsight recap with no new actionable levels named."
-    },
     {
       "tweet_id": "2108227705405612505",
       "timestamp_utc": "2026-10-08T16:07:08.000Z",
@@ -239,6 +230,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7871 is already in morning plan; tweet is a reaffirmation/trade management comment with no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2108579887862694052",
+      "timestamp_utc": "2026-10-09T15:26:35.000Z",
+      "timestamp_est": "2026-10-09T11:26:35-04:00",
+      "tweet_text": "@NerdRageDan Nobody should be looking for downside when price is in an uptrend and this close to ATH's. No technical rationale to even be thinking about it unless to get clicks on social media",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary/opinion with no price named. No actionable level introduced."
+    },
+    {
+      "tweet_id": "2108580181703352458",
+      "timestamp_utc": "2026-10-09T15:27:45.000Z",
+      "timestamp_est": "2026-10-09T11:27:45-04:00",
+      "tweet_text": "@T_Ngo_T I didn't trade this personally, but I still tweet out entries. I'll only trade if we get another big \"elevator down\" sell. Fingers crossed!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply; no price levels named, no actionable entries, just commentary about personal trading preference."
+    },
+    {
+      "tweet_id": "2108580812140487065",
+      "timestamp_utc": "2026-10-09T15:30:15.000Z",
+      "timestamp_est": "2026-10-09T11:30:15-04:00",
+      "tweet_text": "@NerdRageDan Things much easier when you respect the trend - price tracks the trend 75-80% of the time. People are more concerned with guessing the 20% than sticking with the 80%",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational/philosophical commentary about trend-following. No price levels named or implied whatsoever."
     }
   ]
 }
