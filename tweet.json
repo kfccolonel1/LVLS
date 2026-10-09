@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T16:16:20.823149+00:00",
-  "fetched_at_est": "2026-10-09T12:16:20.823156-04:00",
+  "fetched_at_utc": "2026-10-09T16:26:26.238309+00:00",
+  "fetched_at_est": "2026-10-09T12:26:26.238315-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure educational/philosophical commentary about trend-following. No price levels named or implied whatsoever."
+    },
+    {
+      "tweet_id": "2108594701980885325",
+      "timestamp_utc": "2026-10-09T16:25:27.000Z",
+      "timestamp_est": "2026-10-09T12:25:27-04:00",
+      "tweet_text": "@OnTheHooch @NerdRageDan Have to lose the oct low before you can even think of a new *short term* trend",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 'oct low' conceptually with no explicit price named; no actionable level with naming language."
     }
   ]
 }
