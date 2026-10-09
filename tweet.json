@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-08T22:13:48.460914+00:00",
-  "fetched_at_est": "2026-10-08T18:13:48.460918-04:00",
+  "fetched_at_utc": "2026-10-09T11:45:18.477473+00:00",
+  "fetched_at_est": "2026-10-09T07:45:18.477483-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2108161114093519026",
-      "timestamp_utc": "2026-10-08T11:42:31.000Z",
-      "timestamp_est": "2026-10-08T07:42:31-04:00",
-      "tweet_text": "Nice overnight burst of volatility in #ES_F after spending all yesterday glued to the 7845 magnet. We are digesting and retracing after the 190 point leg up, to build structure to setup next leg\n\nPlan today: 7816-20=key. Must reclaim to see 7839, 7845 magnet. 7803 fails, dip https://t.co/6mzTfttDjR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7816-20, 7839, 7845, 7803) are reaffirmations or observations; 7803 not in morning plan but framed as conditional observation, not a named actionable level."
-    },
-    {
-      "tweet_id": "2108161297900622032",
-      "timestamp_utc": "2026-10-08T11:43:15.000Z",
-      "timestamp_est": "2026-10-08T07:43:15-04:00",
-      "tweet_text": "@KhareedBech Resistance of the big megaphone pattern (red in newsletter) is the obvious magnet now. Its a conservative one though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No explicit price named; vague reference to 'megaphone pattern resistance' with no actionable number given."
-    },
     {
       "tweet_id": "2108182648329806214",
       "timestamp_utc": "2026-10-08T13:08:06.000Z",
@@ -205,6 +187,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7816, 7820, 7839, 7845, 7803) are observations of trades/hits or morning-plan levels; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2108522052714139915",
+      "timestamp_utc": "2026-10-09T11:36:46.000Z",
+      "timestamp_est": "2026-10-09T07:36:46-04:00",
+      "tweet_text": "Perfect follow through and #ES_F does same thing over and over: Elevator down, bear trap/Failed Breakdown, rip. 7803 reclaim was our long trigger given live ystd. Targets were 7839 (hit), 7845 (hit)\n\nPlan: Ride runner until we do it over. 7858 next, then 7872. 7839, 7822=support https://t.co/x1vnTFlPI6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7803, 7839, 7845, 7858\u22487857, 7872\u22487871, 7822) are morning-plan levels or observations of hits; no genuinely new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2108523643764646163",
+      "timestamp_utc": "2026-10-09T11:43:05.000Z",
+      "timestamp_est": "2026-10-09T07:43:05-04:00",
+      "tweet_text": "@_MindfulMC Has repeated for nearly 100 years and almost everyday for the 20 years I've been trading ES now. ES doesn't change and people respond to the traps the same way every time",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational/philosophical reply about trading patterns and history. No price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2108523817777905827",
+      "timestamp_utc": "2026-10-09T11:43:47.000Z",
+      "timestamp_est": "2026-10-09T07:43:47-04:00",
+      "tweet_text": "@_MindfulMC (except for Mode 1 days, which are about 10% of sessions overall)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply fragment with no price levels named, no actionable language, and no trading signals whatsoever."
+    },
+    {
+      "tweet_id": "2108524046514020568",
+      "timestamp_utc": "2026-10-09T11:44:41.000Z",
+      "timestamp_est": "2026-10-09T07:44:41-04:00",
+      "tweet_text": "@IsshoKnows They all just exist simultaneously. I always have many channels on my chart, the most recent ones are the most important",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about charting methodology; no price levels named or actionable signals given."
     }
   ]
 }
