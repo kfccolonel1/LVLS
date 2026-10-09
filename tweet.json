@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T15:36:15.834424+00:00",
-  "fetched_at_est": "2026-10-09T11:36:15.834447-04:00",
+  "fetched_at_utc": "2026-10-09T16:16:20.823149+00:00",
+  "fetched_at_est": "2026-10-09T12:16:20.823156-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2108227705405612505",
-      "timestamp_utc": "2026-10-08T16:07:08.000Z",
-      "timestamp_est": "2026-10-08T12:07:08-04:00",
-      "tweet_text": "@NerdRageDan The runner is fine, but all runners die, that is the point of them. It is a cost and risk free lotto on additional upside. They all get trailed out",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management commentary about runners and trailing stops; no actionable price level named."
-    },
-    {
-      "tweet_id": "2108227805666271453",
-      "timestamp_utc": "2026-10-08T16:07:32.000Z",
-      "timestamp_est": "2026-10-08T12:07:32-04:00",
-      "tweet_text": "@OnTheHooch Back into Mode 2 now, runners dont last long in Mode 2",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market-mode commentary with no price named; no actionable level introduced."
-    },
-    {
-      "tweet_id": "2108227841124892862",
-      "timestamp_utc": "2026-10-08T16:07:40.000Z",
-      "timestamp_est": "2026-10-08T12:07:40-04:00",
-      "tweet_text": "@305HRHitter If we got it I would!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no price levels mentioned at all."
-    },
     {
       "tweet_id": "2108249049019068487",
       "timestamp_utc": "2026-10-08T17:31:57.000Z",
