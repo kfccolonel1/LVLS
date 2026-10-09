@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T17:46:44.096826+00:00",
-  "fetched_at_est": "2026-10-09T13:46:44.096833-04:00",
+  "fetched_at_utc": "2026-10-09T17:56:46.281992+00:00",
+  "fetched_at_est": "2026-10-09T13:56:46.281999-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2108253468943065357",
-      "timestamp_utc": "2026-10-08T17:49:31.000Z",
-      "timestamp_est": "2026-10-08T13:49:31-04:00",
-      "tweet_text": "@TheHealingTrade I don't state in the newsletter what happens with every runner as it becomes redundant since they are always handled the same way. All runners end up stopped out by design. The 10% runner trails out under the prior days low and for the 25% runners since I don't want to go green",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply explaining runner/trailing stop methodology with no actionable price levels named."
-    },
-    {
-      "tweet_id": "2108253700724797534",
-      "timestamp_utc": "2026-10-08T17:50:26.000Z",
-      "timestamp_est": "2026-10-08T13:50:26-04:00",
-      "tweet_text": "@TheHealingTrade On rare occasions where a runner goes hundreds of points sometimes I'll be a little more discretionary with when I exit it and will let it go below the prior days low if I like the overall structure, but those are only for those extreme cases",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management commentary about runner discretion; no actionable price level named."
-    },
-    {
-      "tweet_id": "2108254817604755875",
-      "timestamp_utc": "2026-10-08T17:54:52.000Z",
-      "timestamp_est": "2026-10-08T13:54:52-04:00",
-      "tweet_text": "@NQtrader11 They've quite literally worked perfectly today. 7845 was the final target. The highs for this mornings rally were 7845-50. 7782 was support, it held exact.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is hindsight commentary on morning-plan levels (7845, 7782 already published). No new actionable levels named."
-    },
     {
       "tweet_id": "2108275859094151604",
       "timestamp_utc": "2026-10-08T19:18:29.000Z",
