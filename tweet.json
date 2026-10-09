@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T13:15:40.450553+00:00",
-  "fetched_at_est": "2026-10-09T09:15:40.450558-04:00",
+  "fetched_at_utc": "2026-10-09T14:15:47.656899+00:00",
+  "fetched_at_est": "2026-10-09T10:15:47.656905-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2108198274079539262",
-      "timestamp_utc": "2026-10-08T14:10:11.000Z",
-      "timestamp_est": "2026-10-08T10:10:11-04:00",
-      "tweet_text": "Good follow through in #ES_F though volatility remains low and action is slow. Today's entry was on the 7816-20 Failed Breakdown. It was given live here at 730AM and in yesterday's newsletter. 7839 was first target, arriving now. *Lock Gains Here*\n\n7845 next, then 7858+ https://t.co/fm6E1Sozzl",
-      "added_bull_levels": [
-        7858.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7858 named as next upside target beyond 7845 with '+' indicating extension; not in morning plan. 7839/7845 are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2108205685204816224",
       "timestamp_utc": "2026-10-08T14:39:38.000Z",
