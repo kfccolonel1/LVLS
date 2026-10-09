@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T18:06:53.379774+00:00",
-  "fetched_at_est": "2026-10-09T14:06:53.379786-04:00",
+  "fetched_at_utc": "2026-10-09T18:17:00.675197+00:00",
+  "fetched_at_est": "2026-10-09T14:17:00.675214-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -176,6 +176,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about trading philosophy/approach; no prices or actionable levels mentioned at all."
+    },
+    {
+      "tweet_id": "2108621532410819000",
+      "timestamp_utc": "2026-10-09T18:12:04.000Z",
+      "timestamp_est": "2026-10-09T14:12:04-04:00",
+      "tweet_text": "We continue to run. 3 longs were given for this leg (lots more ahead): Long #1 was the 7803 Failed Breakdown yesterday - given live. Long #2 was 7822 reclaim given in newsletter and Long #3 was the 7840 reclaim given live here today\n\nTargets were 7852, 7857, 7872. Just 72 left https://t.co/iYBkFxxRLc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7803, 7822, 7840, 7852, 7857, 7872) are trade recap/hindsight references or already in morning plan. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2108621721246867610",
+      "timestamp_utc": "2026-10-09T18:12:49.000Z",
+      "timestamp_est": "2026-10-09T14:12:49-04:00",
+      "tweet_text": "Note: Newsletter will be out soon with what comes after 7872, but we are likely setting up for a large trend leg. Unfortunately this will mean intraday entries may be scarce so its important to take advantage the few \"elevator down\" dips we may have left before it starts",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No explicit actionable price levels named; tweet is directional commentary about a pending trend leg with no new entry, target, or trigger prices."
     }
   ]
 }
