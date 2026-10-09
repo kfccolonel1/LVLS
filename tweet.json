@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T14:15:47.656899+00:00",
-  "fetched_at_est": "2026-10-09T10:15:47.656905-04:00",
+  "fetched_at_utc": "2026-10-09T14:25:53.233149+00:00",
+  "fetched_at_est": "2026-10-09T10:25:53.233160-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7803, 7839, 7845, 7822, 7858, 7872) are morning-plan levels or hindsight references to prior trades; no genuinely new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2108562394444447752",
+      "timestamp_utc": "2026-10-09T14:17:04.000Z",
+      "timestamp_est": "2026-10-09T10:17:04-04:00",
+      "tweet_text": "Back to low volatility in #ES_F. I get interested when we see what we did yesterday: A vertical \"elevator down\" that gets people top calling. Then, trade the Failed Breakdown and rip. 7803 Failed Breakdown was long given. 7839, 7845 were targets, hit\n\n40 reclaim to pop to 52, 57+ https://t.co/SZHuBd6wTt",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7803, 7839, 7845) are morning-plan levels or hindsight references to trades already taken; '40 reclaim to pop to 52, 57+' are vague partial prices, not new actionable levels."
     }
   ]
 }
