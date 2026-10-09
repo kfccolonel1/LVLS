@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-09T18:17:00.675197+00:00",
-  "fetched_at_est": "2026-10-09T14:17:00.675214-04:00",
+  "fetched_at_utc": "2026-10-09T19:07:11.520131+00:00",
+  "fetched_at_est": "2026-10-09T15:07:11.520145-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -194,6 +194,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No explicit actionable price levels named; tweet is directional commentary about a pending trend leg with no new entry, target, or trigger prices."
+    },
+    {
+      "tweet_id": "2108635063323693496",
+      "timestamp_utc": "2026-10-09T19:05:50.000Z",
+      "timestamp_est": "2026-10-09T15:05:50-04:00",
+      "tweet_text": "@dj_cremebrulee Its a big issue on Twitter unfortunately - it rewards doom posting so end up with a situation where people are shorting month after month, then they lose everything before a sell actually comes and will never even make it back to even (then those same people start calling",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about Twitter doom-posting behavior and trader psychology. No price levels named or referenced whatsoever."
+    },
+    {
+      "tweet_id": "2108635259155755395",
+      "timestamp_utc": "2026-10-09T19:06:36.000Z",
+      "timestamp_est": "2026-10-09T15:06:36-04:00",
+      "tweet_text": "@dj_cremebrulee Shouldn't be a single bearish post anywhere on Twitter with the trend and structure as it is",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary/opinion with no price level named or actionable instruction given."
     }
   ]
 }
