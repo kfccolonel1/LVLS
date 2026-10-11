@@ -1,9 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-11T11:35:03.167813+00:00",
-  "fetched_at_est": "2026-10-11T07:35:03.167819-04:00",
+  "fetched_at_utc": "2026-10-11T20:05:50.244135+00:00",
+  "fetched_at_est": "2026-10-11T16:05:50.244140-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
-  "updates": []
+  "updates": [
+    {
+      "tweet_id": "2109374002770715087",
+      "timestamp_utc": "2026-10-11T20:02:07.000Z",
+      "timestamp_est": "2026-10-11T16:02:07-04:00",
+      "tweet_text": "Trading is never perfect. On every *winning* trade I either 1) Exit most size too early 2) Exit too late. You won't consistently top &amp; bottom tick moves. Impossible. Goal is to be green &amp; take pieces out follow a consistent trade management process trade after trade, not perfect",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trading philosophy commentary. No prices mentioned, no actionable levels named."
+    }
+  ]
 }
