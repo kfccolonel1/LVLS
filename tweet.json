@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-12T17:18:09.045945+00:00",
-  "fetched_at_est": "2026-10-12T13:18:09.045951-04:00",
+  "fetched_at_utc": "2026-10-12T18:48:20.610664+00:00",
+  "fetched_at_est": "2026-10-12T14:48:20.610669-04:00",
   "last_new_level_added_at_est": "2026-10-12T07:53:29-04:00",
   "todays_new_levels": [
     {
@@ -86,6 +86,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7853, 7872, 7884) are already in today's morning plan. Commentary on volatility and trade management only; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2109716204004770146",
+      "timestamp_utc": "2026-10-12T18:41:54.000Z",
+      "timestamp_est": "2026-10-12T14:41:54-04:00",
+      "tweet_text": "Closing update #ES_F: Newsletter was sent early today as we have no volatility to work with. In it I include the first entries to the downside if we luck out and actually get a dip",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific prices named; general commentary about newsletter and potential dip with no actionable level explicitly stated."
     }
   ]
 }
