@@ -1,10 +1,25 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-11T20:05:50.244135+00:00",
-  "fetched_at_est": "2026-10-11T16:05:50.244140-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-10-12T11:57:11.647205+00:00",
+  "fetched_at_est": "2026-10-12T07:57:11.647210-04:00",
+  "last_new_level_added_at_est": "2026-10-12T07:53:29-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7879.0,
+      "side": "bull",
+      "added_at_est": "2026-10-12T07:53:29-04:00",
+      "expires_at_est": "2026-10-12T15:53:29-04:00",
+      "from_tweet_id": "2109613423906656436"
+    },
+    {
+      "price": 7903.0,
+      "side": "bull",
+      "added_at_est": "2026-10-12T07:53:29-04:00",
+      "expires_at_est": "2026-10-12T15:53:29-04:00",
+      "from_tweet_id": "2109613423906656436"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2109374002770715087",
@@ -14,6 +29,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trading philosophy commentary. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2109613423906656436",
+      "timestamp_utc": "2026-10-12T11:53:29.000Z",
+      "timestamp_est": "2026-10-12T07:53:29-04:00",
+      "tweet_text": "The long keeps printing in #ES_F. 7803 Reclaim Thursday was last major long trigger. Targets were 7852, 7857, 7872 (all hit). Now, entries are low quality until we go *elevator down* to setup next bear trap\n\nPlan: 7853/7840=supports. 7872=low quality reclaim to 7879, 7884, 7903 https://t.co/iYBkFxypAK",
+      "added_bull_levels": [
+        7879.0,
+        7903.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7879 and 7903 are named as new upside targets not in morning plan; 7853/7840/7872/7884 are all morning-plan reaffirmations."
     }
   ]
 }
