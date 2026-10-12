@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-12T11:57:11.647205+00:00",
-  "fetched_at_est": "2026-10-12T07:57:11.647210-04:00",
+  "fetched_at_utc": "2026-10-12T13:07:22.201472+00:00",
+  "fetched_at_est": "2026-10-12T09:07:22.201477-04:00",
   "last_new_level_added_at_est": "2026-10-12T07:53:29-04:00",
   "todays_new_levels": [
     {
@@ -41,6 +41,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7879 and 7903 are named as new upside targets not in morning plan; 7853/7840/7872/7884 are all morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2109629514859123112",
+      "timestamp_utc": "2026-10-12T12:57:26.000Z",
+      "timestamp_est": "2026-10-12T08:57:26-04:00",
+      "tweet_text": "Now we have no volatility in #ES_F and I don't touch this.  I trade when we go \"elevator down\" to setup a Failed Breakdown then bear trap. We are running nicely from the 7803 Failed Breakdown Thursday\n\n7872 must recover today to pop to 7884, 7903+. 7853/7840 are first supports https://t.co/KI9dNaDvz9",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7803, 7872, 7884, 7853, 7840) are in today's morning plan; 7903 is close to 7914 but not explicitly named as new \u2014 all are reaffirmations or observations."
     }
   ]
 }
