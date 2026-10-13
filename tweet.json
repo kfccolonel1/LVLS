@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T17:10:59.717189+00:00",
-  "fetched_at_est": "2026-10-13T13:10:59.717194-04:00",
+  "fetched_at_utc": "2026-10-13T17:31:06.164844+00:00",
+  "fetched_at_est": "2026-10-13T13:31:06.164848-04:00",
   "last_new_level_added_at_est": "2026-10-13T09:50:07-04:00",
   "todays_new_levels": [
     {
@@ -99,6 +99,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7858/7853/7872/7884/7822/7840 are all observations, reaffirmations of morning levels, or price-action commentary \u2014 no newly named actionable levels."
+    },
+    {
+      "tweet_id": "2110059405165158667",
+      "timestamp_utc": "2026-10-13T17:25:39.000Z",
+      "timestamp_est": "2026-10-13T13:25:39-04:00",
+      "tweet_text": "Level to level precision in #ES_F, but we have no volatility again. We dipped this morning down to 7835 around noon, and I posted that 7840 must recover to pop back to the 7853 magnet. We hit it exact, and rejected. 7872, 7884 are above if ES ever unpins.\n\nDon't overtrade https://t.co/tNJDabmE5Q",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7835/7840/7853 are observations of price action and hindsight references; 7872 and 7884 are already in morning plan. No new actionable levels named."
     }
   ]
 }
