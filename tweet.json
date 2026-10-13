@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T15:50:49.589564+00:00",
-  "fetched_at_est": "2026-10-13T11:50:49.589569-04:00",
+  "fetched_at_utc": "2026-10-13T17:10:59.717189+00:00",
+  "fetched_at_est": "2026-10-13T13:10:59.717194-04:00",
   "last_new_level_added_at_est": "2026-10-13T09:50:07-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2109692914267730133",
-      "timestamp_utc": "2026-10-12T17:09:21.000Z",
-      "timestamp_est": "2026-10-12T13:09:21-04:00",
-      "tweet_text": "Lvls perfect today but there is no volatility. No volatility means if you over-trade, you lose. I trade when we get a big \"elevator down\" vol spike to trap bears and setup a Failed Breakdown\n\n7853=support, been here for 2+ hours. Must hold and recover 7872 to see 7884+. 40 below https://t.co/bQbM7iBUTq",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7853, 7872, 7884) are already in today's morning plan. Commentary on volatility and trade management only; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2109716204004770146",
       "timestamp_utc": "2026-10-12T18:41:54.000Z",
