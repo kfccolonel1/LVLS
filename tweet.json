@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T13:10:08.570531+00:00",
-  "fetched_at_est": "2026-10-13T09:10:08.570537-04:00",
+  "fetched_at_utc": "2026-10-13T13:50:17.583368+00:00",
+  "fetched_at_est": "2026-10-13T09:50:17.583377-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -68,6 +68,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7853/7840/7858/7872/7884 are all reaffirmations of morning plan levels or observations of price action; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2110004665018433860",
+      "timestamp_utc": "2026-10-13T13:48:08.000Z",
+      "timestamp_est": "2026-10-13T09:48:08-04:00",
+      "tweet_text": "@eldnitj A Failed Breakdown refers very specifically to the loss and recovery of a significant low (refer to newsletter). A trap is just a low quality level reclaim of an S/R line",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Educational reply defining 'Failed Breakdown' vs 'trap' \u2014 no price named, purely conceptual/terminology explanation."
     }
   ]
 }
