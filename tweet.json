@@ -1,10 +1,25 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T13:50:17.583368+00:00",
-  "fetched_at_est": "2026-10-13T09:50:17.583377-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-10-13T14:00:23.368652+00:00",
+  "fetched_at_est": "2026-10-13T10:00:23.368657-04:00",
+  "last_new_level_added_at_est": "2026-10-13T09:50:07-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7853.0,
+      "side": "bear",
+      "added_at_est": "2026-10-13T09:50:07-04:00",
+      "expires_at_est": "2026-10-13T17:50:07-04:00",
+      "from_tweet_id": "2110005162848698767"
+    },
+    {
+      "price": 7840.0,
+      "side": "bear",
+      "added_at_est": "2026-10-13T09:50:07-04:00",
+      "expires_at_est": "2026-10-13T17:50:07-04:00",
+      "from_tweet_id": "2110005162848698767"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2109653001803546724",
@@ -77,6 +92,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Educational reply defining 'Failed Breakdown' vs 'trap' \u2014 no price named, purely conceptual/terminology explanation."
+    },
+    {
+      "tweet_id": "2110005162848698767",
+      "timestamp_utc": "2026-10-13T13:50:07.000Z",
+      "timestamp_est": "2026-10-13T09:50:07-04:00",
+      "tweet_text": "There's 7858 tagged in #ES_F and volatility remains very low here. 7872, 7884 are next up for today. 7884 has been the highs for the last week or so and when that clears we should push to all time highs finally\n\n7853/7840=supports today that must hold for bulls to keep 100% https://t.co/y5Mhz02nBS",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7853.0,
+        7840.0
+      ],
+      "notes": "7853 and 7840 named explicitly as 'supports today that must hold for bulls' \u2014 actionable bear levels not in morning plan. 7872/7884 are morning-plan reaffirmations."
     }
   ]
 }
