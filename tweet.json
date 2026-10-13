@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T13:00:03.787797+00:00",
-  "fetched_at_est": "2026-10-13T09:00:03.787807-04:00",
+  "fetched_at_utc": "2026-10-13T13:10:08.570531+00:00",
+  "fetched_at_est": "2026-10-13T09:10:08.570537-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -59,6 +59,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7853/7840 as support and targets 7858/7872/7884 are reaffirmations or observations; 7840 is closest to new but framed as reaffirmation of posted shelf, not explicitly named as a new actionable level."
+    },
+    {
+      "tweet_id": "2109993954972156413",
+      "timestamp_utc": "2026-10-13T13:05:35.000Z",
+      "timestamp_est": "2026-10-13T09:05:35-04:00",
+      "tweet_text": "Untradeable chop in #ES_F and little to engage here unless we get an \"elevator down\" sell to bring back volatility and setup the next bear trap/squeeze. 7853 remains a magnet.\n\nBulls want to hold 7853/7840 (or quick trap below) to keep 7858, 7872, 7884 breakout live. Dip&lt;40 https://t.co/L08xZ7LpoY",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7853/7840/7858/7872/7884 are all reaffirmations of morning plan levels or observations of price action; no new actionable levels introduced."
     }
   ]
 }
