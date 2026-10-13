@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T15:40:44.084826+00:00",
-  "fetched_at_est": "2026-10-13T11:40:44.084831-04:00",
+  "fetched_at_utc": "2026-10-13T15:50:49.589564+00:00",
+  "fetched_at_est": "2026-10-13T11:50:49.589569-04:00",
   "last_new_level_added_at_est": "2026-10-13T09:50:07-04:00",
   "todays_new_levels": [
     {
@@ -99,6 +99,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary/opinion about market conditions; no price level named, no actionable language, no naming criteria met."
+    },
+    {
+      "tweet_id": "2110033016445718556",
+      "timestamp_utc": "2026-10-13T15:40:48.000Z",
+      "timestamp_est": "2026-10-13T11:40:48-04:00",
+      "tweet_text": "Finally a little injection of volatility in #ES_F which gives something to work with. 7858 was 1st target today and we ran up there and rejected. Bulls want to recover ~7840 now to pop back to the 7853 magnet, then run to 7872, 7884.\n\n7822 is next support of interest down https://t.co/2pqbhnYBLf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7858/7853/7872/7884/7822/7840 are all observations, reaffirmations of morning levels, or price-action commentary \u2014 no newly named actionable levels."
     }
   ]
 }
