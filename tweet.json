@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T15:10:39.117903+00:00",
-  "fetched_at_est": "2026-10-13T11:10:39.117912-04:00",
+  "fetched_at_utc": "2026-10-13T15:40:44.084826+00:00",
+  "fetched_at_est": "2026-10-13T11:40:44.084831-04:00",
   "last_new_level_added_at_est": "2026-10-13T09:50:07-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2109668860450202099",
-      "timestamp_utc": "2026-10-12T15:33:46.000Z",
-      "timestamp_est": "2026-10-12T11:33:46-04:00",
-      "tweet_text": "Volatility in #ES_F is totally dead now. Levels are working perfectly though, 7853 was 1st support today and we've been here for an hour. This is  a key level. 7873 must reclaim now to see a rally today to 7884+.\n\n7840 below, then back down to 7820-22. https://t.co/GzNjEjt73v",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7853, 7873, 7884, 7840, 7820-22) are either in the morning plan or reaffirmations/observations of existing levels. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2109692914267730133",
       "timestamp_utc": "2026-10-12T17:09:21.000Z",
