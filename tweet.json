@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-13T14:40:29.669350+00:00",
-  "fetched_at_est": "2026-10-13T10:40:29.669356-04:00",
+  "fetched_at_utc": "2026-10-13T15:10:39.117903+00:00",
+  "fetched_at_est": "2026-10-13T11:10:39.117912-04:00",
   "last_new_level_added_at_est": "2026-10-13T09:50:07-04:00",
   "todays_new_levels": [
     {
@@ -86,6 +86,28 @@
         7840.0
       ],
       "notes": "7853 and 7840 named explicitly as 'supports today that must hold for bulls' \u2014 actionable bear levels not in morning plan. 7872/7884 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2110024085493387415",
+      "timestamp_utc": "2026-10-13T15:05:18.000Z",
+      "timestamp_est": "2026-10-13T11:05:18-04:00",
+      "tweet_text": "Tight, noisy chop continues in #ES_F and don't overtrade this. 7858 was first target today and we hit it and rejected down. 7872, 7884 are above still and when 7884 clears we can trend to ATH's\n\n7840 (watch traps), 7853=support zone. 7853 reclaim low quality long to run again https://t.co/6tuWmBtJ2C",
+      "added_bull_levels": [
+        7853.0
+      ],
+      "added_bear_levels": [
+        7840.0
+      ],
+      "notes": "7840 named as 'watch traps' level and 7853 as 'support zone' with explicit reclaim entry trigger \u2014 both new actionable levels not in morning plan."
+    },
+    {
+      "tweet_id": "2110025355733942339",
+      "timestamp_utc": "2026-10-13T15:10:21.000Z",
+      "timestamp_est": "2026-10-13T11:10:21-04:00",
+      "tweet_text": "@EStrader33 I'd never trade chop like this. Need a deep elevator down",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary/opinion about market conditions; no price level named, no actionable language, no naming criteria met."
     }
   ]
 }
