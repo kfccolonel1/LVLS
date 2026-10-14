@@ -1,16 +1,12 @@
 {
-  "session_date": "2026-10-13",
-  "daily_pivot": 7803.0,
+  "session_date": "2026-10-14",
+  "daily_pivot": 7853,
   "regime_hint": "C2",
   "significant_lows": [
-    7851.0,
-    7832.0,
-    7827.0,
-    7803.0,
-    7782.0,
-    7765.0,
-    7737.0,
-    7707.0
+    7836,
+    7803,
+    7782,
+    7765
   ],
   "bull_levels": [
     {
@@ -22,61 +18,57 @@
       "major": true
     },
     {
-      "price": 7903.0,
-      "major": true
-    },
-    {
       "price": 7918.0,
       "major": true
     },
     {
-      "price": 7939.0,
+      "price": 7942.0,
       "major": true
     },
     {
-      "price": 7961.0,
+      "price": 7991.0,
       "major": true
     },
     {
-      "price": 7984.0,
+      "price": 8006.0,
       "major": true
     },
     {
-      "price": 8002.0,
+      "price": 8024.0,
       "major": true
     },
     {
-      "price": 8021.0,
-      "major": true
-    },
-    {
-      "price": 8041.0,
+      "price": 8040.0,
       "major": true
     },
     {
       "price": 8050.0,
       "major": true
+    },
+    {
+      "price": 8102.0,
+      "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7852.0,
+      "price": 7853.0,
       "major": true
     },
     {
-      "price": 7832.0,
+      "price": 7835.0,
       "major": true
     },
     {
-      "price": 7822.0,
+      "price": 7820.0,
       "major": true
     },
     {
-      "price": 7803.0,
+      "price": 7804.0,
       "major": true
     },
     {
-      "price": 7782.0,
+      "price": 7781.0,
       "major": true
     },
     {
@@ -88,7 +80,7 @@
       "major": true
     },
     {
-      "price": 7737.0,
+      "price": 7725.0,
       "major": true
     },
     {
@@ -100,11 +92,7 @@
       "major": true
     },
     {
-      "price": 7656.0,
-      "major": true
-    },
-    {
-      "price": 7645.0,
+      "price": 7646.0,
       "major": true
     },
     {
@@ -114,6 +102,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES is rangebound between roughly 7803 support and 7884 resistance after a big Failed Breakdown rally Thursday. The trader leans bullish and plans to wait for dips and failed breakdown setups, ideally at 7851, 7832, or 7827. The daily pivot is 7803: above it the bull case holds and a breakout toward 7903-7961 is favored; below it the bear case opens and the range breaks down.",
-  "fetched_at": "2026-10-13T01:00:20.810193+00:00"
+  "notes": "ES is stuck in a range between 7803 support and 7884 resistance after a big rally last Thursday. The trader leans bullish, waiting for dips to flush and recover key lows (Failed Breakdowns) before going long. The key pivot is 7853: above it bulls are in control and a breakout toward 7903-7918 becomes likely; below it the range chop continues with risk of testing 7836 or 7803.",
+  "fetched_at": "2026-10-14T01:00:15.904272+00:00"
 }
