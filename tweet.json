@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-21T19:27:14.079007+00:00",
-  "fetched_at_est": "2026-10-21T15:27:14.079011-04:00",
+  "fetched_at_utc": "2026-10-21T21:27:28.365989+00:00",
+  "fetched_at_est": "2026-10-21T17:27:28.365994-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7755, 7782, 7798, 7835) are morning-plan levels or reaffirmations; '7798' is close to 7803 and framed as already-posted targets. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2113019235522019612",
+      "timestamp_utc": "2026-10-21T21:26:58.000Z",
+      "timestamp_est": "2026-10-21T17:26:58-04:00",
+      "tweet_text": "@upandown007 I've never seen a backtest not occur out of probably 10's of thousands at this point. And every backtest I've called for over the last 10 years has hit.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about backtests/track record. No price levels named, no actionable triggers or supports/resistances mentioned."
     }
   ]
 }
