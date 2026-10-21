@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-21T21:27:28.365989+00:00",
-  "fetched_at_est": "2026-10-21T17:27:28.365994-04:00",
+  "fetched_at_utc": "2026-10-21T23:37:46.374707+00:00",
+  "fetched_at_est": "2026-10-21T19:37:46.374718-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -149,6 +149,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about backtests/track record. No price levels named, no actionable triggers or supports/resistances mentioned."
+    },
+    {
+      "tweet_id": "2113050653505606005",
+      "timestamp_utc": "2026-10-21T23:31:49.000Z",
+      "timestamp_est": "2026-10-21T19:31:49-04:00",
+      "tweet_text": "@Porterhous90889 Its been decent volatility actually the past couple weeks. Getting 1-2 good setups a day still",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply comment about volatility and trade frequency. No price levels named, no actionable triggers or targets mentioned."
+    },
+    {
+      "tweet_id": "2113050975216751083",
+      "timestamp_utc": "2026-10-21T23:33:05.000Z",
+      "timestamp_est": "2026-10-21T19:33:05-04:00",
+      "tweet_text": "@ifomofighter Its very expected, its what ES does. As I discuss in newsletter daily ES goes \"elevator down\". It doesn't grind lower. It goes elevator down where it cuts every support in a straight line and erases hours of rally, then it goes Failed Breakdown, rips vertically, then grinds up.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational commentary about ES price behavior patterns. No specific price levels named or actionable entries/targets/triggers mentioned."
     }
   ]
 }
