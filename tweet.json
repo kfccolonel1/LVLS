@@ -1,23 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-21T18:57:07.603501+00:00",
-  "fetched_at_est": "2026-10-21T14:57:07.603511-04:00",
+  "fetched_at_utc": "2026-10-21T19:27:14.079007+00:00",
+  "fetched_at_est": "2026-10-21T15:27:14.079011-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2112626238829613256",
-      "timestamp_utc": "2026-10-20T19:25:20.000Z",
-      "timestamp_est": "2026-10-20T15:25:20-04:00",
-      "tweet_text": "CLosing update #ES_F: Newsletter was just sent with next entries. 7755/7736 are first overnight supports. 7835 remains a magnet for the next leg up",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7755.0,
-        7736.0
-      ],
-      "notes": "7755 and 7736 named explicitly as 'first overnight supports' \u2014 new actionable bear levels not in morning plan. 7835 is a morning plan reaffirmation, ignored."
-    },
     {
       "tweet_id": "2112874380758049219",
       "timestamp_utc": "2026-10-21T11:51:22.000Z",
