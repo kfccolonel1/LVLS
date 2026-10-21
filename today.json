@@ -1,29 +1,21 @@
 {
-  "session_date": "2026-10-21",
-  "daily_pivot": 7736.0,
+  "session_date": "2026-10-22",
+  "daily_pivot": 7755.0,
   "regime_hint": "C4",
   "significant_lows": [
+    7751.0,
+    7736.0,
     7707.0,
-    7698.0,
     7676.0,
-    7656.0,
-    7736.0
+    7656.0
   ],
   "bull_levels": [
     {
-      "price": 7765.0,
+      "price": 7808.0,
       "major": true
     },
     {
-      "price": 7782.0,
-      "major": true
-    },
-    {
-      "price": 7803.0,
-      "major": true
-    },
-    {
-      "price": 7820.0,
+      "price": 7827.0,
       "major": true
     },
     {
@@ -31,11 +23,11 @@
       "major": true
     },
     {
-      "price": 7864.0,
+      "price": 7862.0,
       "major": true
     },
     {
-      "price": 7876.0,
+      "price": 7884.0,
       "major": true
     },
     {
@@ -43,21 +35,25 @@
       "major": true
     },
     {
-      "price": 7944.0,
+      "price": 7952.5,
       "major": true
     },
     {
-      "price": 7954.0,
+      "price": 7991.0,
       "major": true
     },
     {
-      "price": 7976.0,
+      "price": 8023.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7755.0,
+      "price": 7783.0,
+      "major": true
+    },
+    {
+      "price": 7756.0,
       "major": true
     },
     {
@@ -65,7 +61,11 @@
       "major": true
     },
     {
-      "price": 7706.0,
+      "price": 7707.0,
+      "major": true
+    },
+    {
+      "price": 7685.0,
       "major": true
     },
     {
@@ -77,20 +77,24 @@
       "major": true
     },
     {
-      "price": 7634.0,
+      "price": 7616.0,
       "major": true
     },
     {
-      "price": 7617.0,
+      "price": 7597.5,
       "major": true
     },
     {
-      "price": 7575.0,
+      "price": 7573.0,
+      "major": true
+    },
+    {
+      "price": 7541.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish for Oct 21. As long as 7736 holds on dips (absolute floor at 7707 on a quick flush), he expects a grind toward 7798 then 7835, which is where last Wednesday's breakdown began. He is not chasing strength; he wants to buy failed breakdowns at 7736 or 7707 if price dips there. The key pivot is 7736: bulls are in control above it and the path higher is open; below it the rally stalls and bears gain footing.",
-  "fetched_at": "2026-10-21T18:07:22.506353+00:00"
+  "notes": "Trader leans bullish. After Friday's 135-point sell-off, a Failed Breakdown on Sunday launched a rally. The plan for Thursday is to wait for dips and look for failed breakdowns at 7751, 7736, 7707, or 7676 to go long. The pivot is 7755-57: above it bulls are in control and can target 7835 (last Wednesday's breakdown zone), then 7862 and all-time highs. Below 7751, the bullish case weakens.",
+  "fetched_at": "2026-10-21T19:25:44.387153+00:00"
 }
