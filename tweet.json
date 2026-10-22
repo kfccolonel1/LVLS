@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T19:21:11.962008+00:00",
-  "fetched_at_est": "2026-10-22T15:21:11.962014-04:00",
+  "fetched_at_utc": "2026-10-22T21:31:26.772376+00:00",
+  "fetched_at_est": "2026-10-22T17:31:26.772381-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113019235522019612",
-      "timestamp_utc": "2026-10-21T21:26:58.000Z",
-      "timestamp_est": "2026-10-21T17:26:58-04:00",
-      "tweet_text": "@upandown007 I've never seen a backtest not occur out of probably 10's of thousands at this point. And every backtest I've called for over the last 10 years has hit.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about backtests/track record. No price levels named, no actionable triggers or supports/resistances mentioned."
-    },
     {
       "tweet_id": "2113050653505606005",
       "timestamp_utc": "2026-10-21T23:31:49.000Z",
