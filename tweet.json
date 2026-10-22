@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T11:48:56.301207+00:00",
-  "fetched_at_est": "2026-10-22T07:48:56.301212-04:00",
+  "fetched_at_utc": "2026-10-22T11:59:01.964061+00:00",
+  "fetched_at_est": "2026-10-22T07:59:01.964067-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2112874380758049219",
-      "timestamp_utc": "2026-10-21T11:51:22.000Z",
-      "timestamp_est": "2026-10-21T07:51:22-04:00",
-      "tweet_text": "The long keeps paying in #ES_F &amp; we hit more targets last evening. Yesterday 7707 was support. It held. Targets were 7736 (hit), 7755/65 (hit, cleared). That then became support as posted to setup 7773 (hit)\n\nPlan: Ride runner. 7755/7736=supports to keep 7782, 98, 7835-37 live https://t.co/aiojnLwEqT",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7707, 7736, 7755/65, 7773, 7782, 7835-37) are morning-plan levels or hindsight observations of targets hit. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2112889318876311727",
       "timestamp_utc": "2026-10-21T12:50:43.000Z",
@@ -185,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user; 7835 is near morning-plan level 7837, no new actionable level named, purely conversational/trade-management context."
+    },
+    {
+      "tweet_id": "2113236703196361199",
+      "timestamp_utc": "2026-10-22T11:51:06.000Z",
+      "timestamp_est": "2026-10-22T07:51:06-04:00",
+      "tweet_text": "@kpsardar Its the swing magnet level (7835). It has to backtest but its got nothing to do with execution or entries or my system. Entries are always on planned failed breakdowns per newsletter, managed level to level, runners always managed the same",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7835 is a reaffirmation of morning plan level 7837 (rounding), mentioned as swing magnet in reply\u2014no new actionable level named."
     }
   ]
 }
