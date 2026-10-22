@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T17:50:40.185676+00:00",
-  "fetched_at_est": "2026-10-22T13:50:40.185682-04:00",
+  "fetched_at_utc": "2026-10-22T18:10:47.709925+00:00",
+  "fetched_at_est": "2026-10-22T14:10:47.709932-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -195,6 +195,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary/observation about day-of-week patterns. No price level named, no actionable language used."
+    },
+    {
+      "tweet_id": "2113329947057996006",
+      "timestamp_utc": "2026-10-22T18:01:37.000Z",
+      "timestamp_est": "2026-10-22T14:01:37-04:00",
+      "tweet_text": "7686 support today as posted and #ES_F agrees fully. Its the exact low of day and continues to defend. Its weaker now, so watch flushes of it (and in particular flushes of 7677 below). There are many good entries if we elevator down now\n\n7707 must reclaim to rally to 36, 51-55 https://t.co/XWs01aYrNY",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7686, 7677, 7707, 7736, 7751-55) are either morning-plan levels or observational/trade-management commentary. No genuinely new actionable levels introduced."
     }
   ]
 }
