@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T16:40:12.086363+00:00",
-  "fetched_at_est": "2026-10-22T12:40:12.086368-04:00",
+  "fetched_at_utc": "2026-10-22T16:50:19.858580+00:00",
+  "fetched_at_est": "2026-10-22T12:50:19.858586-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2112947264247234696",
-      "timestamp_utc": "2026-10-21T16:40:59.000Z",
-      "timestamp_est": "2026-10-21T12:40:59-04:00",
-      "tweet_text": "@JollyTime1991 We flushed the support and recovered today + a nice overnight shelf a 58. That is a Failed Breakdown.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Observation of price action (flushed support, recovered, overnight shelf at 58). No explicit new actionable level named with qualifying language."
-    },
-    {
-      "tweet_id": "2112947422175617384",
-      "timestamp_utc": "2026-10-21T16:41:36.000Z",
-      "timestamp_est": "2026-10-21T12:41:36-04:00",
-      "tweet_text": "@JollyTime1991 My tweet said \"watch traps of 7755\" https://t.co/wAsq3GM1Hl",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply referencing a prior tweet about 7755 traps; 7765 is in morning plan (close variant), no new actionable level explicitly named."
-    },
     {
       "tweet_id": "2112961387789992336",
       "timestamp_utc": "2026-10-21T17:37:06.000Z",
@@ -186,6 +168,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7686, 7707, 7736, 7751-55) are morning-plan levels or reaffirmations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2113310667360940234",
+      "timestamp_utc": "2026-10-22T16:45:01.000Z",
+      "timestamp_est": "2026-10-22T12:45:01-04:00",
+      "tweet_text": "@BouksaniDesh 7718",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet mentioning 7718 with no actionable naming language \u2014 conversational reference, not a new major level."
     }
   ]
 }
