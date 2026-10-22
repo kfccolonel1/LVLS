@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T12:59:09.415773+00:00",
-  "fetched_at_est": "2026-10-22T08:59:09.415779-04:00",
+  "fetched_at_utc": "2026-10-22T13:09:17.202664+00:00",
+  "fetched_at_est": "2026-10-22T09:09:17.202672-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -167,6 +167,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7835 is a reaffirmation of morning plan level 7837 (rounding), mentioned as swing magnet in reply\u2014no new actionable level named."
+    },
+    {
+      "tweet_id": "2113254152360919129",
+      "timestamp_utc": "2026-10-22T13:00:26.000Z",
+      "timestamp_est": "2026-10-22T09:00:26-04:00",
+      "tweet_text": "Overnight traders got the action in #ES_F and chop now. 7707 long Tuesday (given live + newsletter) played out nicely for ~100 points. Then last night we went \"elevator down\" again, resetting the cycle.\n\n7736 must reclaim to rally today to 7751-55+. 7707-10=support. Sell below https://t.co/QWdexPQlq5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7707, 7710, 7736, 7751, 7755) are already in the morning plan. References are reaffirmations plus trade recap, not new actionable levels."
+    },
+    {
+      "tweet_id": "2113254378983272944",
+      "timestamp_utc": "2026-10-22T13:01:20.000Z",
+      "timestamp_est": "2026-10-22T09:01:20-04:00",
+      "tweet_text": "@tradivate I didn't take that one personally, you could though. Id rather see the 7705 low get taken out and failed breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7705 is a casual reference to a low; no naming language (key/major/watch/target/trigger). Conversational reply, not an actionable level declaration."
     }
   ]
 }
