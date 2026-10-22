@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T17:10:28.906232+00:00",
-  "fetched_at_est": "2026-10-22T13:10:28.906245-04:00",
+  "fetched_at_utc": "2026-10-22T17:40:34.567601+00:00",
+  "fetched_at_est": "2026-10-22T13:40:34.567608-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2112961387789992336",
-      "timestamp_utc": "2026-10-21T17:37:06.000Z",
-      "timestamp_est": "2026-10-21T13:37:06-04:00",
-      "tweet_text": "The push continues in #ES_F and ~+100 points from yesterday's 7707 long given here + newsletter. Today's support was 7755, it held and up we went. Targets for today were 7782 (hit), 7798 (hit). There is just 7835 next. As I've posted for days, this is the magnet &amp; we will hit it https://t.co/VnmiWFw0MU",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7707, 7755, 7782, 7798, 7835) are morning-plan levels or observations of hits; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2112980278507356493",
       "timestamp_utc": "2026-10-21T18:52:10.000Z",
