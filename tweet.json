@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T16:10:04.004903+00:00",
-  "fetched_at_est": "2026-10-22T12:10:04.004909-04:00",
+  "fetched_at_utc": "2026-10-22T16:20:06.684118+00:00",
+  "fetched_at_est": "2026-10-22T12:20:06.684123-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2112941413662863761",
-      "timestamp_utc": "2026-10-21T16:17:44.000Z",
-      "timestamp_est": "2026-10-21T12:17:44-04:00",
-      "tweet_text": "@Webe27456 @carlmcmull Has been this way for decades, and if you pay attention to twitter very few people think about markets this way. Most are bearish even though we are in the middle of a massive bull market and in a strong uptrend within that context. Whenever we see even a little red most top call",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/opinion about bull market and bearish sentiment on Twitter. No price levels named or actionable signals given."
-    },
     {
       "tweet_id": "2112944934093512718",
       "timestamp_utc": "2026-10-21T16:31:43.000Z",
