@@ -4,6 +4,7 @@
   "regime_hint": "C4",
   "significant_lows": [
     7751.0,
+    7756.0,
     7736.0,
     7707.0,
     7676.0,
@@ -95,6 +96,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish. As long as 7755-57 holds on dips, he expects ES to grind up to backtest 7835 (where the breakdown began last Wednesday), then potentially 7862 and beyond. He will look to buy failed breakdowns at 7751, 7736, 7707, or 7676 if ES dips. The daily pivot is 7755-57: above it bulls are in control and the 7835 target stays in play; below it the rally stalls and shorts can be considered.",
-  "fetched_at": "2026-10-21T20:26:47.007079+00:00"
+  "notes": "Trader is long-biased after a monster squeeze off Friday's 135-pt drop. He holds a runner and is looking for a gradual grind up to 7835, the shelf that broke down last Wednesday. Key pivot is 7755-57: above it bulls are in control and the path to 7835 and then 7862+ remains open; below 7751 the bull case weakens. He will only add longs on failed-breakdown setups at planned dip levels, not chase strength.",
+  "fetched_at": "2026-10-22T01:00:21.561288+00:00"
 }
