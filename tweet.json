@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T21:31:26.772376+00:00",
-  "fetched_at_est": "2026-10-22T17:31:26.772381-04:00",
+  "fetched_at_utc": "2026-10-22T21:51:32.438976+00:00",
+  "fetched_at_est": "2026-10-22T17:51:32.438981-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -204,6 +204,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7686 is morning-plan level 7685 (rounding/reaffirmation), 7707 is already in morning plan. No genuinely new actionable levels named."
+    },
+    {
+      "tweet_id": "2113385560505024789",
+      "timestamp_utc": "2026-10-22T21:42:37.000Z",
+      "timestamp_est": "2026-10-22T17:42:37-04:00",
+      "tweet_text": "@upandown007 @JohnSantil65902 Bearish patterns are too subjective, and most chart patterns even when perfectly drawn are nearly random. Nothing is more predictive than the trend",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on trading philosophy/patterns with no actionable price level named."
     }
   ]
 }
