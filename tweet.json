@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T15:09:53.390543+00:00",
-  "fetched_at_est": "2026-10-22T11:09:53.390558-04:00",
+  "fetched_at_utc": "2026-10-22T16:10:04.004903+00:00",
+  "fetched_at_est": "2026-10-22T12:10:04.004909-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2112938758458736859",
-      "timestamp_utc": "2026-10-21T16:07:11.000Z",
-      "timestamp_est": "2026-10-21T12:07:11-04:00",
-      "tweet_text": "Very easy work today in #ES_F. 7755 was support given. We held it exact. Targets were threefold: 7782, 7798, 7835. We are coming into 7798 now. Longs are still working from yesterday's 7707 long given here/newsletter.\n\nSame drill daily: Dip, trap bears, failed breakdown, push https://t.co/GOWFZDnPaM",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7755, 7782, 7798, 7835, 7707) are either morning plan levels or observations of price action hitting existing targets. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2112939237934805042",
-      "timestamp_utc": "2026-10-21T16:09:05.000Z",
-      "timestamp_est": "2026-10-21T12:09:05-04:00",
-      "tweet_text": "@carlmcmull Yes thats the whole point of my newsletter. They follow a very specific sequence in ES that repeats over and over (and its very, very unfavorable to bears)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about newsletter methodology; no price levels named or actionable triggers mentioned."
-    },
     {
       "tweet_id": "2112941413662863761",
       "timestamp_utc": "2026-10-21T16:17:44.000Z",
@@ -213,6 +195,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7707 is already in the morning plan; tweet is a reply explaining entry protocol around that level, not naming any new actionable price."
+    },
+    {
+      "tweet_id": "2113300273766531107",
+      "timestamp_utc": "2026-10-22T16:03:43.000Z",
+      "timestamp_est": "2026-10-22T12:03:43-04:00",
+      "tweet_text": "Levels respecting perfectly today in #ES_F. 7686 was support as posted. Its low of day - to the tick. 7707 had to reclaim to pop up the levels. I don't include all profit takes here, but lock in at newsletter levels. 7736, 7751-55 above.\n\nBulls will struggle until 51-55 recovers https://t.co/YrSC2RzRVd",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7686, 7707, 7736, 7751-55) are morning-plan levels or reaffirmations; no new actionable levels introduced."
     }
   ]
 }
