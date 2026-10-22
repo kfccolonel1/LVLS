@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T18:50:56.737858+00:00",
-  "fetched_at_est": "2026-10-22T14:50:56.737863-04:00",
+  "fetched_at_utc": "2026-10-22T19:00:59.429206+00:00",
+  "fetched_at_est": "2026-10-22T15:00:59.429211-04:00",
   "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2112980278507356493",
-      "timestamp_utc": "2026-10-21T18:52:10.000Z",
-      "timestamp_est": "2026-10-21T14:52:10-04:00",
-      "tweet_text": "@CraigWittig I never close it. I hold it until the prior days low fails and then it trails out",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about trade management (holding until prior day's low fails/trails out). No price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2112980618577637776",
-      "timestamp_utc": "2026-10-21T18:53:31.000Z",
-      "timestamp_est": "2026-10-21T14:53:31-04:00",
-      "tweet_text": "Closing update #ES_F: Today was as a clean as a day gets. 7755 was support &amp; it held. Targets were 7782, 7798, 7835. Just 7835 left and as posted for a week now, this is a magnet. It has to hit in order to complete this leg. Newsletter out soon for next buy if we go \"elevator",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7755, 7782, 7798, 7835) are morning-plan levels or reaffirmations; '7798' is close to 7803 and framed as already-posted targets. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2113019235522019612",
       "timestamp_utc": "2026-10-21T21:26:58.000Z",
