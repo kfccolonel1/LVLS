@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T13:09:17.202664+00:00",
-  "fetched_at_est": "2026-10-22T09:09:17.202672-04:00",
+  "fetched_at_utc": "2026-10-22T13:39:21.932381+00:00",
+  "fetched_at_est": "2026-10-22T09:39:21.932388-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2112899467678732697",
-      "timestamp_utc": "2026-10-21T13:31:03.000Z",
-      "timestamp_est": "2026-10-21T09:31:03-04:00",
-      "tweet_text": "@HagglundKirk So,metimes this week I'd guess. The longer it takes though the bigger the chance we just rip right through it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no actionable price named; no naming language, no explicit level cited."
-    },
     {
       "tweet_id": "2112914430514041253",
       "timestamp_utc": "2026-10-21T14:30:30.000Z",
