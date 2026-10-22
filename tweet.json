@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-22T14:39:38.434028+00:00",
-  "fetched_at_est": "2026-10-22T10:39:38.434035-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-10-22T14:49:44.148531+00:00",
+  "fetched_at_est": "2026-10-22T10:49:44.148535-04:00",
+  "last_new_level_added_at_est": "2026-10-22T10:40:21-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7677.0,
+      "side": "bear",
+      "added_at_est": "2026-10-22T10:40:21-04:00",
+      "expires_at_est": "2026-10-22T18:40:21-04:00",
+      "from_tweet_id": "2113279294176915868"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2112920299045802140",
@@ -185,6 +193,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7707-10, 7736, 7751-55, 7686) are reaffirmations of morning plan levels; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2113279294176915868",
+      "timestamp_utc": "2026-10-22T14:40:21.000Z",
+      "timestamp_est": "2026-10-22T10:40:21-04:00",
+      "tweet_text": "There's 7686 tagged exact in #ES_F and finally a good volatility spike to work with. As readers know, I don't trade chop. I only trade when ES goes \"elevator down\" then generates a Failed Breakdown. 7707 must reclaim now to rally to 7736, 7751-55.\n\n7677 below (watch traps here) https://t.co/zbm6oWHemH",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7677.0
+      ],
+      "notes": "7677 named explicitly as new watch level ('watch traps here') \u2014 not in morning plan. 7707/7736/7751-55 are morning plan reaffirmations."
     }
   ]
 }
