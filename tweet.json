@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-21T23:37:46.374707+00:00",
-  "fetched_at_est": "2026-10-21T19:37:46.374718-04:00",
+  "fetched_at_utc": "2026-10-22T11:38:50.814920+00:00",
+  "fetched_at_est": "2026-10-22T07:38:50.814927-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -167,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure educational commentary about ES price behavior patterns. No specific price levels named or actionable entries/targets/triggers mentioned."
+    },
+    {
+      "tweet_id": "2113232914603540621",
+      "timestamp_utc": "2026-10-22T11:36:03.000Z",
+      "timestamp_est": "2026-10-22T07:36:03-04:00",
+      "tweet_text": "Nice little vol expansion overnight in #ES_F &amp; this week is quality trading. On Tuesday 7707 was support to setup 7782, 7798, 7835 ystd. We hit 2/3, then sold to restart the cycle back to ~7707\n\nPlan: 7707-10=support (watch traps). 7736 next. Must reclaim to see 7755+. 7685 below https://t.co/VnmiWFwyCs",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7707, 7736, 7755, 7685, 7782/98, 7835) are either in the morning plan or historical observations of prior-day price action. No newly named actionable levels."
     }
   ]
 }
