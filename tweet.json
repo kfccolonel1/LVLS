@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T17:05:09.523960+00:00",
-  "fetched_at_est": "2026-10-23T13:05:09.523967-04:00",
+  "fetched_at_utc": "2026-10-23T17:15:12.133161+00:00",
+  "fetched_at_est": "2026-10-23T13:15:12.133168-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113316107184423293",
-      "timestamp_utc": "2026-10-22T17:06:38.000Z",
-      "timestamp_est": "2026-10-22T13:06:38-04:00",
-      "tweet_text": "@BouksaniDesh There was a major at 7718 in the newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user referencing a newsletter level at 7718 \u2014 hindsight/reaffirmation reference, not a new actionable level being named for the first time today."
-    },
     {
       "tweet_id": "2113324848810258647",
       "timestamp_utc": "2026-10-22T17:41:22.000Z",
