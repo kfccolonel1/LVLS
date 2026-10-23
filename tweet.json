@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T15:04:29.396537+00:00",
-  "fetched_at_est": "2026-10-23T11:04:29.396543-04:00",
+  "fetched_at_utc": "2026-10-23T16:04:43.044903+00:00",
+  "fetched_at_est": "2026-10-23T12:04:43.044907-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113300273766531107",
-      "timestamp_utc": "2026-10-22T16:03:43.000Z",
-      "timestamp_est": "2026-10-22T12:03:43-04:00",
-      "tweet_text": "Levels respecting perfectly today in #ES_F. 7686 was support as posted. Its low of day - to the tick. 7707 had to reclaim to pop up the levels. I don't include all profit takes here, but lock in at newsletter levels. 7736, 7751-55 above.\n\nBulls will struggle until 51-55 recovers https://t.co/YrSC2RzRVd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7686, 7707, 7736, 7751-55) are morning-plan levels or reaffirmations; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2113310667360940234",
       "timestamp_utc": "2026-10-22T16:45:01.000Z",
