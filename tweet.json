@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T14:04:04.076199+00:00",
-  "fetched_at_est": "2026-10-23T10:04:04.076204-04:00",
+  "fetched_at_utc": "2026-10-23T14:24:08.182989+00:00",
+  "fetched_at_est": "2026-10-23T10:24:08.182996-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113273842617528473",
-      "timestamp_utc": "2026-10-22T14:18:41.000Z",
-      "timestamp_est": "2026-10-22T10:18:41-04:00",
-      "tweet_text": "Overnight traders got all the action so far and daytime traders get chop today in #ES_F as we are stuck rangebound with no volatility. 7707-10=support still (watch traps here).  7736 &amp; 7751-55 remain above.\n\n7736 must recover to see 7751-55, above there, we can rally. 7686 belpw https://t.co/HWRWGNa0Gy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7707-10, 7736, 7751-55, 7686) are reaffirmations of morning plan levels; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2113279294176915868",
       "timestamp_utc": "2026-10-22T14:40:21.000Z",
