@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T14:44:16.667289+00:00",
-  "fetched_at_est": "2026-10-23T10:44:16.667293-04:00",
+  "fetched_at_utc": "2026-10-23T14:54:26.282172+00:00",
+  "fetched_at_est": "2026-10-23T10:54:26.282181-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -240,6 +240,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7656, 7677, 7707.5 are morning-plan levels; 7636 is close to 7635 (morning plan); no genuinely new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2113642732321124551",
+      "timestamp_utc": "2026-10-23T14:44:31.000Z",
+      "timestamp_est": "2026-10-23T10:44:31-04:00",
+      "tweet_text": "@avalon198098 No idea what this means",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user with 'No idea what this means' \u2014 no price mentioned, no actionable level, pure conversational response."
+    },
+    {
+      "tweet_id": "2113643261810119157",
+      "timestamp_utc": "2026-10-23T14:46:37.000Z",
+      "timestamp_est": "2026-10-23T10:46:37-04:00",
+      "tweet_text": "@Nighthawkk5 56 was a great trade but I didn't take it because of all the structure at 77 now. Its actually a 5 touch shelf from September and 2 in the last 24hrs alone. I want to see that recovered",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply referencing 7756/7777 as observed structure/shelf and recovery condition \u2014 observational commentary, no explicit actionable naming language for a new level."
+    },
+    {
+      "tweet_id": "2113644643611217992",
+      "timestamp_utc": "2026-10-23T14:52:07.000Z",
+      "timestamp_est": "2026-10-23T10:52:07-04:00",
+      "tweet_text": "@turtle_trad3r @Nighthawkk5 It was a perfectly fine trade",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no price levels named, no actionable language, no new levels of any kind."
     }
   ]
 }
