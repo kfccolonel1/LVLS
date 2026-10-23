@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T12:43:34.691126+00:00",
-  "fetched_at_est": "2026-10-23T08:43:34.691131-04:00",
+  "fetched_at_utc": "2026-10-23T12:53:43.666097+00:00",
+  "fetched_at_est": "2026-10-23T08:53:43.666112-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -224,6 +224,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels named at all; tweet is a meta-comment about posting policy, not an actionable level."
+    },
+    {
+      "tweet_id": "2113613207944204420",
+      "timestamp_utc": "2026-10-23T12:47:12.000Z",
+      "timestamp_est": "2026-10-23T08:47:12-04:00",
+      "tweet_text": "@JackRFrankII @305HRHitter @CorlukaDejan Too much spam, people who don't understand day trading on Twitter (since I have a large general finance audience). its still useful for me to post levels here though and some real time context for the newsletter subscribers I just don't want to give out the good entries freely",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Meta-commentary about posting strategy and audience management; no actionable price levels named."
+    },
+    {
+      "tweet_id": "2113613603266048242",
+      "timestamp_utc": "2026-10-23T12:48:46.000Z",
+      "timestamp_est": "2026-10-23T08:48:46-04:00",
+      "tweet_text": "Nice little volatility expansion to start the day in #ES_F and as always this sets up entries. 7686 has been a stubborn magnet for 24hrs - all traps above return to it, as do all traps below. 7686 must recover now to see 7705-10. Rally above there.\n\n7656, 7635 below https://t.co/D7cyeVVUfg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7686, 7705-10, 7656, 7635) are either in the morning plan or conversational observations of price behavior; no genuinely new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2113613666687778883",
+      "timestamp_utc": "2026-10-23T12:49:01.000Z",
+      "timestamp_est": "2026-10-23T08:49:01-04:00",
+      "tweet_text": "And for newsletter subscribers there are better entries in advance of 7686",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7686 is already in the morning plan; 'better entries in advance of 7686' is trade management commentary with no new explicit price named."
     }
   ]
 }
