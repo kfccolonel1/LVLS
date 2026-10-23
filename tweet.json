@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T11:43:08.124290+00:00",
-  "fetched_at_est": "2026-10-23T07:43:08.124296-04:00",
+  "fetched_at_utc": "2026-10-23T11:53:10.702832+00:00",
+  "fetched_at_est": "2026-10-23T07:53:10.702837-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2113236703196361199",
-      "timestamp_utc": "2026-10-22T11:51:06.000Z",
-      "timestamp_est": "2026-10-22T07:51:06-04:00",
-      "tweet_text": "@kpsardar Its the swing magnet level (7835). It has to backtest but its got nothing to do with execution or entries or my system. Entries are always on planned failed breakdowns per newsletter, managed level to level, runners always managed the same",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7835 is a reaffirmation of morning plan level 7837 (rounding), mentioned as swing magnet in reply\u2014no new actionable level named."
-    },
     {
       "tweet_id": "2113254152360919129",
       "timestamp_utc": "2026-10-22T13:00:26.000Z",
