@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T18:55:46.289845+00:00",
-  "fetched_at_est": "2026-10-23T14:55:46.289853-04:00",
+  "fetched_at_utc": "2026-10-23T19:05:56.515076+00:00",
+  "fetched_at_est": "2026-10-23T15:05:56.515086-04:00",
   "last_new_level_added_at_est": "2026-10-23T14:31:34-04:00",
   "todays_new_levels": [
     {
@@ -258,6 +258,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about day type and volatility \u2014 no price named, no actionable level, no naming language."
+    },
+    {
+      "tweet_id": "2113707521164693811",
+      "timestamp_utc": "2026-10-23T19:01:58.000Z",
+      "timestamp_est": "2026-10-23T15:01:58-04:00",
+      "tweet_text": "@chrisAn00930062 I won't take a new entry into the close but I'll hold a runner. I'm still holding a 10% runner from the 7677 Failed Breakdown (86, 98 profit takes). I'll hold that unless we really flush into the close",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management update on existing runner from 7677 (morning plan level); 86/98 are profit takes on held position, not new actionable levels."
+    },
+    {
+      "tweet_id": "2113708357936877682",
+      "timestamp_utc": "2026-10-23T19:05:17.000Z",
+      "timestamp_est": "2026-10-23T15:05:17-04:00",
+      "tweet_text": "Closing update #ES_F: Very little volatility to work with now. 7677 must reclaim to ignite another rally cycle to 7698, 7705-10+. Newsletter was just sent out with next entries. 7656 is support and we take another leg lower under there with downside targets discussed in",
+      "added_bull_levels": [
+        7698.0,
+        7707.5
+      ],
+      "added_bear_levels": [],
+      "notes": "7698 is a new actionable bull target not in morning plan; 7707.5 matches plan but '7705-10+' midpoint ~7707 is the same; 7698 is genuinely new as a rally target."
     }
   ]
 }
