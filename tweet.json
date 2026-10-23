@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T14:34:14.104780+00:00",
-  "fetched_at_est": "2026-10-23T10:34:14.104785-04:00",
+  "fetched_at_utc": "2026-10-23T14:44:16.667289+00:00",
+  "fetched_at_est": "2026-10-23T10:44:16.667293-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -14,17 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113279294176915868",
-      "timestamp_utc": "2026-10-22T14:40:21.000Z",
-      "timestamp_est": "2026-10-22T10:40:21-04:00",
-      "tweet_text": "There's 7686 tagged exact in #ES_F and finally a good volatility spike to work with. As readers know, I don't trade chop. I only trade when ES goes \"elevator down\" then generates a Failed Breakdown. 7707 must reclaim now to rally to 7736, 7751-55.\n\n7677 below (watch traps here) https://t.co/zbm6oWHemH",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7677.0
-      ],
-      "notes": "7677 named explicitly as new watch level ('watch traps here') \u2014 not in morning plan. 7707/7736/7751-55 are morning plan reaffirmations."
-    },
     {
       "tweet_id": "2113284876581400811",
       "timestamp_utc": "2026-10-22T15:02:32.000Z",
