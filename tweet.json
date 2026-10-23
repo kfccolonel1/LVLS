@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T18:35:39.591834+00:00",
-  "fetched_at_est": "2026-10-23T14:35:39.591841-04:00",
+  "fetched_at_utc": "2026-10-23T18:55:46.289845+00:00",
+  "fetched_at_est": "2026-10-23T14:55:46.289853-04:00",
   "last_new_level_added_at_est": "2026-10-23T14:31:34-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113341498892898552",
-      "timestamp_utc": "2026-10-22T18:47:31.000Z",
-      "timestamp_est": "2026-10-22T14:47:31-04:00",
-      "tweet_text": "@AnotherX2802 Consolidation day. Been at the same price since 1030AM. Not much red",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about consolidation and price action. No prices named, no actionable levels, no naming language present."
-    },
     {
       "tweet_id": "2113347080160694722",
       "timestamp_utc": "2026-10-22T19:09:42.000Z",
@@ -258,6 +249,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7698 is named as a new target ('run to 7698') not in morning plan. 7677, 7656, 7755, 7803, 7835 are all morning-plan levels (reaffirmations)."
+    },
+    {
+      "tweet_id": "2113703804696928409",
+      "timestamp_utc": "2026-10-23T18:47:12.000Z",
+      "timestamp_est": "2026-10-23T14:47:12-04:00",
+      "tweet_text": "@DartNQ Scalp/consolidation kind of day! We did have good volatility in sections though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about day type and volatility \u2014 no price named, no actionable level, no naming language."
     }
   ]
 }
