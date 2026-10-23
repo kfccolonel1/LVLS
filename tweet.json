@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T12:13:21.997843+00:00",
-  "fetched_at_est": "2026-10-23T08:13:21.997848-04:00",
+  "fetched_at_utc": "2026-10-23T12:33:28.735980+00:00",
+  "fetched_at_est": "2026-10-23T08:33:28.735985-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -206,6 +206,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No new actionable levels named. 7705-10 is a prior target reference, 7686 sweep is hindsight. Comment is trade management/commentary only."
+    },
+    {
+      "tweet_id": "2113608793284112791",
+      "timestamp_utc": "2026-10-23T12:29:39.000Z",
+      "timestamp_est": "2026-10-23T08:29:39-04:00",
+      "tweet_text": "Note: Watch for all downside newsletter entries which I won't post here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No actionable price levels named; tweet is a general advisory about unposted downside entries with no specific prices mentioned."
     }
   ]
 }
