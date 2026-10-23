@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T19:05:56.515076+00:00",
-  "fetched_at_est": "2026-10-23T15:05:56.515086-04:00",
+  "fetched_at_utc": "2026-10-23T19:15:59.263005+00:00",
+  "fetched_at_est": "2026-10-23T15:15:59.263010-04:00",
   "last_new_level_added_at_est": "2026-10-23T14:31:34-04:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113347080160694722",
-      "timestamp_utc": "2026-10-22T19:09:42.000Z",
-      "timestamp_est": "2026-10-22T15:09:42-04:00",
-      "tweet_text": "@JohnSantil65902 We're in such a strong bull market now/healthy uptrend that any actual bull/bear lines are so far down they're barely worth discussing. I'd say sub 7500 would establish condition 1 out of 10 though for a macro trend change.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational macro commentary; 'sub 7500' is a vague threshold observation, not an actionable named level with naming language."
-    },
-    {
-      "tweet_id": "2113347379415966003",
-      "timestamp_utc": "2026-10-22T19:10:54.000Z",
-      "timestamp_est": "2026-10-22T15:10:54-04:00",
-      "tweet_text": "Final hour update #ES_F: We are glued to 7686 and we've been stuck here since 1030AM. Chop/consolidation day. Sweeps of 7686 remain actionable though (and we just got one that took us to 7700+). 7707 must reclaim to rip. Newsletter was just sent with next entries from here",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7686 is morning-plan level 7685 (rounding/reaffirmation), 7707 is already in morning plan. No genuinely new actionable levels named."
-    },
     {
       "tweet_id": "2113385560505024789",
       "timestamp_utc": "2026-10-22T21:42:37.000Z",
