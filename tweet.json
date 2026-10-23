@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T11:53:10.702832+00:00",
-  "fetched_at_est": "2026-10-23T07:53:10.702837-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-10-23T12:03:16.639400+00:00",
+  "fetched_at_est": "2026-10-23T08:03:16.639402-04:00",
+  "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7720.0,
+      "side": "bull",
+      "added_at_est": "2026-10-23T07:57:11-04:00",
+      "expires_at_est": "2026-10-23T15:57:11-04:00",
+      "from_tweet_id": "2113600619172823185"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2113254152360919129",
@@ -178,6 +186,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply describing criteria met by an unnamed level; no explicit actionable price is named."
+    },
+    {
+      "tweet_id": "2113600619172823185",
+      "timestamp_utc": "2026-10-23T11:57:11.000Z",
+      "timestamp_est": "2026-10-23T07:57:11-04:00",
+      "tweet_text": "Levels respecting well. 7686 was support as posted yesterday &amp; #ES_F been here for nearly 24hours, building a shelf with multiple trap entries to scalp us long to 7707 resistance\n\nPlan: 7686=support (watch traps). 7707 next, must reclaim to see 7720, 7731, 7750 targets. Dip&lt;7677 https://t.co/NaMxcGYGee",
+      "added_bull_levels": [
+        7720.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7720 named as intermediate target ('must reclaim to see 7720') not in morning plan; 7686,7707,7731 are morning levels; 7750 close enough to 7753 to be a reaffirmation."
     }
   ]
 }
