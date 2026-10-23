@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T13:53:59.735975+00:00",
-  "fetched_at_est": "2026-10-23T09:53:59.735999-04:00",
+  "fetched_at_utc": "2026-10-23T14:04:04.076199+00:00",
+  "fetched_at_est": "2026-10-23T10:04:04.076204-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113267749913018693",
-      "timestamp_utc": "2026-10-22T13:54:28.000Z",
-      "timestamp_est": "2026-10-22T09:54:28-04:00",
-      "tweet_text": "@NYJets2017 Its not that far away! Would need one more regular sized \"elevator down\" dip though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about distance to an unnamed level; no price cited, no actionable naming language used."
-    },
     {
       "tweet_id": "2113273842617528473",
       "timestamp_utc": "2026-10-22T14:18:41.000Z",
