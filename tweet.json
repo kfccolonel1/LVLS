@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T12:03:16.639400+00:00",
-  "fetched_at_est": "2026-10-23T08:03:16.639402-04:00",
+  "fetched_at_utc": "2026-10-23T12:13:21.997843+00:00",
+  "fetched_at_est": "2026-10-23T08:13:21.997848-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -197,6 +197,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7720 named as intermediate target ('must reclaim to see 7720') not in morning plan; 7686,7707,7731 are morning levels; 7750 close enough to 7753 to be a reaffirmation."
+    },
+    {
+      "tweet_id": "2113602372261777917",
+      "timestamp_utc": "2026-10-23T12:04:09.000Z",
+      "timestamp_est": "2026-10-23T08:04:09-04:00",
+      "tweet_text": "@CorlukaDejan I won't touch this region its too congested now. Already got that nice 86 sweep long yesterday that ran to 7705-10 target so probably just a hold runner day for me. If we go elevator down though again I'll certainly trade the newsletter entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new actionable levels named. 7705-10 is a prior target reference, 7686 sweep is hindsight. Comment is trade management/commentary only."
     }
   ]
 }
