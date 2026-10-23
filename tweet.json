@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T17:35:18.733732+00:00",
-  "fetched_at_est": "2026-10-23T13:35:18.733738-04:00",
+  "fetched_at_utc": "2026-10-23T17:45:21.325078+00:00",
+  "fetched_at_est": "2026-10-23T13:45:21.325081-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113324848810258647",
-      "timestamp_utc": "2026-10-22T17:41:22.000Z",
-      "timestamp_est": "2026-10-22T13:41:22-04:00",
-      "tweet_text": "@BrianMelcher24 ES loves red Friday then Sunday/Monday rip!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/observation about day-of-week patterns. No price level named, no actionable language used."
-    },
     {
       "tweet_id": "2113329947057996006",
       "timestamp_utc": "2026-10-22T18:01:37.000Z",
