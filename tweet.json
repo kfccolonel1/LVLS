@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T16:55:00.930935+00:00",
-  "fetched_at_est": "2026-10-23T12:55:00.930940-04:00",
+  "fetched_at_utc": "2026-10-23T17:05:09.523960+00:00",
+  "fetched_at_est": "2026-10-23T13:05:09.523967-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2113315282508747228",
-      "timestamp_utc": "2026-10-22T17:03:21.000Z",
-      "timestamp_est": "2026-10-22T13:03:21-04:00",
-      "tweet_text": "Levels respecting well today in #ES_F but volatility is still low. 7686 was support as posted and its literally the low of day to the tick. 7707 reclaims actionable and we recovered, ran +17 and dipped.\n\n7707 reclaims still actionable with 7736, 7751-55. Bulls will struggle&lt;7751 https://t.co/y8A6sq8I7Q",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7686, 7707, 7736, 7751-55) are morning plan levels or observations of price action/reaffirmations. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2113316107184423293",
       "timestamp_utc": "2026-10-22T17:06:38.000Z",
