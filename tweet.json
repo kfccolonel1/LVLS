@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T14:24:08.182989+00:00",
-  "fetched_at_est": "2026-10-23T10:24:08.182996-04:00",
+  "fetched_at_utc": "2026-10-23T14:34:14.104780+00:00",
+  "fetched_at_est": "2026-10-23T10:34:14.104785-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -242,6 +242,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named; tweet is a meta-commentary directing subscribers to newsletter for A+ trade setups, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2113639408238776732",
+      "timestamp_utc": "2026-10-23T14:31:19.000Z",
+      "timestamp_est": "2026-10-23T10:31:19-04:00",
+      "tweet_text": "Things slowing down in #ES_F as we remain glued to 7656 support. 7677 remains resistance and that must clear to start a rally today to 7705-10. No sustained upside until that recovers. Currently pure chop between 7656 and 7677\n\n7636 is next down beneath 7656 https://t.co/KCwBmYNQc7",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7656, 7677, 7707.5 are morning-plan levels; 7636 is close to 7635 (morning plan); no genuinely new actionable levels introduced."
     }
   ]
 }
