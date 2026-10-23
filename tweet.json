@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T17:15:12.133161+00:00",
-  "fetched_at_est": "2026-10-23T13:15:12.133168-04:00",
+  "fetched_at_utc": "2026-10-23T17:35:18.733732+00:00",
+  "fetched_at_est": "2026-10-23T13:35:18.733738-04:00",
   "last_new_level_added_at_est": "2026-10-23T07:57:11-04:00",
   "todays_new_levels": [
     {
@@ -240,6 +240,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market behavior commentary with no specific actionable price named; no naming language used for any level."
+    },
+    {
+      "tweet_id": "2113685581607719119",
+      "timestamp_utc": "2026-10-23T17:34:47.000Z",
+      "timestamp_est": "2026-10-23T13:34:47-04:00",
+      "tweet_text": "Volatility slowing now in #ES_F but we've several good trades today. Protect profits ahead of weekend. 7656 support held and 7677 had to reclaim to trigger long. We triggered and went +20.\n\nNo sustained rally until above 7705-10. 7677 reclaim to run back to 7698, 7705-10 https://t.co/juSKCmYVuA",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7656, 7677 are morning-plan levels; 7698 and 7705-10 are targets/observations tied to existing levels, no new actionable level named for the first time."
     }
   ]
 }
