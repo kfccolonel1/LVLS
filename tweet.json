@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-25T12:17:32.150749+00:00",
-  "fetched_at_est": "2026-10-25T08:17:32.150754-04:00",
+  "fetched_at_utc": "2026-10-25T13:17:38.265539+00:00",
+  "fetched_at_est": "2026-10-25T09:17:38.265545-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2113982935271649343",
-      "timestamp_utc": "2026-10-24T13:16:22.000Z",
-      "timestamp_est": "2026-10-24T09:16:22-04:00",
-      "tweet_text": "Big Picture View: Decision time for #ES_F.  Since Sept 18, #ES_F is stuck in a rectangular range with support at 7677 (5 touches) and resistances at 7803/7890. This week, we flushed support\n\nPlan Next: 7677 reclaims trigger long to 7710, 7755, 7803+. 7649 fails, dip 7636, 7616 https://t.co/HKSaluZxDB",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7677, 7710/7709, 7755, 7803, 7649, 7636/7635, 7616) are already in the morning plan. No new levels introduced."
-    },
     {
       "tweet_id": "2113988475972435990",
       "timestamp_utc": "2026-10-24T13:38:23.000Z",
