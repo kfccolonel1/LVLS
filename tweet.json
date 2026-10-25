@@ -1,250 +1,55 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-23T21:46:21.377583+00:00",
-  "fetched_at_est": "2026-10-23T17:46:21.377589-04:00",
-  "last_new_level_added_at_est": "2026-10-23T14:31:34-04:00",
-  "todays_new_levels": [
-    {
-      "price": 7698.0,
-      "side": "bull",
-      "added_at_est": "2026-10-23T14:31:34-04:00",
-      "expires_at_est": "2026-10-23T22:31:34-04:00",
-      "from_tweet_id": "2113699869374205993"
-    }
-  ],
+  "fetched_at_utc": "2026-10-25T04:06:49.486367+00:00",
+  "fetched_at_est": "2026-10-25T00:06:49.486377-04:00",
+  "last_new_level_added_at_est": "",
+  "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2113398253030891980",
-      "timestamp_utc": "2026-10-22T22:33:03.000Z",
-      "timestamp_est": "2026-10-22T18:33:03-04:00",
-      "tweet_text": "@octoptionist @upandown007 @JohnSantil65902 Quite a standard Failed Breakdown. Big shelf at 86 that we flushed and recovered",
+      "tweet_id": "2113982935271649343",
+      "timestamp_utc": "2026-10-24T13:16:22.000Z",
+      "timestamp_est": "2026-10-24T09:16:22-04:00",
+      "tweet_text": "Big Picture View: Decision time for #ES_F.  Since Sept 18, #ES_F is stuck in a rectangular range with support at 7677 (5 touches) and resistances at 7803/7890. This week, we flushed support\n\nPlan Next: 7677 reclaims trigger long to 7710, 7755, 7803+. 7649 fails, dip 7636, 7616 https://t.co/HKSaluZxDB",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Observation of price action ('flushed and recovered') and reference to 7786 shelf \u2014 no new actionable level named; descriptive hindsight commentary only."
+      "notes": "All prices mentioned (7677, 7710/7709, 7755, 7803, 7649, 7636/7635, 7616) are already in the morning plan. No new levels introduced."
     },
     {
-      "tweet_id": "2113403719635132733",
-      "timestamp_utc": "2026-10-22T22:54:46.000Z",
-      "timestamp_est": "2026-10-22T18:54:46-04:00",
-      "tweet_text": "@305HRHitter @octoptionist @upandown007 @JohnSantil65902 Its both a 20+ point low and a shelf of lows. Meets multiple criteria",
+      "tweet_id": "2113988475972435990",
+      "timestamp_utc": "2026-10-24T13:38:23.000Z",
+      "timestamp_est": "2026-10-24T09:38:23-04:00",
+      "tweet_text": "@OnTheHooch @jdswain3 Depends on perspective! As a day trader I don't like green days (I like volatility which usually happens on red days). For my day trading portfolio I'd be happiest if if everyday was a big, volatile red day. For investments though etc I can see why one would want green",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Conversational reply describing criteria met by an unnamed level; no explicit actionable price is named."
+      "notes": "Pure conversational reply about trading preferences and volatility; no price levels named or actionable signals given."
     },
     {
-      "tweet_id": "2113600619172823185",
-      "timestamp_utc": "2026-10-23T11:57:11.000Z",
-      "timestamp_est": "2026-10-23T07:57:11-04:00",
-      "tweet_text": "Levels respecting well. 7686 was support as posted yesterday &amp; #ES_F been here for nearly 24hours, building a shelf with multiple trap entries to scalp us long to 7707 resistance\n\nPlan: 7686=support (watch traps). 7707 next, must reclaim to see 7720, 7731, 7750 targets. Dip&lt;7677 https://t.co/NaMxcGYGee",
-      "added_bull_levels": [
-        7720.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7720 named as intermediate target ('must reclaim to see 7720') not in morning plan; 7686,7707,7731 are morning levels; 7750 close enough to 7753 to be a reaffirmation."
-    },
-    {
-      "tweet_id": "2113602372261777917",
-      "timestamp_utc": "2026-10-23T12:04:09.000Z",
-      "timestamp_est": "2026-10-23T08:04:09-04:00",
-      "tweet_text": "@CorlukaDejan I won't touch this region its too congested now. Already got that nice 86 sweep long yesterday that ran to 7705-10 target so probably just a hold runner day for me. If we go elevator down though again I'll certainly trade the newsletter entries",
+      "tweet_id": "2114137409457700931",
+      "timestamp_utc": "2026-10-24T23:30:11.000Z",
+      "timestamp_est": "2026-10-24T19:30:11-04:00",
+      "tweet_text": "@davidtbuttrey Typically weaker!",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "No new actionable levels named. 7705-10 is a prior target reference, 7686 sweep is hindsight. Comment is trade management/commentary only."
+      "notes": "Reply to a user with no price levels mentioned; purely conversational commentary about typical behavior."
     },
     {
-      "tweet_id": "2113608793284112791",
-      "timestamp_utc": "2026-10-23T12:29:39.000Z",
-      "timestamp_est": "2026-10-23T08:29:39-04:00",
-      "tweet_text": "Note: Watch for all downside newsletter entries which I won't post here",
+      "tweet_id": "2114176745016377397",
+      "timestamp_utc": "2026-10-25T02:06:30.000Z",
+      "timestamp_est": "2026-10-24T22:06:30-04:00",
+      "tweet_text": "@fiveinchhammer The white one was less a bull flag and more a downtrend channel that broke out. Both are powerful though",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "No actionable price levels named; tweet is a general advisory about unposted downside entries with no specific prices mentioned."
+      "notes": "Reply tweet discussing chart pattern interpretation (bull flag vs downtrend channel breakout). No price levels named or actionable instructions given."
     },
     {
-      "tweet_id": "2113610523983933510",
-      "timestamp_utc": "2026-10-23T12:36:32.000Z",
-      "timestamp_est": "2026-10-23T08:36:32-04:00",
-      "tweet_text": "@305HRHitter @CorlukaDejan We are setting up for something very high quality here but I'm not posting quality Newsletter entries for free anymore here. Only low quality ones here now",
+      "tweet_id": "2114176955801043233",
+      "timestamp_utc": "2026-10-25T02:07:20.000Z",
+      "timestamp_est": "2026-10-24T22:07:20-04:00",
+      "tweet_text": "@landers_je94283 Rangebound. Not clear if its distribution until or unless the Range breaks down",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "No price levels named at all; tweet is a meta-comment about posting policy, not an actionable level."
-    },
-    {
-      "tweet_id": "2113613207944204420",
-      "timestamp_utc": "2026-10-23T12:47:12.000Z",
-      "timestamp_est": "2026-10-23T08:47:12-04:00",
-      "tweet_text": "@JackRFrankII @305HRHitter @CorlukaDejan Too much spam, people who don't understand day trading on Twitter (since I have a large general finance audience). its still useful for me to post levels here though and some real time context for the newsletter subscribers I just don't want to give out the good entries freely",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Meta-commentary about posting strategy and audience management; no actionable price levels named."
-    },
-    {
-      "tweet_id": "2113613603266048242",
-      "timestamp_utc": "2026-10-23T12:48:46.000Z",
-      "timestamp_est": "2026-10-23T08:48:46-04:00",
-      "tweet_text": "Nice little volatility expansion to start the day in #ES_F and as always this sets up entries. 7686 has been a stubborn magnet for 24hrs - all traps above return to it, as do all traps below. 7686 must recover now to see 7705-10. Rally above there.\n\n7656, 7635 below https://t.co/D7cyeVVUfg",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7686, 7705-10, 7656, 7635) are either in the morning plan or conversational observations of price behavior; no genuinely new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2113613666687778883",
-      "timestamp_utc": "2026-10-23T12:49:01.000Z",
-      "timestamp_est": "2026-10-23T08:49:01-04:00",
-      "tweet_text": "And for newsletter subscribers there are better entries in advance of 7686",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7686 is already in the morning plan; 'better entries in advance of 7686' is trade management commentary with no new explicit price named."
-    },
-    {
-      "tweet_id": "2113628650583265617",
-      "timestamp_utc": "2026-10-23T13:48:34.000Z",
-      "timestamp_est": "2026-10-23T09:48:34-04:00",
-      "tweet_text": "@rainstorm_es Nothing happened, it'll squeeze when we get a failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user predicting a squeeze on failed breakdown \u2014 no price named, purely directional commentary with no actionable level."
-    },
-    {
-      "tweet_id": "2113629038774558909",
-      "timestamp_utc": "2026-10-23T13:50:06.000Z",
-      "timestamp_est": "2026-10-23T09:50:06-04:00",
-      "tweet_text": "We've seen great trading this week as we finally have some volatility back and getting numerous A+ trades daily every day this week. Now we wait on today's. 7656 was just tagged.\n\n7677 above, then 7686 must reclaim to rally to 7705-10. No sustained push until that recovers https://t.co/xq0tK1NUYw",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7656, 7677, 7686 are morning-plan levels; 7705-10 midpoint ~7707.5 also in plan. All reaffirmations, no new actionable levels."
-    },
-    {
-      "tweet_id": "2113629192290218009",
-      "timestamp_utc": "2026-10-23T13:50:43.000Z",
-      "timestamp_est": "2026-10-23T09:50:43-04:00",
-      "tweet_text": "Note: For newsletter subscribers I don't include the quality entries for free here - entries I give here are lower quality. Refer to the newsletter entries for the A+ trades and we have one setting up",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named; tweet is a meta-commentary directing subscribers to newsletter for A+ trade setups, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2113639408238776732",
-      "timestamp_utc": "2026-10-23T14:31:19.000Z",
-      "timestamp_est": "2026-10-23T10:31:19-04:00",
-      "tweet_text": "Things slowing down in #ES_F as we remain glued to 7656 support. 7677 remains resistance and that must clear to start a rally today to 7705-10. No sustained upside until that recovers. Currently pure chop between 7656 and 7677\n\n7636 is next down beneath 7656 https://t.co/KCwBmYNQc7",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7656, 7677, 7707.5 are morning-plan levels; 7636 is close to 7635 (morning plan); no genuinely new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2113642732321124551",
-      "timestamp_utc": "2026-10-23T14:44:31.000Z",
-      "timestamp_est": "2026-10-23T10:44:31-04:00",
-      "tweet_text": "@avalon198098 No idea what this means",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to a user with 'No idea what this means' \u2014 no price mentioned, no actionable level, pure conversational response."
-    },
-    {
-      "tweet_id": "2113643261810119157",
-      "timestamp_utc": "2026-10-23T14:46:37.000Z",
-      "timestamp_est": "2026-10-23T10:46:37-04:00",
-      "tweet_text": "@Nighthawkk5 56 was a great trade but I didn't take it because of all the structure at 77 now. Its actually a 5 touch shelf from September and 2 in the last 24hrs alone. I want to see that recovered",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply referencing 7756/7777 as observed structure/shelf and recovery condition \u2014 observational commentary, no explicit actionable naming language for a new level."
-    },
-    {
-      "tweet_id": "2113644643611217992",
-      "timestamp_utc": "2026-10-23T14:52:07.000Z",
-      "timestamp_est": "2026-10-23T10:52:07-04:00",
-      "tweet_text": "@turtle_trad3r @Nighthawkk5 It was a perfectly fine trade",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no price levels named, no actionable language, no new levels of any kind."
-    },
-    {
-      "tweet_id": "2113670888457478637",
-      "timestamp_utc": "2026-10-23T16:36:24.000Z",
-      "timestamp_est": "2026-10-23T12:36:24-04:00",
-      "tweet_text": "@DavidBohn11 They always just go under the lowest low of the structure. If the lowest low is very far away (20+ points), I'll either size down or I'll find a slightly higher low on a lower time",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining stop placement methodology; no specific price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2113671185049477133",
-      "timestamp_utc": "2026-10-23T16:37:35.000Z",
-      "timestamp_est": "2026-10-23T12:37:35-04:00",
-      "tweet_text": "7656 support held in #ES_F and 7677 had to reclaim to trigger long. We triggered and went +20. Now, 7677/7686 magnet remains support.\n\n7705-10 is next and that must clear to sustain a rally to 7731+. Take profits aggressively level to level https://t.co/TUFNVd7tdd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7656, 7677, 7686, 7707.5, 7731) are reaffirmations of morning-plan levels; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2113672437053415711",
-      "timestamp_utc": "2026-10-23T16:42:33.000Z",
-      "timestamp_est": "2026-10-23T12:42:33-04:00",
-      "tweet_text": "@KevinSPYtrader When we are under major supports most rallies just go a lvel or two then fail. Which is fine, points are points. ES does this maybe 10 or 20 times then we rip a few hundred points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market behavior commentary with no specific actionable price named; no naming language used for any level."
-    },
-    {
-      "tweet_id": "2113685581607719119",
-      "timestamp_utc": "2026-10-23T17:34:47.000Z",
-      "timestamp_est": "2026-10-23T13:34:47-04:00",
-      "tweet_text": "Volatility slowing now in #ES_F but we've several good trades today. Protect profits ahead of weekend. 7656 support held and 7677 had to reclaim to trigger long. We triggered and went +20.\n\nNo sustained rally until above 7705-10. 7677 reclaim to run back to 7698, 7705-10 https://t.co/juSKCmYVuA",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7656, 7677 are morning-plan levels; 7698 and 7705-10 are targets/observations tied to existing levels, no new actionable level named for the first time."
-    },
-    {
-      "tweet_id": "2113688435554660809",
-      "timestamp_utc": "2026-10-23T17:46:08.000Z",
-      "timestamp_est": "2026-10-23T13:46:08-04:00",
-      "tweet_text": "@Combustion_Zone I didn't, it would've been a good long though. I'm cautious to take Failed Breakdowns when we are under major structure https://t.co/jEzXFUDaM0",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet discussing trade decision and caution under major structure; no actionable price level named or introduced."
-    },
-    {
-      "tweet_id": "2113699869374205993",
-      "timestamp_utc": "2026-10-23T18:31:34.000Z",
-      "timestamp_est": "2026-10-23T14:31:34-04:00",
-      "tweet_text": "Action  slowing now in #ES_F and little to touch here. Its been a scalping session as posted this is fine - just profits aggressively level to level. 7656 = support, held. 7677 must reclaim to run to 7698, 7705-10. Then we can trend to 7755, 7803, 7835 magnet.\n\n7677-7656=pure https://t.co/C0wDetWMiq",
-      "added_bull_levels": [
-        7698.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7698 is named as a new target ('run to 7698') not in morning plan. 7677, 7656, 7755, 7803, 7835 are all morning-plan levels (reaffirmations)."
-    },
-    {
-      "tweet_id": "2113703804696928409",
-      "timestamp_utc": "2026-10-23T18:47:12.000Z",
-      "timestamp_est": "2026-10-23T14:47:12-04:00",
-      "tweet_text": "@DartNQ Scalp/consolidation kind of day! We did have good volatility in sections though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about day type and volatility \u2014 no price named, no actionable level, no naming language."
-    },
-    {
-      "tweet_id": "2113707521164693811",
-      "timestamp_utc": "2026-10-23T19:01:58.000Z",
-      "timestamp_est": "2026-10-23T15:01:58-04:00",
-      "tweet_text": "@chrisAn00930062 I won't take a new entry into the close but I'll hold a runner. I'm still holding a 10% runner from the 7677 Failed Breakdown (86, 98 profit takes). I'll hold that unless we really flush into the close",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Trade management update on existing runner from 7677 (morning plan level); 86/98 are profit takes on held position, not new actionable levels."
-    },
-    {
-      "tweet_id": "2113708357936877682",
-      "timestamp_utc": "2026-10-23T19:05:17.000Z",
-      "timestamp_est": "2026-10-23T15:05:17-04:00",
-      "tweet_text": "Closing update #ES_F: Very little volatility to work with now. 7677 must reclaim to ignite another rally cycle to 7698, 7705-10+. Newsletter was just sent out with next entries. 7656 is support and we take another leg lower under there with downside targets discussed in",
-      "added_bull_levels": [
-        7698.0,
-        7707.5
-      ],
-      "added_bear_levels": [],
-      "notes": "7698 is a new actionable bull target not in morning plan; 7707.5 matches plan but '7705-10+' midpoint ~7707 is the same; 7698 is genuinely new as a rally target."
+      "notes": "Pure commentary on rangebound price action with no specific price named or actionable level introduced."
     }
   ]
 }
