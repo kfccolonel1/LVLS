@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-25T13:47:42.125233+00:00",
-  "fetched_at_est": "2026-10-25T09:47:42.125242-04:00",
+  "fetched_at_utc": "2026-10-25T18:48:10.212689+00:00",
+  "fetched_at_est": "2026-10-25T14:48:10.212694-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -41,6 +41,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply to a user, no price levels named or actionable information present."
+    },
+    {
+      "tweet_id": "2114427980147482775",
+      "timestamp_utc": "2026-10-25T18:44:49.000Z",
+      "timestamp_est": "2026-10-25T14:44:49-04:00",
+      "tweet_text": "A big game changer for my winrate early on was realizing my job isn't to catch every move market makes. Its to - like a hunter - patiently wait on the small piece that corresponds to my edge. Realizing this, FOMO disappears and FOMO drives overtrading, chasing, and losses",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Motivational/philosophical tweet about trading mindset. No prices, levels, or actionable references whatsoever."
     }
   ]
 }
