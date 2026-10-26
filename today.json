@@ -1,14 +1,14 @@
 {
   "session_date": "2026-10-26",
-  "daily_pivot": 7677.0,
+  "daily_pivot": 7677,
   "regime_hint": "C2",
   "significant_lows": [
-    7677.0,
-    7655.0,
-    7649.0,
-    7635.0,
-    7616.0,
-    7575.0
+    7677,
+    7655,
+    7649,
+    7635,
+    7616,
+    7575
   ],
   "bull_levels": [
     {
@@ -104,6 +104,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES is stuck in a multi-week range with 7677 as the key support and 7803 as the ceiling. Today ES dipped below 7677 to 7649 then bounced, but closed back below 7677. The trader leans bullish: if 7677 is reclaimed (entry cue above 7686), he targets 7705-10, 7755, and 7803 in order. Below 7649 opens a lower bear case. The pivot is 7677 \u2014 above it bulls aim for the top of the range; below it the market stays weak.",
-  "fetched_at": "2026-10-24T14:37:49.644125+00:00"
+  "notes": "Trader leans bullish for Monday, waiting for ES to reclaim 7677 (the session's key pivot) before entering long. Above 7677 he targets 7705-10, 7755, and 7803 range resistance. Below 7649 opens a bear case but he does not short. The daily pivot is 7677: recovery there signals bulls are back in control and the range can be climbed; failure to hold it keeps bears in charge near term.",
+  "fetched_at": "2026-10-26T10:12:17.152864+00:00"
 }
