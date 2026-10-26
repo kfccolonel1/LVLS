@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-26T14:00:43.050356+00:00",
-  "fetched_at_est": "2026-10-26T10:00:43.050358-04:00",
+  "fetched_at_utc": "2026-10-26T15:10:54.232092+00:00",
+  "fetched_at_est": "2026-10-26T11:10:54.232099-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -59,6 +59,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7677, 7655, 7710, 7736 are all morning-plan levels; '7698 tagged' is price observation; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2114734642284679475",
+      "timestamp_utc": "2026-10-26T15:03:23.000Z",
+      "timestamp_est": "2026-10-26T11:03:23-04:00",
+      "tweet_text": "Very easy work in #ES_F and all targets/entries were given (as always) in advance, both here and newsletter. 7677 tests/reclaims were our long entry. We held/recovered. 3 targets were given: 7698 (hit), 7710 (hit), 7736 (hit).\n\nClose platform. Ride runner. 7755, 7783, 7803 next https://t.co/9Dj4F2BFM8",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7677, 7698, 7710, 7736, 7755, 7783, 7803) are morning-plan levels or hindsight recaps; no new actionable levels introduced."
     }
   ]
 }
