@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-26T12:00:03.980506+00:00",
-  "fetched_at_est": "2026-10-26T08:00:03.980512-04:00",
+  "fetched_at_utc": "2026-10-26T12:20:07.694773+00:00",
+  "fetched_at_est": "2026-10-26T08:20:07.694779-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2114328793926299669",
-      "timestamp_utc": "2026-10-25T12:10:41.000Z",
-      "timestamp_est": "2026-10-25T08:10:41-04:00",
-      "tweet_text": "@upandown007 That's quite possible",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply to a user, no price levels named or actionable information present."
-    },
     {
       "tweet_id": "2114427980147482775",
       "timestamp_utc": "2026-10-25T18:44:49.000Z",
