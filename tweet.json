@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T17:25:04.249770+00:00",
-  "fetched_at_est": "2026-10-27T13:25:04.249776-04:00",
+  "fetched_at_utc": "2026-10-27T18:25:14.837830+00:00",
+  "fetched_at_est": "2026-10-27T14:25:14.837834-04:00",
   "last_new_level_added_at_est": "2026-10-27T08:59:43-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2114783862710526379",
-      "timestamp_utc": "2026-10-26T18:18:58.000Z",
-      "timestamp_est": "2026-10-26T14:18:58-04:00",
-      "tweet_text": "Just chop now in #ES_F and there is little to do but hold runner and do nothing - the day was done this morning. 7677 was the level bulls had to hold/recover this week, and they did. Targets were 7698, 7710, 7736 (all hit).\n\n7755, 7783, then 7803 are targets for the next leg up https://t.co/cbLhORLYCd",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7677, 7698, 7710, 7736, 7755, 7783, 7803) are morning plan levels or hindsight observations of targets hit. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2114799246566412342",
       "timestamp_utc": "2026-10-26T19:20:06.000Z",
@@ -186,6 +177,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply thanking a subscriber \u2014 no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2115146696904626252",
+      "timestamp_utc": "2026-10-27T18:20:44.000Z",
+      "timestamp_est": "2026-10-27T14:20:44-04:00",
+      "tweet_text": "Work likely done for today in #ES_F and we are stuck at 7750-55. 7783, 7803 next in this leg. 7750-55 was today's first target.\n\nWe remain rangebound with 7677 support and 7803 res. We trapped 7677 on Friday/Sunday and up we went. 7718 was support today, and held after quick trap https://t.co/MdeOQneA6T",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7783, 7803, 7677, 7757.5) are morning-plan levels or observations of price action/support traps; no new actionable levels introduced."
     }
   ]
 }
