@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T14:04:01.330361+00:00",
-  "fetched_at_est": "2026-10-27T10:04:01.330366-04:00",
+  "fetched_at_utc": "2026-10-27T14:14:16.195891+00:00",
+  "fetched_at_est": "2026-10-27T10:14:16.195911-04:00",
   "last_new_level_added_at_est": "2026-10-27T08:59:43-04:00",
   "todays_new_levels": [
     {
@@ -150,6 +150,42 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user with no price named, no actionable level, purely conversational."
+    },
+    {
+      "tweet_id": "2115082394759790839",
+      "timestamp_utc": "2026-10-27T14:05:13.000Z",
+      "timestamp_est": "2026-10-27T10:05:13-04:00",
+      "tweet_text": "Little to do now in #ES_F as we work up range. 7677-7803 is the big range. 7677 reclaims were the long trigger from Friday or Sunday. 7750 was today's 1st target, hit. 7783, 7803 are next.\n\nNot many entries until lower, per newsletter  (watch the 7703/7698 trap). 18=weak support https://t.co/BcksHeLCHT",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7677, 7803, 7783, 7750, 7698) are morning-plan levels or trade-management/observation references. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2115082941898600812",
+      "timestamp_utc": "2026-10-27T14:07:24.000Z",
+      "timestamp_est": "2026-10-27T10:07:24-04:00",
+      "tweet_text": "@Shallobowed The recap said longed at 82. The only time we were at 82 was at ~620PM or so it seemed self explanatory. For a 77 reclaim the entry is standard. 7677+5=7682. We first arrived at 7682 at ~620pm, so that is when the long would occur",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a clarification/explanation of a prior trade entry at 7682 (7677+5 trigger math). No new actionable level named; 7677 is already in morning plan."
+    },
+    {
+      "tweet_id": "2115083060249309261",
+      "timestamp_utc": "2026-10-27T14:07:52.000Z",
+      "timestamp_est": "2026-10-27T10:07:52-04:00",
+      "tweet_text": "@PermaFader @Shallobowed The 78 was a typo clearly",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet clarifying a typo; no actionable price named, no naming language, purely conversational correction."
+    },
+    {
+      "tweet_id": "2115083283167858804",
+      "timestamp_utc": "2026-10-27T14:08:45.000Z",
+      "timestamp_est": "2026-10-27T10:08:45-04:00",
+      "tweet_text": "@Shallobowed At 6pm we gapped right through 82 so would be impossible to engage obviously, the only time would be when we dipped to retest",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet referencing 7782 (morning plan level) in hindsight context \u2014 'gapped through' and 'dipped to retest' are observations, not new actionable levels."
     }
   ]
 }
