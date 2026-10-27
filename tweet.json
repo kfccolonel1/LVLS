@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T13:53:56.598609+00:00",
-  "fetched_at_est": "2026-10-27T09:53:56.598615-04:00",
+  "fetched_at_utc": "2026-10-27T14:04:01.330361+00:00",
+  "fetched_at_est": "2026-10-27T10:04:01.330366-04:00",
   "last_new_level_added_at_est": "2026-10-27T08:59:43-04:00",
   "todays_new_levels": [
     {
@@ -141,6 +141,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a conversational reply about position sizing philosophy. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2115081945373700159",
+      "timestamp_utc": "2026-10-27T14:03:26.000Z",
+      "timestamp_est": "2026-10-27T10:03:26-04:00",
+      "tweet_text": "@FxTriss Thats up to price!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user with no price named, no actionable level, purely conversational."
     }
   ]
 }
