@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T19:25:23.430545+00:00",
-  "fetched_at_est": "2026-10-27T15:25:23.430551-04:00",
+  "fetched_at_utc": "2026-10-27T19:35:30.253901+00:00",
+  "fetched_at_est": "2026-10-27T15:35:30.253906-04:00",
   "last_new_level_added_at_est": "2026-10-27T08:59:43-04:00",
   "todays_new_levels": [
     {
@@ -177,6 +177,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7783, 7803, 7677, 7757.5) are morning-plan levels or observations of price action/support traps; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2115163068309340585",
+      "timestamp_utc": "2026-10-27T19:25:47.000Z",
+      "timestamp_est": "2026-10-27T15:25:47-04:00",
+      "tweet_text": "Closing update #ES_F: Newsletter was sent 30mins ago with next entries. Longs continue to pay. 3 targets were given for today. 7750-55 (hit, we spent much today here), 7783, then 7803 is next. 7803 remains resistance of the big 7677-7803 range weve been stuck in for a couple",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7750-55\u21927757.5, 7783\u21927782, 7803) are reaffirmations of morning plan levels or observations of price action already hit. No new actionable levels named."
     }
   ]
 }
