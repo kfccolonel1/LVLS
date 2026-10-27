@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T15:14:34.517110+00:00",
-  "fetched_at_est": "2026-10-27T11:14:34.517116-04:00",
+  "fetched_at_utc": "2026-10-27T15:34:41.185805+00:00",
+  "fetched_at_est": "2026-10-27T11:34:41.185811-04:00",
   "last_new_level_added_at_est": "2026-10-27T08:59:43-04:00",
   "todays_new_levels": [
     {
@@ -195,6 +195,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade outcome observation \u2014 'ran to 86' and '~98' are hindsight references to existing targets, no new actionable level named."
+    },
+    {
+      "tweet_id": "2115102900753989913",
+      "timestamp_utc": "2026-10-27T15:26:42.000Z",
+      "timestamp_est": "2026-10-27T11:26:42-04:00",
+      "tweet_text": "There's 7750-55 target #1 tagged for a second time in #ES_F&gt;. 7718 was support and defended. 7677 to 7803 remains the big range and we are working up it ever since the 7677 reclaim originally triggered longs.\n\n7783 next, then 7803. React there, then 7835 after which is the magnet https://t.co/K48XlYHOoI",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7677, 7757.5, 7782, 7803, 7835) are morning-plan levels; 7718 is an observation of support defended, not a newly named actionable level."
     }
   ]
 }
