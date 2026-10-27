@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T13:33:50.808029+00:00",
-  "fetched_at_est": "2026-10-27T09:33:50.808035-04:00",
+  "fetched_at_utc": "2026-10-27T13:53:56.598609+00:00",
+  "fetched_at_est": "2026-10-27T09:53:56.598615-04:00",
   "last_new_level_added_at_est": "2026-10-27T08:59:43-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2114716535855939832",
-      "timestamp_utc": "2026-10-26T13:51:26.000Z",
-      "timestamp_est": "2026-10-26T09:51:26-04:00",
-      "tweet_text": "There's 7698 tagged yet again in #ES_F as the 7677 magnet keeps paying over and over. As Ive written about/posted at length, 7677 is both a macro and intraday pivot. Its the most important level in ES now.\n\n7710, 7736 next. 7677/7655 remain supports from here https://t.co/0GQolaR2GC",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7677, 7655, 7710, 7736 are all morning-plan levels; '7698 tagged' is price observation; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2114734642284679475",
       "timestamp_utc": "2026-10-26T15:03:23.000Z",
@@ -141,6 +132,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7718 named as 'now support' \u2014 actionable new support level not in morning plan. 7731, 7782, 7803 are morning plan levels. 7750-55 midpoint ~7752 close to 7757.5 morning plan."
+    },
+    {
+      "tweet_id": "2115079435586052417",
+      "timestamp_utc": "2026-10-27T13:53:28.000Z",
+      "timestamp_est": "2026-10-27T09:53:28-04:00",
+      "tweet_text": "@IsshoKnows I dont size every trade equally. If it requires a large stop I'll usually size it down or if its lower confidence. When I say I wont take it its just because I only take the ultra high quality entries, but others are free to take any entry which is why I include them",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply about position sizing philosophy. No prices mentioned, no actionable levels named."
     }
   ]
 }
