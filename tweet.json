@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T13:23:48.383792+00:00",
-  "fetched_at_est": "2026-10-27T09:23:48.383801-04:00",
+  "fetched_at_utc": "2026-10-27T13:33:50.808029+00:00",
+  "fetched_at_est": "2026-10-27T09:33:50.808035-04:00",
   "last_new_level_added_at_est": "2026-10-27T08:59:43-04:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2114711700972650861",
-      "timestamp_utc": "2026-10-26T13:32:13.000Z",
-      "timestamp_est": "2026-10-26T09:32:13-04:00",
-      "tweet_text": "7677 continues to be all that matters and we just tapped it again and went +15. Rare level that is key on an intraday and swing perspective and broad pivot for #ES_F as I've discussed at length. Its also a magnet &amp; very choppy.\n\n7698 (hit last eve), 7710, 7736 next. https://t.co/me9rkCLWop",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7677, 7709/7710, 7736 all in morning plan; '7698 hit last eve' is a hindsight observation. No new actionable levels named."
-    },
     {
       "tweet_id": "2114716535855939832",
       "timestamp_utc": "2026-10-26T13:51:26.000Z",
