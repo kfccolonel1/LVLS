@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T14:57:45.432014+00:00",
-  "fetched_at_est": "2026-10-28T10:57:45.432022-04:00",
+  "fetched_at_utc": "2026-10-28T15:07:47.949799+00:00",
+  "fetched_at_est": "2026-10-28T11:07:47.949805-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115097881397055606",
-      "timestamp_utc": "2026-10-27T15:06:46.000Z",
-      "timestamp_est": "2026-10-27T11:06:46-04:00",
-      "tweet_text": "@Alp_Trader @Shallobowed It ran to 86 1st target then ~98 second after entry before dipping",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade outcome observation \u2014 'ran to 86' and '~98' are hindsight references to existing targets, no new actionable level named."
-    },
     {
       "tweet_id": "2115102900753989913",
       "timestamp_utc": "2026-10-27T15:26:42.000Z",
