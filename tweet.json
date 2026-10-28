@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T11:57:04.332243+00:00",
-  "fetched_at_est": "2026-10-28T07:57:04.332248-04:00",
+  "fetched_at_utc": "2026-10-28T12:07:12.105786+00:00",
+  "fetched_at_est": "2026-10-28T08:07:12.105797-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -151,6 +151,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7750-55\u21927757.5, 7783\u21927782, 7803) are reaffirmations of morning plan levels or observations of price action already hit. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2115413645392064727",
+      "timestamp_utc": "2026-10-28T12:01:30.000Z",
+      "timestamp_est": "2026-10-28T08:01:30-04:00",
+      "tweet_text": "The long paying nicely in #ES_F, just ride runner. Plan this week was simple and clear: 7677-7803 was the range. We trapped range support Friday/Sunday, reclaimed, got long for range res. Targets ystd were 7750-55 (hit), 7783, 7803\n\nPlan: 7748=support. 7783, 7791, 7803 next https://t.co/MdeOQnf7Wr",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels mentioned (7748, 7783, 7791, 7803) are morning plan levels or reaffirmations; 7791 is close but no explicit 'new'/'added' naming language used."
+    },
+    {
+      "tweet_id": "2115413903039660272",
+      "timestamp_utc": "2026-10-28T12:02:31.000Z",
+      "timestamp_est": "2026-10-28T08:02:31-04:00",
+      "tweet_text": "Note: Obviously we have FOMC at 2pm. At this point there is nothing to do. Ride your runner and we only engage when and if we get an elevator down sell to trigger the traps discussed in newsletter, trap bears again for the next leg higher",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price levels named. Pure trade management/directional commentary referencing newsletter traps without naming any actionable prices."
     }
   ]
 }
