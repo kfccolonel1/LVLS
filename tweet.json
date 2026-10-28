@@ -1,31 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-27T21:05:44.166259+00:00",
-  "fetched_at_est": "2026-10-27T17:05:44.166266-04:00",
+  "fetched_at_utc": "2026-10-28T11:57:04.332243+00:00",
+  "fetched_at_est": "2026-10-28T07:57:04.332248-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115048244006858800",
-      "timestamp_utc": "2026-10-27T11:49:31.000Z",
-      "timestamp_est": "2026-10-27T07:49:31-04:00",
-      "tweet_text": "The long keeps paying in #ES_F. Given here and newsletter, 7677 reclaims got us long for the next big leg (7677 is a macro and intraday key lvl - very rare combo). Targets were 7698, 7710, 7736. All hit. \n\nPlan: Ride runner. 7750-55, 7782, 7803 next. 7718, 7698-7703=supports https://t.co/0rrF0gxPNb",
-      "added_bull_levels": [
-        7710.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7710 named as a target ('Targets were 7698, 7710, 7736') not in morning plan. All other prices (7677,7698,7731/7736\u22487731,7757.5,7782,7803) are morning-plan levels or reaffirmations."
-    },
-    {
-      "tweet_id": "2115048649310851078",
-      "timestamp_utc": "2026-10-27T11:51:08.000Z",
-      "timestamp_est": "2026-10-27T07:51:08-04:00",
-      "tweet_text": "Note: I was asleep for this, but overnight traders got the 7703 Failed Breakdown per newsletter. There is nothing to do now but ride runner and followers/readers know the importance of what happened at 7677 https://t.co/Z1OvAwmu1s",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7703 and 7677 are hindsight/trade-management references to prior newsletter levels; no new actionable level named with qualifying language."
-    },
     {
       "tweet_id": "2115054662433018121",
       "timestamp_utc": "2026-10-27T12:15:01.000Z",
