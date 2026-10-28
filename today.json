@@ -1,30 +1,31 @@
 {
-  "session_date": "2026-10-27",
+  "session_date": "2026-10-28",
   "daily_pivot": 7677.0,
-  "regime_hint": "C2",
+  "regime_hint": "C5",
   "significant_lows": [
+    7712.0,
+    7701.0,
     7677.0,
     7663.0,
     7649.0,
     7616.0,
-    7575.0,
-    7496.0
+    7575.0
   ],
   "bull_levels": [
     {
-      "price": 7731.0,
+      "price": 7756.0,
       "major": true
     },
     {
-      "price": 7757.5,
+      "price": 7783.0,
       "major": true
     },
     {
-      "price": 7782.0,
+      "price": 7802.0,
       "major": true
     },
     {
-      "price": 7803.0,
+      "price": 7827.0,
       "major": true
     },
     {
@@ -32,29 +33,33 @@
       "major": true
     },
     {
-      "price": 7854.0,
+      "price": 7846.0,
       "major": true
     },
     {
-      "price": 7873.0,
+      "price": 7874.0,
       "major": true
     },
     {
-      "price": 7903.0,
-      "major": true
-    },
-    {
-      "price": 7923.0,
-      "major": true
-    },
-    {
-      "price": 7964.0,
+      "price": 7910.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7698.0,
+      "price": 7748.0,
+      "major": true
+    },
+    {
+      "price": 7731.0,
+      "major": true
+    },
+    {
+      "price": 7712.0,
+      "major": true
+    },
+    {
+      "price": 7701.0,
       "major": true
     },
     {
@@ -78,28 +83,20 @@
       "major": true
     },
     {
-      "price": 7585.0,
+      "price": 7584.0,
       "major": true
     },
     {
-      "price": 7555.0,
+      "price": 7565.0,
       "major": true
     },
     {
-      "price": 7542.0,
-      "major": true
-    },
-    {
-      "price": 7525.0,
-      "major": true
-    },
-    {
-      "price": 7496.0,
+      "price": 7545.0,
       "major": true
     }
   ],
   "event_times": [],
-  "event_day": false,
-  "notes": "Trader is holding a 10% long runner from a Sunday 7677 failed-breakdown entry and waiting for another elevator-down sell before adding new longs. He leans bullish as long as 7677 holds, targeting 7755-60, 7782, then 7803 on the upside. The key pivot is 7677: above it bulls are in control and the range trade continues; below 7649 the bear breakdown case opens. No chasing; he only acts on a deep pullback into a planned level.",
-  "fetched_at": "2026-10-27T01:00:20.606190+00:00"
+  "event_day": true,
+  "notes": "FOMC day - trader will not predict, only react to triggers. Leans bullish: expects ES to hold 7677 (the major multi-month range support and daily pivot) and work up toward 7783 then 7803 range resistance, then 7835. Above 7677 bulls are in control; below it bears gain ground. First FOMC move is often a trap so caution around the announcement. Key Failed Breakdown setups watched at 7712, 7703-7699, 7677, 7663, and 7649.",
+  "fetched_at": "2026-10-28T01:00:19.725753+00:00"
 }
