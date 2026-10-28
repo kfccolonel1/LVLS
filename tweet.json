@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T12:57:26.199459+00:00",
-  "fetched_at_est": "2026-10-28T08:57:26.199464-04:00",
+  "fetched_at_utc": "2026-10-28T13:07:28.857098+00:00",
+  "fetched_at_est": "2026-10-28T09:07:28.857102-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115065910100623364",
-      "timestamp_utc": "2026-10-27T12:59:43.000Z",
-      "timestamp_est": "2026-10-27T08:59:43-04:00",
-      "tweet_text": "We continue to push up range in #ES_F. Newsletter readers know ES is in a range with 7677 support and 7803 resistance. We trapped 7677 which got us long with 7698, 7718, 7736 targets yesterday as we head to res\n\n7750-55 was 1st today, hit. 7782. 7803 next. 7731, 7718 now supports https://t.co/3NeFC0uNGi",
-      "added_bull_levels": [
-        7718.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7718 named as 'now support' \u2014 actionable new support level not in morning plan. 7731, 7782, 7803 are morning plan levels. 7750-55 midpoint ~7752 close to 7757.5 morning plan."
-    },
     {
       "tweet_id": "2115079435586052417",
       "timestamp_utc": "2026-10-27T13:53:28.000Z",
