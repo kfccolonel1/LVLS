@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T15:47:58.502843+00:00",
-  "fetched_at_est": "2026-10-28T11:47:58.502851-04:00",
+  "fetched_at_utc": "2026-10-28T15:58:06.016925+00:00",
+  "fetched_at_est": "2026-10-28T11:58:06.016937-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -86,6 +86,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices (7677, 7803, 7750-55, 7783, 7748) are morning-plan levels or observations of price action/targets already hit. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2115471701530296693",
+      "timestamp_utc": "2026-10-28T15:52:11.000Z",
+      "timestamp_est": "2026-10-28T11:52:11-04:00",
+      "tweet_text": "@T_Newbies_Unite Not much to update now!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a casual reply with no prices, no actionable levels, and no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2115472674587660780",
+      "timestamp_utc": "2026-10-28T15:56:03.000Z",
+      "timestamp_est": "2026-10-28T11:56:03-04:00",
+      "tweet_text": "@MizuTraderr I'll sit on hands unless we get a big sell/failed breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels named; purely a trade management/intent comment about waiting for a setup."
     }
   ]
 }
