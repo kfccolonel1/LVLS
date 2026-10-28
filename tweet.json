@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T17:08:16.295566+00:00",
-  "fetched_at_est": "2026-10-28T13:08:16.295573-04:00",
+  "fetched_at_utc": "2026-10-28T17:18:24.221818+00:00",
+  "fetched_at_est": "2026-10-28T13:18:24.221825-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -86,6 +86,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels named; purely a trade management/intent comment about waiting for a setup."
+    },
+    {
+      "tweet_id": "2115492642419257840",
+      "timestamp_utc": "2026-10-28T17:15:24.000Z",
+      "timestamp_est": "2026-10-28T13:15:24-04:00",
+      "tweet_text": "Just wait for FOMC and ride runner in #ES_F. 7677-7802=the range. We trapped support Friday/Sunday, recovered, got long for range res. Targets were 7750-55 (hit), 7782 (hit), just 7803 next. Then we can get to the 7835 magnet, react, then all time highs.\n\nSame newsletter entries https://t.co/T6CU8XYrhV",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7677, 7802, 7750-55, 7782, 7803, 7835) are morning-plan levels or trade management/hindsight observations. No new actionable levels introduced."
     }
   ]
 }
