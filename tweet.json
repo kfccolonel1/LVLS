@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T18:38:51.207864+00:00",
-  "fetched_at_est": "2026-10-28T14:38:51.207869-04:00",
+  "fetched_at_utc": "2026-10-28T19:09:01.439819+00:00",
+  "fetched_at_est": "2026-10-28T15:09:01.439826-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -104,6 +104,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7677, 7802, 7755, 7782, 7803, 7835) are morning plan levels or observations of hits. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2115520930822988181",
+      "timestamp_utc": "2026-10-28T19:07:49.000Z",
+      "timestamp_est": "2026-10-28T15:07:49-04:00",
+      "tweet_text": "Closing update #ES_F: FOMC noise. Newsletter was sent out early with some more up to date entries in case we get a nice volatility spike in the last 45mins to trap bears again. 7752 is critical now and all the quality entries are below there, with low quality available here at 72",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7752 is close to morning plan 7748/7756; truncated '72' is incomplete; no clearly new actionable level with explicit naming language introduced."
     }
   ]
 }
