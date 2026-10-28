@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T19:09:01.439819+00:00",
-  "fetched_at_est": "2026-10-28T15:09:01.439826-04:00",
+  "fetched_at_utc": "2026-10-28T19:29:09.850767+00:00",
+  "fetched_at_est": "2026-10-28T15:29:09.850774-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115163068309340585",
-      "timestamp_utc": "2026-10-27T19:25:47.000Z",
-      "timestamp_est": "2026-10-27T15:25:47-04:00",
-      "tweet_text": "Closing update #ES_F: Newsletter was sent 30mins ago with next entries. Longs continue to pay. 3 targets were given for today. 7750-55 (hit, we spent much today here), 7783, then 7803 is next. 7803 remains resistance of the big 7677-7803 range weve been stuck in for a couple",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7750-55\u21927757.5, 7783\u21927782, 7803) are reaffirmations of morning plan levels or observations of price action already hit. No new actionable levels named."
-    },
     {
       "tweet_id": "2115413645392064727",
       "timestamp_utc": "2026-10-28T12:01:30.000Z",
@@ -113,6 +104,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7752 is close to morning plan 7748/7756; truncated '72' is incomplete; no clearly new actionable level with explicit naming language introduced."
+    },
+    {
+      "tweet_id": "2115525349807472727",
+      "timestamp_utc": "2026-10-28T19:25:22.000Z",
+      "timestamp_est": "2026-10-28T15:25:22-04:00",
+      "tweet_text": "@OnTheHooch Wanted to get the newsletter out early good thing we had a quiet FOMC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about newsletter timing and FOMC; no prices named, no actionable levels of any kind."
     }
   ]
 }
