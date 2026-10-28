@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T13:07:28.857098+00:00",
-  "fetched_at_est": "2026-10-28T09:07:28.857102-04:00",
+  "fetched_at_utc": "2026-10-28T13:57:35.018555+00:00",
+  "fetched_at_est": "2026-10-28T09:57:35.018561-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115079435586052417",
-      "timestamp_utc": "2026-10-27T13:53:28.000Z",
-      "timestamp_est": "2026-10-27T09:53:28-04:00",
-      "tweet_text": "@IsshoKnows I dont size every trade equally. If it requires a large stop I'll usually size it down or if its lower confidence. When I say I wont take it its just because I only take the ultra high quality entries, but others are free to take any entry which is why I include them",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply about position sizing philosophy. No prices mentioned, no actionable levels named."
-    },
     {
       "tweet_id": "2115081945373700159",
       "timestamp_utc": "2026-10-27T14:03:26.000Z",
