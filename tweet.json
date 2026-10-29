@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T16:02:11.001472+00:00",
-  "fetched_at_est": "2026-10-29T12:02:11.001477-04:00",
+  "fetched_at_utc": "2026-10-29T16:12:16.825282+00:00",
+  "fetched_at_est": "2026-10-29T12:12:16.825291-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -176,6 +176,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7752, 7772, 7792, 7803, 7732, 7712, 7677) are morning-plan levels or observations of price action/range digest. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2115836882328469950",
+      "timestamp_utc": "2026-10-29T16:03:17.000Z",
+      "timestamp_est": "2026-10-29T12:03:17-04:00",
+      "tweet_text": "We remain pinned in #ES_F at the 7752 magnet. We finished our leg up. All week I was clear here and in newsletter: 7677-7803 is the range. We reclaimed 7677 Friday/Sunday, got long, hit 7803 yesterday. Now, we chop and setup the next run.\n\n7752 magnet. 7774, 7792, 7803 next https://t.co/dBiHFaxat4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices (7752, 7774, 7792, 7803, 7677) are morning-plan levels or reaffirmations/observations of prior range work; no new actionable levels introduced."
     }
   ]
 }
