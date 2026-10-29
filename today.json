@@ -1,8 +1,9 @@
 {
-  "session_date": "2026-10-28",
+  "session_date": "2026-10-29",
   "daily_pivot": 7677.0,
-  "regime_hint": "C5",
+  "regime_hint": "C2",
   "significant_lows": [
+    7752.0,
     7712.0,
     7701.0,
     7677.0,
@@ -13,19 +14,7 @@
   ],
   "bull_levels": [
     {
-      "price": 7756.0,
-      "major": true
-    },
-    {
-      "price": 7783.0,
-      "major": true
-    },
-    {
-      "price": 7802.0,
-      "major": true
-    },
-    {
-      "price": 7827.0,
+      "price": 7803.0,
       "major": true
     },
     {
@@ -33,25 +22,45 @@
       "major": true
     },
     {
-      "price": 7846.0,
+      "price": 7845.0,
       "major": true
     },
     {
-      "price": 7874.0,
+      "price": 7863.0,
       "major": true
     },
     {
-      "price": 7910.0,
+      "price": 7873.0,
+      "major": true
+    },
+    {
+      "price": 7903.0,
+      "major": true
+    },
+    {
+      "price": 7918.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
+      "price": 7772.0,
+      "major": true
+    },
+    {
+      "price": 7752.0,
+      "major": true
+    },
+    {
       "price": 7748.0,
       "major": true
     },
     {
-      "price": 7731.0,
+      "price": 7732.0,
+      "major": true
+    },
+    {
+      "price": 7720.0,
       "major": true
     },
     {
@@ -67,15 +76,7 @@
       "major": true
     },
     {
-      "price": 7663.0,
-      "major": true
-    },
-    {
-      "price": 7649.0,
-      "major": true
-    },
-    {
-      "price": 7635.0,
+      "price": 7645.0,
       "major": true
     },
     {
@@ -83,11 +84,7 @@
       "major": true
     },
     {
-      "price": 7584.0,
-      "major": true
-    },
-    {
-      "price": 7565.0,
+      "price": 7585.0,
       "major": true
     },
     {
@@ -96,7 +93,7 @@
     }
   ],
   "event_times": [],
-  "event_day": true,
-  "notes": "FOMC day - trader will not predict, only react to triggers. Leans bullish: expects ES to hold 7677 (the major multi-month range support and daily pivot) and work up toward 7783 then 7803 range resistance, then 7835. Above 7677 bulls are in control; below it bears gain ground. First FOMC move is often a trap so caution around the announcement. Key Failed Breakdown setups watched at 7712, 7703-7699, 7677, 7663, and 7649.",
-  "fetched_at": "2026-10-28T01:00:19.725753+00:00"
+  "event_day": false,
+  "notes": "Trader holds a long runner from the 7677 Failed Breakdown Sunday and leans bullish. He wants ES to continue up the multi-week range toward 7803, then 7835, and eventually all-time highs near 7920. The key pivot is 7677: bulls are in control above it. The key interior zone is 7748-7752 - bulls want to defend it (or quickly recover a dip below) to keep the upside path open. No bearish case unless ES loses 7703.",
+  "fetched_at": "2026-10-29T01:00:19.852532+00:00"
 }
