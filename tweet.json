@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T12:21:14.453835+00:00",
-  "fetched_at_est": "2026-10-29T08:21:14.453842-04:00",
+  "fetched_at_utc": "2026-10-29T13:01:22.152621+00:00",
+  "fetched_at_est": "2026-10-29T09:01:22.152628-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115427515585941753",
-      "timestamp_utc": "2026-10-28T12:56:37.000Z",
-      "timestamp_est": "2026-10-28T08:56:37-04:00",
-      "tweet_text": "We continue running up the range in #ES_F as we approach FOMC. 7677 to 7803 remains the range. We trapped the range Friday/Sunday. What happens when a range traps? We long, and head to range resistance.\n\n7750-55 was 1st target (hit), 7783 2nd, 7803 final. 7748=support on dips https://t.co/BaEEw4LJR4",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7677, 7803, 7750-55, 7783, 7748) are morning-plan levels or observations of hits; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2115468488898752590",
       "timestamp_utc": "2026-10-28T15:39:25.000Z",
@@ -131,6 +122,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7712 is already in the morning plan; O/N low is a reference not a named actionable price. No new levels introduced."
+    },
+    {
+      "tweet_id": "2115788813519753611",
+      "timestamp_utc": "2026-10-29T12:52:17.000Z",
+      "timestamp_est": "2026-10-29T08:52:17-04:00",
+      "tweet_text": "Nothing to do now in #ES_F and we completed the range I've been looking for since Monday. 7752 remains a magnet. 7677-7803=the range. The trap of range support Friday/Sunday got us long for 7803 target. Work done.\n\nWe are trapping 52 again. 7772, 7792, 7803 next. 7732, 7712 below https://t.co/PiLx3HGZ39",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7752, 7677, 7803, 7772, 7792, 7732, 7712) are morning plan levels or observations of price action/range completion; no new actionable levels introduced."
     }
   ]
 }
