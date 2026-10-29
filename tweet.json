@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T15:42:06.932515+00:00",
-  "fetched_at_est": "2026-10-29T11:42:06.932521-04:00",
+  "fetched_at_utc": "2026-10-29T16:02:11.001472+00:00",
+  "fetched_at_est": "2026-10-29T12:02:11.001477-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115471701530296693",
-      "timestamp_utc": "2026-10-28T15:52:11.000Z",
-      "timestamp_est": "2026-10-28T11:52:11-04:00",
-      "tweet_text": "@T_Newbies_Unite Not much to update now!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a casual reply with no prices, no actionable levels, and no naming language whatsoever."
-    },
-    {
-      "tweet_id": "2115472674587660780",
-      "timestamp_utc": "2026-10-28T15:56:03.000Z",
-      "timestamp_est": "2026-10-28T11:56:03-04:00",
-      "tweet_text": "@MizuTraderr I'll sit on hands unless we get a big sell/failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels named; purely a trade management/intent comment about waiting for a setup."
-    },
     {
       "tweet_id": "2115492642419257840",
       "timestamp_utc": "2026-10-28T17:15:24.000Z",
