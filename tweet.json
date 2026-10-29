@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T18:12:43.697884+00:00",
-  "fetched_at_est": "2026-10-29T14:12:43.697900-04:00",
+  "fetched_at_utc": "2026-10-29T18:22:46.248059+00:00",
+  "fetched_at_est": "2026-10-29T14:22:46.248064-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115507901322183111",
-      "timestamp_utc": "2026-10-28T18:16:02.000Z",
-      "timestamp_est": "2026-10-28T14:16:02-04:00",
-      "tweet_text": "Little volatility after FOMC in #ES_F but may still come. 7677-7802=the range. We trapped support Friday/Sunday, recovered and got long for range resistance. Targets were 7750-55 (hit), 7782 (hit), just 7803 next.\n\n7748-52ish is a support shelf. Watch traps there. 7712 below https://t.co/vrQGvRBdOh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7748-52 shelf and 7712 are morning-plan levels (7748, 7712); 7750-55/7782/7803 are observations of targets hit or already-planned resistance. No genuinely new actionable levels."
-    },
     {
       "tweet_id": "2115513361169350841",
       "timestamp_utc": "2026-10-28T18:37:44.000Z",
