@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T18:42:49.681417+00:00",
-  "fetched_at_est": "2026-10-29T14:42:49.681421-04:00",
+  "fetched_at_utc": "2026-10-29T18:52:54.791252+00:00",
+  "fetched_at_est": "2026-10-29T14:52:54.791260-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -194,6 +194,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7732 is already in the morning plan; this is a reaffirmation, not a new level."
+    },
+    {
+      "tweet_id": "2115878352946926026",
+      "timestamp_utc": "2026-10-29T18:48:05.000Z",
+      "timestamp_est": "2026-10-29T14:48:05-04:00",
+      "tweet_text": "Note: Newsletter was sent early today in advance of earnings upcoming which should provide good movement. There are numerous entries available in this region",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price levels named; purely commentary about newsletter timing and general entry availability in a region. No actionable price cited."
     }
   ]
 }
