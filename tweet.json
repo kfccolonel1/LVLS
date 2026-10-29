@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-28T19:29:09.850767+00:00",
-  "fetched_at_est": "2026-10-28T15:29:09.850774-04:00",
+  "fetched_at_utc": "2026-10-29T12:01:00.117065+00:00",
+  "fetched_at_est": "2026-10-29T08:01:00.117069-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -113,6 +113,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about newsletter timing and FOMC; no prices named, no actionable levels of any kind."
+    },
+    {
+      "tweet_id": "2115775346784239900",
+      "timestamp_utc": "2026-10-29T11:58:46.000Z",
+      "timestamp_est": "2026-10-29T07:58:46-04:00",
+      "tweet_text": "@fiveinchhammer Typo, will redo the tweet",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a meta-comment about a typo/correction with no price levels named or actionable information."
     }
   ]
 }
