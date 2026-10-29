@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T12:11:09.461275+00:00",
-  "fetched_at_est": "2026-10-29T08:11:09.461289-04:00",
+  "fetched_at_utc": "2026-10-29T12:21:14.453835+00:00",
+  "fetched_at_est": "2026-10-29T08:21:14.453842-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2115416721603367121",
-      "timestamp_utc": "2026-10-28T12:13:43.000Z",
-      "timestamp_est": "2026-10-28T08:13:43-04:00",
-      "tweet_text": "@OnTheHooch Always the same! They'll be back on the first 50+ point red candle",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply, no price mentioned, no actionable level named."
-    },
     {
       "tweet_id": "2115427515585941753",
       "timestamp_utc": "2026-10-28T12:56:37.000Z",
@@ -131,6 +122,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply to a subscriber with no prices named; purely social commentary about a lucrative week."
+    },
+    {
+      "tweet_id": "2115778948126626216",
+      "timestamp_utc": "2026-10-29T12:13:05.000Z",
+      "timestamp_est": "2026-10-29T08:13:05-04:00",
+      "tweet_text": "@Nighthawkk5 Yes, nothing I'll trade today until we see that 7712 low or the O/N low FBD",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7712 is already in the morning plan; O/N low is a reference not a named actionable price. No new levels introduced."
     }
   ]
 }
