@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T14:31:53.402002+00:00",
-  "fetched_at_est": "2026-10-29T10:31:53.402021-04:00",
+  "fetched_at_utc": "2026-10-29T14:51:59.946320+00:00",
+  "fetched_at_est": "2026-10-29T10:51:59.946327-04:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -194,6 +194,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7803 and 7835 are both morning-plan levels; tweet is a reaffirmation/explanation of existing levels, not a new actionable call."
+    },
+    {
+      "tweet_id": "2115816442696515813",
+      "timestamp_utc": "2026-10-29T14:42:04.000Z",
+      "timestamp_est": "2026-10-29T10:42:04-04:00",
+      "tweet_text": "We are pinned at the 7752 magnet. We completed the leg up for +125 points and now, #ES_F digests and chops. 7677-7803=the range. We trapped range support Friday/Sunday and got long for 7803, hit yesterday.\n\nPinned to 7752 now. 7772, 7792, 7803 above. 7732 (held), 7712=supports https://t.co/QRzz5Rjb0K",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7752, 7772, 7792, 7803, 7732, 7712, 7677) are morning-plan levels or observations of price action/range digest. No new actionable levels named."
     }
   ]
 }
