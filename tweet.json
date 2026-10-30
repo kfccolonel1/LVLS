@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T11:54:43.531298+00:00",
-  "fetched_at_est": "2026-10-30T07:54:43.531304-04:00",
+  "fetched_at_utc": "2026-10-30T12:04:50.025317+00:00",
+  "fetched_at_est": "2026-10-30T08:04:50.025327-04:00",
   "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
   "todays_new_levels": [
     {
@@ -14,33 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2115775346784239900",
-      "timestamp_utc": "2026-10-29T11:58:46.000Z",
-      "timestamp_est": "2026-10-29T07:58:46-04:00",
-      "tweet_text": "@fiveinchhammer Typo, will redo the tweet",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a meta-comment about a typo/correction with no price levels named or actionable information."
-    },
-    {
-      "tweet_id": "2115775880341663854",
-      "timestamp_utc": "2026-10-29T12:00:53.000Z",
-      "timestamp_est": "2026-10-29T08:00:53-04:00",
-      "tweet_text": "The long continues to pay nicely in #ES_F. 7677-7803=the range. Since Sunday (after the 7677 long), I was looking for 7803. 7752, 7784 en route. We hit 7803 ystd, completing the leg finally.\n\nPlan: 7752/48=weak support (watch deep traps). 7772, 7792, 7803 next. 7732, 7712 below https://t.co/pf9O4xcwUr",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7677,7803,7752,7772,7792,7732,7712,7784) are either morning-plan levels or observations/reaffirmations of existing levels; 7784/7792 lack naming language."
-    },
-    {
-      "tweet_id": "2115776202359103942",
-      "timestamp_utc": "2026-10-29T12:02:10.000Z",
-      "timestamp_est": "2026-10-29T08:02:10-04:00",
-      "tweet_text": "Note: Now there is little to do. Newsletter readers and followers here now I've been clear about 7803+ as the target all week and we got it, for +125 from the Sunday long at 7677. Wait for another elevator down + next newsletter entry to trap bears and do it all over again",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade recap/commentary. 7803 and 7677 are existing morning-plan levels. No new actionable price named with qualifying language."
-    },
     {
       "tweet_id": "2115777142877282426",
       "timestamp_utc": "2026-10-29T12:05:54.000Z",
@@ -240,6 +213,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named at all; purely conversational commentary about session quality with no actionable levels."
+    },
+    {
+      "tweet_id": "2116136835919597736",
+      "timestamp_utc": "2026-10-30T11:55:12.000Z",
+      "timestamp_est": "2026-10-30T07:55:12-04:00",
+      "tweet_text": "@VonTrades Yes structure quite ominous here but it should set up lots of great entries for us day traders",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about market structure and trading opportunities; no specific price level named or actionable trigger given."
+    },
+    {
+      "tweet_id": "2116137642194567504",
+      "timestamp_utc": "2026-10-30T11:58:24.000Z",
+      "timestamp_est": "2026-10-30T07:58:24-04:00",
+      "tweet_text": "@dj_cremebrulee @Porterhous90889 Its because we've had some red and volatility=good day trading. Fingers crossed we're setting up for a major structural failure here which could give us really good trading for the next several weeks",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary about potential structural failure; no specific price named or actionable level introduced."
     }
   ]
 }
