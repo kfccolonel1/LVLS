@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T14:37:23.859051+00:00",
-  "fetched_at_est": "2026-10-30T10:37:23.859061-04:00",
+  "fetched_at_utc": "2026-10-30T14:47:33.660331+00:00",
+  "fetched_at_est": "2026-10-30T10:47:33.660346-04:00",
   "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2115816442696515813",
-      "timestamp_utc": "2026-10-29T14:42:04.000Z",
-      "timestamp_est": "2026-10-29T10:42:04-04:00",
-      "tweet_text": "We are pinned at the 7752 magnet. We completed the leg up for +125 points and now, #ES_F digests and chops. 7677-7803=the range. We trapped range support Friday/Sunday and got long for 7803, hit yesterday.\n\nPinned to 7752 now. 7772, 7792, 7803 above. 7732 (held), 7712=supports https://t.co/QRzz5Rjb0K",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7752, 7772, 7792, 7803, 7732, 7712, 7677) are morning-plan levels or observations of price action/range digest. No new actionable levels named."
-    },
     {
       "tweet_id": "2115836882328469950",
       "timestamp_utc": "2026-10-29T16:03:17.000Z",
@@ -269,6 +260,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price named; purely commentary about a bear case trigger and squeeze setup with zero actionable levels mentioned."
+    },
+    {
+      "tweet_id": "2116178169300701564",
+      "timestamp_utc": "2026-10-30T14:39:26.000Z",
+      "timestamp_est": "2026-10-30T10:39:26-04:00",
+      "tweet_text": "@upandown007 Always the same cycle in ES...Big leg up elevator down as posted (under way now) then we get the next bear trap and big leg higher. Rinse and repeat",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market cycle commentary with no specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2116178630472548761",
+      "timestamp_utc": "2026-10-30T14:41:16.000Z",
+      "timestamp_est": "2026-10-30T10:41:16-04:00",
+      "tweet_text": "@OnTheHooch @Brian_Keith_Pho @alexvegaaa We didn't, similar action last Friday otherwise though (elevator down) but we ripped into the close. But then we had to chop hard into Monday after before we started the leg up",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational market commentary comparing current action to prior week; no prices named, no actionable levels introduced."
     }
   ]
 }
