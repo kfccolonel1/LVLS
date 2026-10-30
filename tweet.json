@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T17:28:48.432490+00:00",
-  "fetched_at_est": "2026-10-30T13:28:48.432503-04:00",
+  "fetched_at_utc": "2026-10-30T17:38:52.033084+00:00",
+  "fetched_at_est": "2026-10-30T13:38:52.033090-04:00",
   "last_new_level_added_at_est": "2026-10-30T13:07:13-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2115860535287619805",
-      "timestamp_utc": "2026-10-29T17:37:17.000Z",
-      "timestamp_est": "2026-10-29T13:37:17-04:00",
-      "tweet_text": "We are still pinned at 7752 magnet in #ES_F and little to do here. We completed our leg up yesterday as posted (7802 was target off the 7677 Fri/Sun long - 7677 to 7802 is the range). After a leg up, we chop to setup next run\n\n7752 reclaims to pop again. 7732 (held), 7712 below https://t.co/xW49Tg7MaM",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7752, 7732, 7712, 7677, 7802) are morning-plan levels or historical references. No new actionable levels named."
-    },
     {
       "tweet_id": "2115864840187330769",
       "timestamp_utc": "2026-10-29T17:54:23.000Z",
