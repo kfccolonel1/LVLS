@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T16:08:04.733065+00:00",
-  "fetched_at_est": "2026-10-30T12:08:04.733070-04:00",
+  "fetched_at_utc": "2026-10-30T16:58:18.234124+00:00",
+  "fetched_at_est": "2026-10-30T12:58:18.234137-04:00",
   "last_new_level_added_at_est": "2026-10-30T11:45:56-04:00",
   "todays_new_levels": [
     {
@@ -341,6 +341,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply with only a URL and no actionable price levels named."
+    },
+    {
+      "tweet_id": "2116211821522911499",
+      "timestamp_utc": "2026-10-30T16:53:10.000Z",
+      "timestamp_est": "2026-10-30T12:53:10-04:00",
+      "tweet_text": "@NQtrader11 There have been no \"long call levels\". There was only 1 trigger today so far and it worked for a level to level move",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet clarifying prior activity; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2116211950275412444",
+      "timestamp_utc": "2026-10-30T16:53:40.000Z",
+      "timestamp_est": "2026-10-30T12:53:40-04:00",
+      "tweet_text": "@OnTheHooch Its like 15 accounts that quite literally only appear on red days!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about social media accounts; no price levels mentioned or implied."
+    },
+    {
+      "tweet_id": "2116213026315710679",
+      "timestamp_utc": "2026-10-30T16:57:57.000Z",
+      "timestamp_est": "2026-10-30T12:57:57-04:00",
+      "tweet_text": "@GlobalFX365 @poker848768148 Thats what I do! Day trading. Many people don't understand what it is though, they are focused on swing sized moves, or irrelevant things like the economy. Day trading is just wait for setup, take out points, repeat.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is a conversational explanation of day trading philosophy with zero actionable levels."
     }
   ]
 }
