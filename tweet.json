@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T17:08:26.051661+00:00",
-  "fetched_at_est": "2026-10-30T13:08:26.051672-04:00",
+  "fetched_at_utc": "2026-10-30T17:18:38.681210+00:00",
+  "fetched_at_est": "2026-10-30T13:18:38.681221-04:00",
   "last_new_level_added_at_est": "2026-10-30T13:07:13-04:00",
   "todays_new_levels": [
     {
@@ -406,6 +406,51 @@
         7585.0
       ],
       "notes": "7616, 7625, 7585 named as new bear targets/watches; 7677 named as bull recovery trigger. 7649/7665/7703/7677 are morning plan or reaffirmations."
+    },
+    {
+      "tweet_id": "2116215995987628089",
+      "timestamp_utc": "2026-10-30T17:09:45.000Z",
+      "timestamp_est": "2026-10-30T13:09:45-04:00",
+      "tweet_text": "@louislouieaz Literally discussed explicitly in my newsletter and I didn't \"call for\" any bullish stuff. I provide entries and we hit all upside targets for the week on the run to 7803 https://t.co/rYtyP3JfHo",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Hindsight reference to 7803 (already in morning plan) and general newsletter defense; no new actionable level named."
+    },
+    {
+      "tweet_id": "2116217035025785186",
+      "timestamp_utc": "2026-10-30T17:13:53.000Z",
+      "timestamp_est": "2026-10-30T13:13:53-04:00",
+      "tweet_text": "@AlbanoRick @Approximately I don't buy any supports when bears control, but don't have to trade like I do!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading philosophy; no price levels named or actionable levels identified."
+    },
+    {
+      "tweet_id": "2116217854135808008",
+      "timestamp_utc": "2026-10-30T17:17:08.000Z",
+      "timestamp_est": "2026-10-30T13:17:08-04:00",
+      "tweet_text": "@goldenebuka_ We've only had 1 reclaim today and it worked. The market is allowed to have red days, it just means a larger squeeze when we trigger afterwards. Very normal ES behavior as I've discussed at extensive, extensive length",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary/reassurance to a user about market behavior. No price levels named, no actionable triggers, no naming language present."
+    },
+    {
+      "tweet_id": "2116217913392742564",
+      "timestamp_utc": "2026-10-30T17:17:22.000Z",
+      "timestamp_est": "2026-10-30T13:17:22-04:00",
+      "tweet_text": "@goldenebuka_ https://t.co/V740DCGt5i",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply with only a URL and no actionable price levels named."
+    },
+    {
+      "tweet_id": "2116218068800000214",
+      "timestamp_utc": "2026-10-30T17:17:59.000Z",
+      "timestamp_est": "2026-10-30T13:17:59-04:00",
+      "tweet_text": "@tradethetraps Boring day today (Mode 1 so far) but it means Monday/Tuesday we should get lots of setups",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about market mode and outlook; no price levels named or actionable triggers given."
     }
   ]
 }
