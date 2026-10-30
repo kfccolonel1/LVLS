@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T12:35:08.046805+00:00",
-  "fetched_at_est": "2026-10-30T08:35:08.046821-04:00",
+  "fetched_at_utc": "2026-10-30T12:55:11.243423+00:00",
+  "fetched_at_est": "2026-10-30T08:55:11.243429-04:00",
   "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2115788813519753611",
-      "timestamp_utc": "2026-10-29T12:52:17.000Z",
-      "timestamp_est": "2026-10-29T08:52:17-04:00",
-      "tweet_text": "Nothing to do now in #ES_F and we completed the range I've been looking for since Monday. 7752 remains a magnet. 7677-7803=the range. The trap of range support Friday/Sunday got us long for 7803 target. Work done.\n\nWe are trapping 52 again. 7772, 7792, 7803 next. 7732, 7712 below https://t.co/PiLx3HGZ39",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7752, 7677, 7803, 7772, 7792, 7732, 7712) are morning plan levels or observations of price action/range completion; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2115802858381770800",
       "timestamp_utc": "2026-10-29T13:48:05.000Z",
