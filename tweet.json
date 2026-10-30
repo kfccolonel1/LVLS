@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T15:37:43.932100+00:00",
-  "fetched_at_est": "2026-10-30T11:37:43.932123-04:00",
-  "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
+  "fetched_at_utc": "2026-10-30T15:47:53.964314+00:00",
+  "fetched_at_est": "2026-10-30T11:47:53.964326-04:00",
+  "last_new_level_added_at_est": "2026-10-30T11:45:56-04:00",
   "todays_new_levels": [
     {
       "price": 7686.0,
@@ -11,6 +11,13 @@
       "added_at_est": "2026-10-30T07:38:43-04:00",
       "expires_at_est": "2026-10-30T15:38:43-04:00",
       "from_tweet_id": "2116132688973222177"
+    },
+    {
+      "price": 7616.0,
+      "side": "bear",
+      "added_at_est": "2026-10-30T11:45:56-04:00",
+      "expires_at_est": "2026-10-30T19:45:56-04:00",
+      "from_tweet_id": "2116194902153588895"
     }
   ],
   "updates": [
@@ -296,6 +303,35 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing 7535 and 7549 as observations/context about price behavior, not actionable named levels with explicit entry/watch/trigger language."
+    },
+    {
+      "tweet_id": "2116193443873734923",
+      "timestamp_utc": "2026-10-30T15:40:08.000Z",
+      "timestamp_est": "2026-10-30T11:40:08-04:00",
+      "tweet_text": "@Bajwa_____ @ashwagamma @OnTheHooch 57 is a major level and we struggled there for 10mins. No reason not to take some off in that case and protect profits",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7657 referenced conversationally in trade management context (take profits, protect gains); not named as a new actionable entry/watch/trigger level."
+    },
+    {
+      "tweet_id": "2116193533635998113",
+      "timestamp_utc": "2026-10-30T15:40:30.000Z",
+      "timestamp_est": "2026-10-30T11:40:30-04:00",
+      "tweet_text": "@Bajwa_____ @ashwagamma @OnTheHooch If we ripped through effortlessly I'd likely hold for the next one but sometimes have to just read the context",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade management strategy; no actionable price level named."
+    },
+    {
+      "tweet_id": "2116194902153588895",
+      "timestamp_utc": "2026-10-30T15:45:56.000Z",
+      "timestamp_est": "2026-10-30T11:45:56-04:00",
+      "tweet_text": "Today is a rare session in #ES_F where we got a bear case trigger below 7703 per newsletter. We lost it overnight, and sold below 7677. 7677-7803 was the big macro range and we hit range res Wednesday.\n\n7649 must reclaim to rally to 7663, 7677+. 7616 below from here. https://t.co/nSj8K1exOT",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7616.0
+      ],
+      "notes": "7616 is named as the next support/target below \u2014 not in morning plan. All other prices (7649, 7663, 7677, 7703, 7803) are morning-plan reaffirmations."
     }
   ]
 }
