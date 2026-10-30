@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T16:58:18.234124+00:00",
-  "fetched_at_est": "2026-10-30T12:58:18.234137-04:00",
-  "last_new_level_added_at_est": "2026-10-30T11:45:56-04:00",
+  "fetched_at_utc": "2026-10-30T17:08:26.051661+00:00",
+  "fetched_at_est": "2026-10-30T13:08:26.051672-04:00",
+  "last_new_level_added_at_est": "2026-10-30T13:07:13-04:00",
   "todays_new_levels": [
     {
       "price": 7686.0,
@@ -18,6 +18,20 @@
       "added_at_est": "2026-10-30T11:45:56-04:00",
       "expires_at_est": "2026-10-30T19:45:56-04:00",
       "from_tweet_id": "2116194902153588895"
+    },
+    {
+      "price": 7625.0,
+      "side": "bear",
+      "added_at_est": "2026-10-30T13:07:13-04:00",
+      "expires_at_est": "2026-10-30T21:07:13-04:00",
+      "from_tweet_id": "2116215360386969722"
+    },
+    {
+      "price": 7585.0,
+      "side": "bear",
+      "added_at_est": "2026-10-30T13:07:13-04:00",
+      "expires_at_est": "2026-10-30T21:07:13-04:00",
+      "from_tweet_id": "2116215360386969722"
     }
   ],
   "updates": [
@@ -368,6 +382,30 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices mentioned at all; tweet is a conversational explanation of day trading philosophy with zero actionable levels."
+    },
+    {
+      "tweet_id": "2116213305153040676",
+      "timestamp_utc": "2026-10-30T16:59:03.000Z",
+      "timestamp_est": "2026-10-30T12:59:03-04:00",
+      "tweet_text": "@upandown007 Its a big zone but generally when bears control I'll never just buy a support. If we can recover it on the failed breakdown its more attractive",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading approach/methodology. No specific price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2116215360386969722",
+      "timestamp_utc": "2026-10-30T17:07:13.000Z",
+      "timestamp_est": "2026-10-30T13:07:13-04:00",
+      "tweet_text": "There's 7616 next down in #ES_F. Today is a bearish control session. Per newsletter 7703 failure would trigger down and the likely loss of the 7677-7803 range. Down we went. 7665/7677 must recover to see *sustained* green\n\nWatch traps of 16 to see 7625, 7645-49. 7585 below https://t.co/2TCu0DpyKV",
+      "added_bull_levels": [
+        7677.0
+      ],
+      "added_bear_levels": [
+        7616.0,
+        7625.0,
+        7585.0
+      ],
+      "notes": "7616, 7625, 7585 named as new bear targets/watches; 7677 named as bull recovery trigger. 7649/7665/7703/7677 are morning plan or reaffirmations."
     }
   ]
 }
