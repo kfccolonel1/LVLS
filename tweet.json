@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T19:39:53.048716+00:00",
-  "fetched_at_est": "2026-10-30T15:39:53.048727-04:00",
+  "fetched_at_utc": "2026-10-30T19:59:56.488129+00:00",
+  "fetched_at_est": "2026-10-30T15:59:56.488133-04:00",
   "last_new_level_added_at_est": "2026-10-30T14:21:41-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2115895612524621915",
-      "timestamp_utc": "2026-10-29T19:56:40.000Z",
-      "timestamp_est": "2026-10-29T15:56:40-04:00",
-      "tweet_text": "@OnTheHooch @lamarroemer 39 reclaim was a mentioned entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply referencing a prior mention of a reclaim entry \u2014 hindsight/reaffirmation, no new actionable level named."
-    },
     {
       "tweet_id": "2115936761872265294",
       "timestamp_utc": "2026-10-29T22:40:10.000Z",
