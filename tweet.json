@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T18:59:33.373792+00:00",
-  "fetched_at_est": "2026-10-30T14:59:33.373797-04:00",
+  "fetched_at_utc": "2026-10-30T19:09:38.378909+00:00",
+  "fetched_at_est": "2026-10-30T15:09:38.378915-04:00",
   "last_new_level_added_at_est": "2026-10-30T14:21:41-04:00",
   "todays_new_levels": [
     {
@@ -530,6 +530,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply to users, no price levels mentioned or actionable information."
+    },
+    {
+      "tweet_id": "2116245804864176394",
+      "timestamp_utc": "2026-10-30T19:08:12.000Z",
+      "timestamp_est": "2026-10-30T15:08:12-04:00",
+      "tweet_text": "@NoSpinRealist Not overly, the slow grind is what we typically get on Mode 1 days though. On Mode 1 days where its slow all day we typically get the rip in the last hour. If its a vertical drop (elevator down) those usually only last an hour or two before we rip",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about Mode 1 day behavior patterns; no price levels named or implied whatsoever."
     }
   ]
 }
