@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T20:50:05.576667+00:00",
-  "fetched_at_est": "2026-10-30T16:50:05.576671-04:00",
+  "fetched_at_utc": "2026-10-30T22:40:16.846520+00:00",
+  "fetched_at_est": "2026-10-30T18:40:16.846524-04:00",
   "last_new_level_added_at_est": "2026-10-30T14:21:41-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2115936761872265294",
-      "timestamp_utc": "2026-10-29T22:40:10.000Z",
-      "timestamp_est": "2026-10-29T18:40:10-04:00",
-      "tweet_text": "@the1geek Lots of entries below 7712 I mentioned (in fact all good entries are below 7712)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7712 is already in the morning plan; tweet is a reaffirmation/commentary on existing levels, no new actionable price named."
-    },
     {
       "tweet_id": "2116132688973222177",
       "timestamp_utc": "2026-10-30T11:38:43.000Z",
