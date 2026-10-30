@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T15:47:53.964314+00:00",
-  "fetched_at_est": "2026-10-30T11:47:53.964326-04:00",
+  "fetched_at_utc": "2026-10-30T15:58:01.218776+00:00",
+  "fetched_at_est": "2026-10-30T11:58:01.218794-04:00",
   "last_new_level_added_at_est": "2026-10-30T11:45:56-04:00",
   "todays_new_levels": [
     {
@@ -332,6 +332,24 @@
         7616.0
       ],
       "notes": "7616 is named as the next support/target below \u2014 not in morning plan. All other prices (7649, 7663, 7677, 7703, 7803) are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2116196734015611230",
+      "timestamp_utc": "2026-10-30T15:53:13.000Z",
+      "timestamp_est": "2026-10-30T11:53:13-04:00",
+      "tweet_text": "@poker848768148 That worked perfectly fine, we got to 57 1st major up. As I've discussed in extreme length in newsletter not every Failed Breakdown will go 20, 50 or 100 points. They form a normal distro, for every 100 pointer there is a 5 pointer. On Mode 1 red days we typically get 3-5 5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No new actionable price levels named. '57' appears to reference an already-known morning plan level (7657 area); rest is educational commentary about Failed Breakdown distributions."
+    },
+    {
+      "tweet_id": "2116196849295974773",
+      "timestamp_utc": "2026-10-30T15:53:40.000Z",
+      "timestamp_est": "2026-10-30T11:53:40-04:00",
+      "tweet_text": "@poker848768148 https://t.co/p1uTtVOKkI",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply with only a URL and no actionable price levels named."
     }
   ]
 }
