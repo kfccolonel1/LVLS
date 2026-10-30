@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T18:29:17.584682+00:00",
-  "fetched_at_est": "2026-10-30T14:29:17.584690-04:00",
+  "fetched_at_utc": "2026-10-30T18:39:25.591893+00:00",
+  "fetched_at_est": "2026-10-30T14:39:25.591903-04:00",
   "last_new_level_added_at_est": "2026-10-30T14:21:41-04:00",
   "todays_new_levels": [
     {
@@ -512,6 +512,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7575 named explicitly as a trigger level ('recoveries of 7575 to trigger a pop') \u2014 actionable bull trigger not in morning plan."
+    },
+    {
+      "tweet_id": "2116236562044485927",
+      "timestamp_utc": "2026-10-30T18:31:28.000Z",
+      "timestamp_est": "2026-10-30T14:31:28-04:00",
+      "tweet_text": "@HagglundKirk Don't need to trust or not trust anything, just need to get a trigger and manage it level to level. There just havn't been any today other than a brief 5 point scalp at 49. Slow day, but we'll get a monster squeeze next week",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual reply mentioning '49' as a past scalp reference, no actionable naming language. Commentary about slow day and next week squeeze \u2014 no new level introduced."
+    },
+    {
+      "tweet_id": "2116237691318890698",
+      "timestamp_utc": "2026-10-30T18:35:58.000Z",
+      "timestamp_est": "2026-10-30T14:35:58-04:00",
+      "tweet_text": "@NQtrader11 Hasn't been many triggers yet today! Quick 5 pointer at 49 to wrap up a good week",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Casual trade recap mentioning '49' in passing with no naming language; no actionable level explicitly identified."
     }
   ]
 }
