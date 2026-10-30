@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T17:18:38.681210+00:00",
-  "fetched_at_est": "2026-10-30T13:18:38.681221-04:00",
+  "fetched_at_utc": "2026-10-30T17:28:48.432490+00:00",
+  "fetched_at_est": "2026-10-30T13:28:48.432503-04:00",
   "last_new_level_added_at_est": "2026-10-30T13:07:13-04:00",
   "todays_new_levels": [
     {
@@ -451,6 +451,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about market mode and outlook; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2116219194563825673",
+      "timestamp_utc": "2026-10-30T17:22:28.000Z",
+      "timestamp_est": "2026-10-30T13:22:28-04:00",
+      "tweet_text": "@dj_cremebrulee 65ish is the most direct breakdown level, thats a very conservative one for the first smaller squeeze",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user; '65ish' (~7665) is a conversational reference/observation, not explicitly named as actionable with required naming language. Also near morning plan level 7663."
+    },
+    {
+      "tweet_id": "2116219871159845302",
+      "timestamp_utc": "2026-10-30T17:25:09.000Z",
+      "timestamp_est": "2026-10-30T13:25:09-04:00",
+      "tweet_text": "Slow Friday in #ES_F, but clean week. 7677-7803 was the range. I was looking for 7803 to complete the leg up. We hit Wed,overshot, sold. Per newsletter, 7703 failures triggers the bear case. We triggered overnight, and lost the range.\n\n7616 must reclaim to see 7625, 7645-49 https://t.co/38zFAlfOZz",
+      "added_bull_levels": [
+        7616.0,
+        7625.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7616 named as must-reclaim trigger, 7625 named as next target above \u2014 both are new actionable levels not in morning plan."
     }
   ]
 }
