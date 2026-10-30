@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T17:38:52.033084+00:00",
-  "fetched_at_est": "2026-10-30T13:38:52.033090-04:00",
+  "fetched_at_utc": "2026-10-30T17:59:00.704503+00:00",
+  "fetched_at_est": "2026-10-30T13:59:00.704513-04:00",
   "last_new_level_added_at_est": "2026-10-30T13:07:13-04:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2115864840187330769",
-      "timestamp_utc": "2026-10-29T17:54:23.000Z",
-      "timestamp_est": "2026-10-29T13:54:23-04:00",
-      "tweet_text": "@Nighthawkk5 Hit range resistance yesterday, so that means chop digestion today as we setup then next leg. Would be a nice to get a deep sell though thats then only thing that creates the eenergy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary about chop/digestion and a 'deep sell' desire \u2014 no specific price named or actionable level introduced."
-    },
     {
       "tweet_id": "2115868434235846992",
       "timestamp_utc": "2026-10-29T18:08:40.000Z",
@@ -463,6 +454,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7616 named as must-reclaim trigger, 7625 named as next target above \u2014 both are new actionable levels not in morning plan."
+    },
+    {
+      "tweet_id": "2116226635913429143",
+      "timestamp_utc": "2026-10-30T17:52:02.000Z",
+      "timestamp_est": "2026-10-30T13:52:02-04:00",
+      "tweet_text": "@Nighthawkk5 I'd rather take it on Sunday - Mode 1 red days are similar to Mode 1 green days in that they are poor for day trading. If we get a nice spike in the next hour though I'd take it but I won't take it if its in the last 30mins.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade timing preference. No prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2116228033220596163",
+      "timestamp_utc": "2026-10-30T17:57:35.000Z",
+      "timestamp_est": "2026-10-30T13:57:35-04:00",
+      "tweet_text": "@Unstoppable1983 This is a day trading page.  Day traders like volatility. Its been a slow, one directional grind lower. If you are interested in swing trading or have \"deep losses\" from swing trading has nothing to do with my work, my system, or what I post about",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary/reply to user about trading style and swing trading; no prices or actionable levels mentioned."
     }
   ]
 }
