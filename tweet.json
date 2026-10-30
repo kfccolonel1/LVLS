@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T19:09:38.378909+00:00",
-  "fetched_at_est": "2026-10-30T15:09:38.378915-04:00",
+  "fetched_at_utc": "2026-10-30T19:19:43.667976+00:00",
+  "fetched_at_est": "2026-10-30T15:19:43.667981-04:00",
   "last_new_level_added_at_est": "2026-10-30T14:21:41-04:00",
   "todays_new_levels": [
     {
@@ -539,6 +539,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about Mode 1 day behavior patterns; no price levels named or implied whatsoever."
+    },
+    {
+      "tweet_id": "2116246333350982092",
+      "timestamp_utc": "2026-10-30T19:10:18.000Z",
+      "timestamp_est": "2026-10-30T15:10:18-04:00",
+      "tweet_text": "Newsletter was sent early today with entries. 7575 reclaim was one (also given live here) and we are +10 points on this, but this can also be taken Sunday. When we see a Mode 1 (rare trend day red Friday), we typically trigger up on Sunday into Monday. https://t.co/SUr1bHtvYM",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7575 reclaim is a hindsight reference to an already-triggered entry, not a new actionable level. No new naming language for an unacted price."
     }
   ]
 }
