@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T12:14:52.725294+00:00",
-  "fetched_at_est": "2026-10-30T08:14:52.725300-04:00",
+  "fetched_at_utc": "2026-10-30T12:24:59.736620+00:00",
+  "fetched_at_est": "2026-10-30T08:24:59.736631-04:00",
   "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
   "todays_new_levels": [
     {
@@ -213,6 +213,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure directional commentary about potential structural failure; no specific price named or actionable level introduced."
+    },
+    {
+      "tweet_id": "2116142258865274891",
+      "timestamp_utc": "2026-10-30T12:16:45.000Z",
+      "timestamp_est": "2026-10-30T08:16:45-04:00",
+      "tweet_text": "@Stephen1954777 That has nothing to do with day trading or my system - nobody trading my system should be long for 7835. We trade Failed Breakdowns, manage level to level, leave runners. 7835 is a backtest magnet for the next squeeze leg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7835 is already in the morning plan; tweet is a reply explaining trade management/system philosophy, not naming a new actionable level."
+    },
+    {
+      "tweet_id": "2116142375131066440",
+      "timestamp_utc": "2026-10-30T12:17:12.000Z",
+      "timestamp_est": "2026-10-30T08:17:12-04:00",
+      "tweet_text": "@Stephen1954777 7803 was in advance of that which we hit Wednesday and we had to pullback there as it was range resistance",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7803 is already in the morning plan; tweet is a hindsight/reaffirmation observation about price action, not a new actionable level."
     }
   ]
 }
