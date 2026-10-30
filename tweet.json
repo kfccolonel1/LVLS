@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T14:47:33.660331+00:00",
-  "fetched_at_est": "2026-10-30T10:47:33.660346-04:00",
+  "fetched_at_utc": "2026-10-30T15:37:43.932100+00:00",
+  "fetched_at_est": "2026-10-30T11:37:43.932123-04:00",
   "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
   "todays_new_levels": [
     {
@@ -278,6 +278,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational market commentary comparing current action to prior week; no prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2116190996023390386",
+      "timestamp_utc": "2026-10-30T15:30:25.000Z",
+      "timestamp_est": "2026-10-30T11:30:25-04:00",
+      "tweet_text": "@ashwagamma @OnTheHooch I took it too! Got some points for the day, we'll see if the lows can hold. I'll hold a runner",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade management (holding a runner, got points). No actionable price level named."
+    },
+    {
+      "tweet_id": "2116192408178434094",
+      "timestamp_utc": "2026-10-30T15:36:01.000Z",
+      "timestamp_est": "2026-10-30T11:36:01-04:00",
+      "tweet_text": "@octoptionist That's just lots of screen time mostly! No secret there. I know 35 is a big level below the 49 low so often you see price sweep a big low like 49, backtest the next big level down , then recover the 49",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7535 and 7549 as observations/context about price behavior, not actionable named levels with explicit entry/watch/trigger language."
     }
   ]
 }
