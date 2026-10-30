@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T12:24:59.736620+00:00",
-  "fetched_at_est": "2026-10-30T08:24:59.736631-04:00",
+  "fetched_at_utc": "2026-10-30T12:35:08.046805+00:00",
+  "fetched_at_est": "2026-10-30T08:35:08.046821-04:00",
   "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
   "todays_new_levels": [
     {
@@ -231,6 +231,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7803 is already in the morning plan; tweet is a hindsight/reaffirmation observation about price action, not a new actionable level."
+    },
+    {
+      "tweet_id": "2116146590846955925",
+      "timestamp_utc": "2026-10-30T12:33:58.000Z",
+      "timestamp_est": "2026-10-30T08:33:58-04:00",
+      "tweet_text": "@mblcta1 @Stephen1954777 We also rallied 125 points - doesnt make sense at all to give up 126 points for an extra 15 to 7835",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7835 (already in morning plan) and a distance/math observation; no new actionable level named."
+    },
+    {
+      "tweet_id": "2116146815678501250",
+      "timestamp_utc": "2026-10-30T12:34:51.000Z",
+      "timestamp_est": "2026-10-30T08:34:51-04:00",
+      "tweet_text": "@TradeDeskNow Sent out as always! Check junk mail, if not itll be on my substack page https://t.co/yrTOrX7jY8",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is an admin/logistics response about email delivery; no prices or actionable levels mentioned."
     }
   ]
 }
