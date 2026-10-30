@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-29T22:43:27.248854+00:00",
-  "fetched_at_est": "2026-10-29T18:43:27.248858-04:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-10-30T11:44:37.608332+00:00",
+  "fetched_at_est": "2026-10-30T07:44:37.608344-04:00",
+  "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
+  "todays_new_levels": [
+    {
+      "price": 7686.0,
+      "side": "bull",
+      "added_at_est": "2026-10-30T07:38:43-04:00",
+      "expires_at_est": "2026-10-30T15:38:43-04:00",
+      "from_tweet_id": "2116132688973222177"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2115775346784239900",
@@ -203,6 +211,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7712 is already in the morning plan; tweet is a reaffirmation/commentary on existing levels, no new actionable price named."
+    },
+    {
+      "tweet_id": "2116132688973222177",
+      "timestamp_utc": "2026-10-30T11:38:43.000Z",
+      "timestamp_est": "2026-10-30T07:38:43-04:00",
+      "tweet_text": "Its been perfect trading this week in #ES_F. 7677-7802=the range. We trapped range support 1 week ago, got long with 7803 target which hit, and I posted completed the leg up. Now back to range support.\n\n7677=key. Reclaims of 7677 see 7686, 7703. 7703 must recover to properly https://t.co/t81OgmChSB",
+      "added_bull_levels": [
+        7686.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7686 named as first target on 7677 reclaim \u2014 not in morning plan. 7677 and 7703 are morning plan levels (reaffirmations, excluded)."
+    },
+    {
+      "tweet_id": "2116132801263088015",
+      "timestamp_utc": "2026-10-30T11:39:10.000Z",
+      "timestamp_est": "2026-10-30T07:39:10-04:00",
+      "tweet_text": "Note: Downside supports/entries are in newsletter. There is very high quality trading below here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price named; tweet is a general commentary directing readers to newsletter, not an actionable new level."
     }
   ]
 }
