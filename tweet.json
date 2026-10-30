@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T12:55:11.243423+00:00",
-  "fetched_at_est": "2026-10-30T08:55:11.243429-04:00",
+  "fetched_at_utc": "2026-10-30T13:05:16.892238+00:00",
+  "fetched_at_est": "2026-10-30T09:05:16.892245-04:00",
   "last_new_level_added_at_est": "2026-10-30T07:38:43-04:00",
   "todays_new_levels": [
     {
@@ -240,6 +240,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is an admin/logistics response about email delivery; no prices or actionable levels mentioned."
+    },
+    {
+      "tweet_id": "2116154097632231918",
+      "timestamp_utc": "2026-10-30T13:03:47.000Z",
+      "timestamp_est": "2026-10-30T09:03:47-04:00",
+      "tweet_text": "We are glued around 7677 now in #ES_F. Recall 7677-7803 has been the range for 2 weeks. The trap of 7677 last Fri got us long and target was 7803 range res, which hit Wednesday. Now back down.\n\n7677 must reclaim to see 7686, 7703. Real rally above. 7663, 7649 (watch traps) below https://t.co/Xa9yG2s8a2",
+      "added_bull_levels": [
+        7686.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7686 is named as a new intermediate target ('to see 7686') not in the morning plan; all other prices (7677, 7703, 7663, 7649) are already published levels."
     }
   ]
 }
