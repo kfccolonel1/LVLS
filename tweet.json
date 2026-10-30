@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T19:59:56.488129+00:00",
-  "fetched_at_est": "2026-10-30T15:59:56.488133-04:00",
+  "fetched_at_utc": "2026-10-30T20:50:05.576667+00:00",
+  "fetched_at_est": "2026-10-30T16:50:05.576671-04:00",
   "last_new_level_added_at_est": "2026-10-30T14:21:41-04:00",
   "todays_new_levels": [
     {
@@ -559,6 +559,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices or actionable levels mentioned; purely a conversational reply about weekend trading plans."
+    },
+    {
+      "tweet_id": "2116270461663252837",
+      "timestamp_utc": "2026-10-30T20:46:11.000Z",
+      "timestamp_est": "2026-10-30T16:46:11-04:00",
+      "tweet_text": "And theres the late day rip in #ES_F. Sent out live and in newsletter the 7575 reclaim would trigger up. We triggered and went 45 points. Todays sell was also given in yesterdays newsletter on the 7703 breakdown.\n\n7626, 7665 next. Next entries were just sent in newsletter https://t.co/5fLr4gnK3x",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7575 is a hindsight/newsletter reference; 7626 and 7665 are vaguely mentioned as 'next' targets but lack explicit actionable naming language; 7703 is a morning plan level."
     }
   ]
 }
