@@ -1,17 +1,10 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-10-30T19:19:43.667976+00:00",
-  "fetched_at_est": "2026-10-30T15:19:43.667981-04:00",
+  "fetched_at_utc": "2026-10-30T19:39:53.048716+00:00",
+  "fetched_at_est": "2026-10-30T15:39:53.048727-04:00",
   "last_new_level_added_at_est": "2026-10-30T14:21:41-04:00",
   "todays_new_levels": [
-    {
-      "price": 7686.0,
-      "side": "bull",
-      "added_at_est": "2026-10-30T07:38:43-04:00",
-      "expires_at_est": "2026-10-30T15:38:43-04:00",
-      "from_tweet_id": "2116132688973222177"
-    },
     {
       "price": 7616.0,
       "side": "bear",
@@ -548,6 +541,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7575 reclaim is a hindsight reference to an already-triggered entry, not a new actionable level. No new naming language for an unacted price."
+    },
+    {
+      "tweet_id": "2116251334928191498",
+      "timestamp_utc": "2026-10-30T19:30:10.000Z",
+      "timestamp_est": "2026-10-30T15:30:10-04:00",
+      "tweet_text": "@Michel866027 We just went through this same thing last week.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user with no price levels named, no actionable language, purely conversational reference to past market behavior."
+    },
+    {
+      "tweet_id": "2116252118004941087",
+      "timestamp_utc": "2026-10-30T19:33:17.000Z",
+      "timestamp_est": "2026-10-30T15:33:17-04:00",
+      "tweet_text": "@P4NCS Not going to change methodology for the 1 in 10 or 20 days that is a Mode 1 red day (which is never even clear until the end of the day). That just means the other 90% the days getting trapped  on shaky breakdown shorts. Not my first rodeo - been trading ES since 2007 and I have",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a conversational reply about trading methodology/philosophy. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2116252340441485577",
+      "timestamp_utc": "2026-10-30T19:34:10.000Z",
+      "timestamp_est": "2026-10-30T15:34:10-04:00",
+      "tweet_text": "@Thetrading5 I wont this weekend. Will trade it Sunday!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices or actionable levels mentioned; purely a conversational reply about weekend trading plans."
     }
   ]
 }
