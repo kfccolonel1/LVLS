@@ -1,14 +1,15 @@
 {
   "session_date": "2026-11-02",
-  "daily_pivot": 7665.0,
+  "daily_pivot": 7665,
   "regime_hint": "C4",
   "significant_lows": [
-    7577.0,
-    7626.0,
-    7649.0,
-    7665.0,
-    7493.0,
-    7469.0
+    7575,
+    7627,
+    7649,
+    7665,
+    7677,
+    7493,
+    7469
   ],
   "bull_levels": [
     {
@@ -88,6 +89,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES broke down from its multi-week 7665-7803 range on Friday. Trader leans bullish but waits for ES to reclaim 7577 (Sept 16 major low) then 7627 to work back toward 7665/7677. The key pivot is 7665: bulls are favored above it targeting 7703+, bears in control below it. No trades until a clear Failed Breakdown triggers at a planned level.",
-  "fetched_at": "2026-10-31T01:00:18.098424+00:00"
+  "notes": "Trader leans cautiously bullish after today's range breakdown. He is waiting for ES to recover 7577 (Sept 16 low) and then 7627 (today's midday shelf) to attempt longs targeting 7665 and 7703+. The key pivot is 7665/7677: above it bulls regain control and a run toward 7803 is possible; below it bears stay in charge and bounces should be treated skeptically. No shorts planned personally.",
+  "fetched_at": "2026-10-31T13:00:55.219088+00:00"
 }
