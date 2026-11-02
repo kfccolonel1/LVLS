@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T16:34:29.585518+00:00",
-  "fetched_at_est": "2026-11-02T11:34:29.585523-05:00",
+  "fetched_at_utc": "2026-11-02T17:24:38.550309+00:00",
+  "fetched_at_est": "2026-11-02T12:24:38.550314-05:00",
   "last_new_level_added_at_est": "2026-11-02T07:40:26-05:00",
   "todays_new_levels": [
     {
@@ -177,6 +177,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7698 appears as a target mention but is observation/hindsight of prior targets; 7657 support reference lacks explicit 'new/added/key/watching' naming language. All other prices are observations."
+    },
+    {
+      "tweet_id": "2117304534858903646",
+      "timestamp_utc": "2026-11-02T17:15:13.000Z",
+      "timestamp_est": "2026-11-02T12:15:13-05:00",
+      "tweet_text": "Mid-day chop in #ES_F. Last good entry was one we waited all Friday for: 7577 Failed Breakdown (Sept 16 low). As I warned, red Friday=green Sunday/Monday\n\nToday's targets were 7665 (hit), 7677 (hit), 7698. 7657=support, chopping here. Reclaims to scalp up to 7665+. 7636=below. https://t.co/G0B1GMgTXP",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7657 and 7636 referenced as support/below but no explicit naming language ('key','added','watching','major') used; reads as observation/chop commentary, not actionable new levels."
     }
   ]
 }
