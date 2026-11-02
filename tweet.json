@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T19:25:18.143705+00:00",
-  "fetched_at_est": "2026-11-02T14:25:18.143711-05:00",
+  "fetched_at_utc": "2026-11-02T19:35:25.870001+00:00",
+  "fetched_at_est": "2026-11-02T14:35:25.870014-05:00",
   "last_new_level_added_at_est": "2026-11-02T12:57:36-05:00",
   "todays_new_levels": [
     {
@@ -278,6 +278,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7649 is already in the morning plan; this is a reaffirmation/reply referencing an existing published level, not a new actionable level."
+    },
+    {
+      "tweet_id": "2117337506303934922",
+      "timestamp_utc": "2026-11-02T19:26:14.000Z",
+      "timestamp_est": "2026-11-02T14:26:14-05:00",
+      "tweet_text": "Its been a slower day with only 1 entry as we retrace recent 115 point long in #ES_F. 7577 Failed Breakdown Friday was last quality long given here + newsletter. Targets were 7665 (hit), 7677 (hit), 7698 (5 points off).\n\nWait for next trap to do it again. 34 must reclaim to rip https://t.co/i3Tr7n8J3z",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet references prior FBD at 7577, hit targets 7665/7677 (morning plan), and vague '34 must reclaim' \u2014 no explicitly named new actionable level introduced."
+    },
+    {
+      "tweet_id": "2117338302143508584",
+      "timestamp_utc": "2026-11-02T19:29:24.000Z",
+      "timestamp_est": "2026-11-02T14:29:24-05:00",
+      "tweet_text": "@RileyCapTrades Yes for sure! Wasn't expecting to trade today, usually after a huge move like Friday its sidelined for a day or two so already running ahead of expected poitns for the week",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading expectations; no price levels named or actionable signals given."
     }
   ]
 }
