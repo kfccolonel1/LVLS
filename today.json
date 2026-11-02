@@ -89,7 +89,9 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans toward a bounce attempt after Friday's big sell-off broke below the prior multi-week range. He is watching for ES to recover 7577 first, then 7627, which could carry price back up toward 7665-7677. The key pivot is 7665/7677: bulls need to reclaim this level to regain control; below it, the trader stays cautious and skeptical of rallies. Bear case only begins below 7565.",
+  "notes": "Trader leans toward a bounce attempt after Friday's big sell-off broke below the prior multi-week range. He is watching for ES to recover 7577 first, then 7627, which could carry price back up toward 7665-7677. The key pivot is 7665/7677: bulls need to reclaim this level to regai",
   "fetched_at": "2026-11-02T14:54:27.197111+00:00",
-  "source_hash": "b86b10be40863151"
+  "source_hash": "b86b10be40863151",
+  "hand_edited": true,
+  "edited_at": "2026-11-02T14:56:32.907445+00:00"
 }
