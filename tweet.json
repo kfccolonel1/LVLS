@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T15:03:47.952901+00:00",
-  "fetched_at_est": "2026-11-02T10:03:47.952907-05:00",
+  "fetched_at_utc": "2026-11-02T15:33:56.254812+00:00",
+  "fetched_at_est": "2026-11-02T10:33:56.254830-05:00",
   "last_new_level_added_at_est": "2026-11-02T07:40:26-05:00",
   "todays_new_levels": [
     {
@@ -87,6 +87,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7665, 7677, 7703 are all morning-plan levels; 7577 is an observation of price action swept; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2117277450606358949",
+      "timestamp_utc": "2026-11-02T15:27:35.000Z",
+      "timestamp_est": "2026-11-02T10:27:35-05:00",
+      "tweet_text": "We are ripping and followers here aren't shocked - it was called step by step in advance. Red Friday, green Sunday/Monday as always. All triggered by a big Failed Breakdown of 7577 on Friday given live + in newsletter\n\nTargets today? 7665, 7677 (hit), 7698-7703 next then 7739 https://t.co/vUal8KWb4k",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned levels (7665, 7677, 7703, 7739) are in the morning plan. 7577 is a hindsight FBD reference, not a new actionable level."
+    },
+    {
+      "tweet_id": "2117278284962742705",
+      "timestamp_utc": "2026-11-02T15:30:54.000Z",
+      "timestamp_est": "2026-11-02T10:30:54-05:00",
+      "tweet_text": "@ashwagamma Least surprising thing ever after Friday!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply to a user, no price levels named or implied whatsoever."
     }
   ]
 }
