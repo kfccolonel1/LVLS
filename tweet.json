@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T12:53:24.087588+00:00",
-  "fetched_at_est": "2026-11-02T07:53:24.087602-05:00",
+  "fetched_at_utc": "2026-11-02T13:43:35.637462+00:00",
+  "fetched_at_est": "2026-11-02T08:43:35.637474-05:00",
   "last_new_level_added_at_est": "2026-11-02T07:40:26-05:00",
   "todays_new_levels": [
     {
@@ -60,6 +60,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational commentary about ES downtrend behavior; no price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2117249292855300596",
+      "timestamp_utc": "2026-11-02T13:35:42.000Z",
+      "timestamp_est": "2026-11-02T08:35:42-05:00",
+      "tweet_text": "@repetak Because we were setting up that 7577 long, if I didn't send the newsletter out early people would've missed it. The levels are still accurate also, they dont' change",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining newsletter timing; 7577 is a morning-plan level (reaffirmation). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2117250035112915278",
+      "timestamp_utc": "2026-11-02T13:38:39.000Z",
+      "timestamp_est": "2026-11-02T08:38:39-05:00",
+      "tweet_text": "Friday was textbook in #ES_F. We went *elevator down* &amp; that means a rip was coming when we get a Failed Breakdown. 7577-75 (Sept 16 low) was main Failed Breakdown given live here at 2:21PM &amp; newsletter. We are +80.\n\n7665, react, then rip to 7677, 7698-7703 next. 28,16=supports https://t.co/Zk90yCafFX",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7698 is new but embedded in a directional list recap with morning-plan levels 7665/7677/7703; no explicit 'added/key/watching' naming language for 7698 alone."
     }
   ]
 }
