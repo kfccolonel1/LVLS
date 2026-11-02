@@ -1,15 +1,15 @@
 {
   "session_date": "2026-11-02",
-  "daily_pivot": 7677,
+  "daily_pivot": 7665.0,
   "regime_hint": "C4",
   "significant_lows": [
-    7577,
-    7627,
-    7649,
-    7665,
-    7677,
-    7493,
-    7469
+    7575.0,
+    7566.0,
+    7525.0,
+    7493.0,
+    7485.0,
+    7469.0,
+    7440.0
   ],
   "bull_levels": [
     {
@@ -89,6 +89,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "ES broke down from its multi-week 7665-7803 range on Friday. Trader leans bullish but waits for failed-breakdown triggers: first watch for ES to reclaim 7577 (Sept 16 major low), then 7627 (today's shelf), which could carry price back toward 7665-7677. The key pivot is 7677: bulls are favored above it, bears in control below it. Bear case only begins if ES loses 7565.",
-  "fetched_at": "2026-11-02T12:24:09.766950+00:00"
+  "notes": "Trader leans toward a bounce attempt after Friday's big sell-off broke below the prior multi-week range. He is watching for ES to recover 7577 first, then 7627, which could carry price back up toward 7665-7677. The key pivot is 7665/7677: bulls need to reclaim this level to regain control; below it, the trader stays cautious and skeptical of rallies. Bear case only begins below 7565.",
+  "fetched_at": "2026-11-02T14:54:27.197111+00:00",
+  "source_hash": "b86b10be40863151"
 }
