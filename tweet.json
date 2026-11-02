@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T20:45:45.245237+00:00",
-  "fetched_at_est": "2026-11-02T15:45:45.245242-05:00",
+  "fetched_at_utc": "2026-11-02T21:35:51.216037+00:00",
+  "fetched_at_est": "2026-11-02T16:35:51.216042-05:00",
   "last_new_level_added_at_est": "2026-11-02T12:57:36-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2117006227666329744",
-      "timestamp_utc": "2026-11-01T21:29:51.000Z",
-      "timestamp_est": "2026-11-01T16:29:51-05:00",
-      "tweet_text": "@sohappytimenow Ive been a full time trader for many years!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a personal reply about trading background; no price levels or actionable information mentioned."
-    },
     {
       "tweet_id": "2117235383855378871",
       "timestamp_utc": "2026-11-02T12:40:26.000Z",
