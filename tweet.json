@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T17:24:38.550309+00:00",
-  "fetched_at_est": "2026-11-02T12:24:38.550314-05:00",
-  "last_new_level_added_at_est": "2026-11-02T07:40:26-05:00",
+  "fetched_at_utc": "2026-11-02T18:04:48.102897+00:00",
+  "fetched_at_est": "2026-11-02T13:04:48.102906-05:00",
+  "last_new_level_added_at_est": "2026-11-02T12:57:36-05:00",
   "todays_new_levels": [
     {
       "price": 7698.0,
@@ -11,6 +11,20 @@
       "added_at_est": "2026-11-02T07:40:26-05:00",
       "expires_at_est": "2026-11-02T15:40:26-05:00",
       "from_tweet_id": "2117235383855378871"
+    },
+    {
+      "price": 7634.0,
+      "side": "bull",
+      "added_at_est": "2026-11-02T12:57:36-05:00",
+      "expires_at_est": "2026-11-02T20:57:36-05:00",
+      "from_tweet_id": "2117315200647114995"
+    },
+    {
+      "price": 7657.0,
+      "side": "bear",
+      "added_at_est": "2026-11-02T12:57:36-05:00",
+      "expires_at_est": "2026-11-02T20:57:36-05:00",
+      "from_tweet_id": "2117315200647114995"
     }
   ],
   "updates": [
@@ -186,6 +200,28 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7657 and 7636 referenced as support/below but no explicit naming language ('key','added','watching','major') used; reads as observation/chop commentary, not actionable new levels."
+    },
+    {
+      "tweet_id": "2117315200647114995",
+      "timestamp_utc": "2026-11-02T17:57:36.000Z",
+      "timestamp_est": "2026-11-02T12:57:36-05:00",
+      "tweet_text": "Slow day in #ES_F as we retrace our recent 115 point long. Little to do, but getting some conditions here. 7577 Failed Breakdown Friday was last long trigger. Today's targets were 7665 (hit), 7677 (hit), 7698.\n\n7634=support. Watch traps. 7657 above. Watch newsletter entries https://t.co/D5pClupaF9",
+      "added_bull_levels": [
+        7634.0
+      ],
+      "added_bear_levels": [
+        7657.0
+      ],
+      "notes": "7634 named as support (new, not in morning plan); 7657 named as level to watch above (new, not in morning plan). 7698 is a target reference, not newly named actionable."
+    },
+    {
+      "tweet_id": "2117316713926541520",
+      "timestamp_utc": "2026-11-02T18:03:37.000Z",
+      "timestamp_est": "2026-11-02T13:03:37-05:00",
+      "tweet_text": "@Jbuehler777 There have not been any entries since the 7577 Failed Breakdown or the 7626 reclaim from newsletter. We're already sitting on massive gains so nothing wrong there but its been a slow execution day. That's trading though! Take points, sit on runner 95% of the session",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7577 and 7626 are prior newsletter references, not new levels. Tweet is trade management/hindsight commentary with no new actionable price named."
     }
   ]
 }
