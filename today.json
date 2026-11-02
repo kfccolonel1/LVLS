@@ -3,13 +3,13 @@
   "daily_pivot": 7665,
   "regime_hint": "C4",
   "significant_lows": [
-    7577,
-    7627,
-    7649,
-    7665,
-    7677,
+    7575,
+    7566,
+    7525,
     7493,
-    7469
+    7485,
+    7469,
+    7440
   ],
   "bull_levels": [
     {
@@ -59,31 +59,31 @@
   ],
   "bear_levels": [
     {
-      "price": 7575.0,
+      "price": 7560.0,
       "major": true
     },
     {
-      "price": 7566.0,
+      "price": 7550.0,
       "major": true
     },
     {
-      "price": 7525.0,
+      "price": 7545.0,
       "major": true
     },
     {
-      "price": 7493.0,
+      "price": 7540.0,
       "major": true
     },
     {
-      "price": 7485.0,
+      "price": 7520.0,
       "major": true
     },
     {
-      "price": 7469.0,
+      "price": 7512.0,
       "major": true
     },
     {
-      "price": 7440.0,
+      "price": 7501.0,
       "major": true
     }
   ],
