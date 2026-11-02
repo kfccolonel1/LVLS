@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T18:04:48.102897+00:00",
-  "fetched_at_est": "2026-11-02T13:04:48.102906-05:00",
+  "fetched_at_utc": "2026-11-02T18:14:57.564602+00:00",
+  "fetched_at_est": "2026-11-02T13:14:57.564616-05:00",
   "last_new_level_added_at_est": "2026-11-02T12:57:36-05:00",
   "todays_new_levels": [
     {
@@ -222,6 +222,35 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7577 and 7626 are prior newsletter references, not new levels. Tweet is trade management/hindsight commentary with no new actionable price named."
+    },
+    {
+      "tweet_id": "2117317343135379850",
+      "timestamp_utc": "2026-11-02T18:06:07.000Z",
+      "timestamp_est": "2026-11-02T13:06:07-05:00",
+      "tweet_text": "@CalvaneseSam 20+ point bounce is enough. No time requirement but the longer the better. I like to see a multi-hour low per newsletter.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure methodology/commentary reply about bounce duration criteria; no actionable price level named."
+    },
+    {
+      "tweet_id": "2117318402842689746",
+      "timestamp_utc": "2026-11-02T18:10:19.000Z",
+      "timestamp_est": "2026-11-02T13:10:19-05:00",
+      "tweet_text": "Note: Remember I don't post every level for free here on Twitter. Ensure you are always locking in gains at newsletter levels. 7649 for example is the first profit take for the 7634-36 trap/Failed Breakdown. 7657 is above",
+      "added_bull_levels": [
+        7657.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7657 is named explicitly as a level above 7649 (a morning-plan level), introduced here for the first time as an actionable target/resistance reference."
+    },
+    {
+      "tweet_id": "2117318972596977940",
+      "timestamp_utc": "2026-11-02T18:12:35.000Z",
+      "timestamp_est": "2026-11-02T13:12:35-05:00",
+      "tweet_text": "@YelbomCR I speak from the perspective of my methodology. Every intraday system has a different process for capturing points. My system captures points on Failed Breakdowns and we have not had one yet today until just now at least at 34-36. Most systems intraday will find 1-2 setups per",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet explaining methodology; '34-36' is a casual range reference mid-sentence, not explicitly named as an actionable level with naming language."
     }
   ]
 }
