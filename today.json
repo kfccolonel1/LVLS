@@ -89,6 +89,6 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish but only after ES proves it can reclaim key levels. He wants to see ES recover 7577 (Sep 16 low) first, then 7627 (today's shelf), which would open the door back toward 7665-7677. The pivot is 7665-7677: bulls need to reclaim this zone to regain control; below it, bears remain in charge and bounces stay suspect. No trades until a clear failed-breakdown trigger fires.",
-  "fetched_at": "2026-11-01T12:38:09.713510+00:00"
+  "notes": "Trader leans bulls can attempt a backtest of the 7665-7677 zone after today's breakdown below the multi-week range. He will wait for failed-breakdown triggers: first watching for a recovery of 7577 (Sept 16 major low), then 7627 (today's shelf), which could carry price back to 7665 and eventually 7703+. The key pivot is 7665/7677: bulls need to reclaim this zone to regain control; below it, bears remain in charge and bounces are suspect.",
+  "fetched_at": "2026-11-02T02:36:50.487029+00:00"
 }
