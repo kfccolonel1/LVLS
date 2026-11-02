@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-02T13:43:35.637462+00:00",
-  "fetched_at_est": "2026-11-02T08:43:35.637474-05:00",
+  "fetched_at_utc": "2026-11-02T15:03:47.952901+00:00",
+  "fetched_at_est": "2026-11-02T10:03:47.952907-05:00",
   "last_new_level_added_at_est": "2026-11-02T07:40:26-05:00",
   "todays_new_levels": [
     {
@@ -78,6 +78,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7698 is new but embedded in a directional list recap with morning-plan levels 7665/7677/7703; no explicit 'added/key/watching' naming language for 7698 alone."
+    },
+    {
+      "tweet_id": "2117269510063301119",
+      "timestamp_utc": "2026-11-02T14:56:02.000Z",
+      "timestamp_est": "2026-11-02T09:56:02-05:00",
+      "tweet_text": "We continue to push in #ES_F following Friday's massive Failed Breakdown. We swept the September 16th massive low at 7577, and the recovery was the long trigger given live here at 2:21PM + newsletter.\n\n7665 next (big test - backtest Frday's breakdown). 7677, 7698-7703 are above https://t.co/x7VdLGT2EU",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7665, 7677, 7703 are all morning-plan levels; 7577 is an observation of price action swept; no new actionable levels introduced."
     }
   ]
 }
