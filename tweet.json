@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T12:47:41.984160+00:00",
-  "fetched_at_est": "2026-11-03T07:47:41.984166-05:00",
+  "fetched_at_utc": "2026-11-03T13:07:49.887445+00:00",
+  "fetched_at_est": "2026-11-03T08:07:49.887457-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -281,6 +281,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7558, 7577, 7585, 7593, 7634) are newsletter/morning-plan references or hindsight recaps, not newly named actionable levels introduced for the first time here."
+    },
+    {
+      "tweet_id": "2117603803276959816",
+      "timestamp_utc": "2026-11-03T13:04:24.000Z",
+      "timestamp_est": "2026-11-03T08:04:24-05:00",
+      "tweet_text": "@ES_Money_Print We hit 77 overnight so its just a profit take. Theres a big enough gap between 58 and 77 (2 profit takes) that its fine to take. I am only ever looking for two. If 77 was the first level up though and just a few points above it would be an issue.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining profit-take logic between existing morning levels 7757/7777; no new actionable price named, purely trade management commentary."
+    },
+    {
+      "tweet_id": "2117604141899882513",
+      "timestamp_utc": "2026-11-03T13:05:45.000Z",
+      "timestamp_est": "2026-11-03T08:05:45-05:00",
+      "tweet_text": "@ES_Money_Print And the bear case is just for those who want to trade the short side. I don't - it doesn't matter for me if price continues lower or not as long as I think I can get points out on a Failed Breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary explaining trading philosophy/approach for FBD setups; no specific price level named or actionable trigger given."
     }
   ]
 }
