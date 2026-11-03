@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T13:38:04.178355+00:00",
-  "fetched_at_est": "2026-11-03T08:38:04.178359-05:00",
+  "fetched_at_utc": "2026-11-03T13:48:06.773404+00:00",
+  "fetched_at_est": "2026-11-03T08:48:06.773410-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117250035112915278",
-      "timestamp_utc": "2026-11-02T13:38:39.000Z",
-      "timestamp_est": "2026-11-02T08:38:39-05:00",
-      "tweet_text": "Friday was textbook in #ES_F. We went *elevator down* &amp; that means a rip was coming when we get a Failed Breakdown. 7577-75 (Sept 16 low) was main Failed Breakdown given live here at 2:21PM &amp; newsletter. We are +80.\n\n7665, react, then rip to 7677, 7698-7703 next. 28,16=supports https://t.co/Zk90yCafFX",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7698 is new but embedded in a directional list recap with morning-plan levels 7665/7677/7703; no explicit 'added/key/watching' naming language for 7698 alone."
-    },
     {
       "tweet_id": "2117269510063301119",
       "timestamp_utc": "2026-11-02T14:56:02.000Z",
