@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T14:58:20.174686+00:00",
-  "fetched_at_est": "2026-11-03T09:58:20.174691-05:00",
+  "fetched_at_utc": "2026-11-03T15:08:28.150129+00:00",
+  "fetched_at_est": "2026-11-03T10:08:28.150142-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -308,6 +308,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7634 is close to morning-plan 7636 (rounding/reiteration); all other prices (7558,7577,7585,7595) are observations of hits or existing levels. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2117633944006877649",
+      "timestamp_utc": "2026-11-03T15:04:10.000Z",
+      "timestamp_est": "2026-11-03T10:04:10-05:00",
+      "tweet_text": "@staffmarkmeek6 I am very clear in the newsletter that I don't trade 24/7. I don't trade overnight at all, I start trading at 730AM each day and mostly trade until 4pm. In the evening I monitor price action as well casually but will pay more attention if we are near major triggers. I dont trade",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is a conversational reply explaining the trader's schedule and habits. No actionable levels named."
+    },
+    {
+      "tweet_id": "2117634221787459975",
+      "timestamp_utc": "2026-11-03T15:05:16.000Z",
+      "timestamp_est": "2026-11-03T10:05:16-05:00",
+      "tweet_text": "@Nighthawkk5 Mid-terms tonight",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; tweet is a casual conversational reply about mid-term exams/elections with no actionable trading information."
     }
   ]
 }
