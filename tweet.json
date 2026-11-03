@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T03:36:32.212531+00:00",
-  "fetched_at_est": "2026-11-02T22:36:32.212537-05:00",
+  "fetched_at_utc": "2026-11-03T12:37:39.399930+00:00",
+  "fetched_at_est": "2026-11-03T07:37:39.399935-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -301,6 +301,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure speculative commentary about volatility/direction with no specific price levels named or actionable triggers identified."
+    },
+    {
+      "tweet_id": "2117596573748396295",
+      "timestamp_utc": "2026-11-03T12:35:40.000Z",
+      "timestamp_est": "2026-11-03T07:35:40-05:00",
+      "tweet_text": "The week started with a 115 point long from Friday's Failed Breakdown of 7577 Sept 16 low. 3 targets were given: 7665, 7677, 7698 (5 points shy). Then, we sold\n\nPlan: Per newsletter, 7558 Failed Breakdown of Friday's low live. 7577, 7585, 7593, 7634 next. Bears control under 7634 https://t.co/6kjvyu0DiT",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7558, 7577, 7585, 7593, 7634) are newsletter/morning-plan references or hindsight recaps, not newly named actionable levels introduced for the first time here."
     }
   ]
 }
