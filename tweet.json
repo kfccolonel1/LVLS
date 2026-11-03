@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T17:59:32.719791+00:00",
-  "fetched_at_est": "2026-11-03T12:59:32.719794-05:00",
+  "fetched_at_utc": "2026-11-03T18:09:52.369744+00:00",
+  "fetched_at_est": "2026-11-03T13:09:52.369752-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117316713926541520",
-      "timestamp_utc": "2026-11-02T18:03:37.000Z",
-      "timestamp_est": "2026-11-02T13:03:37-05:00",
-      "tweet_text": "@Jbuehler777 There have not been any entries since the 7577 Failed Breakdown or the 7626 reclaim from newsletter. We're already sitting on massive gains so nothing wrong there but its been a slow execution day. That's trading though! Take points, sit on runner 95% of the session",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7577 and 7626 are prior newsletter references, not new levels. Tweet is trade management/hindsight commentary with no new actionable price named."
-    },
-    {
-      "tweet_id": "2117317343135379850",
-      "timestamp_utc": "2026-11-02T18:06:07.000Z",
-      "timestamp_est": "2026-11-02T13:06:07-05:00",
-      "tweet_text": "@CalvaneseSam 20+ point bounce is enough. No time requirement but the longer the better. I like to see a multi-hour low per newsletter.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure methodology/commentary reply about bounce duration criteria; no actionable price level named."
-    },
     {
       "tweet_id": "2117318402842689746",
       "timestamp_utc": "2026-11-02T18:10:19.000Z",
