@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T13:17:54.999154+00:00",
-  "fetched_at_est": "2026-11-03T08:17:54.999158-05:00",
+  "fetched_at_utc": "2026-11-03T13:28:01.731116+00:00",
+  "fetched_at_est": "2026-11-03T08:28:01.731129-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -308,6 +308,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a reply explaining trading philosophy/specialization. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2117607744899530965",
+      "timestamp_utc": "2026-11-03T13:20:04.000Z",
+      "timestamp_est": "2026-11-03T08:20:04-05:00",
+      "tweet_text": "NOTE: Recoveries of 7577 are also actionable. Downside supports are in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7577 is already in the morning plan; tweet is a reaffirmation of an existing level, not a new one."
+    },
+    {
+      "tweet_id": "2117607819218497700",
+      "timestamp_utc": "2026-11-03T13:20:22.000Z",
+      "timestamp_est": "2026-11-03T08:20:22-05:00",
+      "tweet_text": "@chris4eye I think its a good quality entry",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to a user with opinion on entry quality; no price named, no actionable level, pure conversational commentary."
     }
   ]
 }
