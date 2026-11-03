@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T17:19:13.806743+00:00",
-  "fetched_at_est": "2026-11-03T12:19:13.806748-05:00",
+  "fetched_at_utc": "2026-11-03T17:59:32.719791+00:00",
+  "fetched_at_est": "2026-11-03T12:59:32.719794-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117315200647114995",
-      "timestamp_utc": "2026-11-02T17:57:36.000Z",
-      "timestamp_est": "2026-11-02T12:57:36-05:00",
-      "tweet_text": "Slow day in #ES_F as we retrace our recent 115 point long. Little to do, but getting some conditions here. 7577 Failed Breakdown Friday was last long trigger. Today's targets were 7665 (hit), 7677 (hit), 7698.\n\n7634=support. Watch traps. 7657 above. Watch newsletter entries https://t.co/D5pClupaF9",
-      "added_bull_levels": [
-        7634.0
-      ],
-      "added_bear_levels": [
-        7657.0
-      ],
-      "notes": "7634 named as support (new, not in morning plan); 7657 named as level to watch above (new, not in morning plan). 7698 is a target reference, not newly named actionable."
-    },
     {
       "tweet_id": "2117316713926541520",
       "timestamp_utc": "2026-11-02T18:03:37.000Z",
