@@ -1,40 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T12:37:39.399930+00:00",
-  "fetched_at_est": "2026-11-03T07:37:39.399935-05:00",
+  "fetched_at_utc": "2026-11-03T12:47:41.984160+00:00",
+  "fetched_at_est": "2026-11-03T07:47:41.984166-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117235383855378871",
-      "timestamp_utc": "2026-11-02T12:40:26.000Z",
-      "timestamp_est": "2026-11-02T07:40:26-05:00",
-      "tweet_text": "In my final tweet Friday and in newsletter, I posted that when we go red Friday, we rip Sunday. Long trigger given live here + newsletter was 7577 Failed Breakdown. We triggered late Friday, and went +80\n\nPlan: Ride runner. 7628, 7616=supports. 7665, then rip to 7677, 7698-7803 https://t.co/4tu2n653bF",
-      "added_bull_levels": [
-        7698.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7698 appears as part of a range '7698-7803' not in morning plan; 7628/7616/7665/7677 are reaffirmations. 7803 is outside plausible ES range so midpoint flagged conservatively as 7698."
-    },
-    {
-      "tweet_id": "2117235916599386113",
-      "timestamp_utc": "2026-11-02T12:42:33.000Z",
-      "timestamp_est": "2026-11-02T07:42:33-05:00",
-      "tweet_text": "@P4NCS @NYJets2017 @tradivate I intentionally stopped trading Failed Breakouts (after 15 years) because I was underperforming just trading Failed Breakdowns alone in downtrends. Downtrends don't operate you think and days like Friday are very rare",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational/educational reply about trading strategy and methodology. No prices named, no actionable levels whatsoever."
-    },
-    {
-      "tweet_id": "2117236206123594149",
-      "timestamp_utc": "2026-11-02T12:43:42.000Z",
-      "timestamp_est": "2026-11-02T07:43:42-05:00",
-      "tweet_text": "@P4NCS @NYJets2017 @tradivate Even in downtrends sells in ES are rapid, deep, very hard to time and they end in sudden, sharp squeezes",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational commentary about ES downtrend behavior; no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2117249292855300596",
       "timestamp_utc": "2026-11-02T13:35:42.000Z",
