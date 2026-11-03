@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T16:08:49.689528+00:00",
-  "fetched_at_est": "2026-11-03T11:08:49.689532-05:00",
+  "fetched_at_utc": "2026-11-03T16:18:55.149722+00:00",
+  "fetched_at_est": "2026-11-03T11:18:55.149727-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117289557968249069",
-      "timestamp_utc": "2026-11-02T16:15:42.000Z",
-      "timestamp_est": "2026-11-02T11:15:42-05:00",
-      "tweet_text": "@RichardHamlet Been working for nearly 20 years for me!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels mentioned, purely conversational."
-    },
-    {
-      "tweet_id": "2117289777439412633",
-      "timestamp_utc": "2026-11-02T16:16:34.000Z",
-      "timestamp_est": "2026-11-02T11:16:34-05:00",
-      "tweet_text": "@Ant_Tonio @NQtrader11 That's what I did also. If it weren't Friday I would've taken the 77 failed breakdown but I dont like risking holding size over the weekend. Wouldnt of mattered here though because we ran multiple levels into the close Friday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply describing past trade decisions and price action ('ran multiple levels'). No new actionable price explicitly named."
-    },
     {
       "tweet_id": "2117293627500011644",
       "timestamp_utc": "2026-11-02T16:31:52.000Z",
