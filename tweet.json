@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T15:08:28.150129+00:00",
-  "fetched_at_est": "2026-11-03T10:08:28.150142-05:00",
+  "fetched_at_utc": "2026-11-03T15:18:34.776011+00:00",
+  "fetched_at_est": "2026-11-03T10:18:34.776016-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -326,6 +326,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No price levels mentioned at all; tweet is a casual conversational reply about mid-term exams/elections with no actionable trading information."
+    },
+    {
+      "tweet_id": "2117636597487378516",
+      "timestamp_utc": "2026-11-03T15:14:43.000Z",
+      "timestamp_est": "2026-11-03T10:14:43-05:00",
+      "tweet_text": "We are pushing still in #ES_F. Two setups were given here &amp; newsletter: 1) The Failed Breakdown of Friday's 7558 low which was active at 730am. We swept it to 7546, recovered 7558 2) The 7577 reclaim.\n\nTargets were 7577, 7585, 7595. All hit. 7636 next. 7636 is the bull/bear line https://t.co/ZQFnk9O0di",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7558, 7577, 7585, 7595, 7636) are either morning-plan levels, prior targets, or hindsight recaps of setups already given. No new actionable levels introduced."
     }
   ]
 }
