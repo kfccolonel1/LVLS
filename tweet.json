@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T13:28:01.731116+00:00",
-  "fetched_at_est": "2026-11-03T08:28:01.731129-05:00",
+  "fetched_at_utc": "2026-11-03T13:38:04.178355+00:00",
+  "fetched_at_est": "2026-11-03T08:38:04.178359-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117249292855300596",
-      "timestamp_utc": "2026-11-02T13:35:42.000Z",
-      "timestamp_est": "2026-11-02T08:35:42-05:00",
-      "tweet_text": "@repetak Because we were setting up that 7577 long, if I didn't send the newsletter out early people would've missed it. The levels are still accurate also, they dont' change",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining newsletter timing; 7577 is a morning-plan level (reaffirmation). No new actionable levels named."
-    },
     {
       "tweet_id": "2117250035112915278",
       "timestamp_utc": "2026-11-02T13:38:39.000Z",
