@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T20:13:22.629591+00:00",
-  "fetched_at_est": "2026-11-03T15:13:22.629598-05:00",
+  "fetched_at_utc": "2026-11-03T23:34:47.009608+00:00",
+  "fetched_at_est": "2026-11-03T18:34:47.009614-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117399098609271130",
-      "timestamp_utc": "2026-11-02T23:30:59.000Z",
-      "timestamp_est": "2026-11-02T18:30:59-05:00",
-      "tweet_text": "@JU51324604 Hopefully can wake up to some nice red so the daytime traders get some volatility",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational commentary wishing for volatility; no price named, no actionable level of any kind."
-    },
     {
       "tweet_id": "2117400266811326690",
       "timestamp_utc": "2026-11-02T23:35:37.000Z",
