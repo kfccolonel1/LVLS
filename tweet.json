@@ -1,38 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-03T15:38:41.466328+00:00",
-  "fetched_at_est": "2026-11-03T10:38:41.466332-05:00",
+  "fetched_at_utc": "2026-11-03T15:58:46.735566+00:00",
+  "fetched_at_est": "2026-11-03T10:58:46.735574-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117283876099997887",
-      "timestamp_utc": "2026-11-02T15:53:07.000Z",
-      "timestamp_est": "2026-11-02T10:53:07-05:00",
-      "tweet_text": "@NQtrader11 Followers of mine don't knife catch they wait for Failed Breakdowns",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned; tweet is a general trading philosophy statement about waiting for Failed Breakdowns, not an actionable level."
-    },
-    {
-      "tweet_id": "2117284572480278701",
-      "timestamp_utc": "2026-11-02T15:55:53.000Z",
-      "timestamp_est": "2026-11-02T10:55:53-05:00",
-      "tweet_text": "@jordanofstonks The trade was on Friday OR last evening after 6pm. I gave numerous entries. The 7577 Failed Breakdown and anyone who missed that got the 7626 Failed Breakdown.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Hindsight references to prior trade entries (7577 FBD, 7626 FBD); no new actionable levels named for the first time today."
-    },
-    {
-      "tweet_id": "2117284612334600564",
-      "timestamp_utc": "2026-11-02T15:56:03.000Z",
-      "timestamp_est": "2026-11-02T10:56:03-05:00",
-      "tweet_text": "Note: 7665/57 is support now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7665 is already in the morning plan; 7657 is an observation/reaffirmation near that cluster, not a newly named actionable level with qualifying naming language."
-    },
     {
       "tweet_id": "2117285695786279238",
       "timestamp_utc": "2026-11-02T16:00:21.000Z",
