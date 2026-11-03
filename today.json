@@ -104,7 +104,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish: after Friday's big flush to 7558 and recovery of 7577, he expects ES to reclaim 7636 and push toward 7703 then 7739 and higher. He is holding a small long runner from Sunday's entry. The key pivot is 7636 \u2014 above it bulls are back in control and he looks to add; below 7577 the bear case opens for further downside. No scheduled events today.",
-  "fetched_at": "2026-11-03T02:00:17.495084+00:00",
-  "source_hash": "7449129daf5a480d"
+  "notes": "Trader leans bullish: looking for ES to reclaim 7636 (the key pivot) to begin recovering levels lost in last week's selloff, targeting 7657, then 7698-7703, 7739, and eventually 7755+. Above 7636 bulls are back in control; below 7577 bears take over. No new entries until 7636 reclaims or a failed breakdown sets up near 7577 or 7558.",
+  "fetched_at": "2026-11-03T12:09:27.495676+00:00",
+  "source_hash": "929b7191d2cc4533"
 }
