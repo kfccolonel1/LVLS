@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-04T15:06:57.637454+00:00",
-  "fetched_at_est": "2026-11-04T10:06:57.637458-05:00",
+  "fetched_at_utc": "2026-11-04T15:17:04.766355+00:00",
+  "fetched_at_est": "2026-11-04T10:17:04.766365-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117636597487378516",
-      "timestamp_utc": "2026-11-03T15:14:43.000Z",
-      "timestamp_est": "2026-11-03T10:14:43-05:00",
-      "tweet_text": "We are pushing still in #ES_F. Two setups were given here &amp; newsletter: 1) The Failed Breakdown of Friday's 7558 low which was active at 730am. We swept it to 7546, recovered 7558 2) The 7577 reclaim.\n\nTargets were 7577, 7585, 7595. All hit. 7636 next. 7636 is the bull/bear line https://t.co/ZQFnk9O0di",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7558, 7577, 7585, 7595, 7636) are either morning-plan levels, prior targets, or hindsight recaps of setups already given. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2117656419168092194",
       "timestamp_utc": "2026-11-03T16:33:29.000Z",
@@ -167,6 +158,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7500 is a derived math reference (7495+5), not explicitly named as a new actionable level; 7495 is already in morning plan."
+    },
+    {
+      "tweet_id": "2117999143562191359",
+      "timestamp_utc": "2026-11-04T15:15:21.000Z",
+      "timestamp_est": "2026-11-04T10:15:21-05:00",
+      "tweet_text": "This has been one of the most lucrative longs of 2026 in #ES_F &amp; we are now +241 points since last evenings 7495 July 31st low Failed Breakdown. Today would be a ride runner day as I warned, and its paying\n\nToday's targets were 7698 (hit), 7712 (hit), 7739 (hit). 7755, 7771 next https://t.co/zgdhvXPmR2",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7495, 7698, 7712, 7739, 7755, 7771) are morning-plan levels or hit confirmations. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2117999350798278665",
+      "timestamp_utc": "2026-11-04T15:16:10.000Z",
+      "timestamp_est": "2026-11-04T10:16:10-05:00",
+      "tweet_text": "As always this entry was given transparently in advance in newsletter. This is all I do everyday: I never short, I never flip back and forth, I wait for the Failed Breakdown, manage level to level, ride runner https://t.co/X1dkntkMgI",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named; tweet is methodology commentary about trading style (FBD, level-to-level, runner) with no actionable level introduced."
     }
   ]
 }
