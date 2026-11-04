@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-04T18:17:40.727054+00:00",
-  "fetched_at_est": "2026-11-04T13:17:40.727061-05:00",
+  "fetched_at_utc": "2026-11-04T18:27:43.610006+00:00",
+  "fetched_at_est": "2026-11-04T13:27:43.610010-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117682845737218134",
-      "timestamp_utc": "2026-11-03T18:18:29.000Z",
-      "timestamp_est": "2026-11-03T13:18:29-05:00",
-      "tweet_text": "@BeanmealBrandon I trade manually, but i just do the same thing over and over every trade so it feels very  much automated. Most boring job in the world being a trader (its why computers are so good at it - humans get emotional and gamble/overtrade/chase)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply about trading philosophy/methodology. No prices mentioned, no actionable levels of any kind."
-    },
-    {
-      "tweet_id": "2117683233059971074",
-      "timestamp_utc": "2026-11-03T18:20:02.000Z",
-      "timestamp_est": "2026-11-03T13:20:02-05:00",
-      "tweet_text": "@vwapx Many setups that trigger overnight are still available to take at 730am or 830am. If price is still around the trigger and hasn't gone anywhere I will still usually take it. It was the case this morning with the 7558 Failed Breakdown, triggered 3am but at 730am we were still at",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply explaining trade methodology; 7558 is near morning plan level 7557 and referenced as a past trigger observation, not a new actionable level."
-    },
     {
       "tweet_id": "2117700757508194663",
       "timestamp_utc": "2026-11-03T19:29:40.000Z",
