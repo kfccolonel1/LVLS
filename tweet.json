@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-04T16:37:23.274411+00:00",
-  "fetched_at_est": "2026-11-04T11:37:23.274418-05:00",
+  "fetched_at_utc": "2026-11-04T17:07:31.995482+00:00",
+  "fetched_at_est": "2026-11-04T12:07:31.995488-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117664939842109928",
-      "timestamp_utc": "2026-11-03T17:07:20.000Z",
-      "timestamp_est": "2026-11-03T12:07:20-05:00",
-      "tweet_text": "@Shellytradesyyc It triggered around 3am originally but at 730am we had not gone anywhere so the setup was still actionable",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet explaining setup timing context only; no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2117682023318081569",
       "timestamp_utc": "2026-11-03T18:15:13.000Z",
@@ -194,6 +185,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7703 reclaim mention is low-quality observation/hindsight; 7495, 7698-7703, 7712, 7739 are all morning-plan levels or reaffirmations. No new actionable level introduced."
+    },
+    {
+      "tweet_id": "2118027178113736858",
+      "timestamp_utc": "2026-11-04T17:06:44.000Z",
+      "timestamp_est": "2026-11-04T12:06:44-05:00",
+      "tweet_text": "Levels respecting perfectly today. 7703 reclaim just posted took us right back to 7739 final targe today (anything above there is bonus for today). 7755, 7771, 7803+ are bonus for the runner.\n\nLong still paying from last evenings monster 7495 (July 31st low) Failed Breakdown https://t.co/5x861l8Edx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7703 reclaim is a reaffirmation/observation; 7739/7755/7771 are morning plan levels; 7803 is near 7808 (morning plan); all references are trade management/hindsight, no new actionable levels named."
     }
   ]
 }
