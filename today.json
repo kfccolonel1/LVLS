@@ -1,22 +1,23 @@
 {
-  "session_date": "2026-11-03",
-  "daily_pivot": 7636,
+  "session_date": "2026-11-04",
+  "daily_pivot": 7558,
   "regime_hint": "C4",
   "significant_lows": [
-    7594.0,
-    7577.0,
-    7557.0,
-    7541.0,
-    7522.5,
-    7502.0,
+    7595.0,
+    7570.0,
+    7558.0,
+    7540.0,
+    7512.0,
+    7495.0,
     7477.0,
     7460.0,
     7440.0,
-    7418.0
+    7419.0,
+    7396.0
   ],
   "bull_levels": [
     {
-      "price": 7625.0,
+      "price": 7626.0,
       "major": true
     },
     {
@@ -28,11 +29,11 @@
       "major": true
     },
     {
-      "price": 7686.0,
+      "price": 7677.0,
       "major": true
     },
     {
-      "price": 7703.0,
+      "price": 7700.5,
       "major": true
     },
     {
@@ -44,45 +45,45 @@
       "major": true
     },
     {
-      "price": 7772.0,
+      "price": 7771.0,
       "major": true
     },
     {
-      "price": 7793.0,
+      "price": 7791.0,
       "major": true
     },
     {
-      "price": 7809.0,
+      "price": 7808.0,
       "major": true
     },
     {
-      "price": 7835.0,
+      "price": 7836.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7594.0,
+      "price": 7595.0,
       "major": true
     },
     {
-      "price": 7577.0,
+      "price": 7570.0,
       "major": true
     },
     {
-      "price": 7557.0,
+      "price": 7558.0,
       "major": true
     },
     {
-      "price": 7541.0,
+      "price": 7540.0,
       "major": true
     },
     {
-      "price": 7522.5,
+      "price": 7512.0,
       "major": true
     },
     {
-      "price": 7502.0,
+      "price": 7495.0,
       "major": true
     },
     {
@@ -98,13 +99,17 @@
       "major": true
     },
     {
-      "price": 7418.0,
+      "price": 7419.0,
+      "major": true
+    },
+    {
+      "price": 7396.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish: looking for ES to reclaim 7636 (the key pivot) to begin recovering levels lost in last week's selloff, targeting 7657, then 7698-7703, 7739, and eventually 7755+. Above 7636 bulls are back in control; below 7577 bears take over. No new entries until 7636 reclaims or a failed breakdown sets up near 7577 or 7558.",
-  "fetched_at": "2026-11-03T12:09:27.495676+00:00",
-  "source_hash": "929b7191d2cc4533"
+  "notes": "Trader holds a 10% long runner from the 7558 Failed Breakdown triggered early Tuesday. Lean is bullish: expects ES to rally toward 7636, then 7657, then 7698-7703, and ultimately 7739-7755+. Key pivot is 7558 \u2014 above it bulls are in control and the rally can continue; below it bears regain control and further downside is likely. No new longs until another elevator-down flush and Failed Breakdown setup appears.",
+  "fetched_at": "2026-11-04T02:00:20.170229+00:00",
+  "source_hash": "2ad53a30985e1e02"
 }
