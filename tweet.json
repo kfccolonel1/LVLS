@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-04T13:16:32.946222+00:00",
-  "fetched_at_est": "2026-11-04T08:16:32.946228-05:00",
+  "fetched_at_utc": "2026-11-04T13:26:37.841535+00:00",
+  "fetched_at_est": "2026-11-04T08:26:37.841541-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117607744899530965",
-      "timestamp_utc": "2026-11-03T13:20:04.000Z",
-      "timestamp_est": "2026-11-03T08:20:04-05:00",
-      "tweet_text": "NOTE: Recoveries of 7577 are also actionable. Downside supports are in newsletter",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7577 is already in the morning plan; tweet is a reaffirmation of an existing level, not a new one."
-    },
-    {
-      "tweet_id": "2117607819218497700",
-      "timestamp_utc": "2026-11-03T13:20:22.000Z",
-      "timestamp_est": "2026-11-03T08:20:22-05:00",
-      "tweet_text": "@chris4eye I think its a good quality entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to a user with opinion on entry quality; no price named, no actionable level, pure conversational commentary."
-    },
     {
       "tweet_id": "2117616746878341204",
       "timestamp_utc": "2026-11-03T13:55:50.000Z",
@@ -185,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices mentioned at all; purely conversational reply about a past setup quality. No actionable level named."
+    },
+    {
+      "tweet_id": "2117970282283667839",
+      "timestamp_utc": "2026-11-04T13:20:39.000Z",
+      "timestamp_est": "2026-11-04T08:20:39-05:00",
+      "tweet_text": "@tradivate Last night wasn't a normal night - election evening/midterms",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about election night context. No price levels named, no actionable signals whatsoever."
     }
   ]
 }
