@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-04T13:26:37.841535+00:00",
-  "fetched_at_est": "2026-11-04T08:26:37.841541-05:00",
+  "fetched_at_utc": "2026-11-04T13:56:42.002552+00:00",
+  "fetched_at_est": "2026-11-04T08:56:42.002558-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2117616746878341204",
-      "timestamp_utc": "2026-11-03T13:55:50.000Z",
-      "timestamp_est": "2026-11-03T08:55:50-05:00",
-      "tweet_text": "Clean start to the day in #ES_F: Overnight, we lost 7558 which was the Friday low of day, triggering a Failed Breakdown (which was still active/live 1hr ago). Targets for today were 7577 (hit), 7585 (hit), 7595 (hit). We are done.\n\nRide runners for 7634, and then we can rip above https://t.co/tGH99d8sXV",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7634 is close to morning-plan 7636 (rounding/reiteration); all other prices (7558,7577,7585,7595) are observations of hits or existing levels. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2117633944006877649",
       "timestamp_utc": "2026-11-03T15:04:10.000Z",
