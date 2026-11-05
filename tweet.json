@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T15:41:09.844450+00:00",
-  "fetched_at_est": "2026-11-05T10:41:09.844457-05:00",
+  "fetched_at_utc": "2026-11-05T16:01:21.772227+00:00",
+  "fetched_at_est": "2026-11-05T11:01:21.772238-05:00",
   "last_new_level_added_at_est": "2026-11-05T07:41:13-05:00",
   "todays_new_levels": [
     {
@@ -188,6 +188,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7558 is already in the morning plan. This is a reaffirmation/clarification to a user, not a new level."
+    },
+    {
+      "tweet_id": "2118370838324125977",
+      "timestamp_utc": "2026-11-05T15:52:19.000Z",
+      "timestamp_est": "2026-11-05T10:52:19-05:00",
+      "tweet_text": "@OnTheHooch Not much to engage until the 7490 level recovers, probably happens later in the day though would be my guess",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7490 is close to morning-plan 7485 and used conversationally ('not much to engage until'), not named as a new actionable level with naming language."
+    },
+    {
+      "tweet_id": "2118372557858758955",
+      "timestamp_utc": "2026-11-05T15:59:09.000Z",
+      "timestamp_est": "2026-11-05T10:59:09-05:00",
+      "tweet_text": "@Shallobowed @OnTheHooch Its a big support! Not one i'd ever buy though but it was the final one for a reason",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 'big support' generically with no explicit price named; no actionable level introduced."
     }
   ]
 }
