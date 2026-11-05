@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T18:12:09.291342+00:00",
-  "fetched_at_est": "2026-11-05T13:12:09.291356-05:00",
+  "fetched_at_utc": "2026-11-05T18:42:20.412346+00:00",
+  "fetched_at_est": "2026-11-05T13:42:20.412359-05:00",
   "last_new_level_added_at_est": "2026-11-05T13:05:39-05:00",
   "todays_new_levels": [
     {
@@ -49,24 +49,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118048942739145130",
-      "timestamp_utc": "2026-11-04T18:33:14.000Z",
-      "timestamp_est": "2026-11-04T13:33:14-05:00",
-      "tweet_text": "7739 was today's final target and #ES_F agrees - we keep tagging it over and over. Long trigger was the 7495 Failed Breakdown last evening (+245 points on this) OR the 7703 reclaim I gave a couple hours ago.\n\n7755, 7771, then 7803 are the next big targets up. More ahead https://t.co/PDBvNEjHXi",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned levels (7739, 7495, 7703 not in plan but referenced as past trigger, 7755, 7771, 7803\u22487808) are morning plan reaffirmations or hindsight trade references, not new actionable levels."
-    },
-    {
-      "tweet_id": "2118050408107216983",
-      "timestamp_utc": "2026-11-04T18:39:03.000Z",
-      "timestamp_est": "2026-11-04T13:39:03-05:00",
-      "tweet_text": "@OnTheHooch They will on the next \"elevator down\"!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels named; purely conversational comment about future market movement."
-    },
     {
       "tweet_id": "2118073249837801477",
       "timestamp_utc": "2026-11-04T20:09:49.000Z",
@@ -253,6 +235,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conceptual commentary about market behavior in downtrends; no specific price level named or made actionable."
+    },
+    {
+      "tweet_id": "2118411176405058026",
+      "timestamp_utc": "2026-11-05T18:32:37.000Z",
+      "timestamp_est": "2026-11-05T13:32:37-05:00",
+      "tweet_text": "@OnTheHooch As I discussed in Tuesday's newsletter, typically on Mode 1 red days we get 3-5 Failed Breakdowns that go a level or so, then we get a bigger one. Doesn't matter to me either way, though I prefer we get two levels since that gets me into a 10% runner. After that its all the same",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure strategy/educational commentary about Mode 1 red day patterns. No specific price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2118412382016029050",
+      "timestamp_utc": "2026-11-05T18:37:24.000Z",
+      "timestamp_est": "2026-11-05T13:37:24-05:00",
+      "tweet_text": "@louislouieaz https://t.co/4luB4I03jB",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a URL/media reply with no price levels, no actionable language, and no naming of any new levels."
+    },
+    {
+      "tweet_id": "2118413522761552334",
+      "timestamp_utc": "2026-11-05T18:41:56.000Z",
+      "timestamp_est": "2026-11-05T13:41:56-05:00",
+      "tweet_text": "@CanesKL It happens once every 4 months or so on average. I typically do about 250-300 points worth of levels",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet discussing frequency/volume of levels posted; no actionable price named, purely conversational."
     }
   ]
 }
