@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T15:00:48.913522+00:00",
-  "fetched_at_est": "2026-11-05T10:00:48.913528-05:00",
+  "fetched_at_utc": "2026-11-05T15:20:54.863470+00:00",
+  "fetched_at_est": "2026-11-05T10:20:54.863477-05:00",
   "last_new_level_added_at_est": "2026-11-05T07:41:13-05:00",
   "todays_new_levels": [
     {
@@ -28,33 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2117999143562191359",
-      "timestamp_utc": "2026-11-04T15:15:21.000Z",
-      "timestamp_est": "2026-11-04T10:15:21-05:00",
-      "tweet_text": "This has been one of the most lucrative longs of 2026 in #ES_F &amp; we are now +241 points since last evenings 7495 July 31st low Failed Breakdown. Today would be a ride runner day as I warned, and its paying\n\nToday's targets were 7698 (hit), 7712 (hit), 7739 (hit). 7755, 7771 next https://t.co/zgdhvXPmR2",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7495, 7698, 7712, 7739, 7755, 7771) are morning-plan levels or hit confirmations. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2117999350798278665",
-      "timestamp_utc": "2026-11-04T15:16:10.000Z",
-      "timestamp_est": "2026-11-04T10:16:10-05:00",
-      "tweet_text": "As always this entry was given transparently in advance in newsletter. This is all I do everyday: I never short, I never flip back and forth, I wait for the Failed Breakdown, manage level to level, ride runner https://t.co/X1dkntkMgI",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named; tweet is methodology commentary about trading style (FBD, level-to-level, runner) with no actionable level introduced."
-    },
-    {
-      "tweet_id": "2117999571779371025",
-      "timestamp_utc": "2026-11-04T15:17:03.000Z",
-      "timestamp_est": "2026-11-04T10:17:03-05:00",
-      "tweet_text": "@Gino_Vlntino @Shellytradesyyc As long as they are planned in newsletter I do",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply to users, no price levels named or actionable levels referenced."
-    },
     {
       "tweet_id": "2118000581205778928",
       "timestamp_utc": "2026-11-04T15:21:03.000Z",
@@ -179,6 +152,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7606, 7626, 7636, 7650 are all morning-plan levels or reaffirmations; 7495 is hindsight reference to prior trade. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2118360670932726235",
+      "timestamp_utc": "2026-11-05T15:11:55.000Z",
+      "timestamp_est": "2026-11-05T10:11:55-05:00",
+      "tweet_text": "@avalon198098 Havn't been any longs yet today! No triggers yet. Once we trigger we'll get the rip, go parabolic again, then go elevator down and repeat the cycle as always",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about cycle behavior; no specific price named, no actionable level identified."
     }
   ]
 }
