@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T16:31:48.834801+00:00",
-  "fetched_at_est": "2026-11-05T11:31:48.834807-05:00",
+  "fetched_at_utc": "2026-11-05T17:11:56.799195+00:00",
+  "fetched_at_est": "2026-11-05T12:11:56.799202-05:00",
   "last_new_level_added_at_est": "2026-11-05T11:13:34-05:00",
   "todays_new_levels": [
     {
@@ -42,15 +42,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118027178113736858",
-      "timestamp_utc": "2026-11-04T17:06:44.000Z",
-      "timestamp_est": "2026-11-04T12:06:44-05:00",
-      "tweet_text": "Levels respecting perfectly today. 7703 reclaim just posted took us right back to 7739 final targe today (anything above there is bonus for today). 7755, 7771, 7803+ are bonus for the runner.\n\nLong still paying from last evenings monster 7495 (July 31st low) Failed Breakdown https://t.co/5x861l8Edx",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7703 reclaim is a reaffirmation/observation; 7739/7755/7771 are morning plan levels; 7803 is near 7808 (morning plan); all references are trade management/hindsight, no new actionable levels named."
-    },
     {
       "tweet_id": "2118048942739145130",
       "timestamp_utc": "2026-11-04T18:33:14.000Z",
@@ -223,6 +214,18 @@
       ],
       "added_bear_levels": [],
       "notes": "7490 named as must-reclaim trigger (Tuesday low, actionable condition); 7513 named as new upside target not in morning plan. 7533/7558/7606 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2118388751458255275",
+      "timestamp_utc": "2026-11-05T17:03:30.000Z",
+      "timestamp_est": "2026-11-05T12:03:30-05:00",
+      "tweet_text": "7490 remains key in #ES_F and must reclaim to trigger higher. We reclaimed 7490, ran to 7513 1st target up, then rejected back down. This recovery is still actionable with 7513, 7533, 7558, then 7606 next targets. \n\nBears control until 7606 https://t.co/NpOLqxOfQX",
+      "added_bull_levels": [
+        7490.0,
+        7513.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7490 named as 'key' reclaim trigger and 7513 as '1st target up' \u2014 both actionable, neither in morning plan. 7533/7558/7606 are morning-plan reaffirmations."
     }
   ]
 }
