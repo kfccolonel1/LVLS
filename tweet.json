@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T17:11:56.799195+00:00",
-  "fetched_at_est": "2026-11-05T12:11:56.799202-05:00",
-  "last_new_level_added_at_est": "2026-11-05T11:13:34-05:00",
+  "fetched_at_utc": "2026-11-05T18:12:09.291342+00:00",
+  "fetched_at_est": "2026-11-05T13:12:09.291356-05:00",
+  "last_new_level_added_at_est": "2026-11-05T13:05:39-05:00",
   "todays_new_levels": [
     {
       "price": 7771.0,
@@ -39,6 +39,13 @@
       "added_at_est": "2026-11-05T11:13:34-05:00",
       "expires_at_est": "2026-11-05T19:13:34-05:00",
       "from_tweet_id": "2118376184195223798"
+    },
+    {
+      "price": 7441.0,
+      "side": "bull",
+      "added_at_est": "2026-11-05T13:05:39-05:00",
+      "expires_at_est": "2026-11-05T21:05:39-05:00",
+      "from_tweet_id": "2118404389161541855"
     }
   ],
   "updates": [
@@ -226,6 +233,26 @@
       ],
       "added_bear_levels": [],
       "notes": "7490 named as 'key' reclaim trigger and 7513 as '1st target up' \u2014 both actionable, neither in morning plan. 7533/7558/7606 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2118404389161541855",
+      "timestamp_utc": "2026-11-05T18:05:39.000Z",
+      "timestamp_est": "2026-11-05T13:05:39-05:00",
+      "tweet_text": "Ample volatility today and tons of setups in #ES_F. 7495 had to recover to see any rally and we popped to 7513 1st up, then sold again. 7420 is now the key level that must recover to see 7432, 7441, 7460, then 7495.\n\nWith this volatility, 70-100 point moves happen effortlessly https://t.co/R42U2P2aS9",
+      "added_bull_levels": [
+        7441.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7441 named as a new intermediate target in recovery sequence ('7432, 7441, 7460') \u2014 not in morning plan. 7513 is observation; 7420/7432/7460/7495 are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2118405904458457572",
+      "timestamp_utc": "2026-11-05T18:11:40.000Z",
+      "timestamp_est": "2026-11-05T13:11:40-05:00",
+      "tweet_text": "@fcotrading In an elevator down context, supports don't really matter as price mostly ignores them. It only rips when we get a failed breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conceptual commentary about market behavior in downtrends; no specific price level named or made actionable."
     }
   ]
 }
