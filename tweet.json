@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T20:13:03.272007+00:00",
-  "fetched_at_est": "2026-11-05T15:13:03.272013-05:00",
+  "fetched_at_utc": "2026-11-05T20:23:10.153345+00:00",
+  "fetched_at_est": "2026-11-05T15:23:10.153348-05:00",
   "last_new_level_added_at_est": "2026-11-05T13:05:39-05:00",
   "todays_new_levels": [
     {
@@ -302,6 +302,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7441 named explicitly as 'target 2' (hit) \u2014 not in morning plan. 7420/7432/7460/7490-95 are all morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2118438367935500583",
+      "timestamp_utc": "2026-11-05T20:20:40.000Z",
+      "timestamp_est": "2026-11-05T15:20:40-05:00",
+      "tweet_text": "Closing update: 7420 continues to pay over and over in #ES_F with 3 recoveries so far today. The two first paid ~12 points &amp; the third took us to ~7460 target 3. Must recover again this evening to rally. Bears control &lt;7490 and ultimately 7606. Newsletter out soon with entries",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7420, 7460, 7490-area, 7606) are either morning-plan levels or observational/directional commentary. '7490' nearest plan level 7485/7502; no new actionable level explicitly named."
     }
   ]
 }
