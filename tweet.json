@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T15:20:54.863470+00:00",
-  "fetched_at_est": "2026-11-05T10:20:54.863477-05:00",
+  "fetched_at_utc": "2026-11-05T15:31:04.415265+00:00",
+  "fetched_at_est": "2026-11-05T10:31:04.415276-05:00",
   "last_new_level_added_at_est": "2026-11-05T07:41:13-05:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118000581205778928",
-      "timestamp_utc": "2026-11-04T15:21:03.000Z",
-      "timestamp_est": "2026-11-04T10:21:03-05:00",
-      "tweet_text": "@robb_b_ They don't though because they are typically panicking and top calling anytime we see red instead of just calmly and systematically taking the planned failed breakdowns",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trader psychology; no price levels named or actionable setups mentioned."
-    },
     {
       "tweet_id": "2118018202685026812",
       "timestamp_utc": "2026-11-04T16:31:05.000Z",
@@ -161,6 +152,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about cycle behavior; no specific price named, no actionable level identified."
+    },
+    {
+      "tweet_id": "2118362954718388326",
+      "timestamp_utc": "2026-11-05T15:21:00.000Z",
+      "timestamp_est": "2026-11-05T10:21:00-05:00",
+      "tweet_text": "Note: Watch the 7558 reclaim now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7558 is already in the morning plan; this is a reaffirmation, not a new level."
+    },
+    {
+      "tweet_id": "2118364628891935155",
+      "timestamp_utc": "2026-11-05T15:27:39.000Z",
+      "timestamp_est": "2026-11-05T10:27:39-05:00",
+      "tweet_text": "When #ES_F goes  \"elevator down\" there is little to do but wait for a Failed Breakdown/reclaim to start the next rip leg higher. Last elevator down was Tues, 7495 reclaim triggered long for 245 points to 7739 target.\n\nFailed Breakdowns of 7490 high quality + reclaims of 7558 https://t.co/AhkvcgtfOY",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7490 and 7558 are referenced as FBD/reclaim examples but 7558 is a morning-plan level and 7490 is near-plan; tweet is instructional/historical, not naming a new actionable level."
+    },
+    {
+      "tweet_id": "2118364739126296689",
+      "timestamp_utc": "2026-11-05T15:28:05.000Z",
+      "timestamp_est": "2026-11-05T10:28:05-05:00",
+      "tweet_text": "@alexvegaaa Yes, fairly high quality but its far away now. There's lots of better entries in advance",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no price named; purely qualitative commentary about entry quality and distance, no actionable level introduced."
     }
   ]
 }
