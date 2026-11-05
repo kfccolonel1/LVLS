@@ -1,10 +1,32 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T03:58:49.634816+00:00",
-  "fetched_at_est": "2026-11-04T22:58:49.634824-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-11-05T12:50:06.840096+00:00",
+  "fetched_at_est": "2026-11-05T07:50:06.840101-05:00",
+  "last_new_level_added_at_est": "2026-11-05T07:41:13-05:00",
+  "todays_new_levels": [
+    {
+      "price": 7771.0,
+      "side": "bull",
+      "added_at_est": "2026-11-05T07:41:13-05:00",
+      "expires_at_est": "2026-11-05T15:41:13-05:00",
+      "from_tweet_id": "2118322745608143279"
+    },
+    {
+      "price": 7792.0,
+      "side": "bull",
+      "added_at_est": "2026-11-05T07:41:13-05:00",
+      "expires_at_est": "2026-11-05T15:41:13-05:00",
+      "from_tweet_id": "2118322745608143279"
+    },
+    {
+      "price": 7712.0,
+      "side": "bear",
+      "added_at_est": "2026-11-05T07:41:13-05:00",
+      "expires_at_est": "2026-11-05T15:41:13-05:00",
+      "from_tweet_id": "2118322745608143279"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2117963026292949232",
@@ -140,6 +162,20 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7782 appears in a range '7771/7782' but is a closing recap referencing newsletter targets; all other prices (7739, 7755, 7771, 7803) are morning-plan levels or reaffirmations."
+    },
+    {
+      "tweet_id": "2118322745608143279",
+      "timestamp_utc": "2026-11-05T12:41:13.000Z",
+      "timestamp_est": "2026-11-05T07:41:13-05:00",
+      "tweet_text": "On Tuesday eveper newsletter the 7495 July 31st low Failed Breakdown got us long. This went +245. Yesterday's final target was 7739 (given live) &amp; its been a ceiling since. Now, time for messy chop/digestion\n\nPlan: 7712, 7687 (watch traps)=supports. 7739, 7755, 7771, 7792 next https://t.co/0TAW76AnWl",
+      "added_bull_levels": [
+        7771.0,
+        7792.0
+      ],
+      "added_bear_levels": [
+        7712.0
+      ],
+      "notes": "7712 named as new bear support; 7771 and 7792 named as new resistance targets. 7687/7739/7755 are morning-plan levels, ignored."
     }
   ]
 }
