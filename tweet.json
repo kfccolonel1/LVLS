@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-05T14:40:34.587990+00:00",
-  "fetched_at_est": "2026-11-05T09:40:34.588000-05:00",
+  "fetched_at_utc": "2026-11-05T14:50:41.824290+00:00",
+  "fetched_at_est": "2026-11-05T09:50:41.824304-05:00",
   "last_new_level_added_at_est": "2026-11-05T07:41:13-05:00",
   "todays_new_levels": [
     {
@@ -152,6 +152,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply with no specific price named; 'first high quality entry zone' is vague with no actionable price cited."
+    },
+    {
+      "tweet_id": "2118353346591367208",
+      "timestamp_utc": "2026-11-05T14:42:49.000Z",
+      "timestamp_est": "2026-11-05T09:42:49-05:00",
+      "tweet_text": "Note: Watch there are many, many entries in this region given in newsletter. I won't give them all here but 7650 reclaim is one such entry",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7650 is already in the morning plan; tweet is a reaffirmation/reference to existing newsletter levels, not a new actionable level."
+    },
+    {
+      "tweet_id": "2118353680894214437",
+      "timestamp_utc": "2026-11-05T14:44:09.000Z",
+      "timestamp_est": "2026-11-05T09:44:09-05:00",
+      "tweet_text": "@superslice44 Its just what ES does - elevator down, Failed Breakdown, short squeeze. Never changes, most boring and predictable asset class in the world",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on ES behavior pattern; no price levels named, no actionable entries, targets, or triggers of any kind."
     }
   ]
 }
