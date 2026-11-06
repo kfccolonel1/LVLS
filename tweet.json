@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T15:35:31.652542+00:00",
-  "fetched_at_est": "2026-11-06T10:35:31.652552-05:00",
+  "fetched_at_utc": "2026-11-06T15:45:40.999064+00:00",
+  "fetched_at_est": "2026-11-06T10:45:40.999079-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118366722923078054",
-      "timestamp_utc": "2026-11-05T15:35:58.000Z",
-      "timestamp_est": "2026-11-05T10:35:58-05:00",
-      "tweet_text": "@disciple33 There wasn't any entry down there that was planned in the newsletter. 7558 would be the frst",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7558 is already in the morning plan. This is a reaffirmation/clarification to a user, not a new level."
-    },
     {
       "tweet_id": "2118370838324125977",
       "timestamp_utc": "2026-11-05T15:52:19.000Z",
@@ -245,6 +236,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named; purely commentary about trading philosophy and referencing an existing newsletter long. No actionable level introduced."
+    },
+    {
+      "tweet_id": "2118729029130047847",
+      "timestamp_utc": "2026-11-06T15:35:39.000Z",
+      "timestamp_est": "2026-11-06T10:35:39-05:00",
+      "tweet_text": "@shaveth Whenever we have a Mode 1 red day (open to close selling) ES very often recovers and begins to rally sustainably in the evening. Not always, but a very high % of the time",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational commentary about Mode 1 red day behavior; no price named, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2118729366016250287",
+      "timestamp_utc": "2026-11-06T15:36:59.000Z",
+      "timestamp_est": "2026-11-06T10:36:59-05:00",
+      "tweet_text": "@saltyairlife Appreciate the subscribe!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a simple thank-you to a subscriber; no price levels or actionable trading language present."
+    },
+    {
+      "tweet_id": "2118729964656738606",
+      "timestamp_utc": "2026-11-06T15:39:22.000Z",
+      "timestamp_est": "2026-11-06T10:39:22-05:00",
+      "tweet_text": "@jdswain3 I was concerned if we consolidate a lot we'd rip right through it, but its likely still a decent backtest short",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user, no explicit price named, no actionable level introduced \u2014 purely conversational commentary on consolidation/backtest scenario."
     }
   ]
 }
