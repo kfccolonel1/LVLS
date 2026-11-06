@@ -1,25 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T02:13:50.487789+00:00",
-  "fetched_at_est": "2026-11-05T21:13:50.487796-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-11-06T12:44:47.398563+00:00",
+  "fetched_at_est": "2026-11-06T07:44:47.398567-05:00",
+  "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2118322745608143279",
-      "timestamp_utc": "2026-11-05T12:41:13.000Z",
-      "timestamp_est": "2026-11-05T07:41:13-05:00",
-      "tweet_text": "On Tuesday eveper newsletter the 7495 July 31st low Failed Breakdown got us long. This went +245. Yesterday's final target was 7739 (given live) &amp; its been a ceiling since. Now, time for messy chop/digestion\n\nPlan: 7712, 7687 (watch traps)=supports. 7739, 7755, 7771, 7792 next https://t.co/0TAW76AnWl",
-      "added_bull_levels": [
-        7771.0,
-        7792.0
-      ],
-      "added_bear_levels": [
-        7712.0
-      ],
-      "notes": "7712 named as new bear support; 7771 and 7792 named as new resistance targets. 7687/7739/7755 are morning-plan levels, ignored."
-    },
+      "price": 7432.0,
+      "side": "bull",
+      "added_at_est": "2026-11-06T07:37:17-05:00",
+      "expires_at_est": "2026-11-06T15:37:17-05:00",
+      "from_tweet_id": "2118684142372012387"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2118343041203179908",
       "timestamp_utc": "2026-11-05T14:01:52.000Z",
@@ -286,6 +280,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a conversational reply directing a user to the newsletter; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2118684142372012387",
+      "timestamp_utc": "2026-11-06T12:37:17.000Z",
+      "timestamp_est": "2026-11-06T07:37:17-05:00",
+      "tweet_text": "After a full red day - as readers know - #ES_F gets an evening squeeze. Per newsletter, 7330 recoveries were long trigger, we hit and went +100. Now, untradeable chop. I dont touch this\n\nPlan: 7391 (watch sweeps), 7380=supports. 7420 next up, must recover to see 7432, 7450, 7490 https://t.co/8WNOAWEISF",
+      "added_bull_levels": [
+        7432.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7432 named as a must-recover target ('must recover to see 7432') not in morning plan. All other prices (7391,7380,7420,7450,7490) are morning plan levels."
     }
   ]
 }
