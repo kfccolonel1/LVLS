@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T12:54:52.563352+00:00",
-  "fetched_at_est": "2026-11-06T07:54:52.563355-05:00",
+  "fetched_at_utc": "2026-11-06T14:05:00.939151+00:00",
+  "fetched_at_est": "2026-11-06T09:05:00.939157-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,18 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118343041203179908",
-      "timestamp_utc": "2026-11-05T14:01:52.000Z",
-      "timestamp_est": "2026-11-05T09:01:52-05:00",
-      "tweet_text": "No volatility in #ES_F and this is a ride runner day for me until we sell. Longs still working from Tuesday's 7495 July 31st low major failed breakdown, +245. 7739 was target, its a ceiling. 7739-7687=chop.\n\n7712, 7687 (watch traps) remain supports. 7739, 7755, 7771, 7792 next https://t.co/NY1GHEIIK3",
-      "added_bull_levels": [
-        7771.0,
-        7792.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7771 and 7792 named as 'next' resistance levels above; not in morning plan. 7712/7687/7739/7755 are morning-plan reaffirmations."
-    },
     {
       "tweet_id": "2118351247262765373",
       "timestamp_utc": "2026-11-05T14:34:29.000Z",
