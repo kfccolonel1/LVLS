@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T20:27:03.993859+00:00",
-  "fetched_at_est": "2026-11-06T15:27:03.993870-05:00",
+  "fetched_at_utc": "2026-11-06T20:37:08.335959+00:00",
+  "fetched_at_est": "2026-11-06T15:37:08.335964-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118442026761179173",
-      "timestamp_utc": "2026-11-05T20:35:12.000Z",
-      "timestamp_est": "2026-11-05T15:35:12-05:00",
-      "tweet_text": "@tradivate We're still in the range! It extends back to May",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational observation about price range context; no actionable price level named or labeled."
-    },
     {
       "tweet_id": "2118481433329365134",
       "timestamp_utc": "2026-11-05T23:11:47.000Z",
@@ -152,6 +143,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7490 is already in the morning plan. Comment is contextual analysis/reaffirmation, not a new actionable level being named for the first time."
+    },
+    {
+      "tweet_id": "2118803153684451524",
+      "timestamp_utc": "2026-11-06T20:30:11.000Z",
+      "timestamp_est": "2026-11-06T15:30:11-05:00",
+      "tweet_text": "Note: Newsletter was just sent out with next set of entries. Bulls will need to test and recover 7490 to reduce \"dead cat bounce\" risk",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7490 is already in today's morning plan. This is a reaffirmation of an existing level, not a new major level."
     }
   ]
 }
