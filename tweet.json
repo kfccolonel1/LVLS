@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T14:25:09.482888+00:00",
-  "fetched_at_est": "2026-11-06T09:25:09.482907-05:00",
+  "fetched_at_utc": "2026-11-06T14:35:12.181663+00:00",
+  "fetched_at_est": "2026-11-06T09:35:12.181671-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118351247262765373",
-      "timestamp_utc": "2026-11-05T14:34:29.000Z",
-      "timestamp_est": "2026-11-05T09:34:29-05:00",
-      "tweet_text": "Finally a bit of volatility in #ES_F and that means we can pay attention to price action. 7495 Failed Breakdown on Tuesday evening was the last long and we went +245 to 7739 target which remains a ceiling. 7687 first zone of interest today, and watch for traps here.\n\n7650 below https://t.co/rSqgxkhEYM",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7495 FBD is hindsight trade recap; 7739, 7687, 7650 are all reaffirmations of morning-plan levels. No genuinely new actionable levels introduced."
-    },
     {
       "tweet_id": "2118352582733414401",
       "timestamp_utc": "2026-11-05T14:39:47.000Z",
