@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T19:16:48.681170+00:00",
-  "fetched_at_est": "2026-11-06T14:16:48.681174-05:00",
+  "fetched_at_utc": "2026-11-06T19:26:51.627437+00:00",
+  "fetched_at_est": "2026-11-06T14:26:51.627442-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118424015551275124",
-      "timestamp_utc": "2026-11-05T19:23:38.000Z",
-      "timestamp_est": "2026-11-05T14:23:38-05:00",
-      "tweet_text": "@mcrawf115 My posts aren't bullish or bearish (you can't be bullish or bearish as a day trader, we just take triggers). They jsut provide levels and triggers. The bear case for today triggered below 7606 though which is an important pivot and its loss is why we sold",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7606 is already in the morning plan. Tweet is explanatory commentary on why price sold off, not a new actionable level."
-    },
     {
       "tweet_id": "2118431700846051395",
       "timestamp_utc": "2026-11-05T19:54:10.000Z",
