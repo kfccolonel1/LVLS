@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T15:45:40.999064+00:00",
-  "fetched_at_est": "2026-11-06T10:45:40.999079-05:00",
+  "fetched_at_utc": "2026-11-06T15:55:43.867440+00:00",
+  "fetched_at_est": "2026-11-06T10:55:43.867446-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118370838324125977",
-      "timestamp_utc": "2026-11-05T15:52:19.000Z",
-      "timestamp_est": "2026-11-05T10:52:19-05:00",
-      "tweet_text": "@OnTheHooch Not much to engage until the 7490 level recovers, probably happens later in the day though would be my guess",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7490 is close to morning-plan 7485 and used conversationally ('not much to engage until'), not named as a new actionable level with naming language."
-    },
     {
       "tweet_id": "2118372557858758955",
       "timestamp_utc": "2026-11-05T15:59:09.000Z",
