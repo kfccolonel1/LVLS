@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T17:05:59.840076+00:00",
-  "fetched_at_est": "2026-11-06T12:05:59.840082-05:00",
+  "fetched_at_utc": "2026-11-06T17:46:08.291762+00:00",
+  "fetched_at_est": "2026-11-06T12:46:08.291768-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -230,6 +230,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7330, 7380, 7420, 7450, 7475, 7490) are in the morning plan or described as already-hit targets; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2118761328756281837",
+      "timestamp_utc": "2026-11-06T17:44:00.000Z",
+      "timestamp_est": "2026-11-06T12:44:00-05:00",
+      "tweet_text": "Choppy action in #ES_F and this is largely not tradable. 7330 (May 4th low) Failed Breakdown was major entry we got last evening. 7380 was today's support, held. Targets were 7420, 7432, 7450. 7450 is a ceiling. 7490 is next. \n\n7420 reclaims are low quality, high risk entry https://t.co/gQ71shU2zY",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7432 mentioned as target but all other prices (7330,7380,7420,7450,7490) are morning plan levels; 7432 appears in a hindsight target list, not named as a new actionable level."
     }
   ]
 }
