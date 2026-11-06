@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T18:56:40.645279+00:00",
-  "fetched_at_est": "2026-11-06T13:56:40.645283-05:00",
+  "fetched_at_utc": "2026-11-06T19:06:45.991955+00:00",
+  "fetched_at_est": "2026-11-06T14:06:45.991966-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -183,6 +183,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7432 mentioned as target but all other prices (7330,7380,7420,7450,7490) are morning plan levels; 7432 appears in a hindsight target list, not named as a new actionable level."
+    },
+    {
+      "tweet_id": "2118781163422597515",
+      "timestamp_utc": "2026-11-06T19:02:49.000Z",
+      "timestamp_est": "2026-11-06T14:02:49-05:00",
+      "tweet_text": "This remains what I would consider untradable chop in #ES_F and I just hold a runner through this. 7330 Failed Breakdown was the main long trigger given in newsletter. 7380 was this mornings support. 7420, 7432, 7450 were targets all hit.\n\n7490 is next. Big test there for bears https://t.co/AMTE5z1Fwz",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7330/7380/7420/7450/7490 all in morning plan; tweet is a reaffirmation + trade recap with no newly named actionable levels."
     }
   ]
 }
