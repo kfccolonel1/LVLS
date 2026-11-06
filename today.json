@@ -1,99 +1,41 @@
 {
-  "session_date": "2026-11-05",
-  "daily_pivot": 7650,
+  "session_date": "2026-11-06",
+  "daily_pivot": 7490,
   "regime_hint": "C4",
   "significant_lows": [
-    7725.0,
-    7703.0,
-    7687.0,
-    7665.0,
-    7650.0,
-    7636.0,
-    7625.0,
-    7606.0,
-    7588.0,
-    7570.0,
-    7558.0,
-    7533.0,
-    7502.0,
-    7485.0,
-    7460.0,
-    7432.0,
-    7420.0
+    7391.0,
+    7380.0,
+    7363.0,
+    7343.0,
+    7330.0,
+    7300.0,
+    7279.0,
+    7261.0,
+    7253.0
   ],
   "bull_levels": [
     {
-      "price": 7739.0,
+      "price": 7420.0,
       "major": true
     },
     {
-      "price": 7755.0,
+      "price": 7450.0,
       "major": true
     },
     {
-      "price": 7782.0,
+      "price": 7475.0,
       "major": true
     },
     {
-      "price": 7803.0,
+      "price": 7490.0,
       "major": true
     },
     {
-      "price": 7826.0,
+      "price": 7514.0,
       "major": true
     },
     {
-      "price": 7835.0,
-      "major": true
-    },
-    {
-      "price": 7864.0,
-      "major": true
-    },
-    {
-      "price": 7894.0,
-      "major": true
-    }
-  ],
-  "bear_levels": [
-    {
-      "price": 7725.0,
-      "major": true
-    },
-    {
-      "price": 7703.0,
-      "major": true
-    },
-    {
-      "price": 7687.0,
-      "major": true
-    },
-    {
-      "price": 7665.0,
-      "major": true
-    },
-    {
-      "price": 7650.0,
-      "major": true
-    },
-    {
-      "price": 7636.0,
-      "major": true
-    },
-    {
-      "price": 7625.0,
-      "major": true
-    },
-    {
-      "price": 7606.0,
-      "major": true
-    },
-    {
-      "price": 7588.0,
-      "major": true
-    },
-    {
-      "price": 7570.0,
+      "price": 7535.0,
       "major": true
     },
     {
@@ -101,33 +43,95 @@
       "major": true
     },
     {
-      "price": 7533.0,
+      "price": 7570.0,
       "major": true
     },
     {
-      "price": 7502.0,
+      "price": 7595.0,
       "major": true
     },
     {
-      "price": 7485.0,
+      "price": 7606.0,
       "major": true
     },
     {
-      "price": 7460.0,
+      "price": 7636.0,
       "major": true
     },
     {
-      "price": 7432.0,
+      "price": 7650.0,
       "major": true
     },
     {
-      "price": 7420.0,
+      "price": 7665.0,
+      "major": true
+    },
+    {
+      "price": 7689.0,
+      "major": true
+    },
+    {
+      "price": 7711.0,
+      "major": true
+    },
+    {
+      "price": 7725.0,
+      "major": true
+    },
+    {
+      "price": 7739.0,
+      "major": true
+    },
+    {
+      "price": 7752.0,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7391.0,
+      "major": true
+    },
+    {
+      "price": 7380.0,
+      "major": true
+    },
+    {
+      "price": 7363.0,
+      "major": true
+    },
+    {
+      "price": 7343.0,
+      "major": true
+    },
+    {
+      "price": 7330.0,
+      "major": true
+    },
+    {
+      "price": 7300.0,
+      "major": true
+    },
+    {
+      "price": 7279.0,
+      "major": true
+    },
+    {
+      "price": 7261.0,
+      "major": true
+    },
+    {
+      "price": 7253.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish after last night's big drop to 7490 reversed sharply higher following a key support recovery. He still holds a small long runner from that trade. He expects ES to consolidate between roughly 7687 and 7739 before pushing higher toward 7755, 7782, and 7803. The key pivot is 7650: bulls need that level to hold on any dip. No new trades are planned unless ES drops sharply again to create a fresh setup.",
-  "fetched_at": "2026-11-05T02:00:16.510516+00:00",
-  "source_hash": "3c9c14fafd388d66"
+  "notes": "After the largest single-day drop of 2026, the trader leans bullish but wants confirmation before acting. He will wait for ES to reclaim 7420 first, then look for a push to 7490. The 7490 level is the key pivot: above it bulls regain control and can target 7514, 7558, 7606, and 7650; below it bears remain in charge. He will only buy on a Failed Breakdown setup, not by guessing at any support level directly.",
+  "fetched_at": "2026-11-06T02:00:20.568503+00:00",
+  "source_hash": "c42c80e5f157865b"
 }
