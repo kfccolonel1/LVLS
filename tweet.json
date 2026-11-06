@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T14:45:14.610471+00:00",
-  "fetched_at_est": "2026-11-06T09:45:14.610475-05:00",
+  "fetched_at_utc": "2026-11-06T15:05:18.211114+00:00",
+  "fetched_at_est": "2026-11-06T10:05:18.211120-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118356966728728669",
-      "timestamp_utc": "2026-11-05T14:57:12.000Z",
-      "timestamp_est": "2026-11-05T09:57:12-05:00",
-      "tweet_text": "We are finally getting an \"elevator down\" to work with in #ES_F (first since Tues evening) and this sets up the next Failed Breakdown and rip. Our last long was the 7495 Failed Breakdown Tuesday that went +245.\n\n7606 must reclaim to see 7626, 7636, 7650. 7650 must reclaim to rip https://t.co/evLqVFv6ro",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7606, 7626, 7636, 7650 are all morning-plan levels or reaffirmations; 7495 is hindsight reference to prior trade. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2118360670932726235",
       "timestamp_utc": "2026-11-05T15:11:55.000Z",
