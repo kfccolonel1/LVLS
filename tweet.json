@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T14:05:00.939151+00:00",
-  "fetched_at_est": "2026-11-06T09:05:00.939157-05:00",
+  "fetched_at_utc": "2026-11-06T14:25:09.482888+00:00",
+  "fetched_at_est": "2026-11-06T09:25:09.482907-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -288,6 +288,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about trading style and downtrend preferences; no specific price levels named or actionable entries/targets mentioned."
+    },
+    {
+      "tweet_id": "2118708742376112591",
+      "timestamp_utc": "2026-11-06T14:15:02.000Z",
+      "timestamp_est": "2026-11-06T09:15:02-05:00",
+      "tweet_text": "Digestion time now for #ES_F after yesterday's massive sell. 7330 Failed Breakdown per newsletter ripped us overnight. Now, its very poor quality chop, but levels working well. 7380=support. 7420 next up and must recover to see 7432, 7450, 7490.\n\nBears fully control&lt;7490 https://t.co/arFLV9QPc9",
+      "added_bull_levels": [
+        7432.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7432 is named as a must-recover target between 7420 and 7450 \u2014 not in morning plan. 7330/7380/7420/7450/7490 are all morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2118710651006976490",
+      "timestamp_utc": "2026-11-06T14:22:37.000Z",
+      "timestamp_est": "2026-11-06T09:22:37-05:00",
+      "tweet_text": "@RileyCapTrades In downtrends we quite literally get one of those a day",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about downtrend behavior; no price named, no actionable level of any kind."
     }
   ]
 }
