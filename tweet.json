@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T15:05:18.211114+00:00",
-  "fetched_at_est": "2026-11-06T10:05:18.211120-05:00",
+  "fetched_at_utc": "2026-11-06T15:15:26.376464+00:00",
+  "fetched_at_est": "2026-11-06T10:15:26.376473-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118360670932726235",
-      "timestamp_utc": "2026-11-05T15:11:55.000Z",
-      "timestamp_est": "2026-11-05T10:11:55-05:00",
-      "tweet_text": "@avalon198098 Havn't been any longs yet today! No triggers yet. Once we trigger we'll get the rip, go parabolic again, then go elevator down and repeat the cycle as always",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about cycle behavior; no specific price named, no actionable level identified."
-    },
     {
       "tweet_id": "2118362954718388326",
       "timestamp_utc": "2026-11-05T15:21:00.000Z",
@@ -263,6 +254,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about downtrend behavior; no price named, no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2118722804338356453",
+      "timestamp_utc": "2026-11-06T15:10:55.000Z",
+      "timestamp_est": "2026-11-06T10:10:55-05:00",
+      "tweet_text": "We are off to the races in #ES_F but be sure to protect profits. After a big red day we typically rally beginning in the evening. 7330 Failed Breakdown was the long trigger, and we are +115 now.\n\n7380 was support given. Held. Targets were 7420, 7432, 7450. All hit. 7490 next https://t.co/DFR5dYtPPZ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7330, 7380, 7420, 7450, 7490) are in the morning plan. 7432 is a target reference/observation, not a newly named actionable level."
+    },
+    {
+      "tweet_id": "2118723717249270268",
+      "timestamp_utc": "2026-11-06T15:14:32.000Z",
+      "timestamp_est": "2026-11-06T10:14:32-05:00",
+      "tweet_text": "And as always, this long was given in the newsletter. As readers know, I don't care about the red. I don't short. I wait for the Failed Breakdown, then take the inevitable rip back up. Sometimes it takes a few hours, sometimes it takes a whole day like yesterday. It always comes. https://t.co/MdiQya1jFh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named; purely commentary about trading philosophy and referencing an existing newsletter long. No actionable level introduced."
     }
   ]
 }
