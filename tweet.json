@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T15:25:29.088878+00:00",
-  "fetched_at_est": "2026-11-06T10:25:29.088883-05:00",
+  "fetched_at_utc": "2026-11-06T15:35:31.652542+00:00",
+  "fetched_at_est": "2026-11-06T10:35:31.652552-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -14,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2118364628891935155",
-      "timestamp_utc": "2026-11-05T15:27:39.000Z",
-      "timestamp_est": "2026-11-05T10:27:39-05:00",
-      "tweet_text": "When #ES_F goes  \"elevator down\" there is little to do but wait for a Failed Breakdown/reclaim to start the next rip leg higher. Last elevator down was Tues, 7495 reclaim triggered long for 245 points to 7739 target.\n\nFailed Breakdowns of 7490 high quality + reclaims of 7558 https://t.co/AhkvcgtfOY",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7490 and 7558 are referenced as FBD/reclaim examples but 7558 is a morning-plan level and 7490 is near-plan; tweet is instructional/historical, not naming a new actionable level."
-    },
-    {
-      "tweet_id": "2118364739126296689",
-      "timestamp_utc": "2026-11-05T15:28:05.000Z",
-      "timestamp_est": "2026-11-05T10:28:05-05:00",
-      "tweet_text": "@alexvegaaa Yes, fairly high quality but its far away now. There's lots of better entries in advance",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no price named; purely qualitative commentary about entry quality and distance, no actionable level introduced."
-    },
     {
       "tweet_id": "2118366722923078054",
       "timestamp_utc": "2026-11-05T15:35:58.000Z",
