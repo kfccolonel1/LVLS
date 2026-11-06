@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T12:44:47.398563+00:00",
-  "fetched_at_est": "2026-11-06T07:44:47.398567-05:00",
+  "fetched_at_utc": "2026-11-06T12:54:52.563352+00:00",
+  "fetched_at_est": "2026-11-06T07:54:52.563355-05:00",
   "last_new_level_added_at_est": "2026-11-06T07:37:17-05:00",
   "todays_new_levels": [
     {
@@ -291,6 +291,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7432 named as a must-recover target ('must recover to see 7432') not in morning plan. All other prices (7391,7380,7420,7450,7490) are morning plan levels."
+    },
+    {
+      "tweet_id": "2118686793596121441",
+      "timestamp_utc": "2026-11-06T12:47:49.000Z",
+      "timestamp_est": "2026-11-06T07:47:49-05:00",
+      "tweet_text": "@Trevormiles16 Its why I prefer trading downtrends though! If it were up to me we'd have days like yesterday everyday. We had probably 5 failed breakdowns that went 1 or 2 levels then a big 100 pointer. Can capture a huge amount of points in what would normal take weeks in an uptrend",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading style and downtrend preferences; no specific price levels named or actionable entries/targets mentioned."
     }
   ]
 }
