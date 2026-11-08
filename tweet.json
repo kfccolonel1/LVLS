@@ -1,149 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-06T20:47:10.871612+00:00",
-  "fetched_at_est": "2026-11-06T15:47:10.871616-05:00",
+  "fetched_at_utc": "2026-11-08T20:24:07.910841+00:00",
+  "fetched_at_est": "2026-11-08T15:24:07.910854-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
     {
-      "tweet_id": "2118481433329365134",
-      "timestamp_utc": "2026-11-05T23:11:47.000Z",
-      "timestamp_est": "2026-11-05T18:11:47-05:00",
-      "tweet_text": "@superslice44 I dont think your reading my newsletter https://t.co/tDIPJVRP6w",
+      "tweet_id": "2119496548157415488",
+      "timestamp_utc": "2026-11-08T18:25:30.000Z",
+      "timestamp_est": "2026-11-08T13:25:30-05:00",
+      "tweet_text": "Putting total blinders on took my trading to the next level. I pay 0 attention to what other traders say, macro, other charts. Only input to my decisions is 1) My ES chart 2) My 1 entry setup 3) My 1 trade management system. World doesn't exist outside that. All signal, no noise",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Tweet is a conversational reply directing a user to the newsletter; no price levels named or actionable signals given."
-    },
-    {
-      "tweet_id": "2118684142372012387",
-      "timestamp_utc": "2026-11-06T12:37:17.000Z",
-      "timestamp_est": "2026-11-06T07:37:17-05:00",
-      "tweet_text": "After a full red day - as readers know - #ES_F gets an evening squeeze. Per newsletter, 7330 recoveries were long trigger, we hit and went +100. Now, untradeable chop. I dont touch this\n\nPlan: 7391 (watch sweeps), 7380=supports. 7420 next up, must recover to see 7432, 7450, 7490 https://t.co/8WNOAWEISF",
-      "added_bull_levels": [
-        7432.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7432 named as a must-recover target ('must recover to see 7432') not in morning plan. All other prices (7391,7380,7420,7450,7490) are morning plan levels."
-    },
-    {
-      "tweet_id": "2118686793596121441",
-      "timestamp_utc": "2026-11-06T12:47:49.000Z",
-      "timestamp_est": "2026-11-06T07:47:49-05:00",
-      "tweet_text": "@Trevormiles16 Its why I prefer trading downtrends though! If it were up to me we'd have days like yesterday everyday. We had probably 5 failed breakdowns that went 1 or 2 levels then a big 100 pointer. Can capture a huge amount of points in what would normal take weeks in an uptrend",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading style and downtrend preferences; no specific price levels named or actionable entries/targets mentioned."
-    },
-    {
-      "tweet_id": "2118708742376112591",
-      "timestamp_utc": "2026-11-06T14:15:02.000Z",
-      "timestamp_est": "2026-11-06T09:15:02-05:00",
-      "tweet_text": "Digestion time now for #ES_F after yesterday's massive sell. 7330 Failed Breakdown per newsletter ripped us overnight. Now, its very poor quality chop, but levels working well. 7380=support. 7420 next up and must recover to see 7432, 7450, 7490.\n\nBears fully control&lt;7490 https://t.co/arFLV9QPc9",
-      "added_bull_levels": [
-        7432.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7432 is named as a must-recover target between 7420 and 7450 \u2014 not in morning plan. 7330/7380/7420/7450/7490 are all morning-plan reaffirmations."
-    },
-    {
-      "tweet_id": "2118710651006976490",
-      "timestamp_utc": "2026-11-06T14:22:37.000Z",
-      "timestamp_est": "2026-11-06T09:22:37-05:00",
-      "tweet_text": "@RileyCapTrades In downtrends we quite literally get one of those a day",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about downtrend behavior; no price named, no actionable level of any kind."
-    },
-    {
-      "tweet_id": "2118722804338356453",
-      "timestamp_utc": "2026-11-06T15:10:55.000Z",
-      "timestamp_est": "2026-11-06T10:10:55-05:00",
-      "tweet_text": "We are off to the races in #ES_F but be sure to protect profits. After a big red day we typically rally beginning in the evening. 7330 Failed Breakdown was the long trigger, and we are +115 now.\n\n7380 was support given. Held. Targets were 7420, 7432, 7450. All hit. 7490 next https://t.co/DFR5dYtPPZ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7330, 7380, 7420, 7450, 7490) are in the morning plan. 7432 is a target reference/observation, not a newly named actionable level."
-    },
-    {
-      "tweet_id": "2118723717249270268",
-      "timestamp_utc": "2026-11-06T15:14:32.000Z",
-      "timestamp_est": "2026-11-06T10:14:32-05:00",
-      "tweet_text": "And as always, this long was given in the newsletter. As readers know, I don't care about the red. I don't short. I wait for the Failed Breakdown, then take the inevitable rip back up. Sometimes it takes a few hours, sometimes it takes a whole day like yesterday. It always comes. https://t.co/MdiQya1jFh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named; purely commentary about trading philosophy and referencing an existing newsletter long. No actionable level introduced."
-    },
-    {
-      "tweet_id": "2118729029130047847",
-      "timestamp_utc": "2026-11-06T15:35:39.000Z",
-      "timestamp_est": "2026-11-06T10:35:39-05:00",
-      "tweet_text": "@shaveth Whenever we have a Mode 1 red day (open to close selling) ES very often recovers and begins to rally sustainably in the evening. Not always, but a very high % of the time",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure educational commentary about Mode 1 red day behavior; no price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2118729366016250287",
-      "timestamp_utc": "2026-11-06T15:36:59.000Z",
-      "timestamp_est": "2026-11-06T10:36:59-05:00",
-      "tweet_text": "@saltyairlife Appreciate the subscribe!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a simple thank-you to a subscriber; no price levels or actionable trading language present."
-    },
-    {
-      "tweet_id": "2118729964656738606",
-      "timestamp_utc": "2026-11-06T15:39:22.000Z",
-      "timestamp_est": "2026-11-06T10:39:22-05:00",
-      "tweet_text": "@jdswain3 I was concerned if we consolidate a lot we'd rip right through it, but its likely still a decent backtest short",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user, no explicit price named, no actionable level introduced \u2014 purely conversational commentary on consolidation/backtest scenario."
-    },
-    {
-      "tweet_id": "2118743435825852655",
-      "timestamp_utc": "2026-11-06T16:32:54.000Z",
-      "timestamp_est": "2026-11-06T11:32:54-05:00",
-      "tweet_text": "Very choppy action in #ES_F but levels working well today. 7330 failed breakdown was initial long trigger last eve. 7380 was support given at 730am - it held. Todays targets were 7420, 7432, 7450. All hit (and then we backtested 7420)\n\n 7475, then 7490 are next. Bears control&lt;90 https://t.co/OsaZfSDaGF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7330, 7380, 7420, 7450, 7475, 7490) are in the morning plan or described as already-hit targets; no new actionable levels named."
-    },
-    {
-      "tweet_id": "2118761328756281837",
-      "timestamp_utc": "2026-11-06T17:44:00.000Z",
-      "timestamp_est": "2026-11-06T12:44:00-05:00",
-      "tweet_text": "Choppy action in #ES_F and this is largely not tradable. 7330 (May 4th low) Failed Breakdown was major entry we got last evening. 7380 was today's support, held. Targets were 7420, 7432, 7450. 7450 is a ceiling. 7490 is next. \n\n7420 reclaims are low quality, high risk entry https://t.co/gQ71shU2zY",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7432 mentioned as target but all other prices (7330,7380,7420,7450,7490) are morning plan levels; 7432 appears in a hindsight target list, not named as a new actionable level."
-    },
-    {
-      "tweet_id": "2118781163422597515",
-      "timestamp_utc": "2026-11-06T19:02:49.000Z",
-      "timestamp_est": "2026-11-06T14:02:49-05:00",
-      "tweet_text": "This remains what I would consider untradable chop in #ES_F and I just hold a runner through this. 7330 Failed Breakdown was the main long trigger given in newsletter. 7380 was this mornings support. 7420, 7432, 7450 were targets all hit.\n\n7490 is next. Big test there for bears https://t.co/AMTE5z1Fwz",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7330/7380/7420/7450/7490 all in morning plan; tweet is a reaffirmation + trade recap with no newly named actionable levels."
-    },
-    {
-      "tweet_id": "2118790429340496290",
-      "timestamp_utc": "2026-11-06T19:39:38.000Z",
-      "timestamp_est": "2026-11-06T14:39:38-05:00",
-      "tweet_text": "@investingpro12 Bears still control quite strongly here. Theres some encouraging things (megaphone held, big FBD yesterday) but bulls need above 7490 to feel more secure",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7490 is already in the morning plan. Comment is contextual analysis/reaffirmation, not a new actionable level being named for the first time."
-    },
-    {
-      "tweet_id": "2118803153684451524",
-      "timestamp_utc": "2026-11-06T20:30:11.000Z",
-      "timestamp_est": "2026-11-06T15:30:11-05:00",
-      "tweet_text": "Note: Newsletter was just sent out with next set of entries. Bulls will need to test and recover 7490 to reduce \"dead cat bounce\" risk",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7490 is already in today's morning plan. This is a reaffirmation of an existing level, not a new major level."
+      "notes": "Pure philosophy/methodology commentary. No prices, no actionable levels, no naming language whatsoever."
     }
   ]
 }
