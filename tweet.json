@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-09T17:56:38.838604+00:00",
-  "fetched_at_est": "2026-11-09T12:56:38.838610-05:00",
+  "fetched_at_utc": "2026-11-09T18:06:46.173333+00:00",
+  "fetched_at_est": "2026-11-09T13:06:46.173348-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7380, 7478, 7490, 7506, 7558, 7595, 7636) are reaffirmations of morning plan levels; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2119853194486399441",
+      "timestamp_utc": "2026-11-09T18:02:41.000Z",
+      "timestamp_est": "2026-11-09T13:02:41-05:00",
+      "tweet_text": "Note: As always this entry was given well in advance on Friday. Nothing to do up here, but numerous entries available if we go elevator down (which will be discussed in tonights newsletter). 7535-40 1st support of interest now https://t.co/1CJXaPIRGX",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7535-40 midpoint ~7537.5 maps directly to morning-plan level 7535.0; reaffirmation only. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2119853348668973269",
+      "timestamp_utc": "2026-11-09T18:03:17.000Z",
+      "timestamp_est": "2026-11-09T13:03:17-05:00",
+      "tweet_text": "@CanesKL 7425 reclaim and 7490 reclaim but not one that I'd take myself.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7425 and 7490 are both morning-plan levels; this is a reaffirmation/trade-management comment, not a new actionable level."
     }
   ]
 }
