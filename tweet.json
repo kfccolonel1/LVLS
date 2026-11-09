@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-09T15:36:18.960814+00:00",
-  "fetched_at_est": "2026-11-09T10:36:18.960821-05:00",
+  "fetched_at_utc": "2026-11-09T16:26:27.671536+00:00",
+  "fetched_at_est": "2026-11-09T11:26:27.671542-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -122,6 +122,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about ES behavior, no price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2119828183440826672",
+      "timestamp_utc": "2026-11-09T16:23:18.000Z",
+      "timestamp_est": "2026-11-09T11:23:18-05:00",
+      "tweet_text": "There's the full target slate run. No need to make trading #ES_F harder. 7380 Failed Breakdown (gap down into Failed Breakdown) was long entry. Targets were given here and in newsletter: 7478, 7490, 7506, 7558 (all hit). 7595 next, then 7636. Shut platform, ride runner all day https://t.co/7ALTeGRY9d",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7380, 7478, 7490, 7506, 7558, 7595, 7636) are in the morning plan. Pure reaffirmation/recap of existing targets with trade management instruction."
     }
   ]
 }
