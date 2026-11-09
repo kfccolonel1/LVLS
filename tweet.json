@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-08T20:24:07.910841+00:00",
-  "fetched_at_est": "2026-11-08T15:24:07.910854-05:00",
+  "fetched_at_utc": "2026-11-09T12:55:34.987309+00:00",
+  "fetched_at_est": "2026-11-09T07:55:34.987321-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -14,6 +14,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure philosophy/methodology commentary. No prices, no actionable levels, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2119775217211916331",
+      "timestamp_utc": "2026-11-09T12:52:49.000Z",
+      "timestamp_est": "2026-11-09T07:52:49-05:00",
+      "tweet_text": "Huge payout to start week in #ES_F. As readers know, Sunday gap downs resolve in Failed Breakdowns. In this case, 7380 Failed Breakdown was given in newsletter. We triggered ~6pm,  now +100\n\nPlan: Ride runner. 7478, 7490 (reaction zone) next. Then 7506, 7558. 7456, 7420=supports https://t.co/dCDdVWJmbF",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7380, 7478, 7490, 7506, 7558, 7456, 7420) are morning-plan levels or reaffirmations; trade management 'ride runner' not a new level."
+    },
+    {
+      "tweet_id": "2119775443759108561",
+      "timestamp_utc": "2026-11-09T12:53:43.000Z",
+      "timestamp_est": "2026-11-09T07:53:43-05:00",
+      "tweet_text": "Note: There is nothing to trade now, just ride runner. I will open my platform if we go *elevator down* again to newsletter entries to restart the \"elevator down, Failed Breakdown (long), short squeeze sequence\". Otherwise, my platform remains closed",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/commentary. No new price levels named; just describes conditions for reopening platform with no specific actionable prices."
     }
   ]
 }
