@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-09T12:55:34.987309+00:00",
-  "fetched_at_est": "2026-11-09T07:55:34.987321-05:00",
+  "fetched_at_utc": "2026-11-09T14:05:46.604080+00:00",
+  "fetched_at_est": "2026-11-09T09:05:46.604095-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -32,6 +32,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management/commentary. No new price levels named; just describes conditions for reopening platform with no specific actionable prices."
+    },
+    {
+      "tweet_id": "2119791501303808157",
+      "timestamp_utc": "2026-11-09T13:57:32.000Z",
+      "timestamp_est": "2026-11-09T08:57:32-05:00",
+      "tweet_text": "@D5star_general Its why I always my system works best in downtrends/red markets. Most new traders think downtrends are just the inverse of uptrends where we grind lower but in reality its very tiny  windows of violent selling then massive, more frequent squeezes.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational commentary about downtrend market structure. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2119791835476283656",
+      "timestamp_utc": "2026-11-09T13:58:52.000Z",
+      "timestamp_est": "2026-11-09T08:58:52-05:00",
+      "tweet_text": "@Wes_Trades_ Those days occur a handful or less times a year but I just follow my plan. Usually we get a couple Failed Breakdowns that go a level or two and I take those. Then in the evening we rip a couple hundred points on a Failed Breakdown and I take those also",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply describing general trading approach/strategy. No specific prices named, no actionable levels introduced."
     }
   ]
 }
