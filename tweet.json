@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-09T14:25:54.120178+00:00",
-  "fetched_at_est": "2026-11-09T09:25:54.120188-05:00",
+  "fetched_at_utc": "2026-11-09T14:46:04.002142+00:00",
+  "fetched_at_est": "2026-11-09T09:46:04.002156-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -68,6 +68,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a URL with no extractable text content \u2014 no price levels named or actionable language present."
+    },
+    {
+      "tweet_id": "2119802131154633065",
+      "timestamp_utc": "2026-11-09T14:39:46.000Z",
+      "timestamp_est": "2026-11-09T09:39:46-05:00",
+      "tweet_text": "Easy work &amp; 7490 has hit. Newsletter readers and followers know this has been my target. The last entry was the 7380 Failed Breakdown off the gap down last evening to get us long, and we are +100 (given in newsletter).\n\nTodays targets were 7478 (hit), 7490 (hit), 7506, 7556 next. https://t.co/yvJBAdDnWT",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7380, 7478, 7490, 7506, 7556/7558) are reaffirmations of morning plan levels or hindsight references to already-hit targets. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2119802450433417663",
+      "timestamp_utc": "2026-11-09T14:41:02.000Z",
+      "timestamp_est": "2026-11-09T09:41:02-05:00",
+      "tweet_text": "And as always, this long was given in advance on Friday in the newsletter. Today we don't even open platform, just let the runner continue ti pay until tomorrow when we will get the next bear trap https://t.co/1RNZhksdB8",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; purely trade management commentary about holding a runner and referencing a future newsletter setup."
+    },
+    {
+      "tweet_id": "2119803608170443261",
+      "timestamp_utc": "2026-11-09T14:45:38.000Z",
+      "timestamp_est": "2026-11-09T09:45:38-05:00",
+      "tweet_text": "@HagglundKirk I don't! I trade the Sunday opens though because we always get a nice bear trap, otherwise its mostly just 730am to 4pm for me",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading hours/schedule. No prices mentioned, no actionable levels named."
     }
   ]
 }
