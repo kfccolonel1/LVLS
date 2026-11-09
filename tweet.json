@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-09T14:05:46.604080+00:00",
-  "fetched_at_est": "2026-11-09T09:05:46.604095-05:00",
+  "fetched_at_utc": "2026-11-09T14:25:54.120178+00:00",
+  "fetched_at_est": "2026-11-09T09:25:54.120188-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -50,6 +50,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply describing general trading approach/strategy. No specific prices named, no actionable levels introduced."
+    },
+    {
+      "tweet_id": "2119797080692785596",
+      "timestamp_utc": "2026-11-09T14:19:42.000Z",
+      "timestamp_est": "2026-11-09T09:19:42-05:00",
+      "tweet_text": "Evening traders got the action &amp; now just hold runners and let #ES_F chop. Sunday gap downs lead to Failed Breakdowns as readers know. 7380 Failed Breakdown was the entry given and we went +100. Now,  don't overtrade\n\n7478, 7490 (react) next. Then 7506, 7558+. 7456, 7420=supports https://t.co/KiF8LhR3Y1",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7380, 7478, 7490, 7506, 7558, 7456, 7420) are in the morning plan or are directional list reaffirmations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2119797124212633620",
+      "timestamp_utc": "2026-11-09T14:19:52.000Z",
+      "timestamp_est": "2026-11-09T09:19:52-05:00",
+      "tweet_text": "https://t.co/2r6dgBBxzy",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a URL with no extractable text content \u2014 no price levels named or actionable language present."
     }
   ]
 }
