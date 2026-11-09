@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-09T14:46:04.002142+00:00",
-  "fetched_at_est": "2026-11-09T09:46:04.002156-05:00",
+  "fetched_at_utc": "2026-11-09T15:16:12.907538+00:00",
+  "fetched_at_est": "2026-11-09T10:16:12.907550-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -95,6 +95,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about trading hours/schedule. No prices mentioned, no actionable levels named."
+    },
+    {
+      "tweet_id": "2119809034454778321",
+      "timestamp_utc": "2026-11-09T15:07:12.000Z",
+      "timestamp_est": "2026-11-09T10:07:12-05:00",
+      "tweet_text": "We are racking up points here and today's plan tracking to perfection. 7380 Failed Breakdown was the long trigger given in newsletter (Sunday gap downs lead to Failed Breakdowns in #ES_F). Targets were 7478 (hit), 7490 (hit), 7506 (hit), 7558 is next, then 7595. Ride your runner https://t.co/6u4tAlkSOZ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels (7380, 7478, 7490, 7506, 7558, 7595) are in the morning plan. This is a reaffirmation/trade update, not a new level."
+    },
+    {
+      "tweet_id": "2119809104529301506",
+      "timestamp_utc": "2026-11-09T15:07:29.000Z",
+      "timestamp_est": "2026-11-09T10:07:29-05:00",
+      "tweet_text": "https://t.co/GUEWNzqNxg",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a URL with no extractable text or price levels to analyze."
     }
   ]
 }
