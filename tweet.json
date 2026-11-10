@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-10T19:40:18.342446+00:00",
-  "fetched_at_est": "2026-11-10T14:40:18.342452-05:00",
+  "fetched_at_utc": "2026-11-10T19:50:23.126035+00:00",
+  "fetched_at_est": "2026-11-10T14:50:23.126040-05:00",
   "last_new_level_added_at_est": "2026-11-10T09:33:15-05:00",
   "todays_new_levels": [
     {
@@ -150,6 +150,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Hindsight recap of morning-plan levels (7535, 7549, 7565) already published; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2120241500747649203",
+      "timestamp_utc": "2026-11-10T19:45:40.000Z",
+      "timestamp_est": "2026-11-10T14:45:40-05:00",
+      "tweet_text": "@DavidDa41048475 Runners are small (10% or 25% of the trade). For a 25% runner I cut it very aggressively a little below break-even to keep my profit. For a 10% runner I am very flexible especially if its a multi-day runner with a low cost basis. Usually though I'll put it under the prior days",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply explaining runner management philosophy \u2014 no price levels named, purely trade management/methodology discussion."
     }
   ]
 }
