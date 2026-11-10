@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-10T19:00:06.686845+00:00",
-  "fetched_at_est": "2026-11-10T14:00:06.686851-05:00",
+  "fetched_at_utc": "2026-11-10T19:20:15.084869+00:00",
+  "fetched_at_est": "2026-11-10T14:20:15.084882-05:00",
   "last_new_level_added_at_est": "2026-11-10T09:33:15-05:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2119872681021739203",
-      "timestamp_utc": "2026-11-09T19:20:07.000Z",
-      "timestamp_est": "2026-11-09T14:20:07-05:00",
-      "tweet_text": "Today is a \"ride runner\" day as warned at 730AM. Last eve at 6pm we got the standard sequence in #ES_F: Gap down, sweep a big low (7380), recover (Failed Breakdown), get long, rip. All given in newsletter\n\nTargets given were 7478, 7490, 7558. 7595 next, then 7636. 7535-40 support https://t.co/c1MMi1FR9i",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7380, 7478, 7490, 7535, 7558, 7595, 7636) are morning-plan levels or hindsight trade narrative; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2119877646322401314",
       "timestamp_utc": "2026-11-09T19:39:50.000Z",
@@ -150,6 +141,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about day trading philosophy; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2120233347200802877",
+      "timestamp_utc": "2026-11-10T19:13:16.000Z",
+      "timestamp_est": "2026-11-10T14:13:16-05:00",
+      "tweet_text": "Its been a day traders market today in #ES_F but we are getting trades. Perfect move to start, all given live + newsletter. The 7535 reclaim had 7549, then 7565 targets. We ran to 7565, sold.\n\nThen I posted 7513 reclaims see 7535 again, and we just hit 35. Must recover to rip https://t.co/ZLkmLFxPX0",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7535, 7549, 7565, 7513) are observations of targets hit or reaffirmations of morning-plan levels. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2120233641347575980",
+      "timestamp_utc": "2026-11-10T19:14:26.000Z",
+      "timestamp_est": "2026-11-10T14:14:26-05:00",
+      "tweet_text": "@DavidDa41048475 I posted 7535 reclaims see 7549, 7565. We ran to 7565. Then I said lock in gains per level to level system. Not sure what the confusion is on that one - it played out as perfectly as a trade could play out",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Hindsight recap of morning-plan levels (7535, 7549, 7565) already published; no new actionable levels named."
     }
   ]
 }
