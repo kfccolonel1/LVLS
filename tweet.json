@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-10T18:09:51.519957+00:00",
-  "fetched_at_est": "2026-11-10T13:09:51.519962-05:00",
+  "fetched_at_utc": "2026-11-10T18:29:58.714737+00:00",
+  "fetched_at_est": "2026-11-10T13:29:58.714748-05:00",
   "last_new_level_added_at_est": "2026-11-10T09:33:15-05:00",
   "todays_new_levels": [
     {
@@ -132,6 +132,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7513, 7535, 7549, 7565) are observations of past action or reaffirmations of morning-plan levels; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2120221314464313599",
+      "timestamp_utc": "2026-11-10T18:25:27.000Z",
+      "timestamp_est": "2026-11-10T13:25:27-05:00",
+      "tweet_text": "We are into mid-day chop in #ES_F and I don't touch this. We had a perfect move today. 7513 was support with 7535 reclaims triggering long. Targets were 7549, 7565. We hit 7565 exact, dipped. Just protect gains now\n\n7513 reclaims see 7535 now, 7549, then 7565. 7474 is below https://t.co/L0XxJTWJQU",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7513/7535/7549/7565 are morning-plan reaffirmations or hit targets; 7474 mentioned casually with no actionable naming language. Trade management/hindsight only."
+    },
+    {
+      "tweet_id": "2120222241354821982",
+      "timestamp_utc": "2026-11-10T18:29:08.000Z",
+      "timestamp_est": "2026-11-10T13:29:08-05:00",
+      "tweet_text": "@AStendorr No different than usual. ES typically makes clean moves in the mornings, chops mid-day, then makes a clean move towards the close",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about typical ES intraday patterns. No price levels named or actionable information given."
     }
   ]
 }
