@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-10T16:29:40.370458+00:00",
-  "fetched_at_est": "2026-11-10T11:29:40.370464-05:00",
+  "fetched_at_utc": "2026-11-10T17:59:49.159677+00:00",
+  "fetched_at_est": "2026-11-10T12:59:49.159683-05:00",
   "last_new_level_added_at_est": "2026-11-10T09:33:15-05:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2119850512589697270",
-      "timestamp_utc": "2026-11-09T17:52:01.000Z",
-      "timestamp_est": "2026-11-09T12:52:01-05:00",
-      "tweet_text": "We continue to rack up points &amp; #ES_F just repeats same cycle over and over: Elevator down/gap down, Failed Breakdown (we long), rip. 7380 was the long given for today in newsletter. Targets were given free at 730am: 7478, 7490, 7506, 7558 (all hit).\n\n7595, 7636 next. Ride runner https://t.co/vTeFgkyH7F",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7380, 7478, 7490, 7506, 7558, 7595, 7636) are reaffirmations of morning plan levels; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2119853194486399441",
       "timestamp_utc": "2026-11-09T18:02:41.000Z",
