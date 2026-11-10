@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-09T19:57:12.912000+00:00",
-  "fetched_at_est": "2026-11-09T14:57:12.912004-05:00",
+  "fetched_at_utc": "2026-11-10T12:58:39.619600+00:00",
+  "fetched_at_est": "2026-11-10T07:58:39.619605-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2119775217211916331",
-      "timestamp_utc": "2026-11-09T12:52:49.000Z",
-      "timestamp_est": "2026-11-09T07:52:49-05:00",
-      "tweet_text": "Huge payout to start week in #ES_F. As readers know, Sunday gap downs resolve in Failed Breakdowns. In this case, 7380 Failed Breakdown was given in newsletter. We triggered ~6pm,  now +100\n\nPlan: Ride runner. 7478, 7490 (reaction zone) next. Then 7506, 7558. 7456, 7420=supports https://t.co/dCDdVWJmbF",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7380, 7478, 7490, 7506, 7558, 7456, 7420) are morning-plan levels or reaffirmations; trade management 'ride runner' not a new level."
-    },
-    {
-      "tweet_id": "2119775443759108561",
-      "timestamp_utc": "2026-11-09T12:53:43.000Z",
-      "timestamp_est": "2026-11-09T07:53:43-05:00",
-      "tweet_text": "Note: There is nothing to trade now, just ride runner. I will open my platform if we go *elevator down* again to newsletter entries to restart the \"elevator down, Failed Breakdown (long), short squeeze sequence\". Otherwise, my platform remains closed",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management/commentary. No new price levels named; just describes conditions for reopening platform with no specific actionable prices."
-    },
     {
       "tweet_id": "2119791501303808157",
       "timestamp_utc": "2026-11-09T13:57:32.000Z",
@@ -185,6 +167,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No specific prices named; tweet references newsletter content and general strategy advice without identifying any actionable levels not already in the morning plan."
+    },
+    {
+      "tweet_id": "2120136828091007209",
+      "timestamp_utc": "2026-11-10T12:49:44.000Z",
+      "timestamp_est": "2026-11-10T07:49:44-05:00",
+      "tweet_text": "Yesterday was ride runner day in #ES_F. On Sunday we got the Failed Breakdown of 7380 May 4th low (given in newsletter). Targets were 7478, 7490, 7558, 7595. All hit. Now, we consolidate.\n\nPlan today: Ride runner. 7565=support (watch traps). 7595, 7616, 7636 next. 7535-40=below https://t.co/9Kb5VhOPNU",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7565, 7595, 7616, 7636, 7535-40) are either in the morning plan or reaffirmations/targets from prior newsletter; no genuinely new actionable levels introduced."
     }
   ]
 }
