@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-11T15:12:54.908670+00:00",
-  "fetched_at_est": "2026-11-11T10:12:54.908683-05:00",
+  "fetched_at_utc": "2026-11-11T15:22:57.579767+00:00",
+  "fetched_at_est": "2026-11-11T10:22:57.579774-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120174620678717480",
-      "timestamp_utc": "2026-11-10T15:19:55.000Z",
-      "timestamp_est": "2026-11-10T10:19:55-05:00",
-      "tweet_text": "Good pop in #ES_F. I pay attention to ES only when it goes 'elevator down' (vertical drop that knifes all supports). After this, we squeeze on a Failed Breakdown. 7513 was support given (held). 7535 had to reclaim as posted to see 7549, 7565. Both hit.\n\n7595, 7616, 7636 above https://t.co/KCK7ThXj72",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7513, 7535, 7549, 7565 are morning-plan or prior references; 7595 is new but listed with 7616/7636 as a directional summary list, not actionable naming language."
-    },
     {
       "tweet_id": "2120185656949555270",
       "timestamp_utc": "2026-11-10T16:03:46.000Z",
