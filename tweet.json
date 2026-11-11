@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-11T17:13:29.855513+00:00",
-  "fetched_at_est": "2026-11-11T12:13:29.855518-05:00",
+  "fetched_at_utc": "2026-11-11T18:23:41.548026+00:00",
+  "fetched_at_est": "2026-11-11T13:23:41.548036-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -241,6 +241,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7650, 7636 are morning-plan levels; 7616 and 7687-90 appear as hindsight recap/next observation, no explicit actionable naming language for a new level."
+    },
+    {
+      "tweet_id": "2120582130371555525",
+      "timestamp_utc": "2026-11-11T18:19:13.000Z",
+      "timestamp_est": "2026-11-11T13:19:13-05:00",
+      "tweet_text": "@eifers1 I am only bullish all the time - I don't call tops or things like. I just wait for the bear trap elevator down sells, then I trade the rips up. Only interested in getting paid, no interest in forecasting",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure methodology commentary, no prices named, no actionable levels of any kind."
+    },
+    {
+      "tweet_id": "2120582558240915816",
+      "timestamp_utc": "2026-11-11T18:20:55.000Z",
+      "timestamp_est": "2026-11-11T13:20:55-05:00",
+      "tweet_text": "Points are printing in #ES_F and we are +125 from the 7535-40 reclaim long given in newsletter. Broadly, we are +325 from last Thursday's 7330 May 4th low FBD that originally got us long. Ride runner.\n\nToday's targets given free 8am were 7616, 7636, 7650. All hit. 7687-90 bonus https://t.co/7OrY7yMpWu",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7535-40, 7330, 7616, 7636, 7650, 7687-90) are trade management, hindsight references, or already in morning plan. No new actionable levels named."
     }
   ]
 }
