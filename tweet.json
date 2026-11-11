@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-11T12:51:57.847512+00:00",
-  "fetched_at_est": "2026-11-11T07:51:57.847516-05:00",
+  "fetched_at_utc": "2026-11-11T13:02:09.500764+00:00",
+  "fetched_at_est": "2026-11-11T08:02:09.500777-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -137,6 +137,24 @@
       ],
       "added_bear_levels": [],
       "notes": "7600 named as next bull target above 7565 \u2014 not in morning plan. 7565, 7636(\u22487635), 7650 are reaffirmations of published levels."
+    },
+    {
+      "tweet_id": "2120501091502567924",
+      "timestamp_utc": "2026-11-11T12:57:11.000Z",
+      "timestamp_est": "2026-11-11T07:57:11-05:00",
+      "tweet_text": "Yesterday, we saw some red in #ES_F and readers of mine know the drill (never changes). We wait for a Failed Breakdown/reclaim, get long for the rip. 7535-40 reclaim was given in 3pm newsletter. We are +80 now\n\nPlan: Sit back, ride runner. 7616, 7636, 7650 next. 7600=support https://t.co/cJcxyh45KS",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7616 is not in morning plan but appears in a directional list alongside morning-plan levels (7636, 7650, 7600) as ride-runner targets \u2014 no explicit naming language for 7616 as a new actionable level."
+    },
+    {
+      "tweet_id": "2120501373104226645",
+      "timestamp_utc": "2026-11-11T12:58:19.000Z",
+      "timestamp_est": "2026-11-11T07:58:19-05:00",
+      "tweet_text": "Note: ES trading should be very boring when done right. Now that we've ripped, we just do nothing. Don't even open your platform until we go \"elevator down\" again, to setup another Failed Breakdown and rip at newsletter entries. Same boring steps everyday, don't ever change them",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure process/philosophy commentary. No specific price levels named, referenced, or implied. No actionable entries, targets, or triggers of any kind."
     }
   ]
 }
