@@ -1,24 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-11T14:12:36.211228+00:00",
-  "fetched_at_est": "2026-11-11T09:12:36.211232-05:00",
+  "fetched_at_utc": "2026-11-11T14:42:40.332106+00:00",
+  "fetched_at_est": "2026-11-11T09:42:40.332115-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120162876078084381",
-      "timestamp_utc": "2026-11-10T14:33:15.000Z",
-      "timestamp_est": "2026-11-10T09:33:15-05:00",
-      "tweet_text": "After a ~220 point rally from Sunday's 7380 opening Failed Breakdown to get us long, #ES_F finally went *elevator down* today, resetting the cycle and permitting new entries to setup the next rip\n\n7535 must reclaim to see 7549, 7565 (hard rally above). 7513 (held), 7474=supports https://t.co/hiDOy0Sn9W",
-      "added_bull_levels": [
-        7549.0
-      ],
-      "added_bear_levels": [
-        7474.0
-      ],
-      "notes": "7549 is a new named target ('to see 7549') not in morning plan; 7474 named as support not in morning plan. 7535/7565/7513 are reaffirmations."
-    },
     {
       "tweet_id": "2120174620678717480",
       "timestamp_utc": "2026-11-10T15:19:55.000Z",
