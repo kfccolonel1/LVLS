@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-11T14:42:40.332106+00:00",
-  "fetched_at_est": "2026-11-11T09:42:40.332115-05:00",
+  "fetched_at_utc": "2026-11-11T14:52:45.129822+00:00",
+  "fetched_at_est": "2026-11-11T09:52:45.129827-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -169,6 +169,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a URL with no extractable text or price levels to analyze."
+    },
+    {
+      "tweet_id": "2120529233588150732",
+      "timestamp_utc": "2026-11-11T14:49:01.000Z",
+      "timestamp_est": "2026-11-11T09:49:01-05:00",
+      "tweet_text": "@jordanofstonks ES loves to do the red day/sell most the session then rip in the evening pattern. The redder the day, the greener the evening typically",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market behavior commentary describing a pattern; no price named, no actionable level, no naming language used."
     }
   ]
 }
