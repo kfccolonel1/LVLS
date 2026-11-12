@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-11T20:24:12.062261+00:00",
-  "fetched_at_est": "2026-11-11T15:24:12.062268-05:00",
+  "fetched_at_utc": "2026-11-12T12:45:36.706302+00:00",
+  "fetched_at_est": "2026-11-12T07:45:36.706312-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -230,6 +230,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7650, 7687, 7636, 7616 all in morning plan or reaffirmations; '7687-90' and commentary are directional list references, not newly named actionable levels."
+    },
+    {
+      "tweet_id": "2120858969073664218",
+      "timestamp_utc": "2026-11-12T12:39:16.000Z",
+      "timestamp_est": "2026-11-12T07:39:16-05:00",
+      "tweet_text": "Yesterday we had a perfect session in #ES_F. Per newsletter, 7535 reclaims got us long. Targets given free were 7616, 7636, 7650. All hit for a +120 point leg up. \n\nPlan today: 7600/7593=support (watch traps). 7620 reclaims see 7636, 7650, 7687. 7570 below https://t.co/6Sf6QTcUYX",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned levels (7600, 7620, 7636, 7650, 7687, 7570, 7593) are either in the morning plan or hindsight references to yesterday's session. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2120859438693114200",
+      "timestamp_utc": "2026-11-12T12:41:08.000Z",
+      "timestamp_est": "2026-11-12T07:41:08-05:00",
+      "tweet_text": "Note: 7600 was support given in newsletter, watch for the entries discussed there. The best entries are still lower from here",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7600 is a morning-plan level (reaffirmation); 'best entries still lower' is directional commentary with no new explicit actionable price named."
     }
   ]
 }
