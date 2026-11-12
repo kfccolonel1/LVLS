@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T14:46:05.190604+00:00",
-  "fetched_at_est": "2026-11-12T09:46:05.190614-05:00",
+  "fetched_at_utc": "2026-11-12T14:56:12.314574+00:00",
+  "fetched_at_est": "2026-11-12T09:56:12.314584-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120529233588150732",
-      "timestamp_utc": "2026-11-11T14:49:01.000Z",
-      "timestamp_est": "2026-11-11T09:49:01-05:00",
-      "tweet_text": "@jordanofstonks ES loves to do the red day/sell most the session then rip in the evening pattern. The redder the day, the greener the evening typically",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market behavior commentary describing a pattern; no price named, no actionable level, no naming language used."
-    },
     {
       "tweet_id": "2120533241341919320",
       "timestamp_utc": "2026-11-11T15:04:56.000Z",
@@ -203,6 +194,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management instruction ('ride runner, shut platform down'); no price levels named at all."
+    },
+    {
+      "tweet_id": "2120891356256383305",
+      "timestamp_utc": "2026-11-12T14:47:58.000Z",
+      "timestamp_est": "2026-11-12T09:47:58-05:00",
+      "tweet_text": "@OnTheHooch I took the 93 Failed Breakdown. I usually just take the failed breakdown if I can rather than any reclaims or direct bids. Unless I miss a quality Failed Breakdown and theres lots of room to run, then I'll sometimes take a reclaim",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trade methodology (Failed Breakdown preference). No new price levels named or actionable triggers introduced."
+    },
+    {
+      "tweet_id": "2120891530403606585",
+      "timestamp_utc": "2026-11-12T14:48:39.000Z",
+      "timestamp_est": "2026-11-12T09:48:39-05:00",
+      "tweet_text": "@OnTheHooch Issue with the 84 is 93 and 7600 were just above so I'd rather wait in that case",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7484/7493/7600 \u2014 all morning-plan levels or passing mentions, no actionable naming language for a new level."
     }
   ]
 }
