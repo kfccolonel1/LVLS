@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T14:56:12.314574+00:00",
-  "fetched_at_est": "2026-11-12T09:56:12.314584-05:00",
+  "fetched_at_utc": "2026-11-12T15:06:15.026463+00:00",
+  "fetched_at_est": "2026-11-12T10:06:15.026470-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120533241341919320",
-      "timestamp_utc": "2026-11-11T15:04:56.000Z",
-      "timestamp_est": "2026-11-11T10:04:56-05:00",
-      "tweet_text": "We continue to grind up in #ES_F. Last entry was the 7535 reclaim given in newsletter &amp; we are +80 on this. 7616 was first target today, hit. 7636, then 7650 are nxt. Then we head to 7687-90 to back-test last Thursday's breakdown\n\n7600 was 1st support today, swept and recovered https://t.co/ZHo2LJhDTm",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All levels mentioned (7636, 7650, 7687, 7600) are morning-plan levels or observations of price action/targets already hit. No new actionable levels named."
-    },
-    {
-      "tweet_id": "2120533562231590928",
-      "timestamp_utc": "2026-11-11T15:06:13.000Z",
-      "timestamp_est": "2026-11-11T10:06:13-05:00",
-      "tweet_text": "@tradivate 7687-90 is the big one, then the 7835 needs to be backtested still. Though we came 15 points shy last week which sometimes counts for such a major bcktest point",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7687-90 and 7835 are both in the morning plan; tweet is reaffirmation/commentary on backtest distance, no new actionable level introduced."
-    },
     {
       "tweet_id": "2120533666803941453",
       "timestamp_utc": "2026-11-11T15:06:38.000Z",
