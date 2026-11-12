@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T19:07:26.950448+00:00",
-  "fetched_at_est": "2026-11-12T14:07:26.950465-05:00",
+  "fetched_at_utc": "2026-11-12T19:27:30.223891+00:00",
+  "fetched_at_est": "2026-11-12T14:27:30.223897-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120597106880852083",
-      "timestamp_utc": "2026-11-11T19:18:43.000Z",
-      "timestamp_est": "2026-11-11T14:18:43-05:00",
-      "tweet_text": "@OnTheHooch The green days on Twitter are always the quietest for some reason",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational observation about Twitter activity on green days; no price named, no actionable level of any kind."
-    },
     {
       "tweet_id": "2120604371058590024",
       "timestamp_utc": "2026-11-11T19:47:35.000Z",
