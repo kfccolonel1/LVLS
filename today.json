@@ -1,48 +1,30 @@
 {
-  "session_date": "2026-11-11",
-  "daily_pivot": 7490,
+  "session_date": "2026-11-12",
+  "daily_pivot": 7494,
   "regime_hint": "C4",
   "significant_lows": [
-    7506.0,
-    7491.0,
-    7476.0,
-    7450.0,
+    7650.0,
+    7636.0,
+    7620.0,
+    7600.0,
+    7570.0,
+    7537.5,
+    7509.0,
+    7494.0,
+    7452.5,
     7432.0,
-    7398.0,
-    7379.0,
-    7369.0,
-    7334.0,
-    7319.0,
+    7420.0,
+    7404.0,
+    7390.0,
+    7371.0,
+    7353.0,
+    7322.0,
     7294.0,
-    7278.0,
-    7259.0,
-    7250.0
+    7264.0,
+    7241.0,
+    7213.0
   ],
   "bull_levels": [
-    {
-      "price": 7537.5,
-      "major": true
-    },
-    {
-      "price": 7565.0,
-      "major": true
-    },
-    {
-      "price": 7600.0,
-      "major": true
-    },
-    {
-      "price": 7636.0,
-      "major": true
-    },
-    {
-      "price": 7650.0,
-      "major": true
-    },
-    {
-      "price": 7665.0,
-      "major": true
-    },
     {
       "price": 7687.0,
       "major": true
@@ -52,15 +34,19 @@
       "major": true
     },
     {
-      "price": 7733.0,
+      "price": 7712.0,
       "major": true
     },
     {
-      "price": 7752.0,
+      "price": 7739.0,
       "major": true
     },
     {
-      "price": 7760.0,
+      "price": 7757.5,
+      "major": true
+    },
+    {
+      "price": 7772.0,
       "major": true
     },
     {
@@ -68,29 +54,49 @@
       "major": true
     },
     {
-      "price": 7811.0,
+      "price": 7809.0,
       "major": true
     },
     {
-      "price": 7835.0,
+      "price": 7836.0,
       "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7506.0,
+      "price": 7650.0,
       "major": true
     },
     {
-      "price": 7491.0,
+      "price": 7636.0,
       "major": true
     },
     {
-      "price": 7476.0,
+      "price": 7620.0,
       "major": true
     },
     {
-      "price": 7450.0,
+      "price": 7600.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7537.5,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7494.0,
+      "major": true
+    },
+    {
+      "price": 7452.5,
       "major": true
     },
     {
@@ -98,23 +104,27 @@
       "major": true
     },
     {
-      "price": 7398.0,
+      "price": 7420.0,
       "major": true
     },
     {
-      "price": 7379.0,
+      "price": 7404.0,
       "major": true
     },
     {
-      "price": 7369.0,
+      "price": 7390.0,
       "major": true
     },
     {
-      "price": 7334.0,
+      "price": 7371.0,
       "major": true
     },
     {
-      "price": 7319.0,
+      "price": 7353.0,
+      "major": true
+    },
+    {
+      "price": 7322.0,
       "major": true
     },
     {
@@ -122,21 +132,21 @@
       "major": true
     },
     {
-      "price": 7278.0,
+      "price": 7264.0,
       "major": true
     },
     {
-      "price": 7259.0,
+      "price": 7241.0,
       "major": true
     },
     {
-      "price": 7250.0,
+      "price": 7213.0,
       "major": true
     }
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish as long as ES holds 7490, expecting a continued recovery toward 7565, 7600, 7636, and ultimately 7687-91 to backtest last Thursday's breakdown level. He holds a long runner from Sunday's 7380 Failed Breakdown. The pivot is 7490: above it, bulls stay in control and higher levels are targeted; below it, the bear case opens and downside risk increases.",
-  "fetched_at": "2026-11-11T02:00:16.952594+00:00",
-  "source_hash": "1d9ea3ced806a5e1"
+  "notes": "Trader is bullish and holding a long runner from 7380, targeting 7687-90 (the shelf lost during last Thursday's selloff). Above 7687-90 he sees 7703 and 7755-60 as next stops. The pivot is 7494 (yesterday's low): above it bulls stay in control and the rally toward 7687-90 continues; below it the bull case breaks and a potential short setup opens. No new entries planned unless ES drops 50-100 points to give a fresh failed-breakdown opportunity.",
+  "fetched_at": "2026-11-12T02:00:20.429753+00:00",
+  "source_hash": "2ff82e5d655bab66"
 }
