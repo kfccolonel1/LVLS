@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T13:55:55.574833+00:00",
-  "fetched_at_est": "2026-11-12T08:55:55.574839-05:00",
+  "fetched_at_utc": "2026-11-12T14:46:05.190604+00:00",
+  "fetched_at_est": "2026-11-12T09:46:05.190614-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing past price action ('acceptance at 35', 'lows that day') \u2014 retrospective observation, no actionable new level named."
+    },
+    {
+      "tweet_id": "2120889053901980021",
+      "timestamp_utc": "2026-11-12T14:38:49.000Z",
+      "timestamp_est": "2026-11-12T09:38:49-05:00",
+      "tweet_text": "Clean follow through to start the day. #ES_F trading should be the same mind numbingly boring routine daily: Elevator down, Failed Breakdown(long), rip. We sold to 7570 support, reclaimed 7593/7600 longed. Lock gains here.\n\n7636, 7650, 7687-90 if ES wants any bonus today https://t.co/AhaCAUH7G4",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7570, 7600, 7636, 7650, 7687 all in morning plan. 7593 is a fill/reclaim observation. No new actionable levels named."
+    },
+    {
+      "tweet_id": "2120889635484156303",
+      "timestamp_utc": "2026-11-12T14:41:07.000Z",
+      "timestamp_est": "2026-11-12T09:41:07-05:00",
+      "tweet_text": "As always, entry was given in newsletter. Just ride runner now, shut platform down https://t.co/77mMk4EyHl",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management instruction ('ride runner, shut platform down'); no price levels named at all."
     }
   ]
 }
