@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T19:27:30.223891+00:00",
-  "fetched_at_est": "2026-11-12T14:27:30.223897-05:00",
+  "fetched_at_utc": "2026-11-12T19:57:40.617601+00:00",
+  "fetched_at_est": "2026-11-12T14:57:40.617615-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120604371058590024",
-      "timestamp_utc": "2026-11-11T19:47:35.000Z",
-      "timestamp_est": "2026-11-11T14:47:35-05:00",
-      "tweet_text": "Note: newsletter sent early today with next batch of entries. Most quality entries are lower but 7650 is a first support down. All targets today were completed (7616, 7636, 7650 given at 8am). 7687-90 above, and then things get very interesting as bulls restore full control",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7650, 7687, 7636, 7616 all in morning plan or reaffirmations; '7687-90' and commentary are directional list references, not newly named actionable levels."
-    },
     {
       "tweet_id": "2120858969073664218",
       "timestamp_utc": "2026-11-12T12:39:16.000Z",
@@ -212,6 +203,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply noting distance from ATH \u2014 no price named, no actionable level, no naming language used."
+    },
+    {
+      "tweet_id": "2120966895700759027",
+      "timestamp_utc": "2026-11-12T19:48:08.000Z",
+      "timestamp_est": "2026-11-12T14:48:08-05:00",
+      "tweet_text": "Note: Today's targets were completed early ending the session. Next mini \"elevator down\" underway now, so we can begin to prep for the next Failed Breakdown and rip to do it over again (either this eve or tomorrow). Newsletter just sent with entry. 7616-20=first support",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7616-20 midpoint ~7618 falls within morning-plan level 7620 (already published); treated as reaffirmation. No genuinely new actionable level named."
+    },
+    {
+      "tweet_id": "2120967265164120110",
+      "timestamp_utc": "2026-11-12T19:49:36.000Z",
+      "timestamp_est": "2026-11-12T14:49:36-05:00",
+      "tweet_text": "@martywalsh01 @RJabacus Never seen so many bear market comments before when we are only a few % off the highs in a powerful bull market by every technical measure. When we're down 20% and below the 200/50mas and they've crossed then can start talking about markets",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational market commentary about bull/bear sentiment; no actionable price level named, only vague % references."
+    },
+    {
+      "tweet_id": "2120967320021475356",
+      "timestamp_utc": "2026-11-12T19:49:49.000Z",
+      "timestamp_est": "2026-11-12T14:49:49-05:00",
+      "tweet_text": "@martywalsh01 @RJabacus *bear",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a one-word directional correction reply ('*bear') with no price, no actionable level, and no naming language."
     }
   ]
 }
