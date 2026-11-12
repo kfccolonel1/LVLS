@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T13:45:53.243931+00:00",
-  "fetched_at_est": "2026-11-12T08:45:53.243937-05:00",
+  "fetched_at_utc": "2026-11-12T13:55:55.574833+00:00",
+  "fetched_at_est": "2026-11-12T08:55:55.574839-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120515818404401538",
-      "timestamp_utc": "2026-11-11T13:55:43.000Z",
-      "timestamp_est": "2026-11-11T08:55:43-05:00",
-      "tweet_text": "There's 7616 1st target for today hit in #ES_F &amp; longs are working. Last entry was the 7535 reclaim given in last evenings newsletter. Its the same drill everday in ES: 1) I never short. 2) I wait for red (elevator down) 3) I long on a Failed Breakdown or reclaim\n\n7636, 7650 next https://t.co/oo8Q6SxTpo",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7616 is a first-mention target but framed as already-hit observation; 7636 and 7650 are reaffirmations of morning plan levels. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2120515861022753034",
-      "timestamp_utc": "2026-11-11T13:55:53.000Z",
-      "timestamp_est": "2026-11-11T08:55:53-05:00",
-      "tweet_text": "https://t.co/fj2zkbw7G0",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a URL with no extractable text or price levels to analyze."
-    },
     {
       "tweet_id": "2120529233588150732",
       "timestamp_utc": "2026-11-11T14:49:01.000Z",
