@@ -1,47 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T13:35:50.880650+00:00",
-  "fetched_at_est": "2026-11-12T08:35:50.880655-05:00",
+  "fetched_at_utc": "2026-11-12T13:45:53.243931+00:00",
+  "fetched_at_est": "2026-11-12T08:45:53.243937-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120511881433481617",
-      "timestamp_utc": "2026-11-11T13:40:04.000Z",
-      "timestamp_est": "2026-11-11T08:40:04-05:00",
-      "tweet_text": "@creditriskVP Not a problem! I always just try to stick my stop under some structure. The lowest low of the Failed Breakdown or some obvious nearby higher low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining stop-placement methodology. No specific price named, purely educational trade-management commentary."
-    },
-    {
-      "tweet_id": "2120511949796741350",
-      "timestamp_utc": "2026-11-11T13:40:20.000Z",
-      "timestamp_est": "2026-11-11T08:40:20-05:00",
-      "tweet_text": "@AmyAmyYY9 https://t.co/yrTOrX7RNG is the link.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply with a URL only \u2014 no price levels named, no actionable content whatsoever."
-    },
-    {
-      "tweet_id": "2120512020592160866",
-      "timestamp_utc": "2026-11-11T13:40:37.000Z",
-      "timestamp_est": "2026-11-11T08:40:37-05:00",
-      "tweet_text": "@AmyAmyYY9 (its in my bio)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply directing user to bio; no price levels named or actionable language present."
-    },
-    {
-      "tweet_id": "2120512122023039050",
-      "timestamp_utc": "2026-11-11T13:41:01.000Z",
-      "timestamp_est": "2026-11-11T08:41:01-05:00",
-      "tweet_text": "@bbakowski11 I typically drag it up under the prior days low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trailing stop methodology (prior day's low) \u2014 trade management comment, no actionable price named."
-    },
     {
       "tweet_id": "2120515818404401538",
       "timestamp_utc": "2026-11-11T13:55:43.000Z",
