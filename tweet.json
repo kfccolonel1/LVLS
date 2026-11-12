@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T15:16:17.365799+00:00",
-  "fetched_at_est": "2026-11-12T10:16:17.365805-05:00",
+  "fetched_at_utc": "2026-11-12T15:46:25.077359+00:00",
+  "fetched_at_est": "2026-11-12T10:46:25.077364-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -185,6 +185,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply referencing 7484/7493/7600 \u2014 all morning-plan levels or passing mentions, no actionable naming language for a new level."
+    },
+    {
+      "tweet_id": "2120905210109235668",
+      "timestamp_utc": "2026-11-12T15:43:01.000Z",
+      "timestamp_est": "2026-11-12T10:43:01-05:00",
+      "tweet_text": "Strong follow through. Always the same drill: 1) Never short 2) Wait for an \"elevator down\" 3) Wait for #ES_F to flush and recover a low 4) Long. Repeat daily, stack points. Per newsletter/tweets, 7593/7600 trap was today's long.\n\nTargets were 7616-20 (hit), 7636, 7650, 7687-next https://t.co/lSAV6rLFDy",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7593/7600, 7616-20, 7636, 7650, 7687) are morning-plan levels or hindsight trade recap; no new actionable levels introduced."
     }
   ]
 }
