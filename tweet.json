@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T13:05:42.771179+00:00",
-  "fetched_at_est": "2026-11-12T08:05:42.771184-05:00",
+  "fetched_at_utc": "2026-11-12T13:15:45.114788+00:00",
+  "fetched_at_est": "2026-11-12T08:15:45.114793-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120504615154430324",
-      "timestamp_utc": "2026-11-11T13:11:11.000Z",
-      "timestamp_est": "2026-11-11T08:11:11-05:00",
-      "tweet_text": "@creditriskVP I discuss in methodology section but for Faield Breakdowns stops go below the lowest low of the structure. If thats too far so the R/R makes no sense, find another lower time frame higher low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining FBD stop placement methodology; no specific price named or actionable level introduced."
-    },
     {
       "tweet_id": "2120511881433481617",
       "timestamp_utc": "2026-11-11T13:40:04.000Z",
