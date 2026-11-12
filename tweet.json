@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-12T15:46:25.077359+00:00",
-  "fetched_at_est": "2026-11-12T10:46:25.077364-05:00",
+  "fetched_at_utc": "2026-11-12T15:56:27.551460+00:00",
+  "fetched_at_est": "2026-11-12T10:56:27.551466-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2120544562900860964",
-      "timestamp_utc": "2026-11-11T15:49:56.000Z",
-      "timestamp_est": "2026-11-11T10:49:56-05:00",
-      "tweet_text": "@RipellinoTom After a Failed Breakdown market just enters grind up by default unless we get hit with a headline catalyst to go elevator down again and trap bears to repeat the cycle",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market structure commentary describing Failed Breakdown behavior; no price named, no actionable level introduced."
-    },
     {
       "tweet_id": "2120558721411743997",
       "timestamp_utc": "2026-11-11T16:46:11.000Z",
