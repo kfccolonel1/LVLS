@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T16:10:23.890867+00:00",
-  "fetched_at_est": "2026-11-13T11:10:23.890873-05:00",
+  "fetched_at_utc": "2026-11-13T16:20:32.224691+00:00",
+  "fetched_at_est": "2026-11-13T11:20:32.224709-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -322,6 +322,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trading methodology; no price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2121275313095319978",
+      "timestamp_utc": "2026-11-13T16:13:40.000Z",
+      "timestamp_est": "2026-11-13T11:13:40-05:00",
+      "tweet_text": "We got the daily \"elevator down\" in #ES_F. This happens once per day and it refers to a few min to hour hour window when ES knifes every support. Then we go Failed Breakdown, long, rip, backtest, repeat.\n\n7535-40 had to reclaim. 7572 next big lvl up, and that takes us to 7600 https://t.co/cXSZ6BknT7",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7535-40 and 7600 are morning-plan levels (7537.5, 7600); 7572 is a casual directional reference without naming language qualifying it as a new actionable level."
+    },
+    {
+      "tweet_id": "2121275451951980988",
+      "timestamp_utc": "2026-11-13T16:14:13.000Z",
+      "timestamp_est": "2026-11-13T11:14:13-05:00",
+      "tweet_text": "Note: Per newsletter 7558 was a profit take ahead of 7572",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Hindsight reference to newsletter profit take levels (7558, 7572); no new actionable level named with qualifying language."
     }
   ]
 }
