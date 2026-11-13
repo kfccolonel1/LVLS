@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T13:09:11.596522+00:00",
-  "fetched_at_est": "2026-11-13T08:09:11.596527-05:00",
+  "fetched_at_utc": "2026-11-13T13:29:14.836612+00:00",
+  "fetched_at_est": "2026-11-13T08:29:14.836616-05:00",
   "last_new_level_added_at_est": "2026-11-13T07:58:05-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120870729331953835",
-      "timestamp_utc": "2026-11-12T13:26:00.000Z",
-      "timestamp_est": "2026-11-12T08:26:00-05:00",
-      "tweet_text": "@tanay1210 I didn't take the really good quality Failed Breakdown we had had the lows that day, but the structure was still very bullish and we had lots of acceptance at 35",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing past price action ('acceptance at 35', 'lows that day') \u2014 retrospective observation, no actionable new level named."
-    },
     {
       "tweet_id": "2120889053901980021",
       "timestamp_utc": "2026-11-12T14:38:49.000Z",
