@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T12:59:06.554729+00:00",
-  "fetched_at_est": "2026-11-13T07:59:06.554734-05:00",
+  "fetched_at_utc": "2026-11-13T13:09:11.596522+00:00",
+  "fetched_at_est": "2026-11-13T08:09:11.596527-05:00",
   "last_new_level_added_at_est": "2026-11-13T07:58:05-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120864347375210583",
-      "timestamp_utc": "2026-11-12T13:00:38.000Z",
-      "timestamp_est": "2026-11-12T08:00:38-05:00",
-      "tweet_text": "@OnTheHooch Typically bearish to see this sort of action, I'd like to see an elevator down though because theres nothing good to trade up here. Too close to the highs, too mild of a retrace of the last leg. Need a nice flush to open things up again",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary about wanting a flush/retrace; no specific price named as actionable level."
-    },
     {
       "tweet_id": "2120870729331953835",
       "timestamp_utc": "2026-11-12T13:26:00.000Z",
@@ -231,6 +222,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7676 named as next resistance target not in morning plan; all other prices (7620,7600,7636,7650,7687) are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2121228335053152531",
+      "timestamp_utc": "2026-11-13T13:07:00.000Z",
+      "timestamp_est": "2026-11-13T08:07:00-05:00",
+      "tweet_text": "@RafikiTrader @HagglundKirk There is a reason the newsletter is paid - I don't give all the context and detail here on Twitter. I just give levels, but I never say which ones I'll actually engage here for free or how. I trade high quality Failed Breakdowns only and occasionally Level Reclaims",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading philosophy and service structure; no actionable price levels named."
     }
   ]
 }
