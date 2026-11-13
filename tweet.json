@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T13:29:14.836612+00:00",
-  "fetched_at_est": "2026-11-13T08:29:14.836616-05:00",
+  "fetched_at_utc": "2026-11-13T13:39:23.880544+00:00",
+  "fetched_at_est": "2026-11-13T08:39:23.880553-05:00",
   "last_new_level_added_at_est": "2026-11-13T07:58:05-05:00",
   "todays_new_levels": [
     {
@@ -222,6 +222,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trading philosophy and service structure; no actionable price levels named."
+    },
+    {
+      "tweet_id": "2121234455369077184",
+      "timestamp_utc": "2026-11-13T13:31:19.000Z",
+      "timestamp_est": "2026-11-13T08:31:19-05:00",
+      "tweet_text": "@RafikiTrader @HagglundKirk The tweets and newsletter are the same but I just dont give any extra context here. I just give the levels and sometimes I'll give out a newsletter entry",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about format differences between tweets and newsletter; no actionable price levels named."
+    },
+    {
+      "tweet_id": "2121234665197429181",
+      "timestamp_utc": "2026-11-13T13:32:09.000Z",
+      "timestamp_est": "2026-11-13T08:32:09-05:00",
+      "tweet_text": "@futuretradingES If it never recovers then it would be lost. When I say sweep its a reactive not a predictive statement",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply explaining terminology ('sweep' = reactive not predictive). No price named, no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2121235595833880839",
+      "timestamp_utc": "2026-11-13T13:35:51.000Z",
+      "timestamp_est": "2026-11-13T08:35:51-05:00",
+      "tweet_text": "Targets running in #ES_F and we are through 2 of today's. 7593/7600 reclaim was the last quality long yesterday. Overnight, we retested it, triggering back up and activating upside targets (discussed in newsletter). Today's targets were: 7636 (hit), 7650 (hit), 7676, 7687 next https://t.co/4V46z79M3x",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7676 appears as upside target but is not in morning plan; however, tweet frames it as pre-existing newsletter target ('Today's targets were'), not a newly named level\u2014reaffirmation of prior plan."
     }
   ]
 }
