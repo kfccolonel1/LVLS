@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T15:20:01.432611+00:00",
-  "fetched_at_est": "2026-11-13T10:20:01.432620-05:00",
+  "fetched_at_utc": "2026-11-13T15:30:11.706213+00:00",
+  "fetched_at_est": "2026-11-13T10:30:11.706225-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -322,6 +322,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining FBD strategy concept; no specific price level named or flagged as actionable."
+    },
+    {
+      "tweet_id": "2121262484334026881",
+      "timestamp_utc": "2026-11-13T15:22:42.000Z",
+      "timestamp_est": "2026-11-13T10:22:42-05:00",
+      "tweet_text": "@louislouieaz There is no buy spot. The buy occurs when we get a Failed Breakdown",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining FBD concept with no specific price named; purely instructional/conversational, no actionable level introduced."
+    },
+    {
+      "tweet_id": "2121263179296591944",
+      "timestamp_utc": "2026-11-13T15:25:27.000Z",
+      "timestamp_est": "2026-11-13T10:25:27-05:00",
+      "tweet_text": "@AmyAmyYY9 We just wait patiently for triggers, same drill everyday.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No price levels mentioned at all; purely a conversational reply about patience and process."
+    },
+    {
+      "tweet_id": "2121263896304447607",
+      "timestamp_utc": "2026-11-13T15:28:18.000Z",
+      "timestamp_est": "2026-11-13T10:28:18-05:00",
+      "tweet_text": "When the daily 'elevator down' is underway in #ES_F, we simply patiently wait for the Failed Breakdown, to ignite the squeeze, and repeat the cycle. Same drill everyday in ES.\n\n7535-40 must reclaim to pop to 7572. 7572 must reclaim to rip. 7509, 7494 (watch traps) below https://t.co/pFQb4qCXon",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7535-40, 7572, 7509, 7494 are all reaffirmations or minor variants of morning plan levels (7537.5, 7565, 7509, 7492); no genuinely new major levels introduced."
     }
   ]
 }
