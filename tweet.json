@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T16:50:49.404833+00:00",
-  "fetched_at_est": "2026-11-13T11:50:49.404837-05:00",
+  "fetched_at_utc": "2026-11-13T17:10:53.020739+00:00",
+  "fetched_at_est": "2026-11-13T12:10:53.020745-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120924978094743772",
-      "timestamp_utc": "2026-11-12T17:01:34.000Z",
-      "timestamp_est": "2026-11-12T12:01:34-05:00",
-      "tweet_text": "We are now into mid-day chop in #ES_F and just ride runner. Today was perfect. 7593/7600 reclaim was the long trigger. We swept it to ~7570 support, recovered. Targets were 7616-20 (hit), 7636 (hit), 7650 (hit - now support)\n\n7687-90 next, then we can really get moving higher https://t.co/WuKgeQZy2R",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7570, 7600, 7616-20, 7636, 7650, 7687) are morning-plan levels or observations of hits; no new actionable level introduced."
-    },
     {
       "tweet_id": "2120945489768276160",
       "timestamp_utc": "2026-11-12T18:23:04.000Z",
