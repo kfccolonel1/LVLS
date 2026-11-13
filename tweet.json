@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T14:39:31.490567+00:00",
-  "fetched_at_est": "2026-11-13T09:39:31.490572-05:00",
-  "last_new_level_added_at_est": "2026-11-13T07:58:05-05:00",
+  "fetched_at_utc": "2026-11-13T14:49:36.557742+00:00",
+  "fetched_at_est": "2026-11-13T09:49:36.557747-05:00",
+  "last_new_level_added_at_est": "2026-11-13T09:49:02-05:00",
   "todays_new_levels": [
     {
       "price": 7676.0,
@@ -11,36 +11,16 @@
       "added_at_est": "2026-11-13T07:58:05-05:00",
       "expires_at_est": "2026-11-13T15:58:05-05:00",
       "from_tweet_id": "2121226090501001684"
+    },
+    {
+      "price": 7573.0,
+      "side": "bear",
+      "added_at_est": "2026-11-13T09:49:02-05:00",
+      "expires_at_est": "2026-11-13T17:49:02-05:00",
+      "from_tweet_id": "2121254013425602747"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120889635484156303",
-      "timestamp_utc": "2026-11-12T14:41:07.000Z",
-      "timestamp_est": "2026-11-12T09:41:07-05:00",
-      "tweet_text": "As always, entry was given in newsletter. Just ride runner now, shut platform down https://t.co/77mMk4EyHl",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management instruction ('ride runner, shut platform down'); no price levels named at all."
-    },
-    {
-      "tweet_id": "2120891356256383305",
-      "timestamp_utc": "2026-11-12T14:47:58.000Z",
-      "timestamp_est": "2026-11-12T09:47:58-05:00",
-      "tweet_text": "@OnTheHooch I took the 93 Failed Breakdown. I usually just take the failed breakdown if I can rather than any reclaims or direct bids. Unless I miss a quality Failed Breakdown and theres lots of room to run, then I'll sometimes take a reclaim",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trade methodology (Failed Breakdown preference). No new price levels named or actionable triggers introduced."
-    },
-    {
-      "tweet_id": "2120891530403606585",
-      "timestamp_utc": "2026-11-12T14:48:39.000Z",
-      "timestamp_est": "2026-11-12T09:48:39-05:00",
-      "tweet_text": "@OnTheHooch Issue with the 84 is 93 and 7600 were just above so I'd rather wait in that case",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing 7484/7493/7600 \u2014 all morning-plan levels or passing mentions, no actionable naming language for a new level."
-    },
     {
       "tweet_id": "2120905210109235668",
       "timestamp_utc": "2026-11-12T15:43:01.000Z",
@@ -240,6 +220,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7676 appears as upside target but is not in morning plan; however, tweet frames it as pre-existing newsletter target ('Today's targets were'), not a newly named level\u2014reaffirmation of prior plan."
+    },
+    {
+      "tweet_id": "2121254013425602747",
+      "timestamp_utc": "2026-11-13T14:49:02.000Z",
+      "timestamp_est": "2026-11-13T09:49:02-05:00",
+      "tweet_text": "Finally a little vol spike/elevator down to work with in #ES_F and as readers know, I only pay attention when we go \"elevator down\" since that sets up my next long for the rip. Today's targets were 7636 (hit), 7650 (hit), 7676, 7687 next.\n\n7600=support. Watch sweeps. 7573 below https://t.co/bnZsizha2w",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7573.0
+      ],
+      "notes": "7573 named explicitly as a watch level below 7600; not in morning plan. 7600 and 7636/7650/7687 are all morning-plan reaffirmations."
     }
   ]
 }
