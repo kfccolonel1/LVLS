@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T16:20:32.224691+00:00",
-  "fetched_at_est": "2026-11-13T11:20:32.224709-05:00",
+  "fetched_at_utc": "2026-11-13T16:30:41.215615+00:00",
+  "fetched_at_est": "2026-11-13T11:30:41.215627-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120915049464442902",
-      "timestamp_utc": "2026-11-12T16:22:07.000Z",
-      "timestamp_est": "2026-11-12T11:22:07-05:00",
-      "tweet_text": "@tanay1210 Because we had volatility! This is basically what bear market trading is like. Tons of huge squeezes",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary about bear market volatility and squeezes. No price named, no actionable level, no naming language."
-    },
     {
       "tweet_id": "2120920304532742317",
       "timestamp_utc": "2026-11-12T16:43:00.000Z",
@@ -340,6 +331,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Hindsight reference to newsletter profit take levels (7558, 7572); no new actionable level named with qualifying language."
+    },
+    {
+      "tweet_id": "2121277508721230270",
+      "timestamp_utc": "2026-11-13T16:22:24.000Z",
+      "timestamp_est": "2026-11-13T11:22:24-05:00",
+      "tweet_text": "@tikemoner52 Same everytime, never changes",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned, purely conversational comment."
+    },
+    {
+      "tweet_id": "2121277811897843866",
+      "timestamp_utc": "2026-11-13T16:23:36.000Z",
+      "timestamp_est": "2026-11-13T11:23:36-05:00",
+      "tweet_text": "@jdgarber9 Doesn't really work that way. Targets are level to level per newsletter. I dont take the 35-40 level ( I wait for the high quality FBDs) but the 35-40 reclaim worked nicely and we got to 49, 58 targets for those who took it. Anyone who took it would just be in a 10% runner now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining newsletter methodology; references to 35-40, 49, 58 are shorthand for morning-plan levels (7435-40, 7449, 7458 range). No new actionable levels named."
     }
   ]
 }
