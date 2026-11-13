@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T12:49:01.315873+00:00",
-  "fetched_at_est": "2026-11-13T07:49:01.315879-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-11-13T12:59:06.554729+00:00",
+  "fetched_at_est": "2026-11-13T07:59:06.554734-05:00",
+  "last_new_level_added_at_est": "2026-11-13T07:58:05-05:00",
+  "todays_new_levels": [
+    {
+      "price": 7676.0,
+      "side": "bull",
+      "added_at_est": "2026-11-13T07:58:05-05:00",
+      "expires_at_est": "2026-11-13T15:58:05-05:00",
+      "from_tweet_id": "2121226090501001684"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2120864347375210583",
@@ -212,6 +220,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a one-word directional correction reply ('*bear') with no price, no actionable level, and no naming language."
+    },
+    {
+      "tweet_id": "2121226090501001684",
+      "timestamp_utc": "2026-11-13T12:58:05.000Z",
+      "timestamp_est": "2026-11-13T07:58:05-05:00",
+      "tweet_text": "Clean trading in #ES_F. Yesterday's long trigger was the 7600 Failed Breakdown (we sold to 7572 support, recovered, ripped. Targets were 7620, 7636, 7650. All hit. Overnight, we retested 7600\n\nPlan: Ride runner. 7620, 7600 (watch sweeps)=supports. 7636, 7650, 7676, 7687 next https://t.co/2kJJUkQUYp",
+      "added_bull_levels": [
+        7676.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7676 named as next resistance target not in morning plan; all other prices (7620,7600,7636,7650,7687) are morning-plan reaffirmations."
     }
   ]
 }
