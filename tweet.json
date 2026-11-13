@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T18:31:06.555695+00:00",
-  "fetched_at_est": "2026-11-13T13:31:06.555702-05:00",
+  "fetched_at_utc": "2026-11-13T19:01:10.802495+00:00",
+  "fetched_at_est": "2026-11-13T14:01:10.802501-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120953551438377162",
-      "timestamp_utc": "2026-11-12T18:55:06.000Z",
-      "timestamp_est": "2026-11-12T13:55:06-05:00",
-      "tweet_text": "@DartNQ Thats what day trading is. Very few people actually day trading. Most more interested in predicting, or macro analysis, or swing trading, or forecasting",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading styles; no price levels named or implied whatsoever."
-    },
     {
       "tweet_id": "2120955840182014429",
       "timestamp_utc": "2026-11-12T19:04:12.000Z",
