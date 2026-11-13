@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T15:30:11.706213+00:00",
-  "fetched_at_est": "2026-11-13T10:30:11.706225-05:00",
+  "fetched_at_utc": "2026-11-13T15:50:18.517541+00:00",
+  "fetched_at_est": "2026-11-13T10:50:18.517546-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120905210109235668",
-      "timestamp_utc": "2026-11-12T15:43:01.000Z",
-      "timestamp_est": "2026-11-12T10:43:01-05:00",
-      "tweet_text": "Strong follow through. Always the same drill: 1) Never short 2) Wait for an \"elevator down\" 3) Wait for #ES_F to flush and recover a low 4) Long. Repeat daily, stack points. Per newsletter/tweets, 7593/7600 trap was today's long.\n\nTargets were 7616-20 (hit), 7636, 7650, 7687-next https://t.co/lSAV6rLFDy",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7593/7600, 7616-20, 7636, 7650, 7687) are morning-plan levels or hindsight trade recap; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2120909294509895745",
       "timestamp_utc": "2026-11-12T15:59:15.000Z",
@@ -349,6 +340,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7535-40, 7572, 7509, 7494 are all reaffirmations or minor variants of morning plan levels (7537.5, 7565, 7509, 7492); no genuinely new major levels introduced."
+    },
+    {
+      "tweet_id": "2121268079539658753",
+      "timestamp_utc": "2026-11-13T15:44:56.000Z",
+      "timestamp_est": "2026-11-13T10:44:56-05:00",
+      "tweet_text": "@LilouTigrou I don't use candles, I have a specific system that use time + a number of points that I discuss in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trading methodology; no price levels named or actionable instructions given."
     }
   ]
 }
