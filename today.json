@@ -130,7 +130,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish, holding a long runner from the 7380 Failed Breakdown. He expects ES to stay in a 7572-7687 range before pushing up to test 7687-90. Above 7687-90 bulls regain full control and targets extend to 7739, 7751, 7772, then 7809. Best long setups are Failed Breakdowns at 7570-72 or 7494. The key pivot is 7687-90: above it bulls are firmly in charge; below it price is still filling out the recovery range.",
-  "fetched_at": "2026-11-13T02:00:18.571464+00:00",
-  "source_hash": "cb6917dcac7dbb10"
+  "notes": "Trader leans bullish, holding a long runner from 7380 and watching for ES to push up to 7687-90 where last Thursday's breakdown began. He sees 7572-7687 as a big chop range and expects price to work toward that 7687-90 backtest. Key pivot is 7687-90: above it bulls regain full control and targets extend to 7739, 7751, 7772, then 7809. Bears only get a look below 7494.",
+  "fetched_at": "2026-11-13T10:43:05.052652+00:00",
+  "source_hash": "f22ac96488ca082b"
 }
