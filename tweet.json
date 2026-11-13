@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T16:40:46.720743+00:00",
-  "fetched_at_est": "2026-11-13T11:40:46.720747-05:00",
+  "fetched_at_utc": "2026-11-13T16:50:49.404833+00:00",
+  "fetched_at_est": "2026-11-13T11:50:49.404837-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120920304532742317",
-      "timestamp_utc": "2026-11-12T16:43:00.000Z",
-      "timestamp_est": "2026-11-12T11:43:00-05:00",
-      "tweet_text": "@staffmarkmeek6 @Porterhous90889 Markets not logical! Always takes the most complex/trap-filled path from point A to B. Just need to take the setups",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply/market philosophy commentary. No prices named, no actionable levels, no naming language."
-    },
-    {
-      "tweet_id": "2120920686155743468",
-      "timestamp_utc": "2026-11-12T16:44:31.000Z",
-      "timestamp_est": "2026-11-12T11:44:31-05:00",
-      "tweet_text": "@tanay1210 Just a big sideways range, just not seeing anything on the chart now that suggests we're anything close to an actual bear market starting.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/opinion with no price levels named; no actionable entry, support, resistance, or trigger mentioned."
-    },
     {
       "tweet_id": "2120924978094743772",
       "timestamp_utc": "2026-11-12T17:01:34.000Z",
