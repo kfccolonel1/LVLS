@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T17:10:53.020739+00:00",
-  "fetched_at_est": "2026-11-13T12:10:53.020745-05:00",
+  "fetched_at_utc": "2026-11-13T17:51:01.222380+00:00",
+  "fetched_at_est": "2026-11-13T12:51:01.222387-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -331,6 +331,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply referencing 7272 as a speculative destination with no naming/actionable language; no new major level declared."
+    },
+    {
+      "tweet_id": "2121299041824698757",
+      "timestamp_utc": "2026-11-13T17:47:58.000Z",
+      "timestamp_est": "2026-11-13T12:47:58-05:00",
+      "tweet_text": "Same routine daily in #ES_F. Once per day we get an \"elevator down\". We got it. Then we get a 1) Failed Breakdown (high quality) or 2) Reclaim (low quality). We long, and up we go. 7535-40 had to reclaim. 7558 was 1st up, hit. 7572 next then 7600+ again.\n\nRide any runner https://t.co/QiOSq03rkn",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7535-40, 7558, 7572, 7600 are all observations of price action or reaffirmations of morning plan levels; no new actionable level named for the first time."
     }
   ]
 }
