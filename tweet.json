@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T17:51:01.222380+00:00",
-  "fetched_at_est": "2026-11-13T12:51:01.222387-05:00",
+  "fetched_at_utc": "2026-11-13T18:31:06.555695+00:00",
+  "fetched_at_est": "2026-11-13T13:31:06.555702-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -35,33 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120945489768276160",
-      "timestamp_utc": "2026-11-12T18:23:04.000Z",
-      "timestamp_est": "2026-11-12T13:23:04-05:00",
-      "tweet_text": "Nothing left to do today in #ES_F. Same drill each day: 1) Wait for vertical drop 2) Wait for Failed Breakdown 3) Get long. Rinse and repeat. 7593/7600 reclaim was today's long. 7616-20, 7636, 7650 were targets. All done.\n\nNow wait for another elevator down. 7687-90 still above https://t.co/eAEs9j39GR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7593/7600, 7616-20, 7636, 7650, 7687-90) are morning-plan levels or observations of completed trades \u2014 no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2120947151089877406",
-      "timestamp_utc": "2026-11-12T18:29:40.000Z",
-      "timestamp_est": "2026-11-12T13:29:40-05:00",
-      "tweet_text": "@creditriskVP I always have a runner unless we take out the prior days low. I'll hold this one unless we lose tdays low",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management reply about holding a runner; no price named, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2120947397992075495",
-      "timestamp_utc": "2026-11-12T18:30:39.000Z",
-      "timestamp_est": "2026-11-12T13:30:39-05:00",
-      "tweet_text": "@MeggoSheehan Anything can happen but if we continue to base out below 87 Its likely we just rip through. The overall structure looks very bullish to me",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing '87' (7787?) in passing with no actionable naming language; pure structural commentary with no explicit entry/watch/trigger designation."
-    },
     {
       "tweet_id": "2120953551438377162",
       "timestamp_utc": "2026-11-12T18:55:06.000Z",
