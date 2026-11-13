@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-13T19:01:10.802495+00:00",
-  "fetched_at_est": "2026-11-13T14:01:10.802501-05:00",
+  "fetched_at_utc": "2026-11-13T19:11:17.820421+00:00",
+  "fetched_at_est": "2026-11-13T14:11:17.820432-05:00",
   "last_new_level_added_at_est": "2026-11-13T10:10:16-05:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2120955840182014429",
-      "timestamp_utc": "2026-11-12T19:04:12.000Z",
-      "timestamp_est": "2026-11-12T14:04:12-05:00",
-      "tweet_text": "@RJabacus Not even close to a bear market. Likely mid stages of a very healthy bull market",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/opinion with no actionable price levels named whatsoever."
-    },
-    {
-      "tweet_id": "2120955932901507562",
-      "timestamp_utc": "2026-11-12T19:04:34.000Z",
-      "timestamp_est": "2026-11-12T14:04:34-05:00",
-      "tweet_text": "@RJabacus (we are only 3% away from All Time highs!)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply noting distance from ATH \u2014 no price named, no actionable level, no naming language used."
-    },
     {
       "tweet_id": "2120966895700759027",
       "timestamp_utc": "2026-11-12T19:48:08.000Z",
@@ -304,6 +286,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7535-40, 7558, 7572, 7600 are all observations of price action or reaffirmations of morning plan levels; no new actionable level named for the first time."
+    },
+    {
+      "tweet_id": "2121318982648999950",
+      "timestamp_utc": "2026-11-13T19:07:12.000Z",
+      "timestamp_est": "2026-11-13T14:07:12-05:00",
+      "tweet_text": "We arrived at 7572 target. Don't overcomplicate #ES_F trading. Once per day we go \"elevator down\" (vertical sell knifing every support). Then we go Failed Breakdown/reclaim, get long, and rip. 7535-40 reclaim was long given. 7572 target. Hit. 7600 next, then 7687.\n\nRide runner https://t.co/8JRsavxXnN",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7572, 7600, 7687 are all morning-plan levels or reaffirmations; 7535-40 reclaim is trade management/hindsight. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2121319118825796027",
+      "timestamp_utc": "2026-11-13T19:07:44.000Z",
+      "timestamp_est": "2026-11-13T14:07:44-05:00",
+      "tweet_text": "Note: As readers know, approximately once every 3 or so weeks, the \"elevator down\" lasts a full session. I call these Mode 1 days. On those days, we rip in the evening most often",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational commentary about 'Mode 1 days' pattern; no price levels named or actionable triggers of any kind."
     }
   ]
 }
