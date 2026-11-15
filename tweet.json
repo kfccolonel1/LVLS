@@ -1,19 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-15T14:01:14.163373+00:00",
-  "fetched_at_est": "2026-11-15T09:01:14.163380-05:00",
+  "fetched_at_utc": "2026-11-15T15:25:47.286223+00:00",
+  "fetched_at_est": "2026-11-15T10:25:47.286227-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
-  "updates": [
-    {
-      "tweet_id": "2121624502975050231",
-      "timestamp_utc": "2026-11-14T15:21:14.000Z",
-      "timestamp_est": "2026-11-14T10:21:14-05:00",
-      "tweet_text": "@tradingauthori1 April was much deeper of a downtrend channel (and remember in ES, the more red, the more bullish). We are in a broader megaphone here that is shallower but a trip to megaphone resistance in the coming many months to fill out would make sense",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure macro commentary on trend channels and megaphone pattern; no specific actionable price named or labeled as a level."
-    }
-  ]
+  "updates": []
 }
