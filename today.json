@@ -109,7 +109,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader leans bullish for Monday. After a 300+ point rally from the Nov 5 low, ES has pulled back and broken below its 7572-7672 consolidation range. He expects ES to recover 7572 (the key pivot), rebuild that range, then push up toward 7690, 7712, 7753, and 7809. Above 7572 bulls are in control; below 7494 the bear case opens. He holds a small long runner and will add size on Failed Breakdown recoveries of support levels.",
-  "fetched_at": "2026-11-14T02:00:21.090910+00:00",
-  "source_hash": "4f0bcdfe589cf2a0"
+  "notes": "Trader leans bullish: after a 300+ pt rally from the Nov 5 low, ES pulled back and broke the 7572-7672 consolidation range on Friday. He expects ES to recover 7572 (the key pivot), rebuild, then push toward 7690, 7712, 7753, and 7809. Above 7572 bulls are in control; below 7494 the bear case opens. He holds a small long runner and will add on Failed Breakdown setups at support levels.",
+  "fetched_at": "2026-11-15T17:15:57.252840+00:00",
+  "source_hash": "7001b0cc09530b4b"
 }
