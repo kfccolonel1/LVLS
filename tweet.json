@@ -1,9 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-15T15:25:47.286223+00:00",
-  "fetched_at_est": "2026-11-15T10:25:47.286227-05:00",
+  "fetched_at_utc": "2026-11-15T20:42:26.805040+00:00",
+  "fetched_at_est": "2026-11-15T15:42:26.805046-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
-  "updates": []
+  "updates": [
+    {
+      "tweet_id": "2122066660182151502",
+      "timestamp_utc": "2026-11-15T20:38:12.000Z",
+      "timestamp_est": "2026-11-15T15:38:12-05:00",
+      "tweet_text": "Biggest difference I've noticed between green &amp; red traders is red traders obsess about what price will do: \"Is the top in?\", \"will we rally to X then sell to Y?\" Nobody knows. Green traders react to what price is doing. Plan all scenarios &amp; trade what you see, not what you think",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trading philosophy/motivational commentary. No prices named, no actionable levels, no naming language whatsoever."
+    }
+  ]
 }
