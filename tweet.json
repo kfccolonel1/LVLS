@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-15T05:03:04.605639+00:00",
-  "fetched_at_est": "2026-11-15T00:03:04.605649-05:00",
+  "fetched_at_utc": "2026-11-15T14:01:14.163373+00:00",
+  "fetched_at_est": "2026-11-15T09:01:14.163380-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2121602835984830822",
-      "timestamp_utc": "2026-11-14T13:55:08.000Z",
-      "timestamp_est": "2026-11-14T08:55:08-05:00",
-      "tweet_text": "Big Picture View #ES_F: Since Aug 5th the core pattern is a big megaphone. We held support two weeks ago at 7325. Resistance at 8000+ Now bulls have work to do\n\nPlan: 7572 must recover to see 7600, 7675. Above there, ES can rip to 7809, then ATHs. Entries in newsletter https://t.co/DvAHfZnYV1",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7572, 7600, 7675, 7809) are either morning-plan levels or casual big-picture references (7325, 8000+); no new actionable levels introduced."
-    },
     {
       "tweet_id": "2121624502975050231",
       "timestamp_utc": "2026-11-14T15:21:14.000Z",
