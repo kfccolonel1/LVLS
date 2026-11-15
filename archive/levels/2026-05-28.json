@@ -1,0 +1,129 @@
+{
+  "session_date": "2026-05-28",
+  "daily_pivot": 7530,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7516,
+    7485,
+    7458,
+    7438,
+    7415,
+    7410
+  ],
+  "bull_levels": [
+    {
+      "price": 7549.0,
+      "major": true
+    },
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7579.0,
+      "major": true
+    },
+    {
+      "price": 7598.0,
+      "major": true
+    },
+    {
+      "price": 7617.0,
+      "major": true
+    },
+    {
+      "price": 7638.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7682.0,
+      "major": true
+    },
+    {
+      "price": 7712.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7530.0,
+      "major": true
+    },
+    {
+      "price": 7516.0,
+      "major": true
+    },
+    {
+      "price": 7502.0,
+      "major": true
+    },
+    {
+      "price": 7485.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7438.0,
+      "major": true
+    },
+    {
+      "price": 7415.0,
+      "major": true
+    },
+    {
+      "price": 7394.0,
+      "major": true
+    },
+    {
+      "price": 7377.0,
+      "major": true
+    },
+    {
+      "price": 7357.0,
+      "major": true
+    },
+    {
+      "price": 7318.0,
+      "major": true
+    },
+    {
+      "price": 7296.0,
+      "major": true
+    },
+    {
+      "price": 7264.0,
+      "major": true
+    },
+    {
+      "price": 7257.0,
+      "major": true
+    },
+    {
+      "price": 7232.0,
+      "major": true
+    },
+    {
+      "price": 7194.0,
+      "major": true
+    },
+    {
+      "price": 7160.0,
+      "major": true
+    },
+    {
+      "price": 7136.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader sees ES stuck in a range between 7516 and 7565, with 7530 as the key middle pivot. He leans bullish: expects one more dip (possibly a trap below 7516), then a breakout higher toward 7579, 7598, and 7617. Above 7530 bulls are in control; below 7516 the range breaks down and selling pressure increases. He will wait for a flush-and-recover setup before buying, not chase.",
+  "fetched_at": "2026-05-28T10:38:28.405245+00:00"
+}

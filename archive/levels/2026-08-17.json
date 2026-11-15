@@ -1,0 +1,137 @@
+{
+  "session_date": "2026-08-17",
+  "daily_pivot": 7794,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7794,
+    7756,
+    7749,
+    7738,
+    7725,
+    7695
+  ],
+  "bull_levels": [
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7854.0,
+      "major": true
+    },
+    {
+      "price": 7877.0,
+      "major": true
+    },
+    {
+      "price": 7903.0,
+      "major": true
+    },
+    {
+      "price": 7947.0,
+      "major": true
+    },
+    {
+      "price": 7974.0,
+      "major": true
+    },
+    {
+      "price": 7985.0,
+      "major": true
+    },
+    {
+      "price": 8013.0,
+      "major": true
+    },
+    {
+      "price": 8048.0,
+      "major": true
+    },
+    {
+      "price": 8076.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7794.0,
+      "major": true
+    },
+    {
+      "price": 7783.0,
+      "major": true
+    },
+    {
+      "price": 7767.0,
+      "major": true
+    },
+    {
+      "price": 7756.0,
+      "major": true
+    },
+    {
+      "price": 7749.0,
+      "major": true
+    },
+    {
+      "price": 7725.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7674.0,
+      "major": true
+    },
+    {
+      "price": 7650.0,
+      "major": true
+    },
+    {
+      "price": 7629.0,
+      "major": true
+    },
+    {
+      "price": 7603.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7537.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7473.0,
+      "major": true
+    },
+    {
+      "price": 7446.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    },
+    {
+      "price": 7393.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "After a 400+ point rally, ES built a bull flag (7695-7794) and broke out Friday. Trader is holding a long runner from the July 29 7325 Failed Breakdown. For Monday, he leans bullish and will look to buy Failed Breakdowns at 7794 or 7756 (quick traps allowed). Upside targets are 7835, 7854, 7903. The pivot is 7794: bulls favor continuation above it; below 7726 opens a potential breakdown.",
+  "fetched_at": "2026-08-17T10:38:08.152464+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "session_date": "2026-08-05",
+  "daily_pivot": 7516.0,
+  "regime_hint": "C1",
+  "significant_lows": [
+    7632.0,
+    7649.0,
+    7549.0,
+    7517.0,
+    7499.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7783.0,
+      "major": true
+    },
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7826.0,
+      "major": true
+    },
+    {
+      "price": 7835.0,
+      "major": true
+    },
+    {
+      "price": 7855.0,
+      "major": true
+    },
+    {
+      "price": 7875.0,
+      "major": true
+    },
+    {
+      "price": 7894.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7763.0,
+      "major": true
+    },
+    {
+      "price": 7742.0,
+      "major": true
+    },
+    {
+      "price": 7733.0,
+      "major": true
+    },
+    {
+      "price": 7707.0,
+      "major": true
+    },
+    {
+      "price": 7673.0,
+      "major": true
+    },
+    {
+      "price": 7650.0,
+      "major": true
+    },
+    {
+      "price": 7637.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7583.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
+      "major": true
+    },
+    {
+      "price": 7549.0,
+      "major": true
+    },
+    {
+      "price": 7517.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES is parabolic at all-time highs after a 340+ point rally from last Wednesday's FOMC failed breakdown at 7325. Trader is riding a long runner and sees nothing to do on the long side until price pulls back significantly. He leans bullish toward 7803, 7826, 7855. The key pivot is 7516: above it, bulls are fully in control and any dip is just a breakout backtest; below it, the bullish thesis weakens materially.",
+  "fetched_at": "2026-08-05T05:00:20.272946+00:00"
+}

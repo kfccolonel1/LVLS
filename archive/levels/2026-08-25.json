@@ -1,0 +1,116 @@
+{
+  "session_date": "2026-08-25",
+  "daily_pivot": 7659,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7659,
+    7649,
+    7639,
+    7632,
+    7680
+  ],
+  "bull_levels": [
+    {
+      "price": 7718.0,
+      "major": true
+    },
+    {
+      "price": 7746.0,
+      "major": true
+    },
+    {
+      "price": 7758.0,
+      "major": true
+    },
+    {
+      "price": 7771.0,
+      "major": true
+    },
+    {
+      "price": 7795.5,
+      "major": true
+    },
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7828.0,
+      "major": true
+    },
+    {
+      "price": 7849.0,
+      "major": true
+    },
+    {
+      "price": 7865.0,
+      "major": true
+    },
+    {
+      "price": 7908.0,
+      "major": true
+    },
+    {
+      "price": 7917.0,
+      "major": true
+    },
+    {
+      "price": 7941.0,
+      "major": true
+    },
+    {
+      "price": 7967.0,
+      "major": true
+    },
+    {
+      "price": 8007.0,
+      "major": true
+    },
+    {
+      "price": 8040.0,
+      "major": true
+    },
+    {
+      "price": 8079.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7680.0,
+      "major": true
+    },
+    {
+      "price": 7659.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7639.0,
+      "major": true
+    },
+    {
+      "price": 7612.0,
+      "major": true
+    },
+    {
+      "price": 7568.0,
+      "major": true
+    },
+    {
+      "price": 7538.0,
+      "major": true
+    },
+    {
+      "price": 7517.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish but cautious. Plan is to watch 7659 as the key floor \u2014 if ES holds there (or dips briefly below and snaps back), recoveries above 7680 are the buy trigger, targeting 7698, then 7718, then 7746, and ultimately 7797. Below 7659 flips the session bearish. The pivot is 7659: bulls are in charge above it, bears take over below it. No trades are forced \u2014 waiting for price to come to planned levels first.",
+  "fetched_at": "2026-08-25T05:00:19.396974+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "session_date": "2026-06-18",
+  "daily_pivot": 7578.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7514.0,
+    7535.0,
+    7482.0,
+    7463.0,
+    7429.0,
+    7310.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7558.0,
+      "major": true
+    },
+    {
+      "price": 7578.0,
+      "major": true
+    },
+    {
+      "price": 7590.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7620.0,
+      "major": true
+    },
+    {
+      "price": 7635.0,
+      "major": true
+    },
+    {
+      "price": 7650.0,
+      "major": true
+    },
+    {
+      "price": 7669.0,
+      "major": true
+    },
+    {
+      "price": 7683.0,
+      "major": true
+    },
+    {
+      "price": 7723.0,
+      "major": true
+    },
+    {
+      "price": 7768.0,
+      "major": true
+    },
+    {
+      "price": 7788.0,
+      "major": true
+    },
+    {
+      "price": 7815.0,
+      "major": true
+    },
+    {
+      "price": 7840.0,
+      "major": true
+    },
+    {
+      "price": 7864.0,
+      "major": true
+    },
+    {
+      "price": 7902.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7535.0,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7482.0,
+      "major": true
+    },
+    {
+      "price": 7463.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7380.5,
+      "major": true
+    },
+    {
+      "price": 7335.5,
+      "major": true
+    },
+    {
+      "price": 7295.0,
+      "major": true
+    },
+    {
+      "price": 7278.0,
+      "major": true
+    },
+    {
+      "price": 7245.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish but waits for ES to reclaim 7578 (yesterday's breakdown level) before adding. He expects a dip-then-rally path: bounce toward 7578, possibly dip, then push to 7590 and 7611, then higher toward 7635 and 7669. The daily pivot is 7578: above it bulls are back in control; below 7509/7502 the bear breakdown case opens. No predictions \u2014 he reacts to Failed Breakdowns at planned levels only.",
+  "fetched_at": "2026-06-19T05:00:22.749928+00:00"
+}

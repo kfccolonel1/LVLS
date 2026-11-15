@@ -1,0 +1,102 @@
+{
+  "session_date": "2026-10-01",
+  "daily_pivot": 7716.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7716.0,
+    7720.0,
+    7707.0,
+    7681.0,
+    7674.0,
+    7655.0,
+    7616.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7795.0,
+      "major": true
+    },
+    {
+      "price": 7822.0,
+      "major": true
+    },
+    {
+      "price": 7845.0,
+      "major": true
+    },
+    {
+      "price": 7867.0,
+      "major": true
+    },
+    {
+      "price": 7894.0,
+      "major": true
+    },
+    {
+      "price": 7912.0,
+      "major": true
+    },
+    {
+      "price": 7923.0,
+      "major": true
+    },
+    {
+      "price": 7958.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7748.0,
+      "major": true
+    },
+    {
+      "price": 7736.0,
+      "major": true
+    },
+    {
+      "price": 7725.0,
+      "major": true
+    },
+    {
+      "price": 7716.0,
+      "major": true
+    },
+    {
+      "price": 7681.0,
+      "major": true
+    },
+    {
+      "price": 7655.0,
+      "major": true
+    },
+    {
+      "price": 7626.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7543.0,
+      "major": true
+    },
+    {
+      "price": 7497.5,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish, holding a runner from Tuesday's 7716 failed-breakdown long. The plan is to wait for dips and buy failed breakdowns at key supports \u2014 ideally 7736-7748 area \u2014 targeting 7795 first, then 7822 and ultimately 7867. The key pivot is 7716: above it bulls are in control and a push higher is expected; below it the trend turns bearish and breakdown shorts become possible.",
+  "fetched_at": "2026-10-01T01:00:21.221144+00:00"
+}

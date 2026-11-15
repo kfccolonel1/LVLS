@@ -1,0 +1,132 @@
+{
+  "session_date": "2026-06-30",
+  "daily_pivot": 7423.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7423.0,
+    7409.0,
+    7369.0,
+    7368.0,
+    7354.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7522.0,
+      "major": true
+    },
+    {
+      "price": 7530.0,
+      "major": true
+    },
+    {
+      "price": 7568.0,
+      "major": true
+    },
+    {
+      "price": 7588.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7636.0,
+      "major": true
+    },
+    {
+      "price": 7652.5,
+      "major": true
+    },
+    {
+      "price": 7667.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7722.0,
+      "major": true
+    },
+    {
+      "price": 7747.0,
+      "major": true
+    },
+    {
+      "price": 7792.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7459.0,
+      "major": true
+    },
+    {
+      "price": 7423.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7385.0,
+      "major": true
+    },
+    {
+      "price": 7373.0,
+      "major": true
+    },
+    {
+      "price": 7363.0,
+      "major": true
+    },
+    {
+      "price": 7353.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7304.0,
+      "major": true
+    },
+    {
+      "price": 7278.0,
+      "major": true
+    },
+    {
+      "price": 7245.0,
+      "major": true
+    },
+    {
+      "price": 7235.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7210.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans mildly bullish: ES spent the past week in a range from 7368 to 7492 and today filled that range to the upside. He expects a bit more range work, then a push up to 7530 and potentially 7590. He holds a small long runner from Sunday's 7421 trade. The key pivot is 7423 \u2014 above it bulls are in control and he watches for dips to buy; below 7369 the bear case opens and a breakdown short becomes possible.",
+  "fetched_at": "2026-06-30T05:00:17.750799+00:00"
+}

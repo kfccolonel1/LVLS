@@ -1,0 +1,116 @@
+{
+  "session_date": "2026-10-12",
+  "daily_pivot": 7803.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7803.0,
+    7782.0,
+    7765.0,
+    7737.0,
+    7707.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7857.0,
+      "major": true
+    },
+    {
+      "price": 7872.0,
+      "major": true
+    },
+    {
+      "price": 7884.0,
+      "major": true
+    },
+    {
+      "price": 7914.0,
+      "major": true
+    },
+    {
+      "price": 7935.0,
+      "major": true
+    },
+    {
+      "price": 7953.0,
+      "major": true
+    },
+    {
+      "price": 7985.0,
+      "major": true
+    },
+    {
+      "price": 7999.0,
+      "major": true
+    },
+    {
+      "price": 8005.0,
+      "major": true
+    },
+    {
+      "price": 8039.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7853.0,
+      "major": true
+    },
+    {
+      "price": 7840.0,
+      "major": true
+    },
+    {
+      "price": 7821.0,
+      "major": true
+    },
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7765.0,
+      "major": true
+    },
+    {
+      "price": 7742.0,
+      "major": true
+    },
+    {
+      "price": 7727.0,
+      "major": true
+    },
+    {
+      "price": 7707.0,
+      "major": true
+    },
+    {
+      "price": 7686.0,
+      "major": true
+    },
+    {
+      "price": 7672.0,
+      "major": true
+    },
+    {
+      "price": 7657.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7585.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is leaning bullish, holding a runner from Friday's failed-breakdown long at 7803. ES has been rangebound between roughly 7822 and 7858 all week. The plan is to wait for dips into key supports (7840, 7822, 7803, 7782) and look for failed-breakdown long setups at each. The daily pivot is 7803: above it bulls are in control targeting 7872, 7884, then a retest of all-time highs near 7904+; below it the trend turns bearish.",
+  "fetched_at": "2026-10-11T11:35:57.932667+00:00"
+}

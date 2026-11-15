@@ -1,0 +1,118 @@
+{
+  "session_date": "2026-08-28",
+  "daily_pivot": 7714.0,
+  "regime_hint": "C3",
+  "significant_lows": [
+    7714.0,
+    7671.0,
+    7658.0,
+    7649.0,
+    7637.0,
+    7627.0,
+    7612.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7758.0,
+      "major": true
+    },
+    {
+      "price": 7771.0,
+      "major": true
+    },
+    {
+      "price": 7797.0,
+      "major": true
+    },
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7836.0,
+      "major": true
+    },
+    {
+      "price": 7862.0,
+      "major": true
+    },
+    {
+      "price": 7874.0,
+      "major": true
+    },
+    {
+      "price": 7889.0,
+      "major": true
+    },
+    {
+      "price": 7930.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7714.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7671.0,
+      "major": true
+    },
+    {
+      "price": 7658.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7612.0,
+      "major": true
+    },
+    {
+      "price": 7592.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    },
+    {
+      "price": 7516.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7444.0,
+      "major": true
+    },
+    {
+      "price": 7428.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish after Nvidia earnings broke ES out of the 7659-7714 range. He plans to buy dips, focusing on failed breakdowns at key supports below. The key pivot is 7714: above it, bulls stay in control and the targets are 7758, 7771, and 7797; below 7659, bears take over and a breakdown short becomes possible. He holds a runner from earlier in the week and sees few quality new entries from current levels.",
+  "fetched_at": "2026-08-28T15:05:07.036705+00:00"
+}

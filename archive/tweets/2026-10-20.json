@@ -1,0 +1,59 @@
+[
+  {
+    "tweet_id": "2112594770665013378",
+    "timestamp_est": "2026-10-20T13:20:18-04:00",
+    "timestamp_utc": "2026-10-20T17:20:18.000Z",
+    "tweet_text": "@tom_martin321 Comment doesn't even make sense. The levels are just profit takes. There are a tiny handful of actual triggers each day. Today I gave 2 here and both played out.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet defending methodology; no price levels named, no actionable triggers or supports/resistances mentioned."
+  },
+  {
+    "tweet_id": "2112595245435097477",
+    "timestamp_est": "2026-10-20T13:22:11-04:00",
+    "timestamp_utc": "2026-10-20T17:22:11.000Z",
+    "tweet_text": "Now its chop in #ES_F. Most days are 95% chop and 5% action. Trade the 5%, sit in runners the rest. Today 7707 was support given 8am + newsletter. Held. Targets were 7736, 7755/66. Both hit. 7755/66 is now support.\n\n7773, 7798, 7835 remain next on the upside from here. https://t.co/Ke2nZixRir",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7755/66 support is hindsight reaffirmation; 7773 and 7798 not in morning plan but presented as directional list recap, not explicit actionable naming language. 7835 is a morning plan level."
+  },
+  {
+    "tweet_id": "2112617268844581339",
+    "timestamp_est": "2026-10-20T14:49:42-04:00",
+    "timestamp_utc": "2026-10-20T18:49:42.000Z",
+    "tweet_text": "Nothing to do now in #ES_F. As posted, most days are 95% sitting on hands, 5% trading. We trade when vol hits, which it did this morning. 7707 was today's support. It held. Targets were 7736 (hit), 7755/66 (hit, cleared). Now support.\n\nRide runner. 7773, 7798,then 7835 are next https://t.co/PJlBGTHqgU",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7707, 7736, 7755/66, 7773, 7798, 7835) are either morning-plan levels, hit targets, or directional list reaffirmations. No new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2112618043343782175",
+    "timestamp_est": "2026-10-20T14:52:46-04:00",
+    "timestamp_utc": "2026-10-20T18:52:46.000Z",
+    "tweet_text": "@tom_martin321 Not how any of this works at all. The levels aren't meant to be traded - they are profit takes for existing trades.  I specify only a tiny handful per day as actual trigger levels for Failed Breakdowns/reclaims/direct bids. We had 2 today, both worked perfectly.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Explanatory reply to another user about how levels work; no specific price named, no actionable trigger introduced."
+  },
+  {
+    "tweet_id": "2112618194716295515",
+    "timestamp_est": "2026-10-20T14:53:22-04:00",
+    "timestamp_utc": "2026-10-20T18:53:22.000Z",
+    "tweet_text": "@Limor711 Worked nicely!",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price levels named; purely conversational acknowledgment."
+  },
+  {
+    "tweet_id": "2112626238829613256",
+    "timestamp_est": "2026-10-20T15:25:20-04:00",
+    "timestamp_utc": "2026-10-20T19:25:20.000Z",
+    "tweet_text": "CLosing update #ES_F: Newsletter was just sent with next entries. 7755/7736 are first overnight supports. 7835 remains a magnet for the next leg up",
+    "added_bull_levels": [],
+    "added_bear_levels": [
+      7755.0,
+      7736.0
+    ],
+    "notes": "7755 and 7736 named explicitly as 'first overnight supports' \u2014 new actionable bear levels not in morning plan. 7835 is a morning plan reaffirmation, ignored."
+  }
+]

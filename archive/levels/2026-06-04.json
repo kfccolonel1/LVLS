@@ -1,0 +1,132 @@
+{
+  "session_date": "2026-06-04",
+  "daily_pivot": 7576.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7563.0,
+    7573.0,
+    7527.0,
+    7518.0,
+    7558.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7587.0,
+      "major": true
+    },
+    {
+      "price": 7604.0,
+      "major": true
+    },
+    {
+      "price": 7620.0,
+      "major": true
+    },
+    {
+      "price": 7632.0,
+      "major": true
+    },
+    {
+      "price": 7665.0,
+      "major": true
+    },
+    {
+      "price": 7692.0,
+      "major": true
+    },
+    {
+      "price": 7697.0,
+      "major": true
+    },
+    {
+      "price": 7721.0,
+      "major": true
+    },
+    {
+      "price": 7731.0,
+      "major": true
+    },
+    {
+      "price": 7772.0,
+      "major": true
+    },
+    {
+      "price": 7785.0,
+      "major": true
+    },
+    {
+      "price": 7805.0,
+      "major": true
+    },
+    {
+      "price": 7829.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7574.5,
+      "major": true
+    },
+    {
+      "price": 7558.0,
+      "major": true
+    },
+    {
+      "price": 7537.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7500.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7439.0,
+      "major": true
+    },
+    {
+      "price": 7413.5,
+      "major": true
+    },
+    {
+      "price": 7394.0,
+      "major": true
+    },
+    {
+      "price": 7377.0,
+      "major": true
+    },
+    {
+      "price": 7355.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7310.0,
+      "major": true
+    },
+    {
+      "price": 7295.0,
+      "major": true
+    },
+    {
+      "price": 7282.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES has been range-bound all week between ~7574 and ~7620. The key pivot is 7575: above it bulls target 7604, then 7620, then 7632 and 7665. Below 7558 the outlook turns bearish. The trader leans long, waiting for a sharp dip and recovery of a key low (failed breakdown) before entering, then taking profits level by level. No major economic events scheduled.",
+  "fetched_at": "2026-06-04T05:00:19.456300+00:00"
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "tweet_id": "2074462590428684468",
+    "timestamp_est": "2026-07-07T07:56:37-04:00",
+    "timestamp_utc": "2026-07-07T11:56:37.000Z",
+    "tweet_text": "Low volatility summer trading continues in #ES_F. No good entries since Thursday's late day 7521 Failed Breakdown. Yesterday's targets were 7578, 7588, 7597, all hit\n\nPlan today: 7565=weak support (held), 7540 below (watch traps). 7587, 7597, 7611+ next slate of targets https://t.co/txHRYJDpxh",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7521, 7578, 7588, 7597, 7565, 7540, 7587, 7611) are either morning-plan levels, hindsight references, or reaffirmations. No new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2074462887301550596",
+    "timestamp_est": "2026-07-07T07:57:48-04:00",
+    "timestamp_utc": "2026-07-07T11:57:48.000Z",
+    "tweet_text": "@RyanMorse33 The levels or entries don't change regardless what time I send it especially on a low volatility day. Doesn't matter if I send it at 1pm, 2pm, 3pm, 5pm. Entries don't change",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No prices mentioned at all; tweet is a conversational reply about timing of level publication, not naming any actionable level."
+  },
+  {
+    "tweet_id": "2074463610592526570",
+    "timestamp_est": "2026-07-07T08:00:41-04:00",
+    "timestamp_utc": "2026-07-07T12:00:41.000Z",
+    "tweet_text": "@RyanMorse33 Yesterday for example the key entries were at 65, then the 51/40 failed breakdowns. We did not hit 65 until 1am, so ending it at 3pm rather than 4pm literally makes 0 difference. I could've sent it at 10am and nothing would have changed",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply to user about trading hours/timing. Mentions 65, 51, 40 only as shorthand historical references with no actionable naming language; no new levels."
+  },
+  {
+    "tweet_id": "2074472780205093122",
+    "timestamp_est": "2026-07-07T08:37:07-04:00",
+    "timestamp_utc": "2026-07-07T12:37:07.000Z",
+    "tweet_text": "@Tiquisito I wouldnt personally, too small and too close to top of structure. 53 is though",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply to a user; '53' is an informal reference, no explicit price named with actionable naming language, and likely refers to morning-plan level 7253 or similar."
+  },
+  {
+    "tweet_id": "2074483105272864778",
+    "timestamp_est": "2026-07-07T09:18:08-04:00",
+    "timestamp_utc": "2026-07-07T13:18:08.000Z",
+    "tweet_text": "No increase in volatility yet and this is peak summer trading in #ES_F. Its what runners are for. Traders need volatility. 7521 Failed Breakdown Thursday was last entry. Yesterday's target was 7597 (hit).\n\n7565=support (weak), 7540 below. 7588, 7597, 7611+ are today's targets https://t.co/7HnlMTZA1y",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7521, 7597, 7565, 7540, 7588, 7597, 7611) are either morning-plan levels or reaffirmations/observations; no new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2074491443297615998",
+    "timestamp_est": "2026-07-07T09:51:16-04:00",
+    "timestamp_utc": "2026-07-07T13:51:16.000Z",
+    "tweet_text": "@NYJets2017 For sure! I always tell people that even though I only long and never short, my strategy performs much  better in downtrends than uptrends. If today were a very red day would've likely already had 3 trades",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply about strategy/trading style; no price levels named or actionable signals given."
+  },
+  {
+    "tweet_id": "2074496087524516345",
+    "timestamp_est": "2026-07-07T10:09:44-04:00",
+    "timestamp_utc": "2026-07-07T14:09:44.000Z",
+    "tweet_text": "Tiny volatility pickup in #ES_F finally but need much more still. 7521 Failed Breakdown Thursday was last entry and we got to 7597 target yesterday.\n\n7565 was 1st support today (weak), flushed now. Watch reoveries. 7553, 7540 below (watch traps). 7588, 7598, 7611+ remain targets https://t.co/JfdU08dzLQ",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7553 is the only non-morning-plan price mentioned, but it appears in a directional list ('7553, 7540 below') as an observation, not named with actionable language."
+  },
+  {
+    "tweet_id": "2074497722657251745",
+    "timestamp_est": "2026-07-07T10:16:14-04:00",
+    "timestamp_utc": "2026-07-07T14:16:14.000Z",
+    "tweet_text": "@RedPill51762365 That not what it says at all",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price mentioned and no actionable level of any kind."
+  },
+  {
+    "tweet_id": "2074504352950051291",
+    "timestamp_est": "2026-07-07T10:42:34-04:00",
+    "timestamp_utc": "2026-07-07T14:42:34.000Z",
+    "tweet_text": "Finally volatility in #ES_F and now we can stalk new entries for the first time since Thursday's 7521 Failed Breakdown. Bulls need to recover 7540 now with momentum and force to see 7553, 7565+\n\n7521, 7511 (watch traps), 7504 are below now https://t.co/M4w4PmKZpH",
+    "added_bull_levels": [
+      7553.0
+    ],
+    "added_bear_levels": [
+      7504.0
+    ],
+    "notes": "7553 named as new bull target ('to see 7553'); 7504 named as new bear support below. 7540/7565/7521/7511 are morning-plan levels, not new."
+  },
+  {
+    "tweet_id": "2074509242774520187",
+    "timestamp_est": "2026-07-07T11:02:00-04:00",
+    "timestamp_utc": "2026-07-07T15:02:00.000Z",
+    "tweet_text": "@tradivate Just needs to meet the non-acceptance protocol requirement in newsletter. If we are pushing through 45 hard and holding above for several minutes, we've usually got momentum. We'll see if we can trigger",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No new actionable price level named; '45' is a casual shorthand reference to an existing morning-plan level (7245/7345?), framed as momentum observation, not a new named level."
+  },
+  {
+    "tweet_id": "2074511309421322426",
+    "timestamp_est": "2026-07-07T11:10:13-04:00",
+    "timestamp_utc": "2026-07-07T15:10:13.000Z",
+    "tweet_text": "@artbrokerr Please read the instructions in the newsletter. There has not yet been a Failed Breakdown of 7540 (Sunday low) via any my criteria",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply to user explaining FBD criteria not met for 7540 (morning plan level). No new actionable level named, just clarification of existing level status."
+  },
+  {
+    "tweet_id": "2074511437913878893",
+    "timestamp_est": "2026-07-07T11:10:44-04:00",
+    "timestamp_utc": "2026-07-07T15:10:44.000Z",
+    "tweet_text": "@artbrokerr We flushed the low down to 30, and are now hovering within the 5 point danger zone which has to clear and hold above for several minutes",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Observation of price action near existing morning level (7320 implied by '30'). No new actionable price named with required naming language."
+  },
+  {
+    "tweet_id": "2074511764079751503",
+    "timestamp_est": "2026-07-07T11:12:01-04:00",
+    "timestamp_utc": "2026-07-07T15:12:01.000Z",
+    "tweet_text": "@NYJets2017 @tradivate Yes 38.25 but theres another small low at 40 right next to it. I typically use the higher of the two in that situation when it comes to the non acceptance protocol entry",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining entry methodology using 38.25/40 as illustrative examples in context, not actionable ES futures levels named as new major levels."
+  },
+  {
+    "tweet_id": "2074512614315401579",
+    "timestamp_est": "2026-07-07T11:15:24-04:00",
+    "timestamp_utc": "2026-07-07T15:15:24.000Z",
+    "tweet_text": "We got our brief daily volatility lift. 7540 remains key support (this was Sunday's low) and #ES_F likes it here stuck here for 30 minutes now. Bulls must recover this with force and momentum (exact trigger given in newsletter) to see 7553, 7565+\n\n7521, 7511 (watch traps) below https://t.co/l1Cu0tJSuS",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7540, 7565, 7521, 7511 all in morning plan. 7553 mentioned as target but no naming language used \u2014 reaffirmation/observation only."
+  },
+  {
+    "tweet_id": "2074530660052549794",
+    "timestamp_est": "2026-07-07T12:27:06-04:00",
+    "timestamp_utc": "2026-07-07T16:27:06.000Z",
+    "tweet_text": "We got a brief volatility spike this morning in #ES_F, then back to summer chop. We did finally get the 7540 recovery though after plenty of chop.\n\nTargets were 7553 (hit), 7565 (hit). 7588, 7597+ next. No change to supports, nothing to do until the next volatility spike https://t.co/sOvk9P5TBk",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7553 is a target reference but not named with actionable language as a new level; 7565/7597/7588 are morning plan levels or casual directional mentions, no new levels introduced."
+  },
+  {
+    "tweet_id": "2074542652511461487",
+    "timestamp_est": "2026-07-07T13:14:46-04:00",
+    "timestamp_utc": "2026-07-07T17:14:46.000Z",
+    "tweet_text": "@fiveinchhammer Yes thats about as clear as it gets",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price mentioned, no actionable level, purely conversational agreement."
+  },
+  {
+    "tweet_id": "2074545725367624057",
+    "timestamp_est": "2026-07-07T13:26:58-04:00",
+    "timestamp_utc": "2026-07-07T17:26:58.000Z",
+    "tweet_text": "@CorlukaDejan It is a little but still looks bullish to me. May just need abit more time before a full breakout",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet expressing bullish opinion with no specific price level named or actionable trigger identified."
+  },
+  {
+    "tweet_id": "2074552997611278389",
+    "timestamp_est": "2026-07-07T13:55:52-04:00",
+    "timestamp_utc": "2026-07-07T17:55:52.000Z",
+    "tweet_text": "We have now returned to default summer chop in #ES_F. We got our daily volatility injection + long, and likely it now until we do it again tomorrow. 7540 was the Failed Breakdown (also given in newsletter). Targets were 7553, 7565 (hit). 7588, 7597 are next when we breakout https://t.co/OlNslRb9HZ",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7540/7565/7597 are morning-plan levels; 7553/7588 are observations of targets hit or referenced from newsletter, no new actionable naming language used."
+  },
+  {
+    "tweet_id": "2074571267030577378",
+    "timestamp_est": "2026-07-07T15:08:28-04:00",
+    "timestamp_utc": "2026-07-07T19:08:28.000Z",
+    "tweet_text": "Closing update #ES_F: Default summer chop but we got our daily setup. THe 7540 Failed Breakdown, which ran to 7565 target. For the overnight session watch 7540 and the failed breakdown of today's low. Same upside targets. Newsletter out soon with entries",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7540 and 7565 are morning-plan levels; 'ran to 7565' is an observation; 'failed breakdown of today's low' is no specific price. All reaffirmations or observations."
+  }
+]

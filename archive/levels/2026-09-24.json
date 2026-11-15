@@ -1,0 +1,101 @@
+{
+  "session_date": "2026-09-24",
+  "daily_pivot": 7770.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7770.0,
+    7758.0,
+    7715.0,
+    7698.0,
+    7674.0,
+    7626.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7812.0,
+      "major": true
+    },
+    {
+      "price": 7823.0,
+      "major": true
+    },
+    {
+      "price": 7845.0,
+      "major": true
+    },
+    {
+      "price": 7866.0,
+      "major": true
+    },
+    {
+      "price": 7877.0,
+      "major": true
+    },
+    {
+      "price": 7895.0,
+      "major": true
+    },
+    {
+      "price": 7933.0,
+      "major": true
+    },
+    {
+      "price": 7945.0,
+      "major": true
+    },
+    {
+      "price": 7976.0,
+      "major": true
+    },
+    {
+      "price": 8005.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7770.0,
+      "major": true
+    },
+    {
+      "price": 7759.0,
+      "major": true
+    },
+    {
+      "price": 7740.0,
+      "major": true
+    },
+    {
+      "price": 7715.0,
+      "major": true
+    },
+    {
+      "price": 7698.0,
+      "major": true
+    },
+    {
+      "price": 7681.0,
+      "major": true
+    },
+    {
+      "price": 7663.0,
+      "major": true
+    },
+    {
+      "price": 7655.0,
+      "major": true
+    },
+    {
+      "price": 7626.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish, expecting bulls to defend the 7770 bull flag backtest zone (7770-7758). He is holding a long runner from last week and will look to add on failed breakdown setups at 7760-7758 or 7715 if price dips there. Key pivot is 7770: above it the path is up toward 7812, 7845, 7867, 7902, and all-time highs near 7923; below 7760 the bull case weakens significantly.",
+  "fetched_at": "2026-09-24T05:00:19.474398+00:00"
+}

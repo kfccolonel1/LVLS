@@ -1,0 +1,102 @@
+{
+  "session_date": "2026-10-06",
+  "daily_pivot": 7768.0,
+  "regime_hint": "C3",
+  "significant_lows": [
+    7768.0,
+    7741.0,
+    7725.0,
+    7707.0,
+    7686.0,
+    7672.0,
+    7616.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7845.0,
+      "major": true
+    },
+    {
+      "price": 7867.0,
+      "major": true
+    },
+    {
+      "price": 7886.0,
+      "major": true
+    },
+    {
+      "price": 7923.0,
+      "major": true
+    },
+    {
+      "price": 7975.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7823.0,
+      "major": true
+    },
+    {
+      "price": 7811.0,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7768.0,
+      "major": true
+    },
+    {
+      "price": 7741.0,
+      "major": true
+    },
+    {
+      "price": 7707.0,
+      "major": true
+    },
+    {
+      "price": 7686.0,
+      "major": true
+    },
+    {
+      "price": 7672.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7635.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7584.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    },
+    {
+      "price": 7541.0,
+      "major": true
+    },
+    {
+      "price": 7512.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish after ES broke out of its multi-week range (7707-7782). He wants to hold existing long runner and wait for dips to 7782 or 7768 (or a quick flush below) before adding. If those hold, he targets 7845, then 7867, then all-time highs. The pivot is 7768/7782: above it, bulls stay in control and the uptrend continues; below 7707, the bull case is off and bears take over.",
+  "fetched_at": "2026-10-06T01:00:20.724288+00:00"
+}

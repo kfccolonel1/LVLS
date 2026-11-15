@@ -1,0 +1,110 @@
+{
+  "session_date": "2026-11-03",
+  "daily_pivot": 7636,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7594.0,
+    7577.0,
+    7557.0,
+    7541.0,
+    7522.5,
+    7502.0,
+    7477.0,
+    7460.0,
+    7440.0,
+    7418.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7625.0,
+      "major": true
+    },
+    {
+      "price": 7636.0,
+      "major": true
+    },
+    {
+      "price": 7657.0,
+      "major": true
+    },
+    {
+      "price": 7686.0,
+      "major": true
+    },
+    {
+      "price": 7703.0,
+      "major": true
+    },
+    {
+      "price": 7739.0,
+      "major": true
+    },
+    {
+      "price": 7755.0,
+      "major": true
+    },
+    {
+      "price": 7772.0,
+      "major": true
+    },
+    {
+      "price": 7793.0,
+      "major": true
+    },
+    {
+      "price": 7809.0,
+      "major": true
+    },
+    {
+      "price": 7835.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7594.0,
+      "major": true
+    },
+    {
+      "price": 7577.0,
+      "major": true
+    },
+    {
+      "price": 7557.0,
+      "major": true
+    },
+    {
+      "price": 7541.0,
+      "major": true
+    },
+    {
+      "price": 7522.5,
+      "major": true
+    },
+    {
+      "price": 7502.0,
+      "major": true
+    },
+    {
+      "price": 7477.0,
+      "major": true
+    },
+    {
+      "price": 7460.0,
+      "major": true
+    },
+    {
+      "price": 7440.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish: looking for ES to reclaim 7636 (the key pivot) to begin recovering levels lost in last week's selloff, targeting 7657, then 7698-7703, 7739, and eventually 7755+. Above 7636 bulls are back in control; below 7577 bears take over. No new entries until 7636 reclaims or a failed breakdown sets up near 7577 or 7558.",
+  "fetched_at": "2026-11-03T12:09:27.495676+00:00",
+  "source_hash": "929b7191d2cc4533"
+}

@@ -1,0 +1,109 @@
+{
+  "session_date": "2026-08-26",
+  "daily_pivot": 7659,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7659,
+    7649,
+    7637,
+    7632,
+    7592,
+    7567
+  ],
+  "bull_levels": [
+    {
+      "price": 7698.0,
+      "major": true
+    },
+    {
+      "price": 7721.0,
+      "major": true
+    },
+    {
+      "price": 7733.0,
+      "major": true
+    },
+    {
+      "price": 7746.0,
+      "major": true
+    },
+    {
+      "price": 7771.0,
+      "major": true
+    },
+    {
+      "price": 7797.0,
+      "major": true
+    },
+    {
+      "price": 7819.0,
+      "major": true
+    },
+    {
+      "price": 7828.0,
+      "major": true
+    },
+    {
+      "price": 7854.0,
+      "major": true
+    },
+    {
+      "price": 7870.0,
+      "major": true
+    },
+    {
+      "price": 7911.0,
+      "major": true
+    },
+    {
+      "price": 7924.0,
+      "major": true
+    },
+    {
+      "price": 7950.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7680.0,
+      "major": true
+    },
+    {
+      "price": 7659.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7637.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7592.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7516.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish above 7659, which is the key pivot: holding it opens a rally toward 7721, 7746, and eventually 7797. Below 7659 flips control to bears. He plans to buy a failed breakdown of 7659 (ideally tagging 7649 or 7637 first), or long a reclaim of 7680 using the non-acceptance protocol. Conditions are low-volatility summer chop, so he expects slow, choppy action and will take profits level by level.",
+  "fetched_at": "2026-08-26T05:00:18.198838+00:00"
+}

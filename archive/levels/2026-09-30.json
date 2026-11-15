@@ -1,0 +1,100 @@
+{
+  "session_date": "2026-09-30",
+  "daily_pivot": 7758.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7716.0,
+    7713.0,
+    7725.0,
+    7707.0,
+    7674.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7748.0,
+      "major": true
+    },
+    {
+      "price": 7758.0,
+      "major": true
+    },
+    {
+      "price": 7781.0,
+      "major": true
+    },
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7822.0,
+      "major": true
+    },
+    {
+      "price": 7846.0,
+      "major": true
+    },
+    {
+      "price": 7867.0,
+      "major": true
+    },
+    {
+      "price": 7887.0,
+      "major": true
+    },
+    {
+      "price": 7903.0,
+      "major": true
+    },
+    {
+      "price": 7913.0,
+      "major": true
+    },
+    {
+      "price": 7955.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7725.0,
+      "major": true
+    },
+    {
+      "price": 7714.5,
+      "major": true
+    },
+    {
+      "price": 7698.0,
+      "major": true
+    },
+    {
+      "price": 7681.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7635.0,
+      "major": true
+    },
+    {
+      "price": 7617.0,
+      "major": true
+    },
+    {
+      "price": 7605.0,
+      "major": true
+    },
+    {
+      "price": 7574.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish as long as 7713-16 holds. He is already holding a 10% runner from yesterday's 7716 failed-breakdown long. For new entries he will wait for a failed-breakdown of the 7713-16 shelf or a reclaim of 7736/7758 on strength. The key pivot is 7758: above it bulls can push toward 7782, 7803, 7822 and ultimately 7867; below 7713-16 the bullish case is off and bears take over.",
+  "fetched_at": "2026-09-30T05:00:20.354071+00:00"
+}

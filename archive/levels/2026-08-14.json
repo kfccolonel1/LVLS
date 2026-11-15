@@ -1,0 +1,116 @@
+{
+  "session_date": "2026-08-14",
+  "daily_pivot": 7794.0,
+  "regime_hint": "C3",
+  "significant_lows": [
+    7777.0,
+    7758.0,
+    7738.0,
+    7724.0,
+    7695.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7836.0,
+      "major": true
+    },
+    {
+      "price": 7856.0,
+      "major": true
+    },
+    {
+      "price": 7892.0,
+      "major": true
+    },
+    {
+      "price": 7898.0,
+      "major": true
+    },
+    {
+      "price": 7952.0,
+      "major": true
+    },
+    {
+      "price": 7964.0,
+      "major": true
+    },
+    {
+      "price": 8005.0,
+      "major": true
+    },
+    {
+      "price": 8045.0,
+      "major": true
+    },
+    {
+      "price": 8072.0,
+      "major": true
+    },
+    {
+      "price": 8100.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7794.0,
+      "major": true
+    },
+    {
+      "price": 7777.0,
+      "major": true
+    },
+    {
+      "price": 7756.0,
+      "major": true
+    },
+    {
+      "price": 7727.5,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7630.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7476.0,
+      "major": true
+    },
+    {
+      "price": 7446.0,
+      "major": true
+    },
+    {
+      "price": 7417.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES broke out of a multi-day bull flag on Aug 13 and is now above 7820. The trader is holding a long runner and leaning bullish. He wants ES to hold 7794 (former flag resistance, now key pivot - bulls favored above it, structure weakens below) or at worst 7756, then continue higher toward 7836, 7856, and 7898. No new longs chased on strength; he waits for dips into flagged supports for Failed Breakdown entries.",
+  "fetched_at": "2026-08-14T11:39:14.587987+00:00"
+}

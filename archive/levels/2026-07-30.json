@@ -1,0 +1,120 @@
+{
+  "session_date": "2026-07-30",
+  "daily_pivot": 7418,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7418,
+    7408,
+    7373,
+    7342,
+    7325
+  ],
+  "bull_levels": [
+    {
+      "price": 7449.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7594.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7628.0,
+      "major": true
+    },
+    {
+      "price": 7662.0,
+      "major": true
+    },
+    {
+      "price": 7672.0,
+      "major": true
+    },
+    {
+      "price": 7694.0,
+      "major": true
+    },
+    {
+      "price": 7710.0,
+      "major": true
+    },
+    {
+      "price": 7724.0,
+      "major": true
+    },
+    {
+      "price": 7764.0,
+      "major": true
+    },
+    {
+      "price": 7793.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7418.0,
+      "major": true
+    },
+    {
+      "price": 7408.0,
+      "major": true
+    },
+    {
+      "price": 7393.0,
+      "major": true
+    },
+    {
+      "price": 7367.0,
+      "major": true
+    },
+    {
+      "price": 7342.0,
+      "major": true
+    },
+    {
+      "price": 7321.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7296.0,
+      "major": true
+    },
+    {
+      "price": 7274.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "The trader holds a 10% long runner from the 7418 Failed Breakdown on Wednesday. He leans bullish as long as 7418 holds, expecting price to work up through 7447, 7458, 7474, and eventually 7506. The key pivot is 7418: above it bulls are in control and the range can extend higher; below 7373 bears take over. He will look to add longs on Failed Breakdowns of 7408, 7393, or 7373 if those levels are tested and recover.",
+  "fetched_at": "2026-07-30T05:00:19.145969+00:00"
+}

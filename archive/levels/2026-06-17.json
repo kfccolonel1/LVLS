@@ -1,0 +1,133 @@
+{
+  "session_date": "2026-06-17",
+  "daily_pivot": 7590,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7590,
+    7571,
+    7548,
+    7511,
+    7483,
+    7462
+  ],
+  "bull_levels": [
+    {
+      "price": 7621.0,
+      "major": true
+    },
+    {
+      "price": 7655.0,
+      "major": true
+    },
+    {
+      "price": 7682.0,
+      "major": true
+    },
+    {
+      "price": 7707.0,
+      "major": true
+    },
+    {
+      "price": 7741.0,
+      "major": true
+    },
+    {
+      "price": 7763.0,
+      "major": true
+    },
+    {
+      "price": 7821.0,
+      "major": true
+    },
+    {
+      "price": 7839.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7590.0,
+      "major": true
+    },
+    {
+      "price": 7571.0,
+      "major": true
+    },
+    {
+      "price": 7547.5,
+      "major": true
+    },
+    {
+      "price": 7511.0,
+      "major": true
+    },
+    {
+      "price": 7501.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    },
+    {
+      "price": 7454.0,
+      "major": true
+    },
+    {
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7394.0,
+      "major": true
+    },
+    {
+      "price": 7372.0,
+      "major": true
+    },
+    {
+      "price": 7340.5,
+      "major": true
+    },
+    {
+      "price": 7303.0,
+      "major": true
+    },
+    {
+      "price": 7293.0,
+      "major": true
+    },
+    {
+      "price": 7278.0,
+      "major": true
+    },
+    {
+      "price": 7263.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7206.0,
+      "major": true
+    },
+    {
+      "price": 7174.0,
+      "major": true
+    },
+    {
+      "price": 7141.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is leaning bullish but expects a pullback first. He wants to see ES dip to around 7590 (the key pivot), hold it or briefly dip below and recover, then rally to 7655 and 7682, and eventually new all-time highs near 7707-7722. The 7590 level is the main dividing line: above it bulls are in control; below it a deeper drop to fill the Sunday gap at 7511 becomes likely. No trades are planned until a fast sell-off sets up a failed-breakdown entry.",
+  "fetched_at": "2026-06-17T05:00:19.191365+00:00"
+}

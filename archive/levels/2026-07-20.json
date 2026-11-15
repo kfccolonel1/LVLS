@@ -1,0 +1,132 @@
+{
+  "session_date": "2026-07-20",
+  "daily_pivot": 7575.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7505.0,
+    7483.0,
+    7473.0,
+    7408.0,
+    7357.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7536.5,
+      "major": true
+    },
+    {
+      "price": 7554.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7594.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7660.0,
+      "major": true
+    },
+    {
+      "price": 7683.0,
+      "major": true
+    },
+    {
+      "price": 7694.0,
+      "major": true
+    },
+    {
+      "price": 7727.0,
+      "major": true
+    },
+    {
+      "price": 7738.0,
+      "major": true
+    },
+    {
+      "price": 7768.0,
+      "major": true
+    },
+    {
+      "price": 7791.0,
+      "major": true
+    },
+    {
+      "price": 7806.0,
+      "major": true
+    },
+    {
+      "price": 7836.0,
+      "major": true
+    },
+    {
+      "price": 7863.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7505.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    },
+    {
+      "price": 7459.0,
+      "major": true
+    },
+    {
+      "price": 7447.0,
+      "major": true
+    },
+    {
+      "price": 7422.0,
+      "major": true
+    },
+    {
+      "price": 7408.0,
+      "major": true
+    },
+    {
+      "price": 7390.0,
+      "major": true
+    },
+    {
+      "price": 7368.0,
+      "major": true
+    },
+    {
+      "price": 7357.0,
+      "major": true
+    },
+    {
+      "price": 7336.0,
+      "major": true
+    },
+    {
+      "price": 7327.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is in a sideways range (7482 to 7611) and leans bullish. He expects ES to work back up toward 7575, possibly dip there, then push toward 7611. He will look to buy dips via failed-breakdown setups at 7505, 7483, and 7473, not by bidding blindly. The key pivot is 7575: above it bulls are back in control; below it the selloff risk resumes. No new trades unless price gives a clean setup at a planned level.",
+  "fetched_at": "2026-07-20T05:00:18.463180+00:00"
+}

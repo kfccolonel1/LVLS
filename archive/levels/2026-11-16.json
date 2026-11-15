@@ -1,0 +1,115 @@
+{
+  "session_date": "2026-11-16",
+  "daily_pivot": 7572,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7572.0,
+    7547.0,
+    7524.0,
+    7509.0,
+    7492.0,
+    7476.0,
+    7434.0,
+    7413.0,
+    7387.0,
+    7354.0,
+    7322.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7599.0,
+      "major": true
+    },
+    {
+      "price": 7620.0,
+      "major": true
+    },
+    {
+      "price": 7636.0,
+      "major": true
+    },
+    {
+      "price": 7672.0,
+      "major": true
+    },
+    {
+      "price": 7690.0,
+      "major": true
+    },
+    {
+      "price": 7712.0,
+      "major": true
+    },
+    {
+      "price": 7753.0,
+      "major": true
+    },
+    {
+      "price": 7771.0,
+      "major": true
+    },
+    {
+      "price": 7792.0,
+      "major": true
+    },
+    {
+      "price": 7809.0,
+      "major": true
+    },
+    {
+      "price": 7836.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7572.0,
+      "major": true
+    },
+    {
+      "price": 7547.0,
+      "major": true
+    },
+    {
+      "price": 7524.0,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7476.0,
+      "major": true
+    },
+    {
+      "price": 7434.0,
+      "major": true
+    },
+    {
+      "price": 7413.0,
+      "major": true
+    },
+    {
+      "price": 7387.0,
+      "major": true
+    },
+    {
+      "price": 7354.0,
+      "major": true
+    },
+    {
+      "price": 7322.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish: after a 300+ pt rally from the Nov 5 low, ES pulled back and broke the 7572-7672 consolidation range on Friday. He expects ES to recover 7572 (the key pivot), rebuild, then push toward 7690, 7712, 7753, and 7809. Above 7572 bulls are in control; below 7494 the bear case opens. He holds a small long runner and will add on Failed Breakdown setups at support levels.",
+  "fetched_at": "2026-11-15T17:15:57.252840+00:00",
+  "source_hash": "7001b0cc09530b4b"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "tweet_id": "2078592222132330895",
+    "timestamp_est": "2026-07-18T17:26:18-04:00",
+    "timestamp_utc": "2026-07-18T21:26:18.000Z",
+    "tweet_text": "@Jbuehler777 I usually dont re draw it because then it becomes too subjective. If i redraw jt with the July highs it wouldnt be a failed bull flag breakout anymore it would",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet discussing chart methodology (redrawing patterns/flags). No actionable price level named or implied."
+  },
+  {
+    "tweet_id": "2078592273818796152",
+    "timestamp_est": "2026-07-18T17:26:31-04:00",
+    "timestamp_utc": "2026-07-18T21:26:31.000Z",
+    "tweet_text": "@Jbuehler777 *it would be a megaphone",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet correcting a term ('megaphone'). No price named, no actionable level, pure conversational correction."
+  },
+  {
+    "tweet_id": "2078605935631630815",
+    "timestamp_est": "2026-07-18T18:20:48-04:00",
+    "timestamp_utc": "2026-07-18T22:20:48.000Z",
+    "tweet_text": "@penguin_red_ It is drawn there - its the blue channel. I just didn't extend it all the way down to the April low.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply about a chart channel drawn to April low \u2014 no actionable price named, pure chart/visual commentary."
+  },
+  {
+    "tweet_id": "2078606105479901447",
+    "timestamp_est": "2026-07-18T18:21:28-04:00",
+    "timestamp_utc": "2026-07-18T22:21:28.000Z",
+    "tweet_text": "@penguin_red_ I don't find that to be overly relevant though big picture. Steep uptrends always crack and shallow out eventually",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply about trend behavior; no price named, no actionable level, no naming language."
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "session_date": "2026-06-08",
+  "daily_pivot": 7410.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7410.0,
+    7380.0,
+    7377.0,
+    7326.0,
+    7296.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7440.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7487.0,
+      "major": true
+    },
+    {
+      "price": 7508.0,
+      "major": true
+    },
+    {
+      "price": 7527.0,
+      "major": true
+    },
+    {
+      "price": 7550.0,
+      "major": true
+    },
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7577.0,
+      "major": true
+    },
+    {
+      "price": 7604.0,
+      "major": true
+    },
+    {
+      "price": 7628.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7410.0,
+      "major": true
+    },
+    {
+      "price": 7377.0,
+      "major": true
+    },
+    {
+      "price": 7358.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7326.0,
+      "major": true
+    },
+    {
+      "price": 7296.0,
+      "major": true
+    },
+    {
+      "price": 7248.0,
+      "major": true
+    },
+    {
+      "price": 7215.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "After weeks of buying dips, ES finally had a real selloff Friday when the 7527 support shelf broke. Bears are in control until key levels recover. The trader leans toward a bounce Monday but only acts if 7410 recovers first - that is the pivot. Above 7410 he targets 7458, 7508, then 7527. Below 7377 bears regain momentum and downside resumes. He waits for a failed breakdown setup rather than chasing or predicting direction.",
+  "fetched_at": "2026-06-08T05:00:19.852829+00:00"
+}

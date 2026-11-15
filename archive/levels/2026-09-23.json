@@ -1,0 +1,101 @@
+{
+  "session_date": "2026-09-23",
+  "daily_pivot": 7770,
+  "regime_hint": "C1",
+  "significant_lows": [
+    7812,
+    7771,
+    7760,
+    7716,
+    7674,
+    7616
+  ],
+  "bull_levels": [
+    {
+      "price": 7866.0,
+      "major": true
+    },
+    {
+      "price": 7886.0,
+      "major": true
+    },
+    {
+      "price": 7902.0,
+      "major": true
+    },
+    {
+      "price": 7921.0,
+      "major": true
+    },
+    {
+      "price": 7936.0,
+      "major": true
+    },
+    {
+      "price": 7953.0,
+      "major": true
+    },
+    {
+      "price": 8011.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7830.0,
+      "major": true
+    },
+    {
+      "price": 7812.0,
+      "major": true
+    },
+    {
+      "price": 7788.0,
+      "major": true
+    },
+    {
+      "price": 7771.0,
+      "major": true
+    },
+    {
+      "price": 7760.0,
+      "major": true
+    },
+    {
+      "price": 7740.0,
+      "major": true
+    },
+    {
+      "price": 7716.0,
+      "major": true
+    },
+    {
+      "price": 7697.0,
+      "major": true
+    },
+    {
+      "price": 7686.0,
+      "major": true
+    },
+    {
+      "price": 7670.0,
+      "major": true
+    },
+    {
+      "price": 7645.0,
+      "major": true
+    },
+    {
+      "price": 7634.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish and holding a runner long from the 7616 Failed Breakdown last Wednesday. He is waiting for dips into key supports to add \u2014 ideally a flush and recovery of 7812 or 7771. He is not chasing strength. The daily pivot is 7770: above it the bull trend continues toward 7867, 7886, and eventually all-time highs; a loss of 7760 would be the first real bearish signal worth watching.",
+  "fetched_at": "2026-09-23T05:00:17.298689+00:00"
+}

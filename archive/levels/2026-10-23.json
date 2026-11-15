@@ -1,0 +1,108 @@
+{
+  "session_date": "2026-10-23",
+  "daily_pivot": 7707.5,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7707.5,
+    7686.0,
+    7677.0,
+    7656.0,
+    7616.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7707.5,
+      "major": true
+    },
+    {
+      "price": 7731.0,
+      "major": true
+    },
+    {
+      "price": 7753.0,
+      "major": true
+    },
+    {
+      "price": 7772.0,
+      "major": true
+    },
+    {
+      "price": 7784.0,
+      "major": true
+    },
+    {
+      "price": 7808.0,
+      "major": true
+    },
+    {
+      "price": 7827.0,
+      "major": true
+    },
+    {
+      "price": 7835.0,
+      "major": true
+    },
+    {
+      "price": 7854.0,
+      "major": true
+    },
+    {
+      "price": 7864.0,
+      "major": true
+    },
+    {
+      "price": 7896.0,
+      "major": true
+    },
+    {
+      "price": 7957.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7686.0,
+      "major": true
+    },
+    {
+      "price": 7677.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7635.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7585.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    },
+    {
+      "price": 7541.0,
+      "major": true
+    },
+    {
+      "price": 7502.0,
+      "major": true
+    },
+    {
+      "price": 7484.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES has been stuck in a range (roughly 7705-7803) for about a week. The trader leans long, looking for ES to recover the key 7705-10 zone first, then work up to 7753, 7784, 7808, and eventually backtest the breakdown level at 7835. The pivot is 7707.50: above it, bulls can push toward those targets; below it, the range breaks down further and shorts become possible near 7698.",
+  "fetched_at": "2026-10-23T01:00:20.614936+00:00"
+}

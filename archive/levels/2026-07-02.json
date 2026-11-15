@@ -1,0 +1,133 @@
+{
+  "session_date": "2026-07-02",
+  "daily_pivot": 7511,
+  "regime_hint": "C1",
+  "significant_lows": [
+    7541,
+    7511,
+    7492,
+    7459,
+    7423,
+    7409
+  ],
+  "bull_levels": [
+    {
+      "price": 7568.0,
+      "major": true
+    },
+    {
+      "price": 7597.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7636.0,
+      "major": true
+    },
+    {
+      "price": 7641.0,
+      "major": true
+    },
+    {
+      "price": 7661.0,
+      "major": true
+    },
+    {
+      "price": 7673.0,
+      "major": true
+    },
+    {
+      "price": 7694.0,
+      "major": true
+    },
+    {
+      "price": 7722.0,
+      "major": true
+    },
+    {
+      "price": 7752.0,
+      "major": true
+    },
+    {
+      "price": 7785.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7541.0,
+      "major": true
+    },
+    {
+      "price": 7512.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    },
+    {
+      "price": 7453.0,
+      "major": true
+    },
+    {
+      "price": 7422.0,
+      "major": true
+    },
+    {
+      "price": 7399.0,
+      "major": true
+    },
+    {
+      "price": 7371.0,
+      "major": true
+    },
+    {
+      "price": 7357.0,
+      "major": true
+    },
+    {
+      "price": 7336.0,
+      "major": true
+    },
+    {
+      "price": 7326.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7277.0,
+      "major": true
+    },
+    {
+      "price": 7263.0,
+      "major": true
+    },
+    {
+      "price": 7234.0,
+      "major": true
+    },
+    {
+      "price": 7224.0,
+      "major": true
+    },
+    {
+      "price": 7210.0,
+      "major": true
+    },
+    {
+      "price": 7198.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish into a seasonally strong holiday-shortened week. He wants dips to hold 7541 or 7511; a quick flush below 7511 that quickly recovers (failed breakdown) is the preferred long entry. Targets above are 7568 then 7597. The key pivot is 7511: above it bulls stay in control and the rally continues toward 7597-7611+; a sustained break below 7492 would shift the tone bearish.",
+  "fetched_at": "2026-07-02T05:00:19.627937+00:00"
+}

@@ -1,0 +1,144 @@
+{
+  "session_date": "2026-07-07",
+  "daily_pivot": 7540,
+  "regime_hint": "C3",
+  "significant_lows": [
+    7540,
+    7521,
+    7511,
+    7482,
+    7459
+  ],
+  "bull_levels": [
+    {
+      "price": 7578.0,
+      "major": true
+    },
+    {
+      "price": 7597.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7667.0,
+      "major": true
+    },
+    {
+      "price": 7682.0,
+      "major": true
+    },
+    {
+      "price": 7705.0,
+      "major": true
+    },
+    {
+      "price": 7731.0,
+      "major": true
+    },
+    {
+      "price": 7762.0,
+      "major": true
+    },
+    {
+      "price": 7777.0,
+      "major": true
+    },
+    {
+      "price": 7800.0,
+      "major": true
+    },
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7854.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7540.0,
+      "major": true
+    },
+    {
+      "price": 7522.0,
+      "major": true
+    },
+    {
+      "price": 7511.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7482.0,
+      "major": true
+    },
+    {
+      "price": 7459.0,
+      "major": true
+    },
+    {
+      "price": 7439.0,
+      "major": true
+    },
+    {
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7409.0,
+      "major": true
+    },
+    {
+      "price": 7382.0,
+      "major": true
+    },
+    {
+      "price": 7363.0,
+      "major": true
+    },
+    {
+      "price": 7342.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7320.0,
+      "major": true
+    },
+    {
+      "price": 7295.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    },
+    {
+      "price": 7246.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish, expecting ES to break out of the 7511-7597 range it has been stuck in since last Tuesday. The key level is 7540: above it, bulls are in control and the target is 7611 then 7640+. Below 7540, selling pressure increases significantly and caution is warranted. No new longs are chased on strength; the plan is to wait for a dip or a failed breakdown setup before entering.",
+  "fetched_at": "2026-07-07T05:00:19.612963+00:00"
+}

@@ -1,0 +1,102 @@
+{
+  "session_date": "2026-08-12",
+  "daily_pivot": 7751.0,
+  "regime_hint": "C5",
+  "significant_lows": [
+    7744.0,
+    7726.0,
+    7695.0,
+    7649.0,
+    7632.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7767.0,
+      "major": true
+    },
+    {
+      "price": 7794.0,
+      "major": true
+    },
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7841.0,
+      "major": true
+    },
+    {
+      "price": 7862.0,
+      "major": true
+    },
+    {
+      "price": 7893.0,
+      "major": true
+    },
+    {
+      "price": 7933.0,
+      "major": true
+    },
+    {
+      "price": 7955.0,
+      "major": true
+    },
+    {
+      "price": 7998.0,
+      "major": true
+    },
+    {
+      "price": 8010.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7752.0,
+      "major": true
+    },
+    {
+      "price": 7726.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7549.0,
+      "major": true
+    },
+    {
+      "price": 7517.0,
+      "major": true
+    },
+    {
+      "price": 7499.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    }
+  ],
+  "event_times": [
+    1755042000000
+  ],
+  "event_day": true,
+  "notes": "CPI at 8:30 AM ET could break ES out of its week-long range (roughly 7726 to 7794). Trader leans bullish, holding a long runner, and plans to buy dips via failed-breakdown setups at 7744, 7726, or 7695 if price flushes those levels and snaps back. Breakout targets are 7820, 7840, 7893. The pivot is 7751: above it bulls are in control and a push toward 7794+ is favored; below it the range tilts bearish and 7726 becomes the key defense.",
+  "fetched_at": "2026-08-12T05:00:24.873893+00:00"
+}

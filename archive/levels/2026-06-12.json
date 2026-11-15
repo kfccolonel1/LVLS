@@ -1,0 +1,120 @@
+{
+  "session_date": "2026-06-12",
+  "daily_pivot": 7390.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7270.0,
+    7263.0,
+    7247.0,
+    7232.0,
+    7215.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7390.0,
+      "major": true
+    },
+    {
+      "price": 7420.0,
+      "major": true
+    },
+    {
+      "price": 7439.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7507.0,
+      "major": true
+    },
+    {
+      "price": 7527.0,
+      "major": true
+    },
+    {
+      "price": 7549.0,
+      "major": true
+    },
+    {
+      "price": 7577.0,
+      "major": true
+    },
+    {
+      "price": 7610.0,
+      "major": true
+    },
+    {
+      "price": 7624.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7377.0,
+      "major": true
+    },
+    {
+      "price": 7355.0,
+      "major": true
+    },
+    {
+      "price": 7336.0,
+      "major": true
+    },
+    {
+      "price": 7320.0,
+      "major": true
+    },
+    {
+      "price": 7295.0,
+      "major": true
+    },
+    {
+      "price": 7270.0,
+      "major": true
+    },
+    {
+      "price": 7247.0,
+      "major": true
+    },
+    {
+      "price": 7230.0,
+      "major": true
+    },
+    {
+      "price": 7215.0,
+      "major": true
+    },
+    {
+      "price": 7162.0,
+      "major": true
+    },
+    {
+      "price": 7145.0,
+      "major": true
+    },
+    {
+      "price": 7136.0,
+      "major": true
+    },
+    {
+      "price": 7121.0,
+      "major": true
+    },
+    {
+      "price": 7077.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader holds a long runner from the 7247 failed-breakdown at 7:30 PM Thursday. The market is stuck in a range: 7390 is the key pivot (resistance from last Friday's breakdown shelf) and 7270 is the floor. Above 7390 bulls regain control targeting 7420, 7439, 7473, then 7527. Below 7270 bears take over and yesterday's 7232 low is in play. Lean is the range eventually breaks out to the upside, but no new longs are being chased after today's big rally.",
+  "fetched_at": "2026-06-12T05:00:21.446600+00:00"
+}

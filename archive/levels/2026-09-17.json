@@ -1,0 +1,85 @@
+{
+  "session_date": "2026-09-17",
+  "daily_pivot": 7643.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7584.0,
+    7576.0,
+    7567.0,
+    7542.0,
+    7526.0,
+    7496.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7622.0,
+      "major": true
+    },
+    {
+      "price": 7644.0,
+      "major": true
+    },
+    {
+      "price": 7663.0,
+      "major": true
+    },
+    {
+      "price": 7687.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7714.0,
+      "major": true
+    },
+    {
+      "price": 7728.0,
+      "major": true
+    },
+    {
+      "price": 7759.0,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7604.0,
+      "major": true
+    },
+    {
+      "price": 7584.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
+      "major": true
+    },
+    {
+      "price": 7542.0,
+      "major": true
+    },
+    {
+      "price": 7526.0,
+      "major": true
+    },
+    {
+      "price": 7496.0,
+      "major": true
+    },
+    {
+      "price": 7469.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish but cautious after ES sold off post-FOMC, breaking the bull flag and the 7643-45 shelf. He wants to see ES defend or briefly dip below 7584, then recover 7643-45 before adding long exposure. Key pivot is 7643-45: above it bulls likely push to 7687, 7714, 7728 to fill the Sunday gap; below 7584 opens a short setup targeting lower. He will wait for failed breakdown signals rather than blindly buying dips.",
+  "fetched_at": "2026-09-17T05:00:21.306286+00:00"
+}

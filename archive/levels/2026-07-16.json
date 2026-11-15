@@ -1,0 +1,130 @@
+{
+  "session_date": "2026-07-16",
+  "daily_pivot": 7570,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7570,
+    7533,
+    7482,
+    7467,
+    7454,
+    7423,
+    7408
+  ],
+  "bull_levels": [
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7639.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7675.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7728.0,
+      "major": true
+    },
+    {
+      "price": 7736.0,
+      "major": true
+    },
+    {
+      "price": 7772.0,
+      "major": true
+    },
+    {
+      "price": 7798.0,
+      "major": true
+    },
+    {
+      "price": 7838.0,
+      "major": true
+    },
+    {
+      "price": 7855.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7594.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7555.0,
+      "major": true
+    },
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7524.0,
+      "major": true
+    },
+    {
+      "price": 7482.0,
+      "major": true
+    },
+    {
+      "price": 7473.0,
+      "major": true
+    },
+    {
+      "price": 7454.0,
+      "major": true
+    },
+    {
+      "price": 7423.0,
+      "major": true
+    },
+    {
+      "price": 7383.0,
+      "major": true
+    },
+    {
+      "price": 7358.0,
+      "major": true
+    },
+    {
+      "price": 7339.0,
+      "major": true
+    },
+    {
+      "price": 7312.0,
+      "major": true
+    },
+    {
+      "price": 7288.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    },
+    {
+      "price": 7264.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES has been rangebound between roughly 7533 and 7611 since last Thursday. The trader still holds a long runner from the 7570 area and is watching for the range to fill out before a breakout. Key pivot is 7570: above it the bull case holds with a breakout target of 7639+; below it the range expands toward 7533 and lower. Best long entry is a failed breakdown of 7570 or 7533. No shorts planned.",
+  "fetched_at": "2026-07-16T05:00:18.537589+00:00"
+}

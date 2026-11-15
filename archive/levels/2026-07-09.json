@@ -1,0 +1,132 @@
+{
+  "session_date": "2026-07-09",
+  "daily_pivot": 7533,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7482,
+    7467,
+    7456,
+    7423,
+    7408
+  ],
+  "bull_levels": [
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7547.0,
+      "major": true
+    },
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7597.0,
+      "major": true
+    },
+    {
+      "price": 7621.0,
+      "major": true
+    },
+    {
+      "price": 7638.5,
+      "major": true
+    },
+    {
+      "price": 7662.0,
+      "major": true
+    },
+    {
+      "price": 7673.0,
+      "major": true
+    },
+    {
+      "price": 7696.0,
+      "major": true
+    },
+    {
+      "price": 7724.0,
+      "major": true
+    },
+    {
+      "price": 7747.0,
+      "major": true
+    },
+    {
+      "price": 7775.0,
+      "major": true
+    },
+    {
+      "price": 7807.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7521.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    },
+    {
+      "price": 7456.0,
+      "major": true
+    },
+    {
+      "price": 7438.0,
+      "major": true
+    },
+    {
+      "price": 7423.0,
+      "major": true
+    },
+    {
+      "price": 7408.0,
+      "major": true
+    },
+    {
+      "price": 7382.0,
+      "major": true
+    },
+    {
+      "price": 7369.0,
+      "major": true
+    },
+    {
+      "price": 7341.0,
+      "major": true
+    },
+    {
+      "price": 7326.0,
+      "major": true
+    },
+    {
+      "price": 7301.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    },
+    {
+      "price": 7262.0,
+      "major": true
+    },
+    {
+      "price": 7245.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES is rangebound between 7482 and 7597 since June 30. The key pivot is 7533 \u2014 above it bulls target 7547, 7565, then 7597 and a potential breakout to 7637+; below it bears could pressure 7482. Trader is already long from the 7482 failed-breakdown entry made Wednesday morning and is holding a runner. He will wait for another sharp selloff before adding any new longs, with 7467 and 7456 as the next failed-breakdown watch zones if 7482 gives way.",
+  "fetched_at": "2026-07-09T05:00:17.822666+00:00"
+}

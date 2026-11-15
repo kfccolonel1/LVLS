@@ -1,0 +1,252 @@
+[
+  {
+    "tweet_id": "2091853979797860409",
+    "timestamp_est": "2026-08-24T07:43:48-04:00",
+    "timestamp_utc": "2026-08-24T11:43:48.000Z",
+    "tweet_text": "We remain in low volatility chop in #ES_F, don't force anything here until we get vol. 7680 reclaim was support Friday with 7706, 7716 targets. Both hit.\n\nPlan today: 7680=support and we just trapped again. Very weak now, used up. 7695, 7707, 7716 if ES wants more. 7645-50 below https://t.co/1G3KW0psjL",
+    "added_bull_levels": [
+      7707.0
+    ],
+    "added_bear_levels": [
+      7647.5
+    ],
+    "notes": "7707 and 7645-50 (mid 7647.5) are newly named actionable levels not in morning plan; 7680/7695/7716 are reaffirmations."
+  },
+  {
+    "tweet_id": "2091860591216324635",
+    "timestamp_est": "2026-08-24T08:10:04-04:00",
+    "timestamp_utc": "2026-08-24T12:10:04.000Z",
+    "tweet_text": "@RobyArnoldi If we got the non-acceptance protocol trigger it would be actionable. Take profits aggressively though",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No price named; purely trade management/commentary advice about taking profits aggressively on a protocol trigger. No actionable level introduced."
+  },
+  {
+    "tweet_id": "2091862697520267684",
+    "timestamp_est": "2026-08-24T08:18:26-04:00",
+    "timestamp_utc": "2026-08-24T12:18:26.000Z",
+    "tweet_text": "@DavidDa41048475 There has not been a Failed Breakdown of 7680 yet today per my methodology. When it triggers though the stop goes under the lows. You can use Thursday's low at 7660 for a wide stop or the 7669 overnight shelf of lows for a tigher stop",
+    "added_bull_levels": [
+      7660.0,
+      7669.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7660 (Thu low) and 7669 (overnight shelf) explicitly named as actionable stop reference levels for the FBD of 7680 trade \u2014 new stop/entry context not in morning plan."
+  },
+  {
+    "tweet_id": "2091862898469445967",
+    "timestamp_est": "2026-08-24T08:19:14-04:00",
+    "timestamp_utc": "2026-08-24T12:19:14.000Z",
+    "tweet_text": "@ES_Money_Print @RobyArnoldi I'd want to use 80 because you can see the huge shelf there from Friday",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply referencing '80' (likely 7580) as a shelf observation, no actionable naming language; also a reply to another user, not a plan level announcement."
+  },
+  {
+    "tweet_id": "2091871261953552526",
+    "timestamp_est": "2026-08-24T08:52:28-04:00",
+    "timestamp_utc": "2026-08-24T12:52:28.000Z",
+    "tweet_text": "Absolutely no volatility now in #ES_F. Last triggered entry (given in newsletter) was the 7680 Failed Breakdown Friday. Targets were 7760, ~7716 (hit).\n\nNow, 7680 must recover again (*be sure* to wait for newsletter trigger). It takes us back to 7695, 7706, 7717-20. Hard rally https://t.co/bgJj8OHwlD",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680/7695/7716/7760 are all morning-plan levels or prior references; 7706 and 7717-20 are directional targets listed without new naming language, not first-time actionable introductions."
+  },
+  {
+    "tweet_id": "2091871451645137005",
+    "timestamp_est": "2026-08-24T08:53:13-04:00",
+    "timestamp_utc": "2026-08-24T12:53:13.000Z",
+    "tweet_text": "@ES_Money_Print @RobyArnoldi Have to just look left to where the structure is. If there is lots of structure at 7680 (which there is) you want that to clear decisvely",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680 is already in the morning plan; this is a reaffirmation/explanation of existing level, not a new actionable one."
+  },
+  {
+    "tweet_id": "2091884488137527430",
+    "timestamp_est": "2026-08-24T09:45:01-04:00",
+    "timestamp_utc": "2026-08-24T13:45:01.000Z",
+    "tweet_text": "Little to do now in #ES_F as we remain in a low volatility regime. Last trade was the 7680 Failed Breakdown Friday, which triggered and ran to 7706, 7716 targets. For today, 7680 must reclaim (trigger in newsletter), hasn't yet, so down we go.\n\n7645-50 remains below. 80+ to rally https://t.co/epgOpew54m",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680, 7716 are morning-plan levels; 7645-50 is a reaffirmation reference not named with new-level language; no new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2091885121133584638",
+    "timestamp_est": "2026-08-24T09:47:32-04:00",
+    "timestamp_utc": "2026-08-24T13:47:32.000Z",
+    "tweet_text": "@abbradwell There is too much structure at 80, I wouldn't trust 58 as low. Almost irrelvent if it recovers unless 80 also recovers.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply referencing 8080 and 8058 contextually; no explicit actionable naming language used, and both approximate levels are already in morning plan."
+  },
+  {
+    "tweet_id": "2091899219132969121",
+    "timestamp_est": "2026-08-24T10:43:34-04:00",
+    "timestamp_utc": "2026-08-24T14:43:34.000Z",
+    "tweet_text": "@ProsperTradingU Because the structure is up at 80. No sense in trading a failed breakdown right into a huge resistance shelf",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining rationale near 'resistance shelf' without naming any specific actionable price; purely conversational/structural commentary."
+  },
+  {
+    "tweet_id": "2091899432874762687",
+    "timestamp_est": "2026-08-24T10:44:25-04:00",
+    "timestamp_utc": "2026-08-24T14:44:25.000Z",
+    "tweet_text": "This is currently not tradable price action. If there is no volatility, don't trade. Very easy. 7680 remains the only level that matters in #ES_F. Reclaims there trigger up (but be sure to use the trigger protocol from newsletter or you'll get trapped). 7695, 7706, 7716 above https://t.co/oFZTgRdCIA",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680, 7695, 7716 are morning-plan levels; 7706 is a directional list item with no new naming language. No new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2091902016926667028",
+    "timestamp_est": "2026-08-24T10:54:41-04:00",
+    "timestamp_utc": "2026-08-24T14:54:41.000Z",
+    "tweet_text": "@StopLossHater That would be the most bullish situation into the fall. Bulls are in such strong control though we can't even get down there for that small retrace.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply to a user; no price mentioned, no actionable level named, purely directional commentary."
+  },
+  {
+    "tweet_id": "2091904898497405400",
+    "timestamp_est": "2026-08-24T11:06:08-04:00",
+    "timestamp_utc": "2026-08-24T15:06:08.000Z",
+    "tweet_text": "@PermaFader https://t.co/my97Jk9DTW",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet is a reply with only a URL and a username mention \u2014 no price levels or actionable language present."
+  },
+  {
+    "tweet_id": "2091905097341026525",
+    "timestamp_est": "2026-08-24T11:06:55-04:00",
+    "timestamp_utc": "2026-08-24T15:06:55.000Z",
+    "tweet_text": "@PermaFader Its dangerous trading it with that 80 shelf just above. Can do it for a level to level move but the point of a failed breakdown is its supposed to give bulls control back. But when there is a big resistance just overhead, that control point is a little higher",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining trade dynamics near '80 shelf' (7680 already in plan); no new actionable price named with qualifying language."
+  },
+  {
+    "tweet_id": "2091905366221029735",
+    "timestamp_est": "2026-08-24T11:07:59-04:00",
+    "timestamp_utc": "2026-08-24T15:07:59.000Z",
+    "tweet_text": "@PermaFader It did work so far for a level to level move, but you'll notice price is struggling and it will until we get over that 80",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Casual reference to 'that 80' (7580?) with no explicit naming language; observation of price struggling, not an actionable new level."
+  },
+  {
+    "tweet_id": "2091925201848094953",
+    "timestamp_est": "2026-08-24T12:26:48-04:00",
+    "timestamp_utc": "2026-08-24T16:26:48.000Z",
+    "tweet_text": "@PermaFader It affects the win rate of the trade still. In this case it worked, but if there's a big resistance overhead after the recovery of the low, sokmetimes it doesn't even get that level to level move",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply discussing trade mechanics and win rates; no actionable price levels named."
+  },
+  {
+    "tweet_id": "2091925793865597410",
+    "timestamp_est": "2026-08-24T12:29:10-04:00",
+    "timestamp_utc": "2026-08-24T16:29:10.000Z",
+    "tweet_text": "We remain glued to 7680 in #ES_F and have been since Friday. Volatility remains extremely low, as we are now in the trappiest part of the day (mid-day chop). If we can get some momentum and recover here, 7695, 7706, 7716-20 remain above. Then bulls retake control above there https://t.co/VHAWdbc88P",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680, 7695, 7716 are morning plan levels; 7706 is mentioned conversationally in a directional list without explicit actionable naming language."
+  },
+  {
+    "tweet_id": "2091928311958016174",
+    "timestamp_est": "2026-08-24T12:39:10-04:00",
+    "timestamp_utc": "2026-08-24T16:39:10.000Z",
+    "tweet_text": "@StephenJ223624 In these markets its essential. Need NAP + need to see that momentum too",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price levels named; purely conversational commentary about market approach/methodology."
+  },
+  {
+    "tweet_id": "2091939928791826892",
+    "timestamp_est": "2026-08-24T13:25:20-04:00",
+    "timestamp_utc": "2026-08-24T17:25:20.000Z",
+    "tweet_text": "@ByShovelINC Yes, I've said this daily for years. As newsletter readers know I dont trade midday unless we have clear volatility. If things are moving fast and quickly I will obviously",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No price levels mentioned at all; purely conversational reply about trading style/midday activity."
+  },
+  {
+    "tweet_id": "2091945895436681513",
+    "timestamp_est": "2026-08-24T13:49:02-04:00",
+    "timestamp_utc": "2026-08-24T17:49:02.000Z",
+    "tweet_text": "@Coach_Dee1 Im hoping we can sell to ~7500 to backtest that breakout.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply expressing a hope/opinion about ~7500; no actionable naming language, and 7506 already in morning plan."
+  },
+  {
+    "tweet_id": "2091948926689533963",
+    "timestamp_est": "2026-08-24T14:01:05-04:00",
+    "timestamp_utc": "2026-08-24T18:01:05.000Z",
+    "tweet_text": "This action remains not tradeable in #ES_F. No volatility, and we need volatility to trade. No volatility means chop, traps, no follow through. 7680 must recover with momentum (triggers discussed in newsletter) to see 7695, 7706, 7716-20. We can sustain upside only above there https://t.co/RJgqUDOT4W",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680, 7695, 7716 are morning-plan levels; 7706 appears as a directional list item with no explicit naming language. No new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2091954879447142409",
+    "timestamp_est": "2026-08-24T14:24:44-04:00",
+    "timestamp_utc": "2026-08-24T18:24:44.000Z",
+    "tweet_text": "@landers_je94283 @StephenJ223624 All discussed in newsletter",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price levels named; purely directing user to newsletter. No actionable levels mentioned."
+  },
+  {
+    "tweet_id": "2091961048202911923",
+    "timestamp_est": "2026-08-24T14:49:15-04:00",
+    "timestamp_utc": "2026-08-24T18:49:15.000Z",
+    "tweet_text": "Closing update: Extreme chop session in #ES_F. Bulls need to recover 7680 to start the next leg up. Newsletter was sent early today due to then very low volatility. Next set of entries are in there.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680 is already in the morning plan. The tweet is a closing observation/reaffirmation with no newly named actionable levels."
+  },
+  {
+    "tweet_id": "2091970698126184875",
+    "timestamp_est": "2026-08-24T15:27:36-04:00",
+    "timestamp_utc": "2026-08-24T19:27:36.000Z",
+    "tweet_text": "@Foddmann @Snakeboosttfz1 That is a typo - it was supposed to say 730AM Friday. If you look at Friday's newsletter that is when the entry was and the Friday newsletter said the same thing. There was no Failed breakdown of anything at 730AM this morning",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet is a conversational reply clarifying a typo/timing error. No prices named, no actionable levels, no naming language used."
+  },
+  {
+    "tweet_id": "2091970808251834813",
+    "timestamp_est": "2026-08-24T15:28:02-04:00",
+    "timestamp_utc": "2026-08-24T19:28:02.000Z",
+    "tweet_text": "@Foddmann @Snakeboosttfz1 We obviously did not goto 7690 at any point this morning",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply observing price did not reach 7690; no actionable naming language used."
+  },
+  {
+    "tweet_id": "2091971249677140188",
+    "timestamp_est": "2026-08-24T15:29:47-04:00",
+    "timestamp_utc": "2026-08-24T19:29:47.000Z",
+    "tweet_text": "@SuperHumanEpoch Still needs some sort of catalyst to push price over",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply about needing a catalyst; no price named, no actionable level introduced."
+  },
+  {
+    "tweet_id": "2092002333014040921",
+    "timestamp_est": "2026-08-24T17:33:18-04:00",
+    "timestamp_utc": "2026-08-24T21:33:18.000Z",
+    "tweet_text": "@AnotherX2802 Its there (7659). Wrote extensively on it",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7659 mentioned conversationally in reply, no actionable naming language used; also a reaffirmation/reference to prior written content, not a new level."
+  },
+  {
+    "tweet_id": "2092058624562524429",
+    "timestamp_est": "2026-08-24T21:16:59-04:00",
+    "timestamp_utc": "2026-08-25T01:16:59.000Z",
+    "tweet_text": "@ForeRight26 Yes, worst conditions in a while",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply agreeing about conditions; no price named, no actionable level, no naming language."
+  }
+]

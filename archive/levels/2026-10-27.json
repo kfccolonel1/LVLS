@@ -1,0 +1,105 @@
+{
+  "session_date": "2026-10-27",
+  "daily_pivot": 7677.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7677.0,
+    7663.0,
+    7649.0,
+    7616.0,
+    7575.0,
+    7496.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7731.0,
+      "major": true
+    },
+    {
+      "price": 7757.5,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7835.0,
+      "major": true
+    },
+    {
+      "price": 7854.0,
+      "major": true
+    },
+    {
+      "price": 7873.0,
+      "major": true
+    },
+    {
+      "price": 7903.0,
+      "major": true
+    },
+    {
+      "price": 7923.0,
+      "major": true
+    },
+    {
+      "price": 7964.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7698.0,
+      "major": true
+    },
+    {
+      "price": 7677.0,
+      "major": true
+    },
+    {
+      "price": 7663.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7635.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7585.0,
+      "major": true
+    },
+    {
+      "price": 7555.0,
+      "major": true
+    },
+    {
+      "price": 7542.0,
+      "major": true
+    },
+    {
+      "price": 7525.0,
+      "major": true
+    },
+    {
+      "price": 7496.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is holding a 10% long runner from a Sunday 7677 failed-breakdown entry and waiting for another elevator-down sell before adding new longs. He leans bullish as long as 7677 holds, targeting 7755-60, 7782, then 7803 on the upside. The key pivot is 7677: above it bulls are in control and the range trade continues; below 7649 the bear breakdown case opens. No chasing; he only acts on a deep pullback into a planned level.",
+  "fetched_at": "2026-10-27T01:00:20.606190+00:00"
+}

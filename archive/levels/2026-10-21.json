@@ -1,0 +1,96 @@
+{
+  "session_date": "2026-10-21",
+  "daily_pivot": 7736.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7707.0,
+    7698.0,
+    7676.0,
+    7656.0,
+    7736.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7765.0,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7837.0,
+      "major": true
+    },
+    {
+      "price": 7864.0,
+      "major": true
+    },
+    {
+      "price": 7876.0,
+      "major": true
+    },
+    {
+      "price": 7903.0,
+      "major": true
+    },
+    {
+      "price": 7944.0,
+      "major": true
+    },
+    {
+      "price": 7954.0,
+      "major": true
+    },
+    {
+      "price": 7976.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7755.0,
+      "major": true
+    },
+    {
+      "price": 7736.0,
+      "major": true
+    },
+    {
+      "price": 7706.0,
+      "major": true
+    },
+    {
+      "price": 7676.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7634.0,
+      "major": true
+    },
+    {
+      "price": 7617.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish for Oct 21. As long as 7736 holds on dips (absolute floor at 7707 on a quick flush), he expects a grind toward 7798 then 7835, which is where last Wednesday's breakdown began. He is not chasing strength; he wants to buy failed breakdowns at 7736 or 7707 if price dips there. The key pivot is 7736: bulls are in control above it and the path higher is open; below it the rally stalls and bears gain footing.",
+  "fetched_at": "2026-10-21T18:07:22.506353+00:00"
+}

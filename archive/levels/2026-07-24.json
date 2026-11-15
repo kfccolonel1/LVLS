@@ -1,0 +1,124 @@
+{
+  "session_date": "2026-07-24",
+  "daily_pivot": 7474,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7411,
+    7412,
+    7369,
+    7358,
+    7311
+  ],
+  "bull_levels": [
+    {
+      "price": 7447.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7490.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7669.0,
+      "major": true
+    },
+    {
+      "price": 7694.0,
+      "major": true
+    },
+    {
+      "price": 7709.0,
+      "major": true
+    },
+    {
+      "price": 7725.0,
+      "major": true
+    },
+    {
+      "price": 7753.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7438.0,
+      "major": true
+    },
+    {
+      "price": 7412.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7391.0,
+      "major": true
+    },
+    {
+      "price": 7369.0,
+      "major": true
+    },
+    {
+      "price": 7358.0,
+      "major": true
+    },
+    {
+      "price": 7343.0,
+      "major": true
+    },
+    {
+      "price": 7326.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7277.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Bears took control after ES broke below the 7474-7627 monthly range, selling down to 7411. The key pivot is 7474: above it bulls resume control and the range trade resumes; below it bears remain in charge and supports are weaker. The trader plans to wait for a Failed Breakdown near 7411-7412 (ideally tagging 7398) for a long, targeting a backtest of 7474 then 7506. No longs without a proper flush-and-recover trigger.",
+  "fetched_at": "2026-07-24T05:00:23.545781+00:00"
+}

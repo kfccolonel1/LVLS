@@ -1,0 +1,128 @@
+{
+  "session_date": "2026-08-19",
+  "daily_pivot": 7797,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7716,
+    7738,
+    7706,
+    7695,
+    7638
+  ],
+  "bull_levels": [
+    {
+      "price": 7742.0,
+      "major": true
+    },
+    {
+      "price": 7758.0,
+      "major": true
+    },
+    {
+      "price": 7777.0,
+      "major": true
+    },
+    {
+      "price": 7798.5,
+      "major": true
+    },
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7854.0,
+      "major": true
+    },
+    {
+      "price": 7895.0,
+      "major": true
+    },
+    {
+      "price": 7913.0,
+      "major": true
+    },
+    {
+      "price": 7955.0,
+      "major": true
+    },
+    {
+      "price": 7975.0,
+      "major": true
+    },
+    {
+      "price": 8004.0,
+      "major": true
+    },
+    {
+      "price": 8023.0,
+      "major": true
+    },
+    {
+      "price": 8062.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7716.0,
+      "major": true
+    },
+    {
+      "price": 7706.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7665.0,
+      "major": true
+    },
+    {
+      "price": 7650.0,
+      "major": true
+    },
+    {
+      "price": 7638.0,
+      "major": true
+    },
+    {
+      "price": 7618.0,
+      "major": true
+    },
+    {
+      "price": 7568.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7516.0,
+      "major": true
+    },
+    {
+      "price": 7499.0,
+      "major": true
+    },
+    {
+      "price": 7475.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans that ES can attempt a bounce back up to 7797-7800 but bulls need to reclaim that level to regain control. He will wait for failed-breakdown setups at 7716 or 7706 area before going long. The daily pivot is 7797: above it bulls are back in charge and a push toward 7820+ is favored; below it bears retain control and supports are not expected to hold cleanly.",
+  "fetched_at": "2026-08-19T12:48:49.953995+00:00"
+}

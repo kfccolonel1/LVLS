@@ -1,0 +1,140 @@
+{
+  "session_date": "2026-07-13",
+  "daily_pivot": 7553.0,
+  "regime_hint": "C3",
+  "significant_lows": [
+    7553.0,
+    7527.0,
+    7482.0,
+    7467.0,
+    7408.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7612.0,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7668.0,
+      "major": true
+    },
+    {
+      "price": 7683.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7742.0,
+      "major": true
+    },
+    {
+      "price": 7763.0,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7805.0,
+      "major": true
+    },
+    {
+      "price": 7827.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7596.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7553.0,
+      "major": true
+    },
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7521.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7462.0,
+      "major": true
+    },
+    {
+      "price": 7438.0,
+      "major": true
+    },
+    {
+      "price": 7423.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7374.0,
+      "major": true
+    },
+    {
+      "price": 7358.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7326.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7294.0,
+      "major": true
+    },
+    {
+      "price": 7275.0,
+      "major": true
+    },
+    {
+      "price": 7256.0,
+      "major": true
+    },
+    {
+      "price": 7237.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is holding a 10% long runner from Wednesday's failed breakdown of 7482. He leans bullish, expecting dips to be bought and price to work up toward 7640 then 7668 and eventually 7695. He is not chasing; he waits for a pullback and failed breakdown setup. Key pivot is 7553: above it bulls remain in control targeting 7640+; below it a full retracement back into the prior range becomes likely.",
+  "fetched_at": "2026-07-13T05:00:18.833726+00:00"
+}

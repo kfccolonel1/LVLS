@@ -1,0 +1,130 @@
+{
+  "session_date": "2026-07-29",
+  "daily_pivot": 7506.0,
+  "regime_hint": "C5",
+  "significant_lows": [
+    7418.0,
+    7434.0,
+    7458.0,
+    7358.0,
+    7311.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7574.0,
+      "major": true
+    },
+    {
+      "price": 7614.0,
+      "major": true
+    },
+    {
+      "price": 7624.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7667.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7703.0,
+      "major": true
+    },
+    {
+      "price": 7744.0,
+      "major": true
+    },
+    {
+      "price": 7763.0,
+      "major": true
+    },
+    {
+      "price": 7790.0,
+      "major": true
+    },
+    {
+      "price": 7817.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7434.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    },
+    {
+      "price": 7391.0,
+      "major": true
+    },
+    {
+      "price": 7374.0,
+      "major": true
+    },
+    {
+      "price": 7364.0,
+      "major": true
+    },
+    {
+      "price": 7342.0,
+      "major": true
+    },
+    {
+      "price": 7319.0,
+      "major": true
+    },
+    {
+      "price": 7304.0,
+      "major": true
+    },
+    {
+      "price": 7296.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    }
+  ],
+  "event_times": [
+    1753808400000
+  ],
+  "event_day": true,
+  "notes": "FOMC day (2pm). ES is rangebound between 7418 (support shelf with multiple touches) and 7506 (broken support now acting as resistance). Trader leans bullish - expects a breakout above 7506 targeting 7533, 7575, then 7627. Key pivot is 7506: bulls need to reclaim it for a proper rally; below 7418 flips bearish and opens a fast drop. Will watch for failed-breakdown entries at 7458 or 7418 before engaging.",
+  "fetched_at": "2026-07-29T05:00:17.039685+00:00"
+}

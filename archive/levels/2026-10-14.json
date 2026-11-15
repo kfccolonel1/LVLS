@@ -1,0 +1,107 @@
+{
+  "session_date": "2026-10-14",
+  "daily_pivot": 7853,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7836,
+    7803,
+    7782,
+    7765
+  ],
+  "bull_levels": [
+    {
+      "price": 7872.0,
+      "major": true
+    },
+    {
+      "price": 7884.0,
+      "major": true
+    },
+    {
+      "price": 7918.0,
+      "major": true
+    },
+    {
+      "price": 7942.0,
+      "major": true
+    },
+    {
+      "price": 7991.0,
+      "major": true
+    },
+    {
+      "price": 8006.0,
+      "major": true
+    },
+    {
+      "price": 8024.0,
+      "major": true
+    },
+    {
+      "price": 8040.0,
+      "major": true
+    },
+    {
+      "price": 8050.0,
+      "major": true
+    },
+    {
+      "price": 8102.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7853.0,
+      "major": true
+    },
+    {
+      "price": 7835.0,
+      "major": true
+    },
+    {
+      "price": 7820.0,
+      "major": true
+    },
+    {
+      "price": 7804.0,
+      "major": true
+    },
+    {
+      "price": 7781.0,
+      "major": true
+    },
+    {
+      "price": 7765.0,
+      "major": true
+    },
+    {
+      "price": 7748.0,
+      "major": true
+    },
+    {
+      "price": 7725.0,
+      "major": true
+    },
+    {
+      "price": 7707.0,
+      "major": true
+    },
+    {
+      "price": 7672.0,
+      "major": true
+    },
+    {
+      "price": 7646.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES is stuck in a range between 7803 support and 7884 resistance after a big rally last Thursday. The trader leans bullish, waiting for dips to flush and recover key lows (Failed Breakdowns) before going long. The key pivot is 7853: above it bulls are in control and a breakout toward 7903-7918 becomes likely; below it the range chop continues with risk of testing 7836 or 7803.",
+  "fetched_at": "2026-10-14T01:00:15.904272+00:00"
+}

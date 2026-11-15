@@ -1,0 +1,99 @@
+[
+  {
+    "tweet_id": "2092216082241143255",
+    "timestamp_est": "2026-08-25T07:42:40-04:00",
+    "timestamp_utc": "2026-08-25T11:42:40.000Z",
+    "tweet_text": "Evening traders finally gifted the long in #ES_F. Per yesterday's newsletter + tweets all day, 7680 reclaims would trigger long. We triggered &amp; ripped. \n\nPlan today: 7710, 7716-20 next. Above there, we can really rip. 7734, 7746, 7794-97 next. 7680=support. Entries in newsletter https://t.co/sBaVkQ4k1a",
+    "added_bull_levels": [
+      7710.0,
+      7734.0,
+      7746.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7710, 7734, 7746 named as new sequential bull targets not in morning plan. 7716-20, 7794-97, 7680 are morning-plan levels (reaffirmations)."
+  },
+  {
+    "tweet_id": "2092224430722130365",
+    "timestamp_est": "2026-08-25T08:15:50-04:00",
+    "timestamp_utc": "2026-08-25T12:15:50.000Z",
+    "tweet_text": "@hcooper0113 I didn't take it, but yes that would work. I do take those sometimes. More of a double bottom than an FBD with simiar entry principles",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply to user about trade setup methodology; no price level named or actionable trigger identified."
+  },
+  {
+    "tweet_id": "2092241141227790478",
+    "timestamp_est": "2026-08-25T09:22:14-04:00",
+    "timestamp_utc": "2026-08-25T13:22:14.000Z",
+    "tweet_text": "We are now settling into the daily low vol in #ES_F, just hold runners. 7680 reclaim was entry and I gave this 5x live yesterday + in newsletter. Targets were 7710 (hit), 7716-20. That must clear to start a hard squeeze up the levels to 7734, 7746, 7797+\n\n7680 remains support, https://t.co/g2BscYS34Y",
+    "added_bull_levels": [
+      7734.0,
+      7746.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7734 and 7746 are named as new squeeze targets not in morning plan; 7680/7716/7797 are reaffirmations of existing plan levels."
+  },
+  {
+    "tweet_id": "2092252439231467751",
+    "timestamp_est": "2026-08-25T10:07:08-04:00",
+    "timestamp_utc": "2026-08-25T14:07:08.000Z",
+    "tweet_text": "We've settled again into routine daily low vol in #ES_F. Just hold runner. 7680 reclaim was last good long for evening traders. Targets were 7710 (hit), 7716-20. When that clears, we can go vertical to 7734, 7746, 7797+.\n\n7680=support still, with 7659 (watch traps) below there https://t.co/BgDSgvsAPk",
+    "added_bull_levels": [
+      7734.0,
+      7746.0
+    ],
+    "added_bear_levels": [
+      7659.0
+    ],
+    "notes": "7734/7746 named as new upside targets ('go vertical to'); 7659 named as new watch level below 7680 support ('watch traps'). 7680/7716/7797 are morning-plan levels."
+  },
+  {
+    "tweet_id": "2092262647915778368",
+    "timestamp_est": "2026-08-25T10:47:42-04:00",
+    "timestamp_utc": "2026-08-25T14:47:42.000Z",
+    "tweet_text": "Very slow action still in #ES_F and we are stuck in the same range for days. 7680 reclaim was last long trigger last evening. Targets were 7710 (hit), 7716-20 (not yet). 7716-20 must reclaim for bulls to regain control.\n\n7680 recoveries still actionable but lock gains fast. 7659 https://t.co/Ytv8N60dpr",
+    "added_bull_levels": [
+      7659.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7659 named at tweet end as actionable watch level (not in morning plan); 7680/7716-20 are reaffirmations of existing plan levels."
+  },
+  {
+    "tweet_id": "2092281761254215821",
+    "timestamp_est": "2026-08-25T12:03:39-04:00",
+    "timestamp_utc": "2026-08-25T16:03:39.000Z",
+    "tweet_text": "7680 reclaims remain the long entry in #ES_F but as posted, take profits extremely aggressively here at newsletter targets (I don't include them here anymore). +10 on that now.\n\n7710 (hit), 7716-20 remain next. When 7716-20 clears, we can rip to the 7797 backtest https://t.co/Fa2hLyGC7Y",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7680, 7710, 7716, 7720, 7797) are morning-plan levels or observations of price action already hit; no new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2092308302461804831",
+    "timestamp_est": "2026-08-25T13:49:07-04:00",
+    "timestamp_utc": "2026-08-25T17:49:07.000Z",
+    "tweet_text": "We are glued to the 7680 magnet. This action is not tradeable now in #ES_F, just hold runners. 7680 reclaims are the only entries. We triggered 1 overnight which got us to 7710+, and one today that went to 1st profit take at 7692.\n\n7710, 7716-20, then rip when ES gets momentum https://t.co/ejVHizDUM4",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7680/7716 are morning-plan levels; 7710 is a casual observation/target reference without new naming language; 7692 is a fill/profit-take, not a new actionable level."
+  },
+  {
+    "tweet_id": "2092325983097430197",
+    "timestamp_est": "2026-08-25T14:59:22-04:00",
+    "timestamp_utc": "2026-08-25T18:59:22.000Z",
+    "tweet_text": "Closing update #ES_F: Nothing happening today and markets are basically off. 7680 is all that matters. It reclaimed earlier and triggered long. Its now support. As long as it holds, we head higher to 7710, 7716-20, then rip. Newsletter out soon with next entries",
+    "added_bull_levels": [
+      7710.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7710 named as next upside target ('head higher to 7710') not in morning plan; 7716 is morning-plan level, 7680 is morning-plan level reaffirmed."
+  },
+  {
+    "tweet_id": "2092327805010714685",
+    "timestamp_est": "2026-08-25T15:06:36-04:00",
+    "timestamp_utc": "2026-08-25T19:06:36.000Z",
+    "tweet_text": "@ForeRight26 Markets barely turned on here",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply to user with no price named and no actionable level identified."
+  }
+]

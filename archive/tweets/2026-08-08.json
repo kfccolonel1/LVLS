@@ -1,0 +1,25 @@
+[
+  {
+    "tweet_id": "2086081721242468473",
+    "timestamp_est": "2026-08-08T09:26:54-04:00",
+    "timestamp_utc": "2026-08-08T13:26:54.000Z",
+    "tweet_text": "Big Picture View #ES_F: Last week was charting 101. I week ago I posted it built a 2 week bull flag and broke out. What was the plan? Rip, and we did\n\nPlan Next Week: Consolidate, flag again. 7800-7724=the range. Breakout targets 7820, 7870, then 7920. 7724 fails, dip 7695, 7649 https://t.co/PebxT330ef",
+    "added_bull_levels": [
+      7870.0
+    ],
+    "added_bear_levels": [
+      7724.0,
+      7649.0
+    ],
+    "notes": "7870 is a new breakout target not in morning plan; 7724 named as range floor/failure trigger; 7649 named as dip target on 7724 fail \u2014 all actionable and new."
+  },
+  {
+    "tweet_id": "2086159890829934902",
+    "timestamp_est": "2026-08-08T14:37:31-04:00",
+    "timestamp_utc": "2026-08-08T18:37:31.000Z",
+    "tweet_text": "@SDCtrader Its mostly semantics. Very technically yes a flag is a consolidation after a rally. You could call the white structure a channel breakout to be more precise. The result is the same for all of them, we rally",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet is purely educational/semantic discussion about chart patterns with no actionable price level named."
+  }
+]

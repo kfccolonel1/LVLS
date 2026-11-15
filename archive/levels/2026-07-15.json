@@ -1,0 +1,121 @@
+{
+  "session_date": "2026-07-15",
+  "daily_pivot": 7573,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7570,
+    7547,
+    7533,
+    7482,
+    7467,
+    7408
+  ],
+  "bull_levels": [
+    {
+      "price": 7597.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7673.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7720.0,
+      "major": true
+    },
+    {
+      "price": 7726.0,
+      "major": true
+    },
+    {
+      "price": 7758.0,
+      "major": true
+    },
+    {
+      "price": 7794.0,
+      "major": true
+    },
+    {
+      "price": 7825.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7571.5,
+      "major": true
+    },
+    {
+      "price": 7547.0,
+      "major": true
+    },
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7511.0,
+      "major": true
+    },
+    {
+      "price": 7490.0,
+      "major": true
+    },
+    {
+      "price": 7473.0,
+      "major": true
+    },
+    {
+      "price": 7459.0,
+      "major": true
+    },
+    {
+      "price": 7423.0,
+      "major": true
+    },
+    {
+      "price": 7397.0,
+      "major": true
+    },
+    {
+      "price": 7372.0,
+      "major": true
+    },
+    {
+      "price": 7364.0,
+      "major": true
+    },
+    {
+      "price": 7335.0,
+      "major": true
+    },
+    {
+      "price": 7313.0,
+      "major": true
+    },
+    {
+      "price": 7295.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES is stuck in a tight range (roughly 7533-7611) since last Thursday. The key pivot is 7573: above it the bias is bullish toward 7597, 7604, 7611, then a potential breakout to 7640; below it things get choppy. The plan is to wait for failed breakdowns at 7570-73 or 7533 before going long, then take profits level by level. No shorts planned. Trader is already holding a small long runner from yesterday.",
+  "fetched_at": "2026-07-15T05:00:22.257473+00:00"
+}

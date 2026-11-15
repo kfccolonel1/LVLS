@@ -1,0 +1,128 @@
+{
+  "session_date": "2026-10-09",
+  "daily_pivot": 7803,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7803,
+    7782,
+    7765,
+    7737,
+    7707
+  ],
+  "bull_levels": [
+    {
+      "price": 7822.0,
+      "major": true
+    },
+    {
+      "price": 7845.0,
+      "major": true
+    },
+    {
+      "price": 7857.0,
+      "major": true
+    },
+    {
+      "price": 7871.0,
+      "major": true
+    },
+    {
+      "price": 7887.0,
+      "major": true
+    },
+    {
+      "price": 7911.0,
+      "major": true
+    },
+    {
+      "price": 7932.0,
+      "major": true
+    },
+    {
+      "price": 7955.0,
+      "major": true
+    },
+    {
+      "price": 7967.0,
+      "major": true
+    },
+    {
+      "price": 7991.0,
+      "major": true
+    },
+    {
+      "price": 8023.0,
+      "major": true
+    },
+    {
+      "price": 8040.0,
+      "major": true
+    },
+    {
+      "price": 8058.0,
+      "major": true
+    },
+    {
+      "price": 8091.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7782.0,
+      "major": true
+    },
+    {
+      "price": 7765.0,
+      "major": true
+    },
+    {
+      "price": 7737.0,
+      "major": true
+    },
+    {
+      "price": 7726.0,
+      "major": true
+    },
+    {
+      "price": 7708.0,
+      "major": true
+    },
+    {
+      "price": 7688.0,
+      "major": true
+    },
+    {
+      "price": 7672.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7634.0,
+      "major": true
+    },
+    {
+      "price": 7617.0,
+      "major": true
+    },
+    {
+      "price": 7583.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish, holding a runner from Thursday's 7803 failed-breakdown long. He expects ES to defend 7803-7811, then rally to 7845, 7858, and 7871. The key pivot is 7803: above it bulls stay in control and the uptrend resumes toward all-time highs; below it the next supports are 7782 and 7765, where he would look to buy dips again. Bear case only begins if 7765 breaks.",
+  "fetched_at": "2026-10-09T01:00:21.045549+00:00"
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "tweet_id": "2063224914329395646",
+    "timestamp_est": "2026-06-06T07:42:07-04:00",
+    "timestamp_utc": "2026-06-06T11:42:07.000Z",
+    "tweet_text": "@experimntal @WestNyc1 Part of learning...have to learn to trade through different cycles. Market has different modes each with its own slight behaviors. Low vol uptrend, transition phases (these are the hardest), consolidation, downtrend (these are the easiest)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure educational commentary on market cycles/modes. No prices named, no actionable levels, no watch/trigger/support/resistance language whatsoever."
+  },
+  {
+    "tweet_id": "2063241529192276027",
+    "timestamp_est": "2026-06-06T08:48:08-04:00",
+    "timestamp_utc": "2026-06-06T12:48:08.000Z",
+    "tweet_text": "@RBC_Trading @experimntal @WestNyc1 Definitely a transition day. Whenever price does one thing for weeks on end then suddenly does something different it is hard to trade as you have to switch gears early",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure commentary on market character/transition; no price levels named, no actionable triggers or entries mentioned."
+  },
+  {
+    "tweet_id": "2063268546402992344",
+    "timestamp_est": "2026-06-06T10:35:29-04:00",
+    "timestamp_utc": "2026-06-06T14:35:29.000Z",
+    "tweet_text": "Big Picture View: This week #ES_F - 1st time since March - broke down a range with 7527 support &amp; sold. Its yet to backtest\n\nPlan Next Week: 7326=support. Must hold. 7410 recovery triggers up to 7458, 7508, 7527. Dip 1st there. Must recover to bottom\n\n7326 fails, sell 7300, 7187 https://t.co/t15OVZY7Du",
+    "added_bull_levels": [
+      7508.0
+    ],
+    "added_bear_levels": [
+      7326.0,
+      7300.0,
+      7187.0
+    ],
+    "notes": "7508 is a new actionable target not in morning plan; 7326 and 7300 are new named support/sell triggers; 7187 is a new named bear target below."
+  },
+  {
+    "tweet_id": "2063278285220388939",
+    "timestamp_est": "2026-06-06T11:14:11-04:00",
+    "timestamp_utc": "2026-06-06T15:14:11.000Z",
+    "tweet_text": "@Foddmann Its just a magnet to be backtested. 2.2% isn't much in this volatility though ES can do that quite easily after a big sell",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply referencing 2.2% distance only; no explicit price named, no actionable level language used."
+  },
+  {
+    "tweet_id": "2063284058751189214",
+    "timestamp_est": "2026-06-06T11:37:08-04:00",
+    "timestamp_utc": "2026-06-06T15:37:08.000Z",
+    "tweet_text": "@ES_Money_Print Its been a while mostly just because of the bullish context. We've had alot of shallow, fast Failed Breakdowns so for those the non acceptance protocol is just easiest. I use it in that context or if its just really choppy. its the vast majority of my entries though",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply explaining trading methodology/protocols. No prices mentioned, no actionable levels named."
+  },
+  {
+    "tweet_id": "2063343131232178517",
+    "timestamp_est": "2026-06-06T15:31:52-04:00",
+    "timestamp_utc": "2026-06-06T19:31:52.000Z",
+    "tweet_text": "@OnTheHooch Nothing to do with it. People always apply a narrative to every move. We had that strong NFP report Friday which would cause some algorithmic selling, it took us below a very key support (7527) then you get a feedback loop of selling begetting more selling. Air being let out",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7527 is already in today's morning plan; reference is observational/explanatory, not actionable naming language for a new level."
+  },
+  {
+    "tweet_id": "2063363976423952879",
+    "timestamp_est": "2026-06-06T16:54:42-04:00",
+    "timestamp_utc": "2026-06-06T20:54:42.000Z",
+    "tweet_text": "@AnotherX2802 To be fair the bear case hasnt triggered in probably a month until Friday!",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply to a user; no price levels named, no actionable language whatsoever."
+  }
+]

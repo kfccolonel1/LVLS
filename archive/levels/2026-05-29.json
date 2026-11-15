@@ -1,0 +1,114 @@
+{
+  "session_date": "2026-05-29",
+  "daily_pivot": 7565.0,
+  "regime_hint": "C3",
+  "significant_lows": [
+    7527.0,
+    7517.0,
+    7487.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7600.0,
+      "major": true
+    },
+    {
+      "price": 7620.0,
+      "major": true
+    },
+    {
+      "price": 7636.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7659.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7537.0,
+      "major": true
+    },
+    {
+      "price": 7527.0,
+      "major": true
+    },
+    {
+      "price": 7517.0,
+      "major": true
+    },
+    {
+      "price": 7503.0,
+      "major": true
+    },
+    {
+      "price": 7487.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7437.0,
+      "major": true
+    },
+    {
+      "price": 7411.0,
+      "major": true
+    },
+    {
+      "price": 7395.0,
+      "major": true
+    },
+    {
+      "price": 7377.0,
+      "major": true
+    },
+    {
+      "price": 7355.0,
+      "major": true
+    },
+    {
+      "price": 7326.0,
+      "major": true
+    },
+    {
+      "price": 7298.0,
+      "major": true
+    },
+    {
+      "price": 7257.5,
+      "major": true
+    },
+    {
+      "price": 7200.0,
+      "major": true
+    },
+    {
+      "price": 7188.0,
+      "major": true
+    },
+    {
+      "price": 7159.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES broke out of its 7516-7565 range to the upside. Trader leans bullish: expects bulls to defend 7565 (the old range top, now key support) and 7528 on any dips. If those hold, targets are 7600, 7620, 7636, 7649. No trades are chased after today's big squeeze; trader waits for a fresh elevator-down sell into a failed-breakdown setup. 7565 is the daily pivot: bullish above it, and bears have no real case unless 7528 fails.",
+  "fetched_at": "2026-05-29T05:00:18.772825+00:00"
+}

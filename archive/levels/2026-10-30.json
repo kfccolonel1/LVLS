@@ -1,0 +1,78 @@
+{
+  "session_date": "2026-10-30",
+  "daily_pivot": 7732.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7732.0,
+    7725.0,
+    7712.0,
+    7703.0,
+    7677.0,
+    7663.0,
+    7649.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7752.0,
+      "major": true
+    },
+    {
+      "price": 7772.0,
+      "major": true
+    },
+    {
+      "price": 7792.0,
+      "major": true
+    },
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7835.0,
+      "major": true
+    },
+    {
+      "price": 7847.0,
+      "major": true
+    },
+    {
+      "price": 7865.0,
+      "major": true
+    },
+    {
+      "price": 7894.0,
+      "major": true
+    },
+    {
+      "price": 7933.0,
+      "major": true
+    },
+    {
+      "price": 7946.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7732.0,
+      "major": true
+    },
+    {
+      "price": 7711.0,
+      "major": true
+    },
+    {
+      "price": 7703.0,
+      "major": true
+    },
+    {
+      "price": 7698.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish, staying inside a multi-week range (7677 support, 7803 resistance). After hitting range top at 7803, ES pulled back. Plan is to wait for sharp dips into key supports and only buy after a failed breakdown trigger. Key pivot is 7732: above it, targets are 7752, 7772, 7792, then 7803 and 7835. No bearish case unless 7703 breaks. Earnings after close may influence direction.",
+  "fetched_at": "2026-10-30T01:00:20.563022+00:00"
+}

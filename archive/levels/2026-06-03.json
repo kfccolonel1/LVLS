@@ -1,0 +1,132 @@
+{
+  "session_date": "2026-06-03",
+  "daily_pivot": 7577.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7587.0,
+    7577.0,
+    7565.0,
+    7527.0,
+    7517.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7620.0,
+      "major": true
+    },
+    {
+      "price": 7632.0,
+      "major": true
+    },
+    {
+      "price": 7643.0,
+      "major": true
+    },
+    {
+      "price": 7662.0,
+      "major": true
+    },
+    {
+      "price": 7671.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7716.0,
+      "major": true
+    },
+    {
+      "price": 7732.0,
+      "major": true
+    },
+    {
+      "price": 7761.0,
+      "major": true
+    },
+    {
+      "price": 7779.0,
+      "major": true
+    },
+    {
+      "price": 7805.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7604.0,
+      "major": true
+    },
+    {
+      "price": 7577.0,
+      "major": true
+    },
+    {
+      "price": 7558.0,
+      "major": true
+    },
+    {
+      "price": 7540.0,
+      "major": true
+    },
+    {
+      "price": 7515.0,
+      "major": true
+    },
+    {
+      "price": 7503.0,
+      "major": true
+    },
+    {
+      "price": 7471.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7438.0,
+      "major": true
+    },
+    {
+      "price": 7427.0,
+      "major": true
+    },
+    {
+      "price": 7410.0,
+      "major": true
+    },
+    {
+      "price": 7377.0,
+      "major": true
+    },
+    {
+      "price": 7345.0,
+      "major": true
+    },
+    {
+      "price": 7319.0,
+      "major": true
+    },
+    {
+      "price": 7307.0,
+      "major": true
+    },
+    {
+      "price": 7263.0,
+      "major": true
+    },
+    {
+      "price": 7248.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES has been rangebound since Friday between 7574-77 support and ~7620 resistance. Trader leans bullish, deferring to the uptrend, and expects the range to fill out before a breakout targeting 7643, 7662, 7671, 7716. He will wait for a sharp sell-off into support, then buy only on a failed breakdown (flush and recovery of a key low). The pivot is 7577: above it bulls are in control; below 7565 the setup turns bearish.",
+  "fetched_at": "2026-06-03T05:00:19.787982+00:00"
+}

@@ -1,0 +1,203 @@
+[
+  {
+    "tweet_id": "2082796970263916844",
+    "timestamp_est": "2026-07-30T07:54:28-04:00",
+    "timestamp_utc": "2026-07-30T11:54:28.000Z",
+    "tweet_text": "Volatility makes our job easy in #ES_F. \"Elevator down\" sells, create Failed Breakdowns. Per 2:45pm newsletter ystd, 7325 Failed Breakdowns get us long. We swept it by 1 point 4:35PM, now at 7400\n\nPlan: Ride runner. 7418 next, bull/bear line. Recover to bottom. 7373, 7342=support https://t.co/CBpXpVtVBp",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7325, 7418, 7373, 7342) are in the morning plan. Tweet is trade management + reaffirmations of existing levels, no new actionable levels."
+  },
+  {
+    "tweet_id": "2082805626061619701",
+    "timestamp_est": "2026-07-30T08:28:52-04:00",
+    "timestamp_utc": "2026-07-30T12:28:52.000Z",
+    "tweet_text": "@OnTheHooch Was waiting on that 25 level for a few weeks!",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply to a user about a past level ('25 level') \u2014 no actionable price named, no naming language, no new level introduced."
+  },
+  {
+    "tweet_id": "2082805660673061030",
+    "timestamp_est": "2026-07-30T08:29:00-04:00",
+    "timestamp_utc": "2026-07-30T12:29:00.000Z",
+    "tweet_text": "@angiebaby243396 Good stuff! Played out well",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price levels mentioned, purely conversational affirmation with no actionable data."
+  },
+  {
+    "tweet_id": "2082819720449835517",
+    "timestamp_est": "2026-07-30T09:24:52-04:00",
+    "timestamp_utc": "2026-07-30T13:24:52.000Z",
+    "tweet_text": "Longs continue to pay in #ES_F and now the job is easy. just ride the runner until the next bear trap to do it again. Same drill every single day. 7325 Failed breakdown was the long trigger &amp; I've been waiting on it for weeks\n\n7418 bull/bear line next. Huge res. 7434, 7458+ above https://t.co/R30tfa3XSV",
+    "added_bull_levels": [
+      7434.0,
+      7458.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7434 and 7458 are named as resistance targets above 7418 with 'above' framing; not in morning plan. 7325 and 7418 are morning-plan reaffirmations."
+  },
+  {
+    "tweet_id": "2082820347947077899",
+    "timestamp_est": "2026-07-30T09:27:22-04:00",
+    "timestamp_utc": "2026-07-30T13:27:22.000Z",
+    "tweet_text": "@OnTheHooch Backtests don't really have anything to do with day trading though! They are just magnet points the market will make their way to do. Doesn't have anything to do with my system or entries (unless you want to a short a backtest)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply explaining backtests as magnet points; no specific price named, no actionable level, no naming language."
+  },
+  {
+    "tweet_id": "2082824743539875921",
+    "timestamp_est": "2026-07-30T09:44:50-04:00",
+    "timestamp_utc": "2026-07-30T13:44:50.000Z",
+    "tweet_text": "@Mike79739104 I'm a Failed Breakdown trader so I'm always waiting for the Failed Breakdown",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining trading style/methodology. No price levels named, no actionable triggers cited."
+  },
+  {
+    "tweet_id": "2082824846434521575",
+    "timestamp_est": "2026-07-30T09:45:15-04:00",
+    "timestamp_utc": "2026-07-30T13:45:15.000Z",
+    "tweet_text": "@dirtymoose The june 11th low is closer",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply referencing a historical date/low with no explicit price named or actionable language used."
+  },
+  {
+    "tweet_id": "2082829411313705458",
+    "timestamp_est": "2026-07-30T10:03:23-04:00",
+    "timestamp_utc": "2026-07-30T14:03:23.000Z",
+    "tweet_text": "One way traffic &amp; perfect example how my system works in #ES_F for those new. 1. I never short 2. I wait for an \"elevator down\" sell. 3. I trade a Failed Breakdown (7325, given in advance). We are now +110 points here \n\nToday's targets were 7418 (hit), 7434 (hit), 7458, 7474 next https://t.co/hPn0nXvQOA",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7325, 7418, 7434, 7458, 7474) are morning-plan levels or reaffirmations of targets already published; 7434/7458 are observations of hits, not new actionable levels."
+  },
+  {
+    "tweet_id": "2082831023260180781",
+    "timestamp_est": "2026-07-30T10:09:47-04:00",
+    "timestamp_utc": "2026-07-30T14:09:47.000Z",
+    "tweet_text": "@HagglundKirk There was one ,the big 7418 Failed Breakdown before FOMC.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7418 is already in the morning plan; this is a hindsight reaffirmation of a prior FBD, not a new actionable level."
+  },
+  {
+    "tweet_id": "2082833642640863705",
+    "timestamp_est": "2026-07-30T10:20:12-04:00",
+    "timestamp_utc": "2026-07-30T14:20:12.000Z",
+    "tweet_text": "@bryce_schilling It should go under 7372 in that case but that was just too far so I stuck it about halfway under some smaller structure around 7400. I kept it there until trailed out on the post-FOMC sell",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply describing past trade management (stop placement, trailing out). 7372/7400 are observations of prior action, not new actionable levels named with naming language."
+  },
+  {
+    "tweet_id": "2082841045507748150",
+    "timestamp_est": "2026-07-30T10:49:37-04:00",
+    "timestamp_utc": "2026-07-30T14:49:37.000Z",
+    "tweet_text": "We are slowing into midday chop now in #ES_F and not much to do here now. Nothing to trade until we get another big \"elevator down\" sell. 7325 Failed Breakdown was last entry. Targets were 7418 major res and bull/bear line (hit), 7434 (hit), 7458, 7474+ above\n\n7408, 7393=supports https://t.co/LEMYB63XVv",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7325, 7418, 7434, 7458, 7474, 7408, 7393) are either morning-plan levels or hit-target observations. No new actionable levels named."
+  },
+  {
+    "tweet_id": "2082841316652658895",
+    "timestamp_est": "2026-07-30T10:50:41-04:00",
+    "timestamp_utc": "2026-07-30T14:50:41.000Z",
+    "tweet_text": "@Couto25 7418 was the major resistance now 7434. It doesn't have to do anything though (that would be predicting). We know 7418 is a major structure (you can see the shelf there). It failed yesterday, then became resistance. A very heavy resistance",
+    "added_bull_levels": [
+      7434.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7434 named as new major resistance \u2014 not in morning plan. 7418 is a reaffirmation of a morning plan level."
+  },
+  {
+    "tweet_id": "2082841354757947656",
+    "timestamp_est": "2026-07-30T10:50:50-04:00",
+    "timestamp_utc": "2026-07-30T14:50:50.000Z",
+    "tweet_text": "@Couto25 *not 7434",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet is a correction reply ('*not 7434') with no actionable naming language and no new level introduced."
+  },
+  {
+    "tweet_id": "2082849785162195151",
+    "timestamp_est": "2026-07-30T11:24:20-04:00",
+    "timestamp_utc": "2026-07-30T15:24:20.000Z",
+    "tweet_text": "Quick dip to 7408 support but be careful now in #ES_F. Volatility is low, which means low quality chop. I trade after a violent \"elevator down\" sell, where a squeeze is guaranteed post-Failed Breakdown\n\n7325 trap was last long. 7418 (hit), 7434 (hit), 7458, 7474 above. Sell&lt;93 https://t.co/JQZaxcXdRQ",
+    "added_bull_levels": [
+      7434.0,
+      7458.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7434 and 7458 are new upside targets not in morning plan; 7325/7418/7474 are morning-plan levels. 7408 is a morning-plan level reaffirmed."
+  },
+  {
+    "tweet_id": "2082867168664789254",
+    "timestamp_est": "2026-07-30T12:33:25-04:00",
+    "timestamp_utc": "2026-07-30T16:33:25.000Z",
+    "tweet_text": "Nice pop there in #ES_F but we are still in midday chop now. 7325 Failed Breakdown was last good long. Today's targets are 7418 (hit several times), 7434 (hit), 7458 (not yet), 7474 (not yet) \n\n7408 was first support of interest and quick sweep then squeeze. We only sell&lt;7393 https://t.co/sTTa7PpKXK",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7434 and 7458 mentioned as targets but these appear to be intraday references/observations, not newly named actionable levels; all other prices (7325,7418,7474,7408,7393) are morning-plan levels."
+  },
+  {
+    "tweet_id": "2082876229921738916",
+    "timestamp_est": "2026-07-30T13:09:25-04:00",
+    "timestamp_utc": "2026-07-30T17:09:25.000Z",
+    "tweet_text": "@SuperHumanEpoch Yes, its a major from the  newsletter. I no longer include all the key levels here on Twitter though.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply to user referencing newsletter levels generally; no specific actionable price named or introduced."
+  },
+  {
+    "tweet_id": "2082876347701919985",
+    "timestamp_est": "2026-07-30T13:09:53-04:00",
+    "timestamp_utc": "2026-07-30T17:09:53.000Z",
+    "tweet_text": "@SuperHumanEpoch (49 major not 44)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet correcting a number reference; no actionable price named, no naming language, purely conversational correction."
+  },
+  {
+    "tweet_id": "2082887268189004080",
+    "timestamp_est": "2026-07-30T13:53:17-04:00",
+    "timestamp_utc": "2026-07-30T17:53:17.000Z",
+    "tweet_text": "There's 7458 target 3 hit. Four targets were given for today in #ES_F: 7418 (hit), 7434 (hit), 7458 (hit), 7474 (not yet).\n\nLittle to do now. Entries in ES occur when we go \"elevator down\". Then ES (100% of the time) snaps back on a squeeze, after a Failed Breakdown (7325 ystd) https://t.co/Bo5c6Es8IP",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7458/7418/7434/7474 are existing targets; 7325 is a hindsight reference to yesterday's FBD. No new actionable levels named."
+  },
+  {
+    "tweet_id": "2082897431490961811",
+    "timestamp_est": "2026-07-30T14:33:40-04:00",
+    "timestamp_utc": "2026-07-30T18:33:40.000Z",
+    "tweet_text": "NOTE: Today's newsletter was sent out early ahead of Apple/Amazon earnings. 7474 remains next up, then 7492, then 7506. 7418, 7400 are supports (watch traps) if we are lucky enough to get another earnings related bear trap. Until then, just ride your runner",
+    "added_bull_levels": [
+      7492.0
+    ],
+    "added_bear_levels": [
+      7400.0
+    ],
+    "notes": "7492 named as 'next' target (actionable sequence); 7400 named as support to watch for bear trap \u2014 neither is in morning plan. 7474/7418/7506 are reaffirmations."
+  },
+  {
+    "tweet_id": "2082907211462795635",
+    "timestamp_est": "2026-07-30T15:12:32-04:00",
+    "timestamp_utc": "2026-07-30T19:12:32.000Z",
+    "tweet_text": "There's the full 4 target slate ran today in #ES_F. We are now +150 points from the 7325 Failed Breakdown, given *explicitly and in advance* in 2:45PM newsletter yesterday. Targets were given free at 8am: 7418 (hit), 7434 (hit), 7458 (hit), 7474 (hit).\n\nRide runner. 7506 next https://t.co/2DUjhqHuJl",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All mentioned prices (7325, 7418, 7434, 7458, 7474, 7506) are morning-plan levels or hit-target observations. 'Ride runner' is trade management, not a new actionable level."
+  },
+  {
+    "tweet_id": "2082907284489855351",
+    "timestamp_est": "2026-07-30T15:12:49-04:00",
+    "timestamp_utc": "2026-07-30T19:12:49.000Z",
+    "tweet_text": "Note: Newsletter was sent out 30mins ago showing the entry for the next Bear Trap",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No price level named; tweet references a newsletter entry but does not explicitly state any actionable price in this tweet."
+  }
+]

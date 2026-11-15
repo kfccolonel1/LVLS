@@ -1,0 +1,124 @@
+{
+  "session_date": "2026-07-27",
+  "daily_pivot": 7434,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7434,
+    7411,
+    7369,
+    7358,
+    7311
+  ],
+  "bull_levels": [
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7547.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7603.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7660.0,
+      "major": true
+    },
+    {
+      "price": 7674.0,
+      "major": true
+    },
+    {
+      "price": 7694.0,
+      "major": true
+    },
+    {
+      "price": 7719.0,
+      "major": true
+    },
+    {
+      "price": 7742.0,
+      "major": true
+    },
+    {
+      "price": 7757.0,
+      "major": true
+    },
+    {
+      "price": 7781.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7434.0,
+      "major": true
+    },
+    {
+      "price": 7411.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7383.0,
+      "major": true
+    },
+    {
+      "price": 7368.0,
+      "major": true
+    },
+    {
+      "price": 7359.0,
+      "major": true
+    },
+    {
+      "price": 7331.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7275.0,
+      "major": true
+    },
+    {
+      "price": 7262.0,
+      "major": true
+    },
+    {
+      "price": 7245.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish for Monday. He expects ES to hold 7434 (or flush briefly below it and recover) then rally back up toward 7506, 7533, 7547, and 7575. He is already long with a small runner from Friday. The key pivot is 7434: above it bulls are in control and a push back into the monthly range is expected; below it bears take over and a breakdown short toward 7411 and lower becomes possible.",
+  "fetched_at": "2026-07-27T05:00:27.833335+00:00"
+}

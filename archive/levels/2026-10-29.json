@@ -1,0 +1,99 @@
+{
+  "session_date": "2026-10-29",
+  "daily_pivot": 7677.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7752.0,
+    7712.0,
+    7701.0,
+    7677.0,
+    7663.0,
+    7649.0,
+    7616.0,
+    7575.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7803.0,
+      "major": true
+    },
+    {
+      "price": 7835.0,
+      "major": true
+    },
+    {
+      "price": 7845.0,
+      "major": true
+    },
+    {
+      "price": 7863.0,
+      "major": true
+    },
+    {
+      "price": 7873.0,
+      "major": true
+    },
+    {
+      "price": 7903.0,
+      "major": true
+    },
+    {
+      "price": 7918.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7772.0,
+      "major": true
+    },
+    {
+      "price": 7752.0,
+      "major": true
+    },
+    {
+      "price": 7748.0,
+      "major": true
+    },
+    {
+      "price": 7732.0,
+      "major": true
+    },
+    {
+      "price": 7720.0,
+      "major": true
+    },
+    {
+      "price": 7712.0,
+      "major": true
+    },
+    {
+      "price": 7701.0,
+      "major": true
+    },
+    {
+      "price": 7677.0,
+      "major": true
+    },
+    {
+      "price": 7645.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7585.0,
+      "major": true
+    },
+    {
+      "price": 7545.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader holds a long runner from the 7677 Failed Breakdown Sunday and leans bullish. He wants ES to continue up the multi-week range toward 7803, then 7835, and eventually all-time highs near 7920. The key pivot is 7677: bulls are in control above it. The key interior zone is 7748-7752 - bulls want to defend it (or quickly recover a dip below) to keep the upside path open. No bearish case unless ES loses 7703.",
+  "fetched_at": "2026-10-29T01:00:19.852532+00:00"
+}

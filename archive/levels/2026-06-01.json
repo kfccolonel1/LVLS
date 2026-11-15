@@ -1,0 +1,144 @@
+{
+  "session_date": "2026-06-01",
+  "daily_pivot": 7565,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7565,
+    7574,
+    7527,
+    7518,
+    7485
+  ],
+  "bull_levels": [
+    {
+      "price": 7609.0,
+      "major": true
+    },
+    {
+      "price": 7624.0,
+      "major": true
+    },
+    {
+      "price": 7655.0,
+      "major": true
+    },
+    {
+      "price": 7671.0,
+      "major": true
+    },
+    {
+      "price": 7681.0,
+      "major": true
+    },
+    {
+      "price": 7704.0,
+      "major": true
+    },
+    {
+      "price": 7723.0,
+      "major": true
+    },
+    {
+      "price": 7740.0,
+      "major": true
+    },
+    {
+      "price": 7761.0,
+      "major": true
+    },
+    {
+      "price": 7795.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7585.0,
+      "major": true
+    },
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7538.0,
+      "major": true
+    },
+    {
+      "price": 7526.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7503.0,
+      "major": true
+    },
+    {
+      "price": 7488.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7438.0,
+      "major": true
+    },
+    {
+      "price": 7415.0,
+      "major": true
+    },
+    {
+      "price": 7395.0,
+      "major": true
+    },
+    {
+      "price": 7377.0,
+      "major": true
+    },
+    {
+      "price": 7346.0,
+      "major": true
+    },
+    {
+      "price": 7326.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7300.0,
+      "major": true
+    },
+    {
+      "price": 7263.0,
+      "major": true
+    },
+    {
+      "price": 7247.0,
+      "major": true
+    },
+    {
+      "price": 7240.0,
+      "major": true
+    },
+    {
+      "price": 7214.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is long-biased after ES broke out of the 7516-7565 multi-day range. He is waiting for a pullback and a failed breakdown setup rather than chasing. Key pivot is 7565: above it, bulls stay in control and targets are 7609, 7624, 7655; below it the breakout is in question and a drop back to 7516 would signal broader selling. No new longs will be chased near current highs.",
+  "fetched_at": "2026-06-01T05:00:20.042836+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "session_date": "2026-08-18",
+  "daily_pivot": 7797.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7797.0,
+    7777.0,
+    7758.0,
+    7738.0,
+    7724.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7797.0,
+      "major": true
+    },
+    {
+      "price": 7817.5,
+      "major": true
+    },
+    {
+      "price": 7844.0,
+      "major": true
+    },
+    {
+      "price": 7877.0,
+      "major": true
+    },
+    {
+      "price": 7895.0,
+      "major": true
+    },
+    {
+      "price": 7910.0,
+      "major": true
+    },
+    {
+      "price": 7950.0,
+      "major": true
+    },
+    {
+      "price": 7977.0,
+      "major": true
+    },
+    {
+      "price": 8005.0,
+      "major": true
+    },
+    {
+      "price": 8059.0,
+      "major": true
+    },
+    {
+      "price": 8085.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7777.0,
+      "major": true
+    },
+    {
+      "price": 7767.0,
+      "major": true
+    },
+    {
+      "price": 7741.0,
+      "major": true
+    },
+    {
+      "price": 7724.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7676.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7628.0,
+      "major": true
+    },
+    {
+      "price": 7613.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7527.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7475.0,
+      "major": true
+    },
+    {
+      "price": 7445.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "After a 400+ point August rally, ES spent last week building a bull flag (7724-7797) and broke out Thursday. Monday it pulled back. The trader leans bullish: he wants ES to hold or reclaim 7797 (the daily pivot - bulls favored above it, bears below) and will look for Failed Breakdown entries at 7797, 7777, 7758, or 7738 if price flushes those lows and recovers. Upside targets are 7815-20, 7844, then 7877. No shorts planned.",
+  "fetched_at": "2026-08-18T11:20:38.641617+00:00"
+}

@@ -1,0 +1,126 @@
+{
+  "session_date": "2026-09-16",
+  "daily_pivot": 7643.0,
+  "regime_hint": "C5",
+  "significant_lows": [
+    7643.0,
+    7645.0,
+    7616.0,
+    7604.0,
+    7584.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7662.0,
+      "major": true
+    },
+    {
+      "price": 7672.0,
+      "major": true
+    },
+    {
+      "price": 7702.0,
+      "major": true
+    },
+    {
+      "price": 7714.0,
+      "major": true
+    },
+    {
+      "price": 7728.0,
+      "major": true
+    },
+    {
+      "price": 7750.0,
+      "major": true
+    },
+    {
+      "price": 7759.0,
+      "major": true
+    },
+    {
+      "price": 7781.0,
+      "major": true
+    },
+    {
+      "price": 7788.0,
+      "major": true
+    },
+    {
+      "price": 7812.0,
+      "major": true
+    },
+    {
+      "price": 7830.0,
+      "major": true
+    },
+    {
+      "price": 7864.0,
+      "major": true
+    },
+    {
+      "price": 7887.0,
+      "major": true
+    },
+    {
+      "price": 7917.0,
+      "major": true
+    },
+    {
+      "price": 7958.0,
+      "major": true
+    },
+    {
+      "price": 7985.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7644.0,
+      "major": true
+    },
+    {
+      "price": 7634.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7604.0,
+      "major": true
+    },
+    {
+      "price": 7584.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    },
+    {
+      "price": 7542.0,
+      "major": true
+    },
+    {
+      "price": 7525.0,
+      "major": true
+    },
+    {
+      "price": 7495.0,
+      "major": true
+    },
+    {
+      "price": 7460.0,
+      "major": true
+    }
+  ],
+  "event_times": [
+    1758052800000
+  ],
+  "event_day": true,
+  "notes": "FOMC day. Trader leans bullish, expecting ES to hold or briefly dip below the 7643 range low before working up to 7670, 7702, 7714, then potentially breaking out to 7728 and 7750+. The key pivot is 7643: above it the bull case stays intact and the range continues; a sustained break below it opens the door to 7616 and 7604 support. Caution advised around post-FOMC whipsaw after 2pm.",
+  "fetched_at": "2026-09-16T05:00:16.045240+00:00"
+}

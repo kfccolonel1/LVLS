@@ -1,0 +1,100 @@
+{
+  "session_date": "2026-09-21",
+  "daily_pivot": 7628.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7675.0,
+    7657.0,
+    7628.0,
+    7616.0,
+    7574.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7714.0,
+      "major": true
+    },
+    {
+      "price": 7729.0,
+      "major": true
+    },
+    {
+      "price": 7750.0,
+      "major": true
+    },
+    {
+      "price": 7780.0,
+      "major": true
+    },
+    {
+      "price": 7812.0,
+      "major": true
+    },
+    {
+      "price": 7830.0,
+      "major": true
+    },
+    {
+      "price": 7867.0,
+      "major": true
+    },
+    {
+      "price": 7879.0,
+      "major": true
+    },
+    {
+      "price": 7886.0,
+      "major": true
+    },
+    {
+      "price": 7895.0,
+      "major": true
+    },
+    {
+      "price": 7953.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7681.0,
+      "major": true
+    },
+    {
+      "price": 7657.0,
+      "major": true
+    },
+    {
+      "price": 7645.0,
+      "major": true
+    },
+    {
+      "price": 7628.0,
+      "major": true
+    },
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7584.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    },
+    {
+      "price": 7542.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish, holding a runner from the big Wednesday bounce off 7616. He is waiting for pullbacks to set up buy opportunities rather than chasing strength. Key pivot is 7628 (bull flag support): above it, he expects a grind toward 7750 then 7780-7789 flag resistance; below it, the bull case weakens. He will look to buy failed breakdowns of 7675, 7657, 7628, and 7616 if price dips and recovers those levels.",
+  "fetched_at": "2026-09-21T05:00:21.110551+00:00"
+}

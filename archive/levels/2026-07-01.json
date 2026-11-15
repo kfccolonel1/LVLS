@@ -1,0 +1,116 @@
+{
+  "session_date": "2026-07-01",
+  "daily_pivot": 7511,
+  "regime_hint": "C1",
+  "significant_lows": [
+    7492,
+    7459,
+    7420,
+    7409,
+    7368
+  ],
+  "bull_levels": [
+    {
+      "price": 7560.0,
+      "major": true
+    },
+    {
+      "price": 7578.0,
+      "major": true
+    },
+    {
+      "price": 7597.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7638.0,
+      "major": true
+    },
+    {
+      "price": 7668.0,
+      "major": true
+    },
+    {
+      "price": 7683.0,
+      "major": true
+    },
+    {
+      "price": 7728.0,
+      "major": true
+    },
+    {
+      "price": 7750.0,
+      "major": true
+    },
+    {
+      "price": 7780.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7530.0,
+      "major": true
+    },
+    {
+      "price": 7511.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    },
+    {
+      "price": 7459.0,
+      "major": true
+    },
+    {
+      "price": 7420.0,
+      "major": true
+    },
+    {
+      "price": 7399.0,
+      "major": true
+    },
+    {
+      "price": 7374.0,
+      "major": true
+    },
+    {
+      "price": 7351.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7321.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    },
+    {
+      "price": 7235.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish into July 4th holiday week, one of the strongest seasonal windows of the year. After today's rally to 7530, he expects continuation toward 7578 then 7597 with little pullback. He holds a long runner from the 7421 Failed Breakdown on Sunday. Key pivot is 7511: bulls stay in control above it, and any dip ideally holds there or at 7492 before resuming higher. Below 7459 the bear case begins.",
+  "fetched_at": "2026-07-01T05:00:19.348967+00:00"
+}

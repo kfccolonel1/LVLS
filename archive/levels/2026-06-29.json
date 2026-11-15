@@ -1,0 +1,129 @@
+{
+  "session_date": "2026-06-29",
+  "daily_pivot": 7421,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7357,
+    7369,
+    7390,
+    7392,
+    7409,
+    7421
+  ],
+  "bull_levels": [
+    {
+      "price": 7437.0,
+      "major": true
+    },
+    {
+      "price": 7453.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7511.0,
+      "major": true
+    },
+    {
+      "price": 7530.0,
+      "major": true
+    },
+    {
+      "price": 7559.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7630.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7682.0,
+      "major": true
+    },
+    {
+      "price": 7720.0,
+      "major": true
+    },
+    {
+      "price": 7740.0,
+      "major": true
+    },
+    {
+      "price": 7776.0,
+      "major": true
+    },
+    {
+      "price": 7800.0,
+      "major": true
+    },
+    {
+      "price": 7828.0,
+      "major": true
+    },
+    {
+      "price": 7883.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7409.0,
+      "major": true
+    },
+    {
+      "price": 7390.0,
+      "major": true
+    },
+    {
+      "price": 7369.0,
+      "major": true
+    },
+    {
+      "price": 7357.0,
+      "major": true
+    },
+    {
+      "price": 7325.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7275.0,
+      "major": true
+    },
+    {
+      "price": 7245.0,
+      "major": true
+    },
+    {
+      "price": 7222.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is holding a 10% long runner from Friday's 7392 reclaim and leans bullish for Monday. He expects ES to stay in a chop range roughly 7369\u20137490, with 7421 as the key pivot: above it bulls aim for 7439, 7453, 7472, 7492, then 7530; below 7369 bears take control. He will look to buy failed breakdowns of key lows (especially 7357 and 7325) rather than chasing. Bears have held overall control since Monday's break of 7530.",
+  "fetched_at": "2026-06-29T05:00:20.839727+00:00"
+}

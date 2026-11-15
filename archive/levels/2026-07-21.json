@@ -1,0 +1,134 @@
+{
+  "session_date": "2026-07-21",
+  "daily_pivot": 7575.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7504.0,
+    7490.0,
+    7483.0,
+    7473.0,
+    7459.0,
+    7408.0,
+    7357.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7532.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7564.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7597.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7642.5,
+      "major": true
+    },
+    {
+      "price": 7669.0,
+      "major": true
+    },
+    {
+      "price": 7694.0,
+      "major": true
+    },
+    {
+      "price": 7716.0,
+      "major": true
+    },
+    {
+      "price": 7757.0,
+      "major": true
+    },
+    {
+      "price": 7771.0,
+      "major": true
+    },
+    {
+      "price": 7821.0,
+      "major": true
+    },
+    {
+      "price": 7841.0,
+      "major": true
+    },
+    {
+      "price": 7877.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7504.0,
+      "major": true
+    },
+    {
+      "price": 7483.0,
+      "major": true
+    },
+    {
+      "price": 7471.0,
+      "major": true
+    },
+    {
+      "price": 7459.0,
+      "major": true
+    },
+    {
+      "price": 7439.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7390.0,
+      "major": true
+    },
+    {
+      "price": 7369.0,
+      "major": true
+    },
+    {
+      "price": 7346.0,
+      "major": true
+    },
+    {
+      "price": 7336.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish-leaning within a month-long range (7482\u20137627). He is holding a long runner from the Sunday 7490 recovery and expects bulls to push toward 7575, then 7611 and 7627. He will look to buy failed breakdowns at 7490, 7483, 7473, and 7408 if price dips. The daily pivot is 7575: above it, bulls are in control and a run to 7611\u20137627 is favored; below it, the range stays compressed and bears have a chance.",
+  "fetched_at": "2026-07-21T05:00:19.315582+00:00"
+}

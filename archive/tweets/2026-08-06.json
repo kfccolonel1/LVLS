@@ -1,0 +1,85 @@
+[
+  {
+    "tweet_id": "2085326037966074241",
+    "timestamp_est": "2026-08-06T07:24:05-04:00",
+    "timestamp_utc": "2026-08-06T11:24:05.000Z",
+    "tweet_text": "After 4 days of parabolic upside, #ES_F is finally basing. This process often takes days. 7763 was support given yesterday and ES agrees, stuck here since 10am yesterday. This lvl is weak, choppy\n\nPlan today: 7772 must reclaim to scalp to 7785, 7800+. 7751 fails, dip 7741, 7708 https://t.co/NnlkRsXO6I",
+    "added_bull_levels": [
+      7772.0,
+      7785.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7772 named as must-reclaim trigger for bull scalp; 7785 named as explicit scalp target \u2014 both are new actionable levels not in morning plan."
+  },
+  {
+    "tweet_id": "2085331633817686097",
+    "timestamp_est": "2026-08-06T07:46:19-04:00",
+    "timestamp_utc": "2026-08-06T11:46:19.000Z",
+    "tweet_text": "@weneedthepoo Yes, I've cut it down to a 25% runner though due to the lack of volatility.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Trade management reply \u2014 trimming runner size, no price level named or actionable trigger given."
+  },
+  {
+    "tweet_id": "2085341677657453042",
+    "timestamp_est": "2026-08-06T08:26:14-04:00",
+    "timestamp_utc": "2026-08-06T12:26:14.000Z",
+    "tweet_text": "No volatility now in #ES_F and dangerous to engage this type of low vol chop. ES is digesting the recent 400+ point rally. 7763 remains a key pivot but its now used up\n\nBulls need to hold 7751 and recover 7763 now with force to see 7772, 7785, 7800. We dip&lt;7751 to 7741, 7708 https://t.co/ac18rvnbBt",
+    "added_bull_levels": [
+      7772.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7772 named as bull target ('to see 7772') not in morning plan; 7785 close to plan's 7783 treated as reaffirmation; all others are morning-plan levels."
+  },
+  {
+    "tweet_id": "2085360067889582463",
+    "timestamp_est": "2026-08-06T09:39:18-04:00",
+    "timestamp_utc": "2026-08-06T13:39:18.000Z",
+    "tweet_text": "Very slow, low volatility chop in #ES_F as we digest the recent rally. ES is low glued to 7763 which remains a magnet. It needs to recover with force to see 7772, 7785, 7800+. If today's current lows fail, next big support is 7741, then down to 7708. Don't overtrade here https://t.co/VQ22JJ2Cas",
+    "added_bull_levels": [
+      7772.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7772 is named as the next bull target requiring forceful recovery \u2014 not in morning plan. 7785/7800/7741/7708 are all morning-plan reaffirmations."
+  },
+  {
+    "tweet_id": "2085394380060328419",
+    "timestamp_est": "2026-08-06T11:55:39-04:00",
+    "timestamp_utc": "2026-08-06T15:55:39.000Z",
+    "tweet_text": "Volatility still very low in #ES_F but we have finally broken down that 7751 level which has been a big support shelf for 24hrs.  7741 (hit), 7708 were next down.\n\nIn order to rally now, ES must recover that 7751 shelf which would produce a large Failed Breakdown to 7763+ https://t.co/vMLqoodEqH",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7751, 7741, 7708, 7763) are morning-plan levels; tweet is observational/reaffirmation with no new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2085398014009413840",
+    "timestamp_est": "2026-08-06T12:10:06-04:00",
+    "timestamp_utc": "2026-08-06T16:10:06.000Z",
+    "tweet_text": "@MrMr1234ABC @mikeymoola Yes, I dont short",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price levels mentioned at all; purely a conversational statement about trading style."
+  },
+  {
+    "tweet_id": "2085412793302360247",
+    "timestamp_est": "2026-08-06T13:08:49-04:00",
+    "timestamp_utc": "2026-08-06T17:08:49.000Z",
+    "tweet_text": "No volatility in #ES_F at all and everything in slow motion today. Price is resting after a 400+ point vertical rally from the 7325 Failed Breakdown last Wednesday. Bulls must recover 7751 to see 7763, 7774, 7782+.\n\nNo big supports now until 7708 https://t.co/9St1cvXTqa",
+    "added_bull_levels": [
+      7774.0
+    ],
+    "added_bear_levels": [
+      7708.0
+    ],
+    "notes": "7774 named as bull target (new, not in plan); 7708 named as 'no big supports until' (new bear support). 7763/7751/7782 are plan levels; 7325 is historical observation."
+  },
+  {
+    "tweet_id": "2085443959430471751",
+    "timestamp_est": "2026-08-06T15:12:40-04:00",
+    "timestamp_utc": "2026-08-06T19:12:40.000Z",
+    "tweet_text": "Closing update #ES_F: No volatility today to work with at all. Bulls must recover 7751 now to resume up to 7763+. Newsletter was sent out early today due to the low volatility",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7751 and 7763 are morning plan levels; 'must recover' is a reaffirmation. No new actionable prices introduced."
+  }
+]

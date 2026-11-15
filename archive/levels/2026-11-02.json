@@ -1,0 +1,97 @@
+{
+  "session_date": "2026-11-02",
+  "daily_pivot": 7665.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7575.0,
+    7566.0,
+    7525.0,
+    7493.0,
+    7485.0,
+    7469.0,
+    7440.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7616.0,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7665.0,
+      "major": true
+    },
+    {
+      "price": 7677.0,
+      "major": true
+    },
+    {
+      "price": 7687.0,
+      "major": true
+    },
+    {
+      "price": 7703.0,
+      "major": true
+    },
+    {
+      "price": 7712.0,
+      "major": true
+    },
+    {
+      "price": 7732.0,
+      "major": true
+    },
+    {
+      "price": 7739.0,
+      "major": true
+    },
+    {
+      "price": 7754.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    },
+    {
+      "price": 7525.0,
+      "major": true
+    },
+    {
+      "price": 7493.0,
+      "major": true
+    },
+    {
+      "price": 7485.0,
+      "major": true
+    },
+    {
+      "price": 7469.0,
+      "major": true
+    },
+    {
+      "price": 7440.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans toward a bounce attempt after Friday's big sell-off broke below the prior multi-week range. He is watching for ES to recover 7577 first, then 7627, which could carry price back up toward 7665-7677. The key pivot is 7665/7677: bulls need to reclaim this level to regai",
+  "fetched_at": "2026-11-02T14:54:27.197111+00:00",
+  "source_hash": "b86b10be40863151",
+  "hand_edited": true,
+  "edited_at": "2026-11-02T14:56:32.907445+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "session_date": "2026-07-10",
+  "daily_pivot": 7533,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7533,
+    7482,
+    7467,
+    7438,
+    7408
+  ],
+  "bull_levels": [
+    {
+      "price": 7597.0,
+      "major": true
+    },
+    {
+      "price": 7621.0,
+      "major": true
+    },
+    {
+      "price": 7639.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7668.0,
+      "major": true
+    },
+    {
+      "price": 7682.0,
+      "major": true
+    },
+    {
+      "price": 7716.0,
+      "major": true
+    },
+    {
+      "price": 7733.0,
+      "major": true
+    },
+    {
+      "price": 7749.0,
+      "major": true
+    },
+    {
+      "price": 7777.5,
+      "major": true
+    },
+    {
+      "price": 7819.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7565.0,
+      "major": true
+    },
+    {
+      "price": 7555.0,
+      "major": true
+    },
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7513.0,
+      "major": true
+    },
+    {
+      "price": 7491.0,
+      "major": true
+    },
+    {
+      "price": 7459.0,
+      "major": true
+    },
+    {
+      "price": 7438.0,
+      "major": true
+    },
+    {
+      "price": 7417.0,
+      "major": true
+    },
+    {
+      "price": 7383.0,
+      "major": true
+    },
+    {
+      "price": 7373.0,
+      "major": true
+    },
+    {
+      "price": 7351.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7313.0,
+      "major": true
+    },
+    {
+      "price": 7287.0,
+      "major": true
+    },
+    {
+      "price": 7277.0,
+      "major": true
+    },
+    {
+      "price": 7237.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "ES has been rangebound since June 30, roughly 7482 to 7597. The trader already holds a long runner from a prior Failed Breakdown at 7482 and leans bullish for a range breakout targeting 7611, 7621, then 7639+. He will not chase; he waits for dips to 7555 or 7533 (key pivot) for new entries, ideally on a flush and recovery of the 7527-29 low cluster. Below 7482 turns bearish.",
+  "fetched_at": "2026-07-10T05:00:17.803995+00:00"
+}

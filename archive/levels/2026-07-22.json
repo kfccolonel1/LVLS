@@ -1,0 +1,123 @@
+{
+  "session_date": "2026-07-22",
+  "daily_pivot": 7575.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7506.0,
+    7473.0,
+    7408.0,
+    7357.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7547.0,
+      "major": true
+    },
+    {
+      "price": 7563.0,
+      "major": true
+    },
+    {
+      "price": 7575.0,
+      "major": true
+    },
+    {
+      "price": 7595.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7657.0,
+      "major": true
+    },
+    {
+      "price": 7673.0,
+      "major": true
+    },
+    {
+      "price": 7708.0,
+      "major": true
+    },
+    {
+      "price": 7744.0,
+      "major": true
+    },
+    {
+      "price": 7778.0,
+      "major": true
+    },
+    {
+      "price": 7812.0,
+      "major": true
+    },
+    {
+      "price": 7829.0,
+      "major": true
+    },
+    {
+      "price": 7849.0,
+      "major": true
+    },
+    {
+      "price": 7859.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7533.0,
+      "major": true
+    },
+    {
+      "price": 7506.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7473.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7439.0,
+      "major": true
+    },
+    {
+      "price": 7422.0,
+      "major": true
+    },
+    {
+      "price": 7398.0,
+      "major": true
+    },
+    {
+      "price": 7373.0,
+      "major": true
+    },
+    {
+      "price": 7333.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish and expects the month-long range (7473 to 7627) to continue filling upward. He wants to buy dips, ideally holding above 7533 or only briefly dipping under 7506, then moving up to 7575, 7611, and 7627. The key pivot is 7575: above it bulls are in control aiming for 7627 and a potential breakout; below it the range remains under pressure. No new longs to chase at current mid-range prices.",
+  "fetched_at": "2026-07-22T05:00:18.044983+00:00"
+}

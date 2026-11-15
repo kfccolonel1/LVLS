@@ -1,0 +1,141 @@
+{
+  "session_date": "2026-07-06",
+  "daily_pivot": 7521,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7521,
+    7492,
+    7482,
+    7423,
+    7409,
+    7421
+  ],
+  "bull_levels": [
+    {
+      "price": 7522.0,
+      "major": true
+    },
+    {
+      "price": 7540.0,
+      "major": true
+    },
+    {
+      "price": 7578.0,
+      "major": true
+    },
+    {
+      "price": 7598.0,
+      "major": true
+    },
+    {
+      "price": 7621.0,
+      "major": true
+    },
+    {
+      "price": 7655.0,
+      "major": true
+    },
+    {
+      "price": 7667.0,
+      "major": true
+    },
+    {
+      "price": 7683.0,
+      "major": true
+    },
+    {
+      "price": 7696.0,
+      "major": true
+    },
+    {
+      "price": 7723.0,
+      "major": true
+    },
+    {
+      "price": 7735.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7511.0,
+      "major": true
+    },
+    {
+      "price": 7492.0,
+      "major": true
+    },
+    {
+      "price": 7482.0,
+      "major": true
+    },
+    {
+      "price": 7454.0,
+      "major": true
+    },
+    {
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7399.0,
+      "major": true
+    },
+    {
+      "price": 7369.0,
+      "major": true
+    },
+    {
+      "price": 7358.0,
+      "major": true
+    },
+    {
+      "price": 7346.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7311.0,
+      "major": true
+    },
+    {
+      "price": 7288.0,
+      "major": true
+    },
+    {
+      "price": 7271.0,
+      "major": true
+    },
+    {
+      "price": 7262.0,
+      "major": true
+    },
+    {
+      "price": 7252.0,
+      "major": true
+    },
+    {
+      "price": 7244.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7211.0,
+      "major": true
+    },
+    {
+      "price": 7191.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish but is waiting for ES to reclaim 7521 (a multi-touch shelf) before acting. Once 7521 is back, targets are 7540, 7578, then 7597. The daily pivot is 7521: above it the bull case is alive and price can work toward range highs; below 7492 the bear case opens and sellers may push toward 7482 and lower. Session is rangebound roughly 7511-7597; no crystal-ball calls, just reacting to failed breakdowns at key levels.",
+  "fetched_at": "2026-07-06T05:00:26.157876+00:00"
+}

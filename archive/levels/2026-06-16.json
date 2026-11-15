@@ -1,0 +1,129 @@
+{
+  "session_date": "2026-06-16",
+  "daily_pivot": 7590,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7590,
+    7570,
+    7545,
+    7511,
+    7482,
+    7462
+  ],
+  "bull_levels": [
+    {
+      "price": 7639.0,
+      "major": true
+    },
+    {
+      "price": 7650.0,
+      "major": true
+    },
+    {
+      "price": 7673.0,
+      "major": true
+    },
+    {
+      "price": 7702.0,
+      "major": true
+    },
+    {
+      "price": 7728.0,
+      "major": true
+    },
+    {
+      "price": 7774.0,
+      "major": true
+    },
+    {
+      "price": 7781.0,
+      "major": true
+    },
+    {
+      "price": 7814.0,
+      "major": true
+    },
+    {
+      "price": 7831.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7590.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7545.0,
+      "major": true
+    },
+    {
+      "price": 7511.0,
+      "major": true
+    },
+    {
+      "price": 7482.0,
+      "major": true
+    },
+    {
+      "price": 7462.0,
+      "major": true
+    },
+    {
+      "price": 7445.5,
+      "major": true
+    },
+    {
+      "price": 7422.0,
+      "major": true
+    },
+    {
+      "price": 7385.5,
+      "major": true
+    },
+    {
+      "price": 7368.0,
+      "major": true
+    },
+    {
+      "price": 7327.0,
+      "major": true
+    },
+    {
+      "price": 7310.0,
+      "major": true
+    },
+    {
+      "price": 7278.0,
+      "major": true
+    },
+    {
+      "price": 7236.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7198.0,
+      "major": true
+    },
+    {
+      "price": 7151.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is holding a 10% long runner from last Wednesday's 7310 Failed Breakdown after a 250+ point rally. He sees nothing to do near the highs and is waiting for a pullback. Key pivot is 7590: above it bulls are in control and the next targets are 7650, 7672, and 7702; a deeper dip could fill the Sunday gap at 7511. He will only act on a Failed Breakdown setup after a fast sell into one of these support levels.",
+  "fetched_at": "2026-06-16T05:00:20.193933+00:00"
+}

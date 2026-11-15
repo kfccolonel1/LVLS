@@ -1,0 +1,133 @@
+{
+  "session_date": "2026-09-02",
+  "daily_pivot": 7659,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7659,
+    7637,
+    7634,
+    7603,
+    7567,
+    7544
+  ],
+  "bull_levels": [
+    {
+      "price": 7659.0,
+      "major": true
+    },
+    {
+      "price": 7671.0,
+      "major": true
+    },
+    {
+      "price": 7681.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7714.0,
+      "major": true
+    },
+    {
+      "price": 7735.0,
+      "major": true
+    },
+    {
+      "price": 7745.0,
+      "major": true
+    },
+    {
+      "price": 7771.0,
+      "major": true
+    },
+    {
+      "price": 7797.0,
+      "major": true
+    },
+    {
+      "price": 7822.0,
+      "major": true
+    },
+    {
+      "price": 7833.0,
+      "major": true
+    },
+    {
+      "price": 7884.0,
+      "major": true
+    },
+    {
+      "price": 7897.0,
+      "major": true
+    },
+    {
+      "price": 7925.0,
+      "major": true
+    },
+    {
+      "price": 7966.0,
+      "major": true
+    },
+    {
+      "price": 7994.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7637.0,
+      "major": true
+    },
+    {
+      "price": 7629.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7603.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
+      "major": true
+    },
+    {
+      "price": 7544.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7498.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7445.0,
+      "major": true
+    },
+    {
+      "price": 7428.0,
+      "major": true
+    },
+    {
+      "price": 7374.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is holding a runner long from the 7637 Failed Breakdown. He leans bullish but needs ES to reclaim 7659 first. If 7659 recovers, he targets 7681, 7704, 7714, then 7735-45. The key pivot is 7659: above it bulls can push back toward the top of the recent range; below it the market stays weak and 7637 becomes the next line in the sand. No economic events scheduled.",
+  "fetched_at": "2026-09-02T09:12:31.063745+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "session_date": "2026-09-09",
+  "daily_pivot": 7692.0,
+  "regime_hint": "C2",
+  "significant_lows": [
+    7680.0,
+    7671.0,
+    7662.0,
+    7618.0,
+    7542.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7704.0,
+      "major": true
+    },
+    {
+      "price": 7714.0,
+      "major": true
+    },
+    {
+      "price": 7745.0,
+      "major": true
+    },
+    {
+      "price": 7763.0,
+      "major": true
+    },
+    {
+      "price": 7783.0,
+      "major": true
+    },
+    {
+      "price": 7797.0,
+      "major": true
+    },
+    {
+      "price": 7828.0,
+      "major": true
+    },
+    {
+      "price": 7878.0,
+      "major": true
+    },
+    {
+      "price": 7898.0,
+      "major": true
+    },
+    {
+      "price": 7921.0,
+      "major": true
+    },
+    {
+      "price": 7938.0,
+      "major": true
+    },
+    {
+      "price": 7988.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7692.0,
+      "major": true
+    },
+    {
+      "price": 7671.0,
+      "major": true
+    },
+    {
+      "price": 7659.0,
+      "major": true
+    },
+    {
+      "price": 7637.0,
+      "major": true
+    },
+    {
+      "price": 7618.0,
+      "major": true
+    },
+    {
+      "price": 7595.0,
+      "major": true
+    },
+    {
+      "price": 7566.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7538.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7499.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7427.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish, waiting for ES to hold the 7692 breakout zone or quickly flush and recover 7671 (failed breakdown) before pushing higher toward 7714, 7745, 7763, then 7797. The daily pivot is 7692: above it bulls are in control and the uptrend resumes; below 7671 the bear case opens and a deeper pullback begins. No scheduled macro events today.",
+  "fetched_at": "2026-09-09T05:00:30.297755+00:00"
+}

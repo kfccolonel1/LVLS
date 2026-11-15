@@ -1,0 +1,110 @@
+{
+  "session_date": "2026-08-27",
+  "daily_pivot": 7659.0,
+  "regime_hint": "C5",
+  "significant_lows": [
+    7680.0,
+    7659.0,
+    7649.0,
+    7637.0,
+    7627.0,
+    7612.0,
+    7592.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7714.0,
+      "major": true
+    },
+    {
+      "price": 7733.0,
+      "major": true
+    },
+    {
+      "price": 7745.0,
+      "major": true
+    },
+    {
+      "price": 7764.0,
+      "major": true
+    },
+    {
+      "price": 7797.0,
+      "major": true
+    },
+    {
+      "price": 7828.0,
+      "major": true
+    },
+    {
+      "price": 7858.0,
+      "major": true
+    },
+    {
+      "price": 7871.0,
+      "major": true
+    },
+    {
+      "price": 7911.0,
+      "major": true
+    },
+    {
+      "price": 7926.0,
+      "major": true
+    },
+    {
+      "price": 7968.0,
+      "major": true
+    },
+    {
+      "price": 7988.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7680.0,
+      "major": true
+    },
+    {
+      "price": 7665.0,
+      "major": true
+    },
+    {
+      "price": 7658.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7627.0,
+      "major": true
+    },
+    {
+      "price": 7612.0,
+      "major": true
+    },
+    {
+      "price": 7592.0,
+      "major": true
+    },
+    {
+      "price": 7567.0,
+      "major": true
+    },
+    {
+      "price": 7548.0,
+      "major": true
+    },
+    {
+      "price": 7517.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": true,
+  "notes": "Nvidia earnings after the bell make this an event day \u2014 first moves often trap, so no chasing. Trader leans bullish as long as 7659 holds (the daily pivot): above it, the bias is to rally up through 7714, 7745, and eventually 7797. Below 7659 bears take control. He is holding a small long runner and will look to buy failed breakdowns at 7659 or 7680 if price flushes and recovers those levels.",
+  "fetched_at": "2026-08-27T05:00:17.425370+00:00"
+}

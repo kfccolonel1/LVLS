@@ -1,0 +1,169 @@
+{
+  "session_date": "2026-06-22",
+  "daily_pivot": 7535.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7535.0,
+    7509.0,
+    7482.0,
+    7475.0,
+    7441.0,
+    7428.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7557.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7590.0,
+      "major": true
+    },
+    {
+      "price": 7611.0,
+      "major": true
+    },
+    {
+      "price": 7628.0,
+      "major": true
+    },
+    {
+      "price": 7640.0,
+      "major": true
+    },
+    {
+      "price": 7662.0,
+      "major": true
+    },
+    {
+      "price": 7693.0,
+      "major": true
+    },
+    {
+      "price": 7718.0,
+      "major": true
+    },
+    {
+      "price": 7774.0,
+      "major": true
+    },
+    {
+      "price": 7790.0,
+      "major": true
+    },
+    {
+      "price": 7814.0,
+      "major": true
+    },
+    {
+      "price": 7850.0,
+      "major": true
+    },
+    {
+      "price": 7867.0,
+      "major": true
+    },
+    {
+      "price": 7887.0,
+      "major": true
+    },
+    {
+      "price": 7916.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7557.0,
+      "major": true
+    },
+    {
+      "price": 7535.0,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7486.0,
+      "major": true
+    },
+    {
+      "price": 7463.0,
+      "major": true
+    },
+    {
+      "price": 7441.0,
+      "major": true
+    },
+    {
+      "price": 7418.0,
+      "major": true
+    },
+    {
+      "price": 7400.0,
+      "major": true
+    },
+    {
+      "price": 7383.0,
+      "major": true
+    },
+    {
+      "price": 7369.0,
+      "major": true
+    },
+    {
+      "price": 7337.0,
+      "major": true
+    },
+    {
+      "price": 7310.0,
+      "major": true
+    },
+    {
+      "price": 7287.0,
+      "major": true
+    },
+    {
+      "price": 7263.0,
+      "major": true
+    },
+    {
+      "price": 7251.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7210.0,
+      "major": true
+    },
+    {
+      "price": 7200.0,
+      "major": true
+    },
+    {
+      "price": 7174.0,
+      "major": true
+    },
+    {
+      "price": 7147.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish after Wednesday's post-FOMC Failed Breakdown at 7475/7482 sparked a rally to 7578. Thursday was sideways consolidation in the 7535-7578 range. Plan for Monday: wait for ES to either hold above 7535 and push to 7590, 7611, then 7640, or watch for a failed breakdown of the 7535 shelf to trigger a long entry. Key pivot is 7535 \u2014 bulls want to stay above it; losing it opens a move toward 7509 and 7475.",
+  "fetched_at": "2026-06-22T14:40:24.010084+00:00"
+}

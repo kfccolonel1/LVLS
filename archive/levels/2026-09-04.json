@@ -1,0 +1,100 @@
+{
+  "session_date": "2026-09-04",
+  "daily_pivot": 7722.0,
+  "regime_hint": "C3",
+  "significant_lows": [
+    7670.0,
+    7649.0,
+    7618.0,
+    7587.0,
+    7622.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7770.0,
+      "major": true
+    },
+    {
+      "price": 7797.0,
+      "major": true
+    },
+    {
+      "price": 7828.0,
+      "major": true
+    },
+    {
+      "price": 7889.5,
+      "major": true
+    },
+    {
+      "price": 7928.0,
+      "major": true
+    },
+    {
+      "price": 7964.0,
+      "major": true
+    },
+    {
+      "price": 8004.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7745.0,
+      "major": true
+    },
+    {
+      "price": 7722.0,
+      "major": true
+    },
+    {
+      "price": 7695.0,
+      "major": true
+    },
+    {
+      "price": 7670.0,
+      "major": true
+    },
+    {
+      "price": 7649.0,
+      "major": true
+    },
+    {
+      "price": 7618.0,
+      "major": true
+    },
+    {
+      "price": 7587.0,
+      "major": true
+    },
+    {
+      "price": 7568.0,
+      "major": true
+    },
+    {
+      "price": 7549.0,
+      "major": true
+    },
+    {
+      "price": 7518.0,
+      "major": true
+    },
+    {
+      "price": 7475.0,
+      "major": true
+    },
+    {
+      "price": 7445.0,
+      "major": true
+    },
+    {
+      "price": 7430.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is bullish leaning, holding a runner from a prior failed-breakdown long at 7622. The bull flag breakout above 7722 is the key pivot \u2014 above it, the path aims toward 7771 and 7797; below 7618 flips to bear. He is waiting for a dip and failed-breakdown setup (preferably near 7670 or 7618) before adding new longs, not chasing the open. No new shorts planned.",
+  "fetched_at": "2026-09-04T05:00:23.934002+00:00"
+}
