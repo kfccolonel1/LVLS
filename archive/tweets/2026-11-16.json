@@ -126,5 +126,36 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "7490\u22487492 and 7519\u22487524 are reaffirmations of morning-plan levels; 76xx is a hindsight newsletter reference with no new actionable price named."
+  },
+  {
+    "tweet_id": "2122355814581379431",
+    "timestamp_est": "2026-11-16T10:47:12-05:00",
+    "timestamp_utc": "2026-11-16T15:47:12.000Z",
+    "tweet_text": "@DWhit44986 I don't trade supports (I never just buy a support level). I trade actionable Failed Breakdowns at planned zones in newsletter.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Purely conversational reply explaining trading methodology; no price levels named or actionable signals given."
+  },
+  {
+    "tweet_id": "2122356166692946431",
+    "timestamp_est": "2026-11-16T10:48:36-05:00",
+    "timestamp_utc": "2026-11-16T15:48:36.000Z",
+    "tweet_text": "@DavidDa41048475 Every setup given in the newsletter has played out today, days like this are the best sessions for my edge",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure commentary on newsletter performance; no price levels named or actionable setups introduced."
+  },
+  {
+    "tweet_id": "2122356528006975494",
+    "timestamp_est": "2026-11-16T10:50:02-05:00",
+    "timestamp_utc": "2026-11-16T15:50:02.000Z",
+    "tweet_text": "7476 next support down held in #ES_F but this remains a very choppy session, so as warned protect gains from last evening/this morning and don't overtrade. 7492 reclaims see 7509, 7519. 7519 is the bull/bear line today and must recover to see any sustained run.\n\n7455 below https://t.co/oa4VADf0rP",
+    "added_bull_levels": [
+      7519.0
+    ],
+    "added_bear_levels": [
+      7455.0
+    ],
+    "notes": "7519 named as new bull/bear line (not in morning plan); 7455 named as next bear level below (not in morning plan). Both are explicitly actionable."
   }
 ]
