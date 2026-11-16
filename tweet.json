@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-16T18:21:52.551993+00:00",
-  "fetched_at_est": "2026-11-16T13:21:52.551998-05:00",
+  "fetched_at_utc": "2026-11-16T19:02:07.841018+00:00",
+  "fetched_at_est": "2026-11-16T14:02:07.841030-05:00",
   "last_new_level_added_at_est": "2026-11-16T13:18:32-05:00",
   "todays_new_levels": [
     {
@@ -266,6 +266,24 @@
         7455.0
       ],
       "notes": "7455 named as incoming target with trap watch (bear), 7474 named as reclaim trigger upward (bull); neither is in morning plan."
+    },
+    {
+      "tweet_id": "2122403993263509653",
+      "timestamp_utc": "2026-11-16T18:58:39.000Z",
+      "timestamp_est": "2026-11-16T13:58:39-05:00",
+      "tweet_text": "@TraderM98 Why would anyone do that?",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels mentioned at all \u2014 purely conversational."
+    },
+    {
+      "tweet_id": "2122404600221216983",
+      "timestamp_utc": "2026-11-16T19:01:03.000Z",
+      "timestamp_est": "2026-11-16T14:01:03-05:00",
+      "tweet_text": "Days like today present tons of entries in #ES_F but also easy to overtrade. As readers know, on Mode 1 days (10% of days) we grind lower all day, then rallly evening. Through the day, we get numerous opps to stack points.\n\n7434 reclaim was last long, +20. 7455, 7474, 7490 above https://t.co/NBlMIX3892",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7434 is a morning plan level reaffirmed; 7455/7474/7490 appear as directional targets above but lack explicit naming language (key/major/watching/added/etc.) to qualify as new actionable levels."
     }
   ]
 }
