@@ -215,5 +215,18 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure commentary on last week's price action and range loss; no actionable price levels named."
+  },
+  {
+    "tweet_id": "2122393898471358601",
+    "timestamp_est": "2026-11-16T13:18:32-05:00",
+    "timestamp_utc": "2026-11-16T18:18:32.000Z",
+    "tweet_text": "Its been a slow, choppy, grind down day in #ES_F but we've had numerous setups. As readers know well, these days typically squeeze in the evening/late day. Then we can go \"elevator down\" again, and restart the cycle.\n\n7455 incoming (watch traps). 7474 reclaims also trigger up https://t.co/U1ixjS1D91",
+    "added_bull_levels": [
+      7474.0
+    ],
+    "added_bear_levels": [
+      7455.0
+    ],
+    "notes": "7455 named as incoming target with trap watch (bear), 7474 named as reclaim trigger upward (bull); neither is in morning plan."
   }
 ]
