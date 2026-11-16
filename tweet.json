@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-16T17:46:32.485496+00:00",
-  "fetched_at_est": "2026-11-16T12:46:32.485501-05:00",
+  "fetched_at_utc": "2026-11-16T18:06:43.151631+00:00",
+  "fetched_at_est": "2026-11-16T13:06:43.151639-05:00",
   "last_new_level_added_at_est": "2026-11-16T10:50:02-05:00",
   "todays_new_levels": [
     {
@@ -228,6 +228,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7476, 7492, 7509 are morning-plan levels; 7519 mentioned as bull/bear line but not named with actionable naming language \u2014 no genuinely new major levels."
+    },
+    {
+      "tweet_id": "2122389972321993209",
+      "timestamp_utc": "2026-11-16T18:02:56.000Z",
+      "timestamp_est": "2026-11-16T13:02:56-05:00",
+      "tweet_text": "@AStendorr Control switches once or twice a day, sometimes more",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about control switching frequency \u2014 no price named, no actionable level of any kind."
+    },
+    {
+      "tweet_id": "2122390556676592059",
+      "timestamp_utc": "2026-11-16T18:05:15.000Z",
+      "timestamp_est": "2026-11-16T13:05:15-05:00",
+      "tweet_text": "@Josephdix1960 @AStendorr We just had a 350 point rally last week. Bulls were in control all last week until the range loss Friday.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on last week's price action and range loss; no actionable price levels named."
     }
   ]
 }
