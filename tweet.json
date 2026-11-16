@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-16T15:05:07.245846+00:00",
-  "fetched_at_est": "2026-11-16T10:05:07.245849-05:00",
+  "fetched_at_utc": "2026-11-16T15:10:15.721897+00:00",
+  "fetched_at_est": "2026-11-16T10:10:15.721903-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -113,6 +113,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about price action behavior; no actionable price level named or referenced."
+    },
+    {
+      "tweet_id": "2122345514582552669",
+      "timestamp_utc": "2026-11-16T15:06:16.000Z",
+      "timestamp_est": "2026-11-16T10:06:16-05:00",
+      "tweet_text": "@DWhit44986 It goes below the low wherever it is. If a trade requires a 25 point stop I just size it down a little. I typically won't ever risk more than 15 points on a full sized trade (half size it go to 30 points etc). If the top size is very extreme (30 points+) I'll just find a closer",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply discussing stop-loss sizing methodology only; no specific price levels named or actionable entries/exits referenced."
     }
   ]
 }
