@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-16T16:56:04.969896+00:00",
-  "fetched_at_est": "2026-11-16T11:56:04.969901-05:00",
+  "fetched_at_utc": "2026-11-16T17:01:11.940663+00:00",
+  "fetched_at_est": "2026-11-16T12:01:11.940670-05:00",
   "last_new_level_added_at_est": "2026-11-16T10:50:02-05:00",
   "todays_new_levels": [
     {
@@ -201,6 +201,15 @@
         7519.0
       ],
       "notes": "7519 is explicitly named as the new bull/bear line for today \u2014 not in morning plan (7509/7524 are, but 7519 is not). Actionable pivot with directional bias language."
+    },
+    {
+      "tweet_id": "2122373888717828264",
+      "timestamp_utc": "2026-11-16T16:59:01.000Z",
+      "timestamp_est": "2026-11-16T11:59:01-05:00",
+      "tweet_text": "@HagglundKirk Morning on a day when we are below supports. Remember almost 100% of ES upside return occurs in the late afternoons/evenings. Especially true on more bearish days",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices named at all; purely educational/statistical commentary about timing of ES returns. No actionable levels introduced."
     }
   ]
 }
