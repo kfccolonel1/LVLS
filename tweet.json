@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-16T17:01:11.940663+00:00",
-  "fetched_at_est": "2026-11-16T12:01:11.940670-05:00",
+  "fetched_at_utc": "2026-11-16T17:26:22.156168+00:00",
+  "fetched_at_est": "2026-11-16T12:26:22.156173-05:00",
   "last_new_level_added_at_est": "2026-11-16T10:50:02-05:00",
   "todays_new_levels": [
     {
@@ -210,6 +210,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices named at all; purely educational/statistical commentary about timing of ES returns. No actionable levels introduced."
+    },
+    {
+      "tweet_id": "2122380577408184784",
+      "timestamp_utc": "2026-11-16T17:25:36.000Z",
+      "timestamp_est": "2026-11-16T12:25:36-05:00",
+      "tweet_text": "@Kamil70154936 @ashwagamma We're below some big supports so often sell algos stay on until near the close. But we'll see!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about algo behavior near close; no price named, no actionable level introduced."
     }
   ]
 }
