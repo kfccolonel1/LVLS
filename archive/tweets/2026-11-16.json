@@ -106,5 +106,16 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply discussing stop-loss sizing methodology only; no specific price levels named or actionable entries/exits referenced."
+  },
+  {
+    "tweet_id": "2122348604832559369",
+    "timestamp_est": "2026-11-16T10:18:33-05:00",
+    "timestamp_utc": "2026-11-16T15:18:33.000Z",
+    "tweet_text": "Tons of setups in #ES_F since the open last evening (volatility=more setups), but remember to protect gains now as we are now very choppy. I only risk profits after 1 win.\n\nInto fresh zones now. 7492 was next down and here now. Watch reclaims to see 7509+. 7476, 7455 below https://t.co/9uihsRoV7p",
+    "added_bull_levels": [],
+    "added_bear_levels": [
+      7455.0
+    ],
+    "notes": "7455 named as next support below 7476 \u2014 not in morning plan. 7492, 7509, 7476 are all reaffirmations of published levels."
   }
 ]
