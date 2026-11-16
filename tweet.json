@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-16T14:44:50.351235+00:00",
-  "fetched_at_est": "2026-11-16T09:44:50.351241-05:00",
+  "fetched_at_utc": "2026-11-16T14:59:59.796610+00:00",
+  "fetched_at_est": "2026-11-16T09:59:59.796613-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -95,6 +95,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Methodological explanation of FBD trading approach; no specific price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2122342947073163717",
+      "timestamp_utc": "2026-11-16T14:56:04.000Z",
+      "timestamp_est": "2026-11-16T09:56:04-05:00",
+      "tweet_text": "We keep stacking points with the same entry over and over again in #ES_F but this zone is now extremely noisy. 7509 was support as posted. We defended, recovered the 7519/24 shelf, ripped to 7535, then back down. 7549, 7572 if ES wants more.\n\n7509, 7492 (watch traps) below https://t.co/A3EoFpb89R",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7509, 7492, 7524, 7549, 7572) are morning-plan levels or observations of price action. No new actionable levels introduced."
     }
   ]
 }
