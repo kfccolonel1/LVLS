@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-15T20:42:26.805040+00:00",
-  "fetched_at_est": "2026-11-15T15:42:26.805046-05:00",
+  "fetched_at_utc": "2026-11-16T12:23:44.964101+00:00",
+  "fetched_at_est": "2026-11-16T07:23:44.964108-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -14,6 +14,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trading philosophy/motivational commentary. No prices named, no actionable levels, no naming language whatsoever."
+    },
+    {
+      "tweet_id": "2122304432369172902",
+      "timestamp_utc": "2026-11-16T12:23:01.000Z",
+      "timestamp_est": "2026-11-16T07:23:01-05:00",
+      "tweet_text": "Eve traders got entries in #ES_F. On Friday, last long was 7535-40 reclaim given. 7572 was target, we hit. 7572 reclaims were also entry given for Sunday in newsletter &amp; we ran to 7600+ target.\n\nPlan today: 7524/19=support. Watch traps. Reclaims of 7535 trigger also to 7547, 7572 https://t.co/mH5tznyfmC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7519/7524/7535/7547/7572 are all morning-plan levels or hindsight references; no genuinely new actionable level named for the first time."
     }
   ]
 }
