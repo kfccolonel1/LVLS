@@ -157,5 +157,18 @@
       7455.0
     ],
     "notes": "7519 named as new bull/bear line (not in morning plan); 7455 named as next bear level below (not in morning plan). Both are explicitly actionable."
+  },
+  {
+    "tweet_id": "2122373039690039613",
+    "timestamp_est": "2026-11-16T11:55:39-05:00",
+    "timestamp_utc": "2026-11-16T16:55:39.000Z",
+    "tweet_text": "Nice spike in #ES_F and numerous setups so far today, but we are now well into mid day chop. 7476 was support (held). 7492 reclaims see 7509 (hit), 7519. 7519 remains the bull/bear line for today with bulls controlling above and bears controlling below https://t.co/r4AbtIZprR",
+    "added_bull_levels": [
+      7519.0
+    ],
+    "added_bear_levels": [
+      7519.0
+    ],
+    "notes": "7519 is explicitly named as the new bull/bear line for today \u2014 not in morning plan (7509/7524 are, but 7519 is not). Actionable pivot with directional bias language."
   }
 ]
