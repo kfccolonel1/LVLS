@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-16T19:22:17.402939+00:00",
-  "fetched_at_est": "2026-11-16T14:22:17.402944-05:00",
+  "fetched_at_utc": "2026-11-16T20:07:32.013650+00:00",
+  "fetched_at_est": "2026-11-16T15:07:32.013655-05:00",
   "last_new_level_added_at_est": "2026-11-16T13:18:32-05:00",
   "todays_new_levels": [
     {
@@ -293,6 +293,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about market mode frequency; no actionable price level named or implied."
+    },
+    {
+      "tweet_id": "2122421050168545776",
+      "timestamp_utc": "2026-11-16T20:06:25.000Z",
+      "timestamp_est": "2026-11-16T15:06:25-05:00",
+      "tweet_text": "Note: Newsletter sent out early with next entries. 7427 daily low sweep was one such entry. 7474 recovery will be a big one in the evening to trigger us back to 7490, 7519. 7519 is the bull/bear line and must recover to stop \"sell bounces\" and push us higher for rest of week",
+      "added_bull_levels": [
+        7474.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7474 named as actionable 'big' recovery entry trigger not in morning plan; 7427/7490/7519 are either morning-plan levels or references to existing targets."
     }
   ]
 }
