@@ -235,5 +235,16 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply tweet with casual entry reference ('34-35'); no actionable naming language, no explicit level designation. Conversational trade execution detail only."
+  },
+  {
+    "tweet_id": "2122737977646371258",
+    "timestamp_est": "2026-11-17T12:05:47-05:00",
+    "timestamp_utc": "2026-11-17T17:05:47.000Z",
+    "tweet_text": "All about 7323 in #ES_F. This was major Nov 5th low and a battleground. We recovered it, triggering a Failed Breakdown, given live + in newsletter and running to 7352+ target. 7385, 7398, 7427/34 next.\n\nWe just retested 7323. Bulls want to hold or back down we go to 7302, 7290 https://t.co/ZigwuuI1Yy",
+    "added_bull_levels": [],
+    "added_bear_levels": [
+      7290.0
+    ],
+    "notes": "7290 is named for the first time as a downside target ('back down we go to 7302, 7290') \u2014 not in morning plan. 7302 and 7323 are morning-plan levels, not new."
   }
 ]
