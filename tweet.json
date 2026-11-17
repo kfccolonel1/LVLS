@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T17:42:55.160306+00:00",
-  "fetched_at_est": "2026-11-17T12:42:55.160311-05:00",
+  "fetched_at_utc": "2026-11-17T17:58:02.430376+00:00",
+  "fetched_at_est": "2026-11-17T12:58:02.430382-05:00",
   "last_new_level_added_at_est": "2026-11-17T12:14:22-05:00",
   "todays_new_levels": [
     {
@@ -362,6 +362,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7421 named as a key shelf bulls must recover to validate the macro FBD \u2014 explicit actionable recovery trigger, not in morning plan."
+    },
+    {
+      "tweet_id": "2122750444900671589",
+      "timestamp_utc": "2026-11-17T17:55:19.000Z",
+      "timestamp_est": "2026-11-17T12:55:19-05:00",
+      "tweet_text": "https://t.co/1BJtGD8FJs https://t.co/eyxfOTYxxe",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet contains only URLs with no actionable price levels or naming language present."
     }
   ]
 }
