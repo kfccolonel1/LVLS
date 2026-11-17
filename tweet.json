@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T19:03:28.064850+00:00",
-  "fetched_at_est": "2026-11-17T14:03:28.064857-05:00",
+  "fetched_at_utc": "2026-11-17T19:08:34.894804+00:00",
+  "fetched_at_est": "2026-11-17T14:08:34.894809-05:00",
   "last_new_level_added_at_est": "2026-11-17T12:14:22-05:00",
   "todays_new_levels": [
     {
@@ -331,6 +331,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7323 is a hindsight FBD reference; 7352, 7385, 7398, 7427, 7434 are all morning-plan levels being reaffirmed as targets."
+    },
+    {
+      "tweet_id": "2122767612937482377",
+      "timestamp_utc": "2026-11-17T19:03:32.000Z",
+      "timestamp_est": "2026-11-17T14:03:32-05:00",
+      "tweet_text": "@creditriskVP As soon as the new newsletter comes out can switch. We have Nvidia earnings today so I'll try to get it out early",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about newsletter timing and Nvidia earnings. No price levels named or actionable signals given."
     }
   ]
 }
