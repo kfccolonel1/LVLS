@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T15:51:29.631562+00:00",
-  "fetched_at_est": "2026-11-17T10:51:29.631576-05:00",
+  "fetched_at_utc": "2026-11-17T15:56:36.666507+00:00",
+  "fetched_at_est": "2026-11-17T10:56:36.666514-05:00",
   "last_new_level_added_at_est": "2026-11-17T07:36:35-05:00",
   "todays_new_levels": [
     {
@@ -276,6 +276,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trade management philosophy; no price levels named or actionable triggers mentioned."
+    },
+    {
+      "tweet_id": "2122720443752739206",
+      "timestamp_utc": "2026-11-17T15:56:06.000Z",
+      "timestamp_est": "2026-11-17T10:56:06-05:00",
+      "tweet_text": "@TraderM98 I dont \"buy dips\". I dont even buy supports, I am a failed breakdown trader",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is purely a conversational explanation of trading style with zero actionable levels."
     }
   ]
 }
