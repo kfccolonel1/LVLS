@@ -266,5 +266,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Tweet contains only URLs with no actionable price levels or naming language present."
+  },
+  {
+    "tweet_id": "2122766551350682015",
+    "timestamp_est": "2026-11-17T13:59:19-05:00",
+    "timestamp_utc": "2026-11-17T18:59:19.000Z",
+    "tweet_text": "Chop, don't touch this. We just got a textbook Failed Breakdown in #ES_F - all I do is wait all day for this, take my points, get out. 7323 Nov 5th low macro Failed Breakdown was long given live AND in newsletter. We went +60 to 7352, 7385 targets\n\n7398, 7427/34 next.Ride runner https://t.co/pzEmFu64UD",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7323 is a hindsight FBD reference; 7352, 7385, 7398, 7427, 7434 are all morning-plan levels being reaffirmed as targets."
   }
 ]
