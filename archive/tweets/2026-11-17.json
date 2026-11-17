@@ -55,5 +55,32 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure conversational reply observing move magnitude; no price named, no actionable level, no naming language."
+  },
+  {
+    "tweet_id": "2122685059400650858",
+    "timestamp_est": "2026-11-17T08:35:30-05:00",
+    "timestamp_utc": "2026-11-17T13:35:30.000Z",
+    "tweet_text": "Note: When I said &lt;19, I mean bears control under 7519 which was the shelf which we lost yesterday.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7519 is already in the morning plan; tweet is a clarification/reaffirmation of that existing level, not a new actionable price."
+  },
+  {
+    "tweet_id": "2122686064330739730",
+    "timestamp_est": "2026-11-17T08:39:29-05:00",
+    "timestamp_utc": "2026-11-17T13:39:29.000Z",
+    "tweet_text": "We got two good longs: Late afternoon that ran to 7450+ (7427 reclaim), and another early this morning that ran the same targets. No change to the broad picture: Bears control under the 7519 shelf\n\n7427/34 must reclaim to see 7450, 7457, 7472, 7519. Watch traps of 7396 if we dip https://t.co/NV27nqBli5",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7427, 7434, 7457, 7519, 7396/7398) are reaffirmations of morning-plan levels; 7450/7472 are observations/targets already implied, no new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2122686162091507848",
+    "timestamp_est": "2026-11-17T08:39:53-05:00",
+    "timestamp_utc": "2026-11-17T13:39:53.000Z",
+    "tweet_text": "@BHarkach You definitely can but its highest odds the first time. Levels get noisy and trappier the more they are used",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet explaining level behavior conceptually; no actionable price named, purely educational commentary."
   }
 ]
