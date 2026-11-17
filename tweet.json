@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T16:22:05.058605+00:00",
-  "fetched_at_est": "2026-11-17T11:22:05.058617-05:00",
+  "fetched_at_utc": "2026-11-17T16:57:20.582249+00:00",
+  "fetched_at_est": "2026-11-17T11:57:20.582259-05:00",
   "last_new_level_added_at_est": "2026-11-17T07:36:35-05:00",
   "todays_new_levels": [
     {
@@ -21,19 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122373039690039613",
-      "timestamp_utc": "2026-11-16T16:55:39.000Z",
-      "timestamp_est": "2026-11-16T11:55:39-05:00",
-      "tweet_text": "Nice spike in #ES_F and numerous setups so far today, but we are now well into mid day chop. 7476 was support (held). 7492 reclaims see 7509 (hit), 7519. 7519 remains the bull/bear line for today with bulls controlling above and bears controlling below https://t.co/r4AbtIZprR",
-      "added_bull_levels": [
-        7519.0
-      ],
-      "added_bear_levels": [
-        7519.0
-      ],
-      "notes": "7519 is explicitly named as the new bull/bear line for today \u2014 not in morning plan (7509/7524 are, but 7519 is not). Actionable pivot with directional bias language."
-    },
     {
       "tweet_id": "2122373888717828264",
       "timestamp_utc": "2026-11-16T16:59:01.000Z",
@@ -339,6 +326,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure meta-commentary about trading philosophy and audience. No prices mentioned, no actionable levels of any kind."
+    },
+    {
+      "tweet_id": "2122735179697713153",
+      "timestamp_utc": "2026-11-17T16:54:40.000Z",
+      "timestamp_est": "2026-11-17T11:54:40-05:00",
+      "tweet_text": "@Gino_Vlntino non acceptance protocol for me. For those fast moves I tend to use that almost all the time",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet discussing trading methodology (non-acceptance protocol) with no price levels mentioned at all."
+    },
+    {
+      "tweet_id": "2122735301407789295",
+      "timestamp_utc": "2026-11-17T16:55:09.000Z",
+      "timestamp_est": "2026-11-17T11:55:09-05:00",
+      "tweet_text": "@BaronCorvo1911 Bears retain control. 7421, 7519 have to recover to change it",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7519 is a morning plan level; 7421 is not in plan but this is a reaffirmation/observation reply, not actionable naming language for a new major level."
     }
   ]
 }
