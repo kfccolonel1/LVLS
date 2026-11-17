@@ -1,29 +1,26 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T12:25:59.546258+00:00",
-  "fetched_at_est": "2026-11-17T07:25:59.546262-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-11-17T12:44:35.693673+00:00",
+  "fetched_at_est": "2026-11-17T07:44:35.693691-05:00",
+  "last_new_level_added_at_est": "2026-11-17T07:36:35-05:00",
+  "todays_new_levels": [
+    {
+      "price": 7450.0,
+      "side": "bull",
+      "added_at_est": "2026-11-17T07:36:35-05:00",
+      "expires_at_est": "2026-11-17T15:36:35-05:00",
+      "from_tweet_id": "2122670233420746911"
+    },
+    {
+      "price": 7472.0,
+      "side": "bull",
+      "added_at_est": "2026-11-17T07:36:35-05:00",
+      "expires_at_est": "2026-11-17T15:36:35-05:00",
+      "from_tweet_id": "2122670233420746911"
+    }
+  ],
   "updates": [
-    {
-      "tweet_id": "2122306175685304706",
-      "timestamp_utc": "2026-11-16T12:29:57.000Z",
-      "timestamp_est": "2026-11-16T07:29:57-05:00",
-      "tweet_text": "@DisciplinedESTr Sunday's always my favorite time to trade (Sunday open)!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely a casual comment about Sunday open trading preference."
-    },
-    {
-      "tweet_id": "2122306513834250733",
-      "timestamp_utc": "2026-11-16T12:31:18.000Z",
-      "timestamp_est": "2026-11-16T07:31:18-05:00",
-      "tweet_text": "@OnTheHooch With a 2 point difference its all just noise. Just want to see the whole zone clear. I don't get too precise when it comes to numbers. Its always just about the structure for me and I just want to see all relevant structure cleared",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about structure/noise with no specific actionable price named; no new level introduced."
-    },
     {
       "tweet_id": "2122320693362565173",
       "timestamp_utc": "2026-11-16T13:27:38.000Z",
@@ -255,6 +252,36 @@
       ],
       "added_bear_levels": [],
       "notes": "7474 named as actionable 'big' recovery entry trigger not in morning plan; 7427/7490/7519 are either morning-plan levels or references to existing targets."
+    },
+    {
+      "tweet_id": "2122670233420746911",
+      "timestamp_utc": "2026-11-17T12:36:35.000Z",
+      "timestamp_est": "2026-11-17T07:36:35-05:00",
+      "tweet_text": "As warned yesterday, on red days #ES_F rips into the close/overnight. Newsletter was sent early yesterday 2:50PM with the 7427 reclaim long. We got this, ran to 7450 into the close, then got it again overnight\n\nPlan: 7427/34=support. 7450, 7457, 7472, 7519 next. Bears control&lt;19 https://t.co/dcTBOn0kYw",
+      "added_bull_levels": [
+        7450.0,
+        7472.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7450 and 7472 named as upside targets ('next') not in morning plan. 7427/34, 7457, 7519 are morning plan levels. Bears <7419 is plan-adjacent."
+    },
+    {
+      "tweet_id": "2122671586234814847",
+      "timestamp_utc": "2026-11-17T12:41:58.000Z",
+      "timestamp_est": "2026-11-17T07:41:58-05:00",
+      "tweet_text": "@OnTheHooch I prefer trading days like yesterday! - my system works best the redder the day. The rips are good but its just runner for the most part. On red days there's far more setups (less FOMO, far more setups, can take more trades if one wants, often I'll do 2 or 3). If we just rip I",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned at all; tweet is conversational commentary about trading style preferences on red vs. rip days. Sentence appears cut off."
+    },
+    {
+      "tweet_id": "2122671818955739268",
+      "timestamp_utc": "2026-11-17T12:42:53.000Z",
+      "timestamp_est": "2026-11-17T07:42:53-05:00",
+      "tweet_text": "@OnTheHooch (like last Monday was Mode 1 green, made nothing essentially, where this Monday was Mode 1 red and there were multiple setups)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary comparing two trading days; no price levels named, no actionable signals given."
     }
   ]
 }
