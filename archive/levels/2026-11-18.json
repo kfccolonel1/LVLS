@@ -1,0 +1,119 @@
+{
+  "session_date": "2026-11-18",
+  "daily_pivot": 7421.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7351.0,
+    7333.0,
+    7320.0,
+    7307.5,
+    7290.0,
+    7276.0,
+    7265.0,
+    7225.0,
+    7209.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7372.0,
+      "major": true
+    },
+    {
+      "price": 7395.0,
+      "major": true
+    },
+    {
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7494.0,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7519.0,
+      "major": true
+    },
+    {
+      "price": 7550.0,
+      "major": true
+    },
+    {
+      "price": 7570.0,
+      "major": true
+    },
+    {
+      "price": 7600.0,
+      "major": true
+    },
+    {
+      "price": 7620.0,
+      "major": true
+    },
+    {
+      "price": 7636.0,
+      "major": true
+    },
+    {
+      "price": 7650.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7351.0,
+      "major": true
+    },
+    {
+      "price": 7333.0,
+      "major": true
+    },
+    {
+      "price": 7320.0,
+      "major": true
+    },
+    {
+      "price": 7307.5,
+      "major": true
+    },
+    {
+      "price": 7290.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    },
+    {
+      "price": 7265.0,
+      "major": true
+    },
+    {
+      "price": 7225.0,
+      "major": true
+    },
+    {
+      "price": 7209.0,
+      "major": true
+    }
+  ],
+  "event_times": [
+    1763996400000
+  ],
+  "event_day": true,
+  "notes": "Nvidia earnings (after close Tuesday) will decide whether today's bounce is a bottom or just a dead cat. The trader leans bullish only if bulls can reclaim 7395 and then 7421 \u2014 that level is the key dividing line: bears stay in control below it, and a push toward 7458 and 7519 becomes possible above it. He will wait for failed breakdown setups rather than chasing, managing profits level by level.",
+  "fetched_at": "2026-11-17T23:15:42.086109+00:00",
+  "source_hash": "92392692f7dfdbc2"
+}
