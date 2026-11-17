@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T15:10:59.079555+00:00",
-  "fetched_at_est": "2026-11-17T10:10:59.079560-05:00",
+  "fetched_at_utc": "2026-11-17T15:21:05.740822+00:00",
+  "fetched_at_est": "2026-11-17T10:21:05.740827-05:00",
   "last_new_level_added_at_est": "2026-11-17T07:36:35-05:00",
   "todays_new_levels": [
     {
@@ -21,17 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122348604832559369",
-      "timestamp_utc": "2026-11-16T15:18:33.000Z",
-      "timestamp_est": "2026-11-16T10:18:33-05:00",
-      "tweet_text": "Tons of setups in #ES_F since the open last evening (volatility=more setups), but remember to protect gains now as we are now very choppy. I only risk profits after 1 win.\n\nInto fresh zones now. 7492 was next down and here now. Watch reclaims to see 7509+. 7476, 7455 below https://t.co/9uihsRoV7p",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7455.0
-      ],
-      "notes": "7455 named as next support below 7476 \u2014 not in morning plan. 7492, 7509, 7476 are all reaffirmations of published levels."
-    },
     {
       "tweet_id": "2122353032579215806",
       "timestamp_utc": "2026-11-16T15:36:09.000Z",
@@ -282,6 +271,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7427/34, 7457, 7519 are all morning-plan levels; 7450 and 7472 are observations/targets from prior posts, no new actionable level named."
+    },
+    {
+      "tweet_id": "2122711485314928978",
+      "timestamp_utc": "2026-11-17T15:20:30.000Z",
+      "timestamp_est": "2026-11-17T10:20:30-05:00",
+      "tweet_text": "@DartNQ No triggers, no trades! We got tons yesterday though, like get a few more today still",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply; no price levels named, no actionable triggers or entries mentioned."
     }
   ]
 }
