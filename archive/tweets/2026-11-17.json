@@ -320,5 +320,20 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "No prices named; purely trade management (riding runner) and newsletter reference with no actionable new level introduced."
+  },
+  {
+    "tweet_id": "2122787242343031096",
+    "timestamp_est": "2026-11-17T15:21:32-05:00",
+    "timestamp_utc": "2026-11-17T20:21:32.000Z",
+    "tweet_text": "@dj_cremebrulee Whenever we get the next big leg up! 7421, 7519, 7687, 7835 are the backtest points now for shorts or reclaims",
+    "added_bull_levels": [
+      7421.0,
+      7835.0
+    ],
+    "added_bear_levels": [
+      7421.0,
+      7835.0
+    ],
+    "notes": "7421 and 7835 are new actionable levels named as backtest points for shorts or reclaims; 7519 and 7687 are reaffirmations of morning plan levels."
   }
 ]
