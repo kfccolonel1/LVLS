@@ -181,5 +181,32 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "No prices mentioned at all; pure motivational/process commentary about reacting to triggers. No actionable level named."
+  },
+  {
+    "tweet_id": "2122725810482151620",
+    "timestamp_est": "2026-11-17T11:17:26-05:00",
+    "timestamp_utc": "2026-11-17T16:17:26.000Z",
+    "tweet_text": "@RileyCapTrades Its because it was a pure elevator down. When we get that the job is very easy. Its the slow grinds that are trickier",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply about market behavior \u2014 no price levels named or actionable instructions given."
+  },
+  {
+    "tweet_id": "2122725935518457893",
+    "timestamp_est": "2026-11-17T11:17:56-05:00",
+    "timestamp_utc": "2026-11-17T16:17:56.000Z",
+    "tweet_text": "@Tytropolis https://t.co/1BJtGD87TU https://t.co/eyxfOTXZHG",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet contains only URLs and a username mention \u2014 no price levels, no actionable language, nothing to extract."
+  },
+  {
+    "tweet_id": "2122726468207722884",
+    "timestamp_est": "2026-11-17T11:20:03-05:00",
+    "timestamp_utc": "2026-11-17T16:20:03.000Z",
+    "tweet_text": "@BrianMelcher24 Because of how large my following is many just dont understand what day trading is or are even interested in it. Theyre interested in narratives, \"bulls vs bears\", investing etc but found me. Im interested in making money and exploiting an edge",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure meta-commentary about trading philosophy and audience. No prices mentioned, no actionable levels of any kind."
   }
 ]
