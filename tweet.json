@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T14:40:42.638265+00:00",
-  "fetched_at_est": "2026-11-17T09:40:42.638270-05:00",
+  "fetched_at_utc": "2026-11-17T14:50:49.192276+00:00",
+  "fetched_at_est": "2026-11-17T09:50:49.192280-05:00",
   "last_new_level_added_at_est": "2026-11-17T07:36:35-05:00",
   "todays_new_levels": [
     {
@@ -300,6 +300,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet referencing a newsletter entry with no price named; no actionable level introduced."
+    },
+    {
+      "tweet_id": "2122702944390778974",
+      "timestamp_utc": "2026-11-17T14:46:34.000Z",
+      "timestamp_est": "2026-11-17T09:46:34-05:00",
+      "tweet_text": "Lots of noise/whipsaw to start the day in #ES_F. The 7427/34 reclaims paid out twice late day ystd + overnight to 7450+. Now we are just chopping in this region.\n\n7427/34 (just backtested) must reclaim to see 7450, 7457, 7472, 7519. Bears control fully under 7519 as posted. https://t.co/yur1nqZJWm",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7427/34, 7457, 7519 are all morning-plan levels; 7450 and 7472 are observations/targets from prior posts, no new actionable level named."
     }
   ]
 }
