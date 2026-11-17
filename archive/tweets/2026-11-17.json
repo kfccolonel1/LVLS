@@ -109,5 +109,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure conversational reply; no price levels named, no actionable triggers or entries mentioned."
+  },
+  {
+    "tweet_id": "2122711900752347163",
+    "timestamp_est": "2026-11-17T10:22:09-05:00",
+    "timestamp_utc": "2026-11-17T15:22:09.000Z",
+    "tweet_text": "@SprinklerRs Been great conditions the past few days, good to see. Abit choppy thr first hour though",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Casual conversational reply to a user about trading conditions; no price levels named, no actionable signals whatsoever."
+  },
+  {
+    "tweet_id": "2122712717429449106",
+    "timestamp_est": "2026-11-17T10:25:24-05:00",
+    "timestamp_utc": "2026-11-17T15:25:24.000Z",
+    "tweet_text": "@upandown007 Bears took control on Friday when we lost the 7600 shelf per newslrtter. Bulls had control all last week, we rallied 350 points. Control shifts multiple times a week",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply referencing 7600 (morning plan level) and 350-point rally as historical observation; no new actionable levels named."
   }
 ]
