@@ -1,0 +1,32 @@
+[
+  {
+    "tweet_id": "2122670233420746911",
+    "timestamp_est": "2026-11-17T07:36:35-05:00",
+    "timestamp_utc": "2026-11-17T12:36:35.000Z",
+    "tweet_text": "As warned yesterday, on red days #ES_F rips into the close/overnight. Newsletter was sent early yesterday 2:50PM with the 7427 reclaim long. We got this, ran to 7450 into the close, then got it again overnight\n\nPlan: 7427/34=support. 7450, 7457, 7472, 7519 next. Bears control&lt;19 https://t.co/dcTBOn0kYw",
+    "added_bull_levels": [
+      7450.0,
+      7472.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7450 and 7472 named as upside targets ('next') not in morning plan. 7427/34, 7457, 7519 are morning plan levels. Bears <7419 is plan-adjacent."
+  },
+  {
+    "tweet_id": "2122671586234814847",
+    "timestamp_est": "2026-11-17T07:41:58-05:00",
+    "timestamp_utc": "2026-11-17T12:41:58.000Z",
+    "tweet_text": "@OnTheHooch I prefer trading days like yesterday! - my system works best the redder the day. The rips are good but its just runner for the most part. On red days there's far more setups (less FOMO, far more setups, can take more trades if one wants, often I'll do 2 or 3). If we just rip I",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No prices mentioned at all; tweet is conversational commentary about trading style preferences on red vs. rip days. Sentence appears cut off."
+  },
+  {
+    "tweet_id": "2122671818955739268",
+    "timestamp_est": "2026-11-17T07:42:53-05:00",
+    "timestamp_utc": "2026-11-17T12:42:53.000Z",
+    "tweet_text": "@OnTheHooch (like last Monday was Mode 1 green, made nothing essentially, where this Monday was Mode 1 red and there were multiple setups)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational commentary comparing two trading days; no price levels named, no actionable signals given."
+  }
+]
