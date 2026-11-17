@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T14:35:37.111956+00:00",
-  "fetched_at_est": "2026-11-17T09:35:37.111963-05:00",
+  "fetched_at_utc": "2026-11-17T14:40:42.638265+00:00",
+  "fetched_at_est": "2026-11-17T09:40:42.638270-05:00",
   "last_new_level_added_at_est": "2026-11-17T07:36:35-05:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122339060207268265",
-      "timestamp_utc": "2026-11-16T14:40:37.000Z",
-      "timestamp_est": "2026-11-16T09:40:37-05:00",
-      "tweet_text": "@odinsaga Failed Breakdowns. I obviously can't discuss the entire methodology in a single tweet as that's what the newsletter is for (I just give the zones here) but I make my living trading failed breakdowns 1-3x per day (then I try to capture 5-10 points and wrap it) so I simply watch",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Methodological explanation of FBD trading approach; no specific price levels named or actionable triggers given."
-    },
     {
       "tweet_id": "2122342947073163717",
       "timestamp_utc": "2026-11-16T14:56:04.000Z",
