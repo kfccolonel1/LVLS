@@ -28,5 +28,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure conversational commentary comparing two trading days; no price levels named, no actionable signals given."
+  },
+  {
+    "tweet_id": "2122673409255678115",
+    "timestamp_est": "2026-11-17T07:49:12-05:00",
+    "timestamp_utc": "2026-11-17T12:49:12.000Z",
+    "tweet_text": "@OnTheHooch The best days I'd say aren't necessarily Mode 1 red days (Mode 1 days are harder for all day traders), a more volatile two way red day is ideal for day trading.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply about trading day types/modes. No price levels named, no actionable signals whatsoever."
   }
 ]
