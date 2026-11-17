@@ -1,27 +1,37 @@
 {
-  "session_date": "2026-11-17",
-  "daily_pivot": 7519,
+  "session_date": "2026-11-18",
+  "daily_pivot": 7421.0,
   "regime_hint": "C4",
   "significant_lows": [
-    7427.0,
-    7398.0,
-    7385.0,
-    7352.0,
-    7342.0,
-    7322.0,
-    7302.0
+    7351.0,
+    7333.0,
+    7320.0,
+    7307.5,
+    7290.0,
+    7276.0,
+    7265.0,
+    7225.0,
+    7209.0
   ],
   "bull_levels": [
     {
-      "price": 7434.0,
+      "price": 7372.0,
       "major": true
     },
     {
-      "price": 7457.0,
+      "price": 7395.0,
       "major": true
     },
     {
-      "price": 7474.0,
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
       "major": true
     },
     {
@@ -29,7 +39,7 @@
       "major": true
     },
     {
-      "price": 7506.0,
+      "price": 7509.0,
       "major": true
     },
     {
@@ -37,11 +47,11 @@
       "major": true
     },
     {
-      "price": 7547.0,
+      "price": 7550.0,
       "major": true
     },
     {
-      "price": 7572.0,
+      "price": 7570.0,
       "major": true
     },
     {
@@ -59,61 +69,51 @@
     {
       "price": 7650.0,
       "major": true
-    },
-    {
-      "price": 7665.0,
-      "major": true
-    },
-    {
-      "price": 7689.0,
-      "major": true
-    },
-    {
-      "price": 7713.0,
-      "major": true
-    },
-    {
-      "price": 7740.0,
-      "major": true
-    },
-    {
-      "price": 7770.0,
-      "major": true
     }
   ],
   "bear_levels": [
     {
-      "price": 7427.0,
+      "price": 7351.0,
       "major": true
     },
     {
-      "price": 7398.0,
+      "price": 7333.0,
       "major": true
     },
     {
-      "price": 7385.0,
+      "price": 7320.0,
       "major": true
     },
     {
-      "price": 7352.0,
+      "price": 7307.5,
       "major": true
     },
     {
-      "price": 7342.0,
+      "price": 7290.0,
       "major": true
     },
     {
-      "price": 7322.0,
+      "price": 7276.0,
       "major": true
     },
     {
-      "price": 7302.0,
+      "price": 7265.0,
+      "major": true
+    },
+    {
+      "price": 7225.0,
+      "major": true
+    },
+    {
+      "price": 7209.0,
       "major": true
     }
   ],
-  "event_times": [],
-  "event_day": false,
-  "notes": "Trader leans bullish and is waiting for failed breakdown setups at key support levels. First objective is for bulls to reclaim 7519 (Friday's low), then work back toward 7572-7600. The daily pivot is 7519 \u2014 above it, bulls are in control and a push toward 7572-7665 is favored; below it, price stays under pressure and bear targets like 7398 and 7352 come into play.",
-  "fetched_at": "2026-11-17T12:45:10.425766+00:00",
-  "source_hash": "c2a3687013c6467b"
+  "event_times": [
+    1763996400000
+  ],
+  "event_day": true,
+  "notes": "Nvidia earnings (after close Tuesday) will decide whether today's bounce is a bottom or just a dead cat. The trader leans bullish only if bulls can reclaim 7395 and then 7421 \u2014 that level is the key dividing line: bears stay in control below it, and a push toward 7458 and 7519 becomes possible above it. He will wait for failed breakdown setups rather than chasing, managing profits level by level.",
+  "fetched_at": "2026-11-17T23:15:42.086109+00:00",
+  "source_hash": "92392692f7dfdbc2"
 }
