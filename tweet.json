@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-17T16:57:20.582249+00:00",
-  "fetched_at_est": "2026-11-17T11:57:20.582259-05:00",
+  "fetched_at_utc": "2026-11-17T17:02:27.762738+00:00",
+  "fetched_at_est": "2026-11-17T12:02:27.762744-05:00",
   "last_new_level_added_at_est": "2026-11-17T07:36:35-05:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122373888717828264",
-      "timestamp_utc": "2026-11-16T16:59:01.000Z",
-      "timestamp_est": "2026-11-16T11:59:01-05:00",
-      "tweet_text": "@HagglundKirk Morning on a day when we are below supports. Remember almost 100% of ES upside return occurs in the late afternoons/evenings. Especially true on more bearish days",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named at all; purely educational/statistical commentary about timing of ES returns. No actionable levels introduced."
-    },
     {
       "tweet_id": "2122380577408184784",
       "timestamp_utc": "2026-11-16T17:25:36.000Z",
@@ -344,6 +335,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7519 is a morning plan level; 7421 is not in plan but this is a reaffirmation/observation reply, not actionable naming language for a new major level."
+    },
+    {
+      "tweet_id": "2122736233713476020",
+      "timestamp_utc": "2026-11-17T16:58:51.000Z",
+      "timestamp_est": "2026-11-17T11:58:51-05:00",
+      "tweet_text": "@BurnsenRonsen You just get in when you get in. Sometimes if price is moving fast it won't always be exactly at 5 points above (this is actually a good thing, if price is moving fast there is momentum). I didn't get in until 34-35",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with casual entry reference ('34-35'); no actionable naming language, no explicit level designation. Conversational trade execution detail only."
     }
   ]
 }
