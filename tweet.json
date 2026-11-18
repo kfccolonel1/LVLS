@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T18:58:58.383200+00:00",
-  "fetched_at_est": "2026-11-18T13:58:58.383205-05:00",
+  "fetched_at_utc": "2026-11-18T19:04:03.002256+00:00",
+  "fetched_at_est": "2026-11-18T14:04:03.002262-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122766551350682015",
-      "timestamp_utc": "2026-11-17T18:59:19.000Z",
-      "timestamp_est": "2026-11-17T13:59:19-05:00",
-      "tweet_text": "Chop, don't touch this. We just got a textbook Failed Breakdown in #ES_F - all I do is wait all day for this, take my points, get out. 7323 Nov 5th low macro Failed Breakdown was long given live AND in newsletter. We went +60 to 7352, 7385 targets\n\n7398, 7427/34 next.Ride runner https://t.co/pzEmFu64UD",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7323 is a hindsight FBD reference; 7352, 7385, 7398, 7427, 7434 are all morning-plan levels being reaffirmed as targets."
-    },
-    {
-      "tweet_id": "2122767612937482377",
-      "timestamp_utc": "2026-11-17T19:03:32.000Z",
-      "timestamp_est": "2026-11-17T14:03:32-05:00",
-      "tweet_text": "@creditriskVP As soon as the new newsletter comes out can switch. We have Nvidia earnings today so I'll try to get it out early",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about newsletter timing and Nvidia earnings. No price levels named or actionable signals given."
-    },
     {
       "tweet_id": "2122771424490487994",
       "timestamp_utc": "2026-11-17T19:18:41.000Z",
