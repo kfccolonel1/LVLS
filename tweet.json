@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T17:18:20.254740+00:00",
-  "fetched_at_est": "2026-11-18T12:18:20.254744-05:00",
+  "fetched_at_utc": "2026-11-18T17:23:25.747894+00:00",
+  "fetched_at_est": "2026-11-18T12:23:25.747901-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
     {
@@ -273,6 +273,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7309 sweep, 7352, 7363, 7372, 7421) are hindsight trade recaps or morning-plan reaffirmations, not new actionable levels."
+    },
+    {
+      "tweet_id": "2123104624903106631",
+      "timestamp_utc": "2026-11-18T17:22:42.000Z",
+      "timestamp_est": "2026-11-18T12:22:42-05:00",
+      "tweet_text": "@TxTrader10 09 wouldve been the fresh level there (I don't tweet the quality entries here). But 23 worked also. Would just apply the usual protocol. Wait for it to recover by 5. Wait for it hold for at least a minute, then lock in at 33 1st up. Then can just hold the runner",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management reply: protocol steps, partial lock at 7333 (morning plan), and runner guidance. No new actionable levels named."
     }
   ]
 }
