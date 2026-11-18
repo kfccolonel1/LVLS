@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T16:22:49.889604+00:00",
-  "fetched_at_est": "2026-11-18T11:22:49.889608-05:00",
+  "fetched_at_utc": "2026-11-18T16:58:03.808976+00:00",
+  "fetched_at_est": "2026-11-18T11:58:03.808987-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122735179697713153",
-      "timestamp_utc": "2026-11-17T16:54:40.000Z",
-      "timestamp_est": "2026-11-17T11:54:40-05:00",
-      "tweet_text": "@Gino_Vlntino non acceptance protocol for me. For those fast moves I tend to use that almost all the time",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet discussing trading methodology (non-acceptance protocol) with no price levels mentioned at all."
-    },
-    {
-      "tweet_id": "2122735301407789295",
-      "timestamp_utc": "2026-11-17T16:55:09.000Z",
-      "timestamp_est": "2026-11-17T11:55:09-05:00",
-      "tweet_text": "@BaronCorvo1911 Bears retain control. 7421, 7519 have to recover to change it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7519 is a morning plan level; 7421 is not in plan but this is a reaffirmation/observation reply, not actionable naming language for a new major level."
-    },
     {
       "tweet_id": "2122736233713476020",
       "timestamp_utc": "2026-11-17T16:58:51.000Z",
@@ -286,6 +268,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market behavior \u2014 no price levels named, no actionable entries, targets, or triggers mentioned."
+    },
+    {
+      "tweet_id": "2123097257205711159",
+      "timestamp_utc": "2026-11-18T16:53:26.000Z",
+      "timestamp_est": "2026-11-18T11:53:26-05:00",
+      "tweet_text": "@upandown007 @tanay1210 We are in the early to mid stages of a strong bull market. This is obvious on the chart. I am referring to intraday obviously (I am a day trader)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market bias with no actionable price level named."
+    },
+    {
+      "tweet_id": "2123097646579540055",
+      "timestamp_utc": "2026-11-18T16:54:58.000Z",
+      "timestamp_est": "2026-11-18T11:54:58-05:00",
+      "tweet_text": "This market remains all about 7323 which has been absolute gold mine this week in #ES_F. Yesterday we got the Failed Breakdown there that ran us 66 points. Then at 3pm we got it again that ran us +100 to 7421 target (bears control below)\n\nNow back again. 7320-23 reclaims to pop https://t.co/sj8oT6Becx",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7320/7323 is in morning plan (7320.0); tweet is a reaffirmation of existing level with historical context, not a new actionable level."
+    },
+    {
+      "tweet_id": "2123098019734446098",
+      "timestamp_utc": "2026-11-18T16:56:27.000Z",
+      "timestamp_est": "2026-11-18T11:56:27-05:00",
+      "tweet_text": "@Vandeeee They're all in newsletter. I'm not including as much on Twitter anymore as its not fair to subscribers. Just post the poor quality setups here and a few significant levels",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No actionable price levels named; tweet is a meta-comment about posting policy, not a signal or level."
     }
   ]
 }
