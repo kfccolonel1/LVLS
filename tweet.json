@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T17:58:43.439177+00:00",
-  "fetched_at_est": "2026-11-18T12:58:43.439182-05:00",
+  "fetched_at_utc": "2026-11-18T18:58:58.383200+00:00",
+  "fetched_at_est": "2026-11-18T13:58:58.383205-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
     {
@@ -291,6 +291,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market volatility characteristics; no price levels named or actionable signals given."
+    },
+    {
+      "tweet_id": "2123127576122048897",
+      "timestamp_utc": "2026-11-18T18:53:54.000Z",
+      "timestamp_est": "2026-11-18T13:53:54-05:00",
+      "tweet_text": "Nothing left to do today but ride runner in #ES_F and we got multiple longs. Now its chop - I don't trade chop. I trade when we get a violent \"elevator down\", sweep a low, then trigger. 7309 Failed Breakdown was trigger given.\n\n7352 (hit), 7363 (hit), 7372 (hit), 7421 targets https://t.co/VdG44Eu3Ae",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7309 is trade management/hindsight ref; 7352, 7363 are hit targets not new levels; 7372 and 7421 are morning plan levels. No new actionable levels named."
     }
   ]
 }
