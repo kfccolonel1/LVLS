@@ -1,7 +1,7 @@
 {
   "session_date": "2026-11-18",
   "daily_pivot": 7421.0,
-  "regime_hint": "C5",
+  "regime_hint": "C4",
   "significant_lows": [
     7351.0,
     7333.0,
@@ -110,10 +110,10 @@
     }
   ],
   "event_times": [
-    1763308800000
+    1763996400000
   ],
   "event_day": true,
-  "notes": "Nvidia earnings after the close tonight are the key catalyst. The trader is leaning bullish after today's big flush to 7309 triggered a Failed Breakdown of the Nov 5 low at 7323, producing a sharp rally. The daily pivot is 7421: bulls need to reclaim 7421 and then 7519 to regain control; below 7421 bears remain in charge and bounces keep getting sold. Watch for a dip-and-recover setup near 7351-7333 or 7320 before attempting any long.",
-  "fetched_at": "2026-11-17T23:38:48.019137+00:00",
-  "source_hash": "255d722932112ca8"
+  "notes": "Nvidia earnings (after close Tuesday) will determine if the bounce from today's low at 7309 is a real bottom or just a dead cat. The trader leans long but only if bulls can reclaim 7421 then 7519 \u2014 those are the broken support shelves that must be recovered. The pivot is 7421: above it bulls regain footing and can push toward 7458-7519; below it bears stay in control and bounces keep getting sold.",
+  "fetched_at": "2026-11-18T13:36:50.821955+00:00",
+  "source_hash": "aec7fca29d1f8952"
 }
