@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T16:17:46.832643+00:00",
-  "fetched_at_est": "2026-11-18T11:17:46.832646-05:00",
+  "fetched_at_utc": "2026-11-18T16:22:49.889604+00:00",
+  "fetched_at_est": "2026-11-18T11:22:49.889608-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
     {
@@ -21,24 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122725935518457893",
-      "timestamp_utc": "2026-11-17T16:17:56.000Z",
-      "timestamp_est": "2026-11-17T11:17:56-05:00",
-      "tweet_text": "@Tytropolis https://t.co/1BJtGD87TU https://t.co/eyxfOTXZHG",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet contains only URLs and a username mention \u2014 no price levels, no actionable language, nothing to extract."
-    },
-    {
-      "tweet_id": "2122726468207722884",
-      "timestamp_utc": "2026-11-17T16:20:03.000Z",
-      "timestamp_est": "2026-11-17T11:20:03-05:00",
-      "tweet_text": "@BrianMelcher24 Because of how large my following is many just dont understand what day trading is or are even interested in it. Theyre interested in narratives, \"bulls vs bears\", investing etc but found me. Im interested in making money and exploiting an edge",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure meta-commentary about trading philosophy and audience. No prices mentioned, no actionable levels of any kind."
-    },
     {
       "tweet_id": "2122735179697713153",
       "timestamp_utc": "2026-11-17T16:54:40.000Z",
