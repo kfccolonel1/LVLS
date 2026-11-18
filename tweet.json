@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T20:09:21.861507+00:00",
-  "fetched_at_est": "2026-11-18T15:09:21.861510-05:00",
+  "fetched_at_utc": "2026-11-18T20:14:26.757509+00:00",
+  "fetched_at_est": "2026-11-18T15:14:26.757527-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
     {
@@ -21,15 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122785288191676580",
-      "timestamp_utc": "2026-11-17T20:13:46.000Z",
-      "timestamp_est": "2026-11-17T15:13:46-05:00",
-      "tweet_text": "Note: newsletter was sent 50mins ago with next slate of entries. Continue riding runner from the macro failed breakdown",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named; purely trade management (riding runner) and newsletter reference with no actionable new level introduced."
-    },
     {
       "tweet_id": "2122787242343031096",
       "timestamp_utc": "2026-11-17T20:21:32.000Z",
