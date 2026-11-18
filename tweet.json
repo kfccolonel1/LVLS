@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T17:03:08.158337+00:00",
-  "fetched_at_est": "2026-11-18T12:03:08.158342-05:00",
+  "fetched_at_utc": "2026-11-18T17:08:13.625001+00:00",
+  "fetched_at_est": "2026-11-18T12:08:13.625005-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
     {
@@ -21,17 +21,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122737977646371258",
-      "timestamp_utc": "2026-11-17T17:05:47.000Z",
-      "timestamp_est": "2026-11-17T12:05:47-05:00",
-      "tweet_text": "All about 7323 in #ES_F. This was major Nov 5th low and a battleground. We recovered it, triggering a Failed Breakdown, given live + in newsletter and running to 7352+ target. 7385, 7398, 7427/34 next.\n\nWe just retested 7323. Bulls want to hold or back down we go to 7302, 7290 https://t.co/ZigwuuI1Yy",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7290.0
-      ],
-      "notes": "7290 is named for the first time as a downside target ('back down we go to 7302, 7290') \u2014 not in morning plan. 7302 and 7323 are morning-plan levels, not new."
-    },
     {
       "tweet_id": "2122740138857885967",
       "timestamp_utc": "2026-11-17T17:14:22.000Z",
@@ -286,6 +275,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No actionable price levels named; tweet is a meta-comment about posting policy, not a signal or level."
+    },
+    {
+      "tweet_id": "2123100357262029083",
+      "timestamp_utc": "2026-11-18T17:05:45.000Z",
+      "timestamp_est": "2026-11-18T12:05:45-05:00",
+      "tweet_text": "Another day, another banked Failed Breakdown in #ES_F. Same drill daily in ES. Elevator down, Failed Breakdown, rip, repeat. Day trading should be assembly-line like and deeply boring.\n\n7309 yesterday low sweep was long given in newsletter. +36. 7352, 7363, 7372, 7421 above https://t.co/NFNkyI5zT5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7309 sweep, 7352, 7363, 7372, 7421) are hindsight trade recaps or morning-plan reaffirmations, not new actionable levels."
     }
   ]
 }
