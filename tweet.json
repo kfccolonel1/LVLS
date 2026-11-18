@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T12:46:17.995931+00:00",
-  "fetched_at_est": "2026-11-18T07:46:17.995935-05:00",
+  "fetched_at_utc": "2026-11-18T12:51:20.788296+00:00",
+  "fetched_at_est": "2026-11-18T07:51:20.788301-05:00",
   "last_new_level_added_at_est": "2026-11-18T07:38:11-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122673409255678115",
-      "timestamp_utc": "2026-11-17T12:49:12.000Z",
-      "timestamp_est": "2026-11-17T07:49:12-05:00",
-      "tweet_text": "@OnTheHooch The best days I'd say aren't necessarily Mode 1 red days (Mode 1 days are harder for all day traders), a more volatile two way red day is ideal for day trading.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading day types/modes. No price levels named, no actionable signals whatsoever."
-    },
     {
       "tweet_id": "2122678158239674601",
       "timestamp_utc": "2026-11-17T13:08:05.000Z",
