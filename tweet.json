@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T14:36:32.429318+00:00",
-  "fetched_at_est": "2026-11-18T09:36:32.429323-05:00",
+  "fetched_at_utc": "2026-11-18T14:46:38.723003+00:00",
+  "fetched_at_est": "2026-11-18T09:46:38.723008-05:00",
   "last_new_level_added_at_est": "2026-11-18T07:38:11-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122702944390778974",
-      "timestamp_utc": "2026-11-17T14:46:34.000Z",
-      "timestamp_est": "2026-11-17T09:46:34-05:00",
-      "tweet_text": "Lots of noise/whipsaw to start the day in #ES_F. The 7427/34 reclaims paid out twice late day ystd + overnight to 7450+. Now we are just chopping in this region.\n\n7427/34 (just backtested) must reclaim to see 7450, 7457, 7472, 7519. Bears control fully under 7519 as posted. https://t.co/yur1nqZJWm",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7427/34, 7457, 7519 are all morning-plan levels; 7450 and 7472 are observations/targets from prior posts, no new actionable level named."
-    },
     {
       "tweet_id": "2122711485314928978",
       "timestamp_utc": "2026-11-17T15:20:30.000Z",
@@ -331,6 +322,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7372, 7395, 7421) are morning-plan levels or reaffirmations; 7413 is a target reference, not newly named as actionable. No new major levels."
+    },
+    {
+      "tweet_id": "2123064228357505421",
+      "timestamp_utc": "2026-11-18T14:42:11.000Z",
+      "timestamp_est": "2026-11-18T09:42:11-05:00",
+      "tweet_text": "Finally a small \"elevator down\" which means we can pay attention to #ES_F. Yesterday we went elevator down, lost the 7323 Nov 5 macro low, recovered, and ran to 7421 target. Then, sidelines until next elevator to repeat daily\n\n7372 must reclaim to work up targets. 7320 below https://t.co/946L8kd7Dh",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7372 and 7320 are both in the morning plan. 7323 is an observation/hindsight reference to Nov 5 macro low, not a new actionable level."
     }
   ]
 }
