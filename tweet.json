@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T14:46:38.723003+00:00",
-  "fetched_at_est": "2026-11-18T09:46:38.723008-05:00",
+  "fetched_at_utc": "2026-11-18T14:51:45.542119+00:00",
+  "fetched_at_est": "2026-11-18T09:51:45.542122-05:00",
   "last_new_level_added_at_est": "2026-11-18T07:38:11-05:00",
   "todays_new_levels": [
     {
@@ -331,6 +331,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7372 and 7320 are both in the morning plan. 7323 is an observation/hindsight reference to Nov 5 macro low, not a new actionable level."
+    },
+    {
+      "tweet_id": "2123065458903388577",
+      "timestamp_utc": "2026-11-18T14:47:04.000Z",
+      "timestamp_est": "2026-11-18T09:47:04-05:00",
+      "tweet_text": "@AStendorr Not sure how the gains are gone, we ran 100 points and hit all profit takes. All gains are realized and we just restart the elevator down, failed breakdown, short squeeze cycle again to grab todays points",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trade outcome and cycle pattern; no specific actionable price levels named, only general commentary about gains and market behavior."
     }
   ]
 }
