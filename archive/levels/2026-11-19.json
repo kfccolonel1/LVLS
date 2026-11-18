@@ -1,0 +1,133 @@
+{
+  "session_date": "2026-11-19",
+  "daily_pivot": 7305,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7348.0,
+    7321.5,
+    7307.0,
+    7290.0,
+    7276.0,
+    7265.0,
+    7225.0,
+    7216.0,
+    7203.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7362.0,
+      "major": true
+    },
+    {
+      "price": 7372.0,
+      "major": true
+    },
+    {
+      "price": 7388.0,
+      "major": true
+    },
+    {
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7440.0,
+      "major": true
+    },
+    {
+      "price": 7455.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7493.0,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7519.0,
+      "major": true
+    },
+    {
+      "price": 7549.0,
+      "major": true
+    },
+    {
+      "price": 7568.0,
+      "major": true
+    },
+    {
+      "price": 7600.0,
+      "major": true
+    },
+    {
+      "price": 7620.0,
+      "major": true
+    },
+    {
+      "price": 7644.0,
+      "major": true
+    },
+    {
+      "price": 7656.0,
+      "major": true
+    },
+    {
+      "price": 7676.0,
+      "major": true
+    },
+    {
+      "price": 7688.5,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7348.0,
+      "major": true
+    },
+    {
+      "price": 7321.5,
+      "major": true
+    },
+    {
+      "price": 7307.0,
+      "major": true
+    },
+    {
+      "price": 7290.0,
+      "major": true
+    },
+    {
+      "price": 7276.0,
+      "major": true
+    },
+    {
+      "price": 7265.0,
+      "major": true
+    },
+    {
+      "price": 7225.0,
+      "major": true
+    },
+    {
+      "price": 7216.0,
+      "major": true
+    },
+    {
+      "price": 7203.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish after two successful failed-breakdown longs off the 7305-7309 zone. He expects ES to work up toward 7421, then 7519. He is already holding a runner from today's 7309 long. The pivot is 7305: above it bulls try to reclaim lost shelves; below it bears could push lower but breakdowns are low-probability trades he avoids.",
+  "fetched_at": "2026-11-18T23:00:23.088217+00:00",
+  "source_hash": "e3bf53cdd1779f05"
+}
