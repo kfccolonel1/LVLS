@@ -128,5 +128,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "No actionable price levels named; tweet is a meta-comment about posting policy, not a signal or level."
+  },
+  {
+    "tweet_id": "2123100357262029083",
+    "timestamp_est": "2026-11-18T12:05:45-05:00",
+    "timestamp_utc": "2026-11-18T17:05:45.000Z",
+    "tweet_text": "Another day, another banked Failed Breakdown in #ES_F. Same drill daily in ES. Elevator down, Failed Breakdown, rip, repeat. Day trading should be assembly-line like and deeply boring.\n\n7309 yesterday low sweep was long given in newsletter. +36. 7352, 7363, 7372, 7421 above https://t.co/NFNkyI5zT5",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "All prices mentioned (7309 sweep, 7352, 7363, 7372, 7421) are hindsight trade recaps or morning-plan reaffirmations, not new actionable levels."
   }
 ]
