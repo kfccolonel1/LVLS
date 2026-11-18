@@ -72,5 +72,16 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "No price levels mentioned at all; purely a directional/behavioral commentary about future session character."
+  },
+  {
+    "tweet_id": "2123073893024088446",
+    "timestamp_est": "2026-11-18T10:20:35-05:00",
+    "timestamp_utc": "2026-11-18T15:20:35.000Z",
+    "tweet_text": "Quick \"elevator down\" and rip in #ES_F and this market remans all about 7323-20. It was the 7323 Failed Breakdown yesterday that got us long for the 100+ point rip to 7421 target. Where did we land today? 7323 again.\n\nThis is noise now. 7372 must reclaim to see 7388, 7395, 7421 https://t.co/BNlzlxYRJw",
+    "added_bull_levels": [
+      7388.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7388 named as explicit intermediate target ('must reclaim 7372 to see 7388') not in morning plan. All other prices (7372, 7395, 7421, 7323/7320) are morning-plan levels."
   }
 ]
