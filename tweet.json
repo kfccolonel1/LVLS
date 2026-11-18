@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T13:26:31.664480+00:00",
-  "fetched_at_est": "2026-11-18T08:26:31.664486-05:00",
+  "fetched_at_utc": "2026-11-18T13:36:11.479570+00:00",
+  "fetched_at_est": "2026-11-18T08:36:11.479575-05:00",
   "last_new_level_added_at_est": "2026-11-18T07:38:11-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122685059400650858",
-      "timestamp_utc": "2026-11-17T13:35:30.000Z",
-      "timestamp_est": "2026-11-17T08:35:30-05:00",
-      "tweet_text": "Note: When I said &lt;19, I mean bears control under 7519 which was the shelf which we lost yesterday.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7519 is already in the morning plan; tweet is a clarification/reaffirmation of that existing level, not a new actionable price."
-    },
     {
       "tweet_id": "2122686064330739730",
       "timestamp_utc": "2026-11-17T13:39:29.000Z",
