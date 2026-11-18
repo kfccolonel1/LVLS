@@ -146,5 +146,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure trade management reply: protocol steps, partial lock at 7333 (morning plan), and runner guidance. No new actionable levels named."
+  },
+  {
+    "tweet_id": "2123104906945204269",
+    "timestamp_est": "2026-11-18T12:23:49-05:00",
+    "timestamp_utc": "2026-11-18T17:23:49.000Z",
+    "tweet_text": "@ashwagamma Its why I said in a comment earlier I like trading bearish markets. Many non-day traders can't understand how I love trading downtrends even though I only trade long, its because for day traders direction irrelevant, volatility matters https://t.co/fCzI1t9VXm",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply about trading philosophy/volatility preference. No price levels named or implied."
+  },
+  {
+    "tweet_id": "2123105119671644203",
+    "timestamp_est": "2026-11-18T12:24:40-05:00",
+    "timestamp_utc": "2026-11-18T17:24:40.000Z",
+    "tweet_text": "@ashwagamma (and volatility is present most often in downtrending markets not uptrending)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply about market volatility characteristics; no price levels named or actionable signals given."
   }
 ]
