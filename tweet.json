@@ -1,17 +1,10 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-18T20:24:30.661120+00:00",
-  "fetched_at_est": "2026-11-18T15:24:30.661124-05:00",
+  "fetched_at_utc": "2026-11-18T20:39:35.091200+00:00",
+  "fetched_at_est": "2026-11-18T15:39:35.091206-05:00",
   "last_new_level_added_at_est": "2026-11-18T10:20:35-05:00",
   "todays_new_levels": [
-    {
-      "price": 7413.0,
-      "side": "bull",
-      "added_at_est": "2026-11-18T07:38:11-05:00",
-      "expires_at_est": "2026-11-18T15:38:11-05:00",
-      "from_tweet_id": "2123033022064918552"
-    },
     {
       "price": 7388.0,
       "side": "bull",
@@ -21,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2122791531384099120",
-      "timestamp_utc": "2026-11-17T20:38:35.000Z",
-      "timestamp_est": "2026-11-17T15:38:35-05:00",
-      "tweet_text": "Note: The 7320 Failed Breakdown from the early newsletter already played out for 30 points. Just continue riding runner into Nvidia earnings. All just risk free profits from here https://t.co/wiVeIIjmwH",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7320 is near morning-plan level 7322; tweet is hindsight reference to an already-played trade, not a new actionable level. No new levels named."
-    },
     {
       "tweet_id": "2122833344119324712",
       "timestamp_utc": "2026-11-17T23:24:44.000Z",
