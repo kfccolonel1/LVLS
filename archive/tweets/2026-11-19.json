@@ -54,5 +54,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply tweet with no price levels named; purely conversational trade management comment about profit-taking."
+  },
+  {
+    "tweet_id": "2123399459916697743",
+    "timestamp_est": "2026-11-19T07:54:16-05:00",
+    "timestamp_utc": "2026-11-19T12:54:16.000Z",
+    "tweet_text": "@AStendorr There's all the technical requirements here for a bottom (two big Failed Breakdowns, lots of accumulation). Bulls can't hold these lows then they're likely in big trouble",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with general technical commentary about bottom conditions; no specific actionable price level named."
   }
 ]
