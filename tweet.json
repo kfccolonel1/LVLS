@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T14:46:49.347942+00:00",
-  "fetched_at_est": "2026-11-19T09:46:49.347946-05:00",
+  "fetched_at_utc": "2026-11-19T14:51:57.651086+00:00",
+  "fetched_at_est": "2026-11-19T09:51:57.651090-05:00",
   "last_new_level_added_at_est": "2026-11-19T09:09:48-05:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123065458903388577",
-      "timestamp_utc": "2026-11-18T14:47:04.000Z",
-      "timestamp_est": "2026-11-18T09:47:04-05:00",
-      "tweet_text": "@AStendorr Not sure how the gains are gone, we ran 100 points and hit all profit takes. All gains are realized and we just restart the elevator down, failed breakdown, short squeeze cycle again to grab todays points",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trade outcome and cycle pattern; no specific actionable price levels named, only general commentary about gains and market behavior."
-    },
     {
       "tweet_id": "2123069049097834525",
       "timestamp_utc": "2026-11-18T15:01:20.000Z",
@@ -259,6 +250,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trade management philosophy (sell at first/second level up); no specific price named, purely conversational."
+    },
+    {
+      "tweet_id": "2123428402732372096",
+      "timestamp_utc": "2026-11-19T14:49:17.000Z",
+      "timestamp_est": "2026-11-19T09:49:17-05:00",
+      "tweet_text": "Levels working today but this is chop in #ES_F as we digest the 100+ point long from yesterday's Failed Breakdown long of the Tuesday 7309 daily low. 7388 was support (we just held 7390). 7434 1st resistance, we hit and rejected. \n\n7421 reclaims to see 7434, 7440, 7458 again https://t.co/zfGLUXU2SN",
+      "added_bull_levels": [
+        7434.0,
+        7458.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7434 named as '1st resistance' and 7458 named as a bull target ('to see...7458 again') \u2014 both actionable, not in morning plan. 7421/7440/7388 are morning-plan levels."
     }
   ]
 }
