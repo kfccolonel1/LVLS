@@ -1,26 +1,12 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T22:10:57.967759+00:00",
-  "fetched_at_est": "2026-11-19T17:10:57.967766-05:00",
+  "fetched_at_utc": "2026-11-19T23:56:30.538176+00:00",
+  "fetched_at_est": "2026-11-19T18:56:30.538184-05:00",
   "last_new_level_added_at_est": "2026-11-19T15:05:06-05:00",
   "todays_new_levels": [
     {
-      "price": 7333.0,
-      "side": "bear",
-      "added_at_est": "2026-11-19T10:20:18-05:00",
-      "expires_at_est": "2026-11-19T18:20:18-05:00",
-      "from_tweet_id": "2123436210639020345"
-    },
-    {
       "price": 7220.0,
-      "side": "bull",
-      "added_at_est": "2026-11-19T15:05:06-05:00",
-      "expires_at_est": "2026-11-19T23:05:06-05:00",
-      "from_tweet_id": "2123507881345503645"
-    },
-    {
-      "price": 7240.0,
       "side": "bull",
       "added_at_est": "2026-11-19T15:05:06-05:00",
       "expires_at_est": "2026-11-19T23:05:06-05:00",
@@ -420,6 +406,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply about day trading profits; no price levels named or actionable instructions given."
+    },
+    {
+      "tweet_id": "2123559130703057292",
+      "timestamp_utc": "2026-11-19T23:28:45.000Z",
+      "timestamp_est": "2026-11-19T18:28:45-05:00",
+      "tweet_text": "@investingpro12 Not even a correction yet by technical standards",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about correction standards; no price named, no actionable level, no naming language used."
+    },
+    {
+      "tweet_id": "2123559312517689431",
+      "timestamp_utc": "2026-11-19T23:29:28.000Z",
+      "timestamp_est": "2026-11-19T18:29:28-05:00",
+      "tweet_text": "@avnish_kevat We had a larger correction in April. Very routine. Markets cant just go up all the time",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about market behavior; no price level named or actionable instruction given."
     }
   ]
 }
