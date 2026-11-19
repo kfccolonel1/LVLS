@@ -361,5 +361,26 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure conversational reply to a user, no price levels named, no actionable language present."
+  },
+  {
+    "tweet_id": "2123507881345503645",
+    "timestamp_est": "2026-11-19T15:05:06-05:00",
+    "timestamp_utc": "2026-11-19T20:05:06.000Z",
+    "tweet_text": "Note: Newsletter sent early today with next downside levels. We usually see an evening squeeze on these days, watch for 7210 big low to recover with 7220 first big shelf above, then onto 7240+.",
+    "added_bull_levels": [
+      7220.0,
+      7240.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7220 named as 'first big shelf above' and 7240+ as next target on recovery \u2014 both are new actionable levels not in morning plan."
+  },
+  {
+    "tweet_id": "2123509124487135669",
+    "timestamp_est": "2026-11-19T15:10:02-05:00",
+    "timestamp_utc": "2026-11-19T20:10:02.000Z",
+    "tweet_text": "@OnTheHooch @Javad_2014 Hasn't been small though - had a 132 point squeeze yesterday, 58 points this morning, 84 points this afternoon. This is substantially more points than we'd get in a strong uptrend and would often take many days or even weeks to see this",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure commentary on point ranges/volatility; no actionable price levels named, just distance observations in a conversational reply."
   }
 ]
