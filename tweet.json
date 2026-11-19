@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T16:58:07.980034+00:00",
-  "fetched_at_est": "2026-11-19T11:58:07.980038-05:00",
+  "fetched_at_utc": "2026-11-19T17:03:14.382314+00:00",
+  "fetched_at_est": "2026-11-19T12:03:14.382319-05:00",
   "last_new_level_added_at_est": "2026-11-19T10:20:18-05:00",
   "todays_new_levels": [
     {
@@ -289,6 +289,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7305, 7320, 7334, 7348, 7363) are morning-plan levels or observations of hits. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2123461345228021869",
+      "timestamp_utc": "2026-11-19T17:00:11.000Z",
+      "timestamp_est": "2026-11-19T12:00:11-05:00",
+      "tweet_text": "Goldmine this week of setups in #ES_F and this is a pure level to level day traders market. Won't get better this year. The last setup was the 7305 Failed Breakdown long. Targets were 7320 (hit), 7334 (hit), 7348 (hit). back down.\n\n7292 recover now to rip again. 7265, 7216 below https://t.co/uH4zClx4nq",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7292 is not in morning plan but used conversationally as a recover-to-rip reference without explicit actionable naming language. 7265/7216 are morning plan reaffirmations."
     }
   ]
 }
