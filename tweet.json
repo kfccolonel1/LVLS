@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T17:03:14.382314+00:00",
-  "fetched_at_est": "2026-11-19T12:03:14.382319-05:00",
+  "fetched_at_utc": "2026-11-19T17:08:22.651843+00:00",
+  "fetched_at_est": "2026-11-19T12:08:22.651854-05:00",
   "last_new_level_added_at_est": "2026-11-19T10:20:18-05:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123100357262029083",
-      "timestamp_utc": "2026-11-18T17:05:45.000Z",
-      "timestamp_est": "2026-11-18T12:05:45-05:00",
-      "tweet_text": "Another day, another banked Failed Breakdown in #ES_F. Same drill daily in ES. Elevator down, Failed Breakdown, rip, repeat. Day trading should be assembly-line like and deeply boring.\n\n7309 yesterday low sweep was long given in newsletter. +36. 7352, 7363, 7372, 7421 above https://t.co/NFNkyI5zT5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7309 sweep, 7352, 7363, 7372, 7421) are hindsight trade recaps or morning-plan reaffirmations, not new actionable levels."
-    },
     {
       "tweet_id": "2123104624903106631",
       "timestamp_utc": "2026-11-18T17:22:42.000Z",
@@ -298,6 +289,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7292 is not in morning plan but used conversationally as a recover-to-rip reference without explicit actionable naming language. 7265/7216 are morning plan reaffirmations."
+    },
+    {
+      "tweet_id": "2123462147011125352",
+      "timestamp_utc": "2026-11-19T17:03:22.000Z",
+      "timestamp_est": "2026-11-19T12:03:22-05:00",
+      "tweet_text": "@NoSpinRealist Best week of 2026 so far I think overall in terms of setup frequency and magnitude.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on weekly performance, no price levels named or actionable triggers of any kind."
+    },
+    {
+      "tweet_id": "2123463209679991130",
+      "timestamp_utc": "2026-11-19T17:07:35.000Z",
+      "timestamp_est": "2026-11-19T12:07:35-05:00",
+      "tweet_text": "@Gino_Vlntino Not a problem!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a casual conversational reply with no price levels or actionable language whatsoever."
     }
   ]
 }
