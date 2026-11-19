@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T14:51:57.651086+00:00",
-  "fetched_at_est": "2026-11-19T09:51:57.651090-05:00",
+  "fetched_at_utc": "2026-11-19T15:02:03.582780+00:00",
+  "fetched_at_est": "2026-11-19T10:02:03.582785-05:00",
   "last_new_level_added_at_est": "2026-11-19T09:09:48-05:00",
   "todays_new_levels": [
     {
@@ -28,24 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123069049097834525",
-      "timestamp_utc": "2026-11-18T15:01:20.000Z",
-      "timestamp_est": "2026-11-18T10:01:20-05:00",
-      "tweet_text": "@TrisTrading Its never really days. Almost every day (except for Mode 1 green days) we have an elevator down sell. Typically its 40-200 point rapid drop within an hour, then we rip",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market behavior commentary describing typical intraday patterns; no specific actionable price level named."
-    },
-    {
-      "tweet_id": "2123069162306048085",
-      "timestamp_utc": "2026-11-18T15:01:47.000Z",
-      "timestamp_est": "2026-11-18T10:01:47-05:00",
-      "tweet_text": "@TrisTrading In in 10 days we will sell the the entire session but those days are typically slower grnds down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No price levels mentioned at all; purely a directional/behavioral commentary about future session character."
-    },
     {
       "tweet_id": "2123073893024088446",
       "timestamp_utc": "2026-11-18T15:20:35.000Z",
