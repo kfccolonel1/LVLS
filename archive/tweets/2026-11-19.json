@@ -63,5 +63,26 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply tweet with general technical commentary about bottom conditions; no specific actionable price level named."
+  },
+  {
+    "tweet_id": "2123418469496660260",
+    "timestamp_est": "2026-11-19T09:09:48-05:00",
+    "timestamp_utc": "2026-11-19T14:09:48.000Z",
+    "tweet_text": "Yesterday, we got a classic Failed Breakdown given in newsletter. We sold to 7305. In doing so, we swept the Tuesday 7309 low. We recovered, ripped. Target was 7421 (hit)\n\nNow, wait for next deep sell. 7421 reclaims low quality long to 7434, 7440, 7458+. 7388 support now https://t.co/dh8osbOJPt",
+    "added_bull_levels": [
+      7434.0,
+      7458.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7434 and 7458 named as targets on 7421 reclaim long \u2014 not in morning plan. 7388/7421/7440 are reaffirmations."
+  },
+  {
+    "tweet_id": "2123418605018558833",
+    "timestamp_est": "2026-11-19T09:10:21-05:00",
+    "timestamp_utc": "2026-11-19T14:10:21.000Z",
+    "tweet_text": "@disciple33 @OnTheHooch Yes. Levels are just levels. If we are above them they are supports, and if we are below they are resistances",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply explaining level mechanics; no specific actionable price named or added."
   }
 ]
