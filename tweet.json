@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T12:25:49.504007+00:00",
-  "fetched_at_est": "2026-11-19T07:25:49.504019-05:00",
+  "fetched_at_utc": "2026-11-19T12:41:01.367847+00:00",
+  "fetched_at_est": "2026-11-19T07:41:01.367856-05:00",
   "last_new_level_added_at_est": "2026-11-19T07:21:03-05:00",
   "todays_new_levels": [
     {
@@ -14,35 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123033022064918552",
-      "timestamp_utc": "2026-11-18T12:38:11.000Z",
-      "timestamp_est": "2026-11-18T07:38:11-05:00",
-      "tweet_text": "Yesterday was perfect. We went elevator down. This meant squeeze. 7320 Failed Breakdowns were the long (given in 2pm newsletter). We swept it 3pm, ripped, long. Targets given here: 7352, 7385, 7398, 7421(hit)\n\nPlan: 7372, 7351=supports. 7395, 7413, 7421 next. Bears control&lt;7421 https://t.co/GM8NTVXZ9T",
-      "added_bull_levels": [
-        7413.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7413 is explicitly named as 'next' resistance target not in morning plan. 7372, 7351, 7395, 7421 are all morning-plan levels; 7352/7385/7398 are hindsight targets."
-    },
-    {
-      "tweet_id": "2123033258401337752",
-      "timestamp_utc": "2026-11-18T12:39:07.000Z",
-      "timestamp_est": "2026-11-18T07:39:07-05:00",
-      "tweet_text": "Note: This long was given every step in advance. When we went elevator down at 10:30AM. I warned a squeeze was coming and to watch traps of the 7323 Nov 5th low for a macro Failed Breakdown https://t.co/XjC3btHMD5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7323 is referenced as a hindsight/recap observation ('I warned...watch traps') not a new actionable level; also near morning-plan 7320."
-    },
-    {
-      "tweet_id": "2123033471656300653",
-      "timestamp_utc": "2026-11-18T12:39:58.000Z",
-      "timestamp_est": "2026-11-18T07:39:58-05:00",
-      "tweet_text": "For anyone who missed that, newsletter was sent at 2pm with the 7320 Failed Breakdown given again. We swept it at 3pm to 7316, recovered, went +100. It is literally the same boring thing every day for me - how trading should be. https://t.co/kl7t4Dyi0F",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7320 is a morning-plan level; tweet is hindsight recap of a newsletter call and trade outcome, no new actionable levels named."
-    },
     {
       "tweet_id": "2123050140936364400",
       "timestamp_utc": "2026-11-18T13:46:12.000Z",
@@ -226,6 +197,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet referencing a prior FBD trigger \u2014 no new price level named, purely observational trade outcome commentary."
+    },
+    {
+      "tweet_id": "2123394894702215563",
+      "timestamp_utc": "2026-11-19T12:36:08.000Z",
+      "timestamp_est": "2026-11-19T07:36:08-05:00",
+      "tweet_text": "@OnTheHooch Hopefully! Not many great supports up here to work with",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply with no price named, no actionable level, no naming language. Nothing to extract."
+    },
+    {
+      "tweet_id": "2123395077120684205",
+      "timestamp_utc": "2026-11-19T12:36:51.000Z",
+      "timestamp_est": "2026-11-19T07:36:51-05:00",
+      "tweet_text": "@CrazyJ24881918 I don't. I just do full size the first trade. After that I just risk profits basically",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade sizing methodology; no price levels named or actionable levels referenced."
+    },
+    {
+      "tweet_id": "2123395196545351892",
+      "timestamp_utc": "2026-11-19T12:37:20.000Z",
+      "timestamp_est": "2026-11-19T07:37:20-05:00",
+      "tweet_text": "@CrazyJ24881918 (Unless its a very tiny first profit)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels named; purely conversational trade management comment about profit-taking."
     }
   ]
 }
