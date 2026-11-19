@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T17:13:31.269990+00:00",
-  "fetched_at_est": "2026-11-19T12:13:31.270002-05:00",
+  "fetched_at_utc": "2026-11-19T17:23:39.055737+00:00",
+  "fetched_at_est": "2026-11-19T12:23:39.055741-05:00",
   "last_new_level_added_at_est": "2026-11-19T10:20:18-05:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123104624903106631",
-      "timestamp_utc": "2026-11-18T17:22:42.000Z",
-      "timestamp_est": "2026-11-18T12:22:42-05:00",
-      "tweet_text": "@TxTrader10 09 wouldve been the fresh level there (I don't tweet the quality entries here). But 23 worked also. Would just apply the usual protocol. Wait for it to recover by 5. Wait for it hold for at least a minute, then lock in at 33 1st up. Then can just hold the runner",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management reply: protocol steps, partial lock at 7333 (morning plan), and runner guidance. No new actionable levels named."
-    },
     {
       "tweet_id": "2123104906945204269",
       "timestamp_utc": "2026-11-18T17:23:49.000Z",
@@ -325,6 +316,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price levels mentioned; purely conversational comment about investing strategy."
+    },
+    {
+      "tweet_id": "2123466852554699078",
+      "timestamp_utc": "2026-11-19T17:22:04.000Z",
+      "timestamp_est": "2026-11-19T12:22:04-05:00",
+      "tweet_text": "@mr1ktrader We are very obviously in a healthy bull market by every metric, that has nothing to do with intraday trading though and is just the macro context",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure macro commentary, no price levels named or actionable triggers of any kind."
     }
   ]
 }
