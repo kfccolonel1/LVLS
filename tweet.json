@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T17:33:58.459504+00:00",
-  "fetched_at_est": "2026-11-19T12:33:58.459513-05:00",
+  "fetched_at_utc": "2026-11-19T17:44:08.821189+00:00",
+  "fetched_at_est": "2026-11-19T12:44:08.821200-05:00",
   "last_new_level_added_at_est": "2026-11-19T10:20:18-05:00",
   "todays_new_levels": [
     {
@@ -334,6 +334,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply tweet with no price mentioned, purely conversational commentary about prior support. No actionable level named."
+    },
+    {
+      "tweet_id": "2123471152114704473",
+      "timestamp_utc": "2026-11-19T17:39:09.000Z",
+      "timestamp_est": "2026-11-19T12:39:09-05:00",
+      "tweet_text": "@vikidave 7306-09 shelf is the big one, but as I discuss in newsletter there's many that have to clear for bulls to regain control. 7306-09, 7421, and 7519 is the big one.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7307/7421/7519 all in morning plan; 7306-09 shelf rounds to morning-plan level. Reaffirmation of existing levels, not new actionable prices."
+    },
+    {
+      "tweet_id": "2123471574103929315",
+      "timestamp_utc": "2026-11-19T17:40:50.000Z",
+      "timestamp_est": "2026-11-19T12:40:50-05:00",
+      "tweet_text": "@DavidDa41048475 @Gino_Vlntino If its a 10% runner it shouldn't eat substantial profits. Impossible to go red. if you took the 7305 failed breakdown for example we ran to 7348, stop on the 10% goes under 7293. That 10% won't eat the profits on the 90%",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Trade management explanation referencing existing morning-plan levels (7305, 7348, 7293 stop math). No new actionable level named."
     }
   ]
 }
