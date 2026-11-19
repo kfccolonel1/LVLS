@@ -262,5 +262,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply tweet with no price named, no actionable level, no naming language \u2014 pure conversational observation."
+  },
+  {
+    "tweet_id": "2123468685092454811",
+    "timestamp_est": "2026-11-19T12:29:21-05:00",
+    "timestamp_utc": "2026-11-19T17:29:21.000Z",
+    "tweet_text": "We continue to print setups in #ES_F and we don't see days like this often where we get multiple, 50-100 point setups before noon. Next big support cluster down was 7209-7216 per newsletter. We hit 7210, recovered, 7216 and back up the targets\n\n7306-09 next and we can rip above https://t.co/4tRgkwLkae",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7209-7216 and 7306-09 are all within or reaffirming morning plan levels (7203, 7216, 7305, 7307). Observations of price action hitting 7210, recovering \u2014 no new actionable levels named."
+  },
+  {
+    "tweet_id": "2123469609521312082",
+    "timestamp_est": "2026-11-19T12:33:01-05:00",
+    "timestamp_utc": "2026-11-19T17:33:01.000Z",
+    "tweet_text": "@ashwagamma It was last support for a reason!",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price mentioned, purely conversational commentary about prior support. No actionable level named."
   }
 ]
