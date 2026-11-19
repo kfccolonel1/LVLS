@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T20:05:14.795070+00:00",
-  "fetched_at_est": "2026-11-19T15:05:14.795074-05:00",
-  "last_new_level_added_at_est": "2026-11-19T10:20:18-05:00",
+  "fetched_at_utc": "2026-11-19T20:10:24.875979+00:00",
+  "fetched_at_est": "2026-11-19T15:10:24.875989-05:00",
+  "last_new_level_added_at_est": "2026-11-19T15:05:06-05:00",
   "todays_new_levels": [
     {
       "price": 7478.0,
@@ -32,18 +32,23 @@
       "added_at_est": "2026-11-19T10:20:18-05:00",
       "expires_at_est": "2026-11-19T18:20:18-05:00",
       "from_tweet_id": "2123436210639020345"
+    },
+    {
+      "price": 7220.0,
+      "side": "bull",
+      "added_at_est": "2026-11-19T15:05:06-05:00",
+      "expires_at_est": "2026-11-19T23:05:06-05:00",
+      "from_tweet_id": "2123507881345503645"
+    },
+    {
+      "price": 7240.0,
+      "side": "bull",
+      "added_at_est": "2026-11-19T15:05:06-05:00",
+      "expires_at_est": "2026-11-19T23:05:06-05:00",
+      "from_tweet_id": "2123507881345503645"
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123146071027413321",
-      "timestamp_utc": "2026-11-18T20:07:24.000Z",
-      "timestamp_est": "2026-11-18T15:07:24-05:00",
-      "tweet_text": "Closing update: Newsletter sent out earlier with next entries. 7421 remains above and that is the bull/bear line, we rejected here last eve. Once recovered we can tackle 7519. Many entries en route",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7421 and 7519 are both in the morning plan; this is a reaffirmation/update referencing existing levels, no new actionable prices introduced."
-    },
     {
       "tweet_id": "2123391099536298086",
       "timestamp_utc": "2026-11-19T12:21:03.000Z",
@@ -406,6 +411,27 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply to a user, no price levels named, no actionable language present."
+    },
+    {
+      "tweet_id": "2123507881345503645",
+      "timestamp_utc": "2026-11-19T20:05:06.000Z",
+      "timestamp_est": "2026-11-19T15:05:06-05:00",
+      "tweet_text": "Note: Newsletter sent early today with next downside levels. We usually see an evening squeeze on these days, watch for 7210 big low to recover with 7220 first big shelf above, then onto 7240+.",
+      "added_bull_levels": [
+        7220.0,
+        7240.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7220 named as 'first big shelf above' and 7240+ as next target on recovery \u2014 both are new actionable levels not in morning plan."
+    },
+    {
+      "tweet_id": "2123509124487135669",
+      "timestamp_utc": "2026-11-19T20:10:02.000Z",
+      "timestamp_est": "2026-11-19T15:10:02-05:00",
+      "tweet_text": "@OnTheHooch @Javad_2014 Hasn't been small though - had a 132 point squeeze yesterday, 58 points this morning, 84 points this afternoon. This is substantially more points than we'd get in a strong uptrend and would often take many days or even weeks to see this",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on point ranges/volatility; no actionable price levels named, just distance observations in a conversational reply."
     }
   ]
 }
