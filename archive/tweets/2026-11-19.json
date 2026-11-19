@@ -152,5 +152,25 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply tweet with no price levels mentioned at all; purely conversational comment about trading day types."
+  },
+  {
+    "tweet_id": "2123439603755647258",
+    "timestamp_est": "2026-11-19T10:33:47-05:00",
+    "timestamp_utc": "2026-11-19T15:33:47.000Z",
+    "tweet_text": "Note: Watch recoveries of 7333 now to trigger back up",
+    "added_bull_levels": [
+      7333.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7333 named explicitly as a new actionable trigger level ('watch recoveries of 7333 now to trigger back up'); not in morning plan."
+  },
+  {
+    "tweet_id": "2123440244410269839",
+    "timestamp_est": "2026-11-19T10:36:20-05:00",
+    "timestamp_utc": "2026-11-19T15:36:20.000Z",
+    "tweet_text": "@Josephdix1960 It is, but this week has been very predictable with the elevator downs even occurring at the same time of day. Usually market mixes things up more, but makes it easy for retail traders at least",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply about market behavior patterns; no price levels named or actionable triggers of any kind."
   }
 ]
