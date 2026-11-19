@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T12:56:10.324759+00:00",
-  "fetched_at_est": "2026-11-19T07:56:10.324763-05:00",
+  "fetched_at_utc": "2026-11-19T13:46:22.937315+00:00",
+  "fetched_at_est": "2026-11-19T08:46:22.937321-05:00",
   "last_new_level_added_at_est": "2026-11-19T07:21:03-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123050140936364400",
-      "timestamp_utc": "2026-11-18T13:46:12.000Z",
-      "timestamp_est": "2026-11-18T08:46:12-05:00",
-      "tweet_text": "Levels working in #ES_F: 7372 1st support held. Longs still running from yesterday's 7323 Nov 5th low macro Failed Breakdown. These Failed Breakdowns often set interim lows. Targets were 7352, 7385, 7398, 7421 (all hit).\n\nTodays set: 7395, 7413, 7421 next. Bears control&lt;7421 https://t.co/946L8kdFsP",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7372, 7395, 7421) are morning-plan levels or reaffirmations; 7413 is a target reference, not newly named as actionable. No new major levels."
-    },
     {
       "tweet_id": "2123064228357505421",
       "timestamp_utc": "2026-11-18T14:42:11.000Z",
