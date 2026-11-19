@@ -1,0 +1,123 @@
+{
+  "session_date": "2026-11-20",
+  "daily_pivot": 7307.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7240.0,
+    7222.5,
+    7209.0,
+    7196.0,
+    7180.0,
+    7153.0,
+    7122.5
+  ],
+  "bull_levels": [
+    {
+      "price": 7258.0,
+      "major": true
+    },
+    {
+      "price": 7277.0,
+      "major": true
+    },
+    {
+      "price": 7307.0,
+      "major": true
+    },
+    {
+      "price": 7320.0,
+      "major": true
+    },
+    {
+      "price": 7334.0,
+      "major": true
+    },
+    {
+      "price": 7351.0,
+      "major": true
+    },
+    {
+      "price": 7363.0,
+      "major": true
+    },
+    {
+      "price": 7405.0,
+      "major": true
+    },
+    {
+      "price": 7421.0,
+      "major": true
+    },
+    {
+      "price": 7434.0,
+      "major": true
+    },
+    {
+      "price": 7458.0,
+      "major": true
+    },
+    {
+      "price": 7474.0,
+      "major": true
+    },
+    {
+      "price": 7494.0,
+      "major": true
+    },
+    {
+      "price": 7509.0,
+      "major": true
+    },
+    {
+      "price": 7526.0,
+      "major": true
+    },
+    {
+      "price": 7549.0,
+      "major": true
+    },
+    {
+      "price": 7572.0,
+      "major": true
+    },
+    {
+      "price": 7599.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7240.0,
+      "major": true
+    },
+    {
+      "price": 7222.5,
+      "major": true
+    },
+    {
+      "price": 7209.0,
+      "major": true
+    },
+    {
+      "price": 7196.0,
+      "major": true
+    },
+    {
+      "price": 7180.0,
+      "major": true
+    },
+    {
+      "price": 7153.0,
+      "major": true
+    },
+    {
+      "price": 7122.5,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish but cautious after multi-day selloff. He wants ES to hold today's 7210 low and then reclaim 7307 (the Tuesday/Wednesday shelf of lows). Above 7307 bulls regain control and targets are 7334, 7365, then 7405-7421. Below 7210 bears are in charge. The key pivot is 7307: above it favors bulls pushing higher; below it bears remain in control.",
+  "fetched_at": "2026-11-19T23:00:19.019118+00:00",
+  "source_hash": "8a774881365f5de3"
+}
