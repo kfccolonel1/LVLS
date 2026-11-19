@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T16:07:55.487802+00:00",
-  "fetched_at_est": "2026-11-19T11:07:55.487807-05:00",
+  "fetched_at_utc": "2026-11-19T16:58:07.980034+00:00",
+  "fetched_at_est": "2026-11-19T11:58:07.980038-05:00",
   "last_new_level_added_at_est": "2026-11-19T10:20:18-05:00",
   "todays_new_levels": [
     {
@@ -35,33 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123097257205711159",
-      "timestamp_utc": "2026-11-18T16:53:26.000Z",
-      "timestamp_est": "2026-11-18T11:53:26-05:00",
-      "tweet_text": "@upandown007 @tanay1210 We are in the early to mid stages of a strong bull market. This is obvious on the chart. I am referring to intraday obviously (I am a day trader)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about market bias with no actionable price level named."
-    },
-    {
-      "tweet_id": "2123097646579540055",
-      "timestamp_utc": "2026-11-18T16:54:58.000Z",
-      "timestamp_est": "2026-11-18T11:54:58-05:00",
-      "tweet_text": "This market remains all about 7323 which has been absolute gold mine this week in #ES_F. Yesterday we got the Failed Breakdown there that ran us 66 points. Then at 3pm we got it again that ran us +100 to 7421 target (bears control below)\n\nNow back again. 7320-23 reclaims to pop https://t.co/sj8oT6Becx",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7320/7323 is in morning plan (7320.0); tweet is a reaffirmation of existing level with historical context, not a new actionable level."
-    },
-    {
-      "tweet_id": "2123098019734446098",
-      "timestamp_utc": "2026-11-18T16:56:27.000Z",
-      "timestamp_est": "2026-11-18T11:56:27-05:00",
-      "tweet_text": "@Vandeeee They're all in newsletter. I'm not including as much on Twitter anymore as its not fair to subscribers. Just post the poor quality setups here and a few significant levels",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No actionable price levels named; tweet is a meta-comment about posting policy, not a signal or level."
-    },
     {
       "tweet_id": "2123100357262029083",
       "timestamp_utc": "2026-11-18T17:05:45.000Z",
