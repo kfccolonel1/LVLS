@@ -226,5 +226,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Tweet is a casual conversational reply with no price levels or actionable language whatsoever."
+  },
+  {
+    "tweet_id": "2123463598835917284",
+    "timestamp_est": "2026-11-19T12:09:08-05:00",
+    "timestamp_utc": "2026-11-19T17:09:08.000Z",
+    "tweet_text": "@iwillsurvive100 Comment doesnt make any sense. Every setup has played out perfectly today and I don't really care whats happening to \"dip buyers\", nothing to do with me or my system. Not sure why anyone would be buying a dip when bears control",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply/commentary, no price levels named or actionable setups referenced."
+  },
+  {
+    "tweet_id": "2123463809977426301",
+    "timestamp_est": "2026-11-19T12:09:59-05:00",
+    "timestamp_utc": "2026-11-19T17:09:59.000Z",
+    "tweet_text": "@iwillsurvive100 (unless you are a long-term investor averaging down weekly which is a different story)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price levels mentioned; purely conversational comment about investing strategy."
   }
 ]
