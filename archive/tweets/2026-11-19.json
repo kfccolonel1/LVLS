@@ -307,5 +307,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Tweet is a conversational reply explaining day trading concepts to a user; no actionable prices or levels named whatsoever."
+  },
+  {
+    "tweet_id": "2123478823119601822",
+    "timestamp_est": "2026-11-19T13:09:38-05:00",
+    "timestamp_utc": "2026-11-19T18:09:38.000Z",
+    "tweet_text": "@LuigiBongiovi I'm looking for a failed breakdown and a two level move typically. Thats often something like 5-20 points per day (then runners as a bonus). Obviously these are markets are extreme so I can often get 2 or rarely 3 setups in but I am good with one trade normally",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining general trading approach (failed breakdown, 5-20pt moves). No specific price levels named or actionable triggers given."
+  },
+  {
+    "tweet_id": "2123479337626402897",
+    "timestamp_est": "2026-11-19T13:11:41-05:00",
+    "timestamp_utc": "2026-11-19T18:11:41.000Z",
+    "tweet_text": "@schwartzaman @TheHealingTrade @ashwagamma Just since noon yesterday we've had a 138 point Failed Breakdown then a ~55 point one this morning. Most day traders are looking for 5-25 points a day. It doesn't matter if those are red (short) points or green (long points). We just look to get them, and do it again the next day",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply explaining trading philosophy; references 138pt and 55pt moves as math/observation only, no actionable price levels named."
   }
 ]
