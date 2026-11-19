@@ -105,5 +105,34 @@
     ],
     "added_bear_levels": [],
     "notes": "7434 named as '1st resistance' and 7458 named as a bull target ('to see...7458 again') \u2014 both actionable, not in morning plan. 7421/7440/7388 are morning-plan levels."
+  },
+  {
+    "tweet_id": "2123435701396271150",
+    "timestamp_est": "2026-11-19T10:18:17-05:00",
+    "timestamp_utc": "2026-11-19T15:18:17.000Z",
+    "tweet_text": "@KeyurMulani786 When I say deep sell I am just referring the daily intraday cycle. Everyday ES goes: Elevator down, Failed Breakdown, Short squeeze",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining intraday cycle pattern (elevator down, FBD, short squeeze) \u2014 no price named, purely educational commentary."
+  },
+  {
+    "tweet_id": "2123435792676643182",
+    "timestamp_est": "2026-11-19T10:18:39-05:00",
+    "timestamp_utc": "2026-11-19T15:18:39.000Z",
+    "tweet_text": "@KeyurMulani786 (except for Mode 1 red trend days which are 10% of days. on Those days we rip in the evening)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet explaining trend day behavior. No price levels named, purely conversational/educational commentary."
+  },
+  {
+    "tweet_id": "2123436210639020345",
+    "timestamp_est": "2026-11-19T10:20:18-05:00",
+    "timestamp_utc": "2026-11-19T15:20:18.000Z",
+    "tweet_text": "Finalyl getting today's \"elevator down\" sell in #ES_F. As posted, wait for deep sell. Everyday the cycle is: Elevator down, Failed Breakdown, Short squeeze. 7309 trap yesterday was last one that took us to 7421+ target.\n\nWatch sweeps of 7363. 7348, 7333 below then back to 7320-23 https://t.co/zfGLUXU2SN",
+    "added_bull_levels": [],
+    "added_bear_levels": [
+      7333.0
+    ],
+    "notes": "7333 is named as a watch/target below alongside morning-plan levels 7348/7321.5; it is not in today's plan and is presented as an actionable downside level in sequence."
   }
 ]
