@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T18:54:46.489914+00:00",
-  "fetched_at_est": "2026-11-19T13:54:46.489918-05:00",
+  "fetched_at_utc": "2026-11-19T19:40:03.637768+00:00",
+  "fetched_at_est": "2026-11-19T14:40:03.637779-05:00",
   "last_new_level_added_at_est": "2026-11-19T10:20:18-05:00",
   "todays_new_levels": [
     {
@@ -370,6 +370,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining trading philosophy; references 138pt and 55pt moves as math/observation only, no actionable price levels named."
+    },
+    {
+      "tweet_id": "2123500422287516051",
+      "timestamp_utc": "2026-11-19T19:35:28.000Z",
+      "timestamp_est": "2026-11-19T14:35:28-05:00",
+      "tweet_text": "Chop time now in #ES_F and today's been perfect with multiple setups: Always same in ES. Elevator down, Failed Breakdown (we long), rip. Last long was at the 7209-16 zone in newsletter. We swept 16, recovered, ripped.\n\n7225=support. Bears control fully until 7306-09 clears now https://t.co/XzGNJUs2us",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7225, 7216, 7209, 7306-09 all reaffirmations or observations of morning-plan levels; no new actionable levels named."
+    },
+    {
+      "tweet_id": "2123500762181304323",
+      "timestamp_utc": "2026-11-19T19:36:49.000Z",
+      "timestamp_est": "2026-11-19T14:36:49-05:00",
+      "tweet_text": "@Javad_2014 Its worked 3 times in the past 24hrs alone. We had a 133 point squeeze off the 7309 FBD yesterday, 56 points off the 7305 FBD this morning. Then 80+ points just now off the 16 FBD. Not sure what else one can ask for!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Hindsight recap of past FBD trades (7309, 7305, 7316 area); no new actionable levels named. 7305 is a morning plan level."
+    },
+    {
+      "tweet_id": "2123500942763168232",
+      "timestamp_utc": "2026-11-19T19:37:32.000Z",
+      "timestamp_est": "2026-11-19T14:37:32-05:00",
+      "tweet_text": "@tradivate @schwartzaman @TheHealingTrade @ashwagamma Yes this is the issue. Wish most these people would just unfollow at this point, can't keep explaining how day trading works.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a social/conversational reply with no price levels, no actionable calls, and no trading content whatsoever."
     }
   ]
 }
