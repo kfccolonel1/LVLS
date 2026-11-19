@@ -27,5 +27,32 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply tweet referencing a prior FBD trigger \u2014 no new price level named, purely observational trade outcome commentary."
+  },
+  {
+    "tweet_id": "2123394894702215563",
+    "timestamp_est": "2026-11-19T07:36:08-05:00",
+    "timestamp_utc": "2026-11-19T12:36:08.000Z",
+    "tweet_text": "@OnTheHooch Hopefully! Not many great supports up here to work with",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational reply with no price named, no actionable level, no naming language. Nothing to extract."
+  },
+  {
+    "tweet_id": "2123395077120684205",
+    "timestamp_est": "2026-11-19T07:36:51-05:00",
+    "timestamp_utc": "2026-11-19T12:36:51.000Z",
+    "tweet_text": "@CrazyJ24881918 I don't. I just do full size the first trade. After that I just risk profits basically",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply about trade sizing methodology; no price levels named or actionable levels referenced."
+  },
+  {
+    "tweet_id": "2123395196545351892",
+    "timestamp_est": "2026-11-19T07:37:20-05:00",
+    "timestamp_utc": "2026-11-19T12:37:20.000Z",
+    "tweet_text": "@CrazyJ24881918 (Unless its a very tiny first profit)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet with no price levels named; purely conversational trade management comment about profit-taking."
   }
 ]
