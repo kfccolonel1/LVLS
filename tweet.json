@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-19T14:11:34.203747+00:00",
-  "fetched_at_est": "2026-11-19T09:11:34.203757-05:00",
+  "fetched_at_utc": "2026-11-19T14:46:49.347942+00:00",
+  "fetched_at_est": "2026-11-19T09:46:49.347946-05:00",
   "last_new_level_added_at_est": "2026-11-19T09:09:48-05:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123064228357505421",
-      "timestamp_utc": "2026-11-18T14:42:11.000Z",
-      "timestamp_est": "2026-11-18T09:42:11-05:00",
-      "tweet_text": "Finally a small \"elevator down\" which means we can pay attention to #ES_F. Yesterday we went elevator down, lost the 7323 Nov 5 macro low, recovered, and ran to 7421 target. Then, sidelines until next elevator to repeat daily\n\n7372 must reclaim to work up targets. 7320 below https://t.co/946L8kd7Dh",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7372 and 7320 are both in the morning plan. 7323 is an observation/hindsight reference to Nov 5 macro low, not a new actionable level."
-    },
     {
       "tweet_id": "2123065458903388577",
       "timestamp_utc": "2026-11-18T14:47:04.000Z",
@@ -259,6 +250,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply explaining level mechanics; no specific actionable price named or added."
+    },
+    {
+      "tweet_id": "2123426708460322859",
+      "timestamp_utc": "2026-11-19T14:42:33.000Z",
+      "timestamp_est": "2026-11-19T09:42:33-05:00",
+      "tweet_text": "@creditriskVP I don't sell anything once I'm in my final runner because I have nothing left to sell. I just hold it. I only sell at first and second level up after my entry",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining trade management philosophy (sell at first/second level up); no specific price named, purely conversational."
     }
   ]
 }
