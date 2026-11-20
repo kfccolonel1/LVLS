@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T15:29:43.212474+00:00",
-  "fetched_at_est": "2026-11-20T10:29:43.212478-05:00",
+  "fetched_at_utc": "2026-11-20T15:34:48.690213+00:00",
+  "fetched_at_est": "2026-11-20T10:34:48.690217-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123439603755647258",
-      "timestamp_utc": "2026-11-19T15:33:47.000Z",
-      "timestamp_est": "2026-11-19T10:33:47-05:00",
-      "tweet_text": "Note: Watch recoveries of 7333 now to trigger back up",
-      "added_bull_levels": [
-        7333.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7333 named explicitly as a new actionable trigger level ('watch recoveries of 7333 now to trigger back up'); not in morning plan."
-    },
     {
       "tweet_id": "2123440244410269839",
       "timestamp_utc": "2026-11-19T15:36:20.000Z",
@@ -497,6 +486,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7122.5, 7153, 7180, 7196, 7209, 7222.5, 7307) are in the morning plan or observations of targets already hit. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2123801458189467852",
+      "timestamp_utc": "2026-11-20T15:31:40.000Z",
+      "timestamp_est": "2026-11-20T10:31:40-05:00",
+      "tweet_text": "Perfect level precision today in #ES_F: 7120-25 had to reclaim to squeeze. Targets were 7153, 7164, 7180, 7196, then 7210/23. 7210/23 was the first gateway bulls had to clear to see any control restored. We sold there exact back to 7120-25 again.\n\nNo change to levels https://t.co/CHWukiv3M7",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure recap of morning-plan levels (7120-25, 7153, 7180, 7196, 7210/23) with no new actionable prices named. 'No change to levels' confirms reaffirmation only."
     }
   ]
 }
