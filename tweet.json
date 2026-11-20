@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T17:16:32.541785+00:00",
-  "fetched_at_est": "2026-11-20T12:16:32.541790-05:00",
+  "fetched_at_utc": "2026-11-20T17:21:42.101714+00:00",
+  "fetched_at_est": "2026-11-20T12:21:42.101727-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -576,6 +576,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure educational commentary about bull market corrections with no price levels named or actionable triggers of any kind."
+    },
+    {
+      "tweet_id": "2123828510351573185",
+      "timestamp_utc": "2026-11-20T17:19:10.000Z",
+      "timestamp_est": "2026-11-20T12:19:10-05:00",
+      "tweet_text": "@BaronCorvo1911 Won't be any buyers until we can recover a key level like 7120 now",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7120 is effectively a reaffirmation of morning-plan level 7122.5 (rounding/approximation); no genuinely new actionable level introduced."
+    },
+    {
+      "tweet_id": "2123828753977442801",
+      "timestamp_utc": "2026-11-20T17:20:08.000Z",
+      "timestamp_est": "2026-11-20T12:20:08-05:00",
+      "tweet_text": "@bryce_schilling Typically its a slower, bullish week given the holiday trading. But technicals drive price far more than seasonals do",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on seasonal tendencies and technicals; no price levels named or actionable entries/exits mentioned."
     }
   ]
 }
