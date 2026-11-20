@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T15:34:48.690213+00:00",
-  "fetched_at_est": "2026-11-20T10:34:48.690217-05:00",
+  "fetched_at_utc": "2026-11-20T15:39:55.321451+00:00",
+  "fetched_at_est": "2026-11-20T10:39:55.321456-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123440244410269839",
-      "timestamp_utc": "2026-11-19T15:36:20.000Z",
-      "timestamp_est": "2026-11-19T10:36:20-05:00",
-      "tweet_text": "@Josephdix1960 It is, but this week has been very predictable with the elevator downs even occurring at the same time of day. Usually market mixes things up more, but makes it easy for retail traders at least",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about market behavior patterns; no price levels named or actionable triggers of any kind."
-    },
     {
       "tweet_id": "2123441303061188612",
       "timestamp_utc": "2026-11-19T15:40:32.000Z",
@@ -495,6 +486,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure recap of morning-plan levels (7120-25, 7153, 7180, 7196, 7210/23) with no new actionable prices named. 'No change to levels' confirms reaffirmation only."
+    },
+    {
+      "tweet_id": "2123802271565635934",
+      "timestamp_utc": "2026-11-20T15:34:54.000Z",
+      "timestamp_est": "2026-11-20T10:34:54-05:00",
+      "tweet_text": "@NYJets2017 We're in a strong downtrend this week so that's typical, but we will get a sharper squeeze that cuts many of those and it will be the big ones that matter like 7306-09, 7421 etc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply referencing 7307 and 7421 (both morning-plan levels) as examples; no new actionable level named, just trend commentary."
     }
   ]
 }
