@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T15:55:15.816176+00:00",
-  "fetched_at_est": "2026-11-20T10:55:15.816185-05:00",
+  "fetched_at_utc": "2026-11-20T16:00:27.226258+00:00",
+  "fetched_at_est": "2026-11-20T11:00:27.226274-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -513,6 +513,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user, pure commentary about recent squeeze magnitude. No price named as actionable level."
+    },
+    {
+      "tweet_id": "2123807965996273869",
+      "timestamp_utc": "2026-11-20T15:57:32.000Z",
+      "timestamp_est": "2026-11-20T10:57:32-05:00",
+      "tweet_text": "@alexgoumas Its not Tennis, profitability requires an edge and an edge requires hyper specialization. Its possible to have multiple edges (I traded both long and short from 2006 to 2025 or so) but it eroded my performance as I was spreading too thin and it was too complex switching sides",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading philosophy/specialization. No prices or actionable levels mentioned at all."
+    },
+    {
+      "tweet_id": "2123808545766248458",
+      "timestamp_utc": "2026-11-20T15:59:50.000Z",
+      "timestamp_est": "2026-11-20T10:59:50-05:00",
+      "tweet_text": "Today has been very clean and given its OPEX, wrap it and protect profits. 7120-25 reclaim was long trigger. Target was 7210/23 (bulls had to recover this to stop bounces being sold, we rejected there).\n\n7120-25 reclaims trigger back up, but take it smaller size this time https://t.co/04g2zAbP2c",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7122.5 and 7209/7222.5 are morning plan levels; tweet is hindsight recap + reaffirmation of existing levels, no new actionable price named."
+    },
+    {
+      "tweet_id": "2123808605598097542",
+      "timestamp_utc": "2026-11-20T16:00:04.000Z",
+      "timestamp_est": "2026-11-20T11:00:04-05:00",
+      "tweet_text": "@RileyCapTrades Lots of volatility!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational commentary with no price levels named whatsoever."
     }
   ]
 }
