@@ -1,17 +1,10 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T20:58:50.043840+00:00",
-  "fetched_at_est": "2026-11-20T15:58:50.043844-05:00",
+  "fetched_at_utc": "2026-11-20T23:59:15.364267+00:00",
+  "fetched_at_est": "2026-11-20T18:59:15.364271-05:00",
   "last_new_level_added_at_est": "2026-11-20T15:55:29-05:00",
   "todays_new_levels": [
-    {
-      "price": 7025.0,
-      "side": "bear",
-      "added_at_est": "2026-11-20T11:32:40-05:00",
-      "expires_at_est": "2026-11-20T19:32:40-05:00",
-      "from_tweet_id": "2123816808105001196"
-    },
     {
       "price": 6960.0,
       "side": "bull",
@@ -21,24 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123559130703057292",
-      "timestamp_utc": "2026-11-19T23:28:45.000Z",
-      "timestamp_est": "2026-11-19T18:28:45-05:00",
-      "tweet_text": "@investingpro12 Not even a correction yet by technical standards",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about correction standards; no price named, no actionable level, no naming language used."
-    },
-    {
-      "tweet_id": "2123559312517689431",
-      "timestamp_utc": "2026-11-19T23:29:28.000Z",
-      "timestamp_est": "2026-11-19T18:29:28-05:00",
-      "tweet_text": "@avnish_kevat We had a larger correction in April. Very routine. Markets cant just go up all the time",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about market behavior; no price level named or actionable instruction given."
-    },
     {
       "tweet_id": "2123621557364756972",
       "timestamp_utc": "2026-11-20T03:36:48.000Z",
