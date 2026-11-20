@@ -462,5 +462,16 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure directional commentary with no actionable price named; no naming language, no specific level introduced."
+  },
+  {
+    "tweet_id": "2123862908283273677",
+    "timestamp_est": "2026-11-20T14:35:51-05:00",
+    "timestamp_utc": "2026-11-20T19:35:51.000Z",
+    "tweet_text": "@NoSpinRealist Hard to do the newsletter as we're still moving too much. But yes the 7025 recover is the highest quality entry now. Likely see it Sunday/Monday if not late day today",
+    "added_bull_levels": [
+      7025.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7025 explicitly named as 'highest quality entry' on recovery \u2014 actionable bull trigger not in morning plan."
   }
 ]
