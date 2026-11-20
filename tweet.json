@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T20:08:16.959659+00:00",
-  "fetched_at_est": "2026-11-20T15:08:16.959663-05:00",
+  "fetched_at_utc": "2026-11-20T20:13:19.772296+00:00",
+  "fetched_at_est": "2026-11-20T15:13:19.772302-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -35,24 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123509124487135669",
-      "timestamp_utc": "2026-11-19T20:10:02.000Z",
-      "timestamp_est": "2026-11-19T15:10:02-05:00",
-      "tweet_text": "@OnTheHooch @Javad_2014 Hasn't been small though - had a 132 point squeeze yesterday, 58 points this morning, 84 points this afternoon. This is substantially more points than we'd get in a strong uptrend and would often take many days or even weeks to see this",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on point ranges/volatility; no actionable price levels named, just distance observations in a conversational reply."
-    },
-    {
-      "tweet_id": "2123509807055290603",
-      "timestamp_utc": "2026-11-19T20:12:45.000Z",
-      "timestamp_est": "2026-11-19T15:12:45-05:00",
-      "tweet_text": "@OnTheHooch @Javad_2014 Most day traders are ecstatic with 15 points in a day, doesn't matter what side it comes from it matters if you have an edge that can take it out consistently",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about day trading profits; no price levels named or actionable instructions given."
-    },
     {
       "tweet_id": "2123559130703057292",
       "timestamp_utc": "2026-11-19T23:28:45.000Z",
