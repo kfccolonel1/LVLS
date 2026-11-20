@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T17:21:42.101714+00:00",
-  "fetched_at_est": "2026-11-20T12:21:42.101727-05:00",
+  "fetched_at_utc": "2026-11-20T17:26:50.122651+00:00",
+  "fetched_at_est": "2026-11-20T12:26:50.122661-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -35,15 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123466852554699078",
-      "timestamp_utc": "2026-11-19T17:22:04.000Z",
-      "timestamp_est": "2026-11-19T12:22:04-05:00",
-      "tweet_text": "@mr1ktrader We are very obviously in a healthy bull market by every metric, that has nothing to do with intraday trading though and is just the macro context",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure macro commentary, no price levels named or actionable triggers of any kind."
-    },
     {
       "tweet_id": "2123468108484788422",
       "timestamp_utc": "2026-11-19T17:27:03.000Z",
@@ -594,6 +585,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on seasonal tendencies and technicals; no price levels named or actionable entries/exits mentioned."
+    },
+    {
+      "tweet_id": "2123829526341767602",
+      "timestamp_utc": "2026-11-20T17:23:12.000Z",
+      "timestamp_est": "2026-11-20T12:23:12-05:00",
+      "tweet_text": "We continue to grind to 7025 support in #ES_F and little to do here as volatility has died. Its been a clean session. Bears controlled below 7210/23. We got the 7120 reclaim long, hit 7210/23 target, and sold\n\nFor later today/next week, 7086 reclaim now sees 7105, 7120+ https://t.co/s3gE0aD624",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7025/7086/7105/7120 are observations or casual references; 7210/23 already in morning plan. No new actionable levels with naming language introduced."
+    },
+    {
+      "tweet_id": "2123829593169592736",
+      "timestamp_utc": "2026-11-20T17:23:28.000Z",
+      "timestamp_est": "2026-11-20T12:23:28-05:00",
+      "tweet_text": "@JohnSantil65902 7306-09 is the big one",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7306-09 midpoint ~7307.5 maps to morning plan level 7307.0; this is a reaffirmation of an existing level, not a new one."
     }
   ]
 }
