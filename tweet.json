@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T17:11:27.148752+00:00",
-  "fetched_at_est": "2026-11-20T12:11:27.148758-05:00",
+  "fetched_at_utc": "2026-11-20T17:16:32.541785+00:00",
+  "fetched_at_est": "2026-11-20T12:16:32.541790-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -567,6 +567,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management advice \u2014 no price levels named at all, just instructing to protect profits and stop trading on Friday afternoon."
+    },
+    {
+      "tweet_id": "2123826996983820448",
+      "timestamp_utc": "2026-11-20T17:13:09.000Z",
+      "timestamp_est": "2026-11-20T12:13:09-05:00",
+      "tweet_text": "@NoBSoracle1 Corrections are a normal and healthy part of bull markets. Most bull markets historically have 5-7 corrections of 10% or more.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure educational commentary about bull market corrections with no price levels named or actionable triggers of any kind."
     }
   ]
 }
