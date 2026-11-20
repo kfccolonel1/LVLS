@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T16:10:37.972168+00:00",
-  "fetched_at_est": "2026-11-20T11:10:37.972174-05:00",
+  "fetched_at_utc": "2026-11-20T16:25:44.457926+00:00",
+  "fetched_at_est": "2026-11-20T11:25:44.457931-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -540,6 +540,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary/advice about OPEX trading behavior. No price levels named or actionable triggers of any kind."
+    },
+    {
+      "tweet_id": "2123814440097440253",
+      "timestamp_utc": "2026-11-20T16:23:15.000Z",
+      "timestamp_est": "2026-11-20T11:23:15-05:00",
+      "tweet_text": "@Porterhous90889 Nothing of interest in terms of supports until 7025 or so. Basically a big gap",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply mentioning 7025 as a vague 'or so' reference with no actionable naming language; no entry/watch/target/trigger framing used."
     }
   ]
 }
