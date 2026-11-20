@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T14:19:08.486942+00:00",
-  "fetched_at_est": "2026-11-20T09:19:08.486952-05:00",
+  "fetched_at_utc": "2026-11-20T14:44:16.093104+00:00",
+  "fetched_at_est": "2026-11-20T09:44:16.093108-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123426708460322859",
-      "timestamp_utc": "2026-11-19T14:42:33.000Z",
-      "timestamp_est": "2026-11-19T09:42:33-05:00",
-      "tweet_text": "@creditriskVP I don't sell anything once I'm in my final runner because I have nothing left to sell. I just hold it. I only sell at first and second level up after my entry",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining trade management philosophy (sell at first/second level up); no specific price named, purely conversational."
-    },
     {
       "tweet_id": "2123428402732372096",
       "timestamp_utc": "2026-11-19T14:49:17.000Z",
