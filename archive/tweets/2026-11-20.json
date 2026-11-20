@@ -98,5 +98,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Tweet is a reply with only a URL and no actionable price levels named."
+  },
+  {
+    "tweet_id": "2123771858629877768",
+    "timestamp_est": "2026-11-20T08:34:03-05:00",
+    "timestamp_utc": "2026-11-20T13:34:03.000Z",
+    "tweet_text": "@jdswain3 It would be. 7306-09 is the best backtest short though",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7306-09 midpoint ~7307 is already in morning plan. Conversational reply about a backtest short, not a formal new level introduction."
+  },
+  {
+    "tweet_id": "2123772573016056087",
+    "timestamp_est": "2026-11-20T08:36:53-05:00",
+    "timestamp_utc": "2026-11-20T13:36:53.000Z",
+    "tweet_text": "@siccc_verses No levels I'd engage personally. When you have 3/4 major shelf failures plus a daily bear case triggered most supports will just slowly melt through until we get a major recovery (7153 or 7125 now). Unless one is short from the bear case trigger, its a sideline day for me",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7153 and 7125 are already in morning plan (7153.0, 7122.5); tweet is sideline commentary with no new actionable levels named."
   }
 ]
