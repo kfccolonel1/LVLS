@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T15:19:37.501493+00:00",
-  "fetched_at_est": "2026-11-20T10:19:37.501499-05:00",
+  "fetched_at_utc": "2026-11-20T15:24:40.292480+00:00",
+  "fetched_at_est": "2026-11-20T10:24:40.292486-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,17 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123436210639020345",
-      "timestamp_utc": "2026-11-19T15:20:18.000Z",
-      "timestamp_est": "2026-11-19T10:20:18-05:00",
-      "tweet_text": "Finalyl getting today's \"elevator down\" sell in #ES_F. As posted, wait for deep sell. Everyday the cycle is: Elevator down, Failed Breakdown, Short squeeze. 7309 trap yesterday was last one that took us to 7421+ target.\n\nWatch sweeps of 7363. 7348, 7333 below then back to 7320-23 https://t.co/zfGLUXU2SN",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7333.0
-      ],
-      "notes": "7333 is named as a watch/target below alongside morning-plan levels 7348/7321.5; it is not in today's plan and is presented as an actionable downside level in sequence."
-    },
     {
       "tweet_id": "2123438092019179787",
       "timestamp_utc": "2026-11-19T15:27:47.000Z",
