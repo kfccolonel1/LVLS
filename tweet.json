@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T19:48:09.852233+00:00",
-  "fetched_at_est": "2026-11-20T14:48:09.852242-05:00",
+  "fetched_at_utc": "2026-11-20T20:08:16.959659+00:00",
+  "fetched_at_est": "2026-11-20T15:08:16.959663-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -35,27 +35,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123507659039277108",
-      "timestamp_utc": "2026-11-19T20:04:13.000Z",
-      "timestamp_est": "2026-11-19T15:04:13-05:00",
-      "tweet_text": "@jdswain3 There's lots of good setups lower so wanted to get it out before we took out the lows!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply to a user, no price levels named, no actionable language present."
-    },
-    {
-      "tweet_id": "2123507881345503645",
-      "timestamp_utc": "2026-11-19T20:05:06.000Z",
-      "timestamp_est": "2026-11-19T15:05:06-05:00",
-      "tweet_text": "Note: Newsletter sent early today with next downside levels. We usually see an evening squeeze on these days, watch for 7210 big low to recover with 7220 first big shelf above, then onto 7240+.",
-      "added_bull_levels": [
-        7220.0,
-        7240.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7220 named as 'first big shelf above' and 7240+ as next target on recovery \u2014 both are new actionable levels not in morning plan."
-    },
     {
       "tweet_id": "2123509124487135669",
       "timestamp_utc": "2026-11-19T20:10:02.000Z",
