@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T13:43:36.672487+00:00",
-  "fetched_at_est": "2026-11-20T08:43:36.672492-05:00",
+  "fetched_at_utc": "2026-11-20T14:03:47.274950+00:00",
+  "fetched_at_est": "2026-11-20T09:03:47.274961-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -514,6 +514,24 @@
         7086.0
       ],
       "notes": "7100 and 7086 named as explicit bear targets below; 7153 reaffirmed as target on reclaim. 7100/7086 not in morning plan \u2014 new actionable bear levels."
+    },
+    {
+      "tweet_id": "2123778459864555968",
+      "timestamp_utc": "2026-11-20T14:00:17.000Z",
+      "timestamp_est": "2026-11-20T09:00:17-05:00",
+      "tweet_text": "@upandown007 @harry135_ @dj_cremebrulee @ES_Money_Print Its a rhetorical question not a statement, and I am referring to whether SPX can close today green which is entirely possible. Instead of focusing on the 6 word title can perhaps read the 4000 word newsletter that follows",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Rhetorical reply about SPX green close; no actionable price level named, just a conversational/clarifying response to another user."
+    },
+    {
+      "tweet_id": "2123778772650361170",
+      "timestamp_utc": "2026-11-20T14:01:31.000Z",
+      "timestamp_est": "2026-11-20T09:01:31-05:00",
+      "tweet_text": "@ashwagamma We'll see! Its one of those weird levels where there really isn't anything of interest for a very long way down so market has to decide to decide whether it has the motivation for another leg lower of that magnitude today",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no actionable price named; purely commentary about market motivation and distance to next level, no specific price cited."
     }
   ]
 }
