@@ -1,0 +1,16 @@
+[
+  {
+    "tweet_id": "2123754337294065799",
+    "timestamp_est": "2026-11-20T07:24:26-05:00",
+    "timestamp_utc": "2026-11-20T12:24:26.000Z",
+    "tweet_text": "Volatility slowing in #ES_F after yesterday's perfect session with huge, two way swings &amp; multiple setups. Also OPEX day - don't overtrade slow, noisy chop. Bears fully control under 7306-09 &amp; 7210\n\nPlan: 7153 must reclaim to see 7164, 7180, 7196, 7210. 7120-25, 7100, 7086 below https://t.co/Zy0Gyws6NY",
+    "added_bull_levels": [
+      7164.0
+    ],
+    "added_bear_levels": [
+      7100.0,
+      7086.0
+    ],
+    "notes": "7164 is new bull target (not in morning plan); 7100 and 7086 named as new downside support levels below 7120-25. 7306-09 midpoint ~7307.5 treated as reaffirmation of 7307."
+  }
+]
