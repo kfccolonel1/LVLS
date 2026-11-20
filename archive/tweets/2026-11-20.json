@@ -511,5 +511,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Conversational reply referencing newsletter setups for Monday (7025, 6960, 6875); no explicit actionable naming language used in this tweet, and levels are out of today's ES range context."
+  },
+  {
+    "tweet_id": "2123877554356355331",
+    "timestamp_est": "2026-11-20T15:34:03-05:00",
+    "timestamp_utc": "2026-11-20T20:34:03.000Z",
+    "tweet_text": "@z3e8n661 This kind of sell occurs once every few years - can't build a system around a once every few year anomaly session",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational commentary about market conditions; no price levels named or actionable triggers given."
   }
 ]
