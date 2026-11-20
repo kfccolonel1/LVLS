@@ -48,5 +48,19 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "No prices named at all. Pure commentary about OPEX conditions, volatility, and trade management philosophy. No actionable levels introduced."
+  },
+  {
+    "tweet_id": "2123765241171620111",
+    "timestamp_est": "2026-11-20T08:07:45-05:00",
+    "timestamp_utc": "2026-11-20T13:07:45.000Z",
+    "tweet_text": "Yesterday, #ES_F lost a major shelf a 7306-09 (Tuesday/Wednesday lows). Bears fully control below. On a shorter term basis (per newsletter) 7210 loss triggered bear case today and we are -90\n\n7120-25=support. 7153 must reclaim to pop to 7164, 7180, 7196, 7210. 7100, 7086 below https://t.co/7y1zj9GRLj",
+    "added_bull_levels": [
+      7164.0
+    ],
+    "added_bear_levels": [
+      7100.0,
+      7086.0
+    ],
+    "notes": "7164 named as reclaim target (new, not in plan); 7100 and 7086 named as supports below (new, not in plan). 7120-25 and 7153/7180/7196/7210 are plan levels."
   }
 ]
