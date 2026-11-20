@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T20:38:40.367324+00:00",
-  "fetched_at_est": "2026-11-20T15:38:40.367329-05:00",
-  "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
+  "fetched_at_utc": "2026-11-20T20:58:50.043840+00:00",
+  "fetched_at_est": "2026-11-20T15:58:50.043844-05:00",
+  "last_new_level_added_at_est": "2026-11-20T15:55:29-05:00",
   "todays_new_levels": [
     {
       "price": 7025.0,
@@ -11,6 +11,13 @@
       "added_at_est": "2026-11-20T11:32:40-05:00",
       "expires_at_est": "2026-11-20T19:32:40-05:00",
       "from_tweet_id": "2123816808105001196"
+    },
+    {
+      "price": 6960.0,
+      "side": "bull",
+      "added_at_est": "2026-11-20T15:55:29-05:00",
+      "expires_at_est": "2026-11-20T23:55:29-05:00",
+      "from_tweet_id": "2123882947686052335"
     }
   ],
   "updates": [
@@ -562,6 +569,18 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational commentary about market conditions; no price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2123882947686052335",
+      "timestamp_utc": "2026-11-20T20:55:29.000Z",
+      "timestamp_est": "2026-11-20T15:55:29-05:00",
+      "tweet_text": "Closing update #ES_F: Continued liquidation into the close and as stated all day two things are true. 1) Bears control and 2) We rally only when we get a reclaim/Failed Breakdown. For Sunday, that will be 6960, with 7025 above. Newsletter just sent with remaining entries",
+      "added_bull_levels": [
+        6960.0,
+        7025.0
+      ],
+      "added_bear_levels": [],
+      "notes": "6960 named as FBD reclaim trigger for Sunday and 7025 as next level above \u2014 both actionable, first-time named, not in morning plan."
     }
   ]
 }
