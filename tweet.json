@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T12:32:33.112239+00:00",
-  "fetched_at_est": "2026-11-20T07:32:33.112252-05:00",
+  "fetched_at_utc": "2026-11-20T12:37:40.090193+00:00",
+  "fetched_at_est": "2026-11-20T07:37:40.090197-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,33 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123394894702215563",
-      "timestamp_utc": "2026-11-19T12:36:08.000Z",
-      "timestamp_est": "2026-11-19T07:36:08-05:00",
-      "tweet_text": "@OnTheHooch Hopefully! Not many great supports up here to work with",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply with no price named, no actionable level, no naming language. Nothing to extract."
-    },
-    {
-      "tweet_id": "2123395077120684205",
-      "timestamp_utc": "2026-11-19T12:36:51.000Z",
-      "timestamp_est": "2026-11-19T07:36:51-05:00",
-      "tweet_text": "@CrazyJ24881918 I don't. I just do full size the first trade. After that I just risk profits basically",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trade sizing methodology; no price levels named or actionable levels referenced."
-    },
-    {
-      "tweet_id": "2123395196545351892",
-      "timestamp_utc": "2026-11-19T12:37:20.000Z",
-      "timestamp_est": "2026-11-19T07:37:20-05:00",
-      "tweet_text": "@CrazyJ24881918 (Unless its a very tiny first profit)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels named; purely conversational trade management comment about profit-taking."
-    },
     {
       "tweet_id": "2123399459916697743",
       "timestamp_utc": "2026-11-19T12:54:16.000Z",
@@ -450,6 +423,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about OPEX Friday caution; no price levels named or referenced whatsoever."
+    },
+    {
+      "tweet_id": "2123756475092738350",
+      "timestamp_utc": "2026-11-20T12:32:55.000Z",
+      "timestamp_est": "2026-11-20T07:32:55-05:00",
+      "tweet_text": "@Mikeag68 Nobody should be long here - we are below three major control shelves as discussed in newsletter and with a daily bear case triggered. Long only when we get a high volatility reclaim",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price levels named; purely directional/contextual commentary about being below control shelves with no new actionable price cited."
     }
   ]
 }
