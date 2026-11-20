@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T14:44:16.093104+00:00",
-  "fetched_at_est": "2026-11-20T09:44:16.093108-05:00",
+  "fetched_at_utc": "2026-11-20T14:49:18.886605+00:00",
+  "fetched_at_est": "2026-11-20T09:49:18.886611-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,18 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123428402732372096",
-      "timestamp_utc": "2026-11-19T14:49:17.000Z",
-      "timestamp_est": "2026-11-19T09:49:17-05:00",
-      "tweet_text": "Levels working today but this is chop in #ES_F as we digest the 100+ point long from yesterday's Failed Breakdown long of the Tuesday 7309 daily low. 7388 was support (we just held 7390). 7434 1st resistance, we hit and rejected. \n\n7421 reclaims to see 7434, 7440, 7458 again https://t.co/zfGLUXU2SN",
-      "added_bull_levels": [
-        7434.0,
-        7458.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7434 named as '1st resistance' and 7458 named as a bull target ('to see...7458 again') \u2014 both actionable, not in morning plan. 7421/7440/7388 are morning-plan levels."
-    },
     {
       "tweet_id": "2123435701396271150",
       "timestamp_utc": "2026-11-19T15:18:17.000Z",
