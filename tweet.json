@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T19:17:37.016833+00:00",
-  "fetched_at_est": "2026-11-20T14:17:37.016837-05:00",
+  "fetched_at_utc": "2026-11-20T19:22:46.848193+00:00",
+  "fetched_at_est": "2026-11-20T14:22:46.848202-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -562,6 +562,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational commentary about trading behavior (knife-catching/shorting trends); no price levels named or actionable triggers present."
+    },
+    {
+      "tweet_id": "2123858336915554438",
+      "timestamp_utc": "2026-11-20T19:17:41.000Z",
+      "timestamp_est": "2026-11-20T14:17:41-05:00",
+      "tweet_text": "@DASreplay No change from today. Bears control, I'll specify the levels above which we can trigger long and above which control shifts in the newsletter. Going to require above 7125 at least though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7125 is a conversational threshold approximation near morning plan 7122.5, stated as a minimum condition in reply, not an explicit new actionable level with naming language."
+    },
+    {
+      "tweet_id": "2123858819247645038",
+      "timestamp_utc": "2026-11-20T19:19:36.000Z",
+      "timestamp_est": "2026-11-20T14:19:36-05:00",
+      "tweet_text": "Final 2hrs in #ES_F and levels continue to respect, just protect profits. We are 200 points down from today's 7210/23 rally target and the point bulls had to recover to shift control. They failed to do so.\n\n7025 was support. We bounced 50 there, now sweeping. 7025 reclaim to rip https://t.co/ceYE5mpAzG",
+      "added_bull_levels": [
+        7025.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7025 named explicitly as support with actionable trigger: '7025 reclaim to rip' \u2014 clear bull entry/trigger language on a price not in the morning plan."
     }
   ]
 }
