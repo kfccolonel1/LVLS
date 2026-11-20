@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T13:13:09.093735+00:00",
-  "fetched_at_est": "2026-11-20T08:13:09.093746-05:00",
+  "fetched_at_utc": "2026-11-20T13:33:19.862401+00:00",
+  "fetched_at_est": "2026-11-20T08:33:19.862412-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -464,6 +464,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reference to '53' (7553?) is casual/conditional commentary, not an explicit actionable level naming; no naming language used, no new price explicitly defined."
+    },
+    {
+      "tweet_id": "2123770514350993879",
+      "timestamp_utc": "2026-11-20T13:28:43.000Z",
+      "timestamp_est": "2026-11-20T08:28:43-05:00",
+      "tweet_text": "@harry135_ @dj_cremebrulee @ES_Money_Print Your talking about someone elses newsletter. In my newsletter it literally says: \"Very simply stated, bears fully control under 7306-09.\" and very \"Bear case tomorrow: Begins below 7210\".",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Defensive reply quoting existing newsletter text; 7307 and 7209 are already in morning plan. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2123771576290283725",
+      "timestamp_utc": "2026-11-20T13:32:56.000Z",
+      "timestamp_est": "2026-11-20T08:32:56-05:00",
+      "tweet_text": "@harry135_ @dj_cremebrulee @ES_Money_Print https://t.co/EXVUhIxJiA",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply with only a URL and no actionable price levels named."
     }
   ]
 }
