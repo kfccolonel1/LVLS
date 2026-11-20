@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T14:14:00.531319+00:00",
-  "fetched_at_est": "2026-11-20T09:14:00.531323-05:00",
+  "fetched_at_utc": "2026-11-20T14:19:08.486942+00:00",
+  "fetched_at_est": "2026-11-20T09:19:08.486952-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -529,6 +529,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Casual conversational reply referencing '53' (likely 7553) with no actionable naming language; pure observation of current price momentum."
+    },
+    {
+      "tweet_id": "2123782785324433843",
+      "timestamp_utc": "2026-11-20T14:17:28.000Z",
+      "timestamp_est": "2026-11-20T09:17:28-05:00",
+      "tweet_text": "Nice level to level move in #ES_F. 7120-25 reclaim as posted sees 7153 and we just tagged 7153. Bears retain full control below 7210 and 7306-09 (this is a major backtest magnet for the next larger squeeze, its failure triggered us down yesterday).\n\n7164, 7180, 7196, 7210 above https://t.co/wfl6AdkSwJ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7122.5, 7153, 7180, 7196, 7210\u22487209, 7307\u22487307) are morning-plan levels or reaffirmations; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2123782935039905902",
+      "timestamp_utc": "2026-11-20T14:18:04.000Z",
+      "timestamp_est": "2026-11-20T09:18:04-05:00",
+      "tweet_text": "@OnTheHooch Might have room to run a little bit but wouldn't get too excited until above 7210",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7210 is essentially a reaffirmation of morning-plan level 7209.0; casual threshold comment, not a newly named actionable level."
     }
   ]
 }
