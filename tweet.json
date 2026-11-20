@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T13:07:59.433861+00:00",
-  "fetched_at_est": "2026-11-20T08:07:59.433866-05:00",
+  "fetched_at_utc": "2026-11-20T13:13:09.093735+00:00",
+  "fetched_at_est": "2026-11-20T08:13:09.093746-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -446,6 +446,24 @@
         7086.0
       ],
       "notes": "7164 named as reclaim target (new, not in plan); 7100 and 7086 named as supports below (new, not in plan). 7120-25 and 7153/7180/7196/7210 are plan levels."
+    },
+    {
+      "tweet_id": "2123765595942670566",
+      "timestamp_utc": "2026-11-20T13:09:10.000Z",
+      "timestamp_est": "2026-11-20T08:09:10-05:00",
+      "tweet_text": "@dj_cremebrulee @ES_Money_Print There were numerous huge bear traps this week. 130 point Failed Breakdown Tuesday, 133 point Failed Breakdown Wednesday, 59 and 88 point Failed Breakdown's Thursday. Nothing yet today",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet recapping weekly failed breakdowns with point magnitudes; no actionable price levels named, purely historical observation/commentary."
+    },
+    {
+      "tweet_id": "2123766328922132557",
+      "timestamp_utc": "2026-11-20T13:12:05.000Z",
+      "timestamp_est": "2026-11-20T08:12:05-05:00",
+      "tweet_text": "@JKThompsonES For today I'd wait on 53. Even that is shaky though, its OPEX day with total bearish control (we are below every major shelf). I'd need to see some real speed to price",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reference to '53' (7553?) is casual/conditional commentary, not an explicit actionable level naming; no naming language used, no new price explicitly defined."
     }
   ]
 }
