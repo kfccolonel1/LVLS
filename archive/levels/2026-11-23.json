@@ -1,0 +1,102 @@
+{
+  "session_date": "2026-11-23",
+  "daily_pivot": 7306.0,
+  "regime_hint": "C7",
+  "significant_lows": [
+    6963.0,
+    6933.0,
+    6922.0,
+    6897.0,
+    6879.0,
+    6845.0
+  ],
+  "bull_levels": [
+    {
+      "price": 6981.5,
+      "major": true
+    },
+    {
+      "price": 7002.0,
+      "major": true
+    },
+    {
+      "price": 7025.0,
+      "major": true
+    },
+    {
+      "price": 7050.0,
+      "major": true
+    },
+    {
+      "price": 7057.0,
+      "major": true
+    },
+    {
+      "price": 7086.0,
+      "major": true
+    },
+    {
+      "price": 7122.5,
+      "major": true
+    },
+    {
+      "price": 7152.0,
+      "major": true
+    },
+    {
+      "price": 7180.0,
+      "major": true
+    },
+    {
+      "price": 7192.0,
+      "major": true
+    },
+    {
+      "price": 7210.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7272.0,
+      "major": true
+    },
+    {
+      "price": 7307.5,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 6963.0,
+      "major": true
+    },
+    {
+      "price": 6933.0,
+      "major": true
+    },
+    {
+      "price": 6922.0,
+      "major": true
+    },
+    {
+      "price": 6897.0,
+      "major": true
+    },
+    {
+      "price": 6879.0,
+      "major": true
+    },
+    {
+      "price": 6845.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Bears are fully in control after 6 straight red days. The trader's main interest is in buying a Failed Breakdown off the 6960 area low or a reclaim of the 7025 shelf (a cluster of lows set midday Friday). If 7025 is reclaimed, he targets 7086, 7125, then 7223. The key dividing line is 7306: above it bulls gradually recover control; below it bears remain dominant and bounces are expected to fizzle.",
+  "fetched_at": "2026-11-20T23:00:17.596650+00:00",
+  "source_hash": "e677e76c8144b6cf"
+}
