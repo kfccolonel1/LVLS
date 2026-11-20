@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T16:00:27.226258+00:00",
-  "fetched_at_est": "2026-11-20T11:00:27.226274-05:00",
+  "fetched_at_utc": "2026-11-20T16:05:33.597295+00:00",
+  "fetched_at_est": "2026-11-20T11:05:33.597299-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -540,6 +540,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational commentary with no price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2123809347725656176",
+      "timestamp_utc": "2026-11-20T16:03:01.000Z",
+      "timestamp_est": "2026-11-20T11:03:01-05:00",
+      "tweet_text": "@NYJets2017 I've learned on OPEX days after a big week like this, don't push it! Especially around noon.",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary/advice about OPEX trading behavior. No price levels named or actionable triggers of any kind."
     }
   ]
 }
