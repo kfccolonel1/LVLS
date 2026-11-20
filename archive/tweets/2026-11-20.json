@@ -502,5 +502,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Conversational reply about trading philosophy and a historical squeeze; no price levels named or actionable signals given."
+  },
+  {
+    "tweet_id": "2123876600181895526",
+    "timestamp_est": "2026-11-20T15:30:15-05:00",
+    "timestamp_utc": "2026-11-20T20:30:15.000Z",
+    "tweet_text": "@octoptionist @NoSpinRealist Have that setup in the newsletter! A few good ones for Monday. 7025 reclaim the best on the best, 6960 good also, as is 6875. We'll see what triggers!",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply referencing newsletter setups for Monday (7025, 6960, 6875); no explicit actionable naming language used in this tweet, and levels are out of today's ES range context."
   }
 ]
