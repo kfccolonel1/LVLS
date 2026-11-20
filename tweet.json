@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T12:27:24.582042+00:00",
-  "fetched_at_est": "2026-11-20T07:27:24.582046-05:00",
+  "fetched_at_utc": "2026-11-20T12:32:33.112239+00:00",
+  "fetched_at_est": "2026-11-20T07:32:33.112252-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -432,6 +432,24 @@
         7086.0
       ],
       "notes": "7164 is new bull target (not in morning plan); 7100 and 7086 named as new downside support levels below 7120-25. 7306-09 midpoint ~7307.5 treated as reaffirmation of 7307."
+    },
+    {
+      "tweet_id": "2123755155267244503",
+      "timestamp_utc": "2026-11-20T12:27:41.000Z",
+      "timestamp_est": "2026-11-20T07:27:41-05:00",
+      "tweet_text": "@WazzaK7 This is slow, grinding chop with a triggered bear case and below three key shelves so I'd only trade if we get a strong spike above 53 today. Otherwise sidelines",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7553 (53) is a reaffirmation of morning-plan level 7549/7526 area; no new explicitly named actionable level introduced."
+    },
+    {
+      "tweet_id": "2123755224657482040",
+      "timestamp_utc": "2026-11-20T12:27:57.000Z",
+      "timestamp_est": "2026-11-20T07:27:57-05:00",
+      "tweet_text": "@WazzaK7 Been one of the best weeks of 2026 don't want to ruin it on an OPEX friday!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about OPEX Friday caution; no price levels named or referenced whatsoever."
     }
   ]
 }
