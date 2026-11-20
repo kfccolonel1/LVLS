@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T16:35:54.495030+00:00",
-  "fetched_at_est": "2026-11-20T11:35:54.495046-05:00",
+  "fetched_at_utc": "2026-11-20T16:41:03.090715+00:00",
+  "fetched_at_est": "2026-11-20T11:41:03.090722-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -576,6 +576,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user mentioning '25' (likely 7525/7625) conversationally with no explicit price named or actionable naming language; pure directional commentary."
+    },
+    {
+      "tweet_id": "2123818465534619993",
+      "timestamp_utc": "2026-11-20T16:39:15.000Z",
+      "timestamp_est": "2026-11-20T11:39:15-05:00",
+      "tweet_text": "@ChrisHux Why would anyone be holding a long?",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply tweet with no price levels named; purely rhetorical/conversational comment about holding longs."
+    },
+    {
+      "tweet_id": "2123818653682446669",
+      "timestamp_utc": "2026-11-20T16:40:00.000Z",
+      "timestamp_est": "2026-11-20T11:40:00-05:00",
+      "tweet_text": "@kris_ned Only when we a level reclaims. There are no real supports for several hundred points down",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply with no specific price named; 'several hundred points down' is vague distance commentary, not an actionable level."
     }
   ]
 }
