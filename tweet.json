@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T16:05:33.597295+00:00",
-  "fetched_at_est": "2026-11-20T11:05:33.597299-05:00",
+  "fetched_at_utc": "2026-11-20T16:10:37.972168+00:00",
+  "fetched_at_est": "2026-11-20T11:10:37.972174-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,15 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123447602129555720",
-      "timestamp_utc": "2026-11-19T16:05:34.000Z",
-      "timestamp_est": "2026-11-19T11:05:34-05:00",
-      "tweet_text": "#ES_F is running same script daily almost down to the hour. \"Elevator down\" around 10am. We then sweep the prior days low (7305 in the case), Failed Breakdown, long, rip.\n\nTargets for this one posted were 7320 (hit), 7334 (hit), 7348, 7363 above from here. 7309-05 must hold https://t.co/LAzyqcrD22",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7305, 7320, 7334, 7348, 7363) are morning-plan levels or observations of hits. No new actionable levels introduced."
-    },
     {
       "tweet_id": "2123461345228021869",
       "timestamp_utc": "2026-11-19T17:00:11.000Z",
