@@ -283,5 +283,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure conversational commentary with no price levels named whatsoever."
+  },
+  {
+    "tweet_id": "2123809347725656176",
+    "timestamp_est": "2026-11-20T11:03:01-05:00",
+    "timestamp_utc": "2026-11-20T16:03:01.000Z",
+    "tweet_text": "@NYJets2017 I've learned on OPEX days after a big week like this, don't push it! Especially around noon.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure commentary/advice about OPEX trading behavior. No price levels named or actionable triggers of any kind."
   }
 ]
