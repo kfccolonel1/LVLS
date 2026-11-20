@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T13:38:29.050183+00:00",
-  "fetched_at_est": "2026-11-20T08:38:29.050194-05:00",
+  "fetched_at_utc": "2026-11-20T13:43:36.672487+00:00",
+  "fetched_at_est": "2026-11-20T08:43:36.672492-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -500,6 +500,20 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7153 and 7125 are already in morning plan (7153.0, 7122.5); tweet is sideline commentary with no new actionable levels named."
+    },
+    {
+      "tweet_id": "2123773070725009875",
+      "timestamp_utc": "2026-11-20T13:38:52.000Z",
+      "timestamp_est": "2026-11-20T08:38:52-05:00",
+      "tweet_text": "Slow grind down continues in #ES_F and bears retain full control (all supports fail until we get a level reclaim or Failed Breakdown). 7306-09 shelf failure yesterday (Tuesday/Wednesday lows) caused this and must recover to end it.\n\n7120-25 reclaim sees 7153+. 7100, 7086 below https://t.co/cFMm3XMQxo",
+      "added_bull_levels": [
+        7153.0
+      ],
+      "added_bear_levels": [
+        7100.0,
+        7086.0
+      ],
+      "notes": "7100 and 7086 named as explicit bear targets below; 7153 reaffirmed as target on reclaim. 7100/7086 not in morning plan \u2014 new actionable bear levels."
     }
   ]
 }
