@@ -220,5 +220,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Conversational reply referencing 7307 and 7421 (both morning-plan levels) as examples; no new actionable level named, just trend commentary."
+  },
+  {
+    "tweet_id": "2123805310368231604",
+    "timestamp_est": "2026-11-20T10:46:59-05:00",
+    "timestamp_utc": "2026-11-20T15:46:59.000Z",
+    "tweet_text": "@DavidDa41048475 It's just a setup for a bounce. The question of \"bottoms\" are irrelevant to day traders, but they require multiple of those shelves to recover in general. 7306-09, 7421, 7519 then can talk about bottoms",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply about 'bottom' conditions; 7307/7421 are morning plan levels, 7519 is near 7509/7526 and no actionable naming language used."
+  },
+  {
+    "tweet_id": "2123805843497816196",
+    "timestamp_est": "2026-11-20T10:49:06-05:00",
+    "timestamp_utc": "2026-11-20T15:49:06.000Z",
+    "tweet_text": "@alexgoumas The reason ~99% of retail day traders (according to numerous studies) are unprofitable is because they think this way. An edge is an edge, if you change it around because of conditions (one week is particularly red or particularly green) rather than think in terms of large sample",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No prices mentioned at all; tweet is a philosophical comment about trading psychology and sample sizes, not an actionable level."
   }
 ]
