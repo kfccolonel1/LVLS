@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T15:50:06.649242+00:00",
-  "fetched_at_est": "2026-11-20T10:50:06.649250-05:00",
+  "fetched_at_utc": "2026-11-20T15:55:15.816176+00:00",
+  "fetched_at_est": "2026-11-20T10:55:15.816185-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -495,6 +495,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "No prices mentioned at all; tweet is a philosophical comment about trading psychology and sample sizes, not an actionable level."
+    },
+    {
+      "tweet_id": "2123806057399230690",
+      "timestamp_utc": "2026-11-20T15:49:57.000Z",
+      "timestamp_est": "2026-11-20T10:49:57-05:00",
+      "tweet_text": "@alexgoumas If you have a mean reversion edge you don't suddenly change it because the market is trending, if you have a low vol edge you don't suddenly change it because there is vol or not vol",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading philosophy/edge consistency. No prices named, no actionable levels referenced whatsoever."
+    },
+    {
+      "tweet_id": "2123806433510912189",
+      "timestamp_utc": "2026-11-20T15:51:26.000Z",
+      "timestamp_est": "2026-11-20T10:51:26-05:00",
+      "tweet_text": "@alexgoumas And its also not \"10 points\". We've had 100 point squeezes almost every day this week except Monday and Thursday",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user, pure commentary about recent squeeze magnitude. No price named as actionable level."
     }
   ]
 }
