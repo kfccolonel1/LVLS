@@ -520,5 +520,17 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure conversational commentary about market conditions; no price levels named or actionable triggers given."
+  },
+  {
+    "tweet_id": "2123882947686052335",
+    "timestamp_est": "2026-11-20T15:55:29-05:00",
+    "timestamp_utc": "2026-11-20T20:55:29.000Z",
+    "tweet_text": "Closing update #ES_F: Continued liquidation into the close and as stated all day two things are true. 1) Bears control and 2) We rally only when we get a reclaim/Failed Breakdown. For Sunday, that will be 6960, with 7025 above. Newsletter just sent with remaining entries",
+    "added_bull_levels": [
+      6960.0,
+      7025.0
+    ],
+    "added_bear_levels": [],
+    "notes": "6960 named as FBD reclaim trigger for Sunday and 7025 as next level above \u2014 both actionable, first-time named, not in morning plan."
   }
 ]
