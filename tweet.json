@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T14:59:31.033530+00:00",
-  "fetched_at_est": "2026-11-20T09:59:31.033534-05:00",
+  "fetched_at_utc": "2026-11-20T15:19:37.501493+00:00",
+  "fetched_at_est": "2026-11-20T10:19:37.501499-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,24 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123435701396271150",
-      "timestamp_utc": "2026-11-19T15:18:17.000Z",
-      "timestamp_est": "2026-11-19T10:18:17-05:00",
-      "tweet_text": "@KeyurMulani786 When I say deep sell I am just referring the daily intraday cycle. Everyday ES goes: Elevator down, Failed Breakdown, Short squeeze",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining intraday cycle pattern (elevator down, FBD, short squeeze) \u2014 no price named, purely educational commentary."
-    },
-    {
-      "tweet_id": "2123435792676643182",
-      "timestamp_utc": "2026-11-19T15:18:39.000Z",
-      "timestamp_est": "2026-11-19T10:18:39-05:00",
-      "tweet_text": "@KeyurMulani786 (except for Mode 1 red trend days which are 10% of days. on Those days we rip in the evening)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet explaining trend day behavior. No price levels named, purely conversational/educational commentary."
-    },
     {
       "tweet_id": "2123436210639020345",
       "timestamp_utc": "2026-11-19T15:20:18.000Z",
