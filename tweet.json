@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T19:38:00.449245+00:00",
-  "fetched_at_est": "2026-11-20T14:38:00.449250-05:00",
+  "fetched_at_utc": "2026-11-20T19:48:09.852233+00:00",
+  "fetched_at_est": "2026-11-20T14:48:09.852242-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
@@ -575,6 +575,26 @@
       ],
       "added_bear_levels": [],
       "notes": "7025 explicitly named as 'highest quality entry' on recovery \u2014 actionable bull trigger not in morning plan."
+    },
+    {
+      "tweet_id": "2123865253142540368",
+      "timestamp_utc": "2026-11-20T19:45:10.000Z",
+      "timestamp_est": "2026-11-20T14:45:10-05:00",
+      "tweet_text": "@roshea1992 Entries were given here in advance and in newsletter. Its been a slow day and there was only one entry so far https://t.co/Xrbk3Jp1gc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No prices mentioned; tweet is a conversational reply referencing prior entries and newsletter. No actionable levels named."
+    },
+    {
+      "tweet_id": "2123865486320701838",
+      "timestamp_utc": "2026-11-20T19:46:06.000Z",
+      "timestamp_est": "2026-11-20T14:46:06-05:00",
+      "tweet_text": "@NoSpinRealist I'm hoping we don't trigger the 7025 before the close as I don't want to long it before the weekend. I'll wait until Sunday!",
+      "added_bull_levels": [
+        7025.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7025 named as an actionable long trigger ('long it'), not in morning plan \u2014 qualifies as new major level despite casual tone."
     }
   ]
 }
