@@ -348,5 +348,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Conversational reply with no specific price named; general directional commentary only, no actionable level introduced."
+  },
+  {
+    "tweet_id": "2123822033565892906",
+    "timestamp_est": "2026-11-20T11:53:26-05:00",
+    "timestamp_utc": "2026-11-20T16:53:26.000Z",
+    "tweet_text": "@ChrisHux That's what I mean, protect profits. Don't trade anymore today or risk profits on a Friday afternoon",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure trade management advice \u2014 no price levels named at all, just instructing to protect profits and stop trading on Friday afternoon."
   }
 ]
