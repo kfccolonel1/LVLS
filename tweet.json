@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T14:54:24.220240+00:00",
-  "fetched_at_est": "2026-11-20T09:54:24.220245-05:00",
+  "fetched_at_utc": "2026-11-20T14:59:31.033530+00:00",
+  "fetched_at_est": "2026-11-20T09:59:31.033534-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -535,6 +535,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7307 is already in morning plan; comment is conversational/observational ('isn't that far off', 'big test') without explicit actionable naming language."
+    },
+    {
+      "tweet_id": "2123793186674057667",
+      "timestamp_utc": "2026-11-20T14:58:48.000Z",
+      "timestamp_est": "2026-11-20T09:58:48-05:00",
+      "tweet_text": "We are running targets nicely here today in #ES_F. 7120-25 reclaim was required to rally today as posted. We recovered it. Targets were 7153 (hit), 7164 (hit), 7180 (hit), 7196 (hit). Next up is 7210/7223: The first big gateway for bulls.\n\nThen, up we go to 7306-09 backtest https://t.co/hao48j07OK",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All mentioned prices (7122.5, 7153, 7180, 7196, 7209, 7222.5, 7307) are in the morning plan or observations of targets already hit. No new actionable levels introduced."
     }
   ]
 }
