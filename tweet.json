@@ -1,31 +1,10 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T20:13:19.772296+00:00",
-  "fetched_at_est": "2026-11-20T15:13:19.772302-05:00",
+  "fetched_at_utc": "2026-11-20T20:28:26.293085+00:00",
+  "fetched_at_est": "2026-11-20T15:28:26.293090-05:00",
   "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
-    {
-      "price": 7164.0,
-      "side": "bull",
-      "added_at_est": "2026-11-20T07:24:26-05:00",
-      "expires_at_est": "2026-11-20T15:24:26-05:00",
-      "from_tweet_id": "2123754337294065799"
-    },
-    {
-      "price": 7100.0,
-      "side": "bear",
-      "added_at_est": "2026-11-20T07:24:26-05:00",
-      "expires_at_est": "2026-11-20T15:24:26-05:00",
-      "from_tweet_id": "2123754337294065799"
-    },
-    {
-      "price": 7086.0,
-      "side": "bear",
-      "added_at_est": "2026-11-20T07:24:26-05:00",
-      "expires_at_est": "2026-11-20T15:24:26-05:00",
-      "from_tweet_id": "2123754337294065799"
-    },
     {
       "price": 7025.0,
       "side": "bear",
@@ -556,6 +535,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7025 named as an actionable long trigger ('long it'), not in morning plan \u2014 qualifies as new major level despite casual tone."
+    },
+    {
+      "tweet_id": "2123875181827363031",
+      "timestamp_utc": "2026-11-20T20:24:37.000Z",
+      "timestamp_est": "2026-11-20T15:24:37-05:00",
+      "tweet_text": "@z3e8n661 I don't short anymore because I did it for nearly 20 years (through multiple large bear markets) and it was dragging my performance down relative to waiting on my very high rate edge. I don't build a trading strategy around one anomalous week - we got a 100 point squeeze this",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trading philosophy and a historical squeeze; no price levels named or actionable signals given."
     }
   ]
 }
