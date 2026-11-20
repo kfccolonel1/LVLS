@@ -339,5 +339,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Conversational reply with no specific price named; 'several hundred points down' is vague distance commentary, not an actionable level."
+  },
+  {
+    "tweet_id": "2123819548784853046",
+    "timestamp_est": "2026-11-20T11:43:33-05:00",
+    "timestamp_utc": "2026-11-20T16:43:33.000Z",
+    "tweet_text": "@tin3tin30 Yes, should backtest on the next green day next week sometime. Has to recover for bulls to regain any control",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply with no specific price named; general directional commentary only, no actionable level introduced."
   }
 ]
