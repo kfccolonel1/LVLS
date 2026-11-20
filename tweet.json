@@ -1,9 +1,9 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T16:25:44.457926+00:00",
-  "fetched_at_est": "2026-11-20T11:25:44.457931-05:00",
-  "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
+  "fetched_at_utc": "2026-11-20T16:35:54.495030+00:00",
+  "fetched_at_est": "2026-11-20T11:35:54.495046-05:00",
+  "last_new_level_added_at_est": "2026-11-20T11:32:40-05:00",
   "todays_new_levels": [
     {
       "price": 7164.0,
@@ -25,6 +25,13 @@
       "added_at_est": "2026-11-20T07:24:26-05:00",
       "expires_at_est": "2026-11-20T15:24:26-05:00",
       "from_tweet_id": "2123754337294065799"
+    },
+    {
+      "price": 7025.0,
+      "side": "bear",
+      "added_at_est": "2026-11-20T11:32:40-05:00",
+      "expires_at_est": "2026-11-20T19:32:40-05:00",
+      "from_tweet_id": "2123816808105001196"
     }
   ],
   "updates": [
@@ -549,6 +556,26 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Conversational reply mentioning 7025 as a vague 'or so' reference with no actionable naming language; no entry/watch/target/trigger framing used."
+    },
+    {
+      "tweet_id": "2123816808105001196",
+      "timestamp_utc": "2026-11-20T16:32:40.000Z",
+      "timestamp_est": "2026-11-20T11:32:40-05:00",
+      "tweet_text": "Today has been straight-forward &amp; just protect profits here in #ES_F, its been a big week. 7120-25 reclaim was today's entry. Target was 7210/23, which was heavy res and control point as posted. We rejected there &amp; sold to 7086 next down.\n\n7120-25 must reclaim to pop. 7025 below https://t.co/vdDCoVlxwQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7025.0
+      ],
+      "notes": "7025 named explicitly as 'below' next bear level \u2014 new, not in morning plan. 7122.5 reclaim and 7210/23 targets are morning-plan reaffirmations."
+    },
+    {
+      "tweet_id": "2123817216269287726",
+      "timestamp_utc": "2026-11-20T16:34:17.000Z",
+      "timestamp_est": "2026-11-20T11:34:17-05:00",
+      "tweet_text": "@EvaGreensm31526 I'd wait until 25 clears",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply to user mentioning '25' (likely 7525/7625) conversationally with no explicit price named or actionable naming language; pure directional commentary."
     }
   ]
 }
