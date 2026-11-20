@@ -1,20 +1,33 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T12:22:18.543364+00:00",
-  "fetched_at_est": "2026-11-20T07:22:18.543369-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
-  "updates": [
+  "fetched_at_utc": "2026-11-20T12:27:24.582042+00:00",
+  "fetched_at_est": "2026-11-20T07:27:24.582046-05:00",
+  "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
+  "todays_new_levels": [
     {
-      "tweet_id": "2123391579214025008",
-      "timestamp_utc": "2026-11-19T12:22:57.000Z",
-      "timestamp_est": "2026-11-19T07:22:57-05:00",
-      "tweet_text": "@Supreme_Losy No luck needed. We triggered a Failed Breakdown, up we went",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet referencing a prior FBD trigger \u2014 no new price level named, purely observational trade outcome commentary."
+      "price": 7164.0,
+      "side": "bull",
+      "added_at_est": "2026-11-20T07:24:26-05:00",
+      "expires_at_est": "2026-11-20T15:24:26-05:00",
+      "from_tweet_id": "2123754337294065799"
     },
+    {
+      "price": 7100.0,
+      "side": "bear",
+      "added_at_est": "2026-11-20T07:24:26-05:00",
+      "expires_at_est": "2026-11-20T15:24:26-05:00",
+      "from_tweet_id": "2123754337294065799"
+    },
+    {
+      "price": 7086.0,
+      "side": "bear",
+      "added_at_est": "2026-11-20T07:24:26-05:00",
+      "expires_at_est": "2026-11-20T15:24:26-05:00",
+      "from_tweet_id": "2123754337294065799"
+    }
+  ],
+  "updates": [
     {
       "tweet_id": "2123394894702215563",
       "timestamp_utc": "2026-11-19T12:36:08.000Z",
@@ -405,6 +418,20 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about market conditions; no price levels named or actionable language used."
+    },
+    {
+      "tweet_id": "2123754337294065799",
+      "timestamp_utc": "2026-11-20T12:24:26.000Z",
+      "timestamp_est": "2026-11-20T07:24:26-05:00",
+      "tweet_text": "Volatility slowing in #ES_F after yesterday's perfect session with huge, two way swings &amp; multiple setups. Also OPEX day - don't overtrade slow, noisy chop. Bears fully control under 7306-09 &amp; 7210\n\nPlan: 7153 must reclaim to see 7164, 7180, 7196, 7210. 7120-25, 7100, 7086 below https://t.co/Zy0Gyws6NY",
+      "added_bull_levels": [
+        7164.0
+      ],
+      "added_bear_levels": [
+        7100.0,
+        7086.0
+      ],
+      "notes": "7164 is new bull target (not in morning plan); 7100 and 7086 named as new downside support levels below 7120-25. 7306-09 midpoint ~7307.5 treated as reaffirmation of 7307."
     }
   ]
 }
