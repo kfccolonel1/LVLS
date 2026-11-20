@@ -411,5 +411,18 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure market commentary about low volatility price action. No prices named, no actionable levels, no naming language used."
+  },
+  {
+    "tweet_id": "2123849512103948394",
+    "timestamp_est": "2026-11-20T13:42:37-05:00",
+    "timestamp_utc": "2026-11-20T18:42:37.000Z",
+    "tweet_text": "Levels are ultra precise today in #ES_F. 7125-20 Failed breakdown had a target of 7210/23 which bulls had to recover to stop the selling. We rejected there. 7025 was next support, held exact.\n\nBulls must recover 7086 now (next big lvl) to see 7120-25 and try again. Sell&lt;7025 https://t.co/xHExgB9Rz7",
+    "added_bull_levels": [
+      7086.0
+    ],
+    "added_bear_levels": [
+      7025.0
+    ],
+    "notes": "7086 named as 'next big lvl' bulls must recover (actionable trigger); 7025 named as sell-below trigger \u2014 both new, not in morning plan."
   }
 ]
