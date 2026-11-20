@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-20T14:08:55.874152+00:00",
-  "fetched_at_est": "2026-11-20T09:08:55.874161-05:00",
+  "fetched_at_utc": "2026-11-20T14:14:00.531319+00:00",
+  "fetched_at_est": "2026-11-20T09:14:00.531323-05:00",
   "last_new_level_added_at_est": "2026-11-20T07:24:26-05:00",
   "todays_new_levels": [
     {
@@ -28,27 +28,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2123418469496660260",
-      "timestamp_utc": "2026-11-19T14:09:48.000Z",
-      "timestamp_est": "2026-11-19T09:09:48-05:00",
-      "tweet_text": "Yesterday, we got a classic Failed Breakdown given in newsletter. We sold to 7305. In doing so, we swept the Tuesday 7309 low. We recovered, ripped. Target was 7421 (hit)\n\nNow, wait for next deep sell. 7421 reclaims low quality long to 7434, 7440, 7458+. 7388 support now https://t.co/dh8osbOJPt",
-      "added_bull_levels": [
-        7434.0,
-        7458.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7434 and 7458 named as targets on 7421 reclaim long \u2014 not in morning plan. 7388/7421/7440 are reaffirmations."
-    },
-    {
-      "tweet_id": "2123418605018558833",
-      "timestamp_utc": "2026-11-19T14:10:21.000Z",
-      "timestamp_est": "2026-11-19T09:10:21-05:00",
-      "tweet_text": "@disciple33 @OnTheHooch Yes. Levels are just levels. If we are above them they are supports, and if we are below they are resistances",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply explaining level mechanics; no specific actionable price named or added."
-    },
     {
       "tweet_id": "2123426708460322859",
       "timestamp_utc": "2026-11-19T14:42:33.000Z",
