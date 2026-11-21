@@ -1,424 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-21T04:59:30.356348+00:00",
-  "fetched_at_est": "2026-11-20T23:59:30.356355-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-11-21T18:00:55.621045+00:00",
+  "fetched_at_est": "2026-11-21T13:00:55.621053-05:00",
+  "last_new_level_added_at_est": "2026-11-21T08:42:43-05:00",
+  "todays_new_levels": [
+    {
+      "price": 6770.0,
+      "side": "bear",
+      "added_at_est": "2026-11-21T08:42:43-05:00",
+      "expires_at_est": "2026-11-21T16:42:43-05:00",
+      "from_tweet_id": "2124136426799235525"
+    }
+  ],
   "updates": [
-    {
-      "tweet_id": "2123754337294065799",
-      "timestamp_utc": "2026-11-20T12:24:26.000Z",
-      "timestamp_est": "2026-11-20T07:24:26-05:00",
-      "tweet_text": "Volatility slowing in #ES_F after yesterday's perfect session with huge, two way swings &amp; multiple setups. Also OPEX day - don't overtrade slow, noisy chop. Bears fully control under 7306-09 &amp; 7210\n\nPlan: 7153 must reclaim to see 7164, 7180, 7196, 7210. 7120-25, 7100, 7086 below https://t.co/Zy0Gyws6NY",
-      "added_bull_levels": [
-        7164.0
-      ],
-      "added_bear_levels": [
-        7100.0,
-        7086.0
-      ],
-      "notes": "7164 is new bull target (not in morning plan); 7100 and 7086 named as new downside support levels below 7120-25. 7306-09 midpoint ~7307.5 treated as reaffirmation of 7307."
-    },
-    {
-      "tweet_id": "2123755155267244503",
-      "timestamp_utc": "2026-11-20T12:27:41.000Z",
-      "timestamp_est": "2026-11-20T07:27:41-05:00",
-      "tweet_text": "@WazzaK7 This is slow, grinding chop with a triggered bear case and below three key shelves so I'd only trade if we get a strong spike above 53 today. Otherwise sidelines",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7553 (53) is a reaffirmation of morning-plan level 7549/7526 area; no new explicitly named actionable level introduced."
-    },
-    {
-      "tweet_id": "2123755224657482040",
-      "timestamp_utc": "2026-11-20T12:27:57.000Z",
-      "timestamp_est": "2026-11-20T07:27:57-05:00",
-      "tweet_text": "@WazzaK7 Been one of the best weeks of 2026 don't want to ruin it on an OPEX friday!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about OPEX Friday caution; no price levels named or referenced whatsoever."
-    },
-    {
-      "tweet_id": "2123756475092738350",
-      "timestamp_utc": "2026-11-20T12:32:55.000Z",
-      "timestamp_est": "2026-11-20T07:32:55-05:00",
-      "tweet_text": "@Mikeag68 Nobody should be long here - we are below three major control shelves as discussed in newsletter and with a daily bear case triggered. Long only when we get a high volatility reclaim",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No specific price levels named; purely directional/contextual commentary about being below control shelves with no new actionable price cited."
-    },
-    {
-      "tweet_id": "2123759073556664343",
-      "timestamp_utc": "2026-11-20T12:43:15.000Z",
-      "timestamp_est": "2026-11-20T07:43:15-05:00",
-      "tweet_text": "@ES_Money_Print Only 53 for today otherwise I just won't trade today. OPEX Friday, and we are under too many lost shelves now (plus volatility is low). Worst possible conditions to be trading Failed Breakdowns and after such a big week no reason to push it",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices named at all. Pure commentary about OPEX conditions, volatility, and trade management philosophy. No actionable levels introduced."
-    },
-    {
-      "tweet_id": "2123765241171620111",
-      "timestamp_utc": "2026-11-20T13:07:45.000Z",
-      "timestamp_est": "2026-11-20T08:07:45-05:00",
-      "tweet_text": "Yesterday, #ES_F lost a major shelf a 7306-09 (Tuesday/Wednesday lows). Bears fully control below. On a shorter term basis (per newsletter) 7210 loss triggered bear case today and we are -90\n\n7120-25=support. 7153 must reclaim to pop to 7164, 7180, 7196, 7210. 7100, 7086 below https://t.co/7y1zj9GRLj",
-      "added_bull_levels": [
-        7164.0
-      ],
-      "added_bear_levels": [
-        7100.0,
-        7086.0
-      ],
-      "notes": "7164 named as reclaim target (new, not in plan); 7100 and 7086 named as supports below (new, not in plan). 7120-25 and 7153/7180/7196/7210 are plan levels."
-    },
-    {
-      "tweet_id": "2123765595942670566",
-      "timestamp_utc": "2026-11-20T13:09:10.000Z",
-      "timestamp_est": "2026-11-20T08:09:10-05:00",
-      "tweet_text": "@dj_cremebrulee @ES_Money_Print There were numerous huge bear traps this week. 130 point Failed Breakdown Tuesday, 133 point Failed Breakdown Wednesday, 59 and 88 point Failed Breakdown's Thursday. Nothing yet today",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet recapping weekly failed breakdowns with point magnitudes; no actionable price levels named, purely historical observation/commentary."
-    },
-    {
-      "tweet_id": "2123766328922132557",
-      "timestamp_utc": "2026-11-20T13:12:05.000Z",
-      "timestamp_est": "2026-11-20T08:12:05-05:00",
-      "tweet_text": "@JKThompsonES For today I'd wait on 53. Even that is shaky though, its OPEX day with total bearish control (we are below every major shelf). I'd need to see some real speed to price",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reference to '53' (7553?) is casual/conditional commentary, not an explicit actionable level naming; no naming language used, no new price explicitly defined."
-    },
-    {
-      "tweet_id": "2123770514350993879",
-      "timestamp_utc": "2026-11-20T13:28:43.000Z",
-      "timestamp_est": "2026-11-20T08:28:43-05:00",
-      "tweet_text": "@harry135_ @dj_cremebrulee @ES_Money_Print Your talking about someone elses newsletter. In my newsletter it literally says: \"Very simply stated, bears fully control under 7306-09.\" and very \"Bear case tomorrow: Begins below 7210\".",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Defensive reply quoting existing newsletter text; 7307 and 7209 are already in morning plan. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2123771576290283725",
-      "timestamp_utc": "2026-11-20T13:32:56.000Z",
-      "timestamp_est": "2026-11-20T08:32:56-05:00",
-      "tweet_text": "@harry135_ @dj_cremebrulee @ES_Money_Print https://t.co/EXVUhIxJiA",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply with only a URL and no actionable price levels named."
-    },
-    {
-      "tweet_id": "2123771858629877768",
-      "timestamp_utc": "2026-11-20T13:34:03.000Z",
-      "timestamp_est": "2026-11-20T08:34:03-05:00",
-      "tweet_text": "@jdswain3 It would be. 7306-09 is the best backtest short though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7306-09 midpoint ~7307 is already in morning plan. Conversational reply about a backtest short, not a formal new level introduction."
-    },
-    {
-      "tweet_id": "2123772573016056087",
-      "timestamp_utc": "2026-11-20T13:36:53.000Z",
-      "timestamp_est": "2026-11-20T08:36:53-05:00",
-      "tweet_text": "@siccc_verses No levels I'd engage personally. When you have 3/4 major shelf failures plus a daily bear case triggered most supports will just slowly melt through until we get a major recovery (7153 or 7125 now). Unless one is short from the bear case trigger, its a sideline day for me",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7153 and 7125 are already in morning plan (7153.0, 7122.5); tweet is sideline commentary with no new actionable levels named."
-    },
-    {
-      "tweet_id": "2123773070725009875",
-      "timestamp_utc": "2026-11-20T13:38:52.000Z",
-      "timestamp_est": "2026-11-20T08:38:52-05:00",
-      "tweet_text": "Slow grind down continues in #ES_F and bears retain full control (all supports fail until we get a level reclaim or Failed Breakdown). 7306-09 shelf failure yesterday (Tuesday/Wednesday lows) caused this and must recover to end it.\n\n7120-25 reclaim sees 7153+. 7100, 7086 below https://t.co/cFMm3XMQxo",
-      "added_bull_levels": [
-        7153.0
-      ],
-      "added_bear_levels": [
-        7100.0,
-        7086.0
-      ],
-      "notes": "7100 and 7086 named as explicit bear targets below; 7153 reaffirmed as target on reclaim. 7100/7086 not in morning plan \u2014 new actionable bear levels."
-    },
-    {
-      "tweet_id": "2123778459864555968",
-      "timestamp_utc": "2026-11-20T14:00:17.000Z",
-      "timestamp_est": "2026-11-20T09:00:17-05:00",
-      "tweet_text": "@upandown007 @harry135_ @dj_cremebrulee @ES_Money_Print Its a rhetorical question not a statement, and I am referring to whether SPX can close today green which is entirely possible. Instead of focusing on the 6 word title can perhaps read the 4000 word newsletter that follows",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Rhetorical reply about SPX green close; no actionable price level named, just a conversational/clarifying response to another user."
-    },
-    {
-      "tweet_id": "2123778772650361170",
-      "timestamp_utc": "2026-11-20T14:01:31.000Z",
-      "timestamp_est": "2026-11-20T09:01:31-05:00",
-      "tweet_text": "@ashwagamma We'll see! Its one of those weird levels where there really isn't anything of interest for a very long way down so market has to decide to decide whether it has the motivation for another leg lower of that magnitude today",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no actionable price named; purely commentary about market motivation and distance to next level, no specific price cited."
-    },
-    {
-      "tweet_id": "2123779959789641912",
-      "timestamp_utc": "2026-11-20T14:06:14.000Z",
-      "timestamp_est": "2026-11-20T09:06:14-05:00",
-      "tweet_text": "@noonelikeme81 I'm a day trader - fundamentals and geopolitics have nothing to do with day trading.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a philosophical reply about trading style; no price levels named or referenced whatsoever."
-    },
-    {
-      "tweet_id": "2123780097090232677",
-      "timestamp_utc": "2026-11-20T14:06:47.000Z",
-      "timestamp_est": "2026-11-20T09:06:47-05:00",
-      "tweet_text": "@ashwagamma @chris4eye I didn't take it but we'll see how much momentum we have here at 53",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Casual conversational reply referencing '53' (likely 7553) with no actionable naming language; pure observation of current price momentum."
-    },
-    {
-      "tweet_id": "2123782785324433843",
-      "timestamp_utc": "2026-11-20T14:17:28.000Z",
-      "timestamp_est": "2026-11-20T09:17:28-05:00",
-      "tweet_text": "Nice level to level move in #ES_F. 7120-25 reclaim as posted sees 7153 and we just tagged 7153. Bears retain full control below 7210 and 7306-09 (this is a major backtest magnet for the next larger squeeze, its failure triggered us down yesterday).\n\n7164, 7180, 7196, 7210 above https://t.co/wfl6AdkSwJ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7122.5, 7153, 7180, 7196, 7210\u22487209, 7307\u22487307) are morning-plan levels or reaffirmations; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2123782935039905902",
-      "timestamp_utc": "2026-11-20T14:18:04.000Z",
-      "timestamp_est": "2026-11-20T09:18:04-05:00",
-      "tweet_text": "@OnTheHooch Might have room to run a little bit but wouldn't get too excited until above 7210",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7210 is essentially a reaffirmation of morning-plan level 7209.0; casual threshold comment, not a newly named actionable level."
-    },
-    {
-      "tweet_id": "2123790795849486478",
-      "timestamp_utc": "2026-11-20T14:49:18.000Z",
-      "timestamp_est": "2026-11-20T09:49:18-05:00",
-      "tweet_text": "@investingpro12 7306-09 isn't that far off with this volatility. Were just there yesterday morning! That's the big test for bulls",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7307 is already in morning plan; comment is conversational/observational ('isn't that far off', 'big test') without explicit actionable naming language."
-    },
-    {
-      "tweet_id": "2123793186674057667",
-      "timestamp_utc": "2026-11-20T14:58:48.000Z",
-      "timestamp_est": "2026-11-20T09:58:48-05:00",
-      "tweet_text": "We are running targets nicely here today in #ES_F. 7120-25 reclaim was required to rally today as posted. We recovered it. Targets were 7153 (hit), 7164 (hit), 7180 (hit), 7196 (hit). Next up is 7210/7223: The first big gateway for bulls.\n\nThen, up we go to 7306-09 backtest https://t.co/hao48j07OK",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7122.5, 7153, 7180, 7196, 7209, 7222.5, 7307) are in the morning plan or observations of targets already hit. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2123801458189467852",
-      "timestamp_utc": "2026-11-20T15:31:40.000Z",
-      "timestamp_est": "2026-11-20T10:31:40-05:00",
-      "tweet_text": "Perfect level precision today in #ES_F: 7120-25 had to reclaim to squeeze. Targets were 7153, 7164, 7180, 7196, then 7210/23. 7210/23 was the first gateway bulls had to clear to see any control restored. We sold there exact back to 7120-25 again.\n\nNo change to levels https://t.co/CHWukiv3M7",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure recap of morning-plan levels (7120-25, 7153, 7180, 7196, 7210/23) with no new actionable prices named. 'No change to levels' confirms reaffirmation only."
-    },
-    {
-      "tweet_id": "2123802271565635934",
-      "timestamp_utc": "2026-11-20T15:34:54.000Z",
-      "timestamp_est": "2026-11-20T10:34:54-05:00",
-      "tweet_text": "@NYJets2017 We're in a strong downtrend this week so that's typical, but we will get a sharper squeeze that cuts many of those and it will be the big ones that matter like 7306-09, 7421 etc",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing 7307 and 7421 (both morning-plan levels) as examples; no new actionable level named, just trend commentary."
-    },
-    {
-      "tweet_id": "2123805310368231604",
-      "timestamp_utc": "2026-11-20T15:46:59.000Z",
-      "timestamp_est": "2026-11-20T10:46:59-05:00",
-      "tweet_text": "@DavidDa41048475 It's just a setup for a bounce. The question of \"bottoms\" are irrelevant to day traders, but they require multiple of those shelves to recover in general. 7306-09, 7421, 7519 then can talk about bottoms",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about 'bottom' conditions; 7307/7421 are morning plan levels, 7519 is near 7509/7526 and no actionable naming language used."
-    },
-    {
-      "tweet_id": "2123805843497816196",
-      "timestamp_utc": "2026-11-20T15:49:06.000Z",
-      "timestamp_est": "2026-11-20T10:49:06-05:00",
-      "tweet_text": "@alexgoumas The reason ~99% of retail day traders (according to numerous studies) are unprofitable is because they think this way. An edge is an edge, if you change it around because of conditions (one week is particularly red or particularly green) rather than think in terms of large sample",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "No prices mentioned at all; tweet is a philosophical comment about trading psychology and sample sizes, not an actionable level."
-    },
-    {
-      "tweet_id": "2123806057399230690",
-      "timestamp_utc": "2026-11-20T15:49:57.000Z",
-      "timestamp_est": "2026-11-20T10:49:57-05:00",
-      "tweet_text": "@alexgoumas If you have a mean reversion edge you don't suddenly change it because the market is trending, if you have a low vol edge you don't suddenly change it because there is vol or not vol",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational reply about trading philosophy/edge consistency. No prices named, no actionable levels referenced whatsoever."
-    },
-    {
-      "tweet_id": "2123806433510912189",
-      "timestamp_utc": "2026-11-20T15:51:26.000Z",
-      "timestamp_est": "2026-11-20T10:51:26-05:00",
-      "tweet_text": "@alexgoumas And its also not \"10 points\". We've had 100 point squeezes almost every day this week except Monday and Thursday",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user, pure commentary about recent squeeze magnitude. No price named as actionable level."
-    },
-    {
-      "tweet_id": "2123807965996273869",
-      "timestamp_utc": "2026-11-20T15:57:32.000Z",
-      "timestamp_est": "2026-11-20T10:57:32-05:00",
-      "tweet_text": "@alexgoumas Its not Tennis, profitability requires an edge and an edge requires hyper specialization. Its possible to have multiple edges (I traded both long and short from 2006 to 2025 or so) but it eroded my performance as I was spreading too thin and it was too complex switching sides",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply about trading philosophy/specialization. No prices or actionable levels mentioned at all."
-    },
-    {
-      "tweet_id": "2123808545766248458",
-      "timestamp_utc": "2026-11-20T15:59:50.000Z",
-      "timestamp_est": "2026-11-20T10:59:50-05:00",
-      "tweet_text": "Today has been very clean and given its OPEX, wrap it and protect profits. 7120-25 reclaim was long trigger. Target was 7210/23 (bulls had to recover this to stop bounces being sold, we rejected there).\n\n7120-25 reclaims trigger back up, but take it smaller size this time https://t.co/04g2zAbP2c",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7122.5 and 7209/7222.5 are morning plan levels; tweet is hindsight recap + reaffirmation of existing levels, no new actionable price named."
-    },
-    {
-      "tweet_id": "2123808605598097542",
-      "timestamp_utc": "2026-11-20T16:00:04.000Z",
-      "timestamp_est": "2026-11-20T11:00:04-05:00",
-      "tweet_text": "@RileyCapTrades Lots of volatility!",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational commentary with no price levels named whatsoever."
-    },
-    {
-      "tweet_id": "2123809347725656176",
-      "timestamp_utc": "2026-11-20T16:03:01.000Z",
-      "timestamp_est": "2026-11-20T11:03:01-05:00",
-      "tweet_text": "@NYJets2017 I've learned on OPEX days after a big week like this, don't push it! Especially around noon.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary/advice about OPEX trading behavior. No price levels named or actionable triggers of any kind."
-    },
-    {
-      "tweet_id": "2123814440097440253",
-      "timestamp_utc": "2026-11-20T16:23:15.000Z",
-      "timestamp_est": "2026-11-20T11:23:15-05:00",
-      "tweet_text": "@Porterhous90889 Nothing of interest in terms of supports until 7025 or so. Basically a big gap",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply mentioning 7025 as a vague 'or so' reference with no actionable naming language; no entry/watch/target/trigger framing used."
-    },
-    {
-      "tweet_id": "2123816808105001196",
-      "timestamp_utc": "2026-11-20T16:32:40.000Z",
-      "timestamp_est": "2026-11-20T11:32:40-05:00",
-      "tweet_text": "Today has been straight-forward &amp; just protect profits here in #ES_F, its been a big week. 7120-25 reclaim was today's entry. Target was 7210/23, which was heavy res and control point as posted. We rejected there &amp; sold to 7086 next down.\n\n7120-25 must reclaim to pop. 7025 below https://t.co/vdDCoVlxwQ",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        7025.0
-      ],
-      "notes": "7025 named explicitly as 'below' next bear level \u2014 new, not in morning plan. 7122.5 reclaim and 7210/23 targets are morning-plan reaffirmations."
-    },
-    {
-      "tweet_id": "2123817216269287726",
-      "timestamp_utc": "2026-11-20T16:34:17.000Z",
-      "timestamp_est": "2026-11-20T11:34:17-05:00",
-      "tweet_text": "@EvaGreensm31526 I'd wait until 25 clears",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user mentioning '25' (likely 7525/7625) conversationally with no explicit price named or actionable naming language; pure directional commentary."
-    },
-    {
-      "tweet_id": "2123818465534619993",
-      "timestamp_utc": "2026-11-20T16:39:15.000Z",
-      "timestamp_est": "2026-11-20T11:39:15-05:00",
-      "tweet_text": "@ChrisHux Why would anyone be holding a long?",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet with no price levels named; purely rhetorical/conversational comment about holding longs."
-    },
-    {
-      "tweet_id": "2123818653682446669",
-      "timestamp_utc": "2026-11-20T16:40:00.000Z",
-      "timestamp_est": "2026-11-20T11:40:00-05:00",
-      "tweet_text": "@kris_ned Only when we a level reclaims. There are no real supports for several hundred points down",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no specific price named; 'several hundred points down' is vague distance commentary, not an actionable level."
-    },
-    {
-      "tweet_id": "2123819548784853046",
-      "timestamp_utc": "2026-11-20T16:43:33.000Z",
-      "timestamp_est": "2026-11-20T11:43:33-05:00",
-      "tweet_text": "@tin3tin30 Yes, should backtest on the next green day next week sometime. Has to recover for bulls to regain any control",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply with no specific price named; general directional commentary only, no actionable level introduced."
-    },
-    {
-      "tweet_id": "2123822033565892906",
-      "timestamp_utc": "2026-11-20T16:53:26.000Z",
-      "timestamp_est": "2026-11-20T11:53:26-05:00",
-      "tweet_text": "@ChrisHux That's what I mean, protect profits. Don't trade anymore today or risk profits on a Friday afternoon",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management advice \u2014 no price levels named at all, just instructing to protect profits and stop trading on Friday afternoon."
-    },
-    {
-      "tweet_id": "2123826996983820448",
-      "timestamp_utc": "2026-11-20T17:13:09.000Z",
-      "timestamp_est": "2026-11-20T12:13:09-05:00",
-      "tweet_text": "@NoBSoracle1 Corrections are a normal and healthy part of bull markets. Most bull markets historically have 5-7 corrections of 10% or more.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure educational commentary about bull market corrections with no price levels named or actionable triggers of any kind."
-    },
-    {
-      "tweet_id": "2123828510351573185",
-      "timestamp_utc": "2026-11-20T17:19:10.000Z",
-      "timestamp_est": "2026-11-20T12:19:10-05:00",
-      "tweet_text": "@BaronCorvo1911 Won't be any buyers until we can recover a key level like 7120 now",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7120 is effectively a reaffirmation of morning-plan level 7122.5 (rounding/approximation); no genuinely new actionable level introduced."
-    },
-    {
-      "tweet_id": "2123828753977442801",
-      "timestamp_utc": "2026-11-20T17:20:08.000Z",
-      "timestamp_est": "2026-11-20T12:20:08-05:00",
-      "tweet_text": "@bryce_schilling Typically its a slower, bullish week given the holiday trading. But technicals drive price far more than seasonals do",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure commentary on seasonal tendencies and technicals; no price levels named or actionable entries/exits mentioned."
-    },
-    {
-      "tweet_id": "2123829526341767602",
-      "timestamp_utc": "2026-11-20T17:23:12.000Z",
-      "timestamp_est": "2026-11-20T12:23:12-05:00",
-      "tweet_text": "We continue to grind to 7025 support in #ES_F and little to do here as volatility has died. Its been a clean session. Bears controlled below 7210/23. We got the 7120 reclaim long, hit 7210/23 target, and sold\n\nFor later today/next week, 7086 reclaim now sees 7105, 7120+ https://t.co/s3gE0aD624",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7025/7086/7105/7120 are observations or casual references; 7210/23 already in morning plan. No new actionable levels with naming language introduced."
-    },
-    {
-      "tweet_id": "2123829593169592736",
-      "timestamp_utc": "2026-11-20T17:23:28.000Z",
-      "timestamp_est": "2026-11-20T12:23:28-05:00",
-      "tweet_text": "@JohnSantil65902 7306-09 is the big one",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7306-09 midpoint ~7307.5 maps to morning plan level 7307.0; this is a reaffirmation of an existing level, not a new one."
-    },
-    {
-      "tweet_id": "2123836992190357592",
-      "timestamp_utc": "2026-11-20T17:52:52.000Z",
-      "timestamp_est": "2026-11-20T12:52:52-05:00",
-      "tweet_text": "@PermaFader Its been a drip lower for last few hours - no volatiljty. From a day traders perspective no different than a grinding up green day",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary about low volatility price action. No prices named, no actionable levels, no naming language used."
-    },
     {
       "tweet_id": "2123849512103948394",
       "timestamp_utc": "2026-11-20T18:42:37.000Z",
@@ -539,6 +134,62 @@
       ],
       "added_bear_levels": [],
       "notes": "6960 named as FBD reclaim trigger for Sunday and 7025 as next level above \u2014 both actionable, first-time named, not in morning plan."
+    },
+    {
+      "tweet_id": "2124136426799235525",
+      "timestamp_utc": "2026-11-21T13:42:43.000Z",
+      "timestamp_est": "2026-11-21T08:42:43-05:00",
+      "tweet_text": "Big Picture View: Since Aug, #ES_F was contained in a big megaphone pattern with 7309 support. This week it failed &amp; we sold. ES also lost its trendline from April 2025. Bears control&lt;7309\n\nPlan:  6897=big support. 7125 reclaim now sees 7223, 7309 backtest. Sell there. 6770 below https://t.co/uVLTWPGFDH",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        6770.0
+      ],
+      "notes": "6770 is named explicitly as next bear target/support below 6897 \u2014 not in morning plan. 7125/7223/7309 are reaffirmations of published levels."
+    },
+    {
+      "tweet_id": "2124136452812591154",
+      "timestamp_utc": "2026-11-21T13:42:49.000Z",
+      "timestamp_est": "2026-11-21T08:42:49-05:00",
+      "tweet_text": "@venkyguda457 Typo, corrected",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a reply about a typo correction with no price levels or actionable content whatsoever."
+    },
+    {
+      "tweet_id": "2124136868895973632",
+      "timestamp_utc": "2026-11-21T13:44:28.000Z",
+      "timestamp_est": "2026-11-21T08:44:28-05:00",
+      "tweet_text": "@axecapaxelrod Many times, its not uncommon. Last similar action was April 2025 (that was far worse though because we dropped ~1000 points in 3 days)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational/historical commentary comparing current action to April 2025 drop. No actionable price level named."
+    },
+    {
+      "tweet_id": "2124137227093491840",
+      "timestamp_utc": "2026-11-21T13:45:54.000Z",
+      "timestamp_est": "2026-11-21T08:45:54-05:00",
+      "tweet_text": "@OnTheHooch We've lost a big support so default has to become backtest and down. We could always recover it though - ES loves V bottoms. Have to respect the support failure though",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure directional commentary on a support failure with no specific price named; 'big support' is unquantified and no actionable level is introduced."
+    },
+    {
+      "tweet_id": "2124197395651309753",
+      "timestamp_utc": "2026-11-21T17:44:59.000Z",
+      "timestamp_est": "2026-11-21T12:44:59-05:00",
+      "tweet_text": "@TheTypeCo Megaphones aren't predictive structures and dont have a clear resolution bias one way or another. We can simply react depending on what way it breaks. The clear drawdown after support fell out at 7309 clearly validates the structure",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Reply explaining megaphone structure behavior; 7309 is a reaffirmation of morning plan level 7307.5 and used as hindsight observation, not a new actionable level."
+    },
+    {
+      "tweet_id": "2124197850334527909",
+      "timestamp_utc": "2026-11-21T17:46:47.000Z",
+      "timestamp_est": "2026-11-21T12:46:47-05:00",
+      "tweet_text": "@AMandra79 Simply because we broke down two structures (uptrend line and megaphone at 7309). We need to then assume bears control until they recover. A backtest is very likely",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7309 is essentially 7307.5/7306 from morning plan; tweet is structural commentary/observation, no new actionable price named."
     }
   ]
 }
