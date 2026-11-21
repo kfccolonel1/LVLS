@@ -1,0 +1,58 @@
+[
+  {
+    "tweet_id": "2124136426799235525",
+    "timestamp_est": "2026-11-21T08:42:43-05:00",
+    "timestamp_utc": "2026-11-21T13:42:43.000Z",
+    "tweet_text": "Big Picture View: Since Aug, #ES_F was contained in a big megaphone pattern with 7309 support. This week it failed &amp; we sold. ES also lost its trendline from April 2025. Bears control&lt;7309\n\nPlan:  6897=big support. 7125 reclaim now sees 7223, 7309 backtest. Sell there. 6770 below https://t.co/uVLTWPGFDH",
+    "added_bull_levels": [],
+    "added_bear_levels": [
+      6770.0
+    ],
+    "notes": "6770 is named explicitly as next bear target/support below 6897 \u2014 not in morning plan. 7125/7223/7309 are reaffirmations of published levels."
+  },
+  {
+    "tweet_id": "2124136452812591154",
+    "timestamp_est": "2026-11-21T08:42:49-05:00",
+    "timestamp_utc": "2026-11-21T13:42:49.000Z",
+    "tweet_text": "@venkyguda457 Typo, corrected",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet is a reply about a typo correction with no price levels or actionable content whatsoever."
+  },
+  {
+    "tweet_id": "2124136868895973632",
+    "timestamp_est": "2026-11-21T08:44:28-05:00",
+    "timestamp_utc": "2026-11-21T13:44:28.000Z",
+    "tweet_text": "@axecapaxelrod Many times, its not uncommon. Last similar action was April 2025 (that was far worse though because we dropped ~1000 points in 3 days)",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure conversational/historical commentary comparing current action to April 2025 drop. No actionable price level named."
+  },
+  {
+    "tweet_id": "2124137227093491840",
+    "timestamp_est": "2026-11-21T08:45:54-05:00",
+    "timestamp_utc": "2026-11-21T13:45:54.000Z",
+    "tweet_text": "@OnTheHooch We've lost a big support so default has to become backtest and down. We could always recover it though - ES loves V bottoms. Have to respect the support failure though",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure directional commentary on a support failure with no specific price named; 'big support' is unquantified and no actionable level is introduced."
+  },
+  {
+    "tweet_id": "2124197395651309753",
+    "timestamp_est": "2026-11-21T12:44:59-05:00",
+    "timestamp_utc": "2026-11-21T17:44:59.000Z",
+    "tweet_text": "@TheTypeCo Megaphones aren't predictive structures and dont have a clear resolution bias one way or another. We can simply react depending on what way it breaks. The clear drawdown after support fell out at 7309 clearly validates the structure",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining megaphone structure behavior; 7309 is a reaffirmation of morning plan level 7307.5 and used as hindsight observation, not a new actionable level."
+  },
+  {
+    "tweet_id": "2124197850334527909",
+    "timestamp_est": "2026-11-21T12:46:47-05:00",
+    "timestamp_utc": "2026-11-21T17:46:47.000Z",
+    "tweet_text": "@AMandra79 Simply because we broke down two structures (uptrend line and megaphone at 7309). We need to then assume bears control until they recover. A backtest is very likely",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7309 is essentially 7307.5/7306 from morning plan; tweet is structural commentary/observation, no new actionable price named."
+  }
+]
