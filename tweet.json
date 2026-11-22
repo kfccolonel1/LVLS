@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-22T18:07:19.144823+00:00",
-  "fetched_at_est": "2026-11-22T13:07:19.144828-05:00",
+  "fetched_at_utc": "2026-11-22T19:07:16.583663+00:00",
+  "fetched_at_est": "2026-11-22T14:07:16.583669-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -23,6 +23,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure motivational/educational commentary about trading process and consistency. No prices, levels, or actionable references of any kind."
+    },
+    {
+      "tweet_id": "2124579695735771250",
+      "timestamp_utc": "2026-11-22T19:04:06.000Z",
+      "timestamp_est": "2026-11-22T14:04:06-05:00",
+      "tweet_text": "@DartNQ Need an edge that works over thousands of trades and across every market condition",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a promotional/conversational reply with no price levels named whatsoever."
     }
   ]
 }
