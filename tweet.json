@@ -1,49 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-22T05:00:49.063514+00:00",
-  "fetched_at_est": "2026-11-22T00:00:49.063519-05:00",
+  "fetched_at_utc": "2026-11-22T13:46:30.558588+00:00",
+  "fetched_at_est": "2026-11-22T08:46:30.558592-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124136426799235525",
-      "timestamp_utc": "2026-11-21T13:42:43.000Z",
-      "timestamp_est": "2026-11-21T08:42:43-05:00",
-      "tweet_text": "Big Picture View: Since Aug, #ES_F was contained in a big megaphone pattern with 7309 support. This week it failed &amp; we sold. ES also lost its trendline from April 2025. Bears control&lt;7309\n\nPlan:  6897=big support. 7125 reclaim now sees 7223, 7309 backtest. Sell there. 6770 below https://t.co/uVLTWPGFDH",
-      "added_bull_levels": [],
-      "added_bear_levels": [
-        6770.0
-      ],
-      "notes": "6770 is named explicitly as next bear target/support below 6897 \u2014 not in morning plan. 7125/7223/7309 are reaffirmations of published levels."
-    },
-    {
-      "tweet_id": "2124136452812591154",
-      "timestamp_utc": "2026-11-21T13:42:49.000Z",
-      "timestamp_est": "2026-11-21T08:42:49-05:00",
-      "tweet_text": "@venkyguda457 Typo, corrected",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a reply about a typo correction with no price levels or actionable content whatsoever."
-    },
-    {
-      "tweet_id": "2124136868895973632",
-      "timestamp_utc": "2026-11-21T13:44:28.000Z",
-      "timestamp_est": "2026-11-21T08:44:28-05:00",
-      "tweet_text": "@axecapaxelrod Many times, its not uncommon. Last similar action was April 2025 (that was far worse though because we dropped ~1000 points in 3 days)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure conversational/historical commentary comparing current action to April 2025 drop. No actionable price level named."
-    },
-    {
-      "tweet_id": "2124137227093491840",
-      "timestamp_utc": "2026-11-21T13:45:54.000Z",
-      "timestamp_est": "2026-11-21T08:45:54-05:00",
-      "tweet_text": "@OnTheHooch We've lost a big support so default has to become backtest and down. We could always recover it though - ES loves V bottoms. Have to respect the support failure though",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure directional commentary on a support failure with no specific price named; 'big support' is unquantified and no actionable level is introduced."
-    },
     {
       "tweet_id": "2124197395651309753",
       "timestamp_utc": "2026-11-21T17:44:59.000Z",
