@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-22T13:46:30.558588+00:00",
-  "fetched_at_est": "2026-11-22T08:46:30.558592-05:00",
+  "fetched_at_utc": "2026-11-22T17:47:11.315195+00:00",
+  "fetched_at_est": "2026-11-22T12:47:11.315202-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124197395651309753",
-      "timestamp_utc": "2026-11-21T17:44:59.000Z",
-      "timestamp_est": "2026-11-21T12:44:59-05:00",
-      "tweet_text": "@TheTypeCo Megaphones aren't predictive structures and dont have a clear resolution bias one way or another. We can simply react depending on what way it breaks. The clear drawdown after support fell out at 7309 clearly validates the structure",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply explaining megaphone structure behavior; 7309 is a reaffirmation of morning plan level 7307.5 and used as hindsight observation, not a new actionable level."
-    },
-    {
-      "tweet_id": "2124197850334527909",
-      "timestamp_utc": "2026-11-21T17:46:47.000Z",
-      "timestamp_est": "2026-11-21T12:46:47-05:00",
-      "tweet_text": "@AMandra79 Simply because we broke down two structures (uptrend line and megaphone at 7309). We need to then assume bears control until they recover. A backtest is very likely",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7309 is essentially 7307.5/7306 from morning plan; tweet is structural commentary/observation, no new actionable price named."
-    },
     {
       "tweet_id": "2124239359004262506",
       "timestamp_utc": "2026-11-21T20:31:44.000Z",
