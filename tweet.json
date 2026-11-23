@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-22T20:32:33.112391+00:00",
-  "fetched_at_est": "2026-11-22T15:32:33.112398-05:00",
+  "fetched_at_utc": "2026-11-23T12:58:46.741349+00:00",
+  "fetched_at_est": "2026-11-23T07:58:46.741354-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -23,6 +23,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a promotional/conversational reply with no price levels named whatsoever."
+    },
+    {
+      "tweet_id": "2124849125472784625",
+      "timestamp_utc": "2026-11-23T12:54:43.000Z",
+      "timestamp_est": "2026-11-23T07:54:43-05:00",
+      "tweet_text": "After Friday's deep sell, Sunday opened as it always does after a red Friday: With a gap up and Failed Breakdown long. Per newsletter, 7025 reclaim was the highest quality trade for today. We triggered and went +120. Protect gains\n\nPlan: 7086, 7057=supports. 7105, 7125, 7152 next https://t.co/shkkVXLQT6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7025/7086/7057/7105/7125/7152 are all morning-plan levels or reaffirmations; 7105 not in plan but framed as a directional list recap, no explicit 'new/added/key/watching' naming language."
     }
   ]
 }
