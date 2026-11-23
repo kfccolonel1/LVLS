@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-23T14:04:10.520233+00:00",
-  "fetched_at_est": "2026-11-23T09:04:10.520245-05:00",
+  "fetched_at_utc": "2026-11-23T14:09:20.155623+00:00",
+  "fetched_at_est": "2026-11-23T09:09:20.155635-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -59,6 +59,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary on ES price behavior pattern; no price levels named, no actionable language, no new levels introduced."
+    },
+    {
+      "tweet_id": "2124866768388886950",
+      "timestamp_utc": "2026-11-23T14:04:50.000Z",
+      "timestamp_est": "2026-11-23T09:04:50-05:00",
+      "tweet_text": "There's 7223 bonus hit. Our long from the 7025 Failed Breakdown (which I explictly gave in Friday's newsletter and called the highest quality trade today) is +213 points. Missed that? At 750am I gave 7086 support free, it held. 7223 target.\n\nWrap it up &amp; ride runner. 7306-09 next https://t.co/V4GAE1jujQ",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7223, 7025, 7086, 7306-09) are already in the morning plan. This is trade management/hindsight recap, no new actionable levels."
+    },
+    {
+      "tweet_id": "2124866877805760749",
+      "timestamp_utc": "2026-11-23T14:05:16.000Z",
+      "timestamp_est": "2026-11-23T09:05:16-05:00",
+      "tweet_text": "https://t.co/UI2qtqPwsW",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a URL with no extractable text content; no price levels or actionable language can be identified."
+    },
+    {
+      "tweet_id": "2124867637691957461",
+      "timestamp_utc": "2026-11-23T14:08:17.000Z",
+      "timestamp_est": "2026-11-23T09:08:17-05:00",
+      "tweet_text": "@OnTheHooch Not an issue for me, since I never short!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about trading style; no price levels mentioned or implied."
     }
   ]
 }
