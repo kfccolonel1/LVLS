@@ -153,5 +153,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply to user confirming a backtest is complete; no price levels named, no actionable language, purely conversational."
+  },
+  {
+    "tweet_id": "2124904495691825181",
+    "timestamp_est": "2026-11-23T11:34:45-05:00",
+    "timestamp_utc": "2026-11-23T16:34:45.000Z",
+    "tweet_text": "@tradivate ITs just because we had a big down day Friday. The law in ES states that every elevator down gets a proportionally (or usually more) violent squeeze",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Pure market commentary about mean reversion/squeeze dynamics after a down day; no price level named or actionable trigger identified."
   }
 ]
