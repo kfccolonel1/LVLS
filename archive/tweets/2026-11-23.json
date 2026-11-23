@@ -189,5 +189,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Tweet is a parenthetical clarification/typo note with no price named and no actionable level introduced."
+  },
+  {
+    "tweet_id": "2124907282232402383",
+    "timestamp_est": "2026-11-23T11:45:49-05:00",
+    "timestamp_utc": "2026-11-23T16:45:49.000Z",
+    "tweet_text": "@newbiza40 I sell 75% at first target, but I use full ES contracts. Can also do it with MES",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet explaining trade management/sizing methodology. No actionable price levels named."
+  },
+  {
+    "tweet_id": "2124907413799379352",
+    "timestamp_est": "2026-11-23T11:46:20-05:00",
+    "timestamp_utc": "2026-11-23T16:46:20.000Z",
+    "tweet_text": "@leftcoastoilboy If bulls can recover yes,  but as discussed in newsletter bears retain full control below 7306-09",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7306-09 maps to morning plan levels 7306.0/7307.5; this is a reaffirmation of existing levels, not a new one."
   }
 ]
