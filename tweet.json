@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-23T14:09:20.155623+00:00",
-  "fetched_at_est": "2026-11-23T09:09:20.155635-05:00",
+  "fetched_at_utc": "2026-11-23T14:19:27.671809+00:00",
+  "fetched_at_est": "2026-11-23T09:19:27.671814-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -86,6 +86,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure conversational reply about trading style; no price levels mentioned or implied."
+    },
+    {
+      "tweet_id": "2124869888296849718",
+      "timestamp_utc": "2026-11-23T14:17:14.000Z",
+      "timestamp_est": "2026-11-23T09:17:14-05:00",
+      "tweet_text": "@ashwagamma Hopefully people can understand why I don't short and why I only trade these! I've got many brand new followers who have never seen red in ES before and don't understand how the sell/squeeze cycle works. They;re learning today hopefully",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary about followers and trading philosophy; no price levels named or referenced whatsoever."
     }
   ]
 }
