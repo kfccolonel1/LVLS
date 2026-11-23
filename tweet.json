@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-23T14:19:27.671809+00:00",
-  "fetched_at_est": "2026-11-23T09:19:27.671814-05:00",
+  "fetched_at_utc": "2026-11-23T14:24:36.425847+00:00",
+  "fetched_at_est": "2026-11-23T09:24:36.425861-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -95,6 +95,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure commentary about followers and trading philosophy; no price levels named or referenced whatsoever."
+    },
+    {
+      "tweet_id": "2124870998964977950",
+      "timestamp_utc": "2026-11-23T14:21:39.000Z",
+      "timestamp_est": "2026-11-23T09:21:39-05:00",
+      "tweet_text": "Its technical perfection in #ES_F. Today's long was given in advance, explictly as always in newsletter: The 7025 shelf recovery. Up we went and we are now +240 on this. For those who missed it, I gave 7086 support free at 750AM. Targets were 7223 (hit), 7306-09 bonus.\n\nRide https://t.co/7oGKzsK9Uc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7025, 7086, 7223, 7306-09) are already in today's morning plan. This is a hindsight recap/reaffirmation, not a new actionable level."
+    },
+    {
+      "tweet_id": "2124871067328258539",
+      "timestamp_utc": "2026-11-23T14:21:55.000Z",
+      "timestamp_est": "2026-11-23T09:21:55-05:00",
+      "tweet_text": "https://t.co/5DPeRrfmTC",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a URL with no extractable text or price levels to analyze."
     }
   ]
 }
