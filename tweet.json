@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-23T18:06:27.960236+00:00",
-  "fetched_at_est": "2026-11-23T13:06:27.960242-05:00",
+  "fetched_at_utc": "2026-11-23T19:06:41.903344+00:00",
+  "fetched_at_est": "2026-11-23T14:06:41.903349-05:00",
   "last_new_level_added_at_est": "2026-11-23T10:51:33-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2124579695735771250",
-      "timestamp_utc": "2026-11-22T19:04:06.000Z",
-      "timestamp_est": "2026-11-22T14:04:06-05:00",
-      "tweet_text": "@DartNQ Need an edge that works over thousands of trades and across every market condition",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a promotional/conversational reply with no price levels named whatsoever."
-    },
     {
       "tweet_id": "2124849125472784625",
       "timestamp_utc": "2026-11-23T12:54:43.000Z",
@@ -249,6 +240,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7025, 7223, 7306-09) are in the morning plan. Tweet is a hindsight recap of newsletter levels hitting targets \u2014 no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2124941517663994117",
+      "timestamp_utc": "2026-11-23T19:01:51.000Z",
+      "timestamp_est": "2026-11-23T14:01:51-05:00",
+      "tweet_text": "As warned today is done in #ES_F. It played out perfect. 7025 reclaim was today's long given in newsletter. Targets were 7223, and 7306-09 to backtest Thursday's breakdown. We backtested 7306-09. Its the bull/bear line that determines the rest of 2026\n\n7223 backtest held https://t.co/G2XQJkxEoc",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7025, 7223, 7306-09) are morning-plan levels; tweet is hindsight recap of targets hit, no new actionable levels introduced."
     }
   ]
 }
