@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-23T16:50:59.025442+00:00",
-  "fetched_at_est": "2026-11-23T11:50:59.025455-05:00",
+  "fetched_at_utc": "2026-11-23T17:31:11.911354+00:00",
+  "fetched_at_est": "2026-11-23T12:31:11.911359-05:00",
   "last_new_level_added_at_est": "2026-11-23T10:51:33-05:00",
   "todays_new_levels": [
     {
@@ -240,6 +240,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7306-09 maps to morning plan levels 7306.0/7307.5; this is a reaffirmation of existing levels, not a new one."
+    },
+    {
+      "tweet_id": "2124918569972736286",
+      "timestamp_utc": "2026-11-23T17:30:40.000Z",
+      "timestamp_est": "2026-11-23T12:30:40-05:00",
+      "tweet_text": "@NYJets2017 @OnTheHooch Always a mix. Entry is skill, follow through size is luck, but ES was almost certianly going to  backtest 7306-09. Whether it took a day or two weeks - thats the luck component",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7306-09 is a reaffirmation of morning plan levels (7306/7307.5); tweet is conversational commentary on trade philosophy, no new actionable level named."
     }
   ]
 }
