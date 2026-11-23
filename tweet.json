@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-23T16:35:39.383830+00:00",
-  "fetched_at_est": "2026-11-23T11:35:39.383834-05:00",
+  "fetched_at_utc": "2026-11-23T16:45:50.395723+00:00",
+  "fetched_at_est": "2026-11-23T11:45:50.395735-05:00",
   "last_new_level_added_at_est": "2026-11-23T10:51:33-05:00",
   "todays_new_levels": [
     {
@@ -195,6 +195,33 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure market commentary about mean reversion/squeeze dynamics after a down day; no price level named or actionable trigger identified."
+    },
+    {
+      "tweet_id": "2124906638020669824",
+      "timestamp_utc": "2026-11-23T16:43:16.000Z",
+      "timestamp_est": "2026-11-23T11:43:16-05:00",
+      "tweet_text": "We had charting 101 today, all given in advance. 7025 reclaim (given in newsletter) got us long on Sunday at 620pm. Target was 7306-09 which I've discussed extensively (this backtests the shelf we broke down Wednesday - short there per newsletter).\n\nDown we went. Work done https://t.co/J9R1tzl0sR",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure hindsight recap referencing morning-plan levels (7025, 7306-09). No new actionable levels named."
+    },
+    {
+      "tweet_id": "2124906843122155597",
+      "timestamp_utc": "2026-11-23T16:44:04.000Z",
+      "timestamp_est": "2026-11-23T11:44:04-05:00",
+      "tweet_text": "Note: 7306-09 must reclaim now to start next sequence up. No change to levels from newsletter. Will not be giving out more entries here today https://t.co/dykr3xzYn5",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7306-09 midpoint ~7307.5 is already in morning plan. 'No change to levels' confirms reaffirmation only; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2124907167614386580",
+      "timestamp_utc": "2026-11-23T16:45:22.000Z",
+      "timestamp_est": "2026-11-23T11:45:22-05:00",
+      "tweet_text": "(typo, shelf we broke down Thursday)",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a parenthetical clarification/typo note with no price named and no actionable level introduced."
     }
   ]
 }
