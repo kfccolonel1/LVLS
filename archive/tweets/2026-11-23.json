@@ -234,5 +234,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "All prices mentioned (7025, 7223, 7306-09) are morning-plan levels; tweet is hindsight recap of targets hit, no new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2124953647536619667",
+    "timestamp_est": "2026-11-23T14:50:03-05:00",
+    "timestamp_utc": "2026-11-23T19:50:03.000Z",
+    "tweet_text": "@jesuspatiee Played out literally perfectly within a few points margin",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply tweet confirming a trade played out well; no price named, no actionable level introduced."
+  },
+  {
+    "tweet_id": "2124954001938829525",
+    "timestamp_est": "2026-11-23T14:51:28-05:00",
+    "timestamp_utc": "2026-11-23T19:51:28.000Z",
+    "tweet_text": "Note: Newsletter sent early with next slate of entries. Today was very educational - we saw the elevator down (Friday), Failed Breakdown (Sunday of 7025 to get us long), backtest (of 7306-09) sequence today. ES repeats this sequence over and over. Now, the cycle restarts.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Educational recap referencing existing morning-plan levels (7025, 7306-09). No new actionable price named with naming language."
   }
 ]
