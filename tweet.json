@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-23T16:05:28.424446+00:00",
-  "fetched_at_est": "2026-11-23T11:05:28.424451-05:00",
+  "fetched_at_utc": "2026-11-23T16:35:39.383830+00:00",
+  "fetched_at_est": "2026-11-23T11:35:39.383834-05:00",
   "last_new_level_added_at_est": "2026-11-23T10:51:33-05:00",
   "todays_new_levels": [
     {
@@ -186,6 +186,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply to user confirming a backtest is complete; no price levels named, no actionable language, purely conversational."
+    },
+    {
+      "tweet_id": "2124904495691825181",
+      "timestamp_utc": "2026-11-23T16:34:45.000Z",
+      "timestamp_est": "2026-11-23T11:34:45-05:00",
+      "tweet_text": "@tradivate ITs just because we had a big down day Friday. The law in ES states that every elevator down gets a proportionally (or usually more) violent squeeze",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure market commentary about mean reversion/squeeze dynamics after a down day; no price level named or actionable trigger identified."
     }
   ]
 }
