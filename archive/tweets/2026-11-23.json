@@ -88,5 +88,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Tweet is a URL with no extractable text or price levels to analyze."
+  },
+  {
+    "tweet_id": "2124875428112261442",
+    "timestamp_est": "2026-11-23T09:39:14-05:00",
+    "timestamp_utc": "2026-11-23T14:39:14.000Z",
+    "tweet_text": "@usfirst2478 The longs triggered at 620pm last evening and the 7086 support was given at 750AM",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7086 is already in the morning plan; tweet is a hindsight reference to prior triggers/support, not a new actionable level."
   }
 ]
