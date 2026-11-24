@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T18:50:17.645494+00:00",
-  "fetched_at_est": "2026-11-24T13:50:17.645494-05:00",
+  "fetched_at_utc": "2026-11-24T19:01:58.937161+00:00",
+  "fetched_at_est": "2026-11-24T14:01:58.937166-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124941517663994117",
-      "timestamp_utc": "2026-11-23T19:01:51.000Z",
-      "timestamp_est": "2026-11-23T14:01:51-05:00",
-      "tweet_text": "As warned today is done in #ES_F. It played out perfect. 7025 reclaim was today's long given in newsletter. Targets were 7223, and 7306-09 to backtest Thursday's breakdown. We backtested 7306-09. Its the bull/bear line that determines the rest of 2026\n\n7223 backtest held https://t.co/G2XQJkxEoc",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7025, 7223, 7306-09) are morning-plan levels; tweet is hindsight recap of targets hit, no new actionable levels introduced."
-    },
     {
       "tweet_id": "2124953647536619667",
       "timestamp_utc": "2026-11-23T19:50:03.000Z",
