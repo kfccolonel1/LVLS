@@ -25,5 +25,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "No price levels mentioned at all; tweet is a meta-comment about subscription content, not an actionable level."
+  },
+  {
+    "tweet_id": "2125214835151630685",
+    "timestamp_est": "2026-11-24T08:07:55-05:00",
+    "timestamp_utc": "2026-11-24T13:07:55.000Z",
+    "tweet_text": "@Mister7dollars It varies depending on how volatile we are. Might be something like 5-20 points though. If we are very volatile and making huge moves I'll skip the first profit profit take if we are really ripping.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply explaining trade management/profit-taking approach with no specific price levels named; purely conversational methodology discussion."
   }
 ]
