@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T16:46:10.340892+00:00",
-  "fetched_at_est": "2026-11-24T11:46:10.340897-05:00",
+  "fetched_at_utc": "2026-11-24T16:48:02.726849+00:00",
+  "fetched_at_est": "2026-11-24T11:48:02.726849-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124907413799379352",
-      "timestamp_utc": "2026-11-23T16:46:20.000Z",
-      "timestamp_est": "2026-11-23T11:46:20-05:00",
-      "tweet_text": "@leftcoastoilboy If bulls can recover yes,  but as discussed in newsletter bears retain full control below 7306-09",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7306-09 maps to morning plan levels 7306.0/7307.5; this is a reaffirmation of existing levels, not a new one."
-    },
     {
       "tweet_id": "2124918569972736286",
       "timestamp_utc": "2026-11-23T17:30:40.000Z",
@@ -148,7 +139,7 @@
       "tweet_text": "More technical perfection today in #ES_F. The long was the 7170 reclaim given this morning (both here &amp; in newsletter). Targets were 7178, 7192, 7223. We hit 7223 and sold. I warned to lock in your profits\n\nNow noise, low quality. 7170 reclaim still active but low quality. https://t.co/UHxUBdEQSp",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All levels (7170, 7178, 7192, 7223) are morning-plan levels or execution/target references. No new actionable levels introduced."
+      "notes": "All mentioned prices (7170, 7178, 7192, 7223) are morning-plan levels or observations of targets hit; no new actionable levels introduced."
     }
   ]
 }
