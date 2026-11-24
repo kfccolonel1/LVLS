@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T17:58:45.576555+00:00",
-  "fetched_at_est": "2026-11-24T12:58:45.576555-05:00",
+  "fetched_at_utc": "2026-11-24T18:21:42.406026+00:00",
+  "fetched_at_est": "2026-11-24T13:21:42.406032-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Pure trade management/commentary ('ride runner', 'big day of gains'). No new price levels named or actionable triggers given."
+    },
+    {
+      "tweet_id": "2125292571672883386",
+      "timestamp_utc": "2026-11-24T18:16:49.000Z",
+      "timestamp_est": "2026-11-24T13:16:49-05:00",
+      "tweet_text": "Highly precise levels today in #ES_F. 7170 was support with reclaims there triggering us long. 7223 was target. We swept 7170 2x, ripped to 7223 twice. Next up we head back to 7306-09 for the second crack at the \"bull/bear line\". From there, bulls can take back control to 7405 https://t.co/036EsdRLVK",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7170, 7223, 7306-09, 7405) are already in the morning plan. This is a reaffirmation/recap of existing levels, not new actionable levels."
     }
   ]
 }
