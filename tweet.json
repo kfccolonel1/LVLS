@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T14:41:50.244759+00:00",
-  "fetched_at_est": "2026-11-24T09:41:50.244763-05:00",
+  "fetched_at_utc": "2026-11-24T14:46:53.406846+00:00",
+  "fetched_at_est": "2026-11-24T09:46:53.406851-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124876244726460849",
-      "timestamp_utc": "2026-11-23T14:42:29.000Z",
-      "timestamp_est": "2026-11-23T09:42:29-05:00",
-      "tweet_text": "Today done in #ES_F this was one of the biggest trades of 2026. 7025 Reclaim was our long triggered on Sunday at 620pm and we went +250. 7086 was support given free at 750am, held exact. All targets hit 7105, 7125, 7152. 7180, 7192, 7223 bonus.\n\nRide runner. Levels in newsletter https://t.co/k4lx3TF7eq",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure hindsight recap of morning-plan levels (7025, 7086, 7105, 7125, 7152, 7180, 7192, 7223) already published. No new actionable levels named."
-    },
     {
       "tweet_id": "2124893624890794448",
       "timestamp_utc": "2026-11-23T15:51:33.000Z",
