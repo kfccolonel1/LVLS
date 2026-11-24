@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T15:07:07.772023+00:00",
-  "fetched_at_est": "2026-11-24T10:07:07.772028-05:00",
+  "fetched_at_utc": "2026-11-24T15:52:19.430808+00:00",
+  "fetched_at_est": "2026-11-24T10:52:19.430812-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124893624890794448",
-      "timestamp_utc": "2026-11-23T15:51:33.000Z",
-      "timestamp_est": "2026-11-23T10:51:33-05:00",
-      "tweet_text": "There it is: 7306-09 hit and this has been a technically perfect move. The long trigger was the 7025 reclaim given in newsletter. The target was the backtest of 7306-09. We hit it exact for a 288 point long and dipped. Charting 101.\n\nWork is done here, 7306-09 reclaim sees 7405 https://t.co/J9R1tzlyip",
-      "added_bull_levels": [
-        7405.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7405 is named as a new upside target if 7306-09 is reclaimed \u2014 not in morning plan, explicitly actionable as a bull target."
-    },
     {
       "tweet_id": "2124894563248537847",
       "timestamp_utc": "2026-11-23T15:55:17.000Z",
