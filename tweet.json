@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T17:28:14.599882+00:00",
-  "fetched_at_est": "2026-11-24T12:28:14.599882-05:00",
+  "fetched_at_utc": "2026-11-24T17:31:28.265995+00:00",
+  "fetched_at_est": "2026-11-24T12:31:28.266007-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124918569972736286",
-      "timestamp_utc": "2026-11-23T17:30:40.000Z",
-      "timestamp_est": "2026-11-23T12:30:40-05:00",
-      "tweet_text": "@NYJets2017 @OnTheHooch Always a mix. Entry is skill, follow through size is luck, but ES was almost certianly going to  backtest 7306-09. Whether it took a day or two weeks - thats the luck component",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7306-09 is a reaffirmation of morning plan levels (7306/7307.5); tweet is conversational commentary on trade philosophy, no new actionable level named."
-    },
     {
       "tweet_id": "2124925545200701795",
       "timestamp_utc": "2026-11-23T17:58:23.000Z",
@@ -149,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (7025, 7309, 7170, 7223, 7306, 7309) are in the morning plan or are hindsight/reaffirmation references to already-published levels."
+    },
+    {
+      "tweet_id": "2125280364088160351",
+      "timestamp_utc": "2026-11-24T17:28:19.000Z",
+      "timestamp_est": "2026-11-24T12:28:19-05:00",
+      "tweet_text": "Note: I cant repeat the full context in every tweet, please refer to the newsletter or my big picture view for the full control levels. For now, just ride runner, its been another big day of gains https://t.co/r1ETu55Ud7",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure trade management/commentary ('ride runner', 'big day of gains'). No new price level named or made actionable."
     }
   ]
 }
