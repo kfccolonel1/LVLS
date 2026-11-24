@@ -1,47 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T16:37:56.467436+00:00",
-  "fetched_at_est": "2026-11-24T11:37:56.467436-05:00",
+  "fetched_at_utc": "2026-11-24T16:46:10.340892+00:00",
+  "fetched_at_est": "2026-11-24T11:46:10.340897-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124906638020669824",
-      "timestamp_utc": "2026-11-23T16:43:16.000Z",
-      "timestamp_est": "2026-11-23T11:43:16-05:00",
-      "tweet_text": "We had charting 101 today, all given in advance. 7025 reclaim (given in newsletter) got us long on Sunday at 620pm. Target was 7306-09 which I've discussed extensively (this backtests the shelf we broke down Wednesday - short there per newsletter).\n\nDown we went. Work done https://t.co/J9R1tzl0sR",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure hindsight recap referencing morning-plan levels (7025, 7306-09). No new actionable levels named."
-    },
-    {
-      "tweet_id": "2124906843122155597",
-      "timestamp_utc": "2026-11-23T16:44:04.000Z",
-      "timestamp_est": "2026-11-23T11:44:04-05:00",
-      "tweet_text": "Note: 7306-09 must reclaim now to start next sequence up. No change to levels from newsletter. Will not be giving out more entries here today https://t.co/dykr3xzYn5",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7306-09 midpoint ~7307.5 is already in morning plan. 'No change to levels' confirms reaffirmation only; no new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2124907167614386580",
-      "timestamp_utc": "2026-11-23T16:45:22.000Z",
-      "timestamp_est": "2026-11-23T11:45:22-05:00",
-      "tweet_text": "(typo, shelf we broke down Thursday)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Tweet is a parenthetical clarification/typo note with no price named and no actionable level introduced."
-    },
-    {
-      "tweet_id": "2124907282232402383",
-      "timestamp_utc": "2026-11-23T16:45:49.000Z",
-      "timestamp_est": "2026-11-23T11:45:49-05:00",
-      "tweet_text": "@newbiza40 I sell 75% at first target, but I use full ES contracts. Can also do it with MES",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet explaining trade management/sizing methodology. No actionable price levels named."
-    },
     {
       "tweet_id": "2124907413799379352",
       "timestamp_utc": "2026-11-23T16:46:20.000Z",
@@ -176,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a casual conversational reply with no price levels, no actionable language, and no market content whatsoever."
+    },
+    {
+      "tweet_id": "2125269451096682502",
+      "timestamp_utc": "2026-11-24T16:44:57.000Z",
+      "timestamp_est": "2026-11-24T11:44:57-05:00",
+      "tweet_text": "More technical perfection today in #ES_F. The long was the 7170 reclaim given this morning (both here &amp; in newsletter). Targets were 7178, 7192, 7223. We hit 7223 and sold. I warned to lock in your profits\n\nNow noise, low quality. 7170 reclaim still active but low quality. https://t.co/UHxUBdEQSp",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All levels (7170, 7178, 7192, 7223) are morning-plan levels or execution/target references. No new actionable levels introduced."
     }
   ]
 }
