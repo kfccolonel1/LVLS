@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T16:48:02.726849+00:00",
-  "fetched_at_est": "2026-11-24T11:48:02.726849-05:00",
+  "fetched_at_utc": "2026-11-24T17:28:14.599882+00:00",
+  "fetched_at_est": "2026-11-24T12:28:14.599882-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -140,6 +140,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All mentioned prices (7170, 7178, 7192, 7223) are morning-plan levels or observations of targets hit; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2125280107543896392",
+      "timestamp_utc": "2026-11-24T17:27:18.000Z",
+      "timestamp_est": "2026-11-24T12:27:18-05:00",
+      "tweet_text": "After the big trade yesterday (7025 Sunday Failed Breakdown to 7309 target) we are now in chop, but we are getting trades today also in #ES_F. 7170 Failed Breakdown was given live + newsletter with 7223 target and we've done it twice.\n\n7306-09 remains above. Then bulls control https://t.co/dWUEEKLbXf",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (7025, 7309, 7170, 7223, 7306, 7309) are in the morning plan or are hindsight/reaffirmation references to already-published levels."
     }
   ]
 }
