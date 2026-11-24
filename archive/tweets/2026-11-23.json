@@ -252,5 +252,23 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Educational recap referencing existing morning-plan levels (7025, 7306-09). No new actionable price named with naming language."
+  },
+  {
+    "tweet_id": "2125081822417535380",
+    "timestamp_est": "2026-11-23T23:19:23-05:00",
+    "timestamp_utc": "2026-11-24T04:19:23.000Z",
+    "tweet_text": "@HandsomeBear Will do better next time!",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet is a casual conversational reply with no price levels, no actionable language, and no trading content whatsoever."
+  },
+  {
+    "tweet_id": "2125081964718039207",
+    "timestamp_est": "2026-11-23T23:19:57-05:00",
+    "timestamp_utc": "2026-11-24T04:19:57.000Z",
+    "tweet_text": "@Mikeag68 Consolidating now under 7306-09 - typically good for bulls",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7306-09 is a reaffirmation of morning-plan levels (7306/7307.5); comment is observational price action, not a new actionable level."
   }
 ]
