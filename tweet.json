@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T17:38:28.300770+00:00",
-  "fetched_at_est": "2026-11-24T12:38:28.300770-05:00",
+  "fetched_at_utc": "2026-11-24T17:58:45.576555+00:00",
+  "fetched_at_est": "2026-11-24T12:58:45.576555-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2124925545200701795",
-      "timestamp_utc": "2026-11-23T17:58:23.000Z",
-      "timestamp_est": "2026-11-23T12:58:23-05:00",
-      "tweet_text": "Today is wrapped in #ES_F. 7025 Failed Breakdown was today's long entry given in newsletter. We triggered at 620m. Targets were 7223, and 7306-09. We hit 7306-09, and sold. This backtests the Thursday breakdown. Bull/bear line, bulls take control above\n\n7223 backtest has held https://t.co/Qy40MRFhVC",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7025, 7223, 7306-09) are in the morning plan. Tweet is a hindsight recap of newsletter levels hitting targets \u2014 no new actionable levels introduced."
-    },
     {
       "tweet_id": "2124941517663994117",
       "timestamp_utc": "2026-11-23T19:01:51.000Z",
