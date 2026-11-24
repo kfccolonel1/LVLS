@@ -1,0 +1,174 @@
+{
+  "session_date": "2026-11-24",
+  "daily_pivot": 7306.0,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7242.0,
+    7223.0,
+    7210.0,
+    7192.0,
+    7170.0,
+    7140.0,
+    7122.0,
+    7105.0,
+    7086.0,
+    7070.0,
+    7052.0,
+    7025.0,
+    7002.0,
+    6992.0,
+    6975.0,
+    6965.0,
+    6930.0,
+    6911.0,
+    6879.0,
+    6860.0,
+    6845.0,
+    6811.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7277.0,
+      "major": true
+    },
+    {
+      "price": 7298.0,
+      "major": true
+    },
+    {
+      "price": 7309.0,
+      "major": true
+    },
+    {
+      "price": 7320.0,
+      "major": true
+    },
+    {
+      "price": 7333.0,
+      "major": true
+    },
+    {
+      "price": 7361.0,
+      "major": true
+    },
+    {
+      "price": 7380.0,
+      "major": true
+    },
+    {
+      "price": 7404.0,
+      "major": true
+    },
+    {
+      "price": 7424.0,
+      "major": true
+    },
+    {
+      "price": 7457.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7519.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7242.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7210.0,
+      "major": true
+    },
+    {
+      "price": 7192.0,
+      "major": true
+    },
+    {
+      "price": 7170.0,
+      "major": true
+    },
+    {
+      "price": 7140.0,
+      "major": true
+    },
+    {
+      "price": 7122.0,
+      "major": true
+    },
+    {
+      "price": 7105.0,
+      "major": true
+    },
+    {
+      "price": 7086.0,
+      "major": true
+    },
+    {
+      "price": 7070.0,
+      "major": true
+    },
+    {
+      "price": 7052.0,
+      "major": true
+    },
+    {
+      "price": 7025.0,
+      "major": true
+    },
+    {
+      "price": 7002.0,
+      "major": true
+    },
+    {
+      "price": 6992.0,
+      "major": true
+    },
+    {
+      "price": 6975.0,
+      "major": true
+    },
+    {
+      "price": 6965.0,
+      "major": true
+    },
+    {
+      "price": 6930.0,
+      "major": true
+    },
+    {
+      "price": 6911.0,
+      "major": true
+    },
+    {
+      "price": 6879.0,
+      "major": true
+    },
+    {
+      "price": 6860.0,
+      "major": true
+    },
+    {
+      "price": 6845.0,
+      "major": true
+    },
+    {
+      "price": 6811.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader leans bullish after Sunday's failed-breakdown bounce off 7025 ripped 200+ points. He expects ES to retest and potentially recover the 7306-09 shelf, then push toward 7405. He will not chase; instead he waits for another sharp sell and a failed-breakdown setup before entering. Key pivot is 7306: above it bulls gradually regain control; below it bears remain in charge and the bounce is just a dead-cat.",
+  "fetched_at": "2026-11-24T13:44:26.376417+00:00",
+  "source_hash": "a32e1a0260335769"
+}
