@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-24T13:11:13.834384+00:00",
-  "fetched_at_est": "2026-11-24T08:11:13.834388-05:00",
+  "fetched_at_utc": "2026-11-24T13:21:21.655311+00:00",
+  "fetched_at_est": "2026-11-24T08:21:21.655316-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -304,6 +304,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Reply explaining trade management/profit-taking approach with no specific price levels named; purely conversational methodology discussion."
+    },
+    {
+      "tweet_id": "2125217496588255345",
+      "timestamp_utc": "2026-11-24T13:18:30.000Z",
+      "timestamp_est": "2026-11-24T08:18:30-05:00",
+      "tweet_text": "While all the actual entries for this were given to newsletter readers, the high level overview was posted here Sat. I was looking for a rally to 7309, then sell. We rallied ~350 points to ~7309, sold\n\n7140 next support, 7086 below. 7170 reclaims to rally to 7178, 7192, 7223. https://t.co/j8u92GnYM6",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7309 is hindsight recap; 7140/7086/7170/7178/7192/7223 are either morning-plan levels or observations of support/resistance without new naming language."
     }
   ]
 }
