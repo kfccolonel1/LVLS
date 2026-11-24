@@ -106,5 +106,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Reply tweet confirming bulls passed a test \u2014 no price named, no actionable level, pure conversational observation."
+  },
+  {
+    "tweet_id": "2125303986014023992",
+    "timestamp_est": "2026-11-24T14:02:11-05:00",
+    "timestamp_utc": "2026-11-24T19:02:11.000Z",
+    "tweet_text": "@OnTheHooch Looking a like a bull flag structurally since yesterday",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply to user describing a bull flag pattern \u2014 no price named, purely structural/observational commentary, no actionable level introduced."
   }
 ]
