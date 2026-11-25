@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T17:45:46.106118+00:00",
-  "fetched_at_est": "2026-11-25T12:45:46.106123-05:00",
+  "fetched_at_utc": "2026-11-25T18:15:58.443646+00:00",
+  "fetched_at_est": "2026-11-25T13:15:58.443651-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -251,6 +251,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (6992,7025,7039,7052,7072,7087,7105,7150,7223,7306-09) are hindsight references or reaffirmations of morning-plan levels; no new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2125653556682211352",
+      "timestamp_utc": "2026-11-25T18:11:15.000Z",
+      "timestamp_est": "2026-11-25T13:11:15-05:00",
+      "tweet_text": "@CorlukaDejan I would just say that bears reluctance to make new lows off that 7306-09 backtest is very constructive for bulls. Likely take another crack at 7306-09 then can talk 7405, 7519 as discussed in newsletter",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "7306-09, 7405 (\u22487404), and 7519 are all morning-plan levels; this is a reaffirmation/reply with no new actionable prices introduced."
     }
   ]
 }
