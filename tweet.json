@@ -1,20 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T16:10:19.074387+00:00",
-  "fetched_at_est": "2026-11-25T11:10:19.074392-05:00",
+  "fetched_at_utc": "2026-11-25T16:45:29.160529+00:00",
+  "fetched_at_est": "2026-11-25T11:45:29.160534-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2125269451096682502",
-      "timestamp_utc": "2026-11-24T16:44:57.000Z",
-      "timestamp_est": "2026-11-24T11:44:57-05:00",
-      "tweet_text": "More technical perfection today in #ES_F. The long was the 7170 reclaim given this morning (both here &amp; in newsletter). Targets were 7178, 7192, 7223. We hit 7223 and sold. I warned to lock in your profits\n\nNow noise, low quality. 7170 reclaim still active but low quality. https://t.co/UHxUBdEQSp",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (7170, 7178, 7192, 7223) are morning-plan levels or observations of targets hit; no new actionable levels introduced."
-    },
     {
       "tweet_id": "2125280107543896392",
       "timestamp_utc": "2026-11-24T17:27:18.000Z",
