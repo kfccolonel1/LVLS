@@ -163,7 +163,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is holding a small long runner from Wednesday's bounce off 6992 and leans bullish, expecting ES to drift up toward 7306 again over the holiday-shortened session. The key dividing line is 7306: above it, bulls begin regaining control and the next targets are 7405 and 7519; below it, bears remain in charge. If ES sells off hard, he will wait for a failed-breakdown trigger before adding any new longs rather than chasing.",
-  "fetched_at": "2026-11-25T21:46:49.899107+00:00",
-  "source_hash": "60a1eca13d2f35bb"
+  "notes": "Trader holds a small long runner and leans bullish, expecting ES to drift up toward 7306-7309 again (Thanksgiving-week tendency). That 7306-7309 zone is the key pivot: bulls regain control above it and can target 7405 then 7519; bears stay in charge below it. He will not chase but will wait for another sharp drop followed by a failed breakdown of a major low before adding any new position.",
+  "fetched_at": "2026-11-25T22:17:39.551088+00:00",
+  "source_hash": "1505146b32460d86"
 }
