@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T18:21:02.976502+00:00",
-  "fetched_at_est": "2026-11-25T13:21:02.976508-05:00",
+  "fetched_at_utc": "2026-11-25T18:31:10.190422+00:00",
+  "fetched_at_est": "2026-11-25T13:31:10.190428-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -251,6 +251,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7306-09, 7405 (\u22487404), and 7519 are all morning-plan levels; this is a reaffirmation/reply with no new actionable prices introduced."
+    },
+    {
+      "tweet_id": "2125657416477946199",
+      "timestamp_utc": "2026-11-25T18:26:35.000Z",
+      "timestamp_est": "2026-11-25T13:26:35-05:00",
+      "tweet_text": "@BrianMelcher24 Seasonally strong couple days incoming!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure conversational reply about seasonal patterns; no price named, no actionable level, no naming language whatsoever."
     }
   ]
 }
