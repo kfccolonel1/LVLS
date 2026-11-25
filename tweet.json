@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T14:57:26.269381+00:00",
-  "fetched_at_est": "2026-11-25T09:57:26.269381-05:00",
+  "fetched_at_utc": "2026-11-25T14:59:56.236873+00:00",
+  "fetched_at_est": "2026-11-25T09:59:56.236889-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -221,6 +221,24 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7025/7052/7072/6992 are all morning-plan reaffirmations or observations of active trades; 7039 is a scalp target reference, not a newly named major level."
+    },
+    {
+      "tweet_id": "2125604792001269801",
+      "timestamp_utc": "2026-11-25T14:57:28.000Z",
+      "timestamp_est": "2026-11-25T09:57:28-05:00",
+      "tweet_text": "@mailboxlampwhat The 6992 newsletter long for today. Worked nicely!",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Hindsight reference to a newsletter long at 6992 (near morning plan 6988); no new actionable level named, just trade outcome commentary."
+    },
+    {
+      "tweet_id": "2125605228913254863",
+      "timestamp_utc": "2026-11-25T14:59:13.000Z",
+      "timestamp_est": "2026-11-25T09:59:13-05:00",
+      "tweet_text": "The last few days have been a nearly free money printer for the edge in #ES_F. Latest long given was the 6992 Failed Breakdown from newsletter. We are +60. 10mins ago, I also gave the 7025 reclaim free here. Targets given were 7039, 7052, 7072.\n\n7086, 7105+ bonus for runners https://t.co/pcQA0rG6fM",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "All prices mentioned (6992 FBD, 7025, 7039, 7052, 7072, 7086, 7105) are trade management/hindsight refs or already in morning plan. No new actionable levels named."
     }
   ]
 }
