@@ -115,5 +115,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Tweet contains only a URL with no actionable price levels named, no naming language, and no new levels to extract."
+  },
+  {
+    "tweet_id": "2125612055516610824",
+    "timestamp_est": "2026-11-25T10:26:20-05:00",
+    "timestamp_utc": "2026-11-25T15:26:20.000Z",
+    "tweet_text": "@Jbuehler777 Likely wrapped up for me today unless we can take out the Friday low from here. Don't want to push my luck before a holiday session!",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No specific price named; 'Friday low' is a vague reference with no explicit price, and tweet is trade-wrap commentary, not an actionable level."
   }
 ]
