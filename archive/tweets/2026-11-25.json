@@ -96,7 +96,7 @@
     "tweet_text": "@mailboxlampwhat The 6992 newsletter long for today. Worked nicely!",
     "added_bull_levels": [],
     "added_bear_levels": [],
-    "notes": "Hindsight reference to a newsletter long at 6992 (near morning plan 6988); no new actionable level named, just trade outcome commentary."
+    "notes": "Hindsight reference to a newsletter long at ~6992 (near existing 6988 plan level). No new actionable level named; purely a recap comment."
   },
   {
     "tweet_id": "2125605228913254863",
@@ -105,6 +105,15 @@
     "tweet_text": "The last few days have been a nearly free money printer for the edge in #ES_F. Latest long given was the 6992 Failed Breakdown from newsletter. We are +60. 10mins ago, I also gave the 7025 reclaim free here. Targets given were 7039, 7052, 7072.\n\n7086, 7105+ bonus for runners https://t.co/pcQA0rG6fM",
     "added_bull_levels": [],
     "added_bear_levels": [],
-    "notes": "All prices mentioned (6992 FBD, 7025, 7039, 7052, 7072, 7086, 7105) are trade management/hindsight refs or already in morning plan. No new actionable levels named."
+    "notes": "All prices mentioned (6992 FBD, 7025, 7039, 7052, 7072, 7086, 7105) are either morning plan levels or hindsight trade results/targets already given. No new actionable levels introduced."
+  },
+  {
+    "tweet_id": "2125605456479502505",
+    "timestamp_est": "2026-11-25T10:00:07-05:00",
+    "timestamp_utc": "2026-11-25T15:00:07.000Z",
+    "tweet_text": "Last tweet before this one: https://t.co/fqHbRVSw7s",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet contains only a URL with no actionable price levels named, no naming language, and no new levels to extract."
   }
 ]
