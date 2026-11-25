@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T19:31:36.014892+00:00",
-  "fetched_at_est": "2026-11-25T14:31:36.014898-05:00",
+  "fetched_at_utc": "2026-11-25T20:31:27.482286+00:00",
+  "fetched_at_est": "2026-11-25T15:31:27.482286-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -178,7 +178,7 @@
       "tweet_text": "That was perfect - now chop. Just protect your profits in #ES_F. 6992 Failed Breakdown was newsletter long. 7025 reclaim was free long given here. Targets were 7039, 7052, 7072. We ran to ~7072, sold.\n\n7087, 7105, 7150 are bonus for today. Same levels/triggers https://t.co/WZeloV4pOp",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "7150 is not in morning plan but framed as 'bonus' in a directional list\u2014no actionable naming language (key/watch/trigger/added). All other prices are morning-plan reaffirmations or observations."
+      "notes": "All mentioned prices (6992, 7025, 7039, 7052, 7072, 7087, 7105, 7150) are morning-plan levels, hindsight references, or hit targets \u2014 no genuinely new actionable levels named."
     },
     {
       "tweet_id": "2125646053152354550",
@@ -187,7 +187,7 @@
       "tweet_text": "Today has been perfect in #ES_F. 6992 Failed Breakdown was the newsletter long. The 7025 recovery was given free here. Targets given were 7039, 7052, 7072. All Hit. Bonus slate were 7087, 7105, 7150. 7150 next, then we head to 7223, 7306-09 to retest the bull/bear line again https://t.co/REGnh05DGJ",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All prices mentioned (6992,7025,7039,7052,7072,7087,7105,7150,7223,7306-09) are hindsight references or reaffirmations of morning-plan levels; no new actionable levels introduced."
+      "notes": "All prices mentioned (6992,7025,7039,7052,7072,7087,7105,7150,7223,7306-09) are prior targets/morning-plan levels or hindsight reaffirmations; no new actionable level introduced."
     },
     {
       "tweet_id": "2125653556682211352",
@@ -196,7 +196,13 @@
       "tweet_text": "@CorlukaDejan I would just say that bears reluctance to make new lows off that 7306-09 backtest is very constructive for bulls. Likely take another crack at 7306-09 then can talk 7405, 7519 as discussed in newsletter",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "7306-09, 7405 (\u22487404), and 7519 are all morning-plan levels; this is a reaffirmation/reply with no new actionable prices introduced."
+      "notes": "7306-09 (~7307.5), 7405 (~7404), and 7519 are all morning-plan levels; 'as discussed in newsletter' confirms reaffirmation, not new levels.",
+      "reply_to": {
+        "tweet_id": "2125650775288254482",
+        "username": "CorlukaDejan",
+        "text": "@AdamMancini4 Adam if i am reading this correctly , we have flag(sell 200) , we spend some time below flag support +fbd sunday opening low, reclaim that support , +100 and we didnt breakout yet. If we break this flag 7400 on the deck ? Ofc we dont predict how we get there .",
+        "created_at": "2026-11-25T18:00:12.000Z"
+      }
     },
     {
       "tweet_id": "2125657416477946199",
@@ -205,7 +211,13 @@
       "tweet_text": "@BrianMelcher24 Seasonally strong couple days incoming!",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Pure conversational reply about seasonal patterns; no price named, no actionable level, no naming language whatsoever."
+      "notes": "Pure conversational reply about seasonal tendencies; no price named, no actionable level of any kind.",
+      "reply_to": {
+        "tweet_id": "2125651611292954820",
+        "username": "BrianMelcher24",
+        "text": "@AdamMancini4 No idea if that was the bottom but I bought a bunch of turkey legs full of stuff this morning, here's hoping it holds.  7300 please.",
+        "created_at": "2026-11-25T18:03:31.000Z"
+      }
     },
     {
       "tweet_id": "2125663304924184856",
@@ -214,7 +226,7 @@
       "tweet_text": "Incredible conditions in #ES_F. Our long was the 6993 Sunday low Failed Breakdown. This was given explictly and clearly in the last newsletter. I gave the 7025 reclaim free here as a lower quality entry. Targets were 7087, 7105, 7150. All hit. 7223 was next (incoming), then 7309 https://t.co/zEZcbupLSI",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All prices mentioned (6993 entry, 7025, 7087, 7105, 7150, 7223, 7309) are hindsight/newsletter references or reaffirmations of morning plan levels \u2014 no new actionable levels introduced."
+      "notes": "All prices mentioned (6993 entry, 7025, 7087, 7105, 7150, 7223, 7309) are hindsight references to prior newsletter/morning-plan levels already hit or reaffirmations. No new actionable levels named."
     },
     {
       "tweet_id": "2125663375577264178",
