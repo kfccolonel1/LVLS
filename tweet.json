@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T14:59:56.236873+00:00",
-  "fetched_at_est": "2026-11-25T09:59:56.236889-05:00",
+  "fetched_at_utc": "2026-11-25T15:02:41.536035+00:00",
+  "fetched_at_est": "2026-11-25T10:02:41.536035-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
@@ -229,7 +229,13 @@
       "tweet_text": "@mailboxlampwhat The 6992 newsletter long for today. Worked nicely!",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "Hindsight reference to a newsletter long at 6992 (near morning plan 6988); no new actionable level named, just trade outcome commentary."
+      "notes": "Hindsight reference to a newsletter long at ~6992 (near existing 6988 plan level). No new actionable level named; purely a recap comment.",
+      "reply_to": {
+        "tweet_id": "2125604335635538339",
+        "username": "mailboxlampwhat",
+        "text": "@AdamMancini4 what is 7992 fbd?",
+        "created_at": "2026-11-25T14:55:40.000Z"
+      }
     },
     {
       "tweet_id": "2125605228913254863",
@@ -238,7 +244,16 @@
       "tweet_text": "The last few days have been a nearly free money printer for the edge in #ES_F. Latest long given was the 6992 Failed Breakdown from newsletter. We are +60. 10mins ago, I also gave the 7025 reclaim free here. Targets given were 7039, 7052, 7072.\n\n7086, 7105+ bonus for runners https://t.co/pcQA0rG6fM",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "All prices mentioned (6992 FBD, 7025, 7039, 7052, 7072, 7086, 7105) are trade management/hindsight refs or already in morning plan. No new actionable levels named."
+      "notes": "All prices mentioned (6992 FBD, 7025, 7039, 7052, 7072, 7086, 7105) are either morning plan levels or hindsight trade results/targets already given. No new actionable levels introduced."
+    },
+    {
+      "tweet_id": "2125605456479502505",
+      "timestamp_utc": "2026-11-25T15:00:07.000Z",
+      "timestamp_est": "2026-11-25T10:00:07-05:00",
+      "tweet_text": "Last tweet before this one: https://t.co/fqHbRVSw7s",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet contains only a URL with no actionable price levels named, no naming language, and no new levels to extract."
     }
   ]
 }
