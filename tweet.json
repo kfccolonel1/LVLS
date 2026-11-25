@@ -1,29 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T16:45:29.160529+00:00",
-  "fetched_at_est": "2026-11-25T11:45:29.160534-05:00",
+  "fetched_at_utc": "2026-11-25T17:30:39.413777+00:00",
+  "fetched_at_est": "2026-11-25T12:30:39.413783-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2125280107543896392",
-      "timestamp_utc": "2026-11-24T17:27:18.000Z",
-      "timestamp_est": "2026-11-24T12:27:18-05:00",
-      "tweet_text": "After the big trade yesterday (7025 Sunday Failed Breakdown to 7309 target) we are now in chop, but we are getting trades today also in #ES_F. 7170 Failed Breakdown was given live + newsletter with 7223 target and we've done it twice.\n\n7306-09 remains above. Then bulls control https://t.co/dWUEEKLbXf",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7025, 7309, 7170, 7223, 7306, 7309) are in the morning plan or are hindsight/reaffirmation references to already-published levels."
-    },
-    {
-      "tweet_id": "2125280364088160351",
-      "timestamp_utc": "2026-11-24T17:28:19.000Z",
-      "timestamp_est": "2026-11-24T12:28:19-05:00",
-      "tweet_text": "Note: I cant repeat the full context in every tweet, please refer to the newsletter or my big picture view for the full control levels. For now, just ride runner, its been another big day of gains https://t.co/r1ETu55Ud7",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure trade management/commentary ('ride runner', 'big day of gains'). No new price levels named or actionable triggers given."
-    },
     {
       "tweet_id": "2125292571672883386",
       "timestamp_utc": "2026-11-24T18:16:49.000Z",
