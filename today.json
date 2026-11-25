@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-26",
-  "daily_pivot": 7306.25,
+  "daily_pivot": 7306.0,
   "regime_hint": "C4",
   "significant_lows": [
     7185.0,
@@ -163,7 +163,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is holding a small long runner from today's bounce off 6992 and leans toward ES retesting the 7306-7309 area again, then pushing toward 7405. He will not add longs by chasing; he waits for a sharp sell-off followed by a failed breakdown setup. The pivot is 7306-7309: above it bulls regain control and the next targets are 7405 and 7519; below it bears remain in charge. Markets close early Thursday for Thanksgiving.",
-  "fetched_at": "2026-11-25T21:26:24.844863+00:00",
-  "source_hash": "b9dcc61396996fa5"
+  "notes": "Trader is holding a small long runner from Wednesday's bounce off 6992 and leans bullish, expecting ES to drift up toward 7306 again over the holiday-shortened session. The key dividing line is 7306: above it, bulls begin regaining control and the next targets are 7405 and 7519; below it, bears remain in charge. If ES sells off hard, he will wait for a failed-breakdown trigger before adding any new longs rather than chasing.",
+  "fetched_at": "2026-11-25T21:46:49.899107+00:00",
+  "source_hash": "60a1eca13d2f35bb"
 }
