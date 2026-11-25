@@ -7,5 +7,41 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "All prices mentioned (7025, 7306-09, 7086, 7092, 7105, 7122, 7052) are either morning-plan levels or observations/reaffirmations. 7092 is minor interim but not named with qualifying language."
+  },
+  {
+    "tweet_id": "2125576169135149167",
+    "timestamp_est": "2026-11-25T08:03:44-05:00",
+    "timestamp_utc": "2026-11-25T13:03:44.000Z",
+    "tweet_text": "@PJTrades500 What about it? There are great entries down there also discussed in newsletter if are lucky enough to go elevator down more",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Reply to user, no specific price named, no actionable level introduced \u2014 purely conversational reference to newsletter levels already published."
+  },
+  {
+    "tweet_id": "2125576303382335893",
+    "timestamp_est": "2026-11-25T08:04:16-05:00",
+    "timestamp_utc": "2026-11-25T13:04:16.000Z",
+    "tweet_text": "@NYJets2017 Theres a shelf there, the higher low is at 86",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Conversational reply referencing a 'higher low at 86' (likely 7486) \u2014 no explicit actionable naming language; observation only, not a new major level."
+  },
+  {
+    "tweet_id": "2125576454331146672",
+    "timestamp_est": "2026-11-25T08:04:52-05:00",
+    "timestamp_utc": "2026-11-25T13:04:52.000Z",
+    "tweet_text": "@Krishna1028_ I discuss the 7309 level very extensively in newsletter but its just a simple backtest shelf. We broke it down Thursday, backtested yesterday, down we go again as bears keep control.",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7309 is a conversational explanation/hindsight reference to existing shelf (~7307.5 in plan); no actionable naming language used, just describing past price action."
+  },
+  {
+    "tweet_id": "2125576681872114138",
+    "timestamp_est": "2026-11-25T08:05:46-05:00",
+    "timestamp_utc": "2026-11-25T13:05:46.000Z",
+    "tweet_text": "@OnTheHooch Don't want to see much lower if your a bull especially since ES hasnt recovered any big levels yet like 7306-09",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7306-09 is a reaffirmation of morning plan levels (7306, 7307.5). Conversational reply, no new actionable level introduced."
   }
 ]
