@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-26T16:08:32.381010+00:00",
-  "fetched_at_est": "2026-11-26T11:08:32.381015-05:00",
+  "fetched_at_utc": "2026-11-26T16:48:42.645144+00:00",
+  "fetched_at_est": "2026-11-26T11:48:42.645148-05:00",
   "last_new_level_added_at_est": "2026-11-26T07:41:08-05:00",
   "todays_new_levels": [
     {
@@ -81,6 +81,15 @@
       ],
       "added_bear_levels": [],
       "notes": "7295 is named as a new sequential target ('then 7295') not in the morning plan. 7277, 7306-09, 7216/23 are all existing morning-plan levels."
+    },
+    {
+      "tweet_id": "2125994482630074518",
+      "timestamp_utc": "2026-11-26T16:45:58.000Z",
+      "timestamp_est": "2026-11-26T11:45:58-05:00",
+      "tweet_text": "@OnTheHooch Its a little riskier but generally fine as long as theres no huge resistances nearby. Really just have to read the momentum etc, so hard to establish a general rule for that one",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Conversational reply about trade management philosophy; no price levels named or referenced whatsoever."
     }
   ]
 }
