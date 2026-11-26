@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-26T15:28:24.020592+00:00",
-  "fetched_at_est": "2026-11-26T10:28:24.020599-05:00",
+  "fetched_at_utc": "2026-11-26T16:08:32.381010+00:00",
+  "fetched_at_est": "2026-11-26T11:08:32.381015-05:00",
   "last_new_level_added_at_est": "2026-11-26T07:41:08-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2125622248794886438",
-      "timestamp_utc": "2026-11-25T16:06:50.000Z",
-      "timestamp_est": "2026-11-25T11:06:50-05:00",
-      "tweet_text": "That was perfect - now chop. Just protect your profits in #ES_F. 6992 Failed Breakdown was newsletter long. 7025 reclaim was free long given here. Targets were 7039, 7052, 7072. We ran to ~7072, sold.\n\n7087, 7105, 7150 are bonus for today. Same levels/triggers https://t.co/WZeloV4pOp",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All mentioned prices (6992, 7025, 7039, 7052, 7072, 7087, 7105, 7150) are morning-plan levels, hindsight references, or hit targets \u2014 no genuinely new actionable levels named."
-    },
     {
       "tweet_id": "2125646053152354550",
       "timestamp_utc": "2026-11-25T17:41:26.000Z",
