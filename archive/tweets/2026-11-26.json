@@ -18,5 +18,25 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Conversational reply about trade management philosophy; no price levels named or referenced whatsoever."
+  },
+  {
+    "tweet_id": "2125997798382612850",
+    "timestamp_est": "2026-11-26T11:59:08-05:00",
+    "timestamp_utc": "2026-11-26T16:59:08.000Z",
+    "tweet_text": "Nothing happened today in #ES_F as we consolidate yesterday's run. 6993 Failed Breakdown yesterday (of the Sunday low - given in newsletter) got us long. 7223 was the major target, hit.\n\nNow flagging out. 7223/16=support. 7277 is next, then 7295, 7306-09 for the second test https://t.co/OKcp014cYf",
+    "added_bull_levels": [
+      7295.0
+    ],
+    "added_bear_levels": [],
+    "notes": "7295 named as a next target level not in morning plan. 7223/16 and 7277 and 7306-09 are reaffirmations of published levels (7223, 7277, 7307.5)."
+  },
+  {
+    "tweet_id": "2125997864853610771",
+    "timestamp_est": "2026-11-26T11:59:24-05:00",
+    "timestamp_utc": "2026-11-26T16:59:24.000Z",
+    "tweet_text": "Note: Newsletter was sent yesterday and applies for today and tomorrow",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "No prices mentioned at all; tweet is purely administrative, noting newsletter applicability for today and tomorrow."
   }
 ]
