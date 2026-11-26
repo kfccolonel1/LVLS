@@ -1,119 +1,19 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-25T20:31:27.482286+00:00",
-  "fetched_at_est": "2026-11-25T15:31:27.482286-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-11-26T14:33:06.348444+00:00",
+  "fetched_at_est": "2026-11-26T09:33:06.348448-05:00",
+  "last_new_level_added_at_est": "2026-11-26T07:41:08-05:00",
+  "todays_new_levels": [
+    {
+      "price": 7295.0,
+      "side": "bull",
+      "added_at_est": "2026-11-26T07:41:08-05:00",
+      "expires_at_est": "2026-11-26T15:41:08-05:00",
+      "from_tweet_id": "2125932868878615034"
+    }
+  ],
   "updates": [
-    {
-      "tweet_id": "2125566646962053434",
-      "timestamp_utc": "2026-11-25T12:25:54.000Z",
-      "timestamp_est": "2026-11-25T07:25:54-05:00",
-      "tweet_text": "This week has been technical perfection in #ES_F. 7025 Sunday triggered Failed Breakdown long for us. Target was 7306-09 to backtest Thursday's breakdown zone. Sell there, we hit it, and sold. Bears control &lt; 7306-08\n\nPlan: 7086 reclaim to see 7092, 7105, 7122+. 7052, 7025 below https://t.co/ClUYBfz4i7",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7025, 7306-09, 7086, 7092, 7105, 7122, 7052) are either morning-plan levels or observations/reaffirmations. 7092 is minor interim but not named with qualifying language."
-    },
-    {
-      "tweet_id": "2125576169135149167",
-      "timestamp_utc": "2026-11-25T13:03:44.000Z",
-      "timestamp_est": "2026-11-25T08:03:44-05:00",
-      "tweet_text": "@PJTrades500 What about it? There are great entries down there also discussed in newsletter if are lucky enough to go elevator down more",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply to user, no specific price named, no actionable level introduced \u2014 purely conversational reference to newsletter levels already published.",
-      "reply_to": {
-        "tweet_id": "2125575331109085416",
-        "username": "PJTrades500",
-        "text": "@AdamMancini4 What about that gap in the low 6978?",
-        "created_at": "2026-11-25T13:00:24.000Z"
-      }
-    },
-    {
-      "tweet_id": "2125576303382335893",
-      "timestamp_utc": "2026-11-25T13:04:16.000Z",
-      "timestamp_est": "2026-11-25T08:04:16-05:00",
-      "tweet_text": "@NYJets2017 Theres a shelf there, the higher low is at 86",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Conversational reply referencing a 'higher low at 86' (likely 7486) \u2014 no explicit actionable naming language; observation only, not a new major level.",
-      "reply_to": {
-        "tweet_id": "2125568087223361624",
-        "username": "NYJets2017",
-        "text": "@AdamMancini4 Why not the actual low at 82.25? Why 86? \n\nAsking for the NL community \n\nThank you!",
-        "created_at": "2026-11-25T12:31:37.000Z"
-      }
-    },
-    {
-      "tweet_id": "2125576454331146672",
-      "timestamp_utc": "2026-11-25T13:04:52.000Z",
-      "timestamp_est": "2026-11-25T08:04:52-05:00",
-      "tweet_text": "@Krishna1028_ I discuss the 7309 level very extensively in newsletter but its just a simple backtest shelf. We broke it down Thursday, backtested yesterday, down we go again as bears keep control.",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7309 is a conversational explanation/hindsight reference to existing shelf (~7307.5 in plan); no actionable naming language used, just describing past price action.",
-      "reply_to": {
-        "tweet_id": "2125568143900938507",
-        "username": "Krishna1028_",
-        "text": "@AdamMancini4 How do you even pick levels that precise",
-        "created_at": "2026-11-25T12:31:51.000Z"
-      }
-    },
-    {
-      "tweet_id": "2125576681872114138",
-      "timestamp_utc": "2026-11-25T13:05:46.000Z",
-      "timestamp_est": "2026-11-25T08:05:46-05:00",
-      "tweet_text": "@OnTheHooch Don't want to see much lower if your a bull especially since ES hasnt recovered any big levels yet like 7306-09",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "7306-09 is a reaffirmation of morning plan levels (7306, 7307.5). Conversational reply, no new actionable level introduced.",
-      "reply_to": {
-        "tweet_id": "2125567901071757460",
-        "username": "OnTheHooch",
-        "text": "@AdamMancini4 Bears got their move, see if bulls can push it back up after data.",
-        "created_at": "2026-11-25T12:30:53.000Z"
-      }
-    },
-    {
-      "tweet_id": "2125578614708261108",
-      "timestamp_utc": "2026-11-25T13:13:27.000Z",
-      "timestamp_est": "2026-11-25T08:13:27-05:00",
-      "tweet_text": "@OnTheHooch @PJTrades500 Like a rubber band  being pulled back! The more red we see, the more violent and frequent the rips are (like we saw Sunday/Monday/Yesterday)",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Pure market commentary/analogy about volatility and price action. No actionable price levels named.",
-      "reply_to": {
-        "tweet_id": "2125576930389061756",
-        "username": "OnTheHooch",
-        "text": "@AdamMancini4 @PJTrades500 You're wanting more red!!!  \ud83d\ude02  I guess we got a lot of movement overnight, might as well keep dropping!",
-        "created_at": "2026-11-25T13:06:46.000Z"
-      }
-    },
-    {
-      "tweet_id": "2125584624428445979",
-      "timestamp_utc": "2026-11-25T13:37:20.000Z",
-      "timestamp_est": "2026-11-25T08:37:20-05:00",
-      "tweet_text": "Action slow in #ES_F today. Its all about 7306-09. We lost it last Thursday, bears took over. This week, I was looking for a rip there, then sell. We ran 280+ points there, and down we went. Bears control&lt;7306-09\n\n7086 must reclaim today to see 7092, 7105, 7122+. 7052, 7025 below https://t.co/YlN3Hdc4aK",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (7306-09, 7086, 7092, 7105, 7122, 7052, 7025) are reaffirmations of morning plan levels or observations of prior price action. No new actionable levels introduced."
-    },
-    {
-      "tweet_id": "2125590762196803911",
-      "timestamp_utc": "2026-11-25T14:01:43.000Z",
-      "timestamp_est": "2026-11-25T09:01:43-05:00",
-      "tweet_text": "@sallore102 Yes, bears control. But I dont trade predictions, I trade my edge",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "Reply tweet expressing trading philosophy only; no price levels named, no actionable entries, targets, or triggers of any kind.",
-      "reply_to": {
-        "tweet_id": "2125588717771325457",
-        "username": "sallore102",
-        "text": "@AdamMancini4 Adam\nCorrect me if i am mistaken, as predicted here /megaphone pattern &amp; firm reject of the bull bear line, shouldn\u2019t it go lower than Friday\u2019s lows https://t.co/wiksEzMBsD",
-        "created_at": "2026-11-25T13:53:36.000Z"
-      }
-    },
     {
       "tweet_id": "2125604705678262780",
       "timestamp_utc": "2026-11-25T14:57:08.000Z",
@@ -236,6 +136,17 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "Tweet is a URL with no extractable text or price levels to analyze."
+    },
+    {
+      "tweet_id": "2125932868878615034",
+      "timestamp_utc": "2026-11-26T12:41:08.000Z",
+      "timestamp_est": "2026-11-26T07:41:08-05:00",
+      "tweet_text": "NYSE closed today and #ES_F closes at 1pm. The last long was the 6993 Sunday low Failed Breakdown given in newsletter. Today we just ride the runner on this. Targets were given here live: 7087, 7105, 7150, 7223. All hit\n\nPlan: 7277 is next, then 7295, 7306-09. 7216/23=support https://t.co/hm4OmENs6j",
+      "added_bull_levels": [
+        7295.0
+      ],
+      "added_bear_levels": [],
+      "notes": "7295 is named as a new sequential target ('then 7295') not in the morning plan. 7277, 7306-09, 7216/23 are all existing morning-plan levels."
     }
   ]
 }
