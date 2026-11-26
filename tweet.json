@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-26T17:03:52.981711+00:00",
-  "fetched_at_est": "2026-11-26T12:03:52.981722-05:00",
+  "fetched_at_utc": "2026-11-26T17:44:03.037797+00:00",
+  "fetched_at_est": "2026-11-26T12:44:03.037803-05:00",
   "last_new_level_added_at_est": "2026-11-26T07:41:08-05:00",
   "todays_new_levels": [
     {
@@ -14,15 +14,6 @@
     }
   ],
   "updates": [
-    {
-      "tweet_id": "2125646053152354550",
-      "timestamp_utc": "2026-11-25T17:41:26.000Z",
-      "timestamp_est": "2026-11-25T12:41:26-05:00",
-      "tweet_text": "Today has been perfect in #ES_F. 6992 Failed Breakdown was the newsletter long. The 7025 recovery was given free here. Targets given were 7039, 7052, 7072. All Hit. Bonus slate were 7087, 7105, 7150. 7150 next, then we head to 7223, 7306-09 to retest the bull/bear line again https://t.co/REGnh05DGJ",
-      "added_bull_levels": [],
-      "added_bear_levels": [],
-      "notes": "All prices mentioned (6992,7025,7039,7052,7072,7087,7105,7150,7223,7306-09) are prior targets/morning-plan levels or hindsight reaffirmations; no new actionable level introduced."
-    },
     {
       "tweet_id": "2125653556682211352",
       "timestamp_utc": "2026-11-25T18:11:15.000Z",
