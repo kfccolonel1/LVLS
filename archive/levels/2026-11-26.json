@@ -163,7 +163,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is holding a small long runner from today's bounce off 6992 and leans bullish, expecting ES to drift up toward 7306 again during the holiday-shortened Thanksgiving period. He will only add new longs if ES drops hard and then recovers (fails to break) a key low \u2014 he will not chase the current rally. The key dividing line is 7306: above it, bulls begin regaining control and 7405 becomes the next target; below it, bears remain in charge.",
-  "fetched_at": "2026-11-27T12:44:30.137244+00:00",
-  "source_hash": "27d32759f23a65f1"
+  "notes": "Trader is holding a small long runner from the 6992 failed-breakdown trade. He leans that ES can drift up to retest 7306 again (Thanksgiving light-volume drift tends to be green). The key dividing line is 7306: above it bulls regain control and the next targets are 7405 then 7519; below it bears remain in charge. He will only add new longs if ES sells off hard and sets up another failed-breakdown trigger \u2014 no chasing the current bounce.",
+  "fetched_at": "2026-11-27T14:25:32.486086+00:00",
+  "source_hash": "30a840a7e91b9531"
 }
