@@ -1,0 +1,169 @@
+{
+  "session_date": "2026-11-27",
+  "daily_pivot": 7306.25,
+  "regime_hint": "C4",
+  "significant_lows": [
+    7185.0,
+    7150.0,
+    7122.0,
+    7105.0,
+    7086.0,
+    7071.0,
+    7036.0,
+    7025.0,
+    7008.0,
+    6992.0,
+    6984.0,
+    6964.0,
+    6927.0,
+    6900.0,
+    6879.0,
+    6845.0,
+    6821.0,
+    6809.0,
+    6792.0,
+    6772.0,
+    6750.0
+  ],
+  "bull_levels": [
+    {
+      "price": 7208.0,
+      "major": true
+    },
+    {
+      "price": 7223.0,
+      "major": true
+    },
+    {
+      "price": 7238.0,
+      "major": true
+    },
+    {
+      "price": 7277.0,
+      "major": true
+    },
+    {
+      "price": 7307.5,
+      "major": true
+    },
+    {
+      "price": 7334.0,
+      "major": true
+    },
+    {
+      "price": 7362.0,
+      "major": true
+    },
+    {
+      "price": 7405.0,
+      "major": true
+    },
+    {
+      "price": 7424.0,
+      "major": true
+    },
+    {
+      "price": 7457.0,
+      "major": true
+    },
+    {
+      "price": 7472.0,
+      "major": true
+    },
+    {
+      "price": 7519.0,
+      "major": true
+    }
+  ],
+  "bear_levels": [
+    {
+      "price": 7185.0,
+      "major": true
+    },
+    {
+      "price": 7150.0,
+      "major": true
+    },
+    {
+      "price": 7122.0,
+      "major": true
+    },
+    {
+      "price": 7105.0,
+      "major": true
+    },
+    {
+      "price": 7086.0,
+      "major": true
+    },
+    {
+      "price": 7071.0,
+      "major": true
+    },
+    {
+      "price": 7036.0,
+      "major": true
+    },
+    {
+      "price": 7025.0,
+      "major": true
+    },
+    {
+      "price": 7008.0,
+      "major": true
+    },
+    {
+      "price": 6992.0,
+      "major": true
+    },
+    {
+      "price": 6984.0,
+      "major": true
+    },
+    {
+      "price": 6964.0,
+      "major": true
+    },
+    {
+      "price": 6927.0,
+      "major": true
+    },
+    {
+      "price": 6900.0,
+      "major": true
+    },
+    {
+      "price": 6879.0,
+      "major": true
+    },
+    {
+      "price": 6845.0,
+      "major": true
+    },
+    {
+      "price": 6821.0,
+      "major": true
+    },
+    {
+      "price": 6809.0,
+      "major": true
+    },
+    {
+      "price": 6792.0,
+      "major": true
+    },
+    {
+      "price": 6772.0,
+      "major": true
+    },
+    {
+      "price": 6750.0,
+      "major": true
+    }
+  ],
+  "event_times": [],
+  "event_day": false,
+  "notes": "Trader is holding a small long runner from today's bounce off 6992 and leans bullish heading into the holiday-shortened Thursday/Friday sessions. He expects ES to drift up and retest the 7306-09 zone, then potentially push to 7405. The key dividing line is 7306-09: above it bulls regain control and can target 7405 and 7519; below it bears remain in charge. He will only add new longs on a clean failed-breakdown setup and will not chase the current rally.",
+  "fetched_at": "2026-11-27T14:54:49.577404+00:00",
+  "source_hash": "9f9a100a7cf3b836"
+}
