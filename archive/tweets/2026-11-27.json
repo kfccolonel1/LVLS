@@ -54,5 +54,14 @@
     "added_bull_levels": [],
     "added_bear_levels": [],
     "notes": "Pure commentary on market structure/acceptance. No price levels named, no actionable triggers or entries mentioned."
+  },
+  {
+    "tweet_id": "2126363130355691586",
+    "timestamp_est": "2026-11-27T12:10:50-05:00",
+    "timestamp_utc": "2026-11-27T17:10:50.000Z",
+    "tweet_text": "Note: Newsletter was just sent early with next set of entries including a strength add. 7309, 7334, 7365, then 7405 are next for this leg",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "7309 is new numerically but all others (7334, 7365\u22487362, 7405) are morning-plan levels; 7309 reads as a newsletter entry sequence ref, not a standalone actionable new major level."
   }
 ]
