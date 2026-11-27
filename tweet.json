@@ -1,22 +1,11 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-27T12:32:00.162435+00:00",
-  "fetched_at_est": "2026-11-27T07:32:00.162435-05:00",
+  "fetched_at_utc": "2026-11-27T12:41:35.849679+00:00",
+  "fetched_at_est": "2026-11-27T07:41:35.849679-05:00",
   "last_new_level_added_at_est": "",
   "todays_new_levels": [],
   "updates": [
-    {
-      "tweet_id": "2125932868878615034",
-      "timestamp_utc": "2026-11-26T12:41:08.000Z",
-      "timestamp_est": "2026-11-26T07:41:08-05:00",
-      "tweet_text": "NYSE closed today and #ES_F closes at 1pm. The last long was the 6993 Sunday low Failed Breakdown given in newsletter. Today we just ride the runner on this. Targets were given here live: 7087, 7105, 7150, 7223. All hit\n\nPlan: 7277 is next, then 7295, 7306-09. 7216/23=support https://t.co/hm4OmENs6j",
-      "added_bull_levels": [
-        7295.0
-      ],
-      "added_bear_levels": [],
-      "notes": "7295 named as next target ('then 7295') not in morning plan. 7277, 7306-09, 7216/23 are all existing morning-plan levels."
-    },
     {
       "tweet_id": "2125994482630074518",
       "timestamp_utc": "2026-11-26T16:45:58.000Z",
