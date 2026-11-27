@@ -187,7 +187,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish and holding a long runner from Wednesday's 6992 failed breakdown. He leans that ES can push up through 7306-7309 and then target 7365, 7405, and 7519. He will look to add longs only on a sharp pullback into key supports (7223, 7150, 7086, 7008) if a failed breakdown sets up. The key pivot is 7306-7309: above it bulls regain control and higher targets come into play; below it the market remains in a sell-bounce pattern.",
-  "fetched_at": "2026-11-27T22:56:46.011005+00:00",
-  "source_hash": "e91bd512ac1629e8"
+  "notes": "Trader is holding a long runner from Wednesday's 6992 Failed Breakdown and leans bullish. He wants ES to reclaim 7306-7309, which is the key pivot: above it, bulls target 7365, 7405, then 7519; below 7150, bears take control. He will only add longs on new Failed Breakdowns (e.g. at 7223 or 7008), not by chasing. No new newsletter Tuesday Dec 1st.",
+  "fetched_at": "2026-11-27T23:46:21.506277+00:00",
+  "source_hash": "97013333c4fb6059"
 }
