@@ -1,10 +1,18 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-27T12:41:35.849679+00:00",
-  "fetched_at_est": "2026-11-27T07:41:35.849679-05:00",
-  "last_new_level_added_at_est": "",
-  "todays_new_levels": [],
+  "fetched_at_utc": "2026-11-27T12:46:05.489029+00:00",
+  "fetched_at_est": "2026-11-27T07:46:05.489042-05:00",
+  "last_new_level_added_at_est": "2026-11-27T07:42:19-05:00",
+  "todays_new_levels": [
+    {
+      "price": 7252.0,
+      "side": "bear",
+      "added_at_est": "2026-11-27T07:42:19-05:00",
+      "expires_at_est": "2026-11-27T15:42:19-05:00",
+      "from_tweet_id": "2126295555479335039"
+    }
+  ],
   "updates": [
     {
       "tweet_id": "2125994482630074518",
@@ -70,6 +78,26 @@
         "text": "@AdamMancini4 Flag broke",
         "created_at": "2026-11-27T02:18:23.000Z"
       }
+    },
+    {
+      "tweet_id": "2126295555479335039",
+      "timestamp_utc": "2026-11-27T12:42:19.000Z",
+      "timestamp_est": "2026-11-27T07:42:19-05:00",
+      "tweet_text": "Another short session in #ES_F, but the plan played out to 100% perfection. We got long Wednesday on the 6992 Failed Breakdown. Yesterday morn - here &amp; newsletter - I made the target crystal clear. The 7309 backtest (hit).\n\nPlan: Ride runner. 7334, 7362, 7405 bonus. 7252=support https://t.co/LTQbcpRB5o",
+      "added_bull_levels": [],
+      "added_bear_levels": [
+        7252.0
+      ],
+      "notes": "7252 named explicitly as 'support' \u2014 not in morning plan. All other prices (7334, 7362, 7405, 6992, 7309) are morning-plan reaffirmations or observations."
+    },
+    {
+      "tweet_id": "2126295727772934466",
+      "timestamp_utc": "2026-11-27T12:43:00.000Z",
+      "timestamp_est": "2026-11-27T07:43:00-05:00",
+      "tweet_text": "Excerpt from last newsletter when we were down at 7200 https://t.co/lXG7utVZQG",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Tweet is a hindsight reference to a prior newsletter excerpt with no actionable price named explicitly in the tweet text itself."
     }
   ]
 }
