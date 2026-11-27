@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-30",
-  "daily_pivot": 7309.0,
+  "daily_pivot": 7306.0,
   "regime_hint": "C4",
   "significant_lows": [
     7255.0,
@@ -187,7 +187,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish and holding a long runner from Wednesday's 6992 Failed Breakdown. He leans toward ES recovering 7306-09, then pushing to 7365, 7405, and 7519. The key pivot is 7309 (the shelf lost on Nov 19): above it bulls regain control and higher targets come into play; below it bears stay in charge. He will look to add longs only on a clean Failed Breakdown, with 7223 and 7008 as the most actionable dip zones if ES sells off.",
-  "fetched_at": "2026-11-27T21:05:36.604673+00:00",
-  "source_hash": "ff6de4314f3cb90d"
+  "notes": "Trader is bullish, still holding a long runner from Wednesday's 6992 Failed Breakdown. He expects ES to reclaim 7306-7309 and then push toward 7365, 7405, and 7519. The key pivot is 7306-7309: above it bulls regain control and higher targets come into play; below it the rally stalls. He will only add new longs on a Failed Breakdown setup, with 7223 and 7008 as his best downside entry zones if ES sells off again.",
+  "fetched_at": "2026-11-27T21:26:03.919355+00:00",
+  "source_hash": "66eb70be324f4459"
 }
