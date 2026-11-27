@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-27T18:37:39.523348+00:00",
-  "fetched_at_est": "2026-11-27T13:37:39.523353-05:00",
+  "fetched_at_utc": "2026-11-27T18:39:40.592403+00:00",
+  "fetched_at_est": "2026-11-27T13:39:40.592403-05:00",
   "last_new_level_added_at_est": "2026-11-27T07:42:19-05:00",
   "todays_new_levels": [
     {
@@ -134,7 +134,13 @@
       "tweet_text": "@Jbuehler777 Still relevant. Structures are always relevant they don't go away. They just give us zones to trade around. We are now back inside it and have backtested from above which opens up higher",
       "added_bull_levels": [],
       "added_bear_levels": [],
-      "notes": "No specific price named; purely contextual commentary about structure and backtest behavior with no actionable level introduced."
+      "notes": "No specific price levels named; tweet is directional commentary about structure/backtest with no actionable price cited.",
+      "reply_to": {
+        "tweet_id": "2126368196081094742",
+        "username": "Jbuehler777",
+        "text": "@AdamMancini4 That was a nice week, great signals.\n\nWondering about Megaphone. Is it still relevant? Looks we got back inside, but price have bounced out and in several times now.\n\nDoes it still have some power and would a \"failed Breakout\" out of it be very bullish calling for top test?",
+        "created_at": "2026-11-27T17:30:58.000Z"
+      }
     }
   ]
 }
