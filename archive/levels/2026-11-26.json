@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-26",
-  "daily_pivot": 7306.0,
+  "daily_pivot": 7306.25,
   "regime_hint": "C4",
   "significant_lows": [
     7185.0,
@@ -163,7 +163,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is holding a small long runner from today's bounce off 6992 and leans bullish, expecting ES to drift up toward 7306-7309 again over the holiday-shortened Thursday/Friday sessions. The key pivot is 7306-7309: bulls regain control above it and can then push toward 7405 and 7519; bears stay in charge below it. If ES drops back hard, the trader waits for a failed breakdown setup near 6992-7008 before adding any new longs.",
-  "fetched_at": "2026-11-25T22:28:08.381667+00:00",
-  "source_hash": "cf09e5378fcd7bde"
+  "notes": "Trader is holding a small long runner from today's bounce off 6992 and leans bullish, expecting ES to drift up toward 7306-7309 again over the holiday-shortened session. He will only add new longs if ES drops hard and then triggers a failed breakdown at a key support. The pivot is 7306-7309: bulls regain control above it (opening paths to 7405 and 7519), while bears remain in charge below it.",
+  "fetched_at": "2026-11-27T12:34:05.587466+00:00",
+  "source_hash": "c070312b8ef68e41"
 }
