@@ -8,7 +8,7 @@
       7295.0
     ],
     "added_bear_levels": [],
-    "notes": "7295 is named as a new sequential target ('then 7295') not in the morning plan. 7277, 7306-09, 7216/23 are all existing morning-plan levels."
+    "notes": "7295 named as next target ('then 7295') not in morning plan. 7277, 7306-09, 7216/23 are all existing morning-plan levels."
   },
   {
     "tweet_id": "2125994482630074518",
@@ -17,7 +17,7 @@
     "tweet_text": "@OnTheHooch Its a little riskier but generally fine as long as theres no huge resistances nearby. Really just have to read the momentum etc, so hard to establish a general rule for that one",
     "added_bull_levels": [],
     "added_bear_levels": [],
-    "notes": "Conversational reply about trade management philosophy; no price levels named or referenced whatsoever."
+    "notes": "Conversational reply about trade management philosophy; no price levels named or actionable triggers mentioned."
   },
   {
     "tweet_id": "2125997798382612850",
@@ -28,7 +28,7 @@
       7295.0
     ],
     "added_bear_levels": [],
-    "notes": "7295 named as a next target level not in morning plan. 7223/16 and 7277 and 7306-09 are reaffirmations of published levels (7223, 7277, 7307.5)."
+    "notes": "7295 named as a new intermediate target ('then 7295') not in morning plan. 7223/7277/7306-09 are all reaffirmations of published levels."
   },
   {
     "tweet_id": "2125997864853610771",
@@ -37,7 +37,7 @@
     "tweet_text": "Note: Newsletter was sent yesterday and applies for today and tomorrow",
     "added_bull_levels": [],
     "added_bear_levels": [],
-    "notes": "No prices mentioned at all; tweet is purely administrative, noting newsletter applicability for today and tomorrow."
+    "notes": "No prices named; tweet is purely administrative, referencing newsletter validity window. No actionable levels introduced."
   },
   {
     "tweet_id": "2126142009421238495",
@@ -46,7 +46,7 @@
     "tweet_text": "@narc4ever Perfect follow through!",
     "added_bull_levels": [],
     "added_bear_levels": [],
-    "notes": "Reply tweet with no price levels mentioned at all \u2014 purely conversational congratulation with zero actionable content."
+    "notes": "Reply tweet with no price levels named, purely a congratulatory comment with no actionable information."
   },
   {
     "tweet_id": "2126163926010483166",
@@ -55,6 +55,6 @@
     "tweet_text": "@bcooper10111 Certainly did!",
     "added_bull_levels": [],
     "added_bear_levels": [],
-    "notes": "Tweet is a casual conversational reply ('Certainly did!') with no price levels, no actionable language, and no new levels of any kind."
+    "notes": "Tweet is a casual conversational reply ('Certainly did!') with no price levels, no actionable language, and no naming of any level whatsoever."
   }
 ]
