@@ -1,0 +1,22 @@
+[
+  {
+    "tweet_id": "2126295555479335039",
+    "timestamp_est": "2026-11-27T07:42:19-05:00",
+    "timestamp_utc": "2026-11-27T12:42:19.000Z",
+    "tweet_text": "Another short session in #ES_F, but the plan played out to 100% perfection. We got long Wednesday on the 6992 Failed Breakdown. Yesterday morn - here &amp; newsletter - I made the target crystal clear. The 7309 backtest (hit).\n\nPlan: Ride runner. 7334, 7362, 7405 bonus. 7252=support https://t.co/LTQbcpRB5o",
+    "added_bull_levels": [],
+    "added_bear_levels": [
+      7252.0
+    ],
+    "notes": "7252 named explicitly as 'support' \u2014 not in morning plan. All other prices (7334, 7362, 7405, 6992, 7309) are morning-plan reaffirmations or observations."
+  },
+  {
+    "tweet_id": "2126295727772934466",
+    "timestamp_est": "2026-11-27T07:43:00-05:00",
+    "timestamp_utc": "2026-11-27T12:43:00.000Z",
+    "tweet_text": "Excerpt from last newsletter when we were down at 7200 https://t.co/lXG7utVZQG",
+    "added_bull_levels": [],
+    "added_bear_levels": [],
+    "notes": "Tweet is a hindsight reference to a prior newsletter excerpt with no actionable price named explicitly in the tweet text itself."
+  }
+]
