@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-27T17:14:21.581942+00:00",
-  "fetched_at_est": "2026-11-27T12:14:21.581942-05:00",
+  "fetched_at_utc": "2026-11-27T18:37:39.523348+00:00",
+  "fetched_at_est": "2026-11-27T13:37:39.523353-05:00",
   "last_new_level_added_at_est": "2026-11-27T07:42:19-05:00",
   "todays_new_levels": [
     {
@@ -126,6 +126,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "7309 is new numerically but all others (7334, 7365\u22487362, 7405) are morning-plan levels; 7309 reads as a newsletter entry sequence reference, not a standalone actionable intraday level named with trigger language."
+    },
+    {
+      "tweet_id": "2126384633684087152",
+      "timestamp_utc": "2026-11-27T18:36:17.000Z",
+      "timestamp_est": "2026-11-27T13:36:17-05:00",
+      "tweet_text": "@Jbuehler777 Still relevant. Structures are always relevant they don't go away. They just give us zones to trade around. We are now back inside it and have backtested from above which opens up higher",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "No specific price named; purely contextual commentary about structure and backtest behavior with no actionable level introduced."
     }
   ]
 }
