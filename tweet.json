@@ -1,8 +1,8 @@
 {
   "window_hours": 24,
   "new_level_life_hours": 8,
-  "fetched_at_utc": "2026-11-27T15:43:35.275556+00:00",
-  "fetched_at_est": "2026-11-27T10:43:35.275556-05:00",
+  "fetched_at_utc": "2026-11-27T15:56:57.449713+00:00",
+  "fetched_at_est": "2026-11-27T10:56:57.449718-05:00",
   "last_new_level_added_at_est": "2026-11-27T07:42:19-05:00",
   "todays_new_levels": [
     {
@@ -137,6 +137,15 @@
       "added_bull_levels": [],
       "added_bear_levels": [],
       "notes": "All prices mentioned (6992, 7309, 7334, 7250) are either morning-plan levels, hindsight references to prior trades, or observations of price action \u2014 no new actionable levels named."
+    },
+    {
+      "tweet_id": "2126344250140827721",
+      "timestamp_utc": "2026-11-27T15:55:49.000Z",
+      "timestamp_est": "2026-11-27T10:55:49-05:00",
+      "tweet_text": "@Bluepit_80 Yes, structure looking very healthy for bulls now with the extensive acceptance",
+      "added_bull_levels": [],
+      "added_bear_levels": [],
+      "notes": "Pure commentary on market structure/acceptance \u2014 no price named, no actionable level introduced."
     }
   ]
 }
