@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-30",
-  "daily_pivot": 7306.75,
+  "daily_pivot": 7306.0,
   "regime_hint": "C4",
   "significant_lows": [
     7255.0,
@@ -187,7 +187,7 @@
   ],
   "event_times": [],
   "event_day": false,
-  "notes": "Trader is bullish, still holding a long runner from Wednesday's 6992 failed breakdown. He expects ES to reclaim 7306-7309 and then push toward 7365, 7405, and 7519. The key pivot is 7306-7309: above it bulls regain control and higher targets come into play; below it bears maintain pressure. He will only add longs on new failed breakdowns at lower support levels, not by chasing current prices.",
-  "fetched_at": "2026-11-28T09:57:31.790377+00:00",
-  "source_hash": "e5f550cf5e2e7fe0"
+  "notes": "Trader is bullish and holding a long runner from Wednesday's 6992 bounce. He expects ES to reclaim 7306-7309, then push toward 7365, 7405, and 7519. He will look to add longs on failed breakdowns at 7223 or lower if ES sells off. The key pivot is 7306-7309: above it bulls gain control and higher targets come into play; below it the rally stalls and bears stay in charge.",
+  "fetched_at": "2026-11-28T13:58:28.773002+00:00",
+  "source_hash": "85b1319dc893ec75"
 }
